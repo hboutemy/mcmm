@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for daemon framework</name>
+      <prefix>daemon</prefix>
+      <artifactId>daemon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Dvalin interconnect maven plugin for source generation</name>
+      <prefix>interconnect</prefix>
+      <artifactId>interconnect-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>redmine-maven-plugin Maven Mojo</name>
+      <prefix>redmine</prefix>
+      <artifactId>redmine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Upload artifact to AWS S3</name>
+      <prefix>s3upload</prefix>
+      <artifactId>s3upload-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

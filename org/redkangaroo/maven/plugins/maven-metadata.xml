@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Properties Files Mojos</name>
+      <prefix>properties-files-mojos</prefix>
+      <artifactId>properties-files-mojos</artifactId>
+    </plugin>
+    <plugin>
+      <name>Resource Bundle Generator Maven Plugin</name>
+      <prefix>rb-generator</prefix>
+      <artifactId>rb-generator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

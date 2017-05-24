@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven License Verifier Plugin</name>
+      <prefix>license-verifier</prefix>
+      <artifactId>maven-license-verifier-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

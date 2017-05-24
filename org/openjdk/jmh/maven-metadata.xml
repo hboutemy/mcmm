@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JMH Generator Maven Plugin</name>
+      <prefix>jmh-generator</prefix>
+      <artifactId>jmh-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

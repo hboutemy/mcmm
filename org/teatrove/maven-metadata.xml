@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PackageInfo Maven Mojo</name>
+      <prefix>package-info</prefix>
+      <artifactId>package-info-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tea Compiler Maven Mojo</name>
+      <prefix>teacompiler</prefix>
+      <artifactId>teacompiler-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

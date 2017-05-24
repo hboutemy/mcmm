@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>External Build Dir Maven Mojo</name>
+      <prefix>external-build</prefix>
+      <artifactId>external-build-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

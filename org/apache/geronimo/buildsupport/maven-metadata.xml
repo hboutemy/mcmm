@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Geronimo Build Support :: Plugin</name>
+      <prefix>buildsupport</prefix>
+      <artifactId>buildsupport-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: CAR</name>
+      <prefix>car</prefix>
+      <artifactId>car-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: Testsuite Archetype</name>
+      <prefix>geronimo-archetype-testsuite</prefix>
+      <artifactId>geronimo-archetype-testsuite</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: Geronimo</name>
+      <prefix>geronimo</prefix>
+      <artifactId>geronimo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: OSGi Plugin</name>
+      <prefix>geronimo-osgi</prefix>
+      <artifactId>geronimo-osgi-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: Set Property Plugin</name>
+      <prefix>geronimo-property</prefix>
+      <artifactId>geronimo-property-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Build Support :: Testsuite Plugin</name>
+      <prefix>testsuite</prefix>
+      <artifactId>testsuite-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

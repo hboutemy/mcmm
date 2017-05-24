@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Start Stubble Maven Plugin</name>
+      <prefix>start-stubble</prefix>
+      <artifactId>start-stubble-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>start-stubble_2.10</prefix>
+      <artifactId>start-stubble-plugin_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>start-stubble_2.9.2</prefix>
+      <artifactId>start-stubble-plugin_2.9.2</artifactId>
+    </plugin>
+    <plugin>
+      <name>Stop Stubble Maven Plugin</name>
+      <prefix>stop-stubble</prefix>
+      <artifactId>stop-stubble-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>stop-stubble_2.10</prefix>
+      <artifactId>stop-stubble-plugin_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>stop-stubble_2.9.2</prefix>
+      <artifactId>stop-stubble-plugin_2.9.2</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

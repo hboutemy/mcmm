@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sonar-basic-plugin-archetype</name>
+      <prefix>sonar-basic-plugin-archetype</prefix>
+      <artifactId>sonar-basic-plugin-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>sonar-gwt-plugin-archetype</name>
+      <prefix>sonar-gwt-plugin-archetype</prefix>
+      <artifactId>sonar-gwt-plugin-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

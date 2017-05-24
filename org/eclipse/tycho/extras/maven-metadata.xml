@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Target Platform Validation Plugin</name>
+      <prefix>target-platform-validation</prefix>
+      <artifactId>target-platform-validation-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Target Platform Validation Plugin (Incubation)</name>
+      <prefix>target-platform-validation</prefix>
+      <artifactId>target-platform-validation-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>tycho-custom-bundle</prefix>
+      <artifactId>tycho-custom-bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Document Bundle Plugin</name>
+      <prefix>tycho-document-bundle</prefix>
+      <artifactId>tycho-document-bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Eclipserun Plugin</name>
+      <prefix>tycho-eclipserun</prefix>
+      <artifactId>tycho-eclipserun-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Eclipserun Plugin (Incubation)</name>
+      <prefix>tycho-eclipserun</prefix>
+      <artifactId>tycho-eclipserun-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Emma Coverage Plugin (Incubation)</name>
+      <prefix>tycho-emma-coverage</prefix>
+      <artifactId>tycho-emma-coverage-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>p2 Extras Plugin</name>
+      <prefix>tycho-p2-extras</prefix>
+      <artifactId>tycho-p2-extras-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>p2 Extras Plugin (Incubation)</name>
+      <prefix>tycho-p2-extras</prefix>
+      <artifactId>tycho-p2-extras-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pack200 Normalization Plugin</name>
+      <prefix>tycho-pack200a</prefix>
+      <artifactId>tycho-pack200a-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pack200 Normalization Plugin (Incubation)</name>
+      <prefix>tycho-pack200a</prefix>
+      <artifactId>tycho-pack200a-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pack200 Pack Plugin</name>
+      <prefix>tycho-pack200b</prefix>
+      <artifactId>tycho-pack200b-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pack200 Pack Plugin (Incubation)</name>
+      <prefix>tycho-pack200b</prefix>
+      <artifactId>tycho-pack200b-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Source Feature Generation Plugin</name>
+      <prefix>tycho-source-feature</prefix>
+      <artifactId>tycho-source-feature-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Source Feature Generation Plugin (Incubation)</name>
+      <prefix>tycho-source-feature</prefix>
+      <artifactId>tycho-source-feature-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Version Bump Plugin</name>
+      <prefix>tycho-version-bump</prefix>
+      <artifactId>tycho-version-bump-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

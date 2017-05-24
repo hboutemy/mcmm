@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Xenei Contract Tests - Maven Plugin</name>
+      <prefix>contract-test</prefix>
+      <artifactId>contract-test-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

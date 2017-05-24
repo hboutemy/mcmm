@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>RAML JAX-RS Maven Plug-in</name>
+      <prefix>raml-jaxrs</prefix>
+      <artifactId>raml-jaxrs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

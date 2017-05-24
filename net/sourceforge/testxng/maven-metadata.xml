@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TestXNG Plugin for Maven</name>
+      <prefix>testxng</prefix>
+      <artifactId>maven-testxng-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

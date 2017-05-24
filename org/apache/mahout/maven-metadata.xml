@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Mojo to generate code for collections</name>
+      <prefix>mahout-collection-codegen</prefix>
+      <artifactId>mahout-collection-codegen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CKPackager Maven plugin</name>
+      <prefix>ckpackager</prefix>
+      <artifactId>ckpackager-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rhino jsc Maven plugin</name>
+      <prefix>jsc</prefix>
+      <artifactId>jsc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

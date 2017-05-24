@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HAL Tooling API Doc HTML Maven Plugin</name>
+      <prefix>hal-tooling-api-doc-html</prefix>
+      <artifactId>hal-tooling-api-doc-html-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>HAL Tooling API Doc Maven Plugin</name>
+      <prefix>hal-tooling-api-doc</prefix>
+      <artifactId>hal-tooling-api-doc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

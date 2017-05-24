@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sonar Maven report plugin</name>
+      <prefix>report</prefix>
+      <artifactId>maven-report</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonar PDF Report Maven Plugin</name>
+      <prefix>pdf-report</prefix>
+      <artifactId>pdf-report</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

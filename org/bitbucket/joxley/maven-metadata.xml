@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>getdown-maven-plugin</name>
+      <prefix>getdown</prefix>
+      <artifactId>getdown-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wix-maven-plugin Maven Mojo</name>
+      <prefix>wix</prefix>
+      <artifactId>wix-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Lucene Plugin</name>
+      <prefix>lucene</prefix>
+      <artifactId>maven-lucene-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

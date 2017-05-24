@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>atlassian</prefix>
+      <artifactId>atlassian-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>snippets</prefix>
+      <artifactId>snippets-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>tools</prefix>
+      <artifactId>tools-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>use-webjars</prefix>
+      <artifactId>use-webjars-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

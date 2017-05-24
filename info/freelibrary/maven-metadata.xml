@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FreeLibrary Utilities</name>
+      <prefix>freelib-utils</prefix>
+      <artifactId>freelib-utils</artifactId>
+    </plugin>
+    <plugin>
+      <name>llp2jlp Maven Plugin</name>
+      <prefix>llp2jlp</prefix>
+      <artifactId>llp2jlp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

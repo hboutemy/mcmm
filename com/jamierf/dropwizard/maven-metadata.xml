@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Dropwizard Debian packaging Maven plugin</name>
+      <prefix>dropwizard-debpkg</prefix>
+      <artifactId>dropwizard-debpkg-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

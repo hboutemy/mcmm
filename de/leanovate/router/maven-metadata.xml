@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>router :: maven-plugin</name>
+      <prefix>router-generator</prefix>
+      <artifactId>router-generator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

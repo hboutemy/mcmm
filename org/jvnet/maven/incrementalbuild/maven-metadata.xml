@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Incremental-build-plugin Maven Mojo</name>
+      <prefix>incremental-build</prefix>
+      <artifactId>incremental-build-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

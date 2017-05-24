@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ScalaTest Maven Plugin</name>
+      <prefix>scalatest</prefix>
+      <artifactId>scalatest-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

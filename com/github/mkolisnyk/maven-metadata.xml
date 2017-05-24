@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>aerial</prefix>
+      <artifactId>aerial-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>cucumber-reporting-maven-plugin</name>
+      <prefix>cucumber-reporting</prefix>
+      <artifactId>cucumber-reporting-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Muto</name>
+      <prefix>muto</prefix>
+      <artifactId>muto</artifactId>
+    </plugin>
+    <plugin>
+      <name>sirius-maven-plugin</name>
+      <prefix>sirius</prefix>
+      <artifactId>sirius-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

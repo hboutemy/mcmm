@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Custom Properties Maven Plugin</name>
+      <prefix>custom-properties</prefix>
+      <artifactId>custom-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

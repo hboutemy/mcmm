@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>In-Memory Database Plugin</name>
+      <prefix>inmemdb</prefix>
+      <artifactId>inmemdb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

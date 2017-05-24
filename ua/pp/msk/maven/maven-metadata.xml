@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Dependency publish maven pluing</name>
+      <prefix>dependency-publish</prefix>
+      <artifactId>dependency-publish-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

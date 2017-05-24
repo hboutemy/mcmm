@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>checksum-maven-plugin</name>
+      <prefix>checksum</prefix>
+      <artifactId>checksum-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-checksum-plugin</name>
+      <prefix>checksum</prefix>
+      <artifactId>maven-checksum-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>soot-maven-plugin</name>
+      <prefix>soot</prefix>
+      <artifactId>soot-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vagrant Maven plugin</name>
+      <prefix>vagrant</prefix>
+      <artifactId>vagrant-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

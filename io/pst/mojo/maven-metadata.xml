@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>S3 Static Uploader Plugin</name>
+      <prefix>s3-static-uploader</prefix>
+      <artifactId>s3-static-uploader-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

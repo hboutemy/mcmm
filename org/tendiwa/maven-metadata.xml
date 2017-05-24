@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>git-version-insert-maven-plugin Maven Mojo</name>
+      <prefix>git-version-insert</prefix>
+      <artifactId>git-version-insert-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

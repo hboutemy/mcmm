@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>APT Repository Generator</name>
+      <prefix>apt-repo</prefix>
+      <artifactId>apt-repo</artifactId>
+    </plugin>
+    <plugin>
+      <name>Release Version Build Helper</name>
+      <prefix>release-version</prefix>
+      <artifactId>release-version</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

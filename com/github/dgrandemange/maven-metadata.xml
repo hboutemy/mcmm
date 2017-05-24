@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Transaction manager flow doc generator plugin</name>
+      <prefix>txnmgrflow-docgen</prefix>
+      <artifactId>txnmgrflow-docgen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

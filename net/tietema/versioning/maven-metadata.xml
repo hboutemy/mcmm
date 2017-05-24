@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Versioning Maven Plugin</name>
+      <prefix>versioning</prefix>
+      <artifactId>versioning-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

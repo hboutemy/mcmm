@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>No Primitives Maven Plugin</name>
+      <prefix>no-primitives</prefix>
+      <artifactId>no-primitives-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Semantic Wrapper Maven Plugin</name>
+      <prefix>semantic-wrapper</prefix>
+      <artifactId>semantic-wrapper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

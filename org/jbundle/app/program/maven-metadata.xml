@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jbundle-app-program-plugin Maven Mojo</name>
+      <prefix>org.jbundle.app.program.</prefix>
+      <artifactId>org.jbundle.app.program.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>amit-maven-plugin Maven Mojo</name>
+      <prefix>amit-maven-plugin</prefix>
+      <artifactId>amit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>amit-maven-plugin Maven Mojo</name>
+      <prefix>amit</prefix>
+      <artifactId>amit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Wildfly Extension Installer Maven Plugin</name>
+      <prefix>wildfly-extension</prefix>
+      <artifactId>wildfly-extension-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WildFly Maven Plugin</name>
+      <prefix>wildfly</prefix>
+      <artifactId>wildfly-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

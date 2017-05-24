@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <plugins>
+    <plugin>
+      <prefix>instrumentation</prefix>
+      <artifactId>instrumentation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>osgi-validator</prefix>
+      <artifactId>osgi-validator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

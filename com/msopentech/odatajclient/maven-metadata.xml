@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Client OData library for Java: POJOs generator</name>
+      <prefix>odatajclient</prefix>
+      <artifactId>odatajclient-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

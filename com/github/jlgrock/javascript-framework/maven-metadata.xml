@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Closure Compiler Maven Plugin</name>
+      <prefix>closure-compiler</prefix>
+      <artifactId>closure-compiler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Closure Testing Maven Plugin</name>
+      <prefix>closure-testing</prefix>
+      <artifactId>closure-testing-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Closure Testing Report Maven Plugin</name>
+      <prefix>closure-testing-report</prefix>
+      <artifactId>closure-testing-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jsar Maven Plugin</name>
+      <prefix>jsar</prefix>
+      <artifactId>jsar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JS Dependency Plugin</name>
+      <prefix>jsdependency</prefix>
+      <artifactId>jsdependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaScript Framework</name>
+      <prefix>jsdocs</prefix>
+      <artifactId>jsdocs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JS Preprocessor</name>
+      <prefix>jspreprocessor</prefix>
+      <artifactId>jspreprocessor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Source Archive Maven Plugin</name>
+      <prefix>source-archive</prefix>
+      <artifactId>source-archive-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Source Overlay Maven Plugin</name>
+      <prefix>source-overlay</prefix>
+      <artifactId>source-overlay-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

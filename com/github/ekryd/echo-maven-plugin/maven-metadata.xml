@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Echo Maven plugin</name>
+      <prefix>echo</prefix>
+      <artifactId>echo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

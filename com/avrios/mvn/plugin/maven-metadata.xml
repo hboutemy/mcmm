@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Properties To Json Maven Plugin</name>
+      <prefix>properties2json</prefix>
+      <artifactId>properties2json</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

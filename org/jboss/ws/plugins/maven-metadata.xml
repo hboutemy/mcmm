@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JBoss Web Services - JAX-WS Tools Maven Plugin</name>
+      <prefix>jaxws-tools</prefix>
+      <artifactId>jaxws-tools-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss Web Services - JAX-WS Tools Maven Plugin</name>
+      <prefix>jaxws-tools</prefix>
+      <artifactId>maven-jaxws-tools-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Buildmetadata Maven Plugin</name>
+      <prefix>buildmetadata</prefix>
+      <artifactId>buildmetadata-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>smartics-jboss-modules</prefix>
+      <artifactId>smartics-jboss-modules-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

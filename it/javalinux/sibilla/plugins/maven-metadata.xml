@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sibilla Test Maven Plugin</name>
+      <prefix>sibilla</prefix>
+      <artifactId>maven-sibilla-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

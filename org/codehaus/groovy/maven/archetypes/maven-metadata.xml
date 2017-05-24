@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GMaven Archetypes :: Basic</name>
+      <prefix>gmaven-archetype-basic</prefix>
+      <artifactId>gmaven-archetype-basic</artifactId>
+    </plugin>
+    <plugin>
+      <name>GMaven Archetypes :: Mojo</name>
+      <prefix>gmaven-archetype-mojo</prefix>
+      <artifactId>gmaven-archetype-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

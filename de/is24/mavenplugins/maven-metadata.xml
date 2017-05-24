@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>deadcode4j Maven Plugin</name>
+      <prefix>deadcode</prefix>
+      <artifactId>deadcode-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>deadcode4j Maven Plugin</name>
+      <prefix>deadcode4j</prefix>
+      <artifactId>deadcode4j-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

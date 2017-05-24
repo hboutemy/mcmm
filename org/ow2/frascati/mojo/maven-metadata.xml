@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OW2 FraSCAti: Compiler Maven Plugin</name>
+      <prefix>frascati-compiler</prefix>
+      <artifactId>frascati-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 FraSCAti: Contribution Maven Plugin</name>
+      <prefix>frascati-contribution</prefix>
+      <artifactId>frascati-contribution-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 FraSCAti: Launcher Maven Plugin</name>
+      <prefix>frascati-launcher</prefix>
+      <artifactId>frascati-launcher-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

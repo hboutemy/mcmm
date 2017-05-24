@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>State Machine Compiler (SMC) Maven Plugin</name>
+      <prefix>smc</prefix>
+      <artifactId>smc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

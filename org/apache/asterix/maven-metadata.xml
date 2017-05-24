@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>asterix-evaluator-generator-maven-plugin</name>
+      <prefix>asterix-evaluator-generator</prefix>
+      <artifactId>asterix-evaluator-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>asterix-grammar-extension</prefix>
+      <artifactId>asterix-grammar-extension-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>asterix-test-datagenerator-maven-plugin</name>
+      <prefix>asterix-test-datagenerator</prefix>
+      <artifactId>asterix-test-datagenerator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>lexer-generator-maven-plugin</name>
+      <prefix>lexer-generator</prefix>
+      <artifactId>lexer-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>record-manager-generator-maven-plugin</name>
+      <prefix>record-manager-generator</prefix>
+      <artifactId>record-manager-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AWS tools maven plugin (S3 upload)</name>
+      <prefix>aws-tools</prefix>
+      <artifactId>aws-tools-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

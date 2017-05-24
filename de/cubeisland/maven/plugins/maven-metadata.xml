@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>githead</prefix>
+      <artifactId>githead-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>messageextractor</prefix>
+      <artifactId>messageextractor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>bootstrap-maven-lugin</name>
+      <prefix>bootstrap</prefix>
+      <artifactId>bootstrap-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>celerio-maven-plugin</name>
+      <prefix>celerio</prefix>
+      <artifactId>celerio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>dbmetadata-maven-plugin</name>
+      <prefix>dbmetadata</prefix>
+      <artifactId>dbmetadata-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

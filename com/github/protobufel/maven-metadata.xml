@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Resource Friendly Maven Exec Plugin</name>
+      <prefix>resource-exec</prefix>
+      <artifactId>resource-exec-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

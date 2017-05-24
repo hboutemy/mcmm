@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-mrpopo-plugin</name>
+      <prefix>mrpopo</prefix>
+      <artifactId>maven-mrpopo-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven WalkMod Plugin</name>
+      <prefix>walkmod</prefix>
+      <artifactId>maven-walkmod-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>gitflow-helper-maven-plugin</name>
+      <prefix>gitflow-helper</prefix>
+      <artifactId>gitflow-helper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

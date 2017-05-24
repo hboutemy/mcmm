@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-rindirect-plugin</name>
+      <prefix>rindirect</prefix>
+      <artifactId>maven-rindirect-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

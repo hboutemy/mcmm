@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>.Net build plugin project</name>
+      <prefix>dotnet</prefix>
+      <artifactId>maven-dotnet-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

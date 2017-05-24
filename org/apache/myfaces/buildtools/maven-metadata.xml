@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>MyFaces Archetype</name>
+      <prefix>myfaces-archetype-helloworld</prefix>
+      <artifactId>myfaces-archetype-helloworld</artifactId>
+    </plugin>
+    <plugin>
+      <name>MyFaces Archetype Facelets</name>
+      <prefix>myfaces-archetype-helloworld-facelets</prefix>
+      <artifactId>myfaces-archetype-helloworld-facelets</artifactId>
+    </plugin>
+    <plugin>
+      <name>MyFaces Portlet Archetype</name>
+      <prefix>myfaces-archetype-helloworld-portlets</prefix>
+      <artifactId>myfaces-archetype-helloworld-portlets</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSF Components Library Archetype</name>
+      <prefix>myfaces-archetype-jsfcomponents</prefix>
+      <artifactId>myfaces-archetype-jsfcomponents</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Trinidad Archetype</name>
+      <prefix>myfaces-archetype-trinidad</prefix>
+      <artifactId>myfaces-archetype-trinidad</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Builder Plugin</name>
+      <prefix>myfaces-builder</prefix>
+      <artifactId>myfaces-builder-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Faces Plugin</name>
+      <prefix>myfaces-faces</prefix>
+      <artifactId>myfaces-faces-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 i18n Plugin</name>
+      <prefix>myfaces-i18n</prefix>
+      <artifactId>myfaces-i18n-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Javacc Plugin</name>
+      <prefix>myfaces-javacc</prefix>
+      <artifactId>myfaces-javacc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Javascript Plugin</name>
+      <prefix>myfaces-javascript</prefix>
+      <artifactId>myfaces-javascript-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 JDev Plugin</name>
+      <prefix>myfaces-jdev</prefix>
+      <artifactId>myfaces-jdev-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Javascript Documentation Plugin</name>
+      <prefix>myfaces-jsdoc</prefix>
+      <artifactId>myfaces-jsdoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Tag Documentation Report</name>
+      <prefix>myfaces-tagdoc</prefix>
+      <artifactId>myfaces-tagdoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 Wagon Plugin</name>
+      <prefix>myfaces-wagon</prefix>
+      <artifactId>myfaces-wagon-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Buildtools Maven2 XRTS Plugin</name>
+      <prefix>myfaces-xrts</prefix>
+      <artifactId>myfaces-xrts-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

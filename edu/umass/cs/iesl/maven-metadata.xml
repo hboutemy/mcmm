@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JFlex Scala Maven Plugin</name>
+      <prefix>jflex-scala</prefix>
+      <artifactId>jflex-scala-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JFlex Test Suite Maven Plugin</name>
+      <prefix>jflex-testsuite</prefix>
+      <artifactId>jflex-testsuite-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JFlex Unicode Maven Plugin</name>
+      <prefix>jflex-unicode</prefix>
+      <artifactId>jflex-unicode-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Protoc Plugin for Protoc and Prettypb</name>
+      <prefix>protoc</prefix>
+      <artifactId>maven-protoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Protoc Plugin for Protoc and Prettypb</name>
+      <prefix>protoc</prefix>
+      <artifactId>protoc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

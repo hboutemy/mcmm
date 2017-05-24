@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Transcoder Maven Plugin</name>
+      <prefix>transcoder</prefix>
+      <artifactId>maven-transcoder-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

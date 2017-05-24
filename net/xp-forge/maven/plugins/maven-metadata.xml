@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven XP-Framework plugin</name>
+      <prefix>xpframework</prefix>
+      <artifactId>maven-xpframework-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for XP-Framework</name>
+      <prefix>xp</prefix>
+      <artifactId>xp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

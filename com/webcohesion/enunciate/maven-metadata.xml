@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Enunciate - Maven Plugin</name>
+      <prefix>enunciate</prefix>
+      <artifactId>enunciate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enunciate - Slim Maven Plugin</name>
+      <prefix>enunciate-slim</prefix>
+      <artifactId>enunciate-slim-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

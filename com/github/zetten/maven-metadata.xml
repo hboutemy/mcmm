@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Xvfb Maven Plugin</name>
+      <prefix>xvfb</prefix>
+      <artifactId>xvfb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

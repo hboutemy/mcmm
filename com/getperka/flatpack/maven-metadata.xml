@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>API Documentation Plugin</name>
+      <prefix>flatpack-apidoc</prefix>
+      <artifactId>flatpack-apidoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>FlatPack Automatic Source Tool Plugin</name>
+      <prefix>flatpack-fast</prefix>
+      <artifactId>flatpack-fast-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Schema Repository Maven Client Plugin</name>
+      <prefix>schema-repo</prefix>
+      <artifactId>schema-repo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JBossAS Maven Control Plugin</name>
+      <prefix>jboss-as-control</prefix>
+      <artifactId>maven-jboss-as-control-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

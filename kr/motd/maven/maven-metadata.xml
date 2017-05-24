@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>exec-maven-plugin</name>
+      <prefix>exec</prefix>
+      <artifactId>exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>os-maven-plugin</name>
+      <prefix>os</prefix>
+      <artifactId>os-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sphinx-maven-plugin</name>
+      <prefix>sphinx</prefix>
+      <artifactId>sphinx-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

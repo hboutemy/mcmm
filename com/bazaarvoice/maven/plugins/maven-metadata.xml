@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>BV Customized Version of Mojo's Cassandra Maven Plugin</name>
+      <prefix>cassandra</prefix>
+      <artifactId>cassandra-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Process execution maven plugin</name>
+      <prefix>process-exec</prefix>
+      <artifactId>process-exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>S3 upload maven plugin</name>
+      <prefix>s3-upload</prefix>
+      <artifactId>s3-upload-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>s3repo-maven-plugin</name>
+      <prefix>s3repo</prefix>
+      <artifactId>s3repo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

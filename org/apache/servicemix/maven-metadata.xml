@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Servicemix :: Build</name>
+      <prefix>build</prefix>
+      <artifactId>build</artifactId>
+    </plugin>
+    <plugin>
+      <name>Servicemix :: Build</name>
+      <prefix>servicemix-build</prefix>
+      <artifactId>servicemix-build</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

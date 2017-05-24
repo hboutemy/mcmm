@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Spoon Maven Plugin</name>
+      <prefix>spoon</prefix>
+      <artifactId>spoon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>winstone-maven-plugin Maven Mojo</name>
+      <prefix>winstone</prefix>
+      <artifactId>winstone-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>YUI Compressor Maven Mojo</name>
+      <prefix>yuicompressor</prefix>
+      <artifactId>yuicompressor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Lift Maven Plugin</name>
+      <prefix>lift</prefix>
+      <artifactId>maven-lift-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

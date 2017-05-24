@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven MyBatis migration plugin</name>
+      <prefix>migration</prefix>
+      <artifactId>maven-migration-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MyBatis Migrations Maven plugin</name>
+      <prefix>migration</prefix>
+      <artifactId>migrations-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MyBatis Migrations Maven plugin</name>
+      <prefix>migrations</prefix>
+      <artifactId>migrations-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

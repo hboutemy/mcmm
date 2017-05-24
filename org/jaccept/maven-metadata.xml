@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven2 reporting plugin</name>
+      <prefix>jaccept</prefix>
+      <artifactId>jaccept-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven2 reporting plugin</name>
+      <prefix>jaccept</prefix>
+      <artifactId>maven-jaccept-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cloudy Maven Plugin</name>
+      <prefix>cloudy</prefix>
+      <artifactId>cloudy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Developer Oriented Presentation Engine Maven Plugin</name>
+      <prefix>dope</prefix>
+      <artifactId>dope-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>drm-maven</name>
+      <prefix>drm</prefix>
+      <artifactId>drm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Willow maven integration</name>
+      <prefix>willow</prefix>
+      <artifactId>willow-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

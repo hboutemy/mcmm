@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Everit - Maven OSGi plugin</name>
+      <prefix>eosgi</prefix>
+      <artifactId>eosgi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Everit - LQMG Maven Plugin</name>
+      <prefix>generate</prefix>
+      <artifactId>lqmg-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Everit - LQMG Maven Plugin</name>
+      <prefix>lqmg</prefix>
+      <artifactId>lqmg-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>spring-data-generator</prefix>
+      <artifactId>spring-data-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

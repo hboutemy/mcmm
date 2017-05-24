@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven GAE Plugin</name>
+      <prefix>gae</prefix>
+      <artifactId>maven-gae-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

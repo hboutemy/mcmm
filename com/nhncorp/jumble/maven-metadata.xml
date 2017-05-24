@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jumble Maven PlugIn</name>
+      <prefix>jumble</prefix>
+      <artifactId>jumble-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jumble Maven PlugIn</name>
+      <prefix>jumble</prefix>
+      <artifactId>maven-jumble-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

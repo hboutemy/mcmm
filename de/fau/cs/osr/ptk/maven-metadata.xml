@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PTK - NodeGen Maven Plugin</name>
+      <prefix>ptk-nodegen</prefix>
+      <artifactId>ptk-nodegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PTK - PrinterGen Maven Plugin</name>
+      <prefix>ptk-printergen</prefix>
+      <artifactId>ptk-printergen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

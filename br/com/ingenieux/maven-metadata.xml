@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>apigateway</prefix>
+      <artifactId>apigateway-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>beanstalk</prefix>
+      <artifactId>beanstalk-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>cloudformation</prefix>
+      <artifactId>cloudformation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>cloudfront</prefix>
+      <artifactId>cloudfront-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>jbake</prefix>
+      <artifactId>jbake-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>lambda</prefix>
+      <artifactId>lambda-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>mapreduce</prefix>
+      <artifactId>mapreduce-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>simpledb</prefix>
+      <artifactId>simpledb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

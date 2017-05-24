@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JSON Schema generator Maven plugin</name>
+      <prefix>json-schema-generator</prefix>
+      <artifactId>json-schema-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

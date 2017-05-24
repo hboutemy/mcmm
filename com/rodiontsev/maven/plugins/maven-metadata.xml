@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Build Info Maven Plugin</name>
+      <prefix>build-info</prefix>
+      <artifactId>build-info-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Build Info Plugin</name>
+      <prefix>build-info</prefix>
+      <artifactId>maven-build-info-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

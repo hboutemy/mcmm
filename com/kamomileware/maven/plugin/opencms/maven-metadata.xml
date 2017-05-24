@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenCms Command Line Maven Plugin</name>
+      <prefix>opencms-cli</prefix>
+      <artifactId>opencms-cli-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>opencms-module-maven-plugin - OpenCms Module Maven Plugin</name>
+      <prefix>opencms-module</prefix>
+      <artifactId>opencms-module-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

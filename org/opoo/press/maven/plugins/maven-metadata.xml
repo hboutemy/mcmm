@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpooPress Framework :: opoopress-archetype-plugin</name>
+      <prefix>opoopress-archetype</prefix>
+      <artifactId>opoopress-archetype-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpooPress Framework :: opoopress-maven-plugin</name>
+      <prefix>opoopress</prefix>
+      <artifactId>opoopress-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpooPress Framework :: theme-maven-plugin</name>
+      <prefix>theme</prefix>
+      <artifactId>theme-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

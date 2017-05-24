@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Directory Studio Plugin</name>
+      <prefix>studio</prefix>
+      <artifactId>maven-studio-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Directory Studio Plugin</name>
+      <prefix>studio</prefix>
+      <artifactId>studio-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

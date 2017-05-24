@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Coos-plugin-actor-archetype</name>
+      <prefix>coos-plugin-actor</prefix>
+      <artifactId>coos-plugin-actor</artifactId>
+    </plugin>
+    <plugin>
+      <name>Coos-plugin-noapi-archetype</name>
+      <prefix>coos-plugin-noapi</prefix>
+      <artifactId>coos-plugin-noapi</artifactId>
+    </plugin>
+    <plugin>
+      <name>Coos-plugin-api-archetype</name>
+      <prefix>coos-plugin-api</prefix>
+      <artifactId>coos-plugin-api</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

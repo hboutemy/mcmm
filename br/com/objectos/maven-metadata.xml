@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>objectos :: aws :: rds maven plugin</name>
+      <prefix>aws-rds</prefix>
+      <artifactId>aws-rds-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>objectos :: db9 :: maven plugin</name>
+      <prefix>db9</prefix>
+      <artifactId>db9-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>objectos :: masche :: maven plugin</name>
+      <prefix>masche</prefix>
+      <artifactId>masche-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>objectos :: sql :: maven plugin</name>
+      <prefix>sql</prefix>
+      <artifactId>sql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>objectos :: sql :: meta :: maven plugin</name>
+      <prefix>sql-meta</prefix>
+      <artifactId>sql-meta-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

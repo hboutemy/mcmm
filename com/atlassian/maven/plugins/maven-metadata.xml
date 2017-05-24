@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AWS Integration Test Plugin</name>
+      <prefix>aws-integration-test</prefix>
+      <artifactId>aws-integration-test-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Clover Plugin</name>
+      <prefix>clover</prefix>
+      <artifactId>clover-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven AMPS Dispatcher Plugin</name>
+      <prefix>amps-dispatcher</prefix>
+      <artifactId>maven-amps-dispatcher-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven AMPS Plugin</name>
+      <prefix>amps</prefix>
+      <artifactId>maven-amps-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Bamboo Plugin</name>
+      <prefix>bamboo</prefix>
+      <artifactId>maven-bamboo-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Clover Plugin</name>
+      <prefix>clover2</prefix>
+      <artifactId>maven-clover2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Confluence Plugin</name>
+      <prefix>confluence</prefix>
+      <artifactId>maven-confluence-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Crowd Plugin</name>
+      <prefix>crowd</prefix>
+      <artifactId>maven-crowd-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven FishEye/Crucible Plugin</name>
+      <prefix>fecru</prefix>
+      <artifactId>maven-fecru-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JIRA Plugin</name>
+      <prefix>jira</prefix>
+      <artifactId>maven-jira-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Refapp Plugin</name>
+      <prefix>refapp</prefix>
+      <artifactId>maven-refapp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Stash Plugin</name>
+      <prefix>stash</prefix>
+      <artifactId>maven-stash-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Smart Assembly Plugin</name>
+      <prefix>smartass</prefix>
+      <artifactId>smartass-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

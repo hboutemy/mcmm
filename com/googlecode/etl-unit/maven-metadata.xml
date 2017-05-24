@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>etlunit-feature-compiler Maven Mojo</name>
+      <prefix>etlunit-feature-compiler</prefix>
+      <artifactId>etlunit-feature-compiler</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-maven</name>
+      <prefix>etlunit</prefix>
+      <artifactId>etlunit-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-module-mojo Maven Mojo</name>
+      <prefix>etlunit-module-mojo</prefix>
+      <artifactId>etlunit-module-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>regular-expression-compiler Maven Plugin</name>
+      <prefix>regular-expression-compiler</prefix>
+      <artifactId>regular-expression-compiler</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

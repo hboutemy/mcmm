@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Ready! API TestServer Maven Plugin</name>
+      <prefix>testserver</prefix>
+      <artifactId>testserver-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

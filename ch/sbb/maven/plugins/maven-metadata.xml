@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>iib-maven-plugin Maven Mojo</name>
+      <prefix>iib</prefix>
+      <artifactId>iib-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-wmb7-plugin Maven Mojo</name>
+      <prefix>wmb7</prefix>
+      <artifactId>maven-wmb7-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

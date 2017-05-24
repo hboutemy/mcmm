@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>App Engine Maven Plugin</name>
+      <prefix>appengine</prefix>
+      <artifactId>appengine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Endpoints Framework Maven Plugin</name>
+      <prefix>endpoints-framework</prefix>
+      <artifactId>endpoints-framework-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

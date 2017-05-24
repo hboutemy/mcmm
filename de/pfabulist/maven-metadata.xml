@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ianal-but-maven-plugin</name>
+      <prefix>ianal-but</prefix>
+      <artifactId>ianal-but-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>loracle-maven-plugin</name>
+      <prefix>loracle</prefix>
+      <artifactId>loracle-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

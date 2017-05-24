@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>docbook-plugin Maven Mojo</name>
+      <prefix>docbook</prefix>
+      <artifactId>docbook-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>pdf-plugin Maven Mojo</name>
+      <prefix>pdf</prefix>
+      <artifactId>pdf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>scribd-plugin Maven Mojo</name>
+      <prefix>scribd</prefix>
+      <artifactId>scribd-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

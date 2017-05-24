@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Trinidad Maven Faces Plugin</name>
+      <prefix>faces</prefix>
+      <artifactId>maven-faces-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven i18n Plugin</name>
+      <prefix>i18n</prefix>
+      <artifactId>maven-i18n-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven Javacc Plugin</name>
+      <prefix>javacc</prefix>
+      <artifactId>maven-javacc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven Javascript Plugin</name>
+      <prefix>javascript</prefix>
+      <artifactId>maven-javascript-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven JDev Plugin</name>
+      <prefix>jdev</prefix>
+      <artifactId>maven-jdev-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven Tag Documentation Report</name>
+      <prefix>tagdoc</prefix>
+      <artifactId>maven-tagdoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Trinidad Maven XRTS Plugin</name>
+      <prefix>xrts</prefix>
+      <artifactId>maven-xrts-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache MyFaces Trinidad Archetype</name>
+      <prefix>myfaces-archetype-trinidad</prefix>
+      <artifactId>myfaces-archetype-trinidad</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

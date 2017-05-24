@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>tycho.junit.fixer Maven Plugin</name>
+      <prefix>tycho.junit.fixer</prefix>
+      <artifactId>tycho.junit.fixer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

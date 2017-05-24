@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Flatsite Maven2 Plugin</name>
+      <prefix>flatsite</prefix>
+      <artifactId>flatsite-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>S3 Upload Maven Plugin</name>
+      <prefix>s3upload</prefix>
+      <artifactId>s3upload-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>UberJar Maven2 Plugin</name>
+      <prefix>uberjar</prefix>
+      <artifactId>uberjar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

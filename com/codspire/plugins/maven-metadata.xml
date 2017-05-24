@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Artifact Lookup/Search Maven Plugin</name>
+      <prefix>artifact-lookup</prefix>
+      <artifactId>artifact-lookup-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

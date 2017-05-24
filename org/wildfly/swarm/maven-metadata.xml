@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WildFly Swarm: Fraction Plugin</name>
+      <prefix>wildfly-swarm-fraction</prefix>
+      <artifactId>wildfly-swarm-fraction-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WildFly Swarm: Plugin</name>
+      <prefix>wildfly-swarm</prefix>
+      <artifactId>wildfly-swarm-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>lambda-maven-plugin Maven Mojo</name>
+      <prefix>lambda</prefix>
+      <artifactId>lambda-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>lambduh-maven-plugin Maven Mojo</name>
+      <prefix>lambduh</prefix>
+      <artifactId>lambduh-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

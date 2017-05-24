@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Directory Daemon Plugin (Maven 2)</name>
+      <prefix>daemon</prefix>
+      <artifactId>daemon-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

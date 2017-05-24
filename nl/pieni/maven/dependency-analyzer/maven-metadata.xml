@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dependency-analyzer Maven Mojo</name>
+      <prefix>dependency-analyzer</prefix>
+      <artifactId>maven-dependency-analyzer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

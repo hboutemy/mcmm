@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>P2 Bridge :: Maven Plugin</name>
+      <prefix>p2-bridge</prefix>
+      <artifactId>maven-p2-bridge-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Presto Maven Build Extension</name>
+      <prefix>presto</prefix>
+      <artifactId>presto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>proto</prefix>
+      <artifactId>proto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>provisio</prefix>
+      <artifactId>provisio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>takari-lifecycle</prefix>
+      <artifactId>takari-lifecycle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>takaritesting</prefix>
+      <artifactId>takari-plugin-testing-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ebean-maven-plugin</name>
+      <prefix>ebean</prefix>
+      <artifactId>ebean-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>querybean</prefix>
+      <artifactId>querybean-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

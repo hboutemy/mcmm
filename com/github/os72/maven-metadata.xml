@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>protoc-jar-maven-plugin</name>
+      <prefix>protoc-jar</prefix>
+      <artifactId>protoc-jar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

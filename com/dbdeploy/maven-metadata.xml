@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-dbdeploy-plugin</name>
+      <prefix>dbdeploy</prefix>
+      <artifactId>maven-dbdeploy-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

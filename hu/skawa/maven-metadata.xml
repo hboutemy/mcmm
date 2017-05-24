@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven-Bazel Migration Plugin</name>
+      <prefix>migrator</prefix>
+      <artifactId>migrator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

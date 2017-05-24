@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Automatic Changelog Maven Plugin</name>
+      <prefix>autochangelog</prefix>
+      <artifactId>autochangelog-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JsTestDriver Maven Plugin</name>
+      <prefix>jstd</prefix>
+      <artifactId>jstd-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

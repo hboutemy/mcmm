@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mvn2nix</name>
+      <prefix>mvn2nix</prefix>
+      <artifactId>mvn2nix-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

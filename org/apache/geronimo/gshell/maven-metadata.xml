@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JavaCC Maven Plugin</name>
+      <prefix>javacc</prefix>
+      <artifactId>javacc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GShell Maven Plugin</name>
+      <prefix>gshell</prefix>
+      <artifactId>gshell-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

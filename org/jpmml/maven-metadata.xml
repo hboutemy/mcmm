@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JPMML Maven plugin</name>
+      <prefix>pmml</prefix>
+      <artifactId>pmml-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>echocat Daemon Maven Plugin</name>
+      <prefix>daemon</prefix>
+      <artifactId>daemon-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

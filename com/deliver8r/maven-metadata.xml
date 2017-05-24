@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Redline Maven Plugin</name>
+      <prefix>redline</prefix>
+      <artifactId>redline-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Service Wrapper Maven Plugin</name>
+      <prefix>servicewrapper</prefix>
+      <artifactId>servicewrapper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

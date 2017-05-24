@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jtransc build jar maven plugin</name>
+      <prefix>jtransc-buildjar</prefix>
+      <artifactId>jtransc-buildjar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jtransc maven plugin</name>
+      <prefix>jtransc</prefix>
+      <artifactId>jtransc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Reusable style for docbkx</name>
+      <prefix>wikbook.docbkxstyle</prefix>
+      <artifactId>wikbook.docbkxstyle</artifactId>
+    </plugin>
+    <plugin>
+      <name>Wikbook html2pdf plugin</name>
+      <prefix>wikbook.html2pdf</prefix>
+      <artifactId>wikbook.html2pdf</artifactId>
+    </plugin>
+    <plugin>
+      <name>Wikbook maven plugin</name>
+      <prefix>wikbook.</prefix>
+      <artifactId>wikbook.maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>XMAPack mojo for openXma</name>
+      <prefix>xmapack</prefix>
+      <artifactId>xmapack</artifactId>
+    </plugin>
+    <plugin>
+      <name>openXma DSL Generator Mojo</name>
+      <prefix>org.openxma.dsl.generator.</prefix>
+      <artifactId>org.openxma.dsl.generator.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>openXma DSL Sample Archetype</name>
+      <prefix>org.openxma.dsl.sample-archetype</prefix>
+      <artifactId>org.openxma.dsl.sample-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>openXMA Dsl Generator Mojo</name>
+      <prefix>dsl-generator-mojo</prefix>
+      <artifactId>dsl-generator-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

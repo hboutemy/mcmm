@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>restrict-maven-plugin Maven Plugin</name>
+      <prefix>restrict-maven-plugin</prefix>
+      <artifactId>restrict-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>restrict-maven-plugin Maven Plugin</name>
+      <prefix>restrict</prefix>
+      <artifactId>restrict-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

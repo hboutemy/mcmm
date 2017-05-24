@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>A simple plugin that supports rendering the book HTML</name>
+      <prefix>book-sitemesh</prefix>
+      <artifactId>book-sitemesh-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

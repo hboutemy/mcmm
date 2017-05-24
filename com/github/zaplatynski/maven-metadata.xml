@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Archive Maven Package Type</name>
+      <prefix>archive-packagetype</prefix>
+      <artifactId>archive-packagetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>FSM Maven Package Type</name>
+      <prefix>fsm-packagetype</prefix>
+      <artifactId>fsm-packagetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

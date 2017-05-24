@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jetty Extra :: Maven Plugin</name>
+      <prefix>jetty</prefix>
+      <artifactId>jetty-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Doctest Maven Mojo</name>
+      <prefix>doctest</prefix>
+      <artifactId>doctest-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

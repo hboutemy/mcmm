@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Property-Enum-Plugin</name>
+      <prefix>properties-enum</prefix>
+      <artifactId>maven-properties-enum-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

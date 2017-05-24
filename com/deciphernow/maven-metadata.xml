@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bouncy Castle Maven Plugin</name>
+      <prefix>bouncycastle</prefix>
+      <artifactId>bouncycastle-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vault Maven Plugin</name>
+      <prefix>vault</prefix>
+      <artifactId>vault-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

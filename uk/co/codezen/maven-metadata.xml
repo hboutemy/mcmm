@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven composer plugin</name>
+      <prefix>composer</prefix>
+      <artifactId>composer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MVEL templating Maven Mojo</name>
+      <prefix>mvel</prefix>
+      <artifactId>mvel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>React JSX Transformer Maven Mojo</name>
+      <prefix>react-jsxtransformer</prefix>
+      <artifactId>react-jsxtransformer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-redlinerpm-plugin Maven Mojo</name>
+      <prefix>redlinerpm</prefix>
+      <artifactId>redlinerpm-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

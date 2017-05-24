@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mvn-remove-unused-dependencies</name>
+      <prefix>mvn-remove-unused-dependencies</prefix>
+      <artifactId>mvn-remove-unused-dependencies</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

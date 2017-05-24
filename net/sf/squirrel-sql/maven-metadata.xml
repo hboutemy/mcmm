@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SQuirreL SQL Dependency Plugin</name>
+      <prefix>squirrelsql-dependency</prefix>
+      <artifactId>squirrelsql-dependency-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SQuirreLSQL Update Site Maven Mojo</name>
+      <prefix>squirrelsql-update-site</prefix>
+      <artifactId>squirrelsql-update-site-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SQuirreLSQL Version Maven Mojo</name>
+      <prefix>squirrelsql-version</prefix>
+      <artifactId>squirrelsql-version-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

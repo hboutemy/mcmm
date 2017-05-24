@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jetty :: Jetty JSPC Maven Plugin</name>
+      <prefix>jetty-jspc</prefix>
+      <artifactId>jetty-jspc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetty :: Jetty Maven Plugin</name>
+      <prefix>jetty</prefix>
+      <artifactId>jetty-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Jetty JSPC Plugin</name>
+      <prefix>jetty-jspc</prefix>
+      <artifactId>maven-jetty-jspc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Jetty Plugin</name>
+      <prefix>jetty</prefix>
+      <artifactId>maven-jetty-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

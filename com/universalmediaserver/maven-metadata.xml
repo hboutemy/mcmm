@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Crowdin Maven Plugin</name>
+      <prefix>crowdin</prefix>
+      <artifactId>crowdin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>External Dependency Maven Plugin</name>
+      <prefix>external</prefix>
+      <artifactId>external-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

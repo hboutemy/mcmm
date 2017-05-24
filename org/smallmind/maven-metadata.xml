@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven-Jaxws-Mojo</name>
+      <prefix>jaxws-mojo</prefix>
+      <artifactId>maven-jaxws-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>Schema-Validation-Plugin</name>
+      <prefix>schema-validation</prefix>
+      <artifactId>schema-validation-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Smallmind-JavaFX-Mojo</name>
+      <prefix>smallmind-javafx-mojo</prefix>
+      <artifactId>smallmind-javafx-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>License</name>
+      <prefix>smallmind-license</prefix>
+      <artifactId>smallmind-license-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Validation</name>
+      <prefix>smallmind-validation</prefix>
+      <artifactId>smallmind-validation-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spark-Singularity-Mojo</name>
+      <prefix>spark-singularity-mojo</prefix>
+      <artifactId>spark-singularity-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spark-Tanukisoft-Mojo</name>
+      <prefix>spark-tanukisoft-mojo</prefix>
+      <artifactId>spark-tanukisoft-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

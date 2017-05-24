@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Project Graphing Maven Plugin</name>
+      <prefix>graphing</prefix>
+      <artifactId>graphing-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>XmlFresh :: Maven Plugin</name>
+      <prefix>xmlfresh</prefix>
+      <artifactId>xmlfresh-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

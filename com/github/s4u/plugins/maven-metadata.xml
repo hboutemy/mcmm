@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Verify PGP signatures plugin</name>
+      <prefix>pgpverify</prefix>
+      <artifactId>pgpverify-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Sitemap generator plugin</name>
+      <prefix>sitemapxml</prefix>
+      <artifactId>sitemapxml-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

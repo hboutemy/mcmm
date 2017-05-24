@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Python tests Maven Mojo</name>
+      <prefix>python-testexternal</prefix>
+      <artifactId>python-test-maven-plugin-external</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

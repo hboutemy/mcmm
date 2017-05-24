@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jsonschema2pojo-maven-plugin</name>
+      <prefix>jsonschema2pojo</prefix>
+      <artifactId>jsonschema2pojo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

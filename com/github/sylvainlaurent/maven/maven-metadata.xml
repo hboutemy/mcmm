@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>swagger-validator-maven-plugin Maven Plugin</name>
+      <prefix>swagger-validator</prefix>
+      <artifactId>swagger-validator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>yaml-json-validator-maven-plugin Maven Plugin</name>
+      <prefix>yaml-json-validator</prefix>
+      <artifactId>yaml-json-validator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

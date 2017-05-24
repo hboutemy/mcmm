@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for generating JNI headers</name>
+      <prefix>jni-headers</prefix>
+      <artifactId>jni-headers-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ClosureTemplateCompiller Maven Mojo</name>
+      <prefix>ClosureTemplateCompiller</prefix>
+      <artifactId>ClosureTemplateCompiller</artifactId>
+    </plugin>
+    <plugin>
+      <name>fileStructureToJS</name>
+      <prefix>fileStructureToJS</prefix>
+      <artifactId>fileStructureToJS</artifactId>
+    </plugin>
+    <plugin>
+      <name>myLessCSS-maven-plugin Maven Plugin</name>
+      <prefix>nodejs</prefix>
+      <artifactId>myLessCss</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

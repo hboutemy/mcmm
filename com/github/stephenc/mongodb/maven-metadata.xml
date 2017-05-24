@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>MongoDB Maven Plugin</name>
+      <prefix>mongodb</prefix>
+      <artifactId>mongodb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

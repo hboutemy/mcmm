@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WADL Maven Plugin</name>
+      <prefix>wadl-client</prefix>
+      <artifactId>wadl-client-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WADL Maven Plugin</name>
+      <prefix>wadl</prefix>
+      <artifactId>wadl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

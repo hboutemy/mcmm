@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: DD Maven Plugin</name>
+      <prefix>dd</prefix>
+      <artifactId>dd-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: jars.txt Maven Plugin</name>
+      <prefix>jarstxt</prefix>
+      <artifactId>jarstxt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: OpenEJB Embedded Maven Plugin</name>
+      <prefix>openejb-embedded</prefix>
+      <artifactId>openejb-embedded-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: SPI Maven Plugin</name>
+      <prefix>spi-helper</prefix>
+      <artifactId>spi-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: TomEE Embedded Maven Plugin</name>
+      <prefix>tomee-embedded</prefix>
+      <artifactId>tomee-embedded-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEJB :: Maven Plugins :: TomEE Maven Plugin</name>
+      <prefix>tomee</prefix>
+      <artifactId>tomee-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

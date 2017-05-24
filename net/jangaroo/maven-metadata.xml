@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>exml-maven-plugin</name>
+      <prefix>exml</prefix>
+      <artifactId>exml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Plugin: Ext-XML to AS3</name>
+      <prefix>ext-xml</prefix>
+      <artifactId>ext-xml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jangaroo Build Lifecycle + Artifact Handling</name>
+      <prefix>jangaroo-lifecycle</prefix>
+      <artifactId>jangaroo-lifecycle</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jangaroo Maven Plugin</name>
+      <prefix>jangaroo</prefix>
+      <artifactId>jangaroo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>smartsprites-maven-plugin</name>
+      <prefix>jangaroo</prefix>
+      <artifactId>smartsprites-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jangaroo WebJars Maven Plugin</name>
+      <prefix>webjars</prefix>
+      <artifactId>webjars-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Depot Maven Plugin</name>
+      <prefix>depot</prefix>
+      <artifactId>depot-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IKVM Maven Plugin</name>
+      <prefix>ikvm</prefix>
+      <artifactId>ikvm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MonoTouch Maven Plugin</name>
+      <prefix>monotouch</prefix>
+      <artifactId>monotouch-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

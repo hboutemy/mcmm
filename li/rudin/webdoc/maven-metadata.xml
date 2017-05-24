@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>webdoc</prefix>
+      <artifactId>webdoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>webdoc-upload</prefix>
+      <artifactId>webdoc-upload-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

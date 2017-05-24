@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Command Security Plug-in</name>
+      <prefix>command-security</prefix>
+      <artifactId>command-security-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GlassFish Maven Nexus Plugin</name>
+      <prefix>gfnexus</prefix>
+      <artifactId>gfnexus-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GlassFishBuild Maven Plugin</name>
+      <prefix>glassfishbuild</prefix>
+      <artifactId>glassfishbuild-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GlassFish v3 Maven2 plugin</name>
+      <prefix>gf</prefix>
+      <artifactId>maven-glassfishbuild-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spec Version Maven Plugin</name>
+      <prefix>spec-version</prefix>
+      <artifactId>spec-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

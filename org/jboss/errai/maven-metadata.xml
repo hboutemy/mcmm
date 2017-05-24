@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Errai::Cordova::Maven Plugin</name>
+      <prefix>cordova</prefix>
+      <artifactId>cordova-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JaCoCo :: GWT Maven Plugin</name>
+      <prefix>jacoco-gwt</prefix>
+      <artifactId>jacoco-gwt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

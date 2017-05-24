@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>assets-maven-plugin</name>
+      <prefix>assets</prefix>
+      <artifactId>assets-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>handlebars-maven-plugin</name>
+      <prefix>handlebars</prefix>
+      <artifactId>handlebars-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>job-streamer-maven-plugin</name>
+      <prefix>job-streamer</prefix>
+      <artifactId>job-streamer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>waitt</prefix>
+      <artifactId>waitt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

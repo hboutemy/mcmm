@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JVending Masa: maven-aapt-plugin</name>
+      <prefix>aapt</prefix>
+      <artifactId>maven-aapt-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-apkbuilder-plugin</name>
+      <prefix>apkbuilder</prefix>
+      <artifactId>maven-apkbuilder-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-adb-plugin</name>
+      <prefix>adb</prefix>
+      <artifactId>maven-adb-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-aidl-plugin</name>
+      <prefix>aidl</prefix>
+      <artifactId>maven-aidl-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-dx-plugin</name>
+      <prefix>dx</prefix>
+      <artifactId>maven-dx-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-par-plugin</name>
+      <prefix>par</prefix>
+      <artifactId>maven-par-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JVending Masa: maven-platformtest-plugin</name>
+      <prefix>platformtest</prefix>
+      <artifactId>maven-platformtest-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

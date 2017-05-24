@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WildFly: Server Build Tool</name>
+      <prefix>wildfly-build</prefix>
+      <artifactId>wildfly-build-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

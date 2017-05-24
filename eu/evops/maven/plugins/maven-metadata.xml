@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Executes cucumber features in parallel using fork</name>
+      <prefix>cucumber-runner</prefix>
+      <artifactId>cucumber-runner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name></name>
+      <prefix>carrotaws</prefix>
+      <artifactId>carrot-maven-aws-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>carrotbatik</prefix>
+      <artifactId>carrot-maven-batik-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>carrotimage4j</prefix>
+      <artifactId>carrot-maven-image4j-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>carrotimgscalr</prefix>
+      <artifactId>carrot-maven-imgscalr-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>carrotscr</prefix>
+      <artifactId>carrot-maven-scr-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>carrotstaging</prefix>
+      <artifactId>carrot-maven-staging-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

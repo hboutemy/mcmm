@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SonarQube :: Packaging Maven Plugin</name>
+      <prefix>sonar-packaging</prefix>
+      <artifactId>sonar-packaging-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

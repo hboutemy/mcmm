@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cobertura XML Check Maven Plugin</name>
+      <prefix>cobertura-checker</prefix>
+      <artifactId>cobertura-checker</artifactId>
+    </plugin>
+    <plugin>
+      <name>CRX Package Maven Plugin</name>
+      <prefix>crx-packager</prefix>
+      <artifactId>maven-crx-packager-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

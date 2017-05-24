@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Build Configurator Maven Plugin</name>
+      <prefix>build-configurator</prefix>
+      <artifactId>build-configurator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>reFit Maven Plugin</name>
+      <prefix>refit</prefix>
+      <artifactId>refit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>reFit Maven Plugin with Spring Support</name>
+      <prefix>refit-spring</prefix>
+      <artifactId>refit-spring-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

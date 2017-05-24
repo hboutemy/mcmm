@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>docbook-maven-plugin</name>
+      <prefix>docbook</prefix>
+      <artifactId>docbook-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

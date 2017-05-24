@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cargo Maven 2 Plugin</name>
+      <prefix>cargo2</prefix>
+      <artifactId>cargo-maven2-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

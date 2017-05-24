@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JSCover File-System Maven Plugin</name>
+      <prefix>jscover-file</prefix>
+      <artifactId>jscover-file-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSCover Report Maven Plugin</name>
+      <prefix>jscover-report</prefix>
+      <artifactId>jscover-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSCover Server Maven Plugin</name>
+      <prefix>jscover-server</prefix>
+      <artifactId>jscover-server-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

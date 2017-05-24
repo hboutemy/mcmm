@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>aws</prefix>
+      <artifactId>aws-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>decrypt</prefix>
+      <artifactId>decrypt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>state-machine</prefix>
+      <artifactId>state-machine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>xuml-tools</prefix>
+      <artifactId>xuml-tools-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

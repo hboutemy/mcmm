@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JOnAS :: Tools :: Maven :: GenIC plugin</name>
+      <prefix>genic</prefix>
+      <artifactId>maven-genic-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JOnAS :: Tools :: Maven :: Packaging plugin</name>
+      <prefix>packaging</prefix>
+      <artifactId>maven-packaging-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JOnAS :: Tools :: Maven :: WSGen plugin</name>
+      <prefix>wsgen</prefix>
+      <artifactId>maven-wsgen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

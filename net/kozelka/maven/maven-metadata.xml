@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>contentcheck</prefix>
+      <artifactId>contentcheck-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>gitsite</prefix>
+      <artifactId>gitsite-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>npmpack</prefix>
+      <artifactId>npmpack-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>runjar</prefix>
+      <artifactId>runjar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

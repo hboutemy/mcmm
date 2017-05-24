@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>NonDex Maven Plugin</name>
+      <prefix>nondex</prefix>
+      <artifactId>nondex-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

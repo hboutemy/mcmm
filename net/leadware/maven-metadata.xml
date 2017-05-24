@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>hibernate4-maven-plugin Mojo</name>
+      <prefix>hibernate4</prefix>
+      <artifactId>hibernate4-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Velocity Maven Plugin Mojo</name>
+      <prefix>velocity</prefix>
+      <artifactId>velocity-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

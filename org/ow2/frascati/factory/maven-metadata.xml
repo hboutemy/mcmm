@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FraSCAti Assembly Factory: Maven plugin Module</name>
+      <prefix>frascati-factory</prefix>
+      <artifactId>frascati-factory-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>FraSCAti Assembly Maven Plugins: Contribution</name>
+      <prefix>frascati-contribution</prefix>
+      <artifactId>frascati-contribution-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sonar database plugin</name>
+      <prefix>db</prefix>
+      <artifactId>db-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonar maven2 plugin</name>
+      <prefix>sonar</prefix>
+      <artifactId>sonar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

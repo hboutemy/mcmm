@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>fitnesse-maven-runner-plugin</name>
+      <prefix>fitnesserunner</prefix>
+      <artifactId>fitnesse-maven-runner-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

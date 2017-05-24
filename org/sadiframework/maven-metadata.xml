@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SADI service code generator</name>
+      <prefix>sadi-generator</prefix>
+      <artifactId>sadi-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>SADI service tester</name>
+      <prefix>sadi-tester</prefix>
+      <artifactId>sadi-tester</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

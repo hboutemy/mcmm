@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Naked Objects Application Prototype (Archetype)</name>
+      <prefix>application</prefix>
+      <artifactId>application</artifactId>
+    </plugin>
+    <plugin>
+      <name>Naked Objects Icons (Archetype)</name>
+      <prefix>icons</prefix>
+      <artifactId>icons</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

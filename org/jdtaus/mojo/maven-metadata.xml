@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jDTAUS Core Container Mojo</name>
+      <prefix>jdtaus-container-mojo</prefix>
+      <artifactId>jdtaus-container-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>jDTAUS Core ��� Resource Mojo</name>
+      <prefix>jdtaus-resource-mojo</prefix>
+      <artifactId>jdtaus-resource-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

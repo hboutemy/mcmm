@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>fizzed-maven-plugins-play</name>
+      <prefix>fizzed-play</prefix>
+      <artifactId>fizzed-play-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>fizzed-stork</prefix>
+      <artifactId>fizzed-stork-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fizzed-maven-plugins-versionizer</name>
+      <prefix>fizzed-versionizer</prefix>
+      <artifactId>fizzed-versionizer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fizzed-maven-plugins-watcher</name>
+      <prefix>fizzed-watcher</prefix>
+      <artifactId>fizzed-watcher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>rocker-maven-plugin</name>
+      <prefix>rocker</prefix>
+      <artifactId>rocker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>stork-maven-plugin</name>
+      <prefix>stork</prefix>
+      <artifactId>stork-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

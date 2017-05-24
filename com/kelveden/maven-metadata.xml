@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Karma Maven Plugin</name>
+      <prefix>karma</prefix>
+      <artifactId>maven-karma-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Testacular Maven Plugin</name>
+      <prefix>testacular</prefix>
+      <artifactId>testacular-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tycho OSGi Compiler Plugin</name>
+      <prefix>osgi-compiler</prefix>
+      <artifactId>maven-osgi-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Packaging Plugin</name>
+      <prefix>osgi-packaging</prefix>
+      <artifactId>maven-osgi-packaging-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Source Plugin</name>
+      <prefix>osgi-source</prefix>
+      <artifactId>maven-osgi-source-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Test Plugin</name>
+      <prefix>osgi-test</prefix>
+      <artifactId>maven-osgi-test-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Maven Plugin</name>
+      <prefix>tycho</prefix>
+      <artifactId>maven-tycho-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Target Platform Configuration Plugin</name>
+      <prefix>target-platform-configuration</prefix>
+      <artifactId>target-platform-configuration</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>tycho-bootstrap</prefix>
+      <artifactId>tycho-bootstrap-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Emma Coverage Plugin</name>
+      <prefix>tycho-emma-coverage</prefix>
+      <artifactId>tycho-emma-coverage-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Maven Plugin</name>
+      <prefix>tycho</prefix>
+      <artifactId>tycho-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho P2 Director Plugin</name>
+      <prefix>tycho-p2-director</prefix>
+      <artifactId>tycho-p2-director-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho P2 Extras Plugin</name>
+      <prefix>tycho-p2-extras</prefix>
+      <artifactId>tycho-p2-extras-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho P2 Plugin</name>
+      <prefix>tycho-p2</prefix>
+      <artifactId>tycho-p2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho P2 Publisher</name>
+      <prefix>tycho-p2-publisher</prefix>
+      <artifactId>tycho-p2-publisher-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho P2 Repository Plugin</name>
+      <prefix>tycho-p2-repository</prefix>
+      <artifactId>tycho-p2-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>tycho-versions</prefix>
+      <artifactId>tycho-versions-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

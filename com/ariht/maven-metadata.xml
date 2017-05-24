@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>config-generation-maven-plugin</name>
+      <prefix>config-generation</prefix>
+      <artifactId>config-generation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>config-processor-maven-plugin</name>
+      <prefix>config-processor</prefix>
+      <artifactId>config-processor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

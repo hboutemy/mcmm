@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AndroMDA Beautifier Plugin</name>
+      <prefix>andromda-beautifier</prefix>
+      <artifactId>andromda-beautifier-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Bootstrap Install Plugin</name>
+      <prefix>andromda-bootstrap-install</prefix>
+      <artifactId>andromda-bootstrap-install-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Bootstrap Plugin</name>
+      <prefix>andromda-bootstrap</prefix>
+      <artifactId>andromda-bootstrap-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Cartridge Maven Plugin</name>
+      <prefix>andromda-cartridge</prefix>
+      <artifactId>andromda-cartridge-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Distribution Plugin</name>
+      <prefix>andromda-distribution</prefix>
+      <artifactId>andromda-distribution-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Initialize Plugin</name>
+      <prefix>andromda-initialize</prefix>
+      <artifactId>andromda-initialize-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Maven Plugin</name>
+      <prefix>andromda</prefix>
+      <artifactId>andromda-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Model Archiver Plugin</name>
+      <prefix>andromda-model-archiver</prefix>
+      <artifactId>andromda-model-archiver-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Maven Multi-Source Plugin</name>
+      <prefix>andromda-multi-source</prefix>
+      <artifactId>andromda-multi-source-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA SableCC Maven Plugin</name>
+      <prefix>andromda-sablecc</prefix>
+      <artifactId>andromda-sablecc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Translation Library Maven Plugin</name>
+      <prefix>andromda-translation-library</prefix>
+      <artifactId>andromda-translation-library-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA .NET Application Generator Maven Plugin</name>
+      <prefix>andromdanetapp</prefix>
+      <artifactId>andromdanetapp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Application Generator Maven Plugin</name>
+      <prefix>andromdapp</prefix>
+      <artifactId>andromdapp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

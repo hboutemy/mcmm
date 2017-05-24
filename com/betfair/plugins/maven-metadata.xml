@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-test-process-plugin</name>
+      <prefix>test-process</prefix>
+      <artifactId>maven-test-process-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

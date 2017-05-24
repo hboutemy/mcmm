@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven - APT plugin</name>
+      <prefix>apt</prefix>
+      <artifactId>apt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven - APT plugin</name>
+      <prefix>apt</prefix>
+      <artifactId>maven-apt-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven - Version plugin</name>
+      <prefix>version</prefix>
+      <artifactId>version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Anteros Generator Maven Plugin</name>
+      <prefix>Anteros-Generator-Maven-Plugin</prefix>
+      <artifactId>Anteros-Generator-Maven-Plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Anteros Rest Documentation Maven Plugin</name>
+      <prefix>Anteros-RestDoc-Maven-Plugin</prefix>
+      <artifactId>Anteros-RestDoc-Maven-Plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

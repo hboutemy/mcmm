@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Camel CDI :: Maven Plugins :: Camel Maven Run</name>
+      <prefix>camel</prefix>
+      <artifactId>camel-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

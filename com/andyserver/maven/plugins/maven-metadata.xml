@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jenkinsfile Maven Plugin</name>
+      <prefix>jenkinsfile</prefix>
+      <artifactId>jenkinsfile-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>spring-cloud-app-starter-doc</prefix>
+      <artifactId>spring-cloud-app-starter-doc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>spring-cloud-app-starter-metadata</prefix>
+      <artifactId>spring-cloud-app-starter-metadata-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spring Cloud Contract Maven Plugin</name>
+      <prefix>spring-cloud-contract</prefix>
+      <artifactId>spring-cloud-contract-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

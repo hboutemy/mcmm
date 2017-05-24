@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>streamscassandra</prefix>
+      <artifactId>streams-plugin-cassandra</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamselasticsearch</prefix>
+      <artifactId>streams-plugin-elasticsearch</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamshbase</prefix>
+      <artifactId>streams-plugin-hbase</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamshive</prefix>
+      <artifactId>streams-plugin-hive</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamspig</prefix>
+      <artifactId>streams-plugin-pig</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamspojo</prefix>
+      <artifactId>streams-plugin-pojo</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>streamsscala</prefix>
+      <artifactId>streams-plugin-scala</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

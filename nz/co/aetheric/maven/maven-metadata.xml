@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Javascript Compiler Plugin</name>
+      <prefix>compiler-javascript</prefix>
+      <artifactId>plugin-compiler-javascript</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

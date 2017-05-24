@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven External Dependency Plugin</name>
+      <prefix>external-dependency</prefix>
+      <artifactId>maven-external-dependency-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

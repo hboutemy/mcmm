@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven GWT Plugin</name>
+      <prefix>gwt</prefix>
+      <artifactId>maven-gwt-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven unused classes plugin</name>
+      <prefix>unclasses</prefix>
+      <artifactId>maven-unclasses-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

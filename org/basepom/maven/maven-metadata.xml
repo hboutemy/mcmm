@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>duplicate-finder-maven-plugin Maven Mojo</name>
+      <prefix>duplicate-finder</prefix>
+      <artifactId>duplicate-finder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Property Helper Maven Plugin root</name>
+      <prefix>property-helper</prefix>
+      <artifactId>property-helper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven EMF Plugin</name>
+      <prefix>emf</prefix>
+      <artifactId>maven-emf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Eclipse Build Plugin</name>
+      <prefix>eclipsepde</prefix>
+      <artifactId>maven-eclipsepde-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

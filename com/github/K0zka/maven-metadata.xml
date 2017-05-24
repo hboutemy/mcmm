@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Content Gzip Plugin</name>
+      <prefix>contentgzip</prefix>
+      <artifactId>maven-contentgzip-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

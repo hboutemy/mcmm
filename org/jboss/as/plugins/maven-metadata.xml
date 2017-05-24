@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JBoss AS7 Deployment Plugin</name>
+      <prefix>jboss-as-deploy</prefix>
+      <artifactId>jboss-as-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss AS7 Deployment Plugin</name>
+      <prefix>jboss-as</prefix>
+      <artifactId>jboss-as-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

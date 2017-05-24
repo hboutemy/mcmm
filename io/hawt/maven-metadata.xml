@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>hawtio-json-schema-generator</prefix>
+      <artifactId>hawtio-json-schema-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>hawtio</prefix>
+      <artifactId>hawtio-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

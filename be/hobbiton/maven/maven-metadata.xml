@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Linux Packaging Maven Plugin</name>
+      <prefix>linux-packaging</prefix>
+      <artifactId>linux-packaging-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

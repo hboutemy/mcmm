@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>example-archetype</name>
+      <prefix>jsf2-simple-example-archetype</prefix>
+      <artifactId>jsf2-simple-example-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>example-archetype</name>
+      <prefix>jsf2-simple-composite-component-example-archetype</prefix>
+      <artifactId>jsf2-simple-composite-component-example-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

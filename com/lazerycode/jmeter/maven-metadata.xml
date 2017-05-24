@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JMeter Result Analyzer Maven Plugin</name>
+      <prefix>jmeter-analysis</prefix>
+      <artifactId>jmeter-analysis-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JMeter Maven Plugin</name>
+      <prefix>jmeter</prefix>
+      <artifactId>jmeter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OSGi Bundle Status Maven Plugin</name>
+      <prefix>osgi-bundle-status</prefix>
+      <artifactId>osgi-bundle-status-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

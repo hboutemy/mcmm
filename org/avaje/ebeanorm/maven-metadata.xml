@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>avaje-ebeanorm-mavenenhancer: Maven byte code enhancement tool</name>
+      <prefix>avaje-ebeanormenhancer</prefix>
+      <artifactId>avaje-ebeanorm-mavenenhancer</artifactId>
+    </plugin>
+    <plugin>
+      <name>avaje-ebeanorm-mavenenhancer: Maven byte code enhancement tool</name>
+      <prefix>ebean-enhancer</prefix>
+      <artifactId>avaje-ebeanorm-mavenenhancer</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>codegen</prefix>
+      <artifactId>codegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>querybean</prefix>
+      <artifactId>querybean-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>typequery</prefix>
+      <artifactId>typequery-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>jnlp</prefix>
+      <artifactId>jnlp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>repository-jarsign</prefix>
+      <artifactId>repository-jarsign-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

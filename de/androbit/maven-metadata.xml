@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>brainslug-maven-bpmn-plugin</name>
+      <prefix>brainslug</prefix>
+      <artifactId>brainslug-maven-bpmn</artifactId>
+    </plugin>
+    <plugin>
+      <name>brainslug-maven-bpmn-plugin</name>
+      <prefix>brainslugbpmn</prefix>
+      <artifactId>brainslug-maven-bpmn</artifactId>
+    </plugin>
+    <plugin>
+      <name>brainslug-maven-renderer-plugin</name>
+      <prefix>brainslug</prefix>
+      <artifactId>brainslug-maven-renderer</artifactId>
+    </plugin>
+    <plugin>
+      <name>brainslug-maven-renderer-plugin</name>
+      <prefix>brainslugrenderer</prefix>
+      <artifactId>brainslug-maven-renderer</artifactId>
+    </plugin>
+    <plugin>
+      <name>raml converter maven plugin</name>
+      <prefix>raml-converter</prefix>
+      <artifactId>raml-converter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

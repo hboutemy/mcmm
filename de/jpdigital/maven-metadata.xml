@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 4</name>
+      <prefix>hibernate4-ddl</prefix>
+      <artifactId>hibernate4-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 5</name>
+      <prefix>hibernate5-ddl</prefix>
+      <artifactId>hibernate5-ddl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

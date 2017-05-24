@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Pustefix LiveAgent Plugin</name>
+      <prefix>pustefix-agent</prefix>
+      <artifactId>pustefix-agent-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix Generate Plugin</name>
+      <prefix>pustefix-generate</prefix>
+      <artifactId>pustefix-generate-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix IWrapper Class Generation Plugin</name>
+      <prefix>pustefix-iwrapper</prefix>
+      <artifactId>pustefix-iwrapper-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix Pagelist Plugin</name>
+      <prefix>pustefix-pagelist</prefix>
+      <artifactId>pustefix-pagelist-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix Pagelist Plugin</name>
+      <prefix>pustefix-patch</prefix>
+      <artifactId>pustefix-patch-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix resource indexing plugin</name>
+      <prefix>pustefix-resourceindex</prefix>
+      <artifactId>pustefix-resourceindex-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix StatusCode Constants Class Generation Plugin</name>
+      <prefix>pustefix-statuscode</prefix>
+      <artifactId>pustefix-statuscode-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix Validator Plugin</name>
+      <prefix>pustefix-validator</prefix>
+      <artifactId>pustefix-validator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix Webapp Plugin</name>
+      <prefix>pustefix-webapp</prefix>
+      <artifactId>pustefix-webapp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix AJAX webservices Plugin (for JAXWS service stub generation)</name>
+      <prefix>pustefix-webservice</prefix>
+      <artifactId>pustefix-webservice-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pustefix XSLT Plugin</name>
+      <prefix>pustefix-xslt</prefix>
+      <artifactId>pustefix-xslt-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

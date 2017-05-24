@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jmemcached-maven-plugin</name>
+      <prefix>jmemcached</prefix>
+      <artifactId>jmemcached-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

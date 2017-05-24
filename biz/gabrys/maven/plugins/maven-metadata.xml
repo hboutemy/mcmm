@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CSS Splitter Maven Plugin</name>
+      <prefix>css-splitter</prefix>
+      <artifactId>css-splitter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Directory Content Maven Plugin</name>
+      <prefix>directory-content</prefix>
+      <artifactId>directory-content-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>LessCSS Maven Plugin</name>
+      <prefix>lesscss</prefix>
+      <artifactId>lesscss-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

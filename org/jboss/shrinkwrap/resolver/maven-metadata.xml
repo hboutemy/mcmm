@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ShrinkWrap Resolver Maven Plugin</name>
+      <prefix>resolver</prefix>
+      <artifactId>resolver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ShrinkWrap Resolver Maven Plugin</name>
+      <prefix>resolver</prefix>
+      <artifactId>shrinkwrap-resolver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ShrinkWrap Resolver Maven Plugin</name>
+      <prefix>shrinkwrap-resolver</prefix>
+      <artifactId>shrinkwrap-resolver-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

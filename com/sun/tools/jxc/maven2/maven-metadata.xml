@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven JAXB schemagen Plugin</name>
+      <prefix>jaxb-schemagen</prefix>
+      <artifactId>maven-jaxb-schemagen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

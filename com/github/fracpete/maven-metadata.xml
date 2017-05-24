@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>LaTeX Maven Plugin</name>
+      <prefix>latex</prefix>
+      <artifactId>latex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Maven Dependency List Plugin</name>
+      <prefix>dependency-list</prefix>
+      <artifactId>maven-dependency-list-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

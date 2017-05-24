@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>dependency-attach</prefix>
+      <artifactId>dependency-attach-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>install-custom-version</prefix>
+      <artifactId>install-custom-version-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>install-version_override</prefix>
+      <artifactId>install-version_override-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

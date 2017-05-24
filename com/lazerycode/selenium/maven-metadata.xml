@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Selenium Binary Downloader Maven Plugin</name>
+      <prefix>driver-binary-downloader</prefix>
+      <artifactId>driver-binary-downloader-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

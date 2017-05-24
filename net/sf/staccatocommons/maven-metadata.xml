@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Staccato-Commons-Restrictions-Instrument-Maven-Plugin</name>
+      <prefix>commons-restrictions-instrument</prefix>
+      <artifactId>commons-restrictions-instrument-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Staccatissimo-Restrictions-Instrument-Maven-Plugin</name>
+      <prefix>staccatissimo-restrictions-instrument</prefix>
+      <artifactId>staccatissimo-restrictions-instrument-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HoloEverywhere Builder</name>
+      <prefix>builder</prefix>
+      <artifactId>builder</artifactId>
+    </plugin>
+    <plugin>
+      <name>HoloEverywhere ResBuilder</name>
+      <prefix>resbuilder</prefix>
+      <artifactId>resbuilder</artifactId>
+    </plugin>
+    <plugin>
+      <name>HoloEverywhere Translator</name>
+      <prefix>translator</prefix>
+      <artifactId>translator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

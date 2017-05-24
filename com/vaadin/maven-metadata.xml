@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Vaadin Plug-in for Maven</name>
+      <prefix>vaadin</prefix>
+      <artifactId>vaadin-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>scrooge-maven-plugin</name>
+      <prefix>scrooge</prefix>
+      <artifactId>scrooge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>scrooge-maven-plugin</name>
+      <prefix>scrooge_2.10</prefix>
+      <artifactId>scrooge-maven-plugin_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <name>scrooge-maven-plugin</name>
+      <prefix>scrooge_2.9.2</prefix>
+      <artifactId>scrooge-maven-plugin_2.9.2</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

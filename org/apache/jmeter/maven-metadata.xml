@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-jmeter-plugin JDK14 compliant Maven Mojo</name>
+      <prefix>jmeter-jdk14</prefix>
+      <artifactId>maven-jmeter-jdk14-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

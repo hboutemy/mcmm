@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Doxygen Maven Plugin</name>
+      <prefix>doxygen</prefix>
+      <artifactId>doxygen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Echo Plugin</name>
+      <prefix>echo</prefix>
+      <artifactId>echo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>The Iterator Maven Plugin.</name>
+      <prefix>iterator</prefix>
+      <artifactId>iterator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Echo Plugin</name>
+      <prefix>echo</prefix>
+      <artifactId>maven-echo-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>The MultiEnv Maven Plugin</name>
+      <prefix>multienv</prefix>
+      <artifactId>multienv-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>The Up-To-Date Maven Plugin.</name>
+      <prefix>uptodate</prefix>
+      <artifactId>uptodate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

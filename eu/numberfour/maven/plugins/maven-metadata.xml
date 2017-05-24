@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>File Listing Plugin</name>
+      <prefix>file-list</prefix>
+      <artifactId>file-list-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jscoverage to Cobertura XML Plugin</name>
+      <prefix>jscoverage-cobertura</prefix>
+      <artifactId>jscoverage-cobertura-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

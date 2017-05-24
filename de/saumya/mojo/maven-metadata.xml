@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bundler Maven Mojo</name>
+      <prefix>bundler</prefix>
+      <artifactId>bundler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cucumber Maven Mojo</name>
+      <prefix>cucumber</prefix>
+      <artifactId>cucumber-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Gem Maven Mojo</name>
+      <prefix>gem</prefix>
+      <artifactId>gem-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Gemify Maven Mojo</name>
+      <prefix>gemify</prefix>
+      <artifactId>gemify-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby Maven Mojo</name>
+      <prefix>ruby</prefix>
+      <artifactId>jruby-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby Maven Mojo</name>
+      <prefix>jruby</prefix>
+      <artifactId>jruby-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby9 Exec Maven Mojo</name>
+      <prefix>jruby9-exec</prefix>
+      <artifactId>jruby9-exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby9 Jar Maven Mojo</name>
+      <prefix>jruby9-jar</prefix>
+      <artifactId>jruby9-jar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby Exec Maven Mojo</name>
+      <prefix>jruby9</prefix>
+      <artifactId>jruby9-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby9 War Maven Mojo</name>
+      <prefix>jruby9-war</prefix>
+      <artifactId>jruby9-war-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Minitest Maven Mojo</name>
+      <prefix>minitest</prefix>
+      <artifactId>minitest-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rails 2.3.x Maven Mojo</name>
+      <prefix>rails2</prefix>
+      <artifactId>rails2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rails3 Maven Mojo</name>
+      <prefix>rails3</prefix>
+      <artifactId>rails3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rake Maven Mojo</name>
+      <prefix>rake</prefix>
+      <artifactId>rake-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RSpec Maven Mojo</name>
+      <prefix>rspec</prefix>
+      <artifactId>rspec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RUnit Maven Mojo</name>
+      <prefix>runit</prefix>
+      <artifactId>runit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

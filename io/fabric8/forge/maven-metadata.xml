@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fabric8 :: Camel Maven Plugin</name>
+      <prefix>fabric8-camel</prefix>
+      <artifactId>fabric8-camel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric8 :: Forge :: Maven Plugin</name>
+      <prefix>fabric8-forge</prefix>
+      <artifactId>fabric8-forge-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

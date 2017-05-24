@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ravellosystems-maven-plugin</name>
+      <prefix>ravello</prefix>
+      <artifactId>ravellosystems-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ravellosystems-maven-plugin</name>
+      <prefix>ravellosystems</prefix>
+      <artifactId>ravellosystems-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

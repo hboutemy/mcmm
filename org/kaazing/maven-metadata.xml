@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bower Dependency Maven Plugin</name>
+      <prefix>kzversions</prefix>
+      <artifactId>bower-dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Unpack Bower Dependency Maven Plugin</name>
+      <prefix>kzversions</prefix>
+      <artifactId>bower-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>k3po/k3po-maven-plugin</name>
+      <prefix>k3po</prefix>
+      <artifactId>k3po-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kaazing License Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>robot/robot-maven-plugin</name>
+      <prefix>robot</prefix>
+      <artifactId>robot-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>TrustStore Maven Plugin</name>
+      <prefix>truststore</prefix>
+      <artifactId>truststore-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Unpack Bower Dependency Maven Plugin</name>
+      <prefix>kzversions</prefix>
+      <artifactId>unpack-bower-dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Versions Plugin</name>
+      <prefix>kzversions</prefix>
+      <artifactId>version-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

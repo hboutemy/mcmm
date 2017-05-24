@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AHT-Utils - Maven Plugins</name>
+      <prefix>ahtutils</prefix>
+      <artifactId>ahtutils-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>AHT-Utils - Report Compiler</name>
+      <prefix>ahtutils-report</prefix>
+      <artifactId>ahtutils-report</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>search</prefix>
+      <artifactId>search-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>validate</prefix>
+      <artifactId>validate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

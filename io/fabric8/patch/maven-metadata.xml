@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fabric8 :: Patch :: Maven Plugin</name>
+      <prefix>patch</prefix>
+      <artifactId>patch-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Appverse Web Tools JAX-WS Client Code Generator Maven Plugin</name>
+      <prefix>generate-jax-ws-client</prefix>
+      <artifactId>jax-ws-client-stub-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Appverse Web Tools JAX-WS Client Code Generator Maven Plugin</name>
+      <prefix>jax-ws-client-stub-generator</prefix>
+      <artifactId>jax-ws-client-stub-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

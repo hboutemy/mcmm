@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Avrohugger Maven Plugin</name>
+      <prefix>avrohugger_2.11</prefix>
+      <artifactId>avrohugger-maven-plugin_2.11</artifactId>
+    </plugin>
+    <plugin>
+      <name>RPM Systemd Maven Plugin</name>
+      <prefix>rpm-systemd</prefix>
+      <artifactId>rpm-systemd-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

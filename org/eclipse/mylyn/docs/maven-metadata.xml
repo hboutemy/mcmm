@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mylyn WikiText Maven</name>
+      <prefix>org.eclipse.mylyn.wikitext.</prefix>
+      <artifactId>org.eclipse.mylyn.wikitext.maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

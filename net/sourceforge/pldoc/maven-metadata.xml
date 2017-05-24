@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven PLDoc CPD Plugin - ${project.version}</name>
+      <prefix>pldoccpd</prefix>
+      <artifactId>maven-cpd-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven PLDoc CPD Plugin - ${project.version}</name>
+      <prefix>pldoc</prefix>
+      <artifactId>maven-cpd-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven PLDoc Plugin - ${project.version}</name>
+      <prefix>pldoc</prefix>
+      <artifactId>maven-pldoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Maven PMD Plugin for PLSQL</name>
+      <prefix>pldoc-pmd</prefix>
+      <artifactId>pldoc-pmd-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

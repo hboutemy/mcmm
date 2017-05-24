@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Camel :: Diagram Generator :: Maven Generator Plugin</name>
+      <prefix>diagram-generator</prefix>
+      <artifactId>diagram-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Landslide Maven plugin</name>
+      <prefix>landslide</prefix>
+      <artifactId>landslide-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>pdf-helper</prefix>
+      <artifactId>pdf-helper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

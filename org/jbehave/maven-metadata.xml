@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JBehave Maven Plugin</name>
+      <prefix>jbehave</prefix>
+      <artifactId>jbehave-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBehave REST</name>
+      <prefix>jbehave-rest</prefix>
+      <artifactId>jbehave-rest</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

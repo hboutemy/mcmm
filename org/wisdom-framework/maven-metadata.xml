@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>wisdom-asciidoc</prefix>
+      <artifactId>wisdom-asciidoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>wisdom-markdown</prefix>
+      <artifactId>wisdom-markdown-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Wisdom Plugin</name>
+      <prefix>wisdom</prefix>
+      <artifactId>wisdom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>wisdom-myth</prefix>
+      <artifactId>wisdom-myth-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>wisdom-npm-runner</prefix>
+      <artifactId>wisdom-npm-runner-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>wisdom-openjpa-enhancer</prefix>
+      <artifactId>wisdom-openjpa-enhancer-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wisdom-ractivejs-maven-plugin</name>
+      <prefix>wisdom-ractivejs</prefix>
+      <artifactId>wisdom-ractivejs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wisdom-raml-maven-plugin</name>
+      <prefix>wisdom-raml</prefix>
+      <artifactId>wisdom-raml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>wisdom-typescript</prefix>
+      <artifactId>wisdom-typescript-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

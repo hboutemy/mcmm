@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Bathe plugin</name>
+      <prefix>bathe</prefix>
+      <artifactId>bathe-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for branch checks</name>
+      <prefix>branch-check</prefix>
+      <artifactId>branch-check-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for groovydoc</name>
+      <prefix>groovydoc</prefix>
+      <artifactId>groovydoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jaxrs2typescript maven plugin</name>
+      <prefix>jaxrs2typescript</prefix>
+      <artifactId>jaxrs2typescript-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Karma Runner plugin</name>
+      <prefix>karma-runner</prefix>
+      <artifactId>karma-runner-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Release POM Plugin</name>
+      <prefix>release-pom</prefix>
+      <artifactId>release-pom</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

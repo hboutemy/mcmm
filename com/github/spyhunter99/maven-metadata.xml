@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jacoco Aggregated Site Report</name>
+      <prefix>jacoco-report</prefix>
+      <artifactId>jacoco-report-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

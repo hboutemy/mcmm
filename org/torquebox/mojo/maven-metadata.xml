@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JRuby9 Exec Maven Mojo</name>
+      <prefix>jruby9-exec</prefix>
+      <artifactId>jruby9-exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby9 Jar Maven Mojo</name>
+      <prefix>jruby9-jar</prefix>
+      <artifactId>jruby9-jar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby9 War Maven Mojo</name>
+      <prefix>jruby9-war</prefix>
+      <artifactId>jruby9-war-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

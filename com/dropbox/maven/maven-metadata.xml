@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PEM Converter Maven Plugin</name>
+      <prefix>pem-converter</prefix>
+      <artifactId>pem-converter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PEM to JKS Maven Plugin</name>
+      <prefix>pem-to-jks</prefix>
+      <artifactId>pem-to-jks-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

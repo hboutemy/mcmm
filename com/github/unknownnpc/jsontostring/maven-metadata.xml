@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Json2String Maven Plugin</name>
+      <prefix>json-to-string</prefix>
+      <artifactId>json-to-string-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

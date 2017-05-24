@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>jrapidoc-rest</prefix>
+      <artifactId>jrapidoc-rest-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>jrapidoc-soap</prefix>
+      <artifactId>jrapidoc-soap-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

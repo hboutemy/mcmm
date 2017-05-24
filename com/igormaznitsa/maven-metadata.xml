@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Char Sniffer</name>
+      <prefix>char-sniffer</prefix>
+      <artifactId>char-sniffer</artifactId>
+    </plugin>
+    <plugin>
+      <name>Java Comment Preprocessor</name>
+      <prefix>jcp</prefix>
+      <artifactId>jcp</artifactId>
+    </plugin>
+    <plugin>
+      <name>JUte</name>
+      <prefix>jute</prefix>
+      <artifactId>jute</artifactId>
+    </plugin>
+    <plugin>
+      <name>meta-checker</name>
+      <prefix>meta-checker</prefix>
+      <artifactId>meta-checker</artifactId>
+    </plugin>
+    <plugin>
+      <name>mvn-golang-wrapper</name>
+      <prefix>mvn-golang-wrapper</prefix>
+      <artifactId>mvn-golang-wrapper</artifactId>
+    </plugin>
+    <plugin>
+      <name>UberPom</name>
+      <prefix>uber-pom</prefix>
+      <artifactId>uber-pom</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

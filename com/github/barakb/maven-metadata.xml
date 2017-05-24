@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>aggregate-source</name>
+      <prefix>aggregate-source</prefix>
+      <artifactId>aggregate-source</artifactId>
+    </plugin>
+    <plugin>
+      <name>annotations jar plugin</name>
+      <prefix>annotations-jar</prefix>
+      <artifactId>annotations-jar-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>versions-maven-plugin</name>
+      <prefix>versions</prefix>
+      <artifactId>versions-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

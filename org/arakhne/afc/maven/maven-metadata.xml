@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Atomic deployment of files</name>
+      <prefix>atomicdeploy</prefix>
+      <artifactId>atomicdeploy</artifactId>
+    </plugin>
+    <plugin>
+      <name>License Installer Plugin</name>
+      <prefix>license-installer</prefix>
+      <artifactId>license-installer</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaDoc Tag Replacer Plugin</name>
+      <prefix>tag-replacer</prefix>
+      <artifactId>tag-replacer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

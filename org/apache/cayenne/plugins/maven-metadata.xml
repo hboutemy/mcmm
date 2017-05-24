@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>cayenne-maven-plugin: Cayenne Maven Plugin</name>
+      <prefix>cayenne</prefix>
+      <artifactId>cayenne-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>cayenne-modeler-maven-plugin: Cayenne Modeler Maven Plugin</name>
+      <prefix>cayenne-modeler</prefix>
+      <artifactId>cayenne-modeler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cayenne Modeler Maven Plugin</name>
+      <prefix>cayenne-modeler</prefix>
+      <artifactId>maven-cayenne-modeler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-cayenne-plugin: Deprecated Cayenne Maven Plugin</name>
+      <prefix>cayenne</prefix>
+      <artifactId>maven-cayenne-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

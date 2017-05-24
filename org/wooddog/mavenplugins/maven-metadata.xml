@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Keystore Maven Mojo</name>
+      <prefix>keystore</prefix>
+      <artifactId>keystore</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Version Plugin</name>
+      <prefix>version</prefix>
+      <artifactId>version</artifactId>
+    </plugin>
+    <plugin>
+      <name>Confluence Maven Mojo</name>
+      <prefix>confluence</prefix>
+      <artifactId>confluence</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Post Plugin</name>
+      <prefix>post</prefix>
+      <artifactId>post</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

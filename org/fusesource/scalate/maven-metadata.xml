@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Scalate :: LinkChecker :: Maven Plugin</name>
+      <prefix>linkchecker</prefix>
+      <artifactId>maven-linkchecker-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>scalate</prefix>
+      <artifactId>maven-scalate-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>scalate_2.10</prefix>
+      <artifactId>maven-scalate-plugin_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>scalate_2.9</prefix>
+      <artifactId>maven-scalate-plugin_2.9</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

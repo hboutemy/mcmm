@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ActiveMQ Maven Plugin</name>
+      <prefix>activemq</prefix>
+      <artifactId>activemq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>kafka-maven-plugin Maven Plugin</name>
+      <prefix>kafka</prefix>
+      <artifactId>kafka-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

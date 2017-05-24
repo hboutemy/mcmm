@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Jython packaging</name>
+      <prefix>jython-compile</prefix>
+      <artifactId>jython-compile-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>coveralls-extensions-maven-plugin</name>
+      <prefix>coveralls-extensions</prefix>
+      <artifactId>coveralls-extensions-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>jacoco-aggregator</prefix>
+      <artifactId>jacoco-aggregator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Protoc Plugin</name>
+      <prefix>protoc</prefix>
+      <artifactId>protoc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

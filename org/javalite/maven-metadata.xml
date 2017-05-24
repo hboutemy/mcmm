@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JavaLite - Instrumentation Plugin and JavaAgent</name>
+      <prefix>activejdbc-instrumentation</prefix>
+      <artifactId>activejdbc-instrumentation</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveJDBC - Instrumentation Maven Plugin</name>
+      <prefix>activejdbc-instrumentation</prefix>
+      <artifactId>activejdbc-instrumentation</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveWeb - Lessc Maven Plugin</name>
+      <prefix>activeweb-lessc</prefix>
+      <artifactId>activeweb-lessc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaLite - DB-Migrator Maven Plugin</name>
+      <prefix>db-migrator</prefix>
+      <artifactId>db-migrator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaLite - Git Info Maven plugin</name>
+      <prefix>git-info</prefix>
+      <artifactId>git-info-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kuali Coeus Maven Plugin</name>
+      <prefix>kc</prefix>
+      <artifactId>kc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Financials Maven Plugin</name>
+      <prefix>kfs</prefix>
+      <artifactId>kfs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Financials Maven Plugin</name>
+      <prefix>kfs</prefix>
+      <artifactId>kfs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Maven Plugin</name>
+      <prefix>kuali</prefix>
+      <artifactId>kuali-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Liquibase Migrate Plugin</name>
+      <prefix>lb</prefix>
+      <artifactId>lb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>redis-maven-plugin Maven Plugin</name>
+      <prefix>redis</prefix>
+      <artifactId>redis-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

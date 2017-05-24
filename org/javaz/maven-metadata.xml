@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Javaz Deterministic Archive plugin</name>
+      <prefix>detarchive</prefix>
+      <artifactId>detarchive</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mysql misc actions plugin</name>
+      <prefix>mysql-misc</prefix>
+      <artifactId>mysql-misc</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

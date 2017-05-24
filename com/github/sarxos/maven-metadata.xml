@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FASM Compiler Maven Plugin</name>
+      <prefix>fasm-compiler</prefix>
+      <artifactId>fasm-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Overcast Maven Plugin</name>
+      <prefix>overcast</prefix>
+      <artifactId>overcast-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

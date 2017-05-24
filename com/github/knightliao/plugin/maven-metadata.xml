@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>starter-assembly-maven-plugin</name>
+      <prefix>starter-assembly</prefix>
+      <artifactId>starter-assembly-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>starter-shade-maven-plugin</name>
+      <prefix>starter-shade</prefix>
+      <artifactId>starter-shade-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>create-new-bundle Maven Plugin</name>
+      <prefix>chon-generate</prefix>
+      <artifactId>chon-generate</artifactId>
+    </plugin>
+    <plugin>
+      <name>chon-package-plugin Maven Plugin</name>
+      <prefix>chon-package-plugin</prefix>
+      <artifactId>chon-package-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

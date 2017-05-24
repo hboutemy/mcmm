@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>flyway-validator-maven-plugin</name>
+      <prefix>flyway-validator</prefix>
+      <artifactId>flyway-validator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

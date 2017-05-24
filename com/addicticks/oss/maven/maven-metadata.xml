@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HTTPS Upload Maven Plugin</name>
+      <prefix>httpsupload</prefix>
+      <artifactId>httpsupload-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

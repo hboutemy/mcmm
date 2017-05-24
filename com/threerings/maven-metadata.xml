@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Nenya Maven Plugin</name>
+      <prefix>nenya</prefix>
+      <artifactId>nenya-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>TP Convert Flump Libs Plugin</name>
+      <prefix>tripleplay-convert-flump-libs</prefix>
+      <artifactId>tripleplay-convert-flump-libs</artifactId>
+    </plugin>
+    <plugin>
+      <name>Triple Play Tools</name>
+      <prefix>tripleplay</prefix>
+      <artifactId>tripleplay-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

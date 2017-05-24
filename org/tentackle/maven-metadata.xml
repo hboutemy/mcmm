@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tentackle Maven Plugin</name>
+      <prefix>tentackle</prefix>
+      <artifactId>tentackle-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tentackle SQL Maven Plugin</name>
+      <prefix>tentackle-sql</prefix>
+      <artifactId>tentackle-sql-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

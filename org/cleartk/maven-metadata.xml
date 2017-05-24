@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Consistent Versions Plugin</name>
+      <prefix>consistent-versions</prefix>
+      <artifactId>consistent-versions-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JCasGen Maven Plugin</name>
+      <prefix>jcasgen</prefix>
+      <artifactId>jcasgen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

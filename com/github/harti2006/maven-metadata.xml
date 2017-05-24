@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Neo4j Server Maven Plugin</name>
+      <prefix>neo4j-server</prefix>
+      <artifactId>neo4j-server-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

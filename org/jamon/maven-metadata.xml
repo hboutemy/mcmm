@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jamon Maven Plugin</name>
+      <prefix>jamon</prefix>
+      <artifactId>jamon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jamon-nodegen-plugin</name>
+      <prefix>jamon-nodegen</prefix>
+      <artifactId>jamon-nodegen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

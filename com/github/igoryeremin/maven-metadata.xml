@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Doxygen API Report</name>
+      <prefix>doxygen-report</prefix>
+      <artifactId>doxygen-report-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

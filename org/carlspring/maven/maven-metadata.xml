@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Derby Plugin</name>
+      <prefix>derby</prefix>
+      <artifactId>derby-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>LittleProxy Maven Plugin</name>
+      <prefix>little-proxy</prefix>
+      <artifactId>little-proxy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Artifact Relocation Plugin</name>
+      <prefix>relocation</prefix>
+      <artifactId>relocation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>system-properties-maven-plugin</name>
+      <prefix>system-properties</prefix>
+      <artifactId>system-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

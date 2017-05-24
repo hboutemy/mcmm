@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>postgresql-maven-plugin Maven Plugin</name>
+      <prefix>postgresql-maven-plugin</prefix>
+      <artifactId>postgresql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PostgreSQL Maven Plugin</name>
+      <prefix>postgresql</prefix>
+      <artifactId>postgresql-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

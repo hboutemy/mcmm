@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>bom-builder</prefix>
+      <artifactId>bom-builder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Code Coverage Plugin</name>
+      <prefix>code-coverage</prefix>
+      <artifactId>code-coverage-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSP Plugin</name>
+      <prefix>jsp</prefix>
+      <artifactId>jsp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss Buildmagic Thirdparty Repository Maven Plugin</name>
+      <prefix>buildmagic-thirdparty</prefix>
+      <artifactId>maven-buildmagic-thirdparty-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Injection Maven Mojo</name>
+      <prefix>injection</prefix>
+      <artifactId>maven-injection-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss Deploy Maven Plugin</name>
+      <prefix>jboss-deploy</prefix>
+      <artifactId>maven-jboss-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JBoss License Plugin</name>
+      <prefix>jboss-license</prefix>
+      <artifactId>maven-jboss-license-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JBoss Retro Plugin</name>
+      <prefix>jboss-retro</prefix>
+      <artifactId>maven-jboss-retro-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss AOP Maven Plugin</name>
+      <prefix>jbossaop</prefix>
+      <artifactId>maven-jbossaop-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jDocBook Maven Plugin</name>
+      <prefix>jdocbook</prefix>
+      <artifactId>maven-jdocbook-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Docbook Style Plugin</name>
+      <prefix>jdocbook-style</prefix>
+      <artifactId>maven-jdocbook-style-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>QSTools Maven Plugin</name>
+      <prefix>qstools</prefix>
+      <artifactId>maven-qstools-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Test Environment Extension Plugin</name>
+      <prefix>test-ext</prefix>
+      <artifactId>maven-test-ext-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Transformer Maven Mojo</name>
+      <prefix>transformer</prefix>
+      <artifactId>maven-transformer-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Zip Plugin</name>
+      <prefix>zip</prefix>
+      <artifactId>maven-zip-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>QSTools Maven Plugin</name>
+      <prefix>qstools</prefix>
+      <artifactId>qstools</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

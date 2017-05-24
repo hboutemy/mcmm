@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Documentation Generator</name>
+      <prefix>io.sarl..docs.generator</prefix>
+      <artifactId>io.sarl.maven.docs.generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>SRE Generator</name>
+      <prefix>io.sarl..sre</prefix>
+      <artifactId>io.sarl.maven.sre</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Compiler</name>
+      <prefix>sarl</prefix>
+      <artifactId>sarl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

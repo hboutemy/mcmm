@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Closure Compiler Maven Plugin</name>
+      <prefix>closure</prefix>
+      <artifactId>closure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>CSS Minifier Maven Plugin</name>
+      <prefix>css</prefix>
+      <artifactId>css-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Ember Maven Plugin</name>
+      <prefix>ember</prefix>
+      <artifactId>ember-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

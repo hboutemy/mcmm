@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Blackberry 10 Maven Mojo</name>
+      <prefix>blackberry10</prefix>
+      <artifactId>blackberry10-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Image Maven Mojo</name>
+      <prefix>image</prefix>
+      <artifactId>image-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

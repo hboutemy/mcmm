@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Unix Plug-In</name>
+      <prefix>unix</prefix>
+      <artifactId>unix-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Git Log Plugin</name>
+      <prefix>gitlog</prefix>
+      <artifactId>gitlog-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Git Log Plugin</name>
+      <prefix>gitlog</prefix>
+      <artifactId>maven-gitlog-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>The Multi Module Maven Release Plugin</name>
+      <prefix>multi-modulerelease</prefix>
+      <artifactId>multi-module-maven-release-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>multi-module-release</prefix>
+      <artifactId>multi-module-release-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

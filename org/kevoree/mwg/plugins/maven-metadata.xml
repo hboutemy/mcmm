@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mwg :: Plugins :: Model.mavenplugin</name>
+      <prefix></prefix>
+      <artifactId>mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>mwg :: Plugins :: Model.mavenplugin</name>
+      <prefix>model.</prefix>
+      <artifactId>model.mavenplugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

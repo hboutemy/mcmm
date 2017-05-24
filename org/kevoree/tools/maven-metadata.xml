@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kevoree :: Maven :: Settings CI</name>
+      <prefix>org.kevoree..settings.ci</prefix>
+      <artifactId>org.kevoree.maven.settings.ci</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Tools :: Annotation MavenPlugin</name>
+      <prefix>org.kevoree.tools.annotation.</prefix>
+      <artifactId>org.kevoree.tools.annotation.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Tools :: MarShell MavenPlugin</name>
+      <prefix>org.kevoree.tools.marshell.</prefix>
+      <artifactId>org.kevoree.tools.marshell.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Tools :: MavenPlugin</name>
+      <prefix>kev</prefix>
+      <artifactId>org.kevoree.tools.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Tools :: MavenPlugin</name>
+      <prefix>org.kevoree.tools.</prefix>
+      <artifactId>org.kevoree.tools.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Tools :: Merger MavenPlugin</name>
+      <prefix>org.kevoree.tools.merger.</prefix>
+      <artifactId>org.kevoree.tools.merger.mavenplugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

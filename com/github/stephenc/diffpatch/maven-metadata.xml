@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Diff-Patch Maven Plugin</name>
+      <prefix>diffpatch</prefix>
+      <artifactId>diffpatch-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

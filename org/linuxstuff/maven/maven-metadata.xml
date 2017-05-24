@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Licensing Maven Mojo</name>
+      <prefix>licensing</prefix>
+      <artifactId>licensing-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>trinidad-maven-plugin Maven Mojo</name>
+      <prefix>trinidad</prefix>
+      <artifactId>trinidad-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

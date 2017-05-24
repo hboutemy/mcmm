@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>artifactinfo</prefix>
+      <artifactId>artifactinfo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>flamingo-maven-plugin</name>
+      <prefix>flamingo</prefix>
+      <artifactId>flamingo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>jsw</prefix>
+      <artifactId>jsw-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>ruby</prefix>
+      <artifactId>ruby-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>thirdparties</prefix>
+      <artifactId>thirdparties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

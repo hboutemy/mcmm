@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Whois server list compiler</name>
+      <prefix>whois-server-list</prefix>
+      <artifactId>whois-server-list-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

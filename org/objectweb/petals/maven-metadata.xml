@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Petals Plugins :: Maven JBI</name>
+      <prefix>petals</prefix>
+      <artifactId>maven-petals-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Petals archetype :: JBI binding component archetype</name>
+      <prefix>archetype-petals-jbi-binding-component</prefix>
+      <artifactId>maven-archetype-petals-jbi-binding-component</artifactId>
+    </plugin>
+    <plugin>
+      <name>Petals archetype :: JBI service assembly archetype</name>
+      <prefix>archetype-petals-jbi-service-assembly</prefix>
+      <artifactId>maven-archetype-petals-jbi-service-assembly</artifactId>
+    </plugin>
+    <plugin>
+      <name>Petals archetype :: JBI service engine archetype</name>
+      <prefix>archetype-petals-jbi-service-engine</prefix>
+      <artifactId>maven-archetype-petals-jbi-service-engine</artifactId>
+    </plugin>
+    <plugin>
+      <name>Petals archetype :: JBI service unit archetype</name>
+      <prefix>archetype-petals-jbi-service-unit</prefix>
+      <artifactId>maven-archetype-petals-jbi-service-unit</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Insight Application Health Check Maven Plugin</name>
+      <prefix>ahc</prefix>
+      <artifactId>ahc</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fuzzer Maven Plugin</name>
+      <prefix>fuzzer</prefix>
+      <artifactId>fuzzer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>yarg (Yet Another REST Generator)</name>
+      <prefix>yarg</prefix>
+      <artifactId>yarg</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

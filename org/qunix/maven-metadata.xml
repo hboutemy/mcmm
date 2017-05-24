@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven structure plugin</name>
+      <prefix>structure</prefix>
+      <artifactId>structure-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

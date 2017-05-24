@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ebean-maven-enhancement-plugin: Maven byte code enhancement tool</name>
+      <prefix>ebeanenhancement</prefix>
+      <artifactId>ebean-maven-enhancement-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Smaller :: Clients :: Maven</name>
+      <prefix>smaller</prefix>
+      <artifactId>smaller-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Smaller :: Clients :: Maven Standalone</name>
+      <prefix>smallerstandalone</prefix>
+      <artifactId>smaller-maven-standalone-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Smaller Node Plugin Builder</name>
+      <prefix>smaller-node-builder</prefix>
+      <artifactId>smaller-node-builder-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

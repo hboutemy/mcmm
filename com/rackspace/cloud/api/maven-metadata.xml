@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cloud API Docs Plugin</name>
+      <prefix>clouddocs</prefix>
+      <artifactId>clouddocs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>olink-maven-plugin</name>
+      <prefix>olink</prefix>
+      <artifactId>olink-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rackspace API Documentation Plugin</name>
+      <prefix>rackspace-docs</prefix>
+      <artifactId>rackspace-docs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

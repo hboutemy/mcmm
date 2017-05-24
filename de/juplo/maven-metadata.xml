@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hibernate Maven Plugin</name>
+      <prefix>hibernate</prefix>
+      <artifactId>hibernate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Hibernate 4 Maven Plugin</name>
+      <prefix>hibernate4</prefix>
+      <artifactId>hibernate4-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

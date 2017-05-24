@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ajax4jsf</groupId>
+  <artifactId>cdk</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>compiler</version>
+      <version>generator</version>
+      <version>maven-archetype-jsf-component</version>
+      <version>maven-cdk-plugin</version>
+    </versions>
+    <lastUpdated>20070102172018</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for JSF components code generation</name>
+      <prefix>cdk</prefix>
+      <artifactId>maven-cdk-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

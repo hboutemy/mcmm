@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Konig Diff</name>
+      <prefix>diff</prefix>
+      <artifactId>diff</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig LDP Maven Plugin</name>
+      <prefix>konig-ldp</prefix>
+      <artifactId>konig-ldp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Schema Generator Maven Plugin</name>
+      <prefix>konig-schemagen</prefix>
+      <artifactId>konig-schemagen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig SQL Maven Plugin</name>
+      <prefix>konig-sql-shape</prefix>
+      <artifactId>konig-sql-shape-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Lambada Deploying Plugin</name>
+      <prefix>lambada</prefix>
+      <artifactId>lambada-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Lambada Deploying Plugin</name>
+      <prefix></prefix>
+      <artifactId>maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

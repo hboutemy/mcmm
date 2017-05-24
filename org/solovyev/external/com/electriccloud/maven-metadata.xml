@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Javac2 Maven Plugin</name>
+      <prefix>org.solovyev.external.javac2</prefix>
+      <artifactId>org.solovyev.external.javac2-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name></name>
+      <prefix>spring-cloud-stream-app-documentation</prefix>
+      <artifactId>spring-cloud-stream-app-documentation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>spring-cloud-stream-app-maven-plugin Maven Plugin</name>
+      <prefix>scs</prefix>
+      <artifactId>spring-cloud-stream-app-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>spring-cloud-stream-app-maven-plugin Maven Plugin</name>
+      <prefix>spring-cloud-stream-app</prefix>
+      <artifactId>spring-cloud-stream-app-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

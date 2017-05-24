@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Beanshell Maven Plugin</name>
+      <prefix>bsh</prefix>
+      <artifactId>beanshell-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Beanshell Maven Plugin</name>
+      <prefix>beanshell</prefix>
+      <artifactId>beanshell-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Credentials Maven Plugin</name>
+      <prefix>credentials</prefix>
+      <artifactId>credentials-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

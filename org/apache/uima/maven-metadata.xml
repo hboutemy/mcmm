@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <prefix>PearPackagingMavenPlugin</prefix>
+      <artifactId>PearPackagingMavenPlugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA Maven Plugin ${project.artifactId}</name>
+      <prefix>PearPackagingMavenPlugin</prefix>
+      <artifactId>PearPackagingMavenPlugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <prefix>PearPackagingMavenPlugin</prefix>
+      <artifactId>PearPackagingMavenPlugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <prefix>jcasgen</prefix>
+      <artifactId>jcasgen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <prefix>ruta</prefix>
+      <artifactId>ruta-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>UIMA ${project.artifactId}</name>
+      <prefix>uima-build-helper</prefix>
+      <artifactId>uima-build-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA ${project.artifactId}</name>
+      <prefix>uima-build-helper</prefix>
+      <artifactId>uima-build-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache UIMA uimaFIT - Maven Plugin</name>
+      <prefix>uimafit</prefix>
+      <artifactId>uimafit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

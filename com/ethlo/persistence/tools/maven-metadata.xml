@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Eclipselink Maven Plugin</name>
+      <prefix>eclipselink</prefix>
+      <artifactId>eclipselink-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

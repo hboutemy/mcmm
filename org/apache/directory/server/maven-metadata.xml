@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ApacheDS Bootstrap Plugin</name>
+      <prefix>apacheds-bootstrap</prefix>
+      <artifactId>apacheds-bootstrap-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ApacheDS Core Plugin (Maven 2)</name>
+      <prefix>apacheds-core</prefix>
+      <artifactId>apacheds-core-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ApacheDS Installers Maven Plugin</name>
+      <prefix>apacheds-installers</prefix>
+      <artifactId>apacheds-installers-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ApacheDS Server Sar Maven Plugin</name>
+      <prefix>apacheds-sar</prefix>
+      <artifactId>apacheds-sar-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ApacheDS Schema Archetype</name>
+      <prefix>apacheds-schema-archetype</prefix>
+      <artifactId>apacheds-schema-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>ApacheDS Testcase Archetype</name>
+      <prefix>apacheds-testcase-archetype</prefix>
+      <artifactId>apacheds-testcase-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

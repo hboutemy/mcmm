@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Plexus Maven Plugin</name>
+      <prefix>plexus</prefix>
+      <artifactId>plexus-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plexus App Server Maven Plugin</name>
+      <prefix>plexus-appserver</prefix>
+      <artifactId>plexus-appserver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plexus :: Component Metadata</name>
+      <prefix>plexus-component-metadata</prefix>
+      <artifactId>plexus-component-metadata</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

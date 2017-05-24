@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>brainslug-maven-bpmn-plugin</name>
+      <prefix>brainslugbpmn</prefix>
+      <artifactId>brainslug-maven-bpmn</artifactId>
+    </plugin>
+    <plugin>
+      <name>brainslug-maven-renderer-plugin</name>
+      <prefix>brainslugrenderer</prefix>
+      <artifactId>brainslug-maven-renderer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

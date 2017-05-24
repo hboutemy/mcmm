@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Tomcat Maven Plugin :: Tomcat 6.x</name>
+      <prefix>tomcat6</prefix>
+      <artifactId>tomcat6-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Tomcat Maven Plugin :: Tomcat 7.x</name>
+      <prefix>tomcat7</prefix>
+      <artifactId>tomcat7-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

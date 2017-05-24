@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Axis2 - tool - AAR Maven Plugin</name>
+      <prefix>axis2-aar</prefix>
+      <artifactId>axis2-aar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Ant Plugin</name>
+      <prefix>axis2-ant</prefix>
+      <artifactId>axis2-ant-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Intellij IDEA Plugin</name>
+      <prefix>axis2-idea</prefix>
+      <artifactId>axis2-idea-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Java2WSDL Maven Plugin</name>
+      <prefix>axis2-java2wsdl</prefix>
+      <artifactId>axis2-java2wsdl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - MAR Maven Plugin</name>
+      <prefix>axis2-mar</prefix>
+      <artifactId>axis2-mar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>axis2-repo-maven-plugin</name>
+      <prefix>axis2-repo</prefix>
+      <artifactId>axis2-repo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - WSDL2Code Maven Plugin</name>
+      <prefix>axis2-wsdl2code</prefix>
+      <artifactId>axis2-wsdl2code-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Eclipse Codegen Plugin</name>
+      <prefix>axis2.eclipse.codegen.</prefix>
+      <artifactId>axis2.eclipse.codegen.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Eclipse service Plugin</name>
+      <prefix>axis2.eclipse.service.</prefix>
+      <artifactId>axis2.eclipse.service.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 Simple HTTP server Maven Plugin</name>
+      <prefix>simple-server</prefix>
+      <artifactId>simple-server-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

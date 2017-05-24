@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ActiveMQ :: StartUp/Stop Plugin</name>
+      <prefix>activemq</prefix>
+      <artifactId>activemq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveMQ :: Memory Usage Test Plugin</name>
+      <prefix>activemq-memtest</prefix>
+      <artifactId>activemq-memtest-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveMQ :: Performance Test Plugin</name>
+      <prefix>activemq-perf</prefix>
+      <artifactId>activemq-perf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveMQ :: Memory Usage Test Plugin</name>
+      <prefix>activemq-memtest</prefix>
+      <artifactId>maven-activemq-memtest-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveMQ :: Performance Test Plugin</name>
+      <prefix>activemq-perf</prefix>
+      <artifactId>maven-activemq-perf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ActiveMQ :: StartUp Plugin</name>
+      <prefix>activemq</prefix>
+      <artifactId>maven-activemq-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

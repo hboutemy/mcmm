@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>DUEL Maven Plugin</name>
+      <prefix>duel</prefix>
+      <artifactId>duel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>DUEL Static Apps Maven Plugin</name>
+      <prefix>duel</prefix>
+      <artifactId>duel-staticapps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>DUEL Static Apps Maven Plugin</name>
+      <prefix>duel-staticapps</prefix>
+      <artifactId>duel-staticapps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>DUEL Merge Maven Plugin</name>
+      <prefix>duel</prefix>
+      <artifactId>merge-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

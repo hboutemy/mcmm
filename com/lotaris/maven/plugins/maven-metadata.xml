@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Lotaris DB Unit Maven Plugin</name>
+      <prefix>lotaris-dbunit</prefix>
+      <artifactId>lotaris-dbunit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Lotaris Glassfish Maven Plugin</name>
+      <prefix>lotaris-glassfish</prefix>
+      <artifactId>lotaris-glassfish-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

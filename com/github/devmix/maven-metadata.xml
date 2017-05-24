@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Carbon Application Archive Maven Plugin</name>
+      <prefix>car</prefix>
+      <artifactId>maven-car-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

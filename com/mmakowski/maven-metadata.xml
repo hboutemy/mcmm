@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>specs2 Maven plugin</name>
+      <prefix>specs2</prefix>
+      <artifactId>maven-specs2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>specs2 Maven plugin</name>
+      <prefix>specs2</prefix>
+      <artifactId>specs2-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

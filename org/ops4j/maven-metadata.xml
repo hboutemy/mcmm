@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OPS4J - Support Maven Mojo inheritance</name>
+      <prefix>inherit</prefix>
+      <artifactId>maven-inherit-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OPS4J - Pax Mojos: OSGi project helpers</name>
+      <prefix>pax</prefix>
+      <artifactId>maven-pax-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

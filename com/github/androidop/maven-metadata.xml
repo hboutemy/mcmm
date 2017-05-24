@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>cuiy-ant-task</name>
+      <prefix>cuiy-ant-task</prefix>
+      <artifactId>cuiy-ant-task</artifactId>
+    </plugin>
+    <plugin>
+      <name>cuiy-maven-plugin Maven Mojo</name>
+      <prefix>cuiy</prefix>
+      <artifactId>cuiy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

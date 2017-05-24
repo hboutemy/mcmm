@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Semweb4j RDFReactor code generator Maven Mojo</name>
+      <prefix>rdfreactor</prefix>
+      <artifactId>rdfreactor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

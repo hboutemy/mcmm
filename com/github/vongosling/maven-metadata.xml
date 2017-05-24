@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>component dependency mediator maven plugin</name>
+      <prefix>mediator</prefix>
+      <artifactId>dependency-mediator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>component dependency mediator maven plugin</name>
+      <prefix>dependency-mediator</prefix>
+      <artifactId>dependency-mediator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

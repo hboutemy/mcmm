@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven LESS Compiler</name>
+      <prefix>less-compiler</prefix>
+      <artifactId>maven-less-compiler</artifactId>
+    </plugin>
+    <plugin>
+      <name>RequireJS Maven Plugin</name>
+      <prefix>requirejs</prefix>
+      <artifactId>requirejs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

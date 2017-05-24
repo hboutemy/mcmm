@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <versioning>
+    <latest>0.1.5</latest>
+    <release>0.1.5</release>
+    <versions>
+      <version>0.1.4</version>
+      <version>0.1.5</version>
+    </versions>
+    <lastUpdated>20170310205258</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>Yggdrasil Maven Plugin</name>
+      <prefix>yggdrasil</prefix>
+      <artifactId>yggdrasil-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

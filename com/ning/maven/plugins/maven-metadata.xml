@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>li3-test Maven Mojo</name>
+      <prefix>li3-test</prefix>
+      <artifactId>li3-test</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-version-check-plugin Maven Mojo</name>
+      <prefix>dependency-versions-check</prefix>
+      <artifactId>maven-dependency-versions-check-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-duplicate-finder-plugin Maven Mojo</name>
+      <prefix>duplicate-finder</prefix>
+      <artifactId>maven-duplicate-finder-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AssertDepend Maven Plugin</name>
+      <prefix>assertdepend</prefix>
+      <artifactId>maven-assertdepend-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

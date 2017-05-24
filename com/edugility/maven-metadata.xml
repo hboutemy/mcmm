@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Artifact Plugin</name>
+      <prefix>artifact</prefix>
+      <artifactId>artifact-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>H2 Maven Plugin</name>
+      <prefix>h2</prefix>
+      <artifactId>h2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JPA Maven Plugin</name>
+      <prefix>jpa</prefix>
+      <artifactId>jpa-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Liquibase Maven Plugin</name>
+      <prefix>liquibase</prefix>
+      <artifactId>liquibase-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Executable Jar Maven Plugin</name>
+      <prefix>exec-jar</prefix>
+      <artifactId>exec-jar-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

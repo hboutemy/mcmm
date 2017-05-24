@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: OSGi Framework Launcher Plugin</name>
+      <prefix>osgiframework</prefix>
+      <artifactId>osgiframework-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: OSGi Frameworks Launcher Plugin</name>
+      <prefix>osgiframeworks</prefix>
+      <artifactId>osgiframeworks-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: OW2 Bnd iPOJO plugin</name>
+      <prefix>ow2-bnd-ipojo</prefix>
+      <artifactId>ow2-bnd-ipojo-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

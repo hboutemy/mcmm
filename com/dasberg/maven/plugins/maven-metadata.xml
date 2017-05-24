@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-closure-compiler-plugin</name>
+      <prefix>closure-compiler</prefix>
+      <artifactId>maven-closure-compiler-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

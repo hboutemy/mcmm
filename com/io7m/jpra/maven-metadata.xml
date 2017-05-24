@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>com.io7m.jpra.maven.plugin</name>
+      <prefix>com.io7m.jpra..</prefix>
+      <artifactId>com.io7m.jpra.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>io7m-jpra-maven-plugin</name>
+      <prefix>io7m-jpra</prefix>
+      <artifactId>io7m-jpra-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

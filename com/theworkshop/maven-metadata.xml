@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>com.theworkshop:swagger-codegen (maven-plugin)</name>
+      <prefix>swagger-codegen</prefix>
+      <artifactId>swagger-codegen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

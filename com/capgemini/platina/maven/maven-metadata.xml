@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AspectJ compiler Maven Plugin</name>
+      <prefix>aspectj</prefix>
+      <artifactId>aspectj-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Release Plugin</name>
+      <prefix>release</prefix>
+      <artifactId>maven-release-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

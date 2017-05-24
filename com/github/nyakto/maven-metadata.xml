@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GROM templates compiler plugin</name>
+      <prefix>grom</prefix>
+      <artifactId>grom-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TIBCO BW Profiles Maven Plugin</name>
+      <prefix>tibco-bw-profiles</prefix>
+      <artifactId>tibco-bw-profiles-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>TIBCO BW Properties Maven Plugin</name>
+      <prefix>tibco-bw-properties</prefix>
+      <artifactId>tibco-bw-properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>TIBCO BW Versioning Maven Plugin</name>
+      <prefix>tibco-bw-versioning</prefix>
+      <artifactId>tibco-bw-versioning-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

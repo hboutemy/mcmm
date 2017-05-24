@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Digraph Dependency Maven Plugin</name>
+      <prefix>digraph-dependency</prefix>
+      <artifactId>digraph-dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kemitix Checkstyle Ruleset Maven Plugin</name>
+      <prefix>kemitix-checkstyle-ruleset</prefix>
+      <artifactId>kemitix-checkstyle-ruleset-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

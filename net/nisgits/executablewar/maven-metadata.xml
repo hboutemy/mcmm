@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for creating executable WARs</name>
+      <prefix>executable-war</prefix>
+      <artifactId>maven-executable-war-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

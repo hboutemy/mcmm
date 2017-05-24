@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>fizzed-stork</prefix>
+      <artifactId>fizzed-stork-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fizzed-maven-plugins-versionizer</name>
+      <prefix>fizzed-versionizer</prefix>
+      <artifactId>fizzed-versionizer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

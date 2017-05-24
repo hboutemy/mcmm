@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>BobberPlus Archetype Plugin</name>
+      <prefix>bobberplus</prefix>
+      <artifactId>bobberplus</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Configuration Patterns Catalog Archetype</name>
+      <prefix>mule-catalog-archetype</prefix>
+      <artifactId>mule-catalog-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Module Archetype</name>
+      <prefix>mule-module-archetype</prefix>
+      <artifactId>mule-module-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Project Archetype</name>
+      <prefix>mule-project-archetype</prefix>
+      <artifactId>mule-project-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Transport Archetype</name>
+      <prefix>mule-transport-archetype</prefix>
+      <artifactId>mule-transport-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule ESB Maven Plugin</name>
+      <prefix>muleesb</prefix>
+      <artifactId>muleesb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

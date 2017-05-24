@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Geronimo Maven2 Plugins :: CAR</name>
+      <prefix>car</prefix>
+      <artifactId>car-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Maven2 Plugins :: Geronimo</name>
+      <prefix>geronimo</prefix>
+      <artifactId>geronimo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Maven2 Plugins :: Selenium</name>
+      <prefix>selenium</prefix>
+      <artifactId>selenium-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Maven2 Plugins :: Testsuite Plugin</name>
+      <prefix>testsuite</prefix>
+      <artifactId>testsuite-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Geronimo Maven2 Plugins :: Testsuite Archetype</name>
+      <prefix>geronimo-archetype-testsuite</prefix>
+      <artifactId>geronimo-archetype-testsuite</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

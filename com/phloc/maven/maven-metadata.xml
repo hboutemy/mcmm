@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>buildinfo-maven-plugin</name>
+      <prefix>buildinfo</prefix>
+      <artifactId>buildinfo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>closure-maven-plugin</name>
+      <prefix>closure</prefix>
+      <artifactId>closure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>csscompress-maven-plugin</name>
+      <prefix>csscompress</prefix>
+      <artifactId>csscompress-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>dirindex-maven-plugin</name>
+      <prefix>dirindex</prefix>
+      <artifactId>dirindex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaCC Maven Plugin</name>
+      <prefix>phlocjavacc</prefix>
+      <artifactId>phlocjavacc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>schematron2xslt-maven-plugin</name>
+      <prefix>schematron2xslt</prefix>
+      <artifactId>schematron2xslt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

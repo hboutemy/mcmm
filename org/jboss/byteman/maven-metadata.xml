@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>byteman-rulecheck maven plugin</name>
+      <prefix>byteman-rulecheck</prefix>
+      <artifactId>byteman-rulecheck-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

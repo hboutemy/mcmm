@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>API and Guide Docbook Plugin</name>
+      <prefix>sdndocs</prefix>
+      <artifactId>sdndocs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

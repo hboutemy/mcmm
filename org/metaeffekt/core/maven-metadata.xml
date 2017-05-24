@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>ae-api-compile</prefix>
+      <artifactId>ae-api-compile-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>ae-api-publish</prefix>
+      <artifactId>ae-api-publish-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>ae-artifact-publish</prefix>
+      <artifactId>ae-artifact-publish-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>ae-inventory</prefix>
+      <artifactId>ae-inventory-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>ae-version</prefix>
+      <artifactId>ae-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

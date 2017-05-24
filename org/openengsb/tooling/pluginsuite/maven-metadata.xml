@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenEngSB :: Tooling :: Pluginsuite :: Maven-OpenEngSB-Plugin</name>
+      <prefix>openengsb</prefix>
+      <artifactId>maven-openengsb-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenEngSB :: Tooling :: Pluginsuite :: OpenEngSB-Maven-Plugin</name>
+      <prefix>openengsb</prefix>
+      <artifactId>openengsb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

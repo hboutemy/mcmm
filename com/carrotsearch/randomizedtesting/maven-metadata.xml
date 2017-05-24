@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>RandomizedTesting JUnit4 Maven Plugin</name>
+      <prefix>junit4</prefix>
+      <artifactId>junit4-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>antrun</prefix>
+      <artifactId>antrun-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>attach-report</prefix>
+      <artifactId>attach-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>attach-report-maven-plugin</prefix>
+      <artifactId>attach-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>dependency-handler</prefix>
+      <artifactId>dependency-handler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>manipulate-pom</prefix>
+      <artifactId>manipulate-pom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>mixin</prefix>
+      <artifactId>mixin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>mojo-descriptor</prefix>
+      <artifactId>mojo-descriptor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>unpacked-repository</prefix>
+      <artifactId>unpacked-repository-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

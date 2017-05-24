@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-cucumber-reporting</name>
+      <prefix>cucumber-reporting</prefix>
+      <artifactId>maven-cucumber-reporting</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

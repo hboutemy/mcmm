@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Flexmojos Generator Plugin</name>
+      <prefix>flexmojos-generator-mojo</prefix>
+      <artifactId>flexmojos-generator-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>Flexmojos Maven Plugin</name>
+      <prefix>flexmojos</prefix>
+      <artifactId>flexmojos-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

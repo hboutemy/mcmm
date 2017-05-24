@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dependencypath-maven-plugin</name>
+      <prefix>dependencypath</prefix>
+      <artifactId>dependencypath-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>indexer-maven-plugin</name>
+      <prefix>indexer</prefix>
+      <artifactId>indexer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NBM Maven Plugin</name>
+      <prefix>nbm</prefix>
+      <artifactId>nbm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>portallocator-maven-plugin</name>
+      <prefix>portallocator</prefix>
+      <artifactId>portallocator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Splasher Maven Plugin</name>
+      <prefix>splasher</prefix>
+      <artifactId>splasher-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

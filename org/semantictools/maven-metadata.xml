@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>semantictools gwt generator</name>
+      <prefix>semantictools-gwt-generator</prefix>
+      <artifactId>semantictools-gwt-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>semantictools maven plugin</name>
+      <prefix>semantictools</prefix>
+      <artifactId>semantictools-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

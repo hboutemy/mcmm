@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Webapp Minifier Maven Plugin</name>
+      <prefix>webapp-minifier</prefix>
+      <artifactId>webapp-minifier-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Coverity On Demand Maven Plugin</name>
+      <prefix>ondemand</prefix>
+      <artifactId>ondemand-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

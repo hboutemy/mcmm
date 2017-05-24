@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>postbuild-maven-plugin Maven Plugin</name>
+      <prefix>postbuild</prefix>
+      <artifactId>postbuild-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AndroidGenDrawable Maven Plugin</name>
+      <prefix>gendrawable</prefix>
+      <artifactId>androidgendrawable-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven HSQLDB Plugin</name>
+      <prefix>hsqldb</prefix>
+      <artifactId>hsqldb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

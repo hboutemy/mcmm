@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JSPC Compiler for Tomcat 7</name>
+      <prefix>jspc</prefix>
+      <artifactId>jspc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>License Check Plugin</name>
+      <prefix>license-check</prefix>
+      <artifactId>license-check-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

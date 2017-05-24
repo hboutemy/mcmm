@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Liferay Faces Maven Plugin</name>
+      <prefix>com.liferay.faces..</prefix>
+      <artifactId>com.liferay.faces.maven.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

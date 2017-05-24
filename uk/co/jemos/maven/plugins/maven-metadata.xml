@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-jemosProtoc-plugin</name>
+      <prefix>jemosProtoc</prefix>
+      <artifactId>maven-jemosProtoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-protomak-plugin</name>
+      <prefix>protomak</prefix>
+      <artifactId>maven-protomak-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ChtiJBug Maven plugin for installing the pojo model available at guvnor instance</name>
+      <prefix>guvnor-install-pojo</prefix>
+      <artifactId>maven-guvnor-install-pojo-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

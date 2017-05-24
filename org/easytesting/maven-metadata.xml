@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FEST JavaFX Maven Plugin</name>
+      <prefix>fest-javafx</prefix>
+      <artifactId>fest-javafx-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JavaFX Compiler Plugin</name>
+      <prefix>javafxc</prefix>
+      <artifactId>javafxc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for fest assertion generator</name>
+      <prefix>fest-assertion-generator</prefix>
+      <artifactId>maven-fest-assertion-generator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AnoDoc Generator for Maven</name>
+      <prefix>ano-doc</prefix>
+      <artifactId>maven-ano-doc-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

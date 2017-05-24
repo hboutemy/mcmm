@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Typed SQL queries for spring-jdbc maven plugin</name>
+      <prefix>typed-queries</prefix>
+      <artifactId>typed-queries-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

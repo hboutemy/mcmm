@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Javassist Maven Plugin</name>
+      <prefix>javassist</prefix>
+      <artifactId>javassist-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

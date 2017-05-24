@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <plugins>
+    <plugin>
+      <name>Cocoon Deployer - Maven 2 Plugin</name>
+      <prefix>cocoon</prefix>
+      <artifactId>cocoon-deployer-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cocoon Integration Test Framework [maven-plugin]</name>
+      <prefix>cocoon-it-fw</prefix>
+      <artifactId>cocoon-it-fw</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cocoon Maven Javadocs Script Report</name>
+      <prefix>cocoonjavadocs-script-report</prefix>
+      <artifactId>cocoon-maven-javadocs-script-report</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cocoon Maven 2 Plugin</name>
+      <prefix>cocoon</prefix>
+      <artifactId>cocoon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cocoon Maven Plugin</name>
+      <prefix>cocoon</prefix>
+      <artifactId>cocoon-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

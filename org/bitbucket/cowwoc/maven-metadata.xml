@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CMake Maven Plugin</name>
+      <prefix>cmake</prefix>
+      <artifactId>maven-cmake-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Requirements-Maven-Plugin</name>
+      <prefix>requirements</prefix>
+      <artifactId>requirements-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

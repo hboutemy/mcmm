@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name></name>
+      <prefix>dspace-i18n-report</prefix>
+      <artifactId>dspace-i18n-report-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Native2ascii Plugin</name>
+      <prefix>dspace-native2ascii</prefix>
+      <artifactId>dspace-native2ascii-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

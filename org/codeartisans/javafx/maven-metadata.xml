@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>javafx-deployer</prefix>
+      <artifactId>javafx-deployer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>javafx</prefix>
+      <artifactId>javafx-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

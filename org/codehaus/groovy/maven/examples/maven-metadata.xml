@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GMaven Examples :: Clean Maven Plugin</name>
+      <prefix>clean</prefix>
+      <artifactId>clean-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GMaven Examples :: Install Maven Plugin</name>
+      <prefix>install</prefix>
+      <artifactId>install-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

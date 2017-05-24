@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>madura-objects-maven-plugin</name>
+      <prefix>madura-objects</prefix>
+      <artifactId>madura-objects-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>madura-rules-maven-plugin</name>
+      <prefix>madura-rules</prefix>
+      <artifactId>madura-rules-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MaduraDocs</name>
+      <prefix>maduradocs</prefix>
+      <artifactId>maduradocs</artifactId>
+    </plugin>
+    <plugin>
+      <name>SchemaTranslatorMavenPlugin</name>
+      <prefix>schema-translator</prefix>
+      <artifactId>schema-translator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Avro Plugin</name>
+      <prefix>avro</prefix>
+      <artifactId>maven-avro-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Bundle Summary Maven Plugin</name>
+      <prefix>bundle-summary</prefix>
+      <artifactId>maven-bundle-summary-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Console Time Stamp Plugin</name>
+      <prefix>consolets</prefix>
+      <artifactId>maven-consolets-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Fab Plugin</name>
+      <prefix>fab</prefix>
+      <artifactId>maven-fab-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Graph Plugin</name>
+      <prefix>graph</prefix>
+      <artifactId>maven-graph-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>LinkChecker Maven Plugin</name>
+      <prefix>linkchecker</prefix>
+      <artifactId>maven-linkchecker-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Notices Maven Plugin</name>
+      <prefix>notices</prefix>
+      <artifactId>maven-notices-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Provision Plugin</name>
+      <prefix>provision</prefix>
+      <artifactId>maven-provision-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Uberize Plugin</name>
+      <prefix>uberize</prefix>
+      <artifactId>maven-uberize-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Eclipse UpdateSite Plugin</name>
+      <prefix>updatesite</prefix>
+      <artifactId>maven-updatesite-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>smartics-jboss-modules</prefix>
+      <artifactId>smartics-jboss-modules-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

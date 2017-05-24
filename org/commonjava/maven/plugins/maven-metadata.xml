@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>betterdep-maven-plugin</name>
+      <prefix>betterdep</prefix>
+      <artifactId>betterdep-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Build Migration Maven Plugin</name>
+      <prefix>build-migration</prefix>
+      <artifactId>build-migration-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Directory Maven Plugin</name>
+      <prefix>directory</prefix>
+      <artifactId>directory-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Expressions Plugin</name>
+      <prefix>expression</prefix>
+      <artifactId>expression-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Monolith-Generator Maven Plugin</name>
+      <prefix>monolith</prefix>
+      <artifactId>monolith-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>project-sources</prefix>
+      <artifactId>project-sources-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Quick Arquillian-JBossAS Maven Plugin</name>
+      <prefix>qarqas</prefix>
+      <artifactId>qarqas-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Unsigner Plugin for Maven</name>
+      <prefix>unsigner</prefix>
+      <artifactId>unsigner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

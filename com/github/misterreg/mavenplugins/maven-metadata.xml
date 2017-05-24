@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>BuildGraph maven plugin</name>
+      <prefix>build-graph</prefix>
+      <artifactId>build-graph-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

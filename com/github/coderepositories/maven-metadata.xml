@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jcommons-plugins-mbg Maven Plugin</name>
+      <prefix>jcommonss-mbg</prefix>
+      <artifactId>jcommons-plugins-mbg</artifactId>
+    </plugin>
+    <plugin>
+      <name>mbg-maven-plugin Maven Plugin</name>
+      <prefix>mbg</prefix>
+      <artifactId>mbg-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>mybatis-auxiliary-maven Maven Plugin</name>
+      <prefix>mybatis-auxiliary</prefix>
+      <artifactId>mybatis-auxiliary-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

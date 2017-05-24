@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CQ Maven Plugin</name>
+      <prefix>cq</prefix>
+      <artifactId>cq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>i18n Maven Plugin</name>
+      <prefix>i18n</prefix>
+      <artifactId>i18n-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Node.js Maven Plugin</name>
+      <prefix>nodejs</prefix>
+      <artifactId>nodejs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Content Package Maven Plugin</name>
+      <prefix>wcmio-content-package</prefix>
+      <artifactId>wcmio-content-package-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

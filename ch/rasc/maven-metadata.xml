@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Embedded Tomcat Maven Plugin</name>
+      <prefix>embeddedtc</prefix>
+      <artifactId>embeddedtc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

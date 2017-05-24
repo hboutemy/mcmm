@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Glassfish Maven Plugin</name>
+      <prefix>glassfish</prefix>
+      <artifactId>glassfish-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Probe Dock Report UID Plugin</name>
+      <prefix>probedock-uid</prefix>
+      <artifactId>probedock-uid-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Probe Dock UUID Plugin</name>
+      <prefix>probedock-uuid</prefix>
+      <artifactId>probedock-uuid-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

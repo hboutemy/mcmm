@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>buildmetadata-maven-plugin</name>
+      <prefix>buildmetadata</prefix>
+      <artifactId>buildmetadata-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

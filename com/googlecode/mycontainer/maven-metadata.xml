@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mycontainer Maven Plugin</name>
+      <prefix>mycontainer</prefix>
+      <artifactId>maven-mycontainer-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mycontainer Maven Plugin</name>
+      <prefix>mycontainer</prefix>
+      <artifactId>mycontainer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

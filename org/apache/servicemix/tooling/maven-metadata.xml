@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ServiceMix :: Maven2 Resource Plugin</name>
+      <prefix>res</prefix>
+      <artifactId>res-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ServiceMix :: Maven2 JBI Plugin</name>
+      <prefix>jbi</prefix>
+      <artifactId>jbi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ServiceMix :: Maven2 XFire Plugin</name>
+      <prefix>xfire</prefix>
+      <artifactId>xfire-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache ServiceMix :: Plugins :: Maven2 Depends Plugin</name>
+      <prefix>depends</prefix>
+      <artifactId>depends-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ServiceMix :: Checksum Plugin</name>
+      <prefix>checksum</prefix>
+      <artifactId>checksum-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ServiceMix :: Maven2 Features plugin</name>
+      <prefix>features</prefix>
+      <artifactId>features-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

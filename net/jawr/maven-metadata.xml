@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JAWR Maven Plugin</name>
+      <prefix>jawr</prefix>
+      <artifactId>maven-jawr-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

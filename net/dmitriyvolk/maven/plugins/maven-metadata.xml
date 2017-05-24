@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Archetype Assembler Plugin</name>
+      <prefix>configurator</prefix>
+      <artifactId>archetype-assembly-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

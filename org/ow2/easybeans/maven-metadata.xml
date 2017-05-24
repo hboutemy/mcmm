@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>EasyBeans: Plugin :: Write Artifact FileName</name>
+      <prefix>easybeanswrite-artifact-filename</prefix>
+      <artifactId>easybeans-plugin-write-artifact-filename</artifactId>
+    </plugin>
+    <plugin>
+      <name>EasyBeans: Plugin :: OSGi Plugin</name>
+      <prefix>easybeans-osgi</prefix>
+      <artifactId>maven-easybeans-osgi</artifactId>
+    </plugin>
+    <plugin>
+      <name>EasyBeans: Plugin :: Maven EasyBeans Plugin :: Plugin</name>
+      <prefix>easybeans</prefix>
+      <artifactId>maven-easybeans-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>EasyBeans: Plugin :: Launcher Plugin</name>
+      <prefix>easybeans</prefix>
+      <artifactId>maven-easybeans-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

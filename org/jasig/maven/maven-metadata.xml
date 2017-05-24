@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jasig Legal Plugin</name>
+      <prefix>jasig-legal</prefix>
+      <artifactId>maven-jasig-legal-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven NOTICE Generation Plugin</name>
+      <prefix>notice</prefix>
+      <artifactId>maven-notice-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Site Plugin 3</name>
+      <prefix>site</prefix>
+      <artifactId>maven-site-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MessageFileTranslationPlugin Maven Plugin</name>
+      <prefix>translate</prefix>
+      <artifactId>maven-translate-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SASS Compiler Plugin</name>
+      <prefix>sass</prefix>
+      <artifactId>sass-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>uportal Platform Data Maven Plugin</name>
+      <prefix>uportaldata</prefix>
+      <artifactId>uportaldata-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

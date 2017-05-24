@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-t7-plugin</name>
+      <prefix>t7</prefix>
+      <artifactId>maven-t7-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-tomee-plugin</name>
+      <prefix>tomee</prefix>
+      <artifactId>maven-tomee-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jnario Maven Plugin</name>
+      <prefix>jnario</prefix>
+      <artifactId>jnario-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jnario Maven Report Plugin</name>
+      <prefix>jnarioreport</prefix>
+      <artifactId>jnario-maven-report-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jnario Maven Report Plugin</name>
+      <prefix>report</prefix>
+      <artifactId>report</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

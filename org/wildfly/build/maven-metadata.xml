@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WildFly Build Tools: Feature Pack Build Maven Plugin</name>
+      <prefix>wildfly-feature-pack-build</prefix>
+      <artifactId>wildfly-feature-pack-build-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WildFly Build Tools: Server Provisioning Maven Plugin</name>
+      <prefix>wildfly-server-provisioning</prefix>
+      <artifactId>wildfly-server-provisioning-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

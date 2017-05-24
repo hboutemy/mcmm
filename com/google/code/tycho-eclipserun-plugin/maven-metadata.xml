@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Eclipse Run Plugin for Tycho</name>
+      <prefix>tycho-eclipserun</prefix>
+      <artifactId>tycho-eclipserun-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

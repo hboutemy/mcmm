@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}-1</name>
+      <prefix>bootstrap</prefix>
+      <artifactId>bootstrap-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>bounds-maven-plugin-1</name>
+      <prefix>bounds</prefix>
+      <artifactId>bounds-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sticky-bound-plugin</name>
+      <prefix>bounds</prefix>
+      <artifactId>sticky-bounds-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sticky-bounds-plugin</name>
+      <prefix>sticky-bounds</prefix>
+      <artifactId>sticky-bounds-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sticky-wait-plugin</name>
+      <prefix>wait</prefix>
+      <artifactId>sticky-wait-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

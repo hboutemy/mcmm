@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven 2 StatCvs Plugin</name>
+      <prefix>statcvs</prefix>
+      <artifactId>maven-statcvs-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

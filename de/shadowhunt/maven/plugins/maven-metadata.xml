@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven package-info.java Plugin</name>
+      <prefix>package-info</prefix>
+      <artifactId>package-info-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Sonar-Ignore Plugin</name>
+      <prefix>sonarignore</prefix>
+      <artifactId>sonarignore-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

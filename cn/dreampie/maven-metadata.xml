@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Coffee Script Maven Plugin</name>
+      <prefix>coffeescript</prefix>
+      <artifactId>coffeescript-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>flyway-maven-plugin</name>
+      <prefix>flyway</prefix>
+      <artifactId>flyway-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Coffee Script Maven Plugin</name>
+      <prefix>lesscss</prefix>
+      <artifactId>lesscss-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Minify Script Maven Plugin</name>
+      <prefix>minify</prefix>
+      <artifactId>minify-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

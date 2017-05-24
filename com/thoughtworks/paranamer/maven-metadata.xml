@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ParaNamer</name>
+      <prefix>paranamer</prefix>
+      <artifactId>paranamer</artifactId>
+    </plugin>
+    <plugin>
+      <name>ParaNamer Maven plugin</name>
+      <prefix>paranamer</prefix>
+      <artifactId>paranamer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

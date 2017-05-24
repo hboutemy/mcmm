@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>xproc-maven-plugin</name>
+      <prefix>xproc</prefix>
+      <artifactId>xproc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>XSpec Maven Plugin</name>
+      <prefix>xspec</prefix>
+      <artifactId>xspec-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

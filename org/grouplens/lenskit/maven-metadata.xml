@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>LensKit Evaluation Maven Plugin</name>
+      <prefix>lenskit-eval</prefix>
+      <artifactId>lenskit-eval-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

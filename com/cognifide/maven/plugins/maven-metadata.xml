@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-crx-plugin</name>
+      <prefix>crx</prefix>
+      <artifactId>maven-crx-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Vault Checkout Plugin</name>
+      <prefix>vltco</prefix>
+      <artifactId>vltco-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Gitlab Maven Plugin</name>
+      <prefix>gitlab</prefix>
+      <artifactId>gitlab-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

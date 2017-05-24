@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Native ARchive plugin for Maven</name>
+      <prefix>nar</prefix>
+      <artifactId>nar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Scriptus</name>
+      <prefix>scriptus</prefix>
+      <artifactId>scriptus</artifactId>
+    </plugin>
+    <plugin>
+      <name>Simulare</name>
+      <prefix>simulare</prefix>
+      <artifactId>simulare</artifactId>
+    </plugin>
+    <plugin>
+      <name>SpecialSourceMP</name>
+      <prefix>specialsource</prefix>
+      <artifactId>specialsource-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

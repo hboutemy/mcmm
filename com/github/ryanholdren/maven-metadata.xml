@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ResourceCompressor</name>
+      <prefix>resourcecompressor</prefix>
+      <artifactId>resourcecompressor</artifactId>
+    </plugin>
+    <plugin>
+      <name>ResourceGZipper</name>
+      <prefix>resourcegzipper</prefix>
+      <artifactId>resourcegzipper</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

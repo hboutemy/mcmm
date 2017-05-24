@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>BABEL-CODEGEN Maven</name>
+      <prefix>babel-codegen</prefix>
+      <artifactId>babel-codegen-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>SCHEME-REPORTER Maven</name>
+      <prefix>scheme-reporter</prefix>
+      <artifactId>scheme-reporter-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>SPRING-I18N-CONVERTER Maven</name>
+      <prefix>spring-i18n-converter</prefix>
+      <artifactId>spring-i18n-converter-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>TOMCAT-EMBED Maven</name>
+      <prefix>tomcat-embed</prefix>
+      <artifactId>tomcat-embed-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

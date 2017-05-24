@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>NPanday :: Add-in Plugin (Java Binding)</name>
+      <prefix>NPanday.Plugin.Addin.JavaBinding</prefix>
+      <artifactId>NPanday.Plugin.Addin.JavaBinding</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Denenv Plugin (Java Binding)</name>
+      <prefix>NPanday.Plugin.Devenv.JavaBinding</prefix>
+      <artifactId>NPanday.Plugin.Devenv.JavaBinding</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Settings Plugin (Java Binding)</name>
+      <prefix>NPanday.Plugin.Settings.JavaBinding</prefix>
+      <artifactId>NPanday.Plugin.Settings.JavaBinding</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: SysRef Plugin (Java Binding)</name>
+      <prefix>NPanday.Plugin.SysRef.JavaBinding</prefix>
+      <artifactId>NPanday.Plugin.SysRef.JavaBinding</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: MSBuild Plugin (Java Binding)</name>
+      <prefix>NPanday.Plugin.Msbuild.JavaBinding</prefix>
+      <artifactId>NPanday.Plugin.Msbuild.JavaBinding</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Custom Lifecycle Extensions Plugin</name>
+      <prefix>custom-lifecycle</prefix>
+      <artifactId>custom-lifecycle-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Compile Maven Plugin</name>
+      <prefix>compile</prefix>
+      <artifactId>maven-compile-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: ASPX Maven Plugin</name>
+      <prefix>aspx</prefix>
+      <artifactId>maven-aspx-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: FxCop Maven Plugin</name>
+      <prefix>fxcop</prefix>
+      <artifactId>maven-fxcop-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Install Maven Plugin</name>
+      <prefix>install</prefix>
+      <artifactId>maven-install-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Link Maven Plugin</name>
+      <prefix>link</prefix>
+      <artifactId>maven-link-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Mojo Generator Maven Plugin</name>
+      <prefix>mojo-generator</prefix>
+      <artifactId>maven-mojo-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: ResGen Maven Plugin</name>
+      <prefix>resgen</prefix>
+      <artifactId>maven-resgen-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Repository Maven Plugin</name>
+      <prefix>repository</prefix>
+      <artifactId>maven-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Resolver Maven Plugin</name>
+      <prefix>resolver</prefix>
+      <artifactId>maven-resolver-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Test Maven Plugin</name>
+      <prefix>test</prefix>
+      <artifactId>maven-test-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Visual Studio Addin Installer Maven Plugin</name>
+      <prefix>vsinstaller</prefix>
+      <artifactId>maven-vsinstaller-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: Webapp Maven Plugin</name>
+      <prefix>webapp</prefix>
+      <artifactId>maven-webapp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: XSD Maven Plugin</name>
+      <prefix>xsd</prefix>
+      <artifactId>maven-xsd-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: XSP Maven Plugin</name>
+      <prefix>xsp</prefix>
+      <artifactId>maven-xsp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: WSDL Maven Plugin</name>
+      <prefix>wsdl</prefix>
+      <artifactId>maven-wsdl-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: WiX Maven Plugin</name>
+      <prefix>wix</prefix>
+      <artifactId>wix-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPanday :: PartCover Maven Plugin</name>
+      <prefix>partcover</prefix>
+      <artifactId>partcover-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

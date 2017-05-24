@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Custom report maven plugin</name>
+      <prefix>custom-report</prefix>
+      <artifactId>custom-report-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

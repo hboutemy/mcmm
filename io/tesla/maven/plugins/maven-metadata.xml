@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name></name>
+      <prefix>provisio-tesla</prefix>
+      <artifactId>provisio-tesla-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tesla License Plugin</name>
+      <prefix>tesla-license</prefix>
+      <artifactId>tesla-license-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>tesla-lifecycle-mapping</prefix>
+      <artifactId>tesla-lifecycle-mapping</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tesla Plugin Plugin</name>
+      <prefix>tesla</prefix>
+      <artifactId>tesla-plugin-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>concatenate-maven-plugin</name>
+      <prefix>concatenate</prefix>
+      <artifactId>concatenate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-mysql-maven-plugin</name>
+      <prefix>jcabi-mysql</prefix>
+      <artifactId>jcabi-mysql-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

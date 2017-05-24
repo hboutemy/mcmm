@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Ant Maven Plugin</name>
+      <prefix>ant</prefix>
+      <artifactId>ant-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>BOM Maven Plugin</name>
+      <prefix>bom</prefix>
+      <artifactId>bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Crytpo Maven Plugin</name>
+      <prefix>crypto</prefix>
+      <artifactId>crypto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven EC2 Plugin</name>
+      <prefix>ec2</prefix>
+      <artifactId>ec2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enc Maven Plugin</name>
+      <prefix>enc</prefix>
+      <artifactId>enc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Exec Maven Plugin</name>
+      <prefix>exec</prefix>
+      <artifactId>exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Externals Maven Plugin</name>
+      <prefix>externals</prefix>
+      <artifactId>externals-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Extractor Maven Plugin</name>
+      <prefix>extractor</prefix>
+      <artifactId>extractor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Externals Maven Plugin</name>
+      <prefix>fusion</prefix>
+      <artifactId>fusion-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Github Maven Plugin</name>
+      <prefix>git-workflow</prefix>
+      <artifactId>git-workflow-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Graph Plugin</name>
+      <prefix>graph</prefix>
+      <artifactId>graph-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Graph Maven Plugin</name>
+      <prefix>graph</prefix>
+      <artifactId>graph-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Guice Maven Plugin</name>
+      <prefix>guice</prefix>
+      <artifactId>guice-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Ingester Maven Plugin</name>
+      <prefix>ingester</prefix>
+      <artifactId>ingester-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jenkins Maven Plugin</name>
+      <prefix>jenkins</prefix>
+      <artifactId>jenkins-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Student Contract Documentation Generator</name>
+      <prefix>kscontractdoc</prefix>
+      <artifactId>kscontractdoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>License Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Checkstyle Plugin</name>
+      <prefix>checkstyle</prefix>
+      <artifactId>maven-checkstyle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Cloud Front Plugin</name>
+      <prefix>cloudfront</prefix>
+      <artifactId>maven-cloudfront-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DNSME Plugin</name>
+      <prefix>dnsme</prefix>
+      <artifactId>maven-dnsme-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Eclipse Formatter Plugin</name>
+      <prefix>eclipse-formatter</prefix>
+      <artifactId>maven-eclipse-formatter-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven HTTP Plugin</name>
+      <prefix>http</prefix>
+      <artifactId>maven-http-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Impex Plugin</name>
+      <prefix>impex</prefix>
+      <artifactId>maven-impex-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Student Contract Documentation Generator</name>
+      <prefix>kscontractdoc</prefix>
+      <artifactId>maven-kscontractdoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kuali Student Contract Documentation Generator</name>
+      <prefix>kscontractdoc</prefix>
+      <artifactId>maven-kscontractdoc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Kuali Site Plugin</name>
+      <prefix>ksite</prefix>
+      <artifactId>maven-ksite-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Kuali Site Plugin</name>
+      <prefix>kualisite</prefix>
+      <artifactId>maven-kualisite-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Manifest Plugin</name>
+      <prefix>manifest</prefix>
+      <artifactId>maven-manifest-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Oracle Plugin</name>
+      <prefix>oracle</prefix>
+      <artifactId>maven-oracle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven SCM Plugin</name>
+      <prefix>scm</prefix>
+      <artifactId>maven-scm-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven System Properties Plugin</name>
+      <prefix>sysprops</prefix>
+      <artifactId>maven-sysprops-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>META-INF Maven Plugin</name>
+      <prefix>metainf</prefix>
+      <artifactId>metainf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>META-INF Maven Plugin</name>
+      <prefix>metainf</prefix>
+      <artifactId>metainf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MVN Maven Plugin</name>
+      <prefix>mvn</prefix>
+      <artifactId>mvn-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Properties Maven Plugin</name>
+      <prefix>properties</prefix>
+      <artifactId>properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>S3 Maven Plugin</name>
+      <prefix>s3</prefix>
+      <artifactId>s3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spring Maven Plugin</name>
+      <prefix>spring</prefix>
+      <artifactId>spring-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SQL Maven Plugin</name>
+      <prefix>sql</prefix>
+      <artifactId>sql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SSH Maven Plugin</name>
+      <prefix>ssh</prefix>
+      <artifactId>ssh-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>strip-bom-plugin</name>
+      <prefix>strip-bom</prefix>
+      <artifactId>strip-bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>String BOM Maven Plugin</name>
+      <prefix>strip-bom</prefix>
+      <artifactId>strip-bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Strip BOM Maven Plugin</name>
+      <prefix>strip-bom</prefix>
+      <artifactId>strip-bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Version Plugin</name>
+      <prefix>version</prefix>
+      <artifactId>version-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Wagon Maven Plugin</name>
+      <prefix>wagon</prefix>
+      <artifactId>wagon-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

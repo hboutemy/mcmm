@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Pluto Installer Plugin</name>
+      <prefix>pluto</prefix>
+      <artifactId>maven-pluto-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Pluto Installer Plugin</name>
+      <prefix>pluto</prefix>
+      <artifactId>pluto-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

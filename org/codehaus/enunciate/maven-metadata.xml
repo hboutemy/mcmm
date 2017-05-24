@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Enunciate - CXF Maven Plugin</name>
+      <prefix>enunciate-cxf</prefix>
+      <artifactId>maven-enunciate-cxf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enunciate - JBoss Maven Plugin</name>
+      <prefix>enunciate-jboss</prefix>
+      <artifactId>maven-enunciate-jboss-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enunciate - Maven Plugin</name>
+      <prefix>enunciate</prefix>
+      <artifactId>maven-enunciate-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enunciate - Slim Maven Plugin</name>
+      <prefix>enunciate-slim</prefix>
+      <artifactId>maven-enunciate-slim-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Enunciate - Spring Maven Plugin</name>
+      <prefix>enunciate-spring</prefix>
+      <artifactId>maven-enunciate-spring-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dapeng-maven-plugin</name>
+      <prefix>dapeng</prefix>
+      <artifactId>dapeng-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>isuwangsoa-maven-plugin</name>
+      <prefix>isuwangsoa</prefix>
+      <artifactId>isuwangsoa-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

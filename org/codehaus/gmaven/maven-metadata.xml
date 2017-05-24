@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GMaven Plugin</name>
+      <prefix>groovy</prefix>
+      <artifactId>gmaven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>groovy</prefix>
+      <artifactId>groovy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

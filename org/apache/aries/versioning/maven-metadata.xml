@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>org.apache.aries.versioning.plugin Maven Mojo</name>
+      <prefix>org.apache.aries.versioning.</prefix>
+      <artifactId>org.apache.aries.versioning.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

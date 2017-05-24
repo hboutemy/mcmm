@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JSCoverageReport Maven Mojo</name>
+      <prefix>JSCoverageReport</prefix>
+      <artifactId>JSCoverageReport</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-ng-protractor Maven Mojo</name>
+      <prefix>ng-protractor</prefix>
+      <artifactId>maven-ng-protractor</artifactId>
+    </plugin>
+    <plugin>
+      <name>nghtml2js</name>
+      <prefix>nghtml2js</prefix>
+      <artifactId>nghtml2js</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

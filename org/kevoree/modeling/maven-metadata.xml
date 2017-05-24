@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>KMF :: Generator :: MavenPlugin</name>
+      <prefix>generator.</prefix>
+      <artifactId>generator.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Modeling :: Generator :: MavenPlugin</name>
+      <prefix>org.kevoree.modeling.generator.</prefix>
+      <artifactId>org.kevoree.modeling.generator.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Modeling :: Java2TypeScript :: MavenPlugin</name>
+      <prefix>org.kevoree.modeling.java2typescript.</prefix>
+      <artifactId>org.kevoree.modeling.java2typescript.mavenplugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kevoree :: Modeling :: Kotlin :: Generator :: MavenPlugin</name>
+      <prefix>org.kevoree.modeling.kotlin.generator.</prefix>
+      <artifactId>org.kevoree.modeling.kotlin.generator.mavenplugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

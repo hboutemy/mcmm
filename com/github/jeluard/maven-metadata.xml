@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven PlantUML plugin</name>
+      <prefix>plantuml</prefix>
+      <artifactId>maven-plantuml-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven PlantUML plugin</name>
+      <prefix>plantuml</prefix>
+      <artifactId>plantuml-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

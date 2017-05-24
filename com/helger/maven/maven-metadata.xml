@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ph-buildinfo-maven-plugin</name>
+      <prefix>ph-buildinfo</prefix>
+      <artifactId>ph-buildinfo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ph-csscompress-maven-plugin</name>
+      <prefix>ph-csscompress</prefix>
+      <artifactId>ph-csscompress-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ph-dirindex-maven-plugin</name>
+      <prefix>ph-dirindex</prefix>
+      <artifactId>ph-dirindex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JavaCC Maven Plugin</name>
+      <prefix>ph-javacc</prefix>
+      <artifactId>ph-javacc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ph-jscompress-maven-plugin</name>
+      <prefix>ph-jscompress</prefix>
+      <artifactId>ph-jscompress-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ph-sch2xslt-maven-plugin</name>
+      <prefix>ph-sch2xslt</prefix>
+      <artifactId>ph-sch2xslt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ph-schemnatron-maven-plugin</name>
+      <prefix>ph-schematron</prefix>
+      <artifactId>ph-schematron-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

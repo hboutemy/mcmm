@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Windows Service Installer Plugin</name>
+      <prefix>windows-service-installer</prefix>
+      <artifactId>maven-windows-service-installer-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

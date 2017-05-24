@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TextTest Maven Plugin</name>
+      <prefix>texttest</prefix>
+      <artifactId>texttest-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

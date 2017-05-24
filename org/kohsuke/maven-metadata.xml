@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Custom Access Modifier Checker</name>
+      <prefix>access-modifier-checker</prefix>
+      <artifactId>access-modifier-checker</artifactId>
+    </plugin>
+    <plugin>
+      <name>apt-ftparchive-merge Maven plugin</name>
+      <prefix>apt-ftparchive-merge</prefix>
+      <artifactId>apt-ftparchive-merge</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-junit-plugin Maven Mojo</name>
+      <prefix>junit</prefix>
+      <artifactId>maven-junit-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PGP Maven plugin</name>
+      <prefix>pgp</prefix>
+      <artifactId>pgp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

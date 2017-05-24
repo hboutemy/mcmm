@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ServiceMix Kernel :: Testing - Depends plugin</name>
+      <prefix>depends</prefix>
+      <artifactId>depends-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache ServiceMix Kernel :: Testing - Features plugin</name>
+      <prefix>features</prefix>
+      <artifactId>features-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

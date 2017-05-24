@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven JAXB 2.x Plugin</name>
+      <prefix>jaxb2</prefix>
+      <artifactId>maven-jaxb2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.x Plugin Raw</name>
+      <prefix>jaxb2raw</prefix>
+      <artifactId>maven-jaxb2-plugin-raw</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.0.x Plugin</name>
+      <prefix>jaxb20</prefix>
+      <artifactId>maven-jaxb20-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.1.x Plugin</name>
+      <prefix>jaxb21</prefix>
+      <artifactId>maven-jaxb21-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.2.x Plugin</name>
+      <prefix>jaxb22</prefix>
+      <artifactId>maven-jaxb22-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

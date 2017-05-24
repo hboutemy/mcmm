@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Apt Plugin</name>
+      <prefix>apt</prefix>
+      <artifactId>maven-apt-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Tobago Theme Plugin</name>
+      <prefix>theme</prefix>
+      <artifactId>maven-theme-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tobago Maven2 Theme Plugin</name>
+      <prefix>tobago-theme</prefix>
+      <artifactId>tobago-theme-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

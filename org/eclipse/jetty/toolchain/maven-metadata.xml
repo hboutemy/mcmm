@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jetty :: Toolchain :: Eclipse Signing Maven Plugin</name>
+      <prefix>eclipse-signing</prefix>
+      <artifactId>eclipse-signing-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetty Toolchain :: Orbit Maven Plugin</name>
+      <prefix>jetty-orbit</prefix>
+      <artifactId>jetty-orbit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetty:: Version Management Maven Plugin</name>
+      <prefix>jetty-version</prefix>
+      <artifactId>jetty-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

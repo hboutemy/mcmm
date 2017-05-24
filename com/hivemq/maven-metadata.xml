@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HiveMQ Maven Plugin</name>
+      <prefix>hivemq-maven-plugin</prefix>
+      <artifactId>hivemq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>HiveMQ Maven Plugin</name>
+      <prefix>hivemq</prefix>
+      <artifactId>hivemq-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

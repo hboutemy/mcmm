@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Geotools Archetype</name>
+      <prefix>archetype</prefix>
+      <artifactId>archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Configuration files for the multimodule build</name>
+      <prefix>build-configs</prefix>
+      <artifactId>build-configs</artifactId>
+    </plugin>
+    <plugin>
+      <name>JAR files collector</name>
+      <prefix>jar-collector</prefix>
+      <artifactId>jar-collector</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cross-modules javadoc</name>
+      <prefix>javadoc</prefix>
+      <artifactId>javadoc</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenOffice IDL to Java</name>
+      <prefix>javamaker</prefix>
+      <artifactId>javamaker</artifactId>
+    </plugin>
+    <plugin>
+      <name>JJTree and JavaCC compilers plugin</name>
+      <prefix>jjtree-javacc</prefix>
+      <artifactId>jjtree-javacc</artifactId>
+    </plugin>
+    <plugin>
+      <name>RMI compiler (rmic)</name>
+      <prefix>rmic</prefix>
+      <artifactId>rmic</artifactId>
+    </plugin>
+    <plugin>
+      <name>UNO packager for OpenOffice addins</name>
+      <prefix>unopkg</prefix>
+      <artifactId>unopkg</artifactId>
+    </plugin>
+    <plugin>
+      <name>XML Code Generation Support</name>
+      <prefix>xmlcodegen</prefix>
+      <artifactId>xmlcodegen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

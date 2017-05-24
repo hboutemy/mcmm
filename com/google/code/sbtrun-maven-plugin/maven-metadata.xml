@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SBT Runner Maven Plugin</name>
+      <prefix>sbtrun</prefix>
+      <artifactId>sbtrun-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

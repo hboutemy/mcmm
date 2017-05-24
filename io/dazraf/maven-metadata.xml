@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>vert.x-hot maven plugin</name>
+      <prefix>vertx-hot</prefix>
+      <artifactId>vertx-hot-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

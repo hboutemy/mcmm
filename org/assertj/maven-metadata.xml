@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for AssertJ assertions generator</name>
+      <prefix>assertj</prefix>
+      <artifactId>assertj-assertions-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for AssertJ assertions generator</name>
+      <prefix>assertj-assertions-generator</prefix>
+      <artifactId>assertj-assertions-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

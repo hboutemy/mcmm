@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FixSource Maven Plugin</name>
+      <prefix>fixsource</prefix>
+      <artifactId>fixsource-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JFreeChart Maven Plugin</name>
+      <prefix>jfreechart</prefix>
+      <artifactId>jfreechart-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>UMLet Maven Plugin</name>
+      <prefix>umlet</prefix>
+      <artifactId>umlet-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven UMLet Plugin</name>
+      <prefix>plugin</prefix>
+      <artifactId>umlet-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>umlet</prefix>
+      <artifactId>umlet-maven-plugin-java6</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

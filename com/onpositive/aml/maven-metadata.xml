@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Java2RAML Maven Plugin</name>
+      <prefix>java2raml</prefix>
+      <artifactId>java2raml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JAX-RS RAML Maven Plug-in</name>
+      <prefix>jaxrs-raml</prefix>
+      <artifactId>jaxrs-raml-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RAML JAX-RS Maven Plug-in</name>
+      <prefix>raml-jaxrs</prefix>
+      <artifactId>raml-jaxrs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RAML2Java Maven Plugin</name>
+      <prefix>raml2java</prefix>
+      <artifactId>raml2java-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

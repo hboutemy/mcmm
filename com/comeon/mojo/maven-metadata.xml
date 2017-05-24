@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>git-changelog-maven-plugin</name>
+      <prefix>git-changelog</prefix>
+      <artifactId>git-changelog-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>project-info-maven-plugin</name>
+      <prefix>project-info</prefix>
+      <artifactId>project-info-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

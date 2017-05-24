@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Naked Objects Remoting Support (Archetype)</name>
+      <prefix>remoting-support</prefix>
+      <artifactId>remoting-support</artifactId>
+    </plugin>
+    <plugin>
+      <name>Naked Objects application archetype</name>
+      <prefix>application-archetype</prefix>
+      <artifactId>application-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PMD Build Plugin</name>
+      <prefix>pmd-build</prefix>
+      <artifactId>pmd-build</artifactId>
+    </plugin>
+    <plugin>
+      <name>PMD Build Tools Plugin</name>
+      <prefix>pmd-build-tools</prefix>
+      <artifactId>pmd-build-tools-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

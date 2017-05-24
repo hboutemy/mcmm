@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>coffeescript-maven-plugin</name>
+      <prefix>coffeescript</prefix>
+      <artifactId>coffeescript-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>less-maven-plugin</name>
+      <prefix>less</prefix>
+      <artifactId>less-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

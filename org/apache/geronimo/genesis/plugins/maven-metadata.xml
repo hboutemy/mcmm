@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Genesis Plugins :: Maven</name>
+      <prefix></prefix>
+      <artifactId>maven-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Genesis Plugins :: Script</name>
+      <prefix>script</prefix>
+      <artifactId>script-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Genesis Plugins :: Tools</name>
+      <prefix>tools</prefix>
+      <artifactId>tools-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Thucydides Maven Plugin</name>
+      <prefix>thucydides</prefix>
+      <artifactId>maven-thucydides-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>thucydides-dashboard Maven Mojo</name>
+      <prefix>thucydides-dashboard</prefix>
+      <artifactId>thucydides-dashboard-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

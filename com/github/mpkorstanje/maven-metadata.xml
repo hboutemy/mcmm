@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Unicode TR39 Table Generator</name>
+      <prefix>tr39-confusables-table-generator</prefix>
+      <artifactId>tr39-confusables-table-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

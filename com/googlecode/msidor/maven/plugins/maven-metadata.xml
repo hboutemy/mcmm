@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>groovy2ssh-maven-plugin</name>
+      <prefix>groovy2ssh</prefix>
+      <artifactId>groovy2ssh-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>hpalm-maven-plugin</name>
+      <prefix>hpalm</prefix>
+      <artifactId>hpalm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sybase-proc-maven-plugin</name>
+      <prefix>sybase-proc</prefix>
+      <artifactId>sybase-proc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>IDFC Artifact Property Plugin</name>
+      <prefix>artifact-property</prefix>
+      <artifactId>artifact-property-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IDFC ProGuard Maven Plugin</name>
+      <prefix>idfc-proguard</prefix>
+      <artifactId>idfc-proguard-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-svuid-plugin</name>
+      <prefix>svuid</prefix>
+      <artifactId>maven-svuid-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

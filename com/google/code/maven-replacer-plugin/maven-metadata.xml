@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-replacer-plugin Maven Mojo</name>
+      <prefix>replacer</prefix>
+      <artifactId>maven-replacer-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-replacer-plugin Maven Mojo</name>
+      <prefix>replacer</prefix>
+      <artifactId>replacer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

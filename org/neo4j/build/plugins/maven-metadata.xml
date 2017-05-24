@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Changes Plugin</name>
+      <prefix>changes</prefix>
+      <artifactId>changes-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Clirr Maven Plugin</name>
+      <prefix>clirr</prefix>
+      <artifactId>clirr-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Neo4j documentation assembler</name>
+      <prefix>docs</prefix>
+      <artifactId>docs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Ease Maven Plugin</name>
+      <prefix>ease</prefix>
+      <artifactId>ease-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Licensing Maven Mojo</name>
+      <prefix>licensing</prefix>
+      <artifactId>licensing-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for Java In-Container Unit (JICUnit) Test Framework</name>
+      <prefix>jicunit</prefix>
+      <artifactId>jicunit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

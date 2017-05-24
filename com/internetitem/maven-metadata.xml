@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>create-reactor-project</prefix>
+      <artifactId>create-reactor-project-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Write a Properties File</name>
+      <prefix>write-properties-file</prefix>
+      <artifactId>write-properties-file-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

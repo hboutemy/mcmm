@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>lambda-metrics-maven-plugin</name>
+      <prefix>lambda-metrics</prefix>
+      <artifactId>lambda-metrics-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

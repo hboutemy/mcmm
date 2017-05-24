@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Slee Deployable Unit Plugin</name>
+      <prefix>slee-du</prefix>
+      <artifactId>maven-slee-du-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

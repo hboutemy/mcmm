@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sonar maven2 core plugins</name>
+      <prefix>sonar-core</prefix>
+      <artifactId>sonar-core-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonar :: Development Maven Plugin</name>
+      <prefix>sonar-dev</prefix>
+      <artifactId>sonar-dev-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>sonar-dev-mojo</name>
+      <prefix>sonar-dev-mojo</prefix>
+      <artifactId>sonar-dev-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>SonarQube :: Maven2 Plugin</name>
+      <prefix>sonar</prefix>
+      <artifactId>sonar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonar :: Maven3 Plugin</name>
+      <prefix>sonar3</prefix>
+      <artifactId>sonar-maven3-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SonarSource :: Update Center :: Packaging Mojo</name>
+      <prefix>sonar-packaging</prefix>
+      <artifactId>sonar-packaging-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SonarSource :: Update Center :: Maven Plugin</name>
+      <prefix>sonar-update-center-mojo</prefix>
+      <artifactId>sonar-update-center-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

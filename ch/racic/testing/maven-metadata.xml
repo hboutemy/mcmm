@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-cm-plugin Maven Mojo</name>
+      <prefix>cm</prefix>
+      <artifactId>cm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-cm-plugin Maven Mojo</name>
+      <prefix>cm</prefix>
+      <artifactId>maven-cm-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

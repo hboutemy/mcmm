@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Gemfile Maven Pugin</name>
+      <prefix>gemfile</prefix>
+      <artifactId>gemfile-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>gradle-maven-plugin Maven Mojo</name>
+      <prefix>gradle</prefix>
+      <artifactId>gradle-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

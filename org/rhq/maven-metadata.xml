@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>RHQ Cassandra CCM Maven Plugin</name>
+      <prefix>rhq-cassandra-ccm</prefix>
+      <artifactId>rhq-cassandra-ccm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RHQ PluginDoc Maven 2 Plugin</name>
+      <prefix>rhq-coredoc</prefix>
+      <artifactId>rhq-core-plugindoc</artifactId>
+    </plugin>
+    <plugin>
+      <name>RHQ Plugin Validator Maven 2 Plugin</name>
+      <prefix>rhqvalidator</prefix>
+      <artifactId>rhq-plugin-validator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <versioning>
+    <latest>1.0.1</latest>
+    <release>1.0.1</release>
+    <versions>
+      <version>1.0.0</version>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20100831042803</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>dybdob Maven Mojo</name>
+      <prefix>dybdob-mojo</prefix>
+      <artifactId>dybdob-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>dybdob Maven Utility Mojos</name>
+      <prefix>dybdob-util-mojos</prefix>
+      <artifactId>dybdob-util-mojos</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

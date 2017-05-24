@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Perforce Maven Mojos</name>
+      <prefix>p4mojo</prefix>
+      <artifactId>p4maven-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

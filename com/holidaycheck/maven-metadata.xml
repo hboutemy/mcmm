@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>marathon-maven-plugin</name>
+      <prefix>marathon</prefix>
+      <artifactId>marathon-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Github Tag Mojo</name>
+      <prefix>github-tag</prefix>
+      <artifactId>github-tag-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SDS Maven Mojo</name>
+      <prefix>sds</prefix>
+      <artifactId>sds-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

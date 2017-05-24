@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GitHub Downloads Maven Plugin</name>
+      <prefix>ghDownloads</prefix>
+      <artifactId>downloads-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GitHub Site Maven Plugin</name>
+      <prefix>site</prefix>
+      <artifactId>site-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GitHub Site Maven Plugin</name>
+      <prefix>ghSite</prefix>
+      <artifactId>site-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

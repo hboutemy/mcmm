@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>P2 Bridge :: Maven Plugin</name>
+      <prefix>p2-bridge</prefix>
+      <artifactId>maven-p2-bridge-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonatype Tycho :: P2 :: Publisher :: Maven Plugin</name>
+      <prefix>p2-publisher</prefix>
+      <artifactId>maven-p2-publisher-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sisu :: Assembler :: Maven Plugin</name>
+      <prefix>sisu-assembler</prefix>
+      <artifactId>maven-sisu-assembler-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

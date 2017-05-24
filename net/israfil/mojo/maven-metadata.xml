@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Flex 2.0 maven plugin</name>
+      <prefix>flex2</prefix>
+      <artifactId>maven-flex2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Flex 2.0 maven plugin support classes</name>
+      <prefix>flex2support</prefix>
+      <artifactId>maven-flex2-plugin-support</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

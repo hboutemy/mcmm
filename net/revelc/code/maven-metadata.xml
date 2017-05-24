@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>APILyzer Maven Plugin</name>
+      <prefix>apilyzer</prefix>
+      <artifactId>apilyzer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>formatter-maven-plugin</name>
+      <prefix>formatter</prefix>
+      <artifactId>formatter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Warbucks Maven Plugin</name>
+      <prefix>warbucks</prefix>
+      <artifactId>warbucks-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ZooKeeper Maven Plugin</name>
+      <prefix>zookeeper</prefix>
+      <artifactId>zookeeper-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

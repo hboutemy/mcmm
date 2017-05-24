@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven2 Netbeans Debugger Plugin</name>
+      <prefix>netbeans-debugger</prefix>
+      <artifactId>netbeans-debugger-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven2 Netbeans Deployment Plugin</name>
+      <prefix>netbeans-deploy</prefix>
+      <artifactId>netbeans-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven2 Netbeans JAR Running Plugin</name>
+      <prefix>netbeans-run</prefix>
+      <artifactId>netbeans-run-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven2 NetBeans NBM Reload Plugin</name>
+      <prefix>netbeans-nbmreload</prefix>
+      <artifactId>netbeans-nbmreload-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

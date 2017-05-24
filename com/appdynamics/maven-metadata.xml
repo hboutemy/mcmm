@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AppDynamics Instrumentation Android Maven Plugin</name>
+      <prefix>appdynamics</prefix>
+      <artifactId>appdynamics-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

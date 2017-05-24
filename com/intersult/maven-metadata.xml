@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Abraxas Maven</name>
+      <prefix>abraxas</prefix>
+      <artifactId>abraxas-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>Add Source Maven Plugin</name>
+      <prefix>add-source</prefix>
+      <artifactId>add-source-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Dynamic Maven Build Plugin</name>
+      <prefix>dynamic</prefix>
+      <artifactId>dynamic-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>EAR Maven Plugin</name>
+      <prefix>ear</prefix>
+      <artifactId>ear-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Encoding Maven Plugin</name>
+      <prefix>encoding</prefix>
+      <artifactId>encoding-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Properties Plugin</name>
+      <prefix>properties</prefix>
+      <artifactId>properties-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Source JAR Maven Plugin</name>
+      <prefix>source</prefix>
+      <artifactId>source-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SSL Tools Maven Plugin</name>
+      <prefix>ssl</prefix>
+      <artifactId>ssl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Thin WAR Maven Plugin</name>
+      <prefix>thin-war</prefix>
+      <artifactId>thin-war-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WAR Maven Plugin</name>
+      <prefix>war</prefix>
+      <artifactId>war-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>XSLT Maven Plugin</name>
+      <prefix>xslt</prefix>
+      <artifactId>xslt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

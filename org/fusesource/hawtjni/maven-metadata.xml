@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HawtJNI Maven Plugin</name>
+      <prefix>hawtjni</prefix>
+      <artifactId>maven-hawtjni-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

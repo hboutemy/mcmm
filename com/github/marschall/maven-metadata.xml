@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven jdeps plugin</name>
+      <prefix>jdeps</prefix>
+      <artifactId>jdeps-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

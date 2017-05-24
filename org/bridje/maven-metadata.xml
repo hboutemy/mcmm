@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bridje Maven Plugin</name>
+      <prefix>bridje</prefix>
+      <artifactId>bridje-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Bridje XSD Maven Plugin</name>
+      <prefix>bridje-xsd</prefix>
+      <artifactId>bridje-xsd-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Spring-REST-Doc Maven Plugin</name>
+      <prefix>apidoc</prefix>
+      <artifactId>spring-rest-doc-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spring-REST-Doc Maven Plugin</name>
+      <prefix>spring-rest-doc</prefix>
+      <artifactId>spring-rest-doc-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-stringtemplate-plugin</name>
+      <prefix>stringtemplate</prefix>
+      <artifactId>maven-stringtemplate-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

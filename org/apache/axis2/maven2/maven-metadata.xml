@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Axis 2 Aar Maven Plugin</name>
+      <prefix>axis2-aar</prefix>
+      <artifactId>axis2-aar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Axis 2 Java2WSDL Maven Plugin</name>
+      <prefix>axis2-java2wsdl</prefix>
+      <artifactId>axis2-java2wsdl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Axis 2 WSDL2Code Maven Plugin</name>
+      <prefix>axis2-wsdl2code</prefix>
+      <artifactId>axis2-wsdl2code-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

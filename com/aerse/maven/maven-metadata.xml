@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>deploy to apt</name>
+      <prefix>apt</prefix>
+      <artifactId>apt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>.deb packages</name>
+      <prefix>deb</prefix>
+      <artifactId>deb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fingerprint-plugin</name>
+      <prefix>fingerprint</prefix>
+      <artifactId>fingerprint-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>eFaps Maven Jetty-plugin</name>
+      <prefix>efaps-jetty</prefix>
+      <artifactId>efaps-jetty-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>eFaps Maven Plug-In</name>
+      <prefix>efaps</prefix>
+      <artifactId>efaps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-efaps-jetty</name>
+      <prefix>efaps-jetty</prefix>
+      <artifactId>maven-efaps-jetty</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven eFaps Plug-In</name>
+      <prefix>efaps</prefix>
+      <artifactId>maven-efaps-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Plug-In for Wiki Utility</name>
+      <prefix>wikiutil</prefix>
+      <artifactId>wikiutil-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-framework-plugin Maven Mojo</name>
+      <prefix>framework</prefix>
+      <artifactId>maven-framework-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

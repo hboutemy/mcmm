@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Embedded GlassFish Plugin</name>
+      <prefix>embedded-glassfish</prefix>
+      <artifactId>maven-embedded-glassfish-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for GlassFish</name>
+      <prefix>glassfish</prefix>
+      <artifactId>maven-glassfish-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

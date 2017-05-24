@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Camel :: Maven Plugins :: BOM Generator</name>
+      <prefix>bom-generator</prefix>
+      <artifactId>bom-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel API Component Plugin</name>
+      <prefix>camel-api-component</prefix>
+      <artifactId>camel-api-component-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Connectors :: Camel Connector Maven Plugin</name>
+      <prefix>camel-connector</prefix>
+      <artifactId>camel-connector-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel EIP Documentation Enricher Plugin</name>
+      <prefix>camel-eip-documentation-enricher</prefix>
+      <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <prefix>camel</prefix>
+      <artifactId>camel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <prefix>camel</prefix>
+      <artifactId>camel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Package</name>
+      <prefix>camel-package</prefix>
+      <artifactId>camel-package-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Swagger REST DSL Generator Maven plugin</name>
+      <prefix>camel-restdsl-swagger</prefix>
+      <artifactId>camel-restdsl-swagger-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Guice (deprecated)</name>
+      <prefix>guice</prefix>
+      <artifactId>guice-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Guice</name>
+      <prefix>guice</prefix>
+      <artifactId>guice-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Html to Pdf Plugin</name>
+      <prefix>html-to-pdf</prefix>
+      <artifactId>maven-html-to-pdf</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Manual</name>
+      <prefix>html-to-pdf</prefix>
+      <artifactId>maven-html-to-pdf</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

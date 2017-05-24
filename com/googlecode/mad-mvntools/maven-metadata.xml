@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>m2eclipsegen</name>
+      <prefix>m2eclipsegen</prefix>
+      <artifactId>m2eclipsegen</artifactId>
+    </plugin>
+    <plugin>
+      <name>settingsutil</name>
+      <prefix>settingsutil</prefix>
+      <artifactId>settingsutil</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

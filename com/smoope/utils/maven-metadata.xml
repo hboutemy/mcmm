@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for J2ObjC library</name>
+      <prefix>j2objc</prefix>
+      <artifactId>j2objc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

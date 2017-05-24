@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-junction-plugin</name>
+      <prefix>junction</prefix>
+      <artifactId>maven-junction-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-password-plugin</name>
+      <prefix>password</prefix>
+      <artifactId>maven-password-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

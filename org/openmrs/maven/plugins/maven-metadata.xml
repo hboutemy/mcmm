@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenMRS SDK Docker Maven Plugin</name>
+      <prefix>openmrs-sdk-docker</prefix>
+      <artifactId>openmrs-sdk-docker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenMRS SDK Maven Plugin</name>
+      <prefix>openmrs-sdk</prefix>
+      <artifactId>openmrs-sdk-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

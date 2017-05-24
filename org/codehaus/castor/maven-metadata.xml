@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Castor XML - Maven Mojos for executing XMLCTF tests</name>
+      <prefix>castors</prefix>
+      <artifactId>castor-maven-plugins</artifactId>
+    </plugin>
+    <plugin>
+      <name>Castor XML - Code generator JUnit test archetype</name>
+      <prefix>codegen-testcase</prefix>
+      <artifactId>codegen-testcase</artifactId>
+    </plugin>
+    <plugin>
+      <name>Castor CPA - JUnit test archetype</name>
+      <prefix>cpa-testcase</prefix>
+      <artifactId>cpa-testcase</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

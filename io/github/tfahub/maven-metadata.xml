@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Local Repository Maven Plugin</name>
+      <prefix>local-repository</prefix>
+      <artifactId>local-repository-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

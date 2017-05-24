@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven JAXB Plugin</name>
+      <prefix>jaxb</prefix>
+      <artifactId>maven-jaxb-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

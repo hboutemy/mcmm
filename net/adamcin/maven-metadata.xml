@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Granite IT Maven Plugin</name>
+      <prefix>graniteit</prefix>
+      <artifactId>graniteit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Scala Mojo Maven Plugin</name>
+      <prefix>scalamojo</prefix>
+      <artifactId>scalamojo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Snag Jar Maven Plugin</name>
+      <prefix>snagjar</prefix>
+      <artifactId>snagjar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>VLT Pack Maven Plugin</name>
+      <prefix>vltpack</prefix>
+      <artifactId>vltpack-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

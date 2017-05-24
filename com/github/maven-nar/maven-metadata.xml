@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Native ARchive plugin for Maven</name>
+      <prefix>nar</prefix>
+      <artifactId>nar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

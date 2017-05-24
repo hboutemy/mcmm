@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>dcc-bundle</prefix>
+      <artifactId>dcc-bundle-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>dcc-documentation</prefix>
+      <artifactId>dcc-documentation-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

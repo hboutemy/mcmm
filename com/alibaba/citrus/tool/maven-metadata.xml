@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Antx Auto-config Maven Plugin</name>
+      <prefix>autoconfig</prefix>
+      <artifactId>autoconfig-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Docbook-XSL Transformers</name>
+      <prefix>docbook</prefix>
+      <artifactId>docbook-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for autoconfig</name>
+      <prefix>autoconfig</prefix>
+      <artifactId>maven-autoconfig-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Docbook-XSL Transformers</name>
+      <prefix>docbook</prefix>
+      <artifactId>maven-docbook-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven plugin for springext</name>
+      <prefix>springext</prefix>
+      <artifactId>maven-springext-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Plugin Utils</name>
+      <prefix>maven-util</prefix>
+      <artifactId>maven-util</artifactId>
+    </plugin>
+    <plugin>
+      <name>SpringExt Maven Plugin</name>
+      <prefix>springext</prefix>
+      <artifactId>springext-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

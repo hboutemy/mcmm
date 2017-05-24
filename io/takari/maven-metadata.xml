@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>nolifecycle</prefix>
+      <artifactId>maven-nolifecycle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name></name>
+      <prefix>takari-bugbuster</prefix>
+      <artifactId>takari-bugbuster-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

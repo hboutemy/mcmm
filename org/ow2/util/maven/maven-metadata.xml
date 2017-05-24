@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: Ant RMIC Plugin</name>
+      <prefix>antrmic</prefix>
+      <artifactId>antrmic-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: Deployment Plan Plugin</name>
+      <prefix>deploymentplan</prefix>
+      <artifactId>deploymentplan-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: JOnAS Building Plugin</name>
+      <prefix>jbuilding</prefix>
+      <artifactId>jbuilding-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: Deployment Plan</name>
+      <prefix>deploymentplan</prefix>
+      <artifactId>maven-deploymentplan-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: JOnAS Building Helper</name>
+      <prefix>jbuilding</prefix>
+      <artifactId>maven-jbuilding-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: Merge Properties</name>
+      <prefix>merge-properties</prefix>
+      <artifactId>maven-merge-properties-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: OSGi :: Launchers :: Core</name>
+      <prefix>osgilauncher-core</prefix>
+      <artifactId>maven-osgi-plugin-launcher-core</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: Merge Properties Plugin</name>
+      <prefix>mergeproperties</prefix>
+      <artifactId>mergeproperties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: OSGi :: Frameworks launcher core</name>
+      <prefix>osgiframeworks-launcher</prefix>
+      <artifactId>osgi-plugin-frameworks-launcher</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: Property Editor Plugin</name>
+      <prefix>propertyeditor</prefix>
+      <artifactId>propertyeditor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Utilities :: Maven :: XML Editor Plugin</name>
+      <prefix>xmleditor</prefix>
+      <artifactId>xmleditor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

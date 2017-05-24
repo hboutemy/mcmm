@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>fluxtion :: maven plugin</name>
+      <prefix>fluxtion</prefix>
+      <artifactId>fluxtion-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fluxtion.statemachine :: maven plugin</name>
+      <prefix>fluxtion-statemachine</prefix>
+      <artifactId>fluxtion-statemachine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>fluxtionfx :: maven plugin</name>
+      <prefix>fluxtionfx</prefix>
+      <artifactId>fluxtionfx-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

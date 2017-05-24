@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jetspeed 2 Database Maven Plugin</name>
+      <prefix>jetspeed-db</prefix>
+      <artifactId>jetspeed-db-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetspeed 2 Deploy Maven Plugin</name>
+      <prefix>jetspeed-deploy</prefix>
+      <artifactId>jetspeed-deploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetspeed 2 File-Utils Maven Plugin</name>
+      <prefix>jetspeed-fileutils</prefix>
+      <artifactId>jetspeed-fileutils-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetspeed 2 Maven Invoker Plugin</name>
+      <prefix>jetspeed-mvn</prefix>
+      <artifactId>jetspeed-mvn-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetspeed 2 Unpack Maven Plugin</name>
+      <prefix>jetspeed-unpack</prefix>
+      <artifactId>jetspeed-unpack-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jetspeed 2 Unpack WAR Maven Plugin</name>
+      <prefix>jetspeed-unpack-war</prefix>
+      <artifactId>jetspeed-unpack-war-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

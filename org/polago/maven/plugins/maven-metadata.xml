@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Merge Properties Maven Plugin</name>
+      <prefix>merge-properties</prefix>
+      <artifactId>merge-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

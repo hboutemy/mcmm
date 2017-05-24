@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CRX Maven Plugin</name>
+      <prefix>crx</prefix>
+      <artifactId>crx-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>e-Mail Server Plugin</name>
+      <prefix>emailserver</prefix>
+      <artifactId>emailserver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plugin</name>
+      <prefix>ldap</prefix>
+      <artifactId>ldap-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spoon Maven Plugin</name>
+      <prefix>spoon</prefix>
+      <artifactId>spoon-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

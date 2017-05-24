@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Blammo Plug-in</name>
+      <prefix>blammo</prefix>
+      <artifactId>blammo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

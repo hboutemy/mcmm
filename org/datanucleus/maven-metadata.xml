@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>DataNucleus Maven Plugin</name>
+      <prefix>datanucleus</prefix>
+      <artifactId>datanucleus-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>DataNucleus Maven2 Plugin</name>
+      <prefix>datanucleus</prefix>
+      <artifactId>maven-datanucleus-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

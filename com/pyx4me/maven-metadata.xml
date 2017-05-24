@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>proguard-maven-plugin</name>
+      <prefix>proguard</prefix>
+      <artifactId>proguard-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>j2me-maven-plugin</name>
+      <prefix>j2me</prefix>
+      <artifactId>j2me-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>j2me Archetype</name>
+      <prefix>j2me-simple</prefix>
+      <artifactId>j2me-simple</artifactId>
+    </plugin>
+    <plugin>
+      <name>obex-maven-plugin</name>
+      <prefix>obex</prefix>
+      <artifactId>obex-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

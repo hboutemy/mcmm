@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>selenium-helper</name>
+      <prefix>testng-xml-maker</prefix>
+      <artifactId>testng-xml-maker-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

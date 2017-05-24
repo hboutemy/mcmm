@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven bytecode filter plugin</name>
+      <prefix>bitecodefilter</prefix>
+      <artifactId>bitecodefilter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

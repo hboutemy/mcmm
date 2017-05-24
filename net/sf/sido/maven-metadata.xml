@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SiDO Generation Maven Plug-in</name>
+      <prefix>sido-gen</prefix>
+      <artifactId>sido-gen-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>SiDO POJO Maven Plug-in</name>
+      <prefix>sido-pojo</prefix>
+      <artifactId>sido-pojo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

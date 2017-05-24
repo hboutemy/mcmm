@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>clojure-maven-plugin Maven Mojo</name>
+      <prefix>clojure</prefix>
+      <artifactId>clojure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Coffeescript Maven Plugin</name>
+      <prefix>coffee</prefix>
+      <artifactId>coffee-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>googleformatter-maven-plugin Maven Mojo</name>
+      <prefix>googleformatter</prefix>
+      <artifactId>googleformatter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-youtrack-plugin Maven Mojo</name>
+      <prefix>youtrack</prefix>
+      <artifactId>youtrack-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Index Maven Plugin</name>
+      <prefix>trap-index</prefix>
+      <artifactId>trap-index-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

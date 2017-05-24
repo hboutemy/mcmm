@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Batoo JPA Maven Plugin</name>
+      <prefix>batoo</prefix>
+      <artifactId>batoo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

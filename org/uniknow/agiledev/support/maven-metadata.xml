@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin Embedded MySQL Server</name>
+      <prefix>embedded-mysql</prefix>
+      <artifactId>maven-embedded-mysql</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

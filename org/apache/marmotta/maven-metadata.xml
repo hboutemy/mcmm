@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Buildinfo Plugin</name>
+      <prefix>buildinfo</prefix>
+      <artifactId>buildinfo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Marmotta Plugin</name>
+      <prefix>marmotta</prefix>
+      <artifactId>marmotta-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Refpack Plugin</name>
+      <prefix>refpack</prefix>
+      <artifactId>refpack-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Repository Plugin</name>
+      <prefix>repocheck</prefix>
+      <artifactId>repocheck-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

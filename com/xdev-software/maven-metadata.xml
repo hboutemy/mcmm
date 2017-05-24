@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>RapidClipse DesktopKit App Builder</name>
+      <prefix>desktopkit-appbuilder</prefix>
+      <artifactId>desktopkit-appbuilder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MobileKit App Builder</name>
+      <prefix>mobilekit-appbuilder</prefix>
+      <artifactId>mobilekit-appbuilder-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

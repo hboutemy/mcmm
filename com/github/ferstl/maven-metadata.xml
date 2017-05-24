@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Depgraph Maven Plugin</name>
+      <prefix>depgraph</prefix>
+      <artifactId>depgraph-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JITWatch JarScan Maven Plugin</name>
+      <prefix>jitwatch-jarscan</prefix>
+      <artifactId>jitwatch-jarscan-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

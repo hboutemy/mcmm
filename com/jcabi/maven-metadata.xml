@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jcabi-beanstalk-maven-plugin</name>
+      <prefix>jcabi-beanstalk</prefix>
+      <artifactId>jcabi-beanstalk-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-dynamodb-maven-plugin</name>
+      <prefix>jcabi-dynamodb</prefix>
+      <artifactId>jcabi-dynamodb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-heroku-maven-plugin</name>
+      <prefix>jcabi-heroku</prefix>
+      <artifactId>jcabi-heroku-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-latex-maven-plugin</name>
+      <prefix>jcabi-latex</prefix>
+      <artifactId>jcabi-latex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-maven-plugin</name>
+      <prefix>jcabi</prefix>
+      <artifactId>jcabi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-mysql-maven-plugin</name>
+      <prefix>jcabi-mysql</prefix>
+      <artifactId>jcabi-mysql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jcabi-ssl-maven-plugin</name>
+      <prefix>jcabi-ssl</prefix>
+      <artifactId>jcabi-ssl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

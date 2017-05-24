@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>A Maven Plugin for running and deploying appengine applications</name>
+      <prefix>appengine</prefix>
+      <artifactId>appengine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>A Maven Plugin using the Cloud SDK for running and deploying appengine applications</name>
+      <prefix>gcloud</prefix>
+      <artifactId>gcloud-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

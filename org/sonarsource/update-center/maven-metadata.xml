@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SonarSource :: Update Center :: Maven Plugin</name>
+      <prefix>sonar-update-center-mojo</prefix>
+      <artifactId>sonar-update-center-mojo</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

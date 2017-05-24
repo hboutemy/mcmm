@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JPA Class Scanner Maven Plugin</name>
+      <prefix>jpa-scanner</prefix>
+      <artifactId>jpa-scanner-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>REST Controller Framework (Scanner Maven Plugin)</name>
+      <prefix>rcf-scanner</prefix>
+      <artifactId>rcf-scanner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

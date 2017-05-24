@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OSGi distribution package builder</name>
+      <prefix>osgi-dp</prefix>
+      <artifactId>osgi-dp</artifactId>
+    </plugin>
+    <plugin>
+      <name>Java RPM builder</name>
+      <prefix>rpm</prefix>
+      <artifactId>rpm</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

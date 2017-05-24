@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Crypto Plugin</name>
+      <prefix>crypto</prefix>
+      <artifactId>crypto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven injection plugin</name>
+      <prefix>inject</prefix>
+      <artifactId>inject-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

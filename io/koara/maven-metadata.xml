@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>first-maven-plugin Maven Mojo</name>
+      <prefix>koara</prefix>
+      <artifactId>koara-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

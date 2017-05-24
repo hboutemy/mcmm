@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>confluence</prefix>
+      <artifactId>confluence-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vodafone Italy Maven Plugin</name>
+      <prefix>vodafoneitaly</prefix>
+      <artifactId>vodafoneitaly-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

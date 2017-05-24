@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>KIE EAP - Maven plugin</name>
+      <prefix>jboss-modules</prefix>
+      <artifactId>jboss-modules</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kie Maven Plugin</name>
+      <prefix>kie</prefix>
+      <artifactId>kie-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>avaje-metric-mavenenhancer: Maven byte code enhancement for Timed metric collection</name>
+      <prefix>avaje-metricenhancer</prefix>
+      <artifactId>avaje-metric-mavenenhancer</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven byte code enhancement for Timed metric collection</name>
+      <prefix>enhance</prefix>
+      <artifactId>enhance-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

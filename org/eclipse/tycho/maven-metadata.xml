@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tycho Target Platform Configuration Plugin</name>
+      <prefix>target-platform-configuration</prefix>
+      <artifactId>target-platform-configuration</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Target Platform Configuration Plugin (Incubation)</name>
+      <prefix>target-platform-configuration</prefix>
+      <artifactId>target-platform-configuration</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Compiler Plugin</name>
+      <prefix>tycho-compiler</prefix>
+      <artifactId>tycho-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Compiler Plugin (Incubation)</name>
+      <prefix>tycho-compiler</prefix>
+      <artifactId>tycho-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Maven Build Extension</name>
+      <prefix>tycho</prefix>
+      <artifactId>tycho-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Maven Build Extension (Incubation)</name>
+      <prefix>tycho</prefix>
+      <artifactId>tycho-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Director Plugin</name>
+      <prefix>tycho-p2-director</prefix>
+      <artifactId>tycho-p2-director-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Director Plugin (Incubation)</name>
+      <prefix>tycho-p2-director</prefix>
+      <artifactId>tycho-p2-director-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Metadata Plugin</name>
+      <prefix>tycho-p2</prefix>
+      <artifactId>tycho-p2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Metadata Plugin (Incubation)</name>
+      <prefix>tycho-p2</prefix>
+      <artifactId>tycho-p2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Publisher Plugin</name>
+      <prefix>tycho-p2-publisher</prefix>
+      <artifactId>tycho-p2-publisher-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Publisher Plugin (Incubation)</name>
+      <prefix>tycho-p2-publisher</prefix>
+      <artifactId>tycho-p2-publisher-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Repository Plugin</name>
+      <prefix>tycho-p2-repository</prefix>
+      <artifactId>tycho-p2-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho p2 Repository Plugin (Incubation)</name>
+      <prefix>tycho-p2-repository</prefix>
+      <artifactId>tycho-p2-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Packaging Plugin</name>
+      <prefix>tycho-packaging</prefix>
+      <artifactId>tycho-packaging-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Packaging Plugin (Incubation)</name>
+      <prefix>tycho-packaging</prefix>
+      <artifactId>tycho-packaging-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho POM Generator Plugin</name>
+      <prefix>tycho-pomgenerator</prefix>
+      <artifactId>tycho-pomgenerator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho POM Generator Plugin (Incubation)</name>
+      <prefix>tycho-pomgenerator</prefix>
+      <artifactId>tycho-pomgenerator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Source Plugin</name>
+      <prefix>tycho-source</prefix>
+      <artifactId>tycho-source-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho OSGi Source Plugin (Incubation)</name>
+      <prefix>tycho-source</prefix>
+      <artifactId>tycho-source-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Surefire Plugin</name>
+      <prefix>tycho-surefire</prefix>
+      <artifactId>tycho-surefire-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Surefire Plugin (Incubation)</name>
+      <prefix>tycho-surefire</prefix>
+      <artifactId>tycho-surefire-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Versions Plugin</name>
+      <prefix>tycho-versions</prefix>
+      <artifactId>tycho-versions-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tycho Versions Plugin (Incubation)</name>
+      <prefix>tycho-versions</prefix>
+      <artifactId>tycho-versions-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Hudson Plugin</name>
+      <prefix>hudson</prefix>
+      <artifactId>maven-hudson-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

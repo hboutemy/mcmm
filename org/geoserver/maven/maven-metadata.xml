@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <versioning>
+    <versions>
+      <version>1.5.2</version>
+      <version>1.5.4</version>
+      <version>1.6.1</version>
+      <version>1.6.2</version>
+      <version>1.7.0</version>
+    </versions>
+    <lastUpdated>20081118204759</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>Configuration Deployment PlugIn</name>
+      <prefix>config</prefix>
+      <artifactId>config</artifactId>
+    </plugin>
+    <plugin>
+      <name>Artifact Merger PlugIn</name>
+      <prefix>merger</prefix>
+      <artifactId>merger</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

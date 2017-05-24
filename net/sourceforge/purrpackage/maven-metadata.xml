@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PurrPackage Maven Plugin</name>
+      <prefix>purrpackage</prefix>
+      <artifactId>purrpackage-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PurrPackage Maven Plugin For Plain Cobertura Report</name>
+      <prefix>purrpackageplaincobertura</prefix>
+      <artifactId>purrpackageplaincobertura-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

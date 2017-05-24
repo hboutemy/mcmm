@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>FindBugs Maven Plugin</name>
+      <prefix>findbugs</prefix>
+      <artifactId>findbugs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Velocity Maven Plugin</name>
+      <prefix>velocity</prefix>
+      <artifactId>velocity-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

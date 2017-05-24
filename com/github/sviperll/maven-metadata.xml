@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>coreext-maven-plugin</name>
+      <prefix>coreext</prefix>
+      <artifactId>coreext-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>mustache-maven-plugin</name>
+      <prefix>mustache</prefix>
+      <artifactId>mustache-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>versioning-maven-plugin</name>
+      <prefix>versioning</prefix>
+      <artifactId>versioning-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

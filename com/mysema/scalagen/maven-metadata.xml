@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Scalagen - Maven plugin</name>
+      <prefix>scalagen</prefix>
+      <artifactId>scalagen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Scalagen - Maven plugin</name>
+      <prefix>scalagen_2.10.1</prefix>
+      <artifactId>scalagen-maven-plugin_2.10.1</artifactId>
+    </plugin>
+    <plugin>
+      <name>Scalagen - Maven plugin</name>
+      <prefix>scalagen_2.9.3</prefix>
+      <artifactId>scalagen-maven-plugin_2.9.3</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

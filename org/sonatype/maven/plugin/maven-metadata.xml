@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>cobertura4it</prefix>
+      <artifactId>cobertura4it-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Emma Plugin</name>
+      <prefix>emma</prefix>
+      <artifactId>emma-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>emma4it Maven Mojo</name>
+      <prefix>emma4it</prefix>
+      <artifactId>emma4it-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Selenium Grid Plugin</name>
+      <prefix>selenium-grid</prefix>
+      <artifactId>selenium-grid-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

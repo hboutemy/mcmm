@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>scalate_2.10</prefix>
+      <artifactId>maven-scalate-plugin_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>scalate_2.11</prefix>
+      <artifactId>maven-scalate-plugin_2.11</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

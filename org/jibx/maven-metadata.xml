@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven JiBX Plugin</name>
+      <prefix>jibx</prefix>
+      <artifactId>jibx-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JiBX Plugin</name>
+      <prefix>jibx</prefix>
+      <artifactId>maven-jibx-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

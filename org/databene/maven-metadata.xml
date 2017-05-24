@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>benerator maven plugin</name>
+      <prefix>benerator</prefix>
+      <artifactId>benerator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven benerator plugin</name>
+      <prefix>benerator</prefix>
+      <artifactId>maven-benerator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

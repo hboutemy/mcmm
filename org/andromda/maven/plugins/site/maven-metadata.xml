@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AndroMDA Site Cartridge Plugin</name>
+      <prefix>andromda-site-cartridge</prefix>
+      <artifactId>andromda-site-cartridge-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>AndroMDA Site Plugin</name>
+      <prefix>andromda-site</prefix>
+      <artifactId>andromda-site-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>mydalgen</prefix>
+      <artifactId>maven-mydalgen-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>mybatisdalgen</prefix>
+      <artifactId>mybatisdalgen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

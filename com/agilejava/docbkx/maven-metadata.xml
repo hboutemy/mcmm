@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Docbkx Maven Plugin Builder</name>
+      <prefix>docbkx-builder</prefix>
+      <artifactId>docbkx-builder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Docbkx FOP Support</name>
+      <prefix>docbkx-fop-support</prefix>
+      <artifactId>docbkx-fop-support</artifactId>
+    </plugin>
+    <plugin>
+      <name>Docbkx Maven Plugin</name>
+      <prefix>docbkx</prefix>
+      <artifactId>docbkx-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>bbh-maven-plugin</name>
+      <prefix>bbh</prefix>
+      <artifactId>bbh-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Pathname Utility Maven Plugin</name>
+      <prefix>pathname-util</prefix>
+      <artifactId>pathname-util-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

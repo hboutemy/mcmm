@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jsr305-maven-plugin Maven Mojo</name>
+      <prefix>jsr305</prefix>
+      <artifactId>jsr305-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

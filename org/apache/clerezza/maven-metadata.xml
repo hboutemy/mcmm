@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Clerezza - Maven JaxRs Report Plugin</name>
+      <prefix>jaxrs-report</prefix>
+      <artifactId>maven-jaxrs-report-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Clerezza - RDF - SchemaGen: Maven Ontologies Plugin</name>
+      <prefix>ontologies</prefix>
+      <artifactId>maven-ontologies-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Clerezza - Maven PlaDoc Plugin Core</name>
+      <prefix>pladoc.core</prefix>
+      <artifactId>maven-pladoc-plugin.core</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

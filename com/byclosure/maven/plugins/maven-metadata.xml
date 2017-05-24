@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>bundle</prefix>
+      <artifactId>bundler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>com.byclosure.maven.plugins:google-storage-upload</name>
+      <prefix>byclosure-plugins</prefix>
+      <artifactId>google-storage-upload</artifactId>
+    </plugin>
+    <plugin>
+      <name>phonegap-maven-plugin</name>
+      <prefix>phonegap</prefix>
+      <artifactId>phonegap-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

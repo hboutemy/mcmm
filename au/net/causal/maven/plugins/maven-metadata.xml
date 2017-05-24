@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Boxed Database Maven Plugin</name>
+      <prefix>boxdb</prefix>
+      <artifactId>boxdb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Docker Image Archive Maven Plugin</name>
+      <prefix>docker-image-archive</prefix>
+      <artifactId>docker-image-archive-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven HTML to PDF Converter Plugin</name>
+      <prefix>html2pdf</prefix>
+      <artifactId>html2pdf-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

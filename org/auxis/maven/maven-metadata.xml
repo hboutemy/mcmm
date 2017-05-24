@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>auxis - Material Maven Plugin</name>
+      <prefix>material</prefix>
+      <artifactId>material-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>auxis - Maven Material Plugin</name>
+      <prefix>material</prefix>
+      <artifactId>maven-material-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>catalogue-maven-plugin</name>
+      <prefix>catalogue</prefix>
+      <artifactId>catalogue-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Dashboard Plugin for Maven 2</name>
+      <prefix>dashboard</prefix>
+      <artifactId>dashboard-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>javasource-maven-plugin</name>
+      <prefix>javasource</prefix>
+      <artifactId>javasource-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>run-maven-plugin</name>
+      <prefix>run</prefix>
+      <artifactId>run-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

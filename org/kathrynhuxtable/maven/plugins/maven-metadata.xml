@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>docbkx-wrapper-plugin Maven Mojo</name>
+      <prefix>docbkx-wrapper</prefix>
+      <artifactId>docbkx-wrapper-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>HTML Filter Site Maven plugin</name>
+      <prefix>htmlfilter-site</prefix>
+      <artifactId>htmlfilter-site-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Image Generator Maven plugin</name>
+      <prefix>imagegenerator</prefix>
+      <artifactId>imagegenerator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

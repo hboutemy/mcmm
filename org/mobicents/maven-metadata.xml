@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mobicents Sbb Plugin</name>
+      <prefix>mobicents-sbb</prefix>
+      <artifactId>mobicents-sbb-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mobicents RA Plugin</name>
+      <prefix>mobicents-ra</prefix>
+      <artifactId>mobicents-ra-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

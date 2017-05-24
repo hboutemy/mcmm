@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ANTLR 3 Maven plugin</name>
+      <prefix>antlr3</prefix>
+      <artifactId>antlr3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ANTLR 4 Maven plugin</name>
+      <prefix>antlr4</prefix>
+      <artifactId>antlr4-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ANTLR 3 gUnit Maven plugin</name>
+      <prefix>gunit</prefix>
+      <artifactId>maven-gunit-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

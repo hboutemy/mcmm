@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>a Maven plugin to generate JavaScript for JAX-RS</name>
+      <prefix>js-generator-for-jax-rs</prefix>
+      <artifactId>js-generator-for-jax-rs</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

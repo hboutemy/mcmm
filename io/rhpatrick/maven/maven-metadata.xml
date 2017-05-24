@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Properties Toolchain Maven Plugin</name>
+      <prefix>properties-toolchain</prefix>
+      <artifactId>properties-toolchain-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

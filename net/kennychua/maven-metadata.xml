@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-urlpoller-plugin Maven Mojo</name>
+      <prefix>urlpoller</prefix>
+      <artifactId>maven-urlpoller-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>phantomjs-qunit-runner Maven Mojo</name>
+      <prefix>phantomjs-qunit-runner</prefix>
+      <artifactId>phantomjs-qunit-runner</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

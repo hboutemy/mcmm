@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a build parent</name>
+      <prefix>ikasan-build-parent</prefix>
+      <artifactId>ikasan-build-parent-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a AMQ Integration Module</name>
+      <prefix>ikasan-im-jboss6-activemq</prefix>
+      <artifactId>ikasan-im-jboss6-activemq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a Schedule Driven Database Integration Module</name>
+      <prefix>ikasan-im-jboss6-db</prefix>
+      <artifactId>ikasan-im-jboss6-db-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a Schedule Driven Local File System Integration Module</name>
+      <prefix>ikasan-im-jboss6-filesystem</prefix>
+      <artifactId>ikasan-im-jboss6-filesystem-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a JMS Integration Module</name>
+      <prefix>ikasan-im-jboss6-jms</prefix>
+      <artifactId>ikasan-im-jboss6-jms-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a Schedule Driven SFTP Integration Module</name>
+      <prefix>ikasan-im-jboss6-sftp</prefix>
+      <artifactId>ikasan-im-jboss6-sftp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for an Integration Module</name>
+      <prefix>ikasan-integration-module-jboss6</prefix>
+      <artifactId>ikasan-integration-module-jboss6-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for the Ikasan Runtime configuration within JBoss6</name>
+      <prefix>ikasan-rt-conf-jboss6</prefix>
+      <artifactId>ikasan-rt-conf-jboss6-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a Jboss module supporting ActiveMQ</name>
+      <prefix>jboss6-module-activemq</prefix>
+      <artifactId>jboss6-module-activemq-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

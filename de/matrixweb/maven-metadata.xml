@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>package-json-maven-plugin</name>
+      <prefix>package-json</prefix>
+      <artifactId>package-json-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>rename-file-maven-plugin</name>
+      <prefix>rename-file</prefix>
+      <artifactId>rename-file-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

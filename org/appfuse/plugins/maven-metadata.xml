@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AppFuse Maven Plugin</name>
+      <prefix>appfuse</prefix>
+      <artifactId>appfuse-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven WarPath Plugin</name>
+      <prefix>warpath</prefix>
+      <artifactId>maven-warpath-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Warpath Maven Plugin</name>
+      <prefix>warpath</prefix>
+      <artifactId>warpath-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

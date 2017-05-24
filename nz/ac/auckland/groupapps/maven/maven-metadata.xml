@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>UOA Git Log Plugin</name>
+      <prefix>gitlog</prefix>
+      <artifactId>uoa-gitlog-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>UOA Git Log Plugin</name>
+      <prefix>uoa-gitlog</prefix>
+      <artifactId>uoa-gitlog-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

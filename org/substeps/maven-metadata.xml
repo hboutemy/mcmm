@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SubSteps Glossary Builder</name>
+      <prefix>substeps-glossary-builder</prefix>
+      <artifactId>substeps-glossary-builder</artifactId>
+    </plugin>
+    <plugin>
+      <name>SubSteps Maven Plugin</name>
+      <prefix>substeps</prefix>
+      <artifactId>substeps-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

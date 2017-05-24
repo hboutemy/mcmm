@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Build localize plugin</name>
+      <prefix>google-api-translate-java</prefix>
+      <artifactId>google-api-translate-java-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

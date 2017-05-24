@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jboss.portletbridge</groupId>
+  <artifactId>archetypes</artifactId>
+  <versioning>
+    <latest>3.2.1.Final</latest>
+    <release>3.2.1.Final</release>
+    <versions>
+      <version>1.0.0.B2</version>
+      <version>1.0.0.B3</version>
+      <version>1.0.0.B4</version>
+      <version>1.0.0.B5</version>
+      <version>1.0.0.B6</version>
+      <version>1.0.0.CR1</version>
+      <version>1.0.0.CR2</version>
+      <version>1.0.0.CR3</version>
+      <version>2.0.0.ALPHA</version>
+      <version>2.0.0.BETA</version>
+      <version>2.0.0.CR1</version>
+      <version>2.0.0.FINAL</version>
+      <version>2.0.0.FINAL.EPP43CP05</version>
+      <version>2.1.0.CR1</version>
+      <version>2.1.0.FINAL</version>
+      <version>2.2.0-CR01</version>
+      <version>2.2.0.FINAL</version>
+      <version>2.3.0.Final</version>
+      <version>2.3.1.Final</version>
+      <version>3.0.0.ALPHA</version>
+      <version>3.0.0.Beta1</version>
+      <version>3.0.0.Beta2</version>
+      <version>3.0.0.Beta3</version>
+      <version>3.0.0.Beta4</version>
+      <version>3.0.0.CR1</version>
+      <version>3.0.0.Final</version>
+      <version>3.1.0.Alpha1</version>
+      <version>3.1.0.Alpha2</version>
+      <version>3.1.0.Beta1</version>
+      <version>3.1.0.Beta2</version>
+      <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
+      <version>3.1.1.Final</version>
+      <version>3.1.2.Final</version>
+      <version>3.2.0.Alpha1</version>
+      <version>3.2.0.Alpha2</version>
+      <version>3.2.0.Beta1</version>
+      <version>3.2.0.Beta2</version>
+      <version>3.2.0.CR1</version>
+      <version>3.2.0.Final</version>
+      <version>3.2.1.Final</version>
+    </versions>
+    <lastUpdated>20130618195302</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>JSF Portlet archetype</name>
+      <prefix>1.2-basic</prefix>
+      <artifactId>1.2-basic</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSF 2.0 Portlet archetype</name>
+      <prefix>2.0-basic</prefix>
+      <artifactId>2.0-basic</artifactId>
+    </plugin>
+    <plugin>
+      <name>RichFaces portlet archetype</name>
+      <prefix>richfaces-basic</prefix>
+      <artifactId>richfaces-basic</artifactId>
+    </plugin>
+    <plugin>
+      <name>Seam portlet archetype</name>
+      <prefix>seam-basic</prefix>
+      <artifactId>seam-basic</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

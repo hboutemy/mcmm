@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jenkins Maven Plugin</name>
+      <prefix>jenkins</prefix>
+      <artifactId>jenkins-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>The Multi Module Maven Release Plugin</name>
+      <prefix>multi-module-release</prefix>
+      <artifactId>multi-module-release-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Repository Builder Maven Plugin</name>
+      <prefix>repository-builder</prefix>
+      <artifactId>repository-builder-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

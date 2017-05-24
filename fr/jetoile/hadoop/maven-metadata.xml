@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>hadoop-unit-maven-plugin</name>
+      <prefix>hadoop-unit</prefix>
+      <artifactId>hadoop-unit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

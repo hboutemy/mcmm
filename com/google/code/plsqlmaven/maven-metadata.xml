@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Oracle DDL Maven Mojo</name>
+      <prefix>oraddl</prefix>
+      <artifactId>oraddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PL/SQL Maven Mojo</name>
+      <prefix>plsql</prefix>
+      <artifactId>plsql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>XDB Maven Mojo</name>
+      <prefix>xdb</prefix>
+      <artifactId>xdb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CloudHub Maven Plugin</name>
+      <prefix>cloudhub</prefix>
+      <artifactId>cloudhub-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule ESB Maven App Plugin</name>
+      <prefix>mule-app</prefix>
+      <artifactId>mule-app-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule ESB Maven Domain Plugin</name>
+      <prefix>mule-domain</prefix>
+      <artifactId>mule-domain-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Maven Plugin</name>
+      <prefix>mule</prefix>
+      <artifactId>mule-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

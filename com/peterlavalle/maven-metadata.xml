@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>degen</name>
+      <prefix>degen</prefix>
+      <artifactId>degen</artifactId>
+    </plugin>
+    <plugin>
+      <name>Droid Maven Plugin</name>
+      <prefix>droid</prefix>
+      <artifactId>droid-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SableCC Maven 2/3 Plugin</name>
+      <prefix>sablecc</prefix>
+      <artifactId>sablecc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

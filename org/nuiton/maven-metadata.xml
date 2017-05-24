@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Helper Maven Plugin</name>
+      <prefix>helper</prefix>
+      <artifactId>helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven helper plugin</name>
+      <prefix>helper</prefix>
+      <artifactId>maven-helper-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven License Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>maven-license-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nuiton Maven reports plugin</name>
+      <prefix>nuitonreport</prefix>
+      <artifactId>nuiton-maven-report-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nuiton Utils :: Maven Report Plugin</name>
+      <prefix>nuiton-utilsreport</prefix>
+      <artifactId>nuiton-utils-maven-report-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nuiton Config :: Maven plugin</name>
+      <prefix>nuiton-config</prefix>
+      <artifactId>nuiton-config-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

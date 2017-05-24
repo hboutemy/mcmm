@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Confluence Plugin</name>
+      <prefix>confluence</prefix>
+      <artifactId>confluence-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Dependency Plugin</name>
+      <prefix>dependency</prefix>
+      <artifactId>dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Jira Plugin</name>
+      <prefix>jira</prefix>
+      <artifactId>jira-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Version List Plugin</name>
+      <prefix>versions-list</prefix>
+      <artifactId>versions-list-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

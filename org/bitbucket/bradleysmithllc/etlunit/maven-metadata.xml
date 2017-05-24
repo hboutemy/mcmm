@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>etlunit-feature-compiler Maven Mojo</name>
+      <prefix>etlunit-feature-compiler</prefix>
+      <artifactId>etlunit-feature-compiler</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-maven</name>
+      <prefix>etlunit</prefix>
+      <artifactId>etlunit-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-feature-compiler Maven Mojo</name>
+      <prefix>feature-compiler</prefix>
+      <artifactId>feature-compiler</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-maven</name>
+      <prefix></prefix>
+      <artifactId>maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-module-mojo Maven Mojo</name>
+      <prefix>module-mojo</prefix>
+      <artifactId>module-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>etlunit-module-mojo Maven Mojo</name>
+      <prefix>module-signer</prefix>
+      <artifactId>module-signer</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

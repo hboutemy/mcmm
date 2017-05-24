@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: RMIC</name>
+      <prefix>utilantrmic</prefix>
+      <artifactId>util-maven-plugin-antrmic</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: Property Editor</name>
+      <prefix>utilpropertyeditor</prefix>
+      <artifactId>util-maven-plugin-propertyeditor</artifactId>
+    </plugin>
+    <plugin>
+      <name>OW2 Util :: Maven :: Plugin :: XML Editor</name>
+      <prefix>utilxmleditor</prefix>
+      <artifactId>util-maven-plugin-xmleditor</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

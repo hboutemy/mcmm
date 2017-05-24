@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Ameba-Maven</name>
+      <prefix>ameba</prefix>
+      <artifactId>ameba-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>Ameba-Maven-Plugin</name>
+      <prefix>ameba</prefix>
+      <artifactId>ameba-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

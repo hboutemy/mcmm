@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CMake Binaries Plugin</name>
+      <prefix>cmake-binaries</prefix>
+      <artifactId>cmake-binaries-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>CMake Maven Plugin</name>
+      <prefix>cmake</prefix>
+      <artifactId>cmake-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

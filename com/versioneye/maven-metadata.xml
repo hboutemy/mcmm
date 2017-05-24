@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-indexer</name>
+      <prefix>indexer</prefix>
+      <artifactId>maven-indexer</artifactId>
+    </plugin>
+    <plugin>
+      <name>versioneye-maven-plugin</name>
+      <prefix>versioneye</prefix>
+      <artifactId>versioneye-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

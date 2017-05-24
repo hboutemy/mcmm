@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Generate Java interfaces given a GraphQL Schema</name>
+      <prefix>graphql-apigen</prefix>
+      <artifactId>graphql-apigen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

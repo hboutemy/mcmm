@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CONFLUENCE-REPORTING::Plugin - ${project.version}</name>
+      <prefix>confluence-reporting</prefix>
+      <artifactId>confluence-reporting-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>CONFLUENCE-REPORTING::Test::Plugin - ${project.version}</name>
+      <prefix>confluencetest</prefix>
+      <artifactId>maven-confluence-plugin-test</artifactId>
+    </plugin>
+    <plugin>
+      <name>CONFLUENCE-REPORTING::Plugin - ${project.version}</name>
+      <prefix>confluence-reporting</prefix>
+      <artifactId>maven-confluence-reporting-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-mvnver-plugin</name>
+      <prefix>mvnver</prefix>
+      <artifactId>maven-mvnver-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MAVEN PROCESSOR PLUGIN - ${project.version}</name>
+      <prefix>processor</prefix>
+      <artifactId>maven-processor-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-processor-plugin - ${project.version}</name>
+      <prefix>processor</prefix>
+      <artifactId>maven-processor-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

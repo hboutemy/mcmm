@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Artifact Location Plugin</name>
+      <prefix>artifact-location</prefix>
+      <artifactId>artifact-location-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>hibernate-schema-plugin</name>
+      <prefix>hibernate-schema</prefix>
+      <artifactId>hibernate-schema-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>taglib-metadata-plugin Maven Mojo</name>
+      <prefix>taglib</prefix>
+      <artifactId>taglib-metadata-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

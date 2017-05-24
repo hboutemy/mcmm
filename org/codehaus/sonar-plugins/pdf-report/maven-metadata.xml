@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.sonar-plugins</groupId>
+  <artifactId>pdf-report</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <latest>1.0</latest>
+    <release>1.0</release>
+    <versions>
+      <version>0.1</version>
+      <version>0.2</version>
+      <version>0.3</version>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20091126231915</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>Sonar PDF Report (Maven plugin)</name>
+      <prefix>pdfreport</prefix>
+      <artifactId>maven-pdfreport-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonar PDF Report (Maven plugin)</name>
+      <prefix>sonarpdf</prefix>
+      <artifactId>sonarpdf-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

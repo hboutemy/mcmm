@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Checkstats Maven Plugin</name>
+      <prefix>checkstats</prefix>
+      <artifactId>checkstats-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Artifact Exists Maven Plugin</name>
+      <prefix>exists</prefix>
+      <artifactId>exists-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Test Pojos Maven Plugin</name>
+      <prefix>testpojo</prefix>
+      <artifactId>testpojo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

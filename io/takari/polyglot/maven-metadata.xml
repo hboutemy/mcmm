@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Polyglot :: Maven Plugin</name>
+      <prefix>polyglot</prefix>
+      <artifactId>polyglot-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Polyglot :: Translate Plugin</name>
+      <prefix>polyglot-translate</prefix>
+      <artifactId>polyglot-translate-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

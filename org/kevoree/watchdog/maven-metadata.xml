@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kevoree :: Watchdog :: MavenRunner</name>
+      <prefix>org.kevoree.watchdog.runner</prefix>
+      <artifactId>org.kevoree.watchdog.mavenrunner</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

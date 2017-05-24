@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JaCoCo report changes Maven plugin</name>
+      <prefix>jacoco-report-changes</prefix>
+      <artifactId>jacoco-report-changes</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

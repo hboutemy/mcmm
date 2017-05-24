@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Active Markdown Plugin</name>
+      <prefix>active-markdown</prefix>
+      <artifactId>active-markdown</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Application Plugin</name>
+      <prefix>application</prefix>
+      <artifactId>application</artifactId>
+    </plugin>
+    <plugin>
+      <name>Attach QA Reports Maven Plugin</name>
+      <prefix>attach-qar</prefix>
+      <artifactId>attach-qar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>1-and-1 :: Bill of Materials Plugin for Maven</name>
+      <prefix>bill-of-materials</prefix>
+      <artifactId>bill-of-materials-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Prerelease Plugin</name>
+      <prefix>prerelease</prefix>
+      <artifactId>prerelease</artifactId>
+    </plugin>
+    <plugin>
+      <name>spritepacker-maven-plugin Maven Mojo</name>
+      <prefix>spritepacker</prefix>
+      <artifactId>spritepacker-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

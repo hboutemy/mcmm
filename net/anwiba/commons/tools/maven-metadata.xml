@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>tools definition schema json</name>
+      <prefix>anwiba-tools-definition-schema-json</prefix>
+      <artifactId>anwiba-tools-definition-schema-json</artifactId>
+    </plugin>
+    <plugin>
+      <name>tools icons</name>
+      <prefix>anwiba-tools-icons</prefix>
+      <artifactId>anwiba-tools-icons</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

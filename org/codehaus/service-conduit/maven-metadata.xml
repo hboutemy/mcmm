@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SCA4J Contribution Plugin</name>
+      <prefix>sca4j</prefix>
+      <artifactId>sca4j-contribution-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SCA4J Integration Test Maven Plugin</name>
+      <prefix>sca4j-itest</prefix>
+      <artifactId>sca4j-itest-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven FileSync Plugin</name>
+      <prefix>filesync</prefix>
+      <artifactId>maven-filesync-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

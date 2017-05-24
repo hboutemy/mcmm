@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>YUI Compressor Maven Mojo for ZK</name>
+      <prefix>yuicompressorzk</prefix>
+      <artifactId>yuicompressor-maven-plugin-zk</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

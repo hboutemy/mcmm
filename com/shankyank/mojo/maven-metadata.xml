@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Templated Resource Generator Maven Plugin</name>
+      <prefix>configurator</prefix>
+      <artifactId>template-resgen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Jena - Maven Plugins, including schemagen</name>
+      <prefix>jenatools</prefix>
+      <artifactId>jena-maven-tools</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>compress</prefix>
+      <artifactId>compressor</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>compressor</prefix>
+      <artifactId>compressor</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>named-mvn</prefix>
+      <artifactId>named-mvn</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>yml2prop</prefix>
+      <artifactId>yml2prop</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

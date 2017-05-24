@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tapestry 5 Quickstart Archetype</name>
+      <prefix>quickstart</prefix>
+      <artifactId>quickstart</artifactId>
+    </plugin>
+    <plugin>
+      <name>Simple Tapestry Archetype</name>
+      <prefix>tapestry-archetype</prefix>
+      <artifactId>tapestry-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tapestry Component Parameters Report</name>
+      <prefix>tapestry-component-report</prefix>
+      <artifactId>tapestry-component-report</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tapestry 5 Simple Archetype</name>
+      <prefix>tapestry-simple</prefix>
+      <artifactId>tapestry-simple</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

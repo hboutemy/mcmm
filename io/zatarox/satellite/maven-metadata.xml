@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Satellite :: Plugins :: Dumper</name>
+      <prefix>dumper</prefix>
+      <artifactId>dumper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Satellite :: Plugins :: Runner</name>
+      <prefix>satellite</prefix>
+      <artifactId>satellite-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

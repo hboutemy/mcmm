@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Taglib Plugin</name>
+      <prefix>taglib</prefix>
+      <artifactId>maven-taglib-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

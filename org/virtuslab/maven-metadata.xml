@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Edifact Convertion Tool - Maven Plugin Mojo</name>
+      <prefix>ect</prefix>
+      <artifactId>maven-ect-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Edifact Java Compiler - Maven Plugin Mojo</name>
+      <prefix>ejc</prefix>
+      <artifactId>maven-ejc-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

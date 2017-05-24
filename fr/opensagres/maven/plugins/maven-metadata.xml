@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Google Code Upload Maven Plugin</name>
+      <prefix>gcupload</prefix>
+      <artifactId>gcupload-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>no-annotations-maven-plugin Maven Plugin</name>
+      <prefix>no-annotations</prefix>
+      <artifactId>no-annotations-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

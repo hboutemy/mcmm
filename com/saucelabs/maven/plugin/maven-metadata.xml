@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sauce Connect Maven Plugin</name>
+      <prefix>sauce-connect</prefix>
+      <artifactId>sauce-connect-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

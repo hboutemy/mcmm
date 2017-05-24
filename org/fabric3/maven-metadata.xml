@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fabric3 Runtime Assembly Plugin</name>
+      <prefix>fabric3-assembly</prefix>
+      <artifactId>fabric3-assembly-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric3 Contribution Plugin</name>
+      <prefix>fabric3-contribution</prefix>
+      <artifactId>fabric3-contribution-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric3 Maven Runtime Plugin</name>
+      <prefix>fabric3-itest</prefix>
+      <artifactId>fabric3-itest-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric3 Packager Plugin</name>
+      <prefix>fabric3</prefix>
+      <artifactId>fabric3-packager-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric3 Packager Plugin</name>
+      <prefix>fabric3-packager</prefix>
+      <artifactId>fabric3-packager-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

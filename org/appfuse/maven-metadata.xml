@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven WarPath Plugin</name>
+      <prefix>warpath</prefix>
+      <artifactId>maven-warpath-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

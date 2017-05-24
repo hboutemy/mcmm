@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven2 Command Help plugin</name>
+      <prefix>cmdhelp</prefix>
+      <artifactId>cmdhelp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven2 Command Help plugin</name>
+      <prefix>cmdhelp</prefix>
+      <artifactId>cmdhelp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven2 Features plugin</name>
+      <prefix>features</prefix>
+      <artifactId>features-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven2 Features plugin</name>
+      <prefix>features</prefix>
+      <artifactId>features-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven Karaf Plugin</name>
+      <prefix>karaf</prefix>
+      <artifactId>karaf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Karaf :: Tooling :: Maven Karaf Plugin for Services Metadata</name>
+      <prefix>karaf-services</prefix>
+      <artifactId>karaf-services-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Batik Maven Plugin</name>
+      <prefix>batik</prefix>
+      <artifactId>batik-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Clean POM Maven Plugin</name>
+      <prefix>cleanpom</prefix>
+      <artifactId>cleanpom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXWS 2.x Plugin</name>
+      <prefix>jaxws</prefix>
+      <artifactId>jaxws-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Maven Linkcheck Plugin</name>
+      <prefix>linkcheck</prefix>
+      <artifactId>linkcheck-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven M2E Code Style plugin</name>
+      <prefix>m2e-codestyle</prefix>
+      <artifactId>m2e-codestyle-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

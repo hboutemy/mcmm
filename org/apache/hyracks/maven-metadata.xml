@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hyracks VirtualCluster Maven Plugin</name>
+      <prefix>hyracks-virtualcluster</prefix>
+      <artifactId>hyracks-virtualcluster-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>license-automation</prefix>
+      <artifactId>license-automation-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

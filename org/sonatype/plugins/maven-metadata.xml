@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>App Lifecycle Maven Plugin</name>
+      <prefix>app-lifecycle</prefix>
+      <artifactId>app-lifecycle-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>attach-artifact</prefix>
+      <artifactId>attach-artifact-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>bundle-publisher</prefix>
+      <artifactId>bundle-publisher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JarJar Maven Plugin</name>
+      <prefix>jarjar</prefix>
+      <artifactId>jarjar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Jscoverage Maven Plugin</name>
+      <prefix>jscoverage</prefix>
+      <artifactId>jscoverage-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-properties-plugin</name>
+      <prefix>properties</prefix>
+      <artifactId>maven-properties-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Repository-Collector Maven Plugin</name>
+      <prefix>repository-collector</prefix>
+      <artifactId>maven-repository-collector-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonatype Runtime :: Runtime Assembler Maven Plugin</name>
+      <prefix>runtime-assembler</prefix>
+      <artifactId>maven-runtime-assembler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>upload</prefix>
+      <artifactId>maven-upload-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Version Plugin</name>
+      <prefix>version</prefix>
+      <artifactId>maven-version-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Modello Upgrade Generator Plugin</name>
+      <prefix>modelloupgrade</prefix>
+      <artifactId>modello-plugin-upgrade</artifactId>
+    </plugin>
+    <plugin>
+      <name>Munge Maven Plugin</name>
+      <prefix>munge</prefix>
+      <artifactId>munge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nexus M2-Settings Maven Plugin</name>
+      <prefix>nexus-m2settings</prefix>
+      <artifactId>nexus-m2settings-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nexus Plugin for Maven</name>
+      <prefix>nexus</prefix>
+      <artifactId>nexus-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nexus Staging Maven Plugin</name>
+      <prefix>nexus-staging</prefix>
+      <artifactId>nexus-staging-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Nexus Test Environment maven-plugin</name>
+      <prefix>nexus-test-environment</prefix>
+      <artifactId>nexus-test-environment-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonatype Plexus Plugin</name>
+      <prefix>plx</prefix>
+      <artifactId>plx-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Port Allocator Plugin</name>
+      <prefix>port-allocator</prefix>
+      <artifactId>port-allocator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>provided-dependencies</prefix>
+      <artifactId>provided-dependencies-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>sisubridge</prefix>
+      <artifactId>sisu-maven-bridge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sisu Maven Plugin</name>
+      <prefix>sisu</prefix>
+      <artifactId>sisu-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>tattletale</prefix>
+      <artifactId>tattletale-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Sonatype Wait Plugin</name>
+      <prefix>wait</prefix>
+      <artifactId>wait-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>YUI Compressor Maven Plugin</name>
+      <prefix>yuicompressor</prefix>
+      <artifactId>yuicompressor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

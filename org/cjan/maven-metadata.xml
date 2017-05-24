@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>test-collector Maven Plugin</name>
+      <prefix>test-collector</prefix>
+      <artifactId>test-collector</artifactId>
+    </plugin>
+    <plugin>
+      <name>test-collector-maven-plugin Maven Plugin</name>
+      <prefix>test-collector</prefix>
+      <artifactId>test-collector-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

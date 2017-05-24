@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>LegStar Avro Maven Plugin</name>
+      <prefix>legstar-avro</prefix>
+      <artifactId>legstar-avro-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>LegStar Core Maven Plugin</name>
+      <prefix>legstar</prefix>
+      <artifactId>legstar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>LegStar z/OS upload plugin</name>
+      <prefix>zosupload</prefix>
+      <artifactId>zosupload-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

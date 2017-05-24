@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Placeholder Mustachifier Maven plugin</name>
+      <prefix>mustachifier</prefix>
+      <artifactId>placeholders-mustachifier-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Placeholder Mustachifier Maven plugin</name>
+      <prefix>placeholders-mustachifier</prefix>
+      <artifactId>placeholders-mustachifier-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

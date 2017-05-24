@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Lessc2java Maven Plugin</name>
+      <prefix>lessc2java</prefix>
+      <artifactId>lessc2java-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Logdoc Maven Plugins</name>
+      <prefix>logdoc</prefix>
+      <artifactId>logdoc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

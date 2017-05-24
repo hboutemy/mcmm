@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven plugin for diezel Embedded Domain Specific Language Generator</name>
+      <prefix>diezel</prefix>
+      <artifactId>diezel-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>neobin</name>
+      <prefix>neobin</prefix>
+      <artifactId>neobin-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

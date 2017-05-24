@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>scala-maven-plugin</name>
+      <prefix>scala</prefix>
+      <artifactId>scala-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>YUI Compressor Maven Mojo</name>
+      <prefix>yuicompressor</prefix>
+      <artifactId>yuicompressor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Main Street Hub Maven ECR Plugin</name>
+      <prefix>ecr</prefix>
+      <artifactId>ecr-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

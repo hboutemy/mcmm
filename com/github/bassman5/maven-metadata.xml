@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Concordion Site Report plugin</name>
+      <prefix>concordion-reporting</prefix>
+      <artifactId>maven-concordion-reporting-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

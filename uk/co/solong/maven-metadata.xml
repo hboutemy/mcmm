@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Gemfury Maven Mojo</name>
+      <prefix>gemfury</prefix>
+      <artifactId>gemfury-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>rest2java Maven Mojo</name>
+      <prefix>rest2java</prefix>
+      <artifactId>rest2java-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

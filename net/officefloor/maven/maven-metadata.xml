@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven OfficeFloor Plugin</name>
+      <prefix>officefloor</prefix>
+      <artifactId>maven-officefloor-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Site Aggregate Plugin</name>
+      <prefix>site-aggregate</prefix>
+      <artifactId>maven-site-aggregate-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven WoOF Plugin</name>
+      <prefix>woof</prefix>
+      <artifactId>maven-woof-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven OfficeFloor Plugin</name>
+      <prefix>officefloor</prefix>
+      <artifactId>officefloor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Site Aggregate Plugin</name>
+      <prefix>site-aggregate</prefix>
+      <artifactId>site-aggregate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven WoOF Plugin</name>
+      <prefix>woof</prefix>
+      <artifactId>woof-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

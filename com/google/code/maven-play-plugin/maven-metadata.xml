@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Plugin for Play! Framework Japid Module</name>
+      <prefix>play-japid</prefix>
+      <artifactId>play-japid-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Plugin for Play! Framework</name>
+      <prefix>play</prefix>
+      <artifactId>play-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

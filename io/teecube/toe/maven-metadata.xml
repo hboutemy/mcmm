@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>T³ - TOE - Domains Manager</name>
+      <prefix>toe-domains</prefix>
+      <artifactId>toe-domains-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>T³ - TOE - Products Installer</name>
+      <prefix>toe</prefix>
+      <artifactId>toe-installer-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

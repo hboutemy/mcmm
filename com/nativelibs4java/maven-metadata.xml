@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JavaCL OpenCL Wrapper Code Generator / JNA</name>
+      <prefix>javacl-generator-jna</prefix>
+      <artifactId>javacl-generator-jna</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JavaCL Plugin</name>
+      <prefix>javacl</prefix>
+      <artifactId>maven-javacl-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JNAerator Maven Plugin</name>
+      <prefix>jnaerator</prefix>
+      <artifactId>maven-jnaerator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Velocity Code Generator</name>
+      <prefix>velocity</prefix>
+      <artifactId>maven-velocity-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

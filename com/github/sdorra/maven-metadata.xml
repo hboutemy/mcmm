@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>buildfrontend-maven-plugin</name>
+      <prefix>buildfrontend</prefix>
+      <artifactId>buildfrontend-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>nativepkg-maven-plugin</name>
+      <prefix>nativepkg</prefix>
+      <artifactId>nativepkg-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

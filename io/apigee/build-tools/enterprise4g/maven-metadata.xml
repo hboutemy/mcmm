@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>apigee-edge-maven-plugin maven mojo</name>
+      <prefix>apigee-enterprise</prefix>
+      <artifactId>apigee-edge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>apigee-edge-maven-plugin maven mojo</name>
+      <prefix>apigee-edge</prefix>
+      <artifactId>apigee-edge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>proxy-dependency-maven-plugin</name>
+      <prefix>proxy-dependency</prefix>
+      <artifactId>proxy-dependency-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

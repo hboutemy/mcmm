@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Debug-Plugin</name>
+      <prefix>debug</prefix>
+      <artifactId>debug-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JSPC Maven Plugin</name>
+      <prefix>jspc</prefix>
+      <artifactId>jspc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
