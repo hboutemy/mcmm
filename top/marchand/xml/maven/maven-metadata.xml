@@ -6,5 +6,10 @@
       <prefix>catalogBuilder</prefix>
       <artifactId>catalogBuilder-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>XSL Compiler plugin for Saxon EE</name>
+      <prefix>xslcompiler</prefix>
+      <artifactId>xslcompiler-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

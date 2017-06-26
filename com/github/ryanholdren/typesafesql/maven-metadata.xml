@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>TypeSafeSQL Maven Plugin</name>
+      <prefix></prefix>
+      <artifactId>maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>TypeSafeSQL Plugin</name>
       <prefix></prefix>
       <artifactId>plugin</artifactId>

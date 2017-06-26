@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan</artifactId>
   <versioning>
-    <latest>9.0.0.Beta1</latest>
-    <release>9.0.0.Beta1</release>
+    <latest>9.1.0.Beta1</latest>
+    <release>9.1.0.Beta1</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -132,6 +132,8 @@
       <version>8.1.4.Final</version>
       <version>8.1.5.Final</version>
       <version>8.1.6.Final</version>
+      <version>8.1.7.Final</version>
+      <version>8.1.8.Final</version>
       <version>8.2.0.Beta1</version>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -141,12 +143,25 @@
       <version>8.2.3.Final</version>
       <version>8.2.4.Final</version>
       <version>8.2.5.Final</version>
+      <version>8.2.6.Final</version>
+      <version>8.2.7.Final</version>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Alpha2</version>
       <version>9.0.0.Alpha3</version>
       <version>9.0.0.Alpha4</version>
       <version>9.0.0.Beta1</version>
+      <version>9.0.0.Beta2</version>
+      <version>9.0.0.CR1</version>
+      <version>9.0.0.CR2</version>
+      <version>9.0.0.CR3</version>
+      <version>9.0.0.CR4</version>
+      <version>9.0.0.Final</version>
+      <version>9.0.1.Final</version>
+      <version>9.0.2.Final</version>
+      <version>9.0.3.Final</version>
+      <version>9.1.0.Alpha1</version>
+      <version>9.1.0.Beta1</version>
     </versions>
-    <lastUpdated>20161212195223</lastUpdated>
+    <lastUpdated>20170621134240</lastUpdated>
   </versioning>
 </metadata>

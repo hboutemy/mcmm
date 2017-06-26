@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Graphviz Maven Plugin</name>
+      <prefix>graphviz</prefix>
+      <artifactId>graphviz-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RelaxNG Maven Plugin</name>
+      <prefix>relaxng</prefix>
+      <artifactId>relaxng-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

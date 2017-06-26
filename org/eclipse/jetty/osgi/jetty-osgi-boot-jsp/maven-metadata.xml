@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.osgi</groupId>
   <artifactId>jetty-osgi-boot-jsp</artifactId>
   <versioning>
-    <latest>9.4.5.v20170502</latest>
-    <release>9.4.5.v20170502</release>
+    <latest>9.4.6.v20170531</latest>
+    <release>9.4.6.v20170531</release>
     <versions>
       <version>7.0.2.RC0</version>
       <version>7.0.2.v20100331</version>
@@ -156,6 +156,7 @@
       <version>9.2.19.v20160908</version>
       <version>9.2.20.v20161216</version>
       <version>9.2.21.v20170120</version>
+      <version>9.2.22.v20170606</version>
       <version>9.3.0.M0</version>
       <version>9.3.0.M1</version>
       <version>9.3.0.M2</version>
@@ -191,6 +192,7 @@
       <version>9.3.17.v20170317</version>
       <version>9.3.18.v20170406</version>
       <version>9.3.19.v20170502</version>
+      <version>9.3.20.v20170531</version>
       <version>9.4.0.M0</version>
       <version>9.4.0.M1</version>
       <version>9.4.0.RC0</version>
@@ -203,7 +205,8 @@
       <version>9.4.3.v20170317</version>
       <version>9.4.4.v20170414</version>
       <version>9.4.5.v20170502</version>
+      <version>9.4.6.v20170531</version>
     </versions>
-    <lastUpdated>20170502224238</lastUpdated>
+    <lastUpdated>20170607174329</lastUpdated>
   </versioning>
 </metadata>

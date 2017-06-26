@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>App Package Plugin</name>
       <prefix>app-package</prefix>
       <artifactId>app-package-plugin</artifactId>
     </plugin>

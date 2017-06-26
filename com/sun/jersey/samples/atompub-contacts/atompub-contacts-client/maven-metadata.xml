@@ -3,8 +3,8 @@
   <groupId>com.sun.jersey.samples.atompub-contacts</groupId>
   <artifactId>atompub-contacts-client</artifactId>
   <versioning>
-    <latest>1.19.3</latest>
-    <release>1.19.3</release>
+    <latest>1.19.4</latest>
+    <release>1.19.4</release>
     <versions>
       <version>1.9</version>
       <version>1.9-ea06</version>
@@ -43,6 +43,7 @@
       <version>1.19.1</version>
       <version>1.19.2</version>
       <version>1.19.3</version>
+      <version>1.19.4</version>
       <version>1.4</version>
       <version>1.4-ea04</version>
       <version>1.4-ea05</version>
@@ -82,6 +83,6 @@
       <version>1.9-ea03</version>
       <version>1.9-ea04</version>
     </versions>
-    <lastUpdated>20161027092831</lastUpdated>
+    <lastUpdated>20170524161038</lastUpdated>
   </versioning>
 </metadata>

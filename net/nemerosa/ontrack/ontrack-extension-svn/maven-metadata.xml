@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-svn</artifactId>
   <versioning>
-    <latest>3.0.0</latest>
-    <release>3.0.0</release>
+    <latest>3.0.6</latest>
+    <release>3.0.6</release>
     <versions>
       <version>feature-359-extension-plugin-1cd7995</version>
       <version>feature-359-extension-plugin-69438bb</version>
@@ -15,12 +15,20 @@
       <version>feature-490-fix-migration-897bd8a</version>
       <version>feature-491-method-error-d71c3b7</version>
       <version>feature-496-docker-extensions-a60bb31</version>
+      <version>feature-504-extension-test-a3a8117</version>
+      <version>feature-504-extension-test-75ae362</version>
+      <version>feature-504-extension-test-c4306f2</version>
+      <version>feature-505-pom-d693030</version>
+      <version>feature-512-aql-5d1c91a</version>
+      <version>feature-514-kotlin-ce531dd</version>
+      <version>feature-514-kotlin-jre8-5cc22f1</version>
       <version>master-a292b01</version>
       <version>master-b02f7e6</version>
       <version>master-b3d7f65</version>
       <version>master-0eb0916</version>
       <version>master-9c699a6</version>
       <version>master-5838b74</version>
+      <version>master-fe0730d</version>
       <version>refac-postgresql-a8971e3</version>
       <version>2.20.0</version>
       <version>2.20.1</version>
@@ -73,6 +81,17 @@
       <version>2.29.11</version>
       <version>2.29.12</version>
       <version>2.30.0</version>
+      <version>2.30.1</version>
+      <version>2.30.2</version>
+      <version>2.30.3</version>
+      <version>2.30.4</version>
+      <version>2.30.5</version>
+      <version>2.30.6</version>
+      <version>2.30.7</version>
+      <version>2.30.8</version>
+      <version>2.31.0</version>
+      <version>2.31.1</version>
+      <version>2.31.2</version>
       <version>3.0-alpha.1</version>
       <version>3.0-alpha.2</version>
       <version>3.0-alpha.3</version>
@@ -105,7 +124,13 @@
       <version>3.0-beta.25</version>
       <version>3.0-beta.26</version>
       <version>3.0.0</version>
+      <version>3.0.1</version>
+      <version>3.0.2</version>
+      <version>3.0.3</version>
+      <version>3.0.4</version>
+      <version>3.0.5</version>
+      <version>3.0.6</version>
     </versions>
-    <lastUpdated>20170509120057</lastUpdated>
+    <lastUpdated>20170622212121</lastUpdated>
   </versioning>
 </metadata>

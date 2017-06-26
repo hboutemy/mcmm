@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Embedded Payara Plugin</name>
+      <prefix>embedded-payara</prefix>
+      <artifactId>embedded-payara-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Payara Micro Maven Plugin</name>
+      <prefix>payara-micro</prefix>
+      <artifactId>payara-micro-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

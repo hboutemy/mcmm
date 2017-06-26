@@ -3,8 +3,8 @@
   <groupId>org.apache.felix</groupId>
   <artifactId>org.apache.felix.framework</artifactId>
   <versioning>
-    <latest>5.6.2</latest>
-    <release>5.6.2</release>
+    <latest>5.6.4</latest>
+    <release>5.6.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -54,9 +54,10 @@
       <version>5.6.0</version>
       <version>5.6.1</version>
       <version>5.6.2</version>
+      <version>5.6.4</version>
       <version>1.7.0-private</version>
       <version>1.8.1-RC</version>
     </versions>
-    <lastUpdated>20170220200604</lastUpdated>
+    <lastUpdated>20170524202402</lastUpdated>
   </versioning>
 </metadata>

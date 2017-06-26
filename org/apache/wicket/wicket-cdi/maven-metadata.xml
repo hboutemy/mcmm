@@ -3,8 +3,8 @@
   <groupId>org.apache.wicket</groupId>
   <artifactId>wicket-cdi</artifactId>
   <versioning>
-    <latest>8.0.0-M5</latest>
-    <release>8.0.0-M5</release>
+    <latest>8.0.0-M6</latest>
+    <release>8.0.0-M6</release>
     <versions>
       <version>6.1.0</version>
       <version>6.1.1</version>
@@ -47,12 +47,14 @@
       <version>7.4.0</version>
       <version>7.5.0</version>
       <version>7.6.0</version>
+      <version>7.7.0</version>
       <version>8.0.0-M1</version>
       <version>8.0.0-M2</version>
       <version>8.0.0-M3</version>
       <version>8.0.0-M4</version>
       <version>8.0.0-M5</version>
+      <version>8.0.0-M6</version>
     </versions>
-    <lastUpdated>20170329192031</lastUpdated>
+    <lastUpdated>20170518121008</lastUpdated>
   </versioning>
 </metadata>

@@ -7,9 +7,19 @@
       <artifactId>checkstats-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Dependency Manifest Maven Plugin</name>
+      <prefix>dependency</prefix>
+      <artifactId>dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Artifact Exists Maven Plugin</name>
       <prefix>exists</prefix>
       <artifactId>exists-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Process execution maven plugin</name>
+      <prefix>process-exec</prefix>
+      <artifactId>process-exec-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Test Pojos Maven Plugin</name>

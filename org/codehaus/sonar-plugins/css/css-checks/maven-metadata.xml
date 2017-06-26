@@ -3,8 +3,8 @@
   <groupId>org.codehaus.sonar-plugins.css</groupId>
   <artifactId>css-checks</artifactId>
   <versioning>
-    <latest>4.3</latest>
-    <release>4.3</release>
+    <latest>4.7</latest>
+    <release>4.7</release>
     <versions>
       <version>2.1</version>
       <version>2.2</version>
@@ -15,9 +15,13 @@
       <version>4.0</version>
       <version>4.1</version>
       <version>4.3</version>
+      <version>4.4</version>
+      <version>4.5</version>
+      <version>4.6</version>
+      <version>4.7</version>
       <version>1.0</version>
       <version>1.1</version>
     </versions>
-    <lastUpdated>20170510145833</lastUpdated>
+    <lastUpdated>20170619150405</lastUpdated>
   </versioning>
 </metadata>

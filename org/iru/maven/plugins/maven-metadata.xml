@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jaxbdeps-maven-plugin</name>
+      <prefix>jaxbdeps</prefix>
+      <artifactId>jaxbdeps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jaxbgenser-maven-plugin</name>
+      <prefix>jaxbgenser</prefix>
+      <artifactId>jaxbgenser-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

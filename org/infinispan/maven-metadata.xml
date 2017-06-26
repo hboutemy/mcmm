@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Infinispan Defaults Maven Plugin</name>
+      <prefix>infinispan-defaults</prefix>
+      <artifactId>infinispan-defaults-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

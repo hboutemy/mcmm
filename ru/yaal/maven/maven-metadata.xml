@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Ascii2Native Maven Plugin</name>
+      <prefix>ascii2native</prefix>
+      <artifactId>ascii2native-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Write Text Files Maven Plugin</name>
+      <prefix>write-text-files</prefix>
+      <artifactId>write-text-files-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

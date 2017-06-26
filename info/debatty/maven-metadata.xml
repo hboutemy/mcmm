@@ -6,5 +6,10 @@
       <prefix>sparkpackage</prefix>
       <artifactId>sparkpackage-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>sparkpackages-maven-plugin</name>
+      <prefix>sparkpackages</prefix>
+      <artifactId>sparkpackages-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

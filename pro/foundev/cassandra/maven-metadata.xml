@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cassandra Commmons for Apache Cassandra - Migrations Maven Plugin</name>
+      <prefix>cassandra-commons</prefix>
+      <artifactId>cassandra-commons-maven</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cassandra Commmons for Apache Cassandra - Migrations Maven Plugin</name>
+      <prefix>cassandra-commons-migrations-mvn</prefix>
+      <artifactId>cassandra-commons-migrations-mvn</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-mongodb-parent</artifactId>
   <versioning>
-    <latest>1.9.5.RELEASE</latest>
-    <release>1.9.5.RELEASE</release>
+    <latest>1.10.4.RELEASE</latest>
+    <release>1.10.4.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -55,7 +55,18 @@
       <version>1.9.3.RELEASE</version>
       <version>1.9.4.RELEASE</version>
       <version>1.9.5.RELEASE</version>
+      <version>1.9.6.RELEASE</version>
+      <version>1.9.7.RELEASE</version>
+      <version>1.9.8.RELEASE</version>
+      <version>1.9.9.RELEASE</version>
+      <version>1.9.10.RELEASE</version>
+      <version>1.9.11.RELEASE</version>
+      <version>1.10.0.RELEASE</version>
+      <version>1.10.1.RELEASE</version>
+      <version>1.10.2.RELEASE</version>
+      <version>1.10.3.RELEASE</version>
+      <version>1.10.4.RELEASE</version>
     </versions>
-    <lastUpdated>20161103173654</lastUpdated>
+    <lastUpdated>20170608093657</lastUpdated>
   </versioning>
 </metadata>

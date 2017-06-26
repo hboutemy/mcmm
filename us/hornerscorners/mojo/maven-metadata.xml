@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>eclipselink-ddlgeneration-maven-plugin</name>
+      <prefix>eclipselink-ddlgeneration</prefix>
+      <artifactId>eclipselink-ddlgeneration-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>glassfish-inplace-maven-plugin</name>
+      <prefix>glassfish-inplace</prefix>
+      <artifactId>glassfish-inplace-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

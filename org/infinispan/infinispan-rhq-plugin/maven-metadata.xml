@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-rhq-plugin</artifactId>
   <versioning>
-    <latest>8.2.5.Final</latest>
-    <release>8.2.5.Final</release>
+    <latest>8.2.7.Final</latest>
+    <release>8.2.7.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -131,6 +131,8 @@
       <version>8.1.4.Final</version>
       <version>8.1.5.Final</version>
       <version>8.1.6.Final</version>
+      <version>8.1.7.Final</version>
+      <version>8.1.8.Final</version>
       <version>8.2.0.Beta1</version>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -140,7 +142,9 @@
       <version>8.2.3.Final</version>
       <version>8.2.4.Final</version>
       <version>8.2.5.Final</version>
+      <version>8.2.6.Final</version>
+      <version>8.2.7.Final</version>
     </versions>
-    <lastUpdated>20161212195252</lastUpdated>
+    <lastUpdated>20170621125508</lastUpdated>
   </versioning>
 </metadata>

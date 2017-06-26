@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-cas</artifactId>
   <versioning>
-    <latest>4.2.1.RELEASE</latest>
-    <release>4.2.1.RELEASE</release>
+    <latest>4.2.3.RELEASE</latest>
+    <release>4.2.3.RELEASE</release>
     <versions>
       <version>3.1.0.RELEASE</version>
       <version>3.1.1.RELEASE</version>
@@ -24,6 +24,7 @@
       <version>3.2.7.RELEASE</version>
       <version>3.2.8.RELEASE</version>
       <version>3.2.9.RELEASE</version>
+      <version>3.2.10.RELEASE</version>
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.2.RELEASE</version>
@@ -36,7 +37,9 @@
       <version>4.1.4.RELEASE</version>
       <version>4.2.0.RELEASE</version>
       <version>4.2.1.RELEASE</version>
+      <version>4.2.2.RELEASE</version>
+      <version>4.2.3.RELEASE</version>
     </versions>
-    <lastUpdated>20161221173954</lastUpdated>
+    <lastUpdated>20170608045828</lastUpdated>
   </versioning>
 </metadata>

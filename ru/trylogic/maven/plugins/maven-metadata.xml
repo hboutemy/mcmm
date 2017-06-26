@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Redis Maven Plugin in pure Java</name>
+      <prefix>redis</prefix>
+      <artifactId>redis-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

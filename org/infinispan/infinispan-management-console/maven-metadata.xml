@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-management-console</artifactId>
   <versioning>
-    <latest>9.0.0.Beta1</latest>
-    <release>9.0.0.Beta1</release>
+    <latest>9.1.0.Alpha1</latest>
+    <release>9.1.0.Alpha1</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Beta1</version>
@@ -25,7 +25,16 @@
       <version>9.0.0.Alpha2</version>
       <version>9.0.0.Alpha4</version>
       <version>9.0.0.Beta1</version>
+      <version>9.0.0.Beta2</version>
+      <version>9.0.0.CR1</version>
+      <version>9.0.0.CR2</version>
+      <version>9.0.0.CR3</version>
+      <version>9.0.0.CR4</version>
+      <version>9.0.0</version>
+      <version>9.0.1.Final</version>
+      <version>9.1.0.Alpha1</version>
+      <version>9.0.0.Final</version>
     </versions>
-    <lastUpdated>20161205154345</lastUpdated>
+    <lastUpdated>20170523094317</lastUpdated>
   </versioning>
 </metadata>

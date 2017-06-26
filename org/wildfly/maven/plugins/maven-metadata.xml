@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Licenses plugin</name>
+      <prefix>licenses</prefix>
+      <artifactId>licenses-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Quickstarts documentation plugin</name>
+      <prefix>quickstart-documentation</prefix>
+      <artifactId>quickstart-documentation-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

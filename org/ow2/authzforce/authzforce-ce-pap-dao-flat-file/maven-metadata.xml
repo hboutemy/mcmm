@@ -3,8 +3,8 @@
   <groupId>org.ow2.authzforce</groupId>
   <artifactId>authzforce-ce-pap-dao-flat-file</artifactId>
   <versioning>
-    <latest>6.1.0</latest>
-    <release>6.1.0</release>
+    <latest>8.1.0</latest>
+    <release>8.1.0</release>
     <versions>
       <version>4.0.0</version>
       <version>5.0.0</version>
@@ -14,7 +14,10 @@
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.1.0</version>
+      <version>7.0.0</version>
+      <version>8.0.0</version>
+      <version>8.1.0</version>
     </versions>
-    <lastUpdated>20160903234624</lastUpdated>
+    <lastUpdated>20170310235407</lastUpdated>
   </versioning>
 </metadata>

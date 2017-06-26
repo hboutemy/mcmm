@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>apitools-java-generator-maven-plugin</name>
+      <prefix>apitools-java-generator</prefix>
+      <artifactId>apitools-java-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

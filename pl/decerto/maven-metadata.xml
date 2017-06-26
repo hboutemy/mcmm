@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Decerto Liquibase Maven Plugin</name>
+      <prefix>decerto-liquibase</prefix>
+      <artifactId>decerto-liquibase-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

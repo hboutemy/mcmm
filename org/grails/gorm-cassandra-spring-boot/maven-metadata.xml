@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>gorm-cassandra-spring-boot</artifactId>
   <versioning>
-    <latest>6.0.4.RELEASE</latest>
-    <release>6.0.4.RELEASE</release>
+    <latest>6.1.0.RELEASE</latest>
+    <release>6.1.0.RELEASE</release>
     <versions>
       <version>5.0.0.RC1</version>
       <version>5.0.0.RC2</version>
@@ -22,13 +22,20 @@
       <version>5.0.10.RELEASE</version>
       <version>5.0.11.RELEASE</version>
       <version>5.0.12.RELEASE</version>
+      <version>5.0.13.RELEASE</version>
       <version>6.0.0.M1</version>
       <version>6.0.0.RC1</version>
       <version>6.0.0.RC2</version>
       <version>6.0.2.RELEASE</version>
       <version>6.0.3.RELEASE</version>
       <version>6.0.4.RELEASE</version>
+      <version>6.0.6.RELEASE</version>
+      <version>6.0.7.RELEASE</version>
+      <version>6.0.9.RELEASE</version>
+      <version>6.1.0.RC1</version>
+      <version>6.1.0.RC2</version>
+      <version>6.1.0.RELEASE</version>
     </versions>
-    <lastUpdated>20161125084328</lastUpdated>
+    <lastUpdated>20170410130003</lastUpdated>
   </versioning>
 </metadata>

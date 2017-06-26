@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>greycat-mavenplugin</name>
+      <prefix>greycat</prefix>
+      <artifactId>greycat-mavenplugin</artifactId>
+    </plugin>
+    <plugin>
       <name>j2ts-mavenplugin</name>
       <prefix>j2ts</prefix>
       <artifactId>j2ts-mavenplugin</artifactId>

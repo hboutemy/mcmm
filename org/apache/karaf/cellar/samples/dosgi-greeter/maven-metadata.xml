@@ -3,8 +3,8 @@
   <groupId>org.apache.karaf.cellar.samples</groupId>
   <artifactId>dosgi-greeter</artifactId>
   <versioning>
-    <latest>4.0.3</latest>
-    <release>4.0.3</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>2.2.3</version>
       <version>2.2.4</version>
@@ -25,7 +25,9 @@
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
+      <version>4.0.4</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20161031051954</lastUpdated>
+    <lastUpdated>20170517021437</lastUpdated>
   </versioning>
 </metadata>

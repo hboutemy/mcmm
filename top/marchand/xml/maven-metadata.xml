@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>xquerydoc-maven-plugin</name>
+      <prefix>xquerydoc</prefix>
+      <artifactId>xquerydoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>xslDoc-maven-plugin</name>
       <prefix>xslDoc</prefix>
       <artifactId>xslDoc-maven-plugin</artifactId>

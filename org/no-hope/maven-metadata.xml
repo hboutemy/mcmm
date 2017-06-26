@@ -11,6 +11,11 @@
       <artifactId>jacoco-aggregator-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>protoc-jar-maven-plugin</name>
+      <prefix>protoc-jar</prefix>
+      <artifactId>protoc-jar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Protoc Plugin</name>
       <prefix>protoc</prefix>
       <artifactId>protoc-maven-plugin</artifactId>

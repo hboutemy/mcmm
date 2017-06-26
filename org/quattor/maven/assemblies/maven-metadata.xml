@@ -3,8 +3,8 @@
   <groupId>org.quattor.maven</groupId>
   <artifactId>assemblies</artifactId>
   <versioning>
-    <latest>1.50</latest>
-    <release>1.50</release>
+    <latest>1.54</latest>
+    <release>1.54</release>
     <versions>
       <version>1.11</version>
       <version>1.12</version>
@@ -45,7 +45,11 @@
       <version>1.48</version>
       <version>1.49</version>
       <version>1.50</version>
+      <version>1.51</version>
+      <version>1.52</version>
+      <version>1.53</version>
+      <version>1.54</version>
     </versions>
-    <lastUpdated>20160817154957</lastUpdated>
+    <lastUpdated>20170426151340</lastUpdated>
   </versioning>
 </metadata>

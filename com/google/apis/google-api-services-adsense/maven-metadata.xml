@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-adsense</artifactId>
   <versioning>
-    <latest>v1.4-rev286-1.22.0</latest>
-    <release>v1.4-rev286-1.22.0</release>
+    <latest>v1.4-rev298-1.22.0</latest>
+    <release>v1.4-rev298-1.22.0</release>
     <versions>
       <version>v1-rev52-1.13.2-beta</version>
       <version>v1-rev52-1.14.1-beta</version>
@@ -2444,6 +2444,54 @@
       <version>v1.3-rev321-1.20.0</version>
       <version>v1.3-rev321-1.21.0</version>
       <version>v1.3-rev321-1.22.0</version>
+      <version>v1.3-rev322-1.18.0-rc</version>
+      <version>v1.3-rev322-1.20.0</version>
+      <version>v1.3-rev322-1.21.0</version>
+      <version>v1.3-rev322-1.22.0</version>
+      <version>v1.3-rev323-1.18.0-rc</version>
+      <version>v1.3-rev323-1.20.0</version>
+      <version>v1.3-rev323-1.21.0</version>
+      <version>v1.3-rev323-1.22.0</version>
+      <version>v1.3-rev324-1.18.0-rc</version>
+      <version>v1.3-rev324-1.20.0</version>
+      <version>v1.3-rev324-1.21.0</version>
+      <version>v1.3-rev324-1.22.0</version>
+      <version>v1.3-rev325-1.18.0-rc</version>
+      <version>v1.3-rev325-1.20.0</version>
+      <version>v1.3-rev325-1.21.0</version>
+      <version>v1.3-rev325-1.22.0</version>
+      <version>v1.3-rev326-1.18.0-rc</version>
+      <version>v1.3-rev326-1.20.0</version>
+      <version>v1.3-rev326-1.21.0</version>
+      <version>v1.3-rev326-1.22.0</version>
+      <version>v1.3-rev327-1.18.0-rc</version>
+      <version>v1.3-rev327-1.20.0</version>
+      <version>v1.3-rev327-1.21.0</version>
+      <version>v1.3-rev327-1.22.0</version>
+      <version>v1.3-rev328-1.18.0-rc</version>
+      <version>v1.3-rev328-1.20.0</version>
+      <version>v1.3-rev328-1.21.0</version>
+      <version>v1.3-rev328-1.22.0</version>
+      <version>v1.3-rev329-1.18.0-rc</version>
+      <version>v1.3-rev329-1.20.0</version>
+      <version>v1.3-rev329-1.21.0</version>
+      <version>v1.3-rev329-1.22.0</version>
+      <version>v1.3-rev330-1.18.0-rc</version>
+      <version>v1.3-rev330-1.20.0</version>
+      <version>v1.3-rev330-1.21.0</version>
+      <version>v1.3-rev330-1.22.0</version>
+      <version>v1.3-rev331-1.18.0-rc</version>
+      <version>v1.3-rev331-1.20.0</version>
+      <version>v1.3-rev331-1.21.0</version>
+      <version>v1.3-rev331-1.22.0</version>
+      <version>v1.3-rev332-1.18.0-rc</version>
+      <version>v1.3-rev332-1.20.0</version>
+      <version>v1.3-rev332-1.21.0</version>
+      <version>v1.3-rev332-1.22.0</version>
+      <version>v1.3-rev333-1.18.0-rc</version>
+      <version>v1.3-rev333-1.20.0</version>
+      <version>v1.3-rev333-1.21.0</version>
+      <version>v1.3-rev333-1.22.0</version>
       <version>v1.4-rev2-1.14.2-beta</version>
       <version>v1.4-rev2-1.15.0-rc</version>
       <version>v1.4-rev2-1.16.0-rc</version>
@@ -3608,7 +3656,55 @@
       <version>v1.4-rev286-1.20.0</version>
       <version>v1.4-rev286-1.21.0</version>
       <version>v1.4-rev286-1.22.0</version>
+      <version>v1.4-rev287-1.18.0-rc</version>
+      <version>v1.4-rev287-1.20.0</version>
+      <version>v1.4-rev287-1.21.0</version>
+      <version>v1.4-rev287-1.22.0</version>
+      <version>v1.4-rev288-1.18.0-rc</version>
+      <version>v1.4-rev288-1.20.0</version>
+      <version>v1.4-rev288-1.21.0</version>
+      <version>v1.4-rev288-1.22.0</version>
+      <version>v1.4-rev289-1.18.0-rc</version>
+      <version>v1.4-rev289-1.20.0</version>
+      <version>v1.4-rev289-1.21.0</version>
+      <version>v1.4-rev289-1.22.0</version>
+      <version>v1.4-rev290-1.18.0-rc</version>
+      <version>v1.4-rev290-1.20.0</version>
+      <version>v1.4-rev290-1.21.0</version>
+      <version>v1.4-rev290-1.22.0</version>
+      <version>v1.4-rev291-1.18.0-rc</version>
+      <version>v1.4-rev291-1.20.0</version>
+      <version>v1.4-rev291-1.21.0</version>
+      <version>v1.4-rev291-1.22.0</version>
+      <version>v1.4-rev292-1.18.0-rc</version>
+      <version>v1.4-rev292-1.20.0</version>
+      <version>v1.4-rev292-1.21.0</version>
+      <version>v1.4-rev292-1.22.0</version>
+      <version>v1.4-rev293-1.18.0-rc</version>
+      <version>v1.4-rev293-1.20.0</version>
+      <version>v1.4-rev293-1.21.0</version>
+      <version>v1.4-rev293-1.22.0</version>
+      <version>v1.4-rev294-1.18.0-rc</version>
+      <version>v1.4-rev294-1.20.0</version>
+      <version>v1.4-rev294-1.21.0</version>
+      <version>v1.4-rev294-1.22.0</version>
+      <version>v1.4-rev295-1.18.0-rc</version>
+      <version>v1.4-rev295-1.20.0</version>
+      <version>v1.4-rev295-1.21.0</version>
+      <version>v1.4-rev295-1.22.0</version>
+      <version>v1.4-rev296-1.18.0-rc</version>
+      <version>v1.4-rev296-1.20.0</version>
+      <version>v1.4-rev296-1.21.0</version>
+      <version>v1.4-rev296-1.22.0</version>
+      <version>v1.4-rev297-1.18.0-rc</version>
+      <version>v1.4-rev297-1.20.0</version>
+      <version>v1.4-rev297-1.21.0</version>
+      <version>v1.4-rev297-1.22.0</version>
+      <version>v1.4-rev298-1.18.0-rc</version>
+      <version>v1.4-rev298-1.20.0</version>
+      <version>v1.4-rev298-1.21.0</version>
+      <version>v1.4-rev298-1.22.0</version>
     </versions>
-    <lastUpdated>20170511000130</lastUpdated>
+    <lastUpdated>20170609023154</lastUpdated>
   </versioning>
 </metadata>

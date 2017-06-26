@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>L10n Maven Plugin</name>
+      <prefix>l10n</prefix>
+      <artifactId>l10n-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

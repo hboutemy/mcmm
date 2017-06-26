@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>domain-generator</prefix>
+      <artifactId>domain-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>grafana-dashboard</prefix>
+      <artifactId>grafana-dashboard-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Transitive Dependency Plugin</name>
+      <prefix>transitive-dependency</prefix>
+      <artifactId>transitive-dependency-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

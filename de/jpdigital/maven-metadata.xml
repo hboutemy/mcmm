@@ -11,5 +11,20 @@
       <prefix>hibernate5-ddl</prefix>
       <artifactId>hibernate5-ddl-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 5.0</name>
+      <prefix>hibernate50-ddl</prefix>
+      <artifactId>hibernate50-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 5.1</name>
+      <prefix>hibernate51-ddl</prefix>
+      <artifactId>hibernate51-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 5.2</name>
+      <prefix>hibernate52-ddl</prefix>
+      <artifactId>hibernate52-ddl-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

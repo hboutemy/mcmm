@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jmeter-lightning-maven-plugin</name>
+      <prefix>jmeter-lightning</prefix>
+      <artifactId>jmeter-lightning-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>wiremock-maven-plugin</name>
       <prefix>wiremock</prefix>
       <artifactId>wiremock-maven-plugin</artifactId>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hamcrest Matcher Generator for Protobuf</name>
+      <prefix>hamcrest-proto</prefix>
+      <artifactId>hamcrest-proto-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.keycloak.testsuite</groupId>
   <artifactId>integration-arquillian-test-apps-dist</artifactId>
   <versioning>
-    <latest>2.4.0.Final</latest>
-    <release>2.4.0.Final</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>1.9.2.Final</version>
       <version>1.9.3.Final</version>
@@ -23,7 +23,16 @@
       <version>2.3.0.Final</version>
       <version>2.4.0.CR1</version>
       <version>2.4.0.Final</version>
+      <version>2.5.0.CR1</version>
+      <version>2.5.0.Final</version>
+      <version>2.5.1.Final</version>
+      <version>2.5.4.Final</version>
+      <version>2.5.5.Final</version>
+      <version>3.0.0.CR1</version>
+      <version>3.0.0.Final</version>
+      <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20161123212759</lastUpdated>
+    <lastUpdated>20170503065545</lastUpdated>
   </versioning>
 </metadata>

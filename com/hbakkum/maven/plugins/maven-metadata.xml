@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>resolve-parent-version-maven-plugin</name>
+      <prefix>resolve-parent-version</prefix>
+      <artifactId>resolve-parent-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

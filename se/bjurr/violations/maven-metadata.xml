@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>violation-comments-to-github-maven-plugin</name>
+      <prefix>violation-comments-to-github</prefix>
+      <artifactId>violation-comments-to-github-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

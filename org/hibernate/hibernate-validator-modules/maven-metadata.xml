@@ -3,11 +3,14 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-validator-modules</artifactId>
   <versioning>
-    <latest>5.4.0.Beta1</latest>
-    <release>5.4.0.Beta1</release>
+    <latest>5.4.1.Final</latest>
+    <release>5.4.1.Final</release>
     <versions>
       <version>5.4.0.Beta1</version>
+      <version>5.4.0.CR1</version>
+      <version>5.4.0.Final</version>
+      <version>5.4.1.Final</version>
     </versions>
-    <lastUpdated>20161208114841</lastUpdated>
+    <lastUpdated>20170316172826</lastUpdated>
   </versioning>
 </metadata>

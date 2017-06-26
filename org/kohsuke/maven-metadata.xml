@@ -18,7 +18,7 @@
     </plugin>
     <plugin>
       <name>PGP Maven plugin</name>
-      <prefix>pgp</prefix>
+      <prefix>gpg-maven-plugin</prefix>
       <artifactId>pgp-maven-plugin</artifactId>
     </plugin>
   </plugins>

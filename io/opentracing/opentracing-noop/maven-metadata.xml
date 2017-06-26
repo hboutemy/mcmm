@@ -3,8 +3,8 @@
   <groupId>io.opentracing</groupId>
   <artifactId>opentracing-noop</artifactId>
   <versioning>
-    <latest>0.22.0</latest>
-    <release>0.22.0</release>
+    <latest>0.30.0</latest>
+    <release>0.30.0</release>
     <versions>
       <version>0.20.2</version>
       <version>0.20.4</version>
@@ -15,7 +15,10 @@
       <version>0.20.10</version>
       <version>0.21.0</version>
       <version>0.22.0</version>
+      <version>0.30.0.RC2</version>
+      <version>0.30.0.RC3</version>
+      <version>0.30.0</version>
     </versions>
-    <lastUpdated>20170503203144</lastUpdated>
+    <lastUpdated>20170526183808</lastUpdated>
   </versioning>
 </metadata>

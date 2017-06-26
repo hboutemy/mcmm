@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.java</groupId>
   <artifactId>java-surefire</artifactId>
   <versioning>
-    <latest>4.3.0.7717</latest>
-    <release>4.3.0.7717</release>
+    <latest>4.10.0.10260</latest>
+    <release>4.10.0.10260</release>
     <versions>
       <version>3.4</version>
       <version>3.5</version>
@@ -23,7 +23,14 @@
       <version>4.2</version>
       <version>4.2.1.6971</version>
       <version>4.3.0.7717</version>
+      <version>4.4.0.8066</version>
+      <version>4.5.0.8398</version>
+      <version>4.6.0.8784</version>
+      <version>4.7.1.9272</version>
+      <version>4.8.0.9441</version>
+      <version>4.9.0.9858</version>
+      <version>4.10.0.10260</version>
     </versions>
-    <lastUpdated>20161207141554</lastUpdated>
+    <lastUpdated>20170529155537</lastUpdated>
   </versioning>
 </metadata>

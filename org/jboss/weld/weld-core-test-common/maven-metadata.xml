@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-core-test-common</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha17</latest>
-    <release>3.0.0.Alpha17</release>
+    <latest>3.0.0.CR2</latest>
+    <release>3.0.0.CR2</release>
     <versions>
       <version>2.2.0.Beta2</version>
       <version>2.2.0.CR1</version>
@@ -44,6 +44,9 @@
       <version>2.4.0.CR1</version>
       <version>2.4.0.Final</version>
       <version>2.4.1.Final</version>
+      <version>2.4.2.Final</version>
+      <version>2.4.2.SP1</version>
+      <version>2.4.3.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
@@ -61,7 +64,12 @@
       <version>3.0.0.Alpha15</version>
       <version>3.0.0.Alpha16</version>
       <version>3.0.0.Alpha17</version>
+      <version>3.0.0.Beta1</version>
+      <version>3.0.0.CR1</version>
+      <version>3.0.0.CR2</version>
+      <version>2.4.4.Final</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20161116080227</lastUpdated>
+    <lastUpdated>20170406071945</lastUpdated>
   </versioning>
 </metadata>

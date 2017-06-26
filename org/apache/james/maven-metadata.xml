@@ -16,5 +16,10 @@
       <prefix>mpt</prefix>
       <artifactId>maven-mpt-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache James MPT Maven2 Plugin</name>
+      <prefix>mpt</prefix>
+      <artifactId>mpt-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

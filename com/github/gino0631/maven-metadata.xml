@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ICNS Maven Plugin</name>
+      <prefix>icns</prefix>
+      <artifactId>icns-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>PKG Maven Plugin</name>
+      <prefix>pkg</prefix>
+      <artifactId>pkg-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>External Generator ${project.version}</name>
+      <prefix>external</prefix>
+      <artifactId>external</artifactId>
+    </plugin>
+    <plugin>
+      <name>Frontend generator ${project.version}</name>
+      <prefix>frontend</prefix>
+      <artifactId>frontend</artifactId>
+    </plugin>
+    <plugin>
+      <name>Meta generator ${project.version}</name>
+      <prefix>metagenerator</prefix>
+      <artifactId>metagenerator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Process Generator ${project.version}</name>
+      <prefix>process</prefix>
+      <artifactId>process</artifactId>
+    </plugin>
+    <plugin>
+      <name>Storage Generator ${project.version}</name>
+      <prefix>storage</prefix>
+      <artifactId>storage</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

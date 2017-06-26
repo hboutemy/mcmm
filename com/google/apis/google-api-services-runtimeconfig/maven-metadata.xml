@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-runtimeconfig</artifactId>
   <versioning>
-    <latest>v1-rev400-1.22.0</latest>
-    <release>v1-rev400-1.22.0</release>
+    <latest>v1-rev401-1.22.0</latest>
+    <release>v1-rev401-1.22.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -131,6 +131,10 @@
       <version>v1beta1-rev415-1.20.0</version>
       <version>v1beta1-rev415-1.21.0</version>
       <version>v1beta1-rev415-1.22.0</version>
+      <version>v1beta1-rev416-1.18.0-rc</version>
+      <version>v1beta1-rev416-1.20.0</version>
+      <version>v1beta1-rev416-1.21.0</version>
+      <version>v1beta1-rev416-1.22.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -184,7 +188,11 @@
       <version>v1-rev400-1.20.0</version>
       <version>v1-rev400-1.21.0</version>
       <version>v1-rev400-1.22.0</version>
+      <version>v1-rev401-1.18.0-rc</version>
+      <version>v1-rev401-1.20.0</version>
+      <version>v1-rev401-1.21.0</version>
+      <version>v1-rev401-1.22.0</version>
     </versions>
-    <lastUpdated>20170503225609</lastUpdated>
+    <lastUpdated>20170523214637</lastUpdated>
   </versioning>
 </metadata>

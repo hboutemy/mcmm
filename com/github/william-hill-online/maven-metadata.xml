@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WilliamHill :: Cassandra Maven Plugin</name>
+      <prefix>cassandra</prefix>
+      <artifactId>cassandra-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

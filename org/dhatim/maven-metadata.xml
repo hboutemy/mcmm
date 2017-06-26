@@ -6,5 +6,15 @@
       <prefix>dropwizard-launcher</prefix>
       <artifactId>dropwizard-launcher-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Milyn :: EDI :: Edifact Convertion Tool - Maven Plugin Mojo</name>
+      <prefix>ect</prefix>
+      <artifactId>ect-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Milyn :: EDI :: Edifact Java Compiler :: Maven Plugin Mojo</name>
+      <prefix>ejc</prefix>
+      <artifactId>ejc-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

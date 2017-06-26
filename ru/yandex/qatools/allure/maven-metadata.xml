@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Allure JUnit Plugin</name>
+      <prefix>allure-junit</prefix>
+      <artifactId>allure-junit-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Allure Maven Plugin</name>
+      <prefix>allure</prefix>
+      <artifactId>allure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Allure TestNG Plugin</name>
+      <prefix>allure-testng</prefix>
+      <artifactId>allure-testng-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -6,5 +6,10 @@
       <prefix>jacoco-report</prefix>
       <artifactId>jacoco-report-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Maven PDF Plugin Fork</name>
+      <prefix>pdf</prefix>
+      <artifactId>maven-pdf-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

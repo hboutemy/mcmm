@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jgit</groupId>
   <artifactId>org.eclipse.jgit.archive</artifactId>
   <versioning>
-    <latest>4.7.0.201704051617-r</latest>
-    <release>4.7.0.201704051617-r</release>
+    <latest>4.8.0.201706111038-r</latest>
+    <release>4.8.0.201706111038-r</release>
     <versions>
       <version>3.1.0.201310021548-r</version>
       <version>3.2.0.201312181205-r</version>
@@ -51,7 +51,10 @@
       <version>4.6.0.201612231935-r</version>
       <version>4.6.1.201703071140-r</version>
       <version>4.7.0.201704051617-r</version>
+      <version>4.7.1.201706071930-r</version>
+      <version>4.8.0.201705170830-rc1</version>
+      <version>4.8.0.201706111038-r</version>
     </versions>
-    <lastUpdated>20170407215702</lastUpdated>
+    <lastUpdated>20170616114032</lastUpdated>
   </versioning>
 </metadata>

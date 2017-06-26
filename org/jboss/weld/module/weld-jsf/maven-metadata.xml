@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.module</groupId>
   <artifactId>weld-jsf</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha17</latest>
-    <release>3.0.0.Alpha17</release>
+    <latest>3.0.0.CR2</latest>
+    <release>3.0.0.CR2</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Alpha7</version>
@@ -18,7 +18,11 @@
       <version>3.0.0.Alpha15</version>
       <version>3.0.0.Alpha16</version>
       <version>3.0.0.Alpha17</version>
+      <version>3.0.0.Beta1</version>
+      <version>3.0.0.CR1</version>
+      <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20160914065149</lastUpdated>
+    <lastUpdated>20170303115214</lastUpdated>
   </versioning>
 </metadata>

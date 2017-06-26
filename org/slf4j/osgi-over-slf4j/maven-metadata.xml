@@ -3,8 +3,8 @@
   <groupId>org.slf4j</groupId>
   <artifactId>osgi-over-slf4j</artifactId>
   <versioning>
-    <latest>1.7.22</latest>
-    <release>1.7.22</release>
+    <latest>1.8.0-alpha2</latest>
+    <release>1.8.0-alpha2</release>
     <versions>
       <version>1.7.2</version>
       <version>1.7.3</version>
@@ -26,7 +26,13 @@
       <version>1.7.20</version>
       <version>1.7.21</version>
       <version>1.7.22</version>
+      <version>1.7.23</version>
+      <version>1.7.24</version>
+      <version>1.7.25</version>
+      <version>1.8.0-alpha0</version>
+      <version>1.8.0-alpha1</version>
+      <version>1.8.0-alpha2</version>
     </versions>
-    <lastUpdated>20161213170757</lastUpdated>
+    <lastUpdated>20170425222021</lastUpdated>
   </versioning>
 </metadata>

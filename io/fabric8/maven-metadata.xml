@@ -2,14 +2,34 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>docker-maven-plugin</name>
+      <prefix>docker</prefix>
+      <artifactId>docker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Fabric8 :: Swagger Maven Plugins</name>
       <prefix>fabric-cxfs</prefix>
       <artifactId>fabric-cxf-plugins</artifactId>
     </plugin>
     <plugin>
-      <name>Fabric8 :: Maven Plugin</name>
+      <name>Fabric8 :: CXF :: Swagger Maven Plugins</name>
+      <prefix>fabric8-cxfs</prefix>
+      <artifactId>fabric8-cxf-plugins</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric8 Maven :: Plugin</name>
       <prefix>fabric8</prefix>
       <artifactId>fabric8-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric8 :: Hawt-App Maven Plugin</name>
+      <prefix>hawt-app</prefix>
+      <artifactId>hawt-app-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vert.x Maven Plugin</name>
+      <prefix>vertx</prefix>
+      <artifactId>vertx-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

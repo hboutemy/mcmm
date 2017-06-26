@@ -3,8 +3,8 @@
   <groupId>de.otto.edison</groupId>
   <artifactId>edison-core</artifactId>
   <versioning>
-    <latest>1.0.1-RELEASE</latest>
-    <release>1.0.1-RELEASE</release>
+    <latest>1.1.1</latest>
+    <release>1.1.1</release>
     <versions>
       <version>0.45.0</version>
       <version>0.45.1</version>
@@ -94,8 +94,14 @@
       <version>1.0.0.RC9</version>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1-RELEASE</version>
+      <version>1.1.0.beta1</version>
+      <version>1.1.0-beta.2</version>
+      <version>1.1.0-beta.3</version>
+      <version>1.1.0-beta.4</version>
+      <version>1.1.0</version>
+      <version>1.1.1</version>
       <version>1.0.1.RELEASE</version>
     </versions>
-    <lastUpdated>20170413132223</lastUpdated>
+    <lastUpdated>20170623093443</lastUpdated>
   </versioning>
 </metadata>

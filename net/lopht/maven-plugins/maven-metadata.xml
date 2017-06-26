@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>Upload Maven Plugin</name>
       <prefix>upload</prefix>
       <artifactId>upload-maven-plugin</artifactId>
     </plugin>

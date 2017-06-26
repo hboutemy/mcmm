@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-toolresults</artifactId>
   <versioning>
-    <latest>v1beta3-rev224-1.22.0</latest>
-    <release>v1beta3-rev224-1.22.0</release>
+    <latest>v1beta3-rev242-1.22.0</latest>
+    <release>v1beta3-rev242-1.22.0</release>
     <versions>
       <version>v1beta3firstparty-rev1-1.18.0-rc</version>
       <version>v1beta3firstparty-rev1-1.20.0</version>
@@ -190,6 +190,70 @@
       <version>v1beta3firstparty-rev47-1.20.0</version>
       <version>v1beta3firstparty-rev47-1.21.0</version>
       <version>v1beta3firstparty-rev47-1.22.0</version>
+      <version>v1beta3firstparty-rev50-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev50-1.20.0</version>
+      <version>v1beta3firstparty-rev50-1.21.0</version>
+      <version>v1beta3firstparty-rev50-1.22.0</version>
+      <version>v1beta3firstparty-rev51-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev51-1.20.0</version>
+      <version>v1beta3firstparty-rev51-1.21.0</version>
+      <version>v1beta3firstparty-rev51-1.22.0</version>
+      <version>v1beta3firstparty-rev52-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev52-1.20.0</version>
+      <version>v1beta3firstparty-rev52-1.21.0</version>
+      <version>v1beta3firstparty-rev52-1.22.0</version>
+      <version>v1beta3firstparty-rev53-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev53-1.20.0</version>
+      <version>v1beta3firstparty-rev53-1.21.0</version>
+      <version>v1beta3firstparty-rev53-1.22.0</version>
+      <version>v1beta3firstparty-rev54-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev54-1.20.0</version>
+      <version>v1beta3firstparty-rev54-1.21.0</version>
+      <version>v1beta3firstparty-rev54-1.22.0</version>
+      <version>v1beta3firstparty-rev55-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev55-1.20.0</version>
+      <version>v1beta3firstparty-rev55-1.21.0</version>
+      <version>v1beta3firstparty-rev55-1.22.0</version>
+      <version>v1beta3firstparty-rev56-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev56-1.20.0</version>
+      <version>v1beta3firstparty-rev56-1.21.0</version>
+      <version>v1beta3firstparty-rev56-1.22.0</version>
+      <version>v1beta3firstparty-rev57-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev57-1.20.0</version>
+      <version>v1beta3firstparty-rev57-1.21.0</version>
+      <version>v1beta3firstparty-rev57-1.22.0</version>
+      <version>v1beta3firstparty-rev58-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev58-1.20.0</version>
+      <version>v1beta3firstparty-rev58-1.21.0</version>
+      <version>v1beta3firstparty-rev58-1.22.0</version>
+      <version>v1beta3firstparty-rev59-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev59-1.20.0</version>
+      <version>v1beta3firstparty-rev59-1.21.0</version>
+      <version>v1beta3firstparty-rev59-1.22.0</version>
+      <version>v1beta3firstparty-rev60-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev60-1.20.0</version>
+      <version>v1beta3firstparty-rev60-1.21.0</version>
+      <version>v1beta3firstparty-rev60-1.22.0</version>
+      <version>v1beta3firstparty-rev61-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev61-1.20.0</version>
+      <version>v1beta3firstparty-rev61-1.21.0</version>
+      <version>v1beta3firstparty-rev61-1.22.0</version>
+      <version>v1beta3firstparty-rev62-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev62-1.20.0</version>
+      <version>v1beta3firstparty-rev62-1.21.0</version>
+      <version>v1beta3firstparty-rev62-1.22.0</version>
+      <version>v1beta3firstparty-rev63-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev63-1.20.0</version>
+      <version>v1beta3firstparty-rev63-1.21.0</version>
+      <version>v1beta3firstparty-rev63-1.22.0</version>
+      <version>v1beta3firstparty-rev64-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev64-1.20.0</version>
+      <version>v1beta3firstparty-rev64-1.21.0</version>
+      <version>v1beta3firstparty-rev64-1.22.0</version>
+      <version>v1beta3firstparty-rev65-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev65-1.20.0</version>
+      <version>v1beta3firstparty-rev65-1.21.0</version>
+      <version>v1beta3firstparty-rev65-1.22.0</version>
       <version>v1beta3-rev1-1.18.0-rc</version>
       <version>v1beta3-rev1-1.19.1</version>
       <version>v1beta3-rev1-1.20.0</version>
@@ -1046,7 +1110,75 @@
       <version>v1beta3-rev224-1.20.0</version>
       <version>v1beta3-rev224-1.21.0</version>
       <version>v1beta3-rev224-1.22.0</version>
+      <version>v1beta3-rev225-1.18.0-rc</version>
+      <version>v1beta3-rev225-1.20.0</version>
+      <version>v1beta3-rev225-1.21.0</version>
+      <version>v1beta3-rev225-1.22.0</version>
+      <version>v1beta3-rev227-1.18.0-rc</version>
+      <version>v1beta3-rev227-1.20.0</version>
+      <version>v1beta3-rev227-1.21.0</version>
+      <version>v1beta3-rev227-1.22.0</version>
+      <version>v1beta3-rev228-1.18.0-rc</version>
+      <version>v1beta3-rev228-1.20.0</version>
+      <version>v1beta3-rev228-1.21.0</version>
+      <version>v1beta3-rev228-1.22.0</version>
+      <version>v1beta3-rev229-1.18.0-rc</version>
+      <version>v1beta3-rev229-1.20.0</version>
+      <version>v1beta3-rev229-1.21.0</version>
+      <version>v1beta3-rev229-1.22.0</version>
+      <version>v1beta3-rev230-1.18.0-rc</version>
+      <version>v1beta3-rev230-1.20.0</version>
+      <version>v1beta3-rev230-1.21.0</version>
+      <version>v1beta3-rev230-1.22.0</version>
+      <version>v1beta3-rev231-1.18.0-rc</version>
+      <version>v1beta3-rev231-1.20.0</version>
+      <version>v1beta3-rev231-1.21.0</version>
+      <version>v1beta3-rev231-1.22.0</version>
+      <version>v1beta3-rev232-1.18.0-rc</version>
+      <version>v1beta3-rev232-1.20.0</version>
+      <version>v1beta3-rev232-1.21.0</version>
+      <version>v1beta3-rev232-1.22.0</version>
+      <version>v1beta3-rev233-1.18.0-rc</version>
+      <version>v1beta3-rev233-1.20.0</version>
+      <version>v1beta3-rev233-1.21.0</version>
+      <version>v1beta3-rev233-1.22.0</version>
+      <version>v1beta3-rev234-1.18.0-rc</version>
+      <version>v1beta3-rev234-1.20.0</version>
+      <version>v1beta3-rev234-1.21.0</version>
+      <version>v1beta3-rev234-1.22.0</version>
+      <version>v1beta3-rev235-1.18.0-rc</version>
+      <version>v1beta3-rev235-1.20.0</version>
+      <version>v1beta3-rev235-1.21.0</version>
+      <version>v1beta3-rev235-1.22.0</version>
+      <version>v1beta3-rev236-1.18.0-rc</version>
+      <version>v1beta3-rev236-1.20.0</version>
+      <version>v1beta3-rev236-1.21.0</version>
+      <version>v1beta3-rev236-1.22.0</version>
+      <version>v1beta3-rev237-1.18.0-rc</version>
+      <version>v1beta3-rev237-1.20.0</version>
+      <version>v1beta3-rev237-1.21.0</version>
+      <version>v1beta3-rev237-1.22.0</version>
+      <version>v1beta3-rev238-1.18.0-rc</version>
+      <version>v1beta3-rev238-1.20.0</version>
+      <version>v1beta3-rev238-1.21.0</version>
+      <version>v1beta3-rev238-1.22.0</version>
+      <version>v1beta3-rev239-1.18.0-rc</version>
+      <version>v1beta3-rev239-1.20.0</version>
+      <version>v1beta3-rev239-1.21.0</version>
+      <version>v1beta3-rev239-1.22.0</version>
+      <version>v1beta3-rev240-1.18.0-rc</version>
+      <version>v1beta3-rev240-1.20.0</version>
+      <version>v1beta3-rev240-1.21.0</version>
+      <version>v1beta3-rev240-1.22.0</version>
+      <version>v1beta3-rev241-1.18.0-rc</version>
+      <version>v1beta3-rev241-1.20.0</version>
+      <version>v1beta3-rev241-1.21.0</version>
+      <version>v1beta3-rev241-1.22.0</version>
+      <version>v1beta3-rev242-1.18.0-rc</version>
+      <version>v1beta3-rev242-1.20.0</version>
+      <version>v1beta3-rev242-1.21.0</version>
+      <version>v1beta3-rev242-1.22.0</version>
     </versions>
-    <lastUpdated>20170511095308</lastUpdated>
+    <lastUpdated>20170610074236</lastUpdated>
   </versioning>
 </metadata>

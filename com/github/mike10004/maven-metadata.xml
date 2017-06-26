@@ -7,6 +7,11 @@
       <artifactId>concatenate-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Debian Maven Plugin</name>
+      <prefix>debian</prefix>
+      <artifactId>debian-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jcabi-mysql-maven-plugin</name>
       <prefix>jcabi-mysql</prefix>
       <artifactId>jcabi-mysql-maven-plugin</artifactId>

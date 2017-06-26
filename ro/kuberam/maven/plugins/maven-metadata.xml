@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>kuberam expath plugin</name>
+      <prefix>kuberam-expath</prefix>
+      <artifactId>kuberam-expath-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>kuberam i18n plugin</name>
+      <prefix>kuberam-i18n</prefix>
+      <artifactId>kuberam-i18n-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>kuberam xml plugin</name>
+      <prefix>kuberam-xml</prefix>
+      <artifactId>kuberam-xml-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
