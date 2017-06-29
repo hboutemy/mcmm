@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-diff-script</artifactId>
   <versioning>
-    <latest>9.5-rc-1</latest>
-    <release>9.5-rc-1</release>
+    <latest>9.5.1</latest>
+    <release>9.5.1</release>
     <versions>
       <version>4.1-rc-1</version>
       <version>4.1</version>
@@ -168,9 +168,11 @@
       <version>9.4-rc-1</version>
       <version>9.4</version>
       <version>9.5-rc-1</version>
+      <version>9.5</version>
+      <version>9.5.1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20170622155710</lastUpdated>
+    <lastUpdated>20170628173724</lastUpdated>
   </versioning>
 </metadata>
