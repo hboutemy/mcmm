@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-deployer-kubernetes</artifactId>
   <versioning>
-    <latest>1.2.0.RELEASE</latest>
-    <release>1.2.0.RELEASE</release>
+    <latest>1.2.1.RELEASE</latest>
+    <release>1.2.1.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -14,7 +14,8 @@
       <version>1.1.1.RELEASE</version>
       <version>1.1.2.RELEASE</version>
       <version>1.2.0.RELEASE</version>
+      <version>1.2.1.RELEASE</version>
     </versions>
-    <lastUpdated>20170511141938</lastUpdated>
+    <lastUpdated>20170630190610</lastUpdated>
   </versioning>
 </metadata>
