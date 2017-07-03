@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Test Parser Plugin for Maven</name>
+      <prefix>test-parser</prefix>
+      <artifactId>test-parser-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
