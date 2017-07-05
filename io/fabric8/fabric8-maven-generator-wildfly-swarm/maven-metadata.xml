@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>fabric8-maven-generator-wildfly-swarm</artifactId>
   <versioning>
-    <latest>3.4.2</latest>
-    <release>3.4.2</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>3.1.29</version>
       <version>3.1.30</version>
@@ -90,7 +90,8 @@
       <version>3.4.0</version>
       <version>3.4.1</version>
       <version>3.4.2</version>
+      <version>3.5.0</version>
     </versions>
-    <lastUpdated>20170623070831</lastUpdated>
+    <lastUpdated>20170704073314</lastUpdated>
   </versioning>
 </metadata>
