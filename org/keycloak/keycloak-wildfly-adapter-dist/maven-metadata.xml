@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-adapter-dist</artifactId>
   <versioning>
-    <latest>3.2.0.CR1</latest>
-    <release>3.2.0.CR1</release>
+    <latest>3.2.0.Final</latest>
+    <release>3.2.0.Final</release>
     <versions>
       <version>1.0-beta-1</version>
       <version>1.0-beta-2</version>
@@ -63,7 +63,8 @@
       <version>3.1.0.CR1</version>
       <version>3.1.0.Final</version>
       <version>3.2.0.CR1</version>
+      <version>3.2.0.Final</version>
     </versions>
-    <lastUpdated>20170630095554</lastUpdated>
+    <lastUpdated>20170705073129</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-osgi-bundles-lib-slf4j-osgi</artifactId>
   <versioning>
-    <latest>0.36.8</latest>
-    <release>0.36.8</release>
+    <latest>0.36.9</latest>
+    <release>0.36.9</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -71,7 +71,8 @@
       <version>0.36.6</version>
       <version>0.36.7</version>
       <version>0.36.8</version>
+      <version>0.36.9</version>
     </versions>
-    <lastUpdated>20170531093403</lastUpdated>
+    <lastUpdated>20170705103418</lastUpdated>
   </versioning>
 </metadata>
