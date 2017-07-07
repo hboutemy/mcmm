@@ -7,6 +7,11 @@
       <artifactId>icns-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>PAC Maven Plugin</name>
+      <prefix>pac</prefix>
+      <artifactId>pac-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>PKG Maven Plugin</name>
       <prefix>pkg</prefix>
       <artifactId>pkg-maven-plugin</artifactId>

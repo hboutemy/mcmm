@@ -3,10 +3,9 @@
   <groupId>org.jboss.forge.addon</groupId>
   <artifactId>wildfly-swarm</artifactId>
   <versioning>
-    <latest>1.0.0.Alpha3</latest>
-    <release>1.0.0.Alpha3</release>
+    <latest>2017.7.0</latest>
+    <release>2017.7.0</release>
     <versions>
-      <version>1.0.0.Alpha3</version>
       <version>1.0.0.Alpha8</version>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -32,7 +31,9 @@
       <version>2017.5.0</version>
       <version>2017.6.0</version>
       <version>2017.6.1</version>
+      <version>2017.7.0</version>
+      <version>1.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20150618153337</lastUpdated>
+    <lastUpdated>20170706191256</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-yarn-build-tests</artifactId>
   <versioning>
-    <latest>2.4.0.RELEASE</latest>
-    <release>2.4.0.RELEASE</release>
+    <latest>2.5.0.RELEASE</latest>
+    <release>2.5.0.RELEASE</release>
     <versions>
       <version>2.0.0.RELEASE</version>
       <version>2.0.0.RELEASE-hadoop24</version>
@@ -35,7 +35,8 @@
       <version>2.3.0.RELEASE</version>
       <version>2.3.0.RELEASE-hadoop26</version>
       <version>2.4.0.RELEASE</version>
+      <version>2.5.0.RELEASE</version>
     </versions>
-    <lastUpdated>20161110223333</lastUpdated>
+    <lastUpdated>20170706184947</lastUpdated>
   </versioning>
 </metadata>
