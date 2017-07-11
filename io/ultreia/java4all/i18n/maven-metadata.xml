@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <versioning>
+    <latest>4.0-alpha-1</latest>
+    <release>4.0-alpha-1</release>
+    <versions>
+      <version>4.0-alpha-1</version>
+    </versions>
+    <lastUpdated>20170710155733</lastUpdated>
+  </versioning>
+  <plugins>
+    <plugin>
+      <name>I18n :: Maven Plugin</name>
+      <prefix>i18n</prefix>
+      <artifactId>i18n-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
