@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Properties Maven Plugin</name>
+      <name>Yaml Properties Maven Plugin</name>
       <prefix>yaml-properties</prefix>
       <artifactId>yaml-properties-maven-plugin</artifactId>
     </plugin>
