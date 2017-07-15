@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-gridfs-webdav</artifactId>
   <versioning>
-    <latest>9.1.0.CR1</latest>
-    <release>9.1.0.CR1</release>
+    <latest>9.1.0.Final</latest>
+    <release>9.1.0.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -134,6 +134,7 @@
       <version>8.1.6.Final</version>
       <version>8.1.7.Final</version>
       <version>8.1.8.Final</version>
+      <version>8.1.9.Final</version>
       <version>8.2.0.Beta1</version>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -162,7 +163,9 @@
       <version>9.1.0.Alpha1</version>
       <version>9.1.0.Beta1</version>
       <version>9.1.0.CR1</version>
+      <version>9.1.0.Final</version>
+      <version>8.2.8.Final</version>
     </versions>
-    <lastUpdated>20170629172609</lastUpdated>
+    <lastUpdated>20170714170517</lastUpdated>
   </versioning>
 </metadata>

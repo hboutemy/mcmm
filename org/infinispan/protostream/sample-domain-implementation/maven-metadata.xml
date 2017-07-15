@@ -3,8 +3,8 @@
   <groupId>org.infinispan.protostream</groupId>
   <artifactId>sample-domain-implementation</artifactId>
   <versioning>
-    <latest>4.1.0.Alpha1</latest>
-    <release>4.1.0.Alpha1</release>
+    <latest>4.1.0.Final</latest>
+    <release>4.1.0.Final</release>
     <versions>
       <version>1.0.0.Alpha2</version>
       <version>1.0.0.Alpha3</version>
@@ -55,7 +55,8 @@
       <version>4.0.0.CR3</version>
       <version>4.0.0.Final</version>
       <version>4.1.0.Alpha1</version>
+      <version>4.1.0.Final</version>
     </versions>
-    <lastUpdated>20170425084159</lastUpdated>
+    <lastUpdated>20170714071111</lastUpdated>
   </versioning>
 </metadata>

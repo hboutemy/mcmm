@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.jta</groupId>
   <artifactId>jdbc</artifactId>
   <versioning>
-    <latest>5.6.2.Final</latest>
-    <release>5.6.2.Final</release>
+    <latest>5.6.3.Final</latest>
+    <release>5.6.3.Final</release>
     <versions>
       <version>5.2.13.Final</version>
       <version>5.2.14.Final</version>
@@ -37,10 +37,12 @@
       <version>5.5.25.Final</version>
       <version>5.5.26.Final</version>
       <version>5.5.27.Final</version>
+      <version>5.5.28.Final</version>
       <version>5.6.0.Final</version>
       <version>5.6.1.Final</version>
       <version>5.6.2.Final</version>
+      <version>5.6.3.Final</version>
     </versions>
-    <lastUpdated>20170627145021</lastUpdated>
+    <lastUpdated>20170714110002</lastUpdated>
   </versioning>
 </metadata>

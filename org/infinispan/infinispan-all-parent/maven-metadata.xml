@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-all-parent</artifactId>
   <versioning>
-    <latest>9.1.0.CR1</latest>
-    <release>9.1.0.CR1</release>
+    <latest>9.1.0.Final</latest>
+    <release>9.1.0.Final</release>
     <versions>
       <version>7.0.0.CR1</version>
       <version>7.0.0.CR2</version>
@@ -50,6 +50,7 @@
       <version>8.1.6.Final</version>
       <version>8.1.7.Final</version>
       <version>8.1.8.Final</version>
+      <version>8.1.9.Final</version>
       <version>8.2.0.Beta1</version>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -61,6 +62,7 @@
       <version>8.2.5.Final</version>
       <version>8.2.6.Final</version>
       <version>8.2.7.Final</version>
+      <version>8.2.8.Final</version>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Alpha2</version>
       <version>9.0.0.Alpha3</version>
@@ -78,7 +80,8 @@
       <version>9.1.0.Alpha1</version>
       <version>9.1.0.Beta1</version>
       <version>9.1.0.CR1</version>
+      <version>9.1.0.Final</version>
     </versions>
-    <lastUpdated>20170629172506</lastUpdated>
+    <lastUpdated>20170714170414</lastUpdated>
   </versioning>
 </metadata>
