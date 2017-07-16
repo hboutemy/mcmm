@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Adobe AIR Development tools Maven plugin</name>
+      <prefix>adt</prefix>
+      <artifactId>adt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>manifest-validator-maven-plugin</name>
       <prefix>manifest-validator</prefix>
       <artifactId>manifest-validator-maven-plugin</artifactId>

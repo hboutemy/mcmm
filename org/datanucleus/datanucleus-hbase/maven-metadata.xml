@@ -3,8 +3,8 @@
   <groupId>org.datanucleus</groupId>
   <artifactId>datanucleus-hbase</artifactId>
   <versioning>
-    <latest>5.1.0-m4</latest>
-    <release>5.1.0-m4</release>
+    <latest>5.1.0-release</latest>
+    <release>5.1.0-release</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -74,7 +74,8 @@
       <version>5.1.0-m2</version>
       <version>5.1.0-m3</version>
       <version>5.1.0-m4</version>
+      <version>5.1.0-release</version>
     </versions>
-    <lastUpdated>20170704083431</lastUpdated>
+    <lastUpdated>20170715083424</lastUpdated>
   </versioning>
 </metadata>

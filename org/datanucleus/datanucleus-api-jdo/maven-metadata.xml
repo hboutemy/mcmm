@@ -3,8 +3,8 @@
   <groupId>org.datanucleus</groupId>
   <artifactId>datanucleus-api-jdo</artifactId>
   <versioning>
-    <latest>5.1.0-m4</latest>
-    <release>5.1.0-m4</release>
+    <latest>5.1.0-release</latest>
+    <release>5.1.0-release</release>
     <versions>
       <version>3.0.0-m1</version>
       <version>3.0.0-m2</version>
@@ -89,7 +89,8 @@
       <version>5.1.0-m2</version>
       <version>5.1.0-m3</version>
       <version>5.1.0-m4</version>
+      <version>5.1.0-release</version>
     </versions>
-    <lastUpdated>20170704083419</lastUpdated>
+    <lastUpdated>20170715083419</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.datanucleus</groupId>
   <artifactId>datanucleus-api-rest</artifactId>
   <versioning>
-    <latest>5.1.0-m1</latest>
-    <release>5.1.0-m1</release>
+    <latest>5.1.0-release</latest>
+    <release>5.1.0-release</release>
     <versions>
       <version>3.0.0-m1</version>
       <version>3.0.0-m2</version>
@@ -51,7 +51,8 @@
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.1.0-m1</version>
+      <version>5.1.0-release</version>
     </versions>
-    <lastUpdated>20170704083427</lastUpdated>
+    <lastUpdated>20170715083419</lastUpdated>
   </versioning>
 </metadata>
