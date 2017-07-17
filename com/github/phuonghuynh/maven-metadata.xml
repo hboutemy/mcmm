@@ -12,6 +12,11 @@
       <artifactId>compressor</artifactId>
     </plugin>
     <plugin>
+      <name>gitflow-maven-plugin</name>
+      <prefix>gitflow</prefix>
+      <artifactId>gitflow-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>named-mvn</prefix>
       <artifactId>named-mvn</artifactId>
