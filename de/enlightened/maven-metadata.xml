@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sql-enum-generator-maven-plugin Maven Mojo</name>
+      <prefix>sql-enum-generator</prefix>
+      <artifactId>sql-enum-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

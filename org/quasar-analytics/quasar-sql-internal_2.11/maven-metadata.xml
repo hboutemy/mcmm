@@ -3,8 +3,8 @@
   <groupId>org.quasar-analytics</groupId>
   <artifactId>quasar-sql-internal_2.11</artifactId>
   <versioning>
-    <latest>20.0.4</latest>
-    <release>20.0.4</release>
+    <latest>20.3.0</latest>
+    <release>20.3.0</release>
     <versions>
       <version>12.0.1</version>
       <version>12.0.3</version>
@@ -217,7 +217,14 @@
       <version>20.0.2</version>
       <version>20.0.3</version>
       <version>20.0.4</version>
+      <version>20.1.0</version>
+      <version>20.1.1</version>
+      <version>20.1.2</version>
+      <version>20.2.0</version>
+      <version>20.2.1</version>
+      <version>20.2.2</version>
+      <version>20.3.0</version>
     </versions>
-    <lastUpdated>20170717215928</lastUpdated>
+    <lastUpdated>20170718235501</lastUpdated>
   </versioning>
 </metadata>

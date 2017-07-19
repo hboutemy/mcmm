@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-admin-reports</artifactId>
   <versioning>
-    <latest>reports_v1-rev61-1.22.0</latest>
-    <release>reports_v1-rev61-1.22.0</release>
+    <latest>reports_v1-rev62-1.22.0</latest>
+    <release>reports_v1-rev62-1.22.0</release>
     <versions>
       <version>reports_v1-rev11-1.17.0-rc</version>
       <version>reports_v1-rev12-1.17.0-rc</version>
@@ -132,7 +132,11 @@
       <version>reports_v1-rev61-1.20.0</version>
       <version>reports_v1-rev61-1.21.0</version>
       <version>reports_v1-rev61-1.22.0</version>
+      <version>reports_v1-rev62-1.18.0-rc</version>
+      <version>reports_v1-rev62-1.20.0</version>
+      <version>reports_v1-rev62-1.21.0</version>
+      <version>reports_v1-rev62-1.22.0</version>
     </versions>
-    <lastUpdated>20170404143124</lastUpdated>
+    <lastUpdated>20170718221013</lastUpdated>
   </versioning>
 </metadata>

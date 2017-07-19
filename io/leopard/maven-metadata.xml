@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>MyJetty Maven插件</name>
+      <prefix>myjetty</prefix>
+      <artifactId>myjetty-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>com.stormpath.sdk</groupId>
   <artifactId>stormpath-sdk-httpclient</artifactId>
   <versioning>
-    <latest>2.0.0-okta-rc3</latest>
-    <release>2.0.0-okta-rc3</release>
+    <latest>2.0.0-okta</latest>
+    <release>2.0.0-okta</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
@@ -88,7 +88,8 @@
       <version>2.0.0-okta-rc1</version>
       <version>2.0.0-okta-rc2</version>
       <version>2.0.0-okta-rc3</version>
+      <version>2.0.0-okta</version>
     </versions>
-    <lastUpdated>20170616212505</lastUpdated>
+    <lastUpdated>20170718203159</lastUpdated>
   </versioning>
 </metadata>
