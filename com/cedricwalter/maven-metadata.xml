@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>git-branch-renamer</prefix>
+      <artifactId>git-branch-renamer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>properties-sync</prefix>
+      <artifactId>properties-sync-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

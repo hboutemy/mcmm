@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Azure Web Apps Maven Plugin</name>
+      <prefix>webapp</prefix>
+      <artifactId>webapp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

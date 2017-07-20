@@ -12,6 +12,11 @@
       <artifactId>i18n-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JSON Dialog Converter Maven Plugin</name>
+      <prefix>json-dialog-conversion</prefix>
+      <artifactId>json-dialog-conversion-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Node.js Maven Plugin</name>
       <prefix>nodejs</prefix>
       <artifactId>nodejs-maven-plugin</artifactId>
