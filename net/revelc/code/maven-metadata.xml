@@ -12,6 +12,11 @@
       <artifactId>formatter-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>ImpSort Maven Plugin</name>
+      <prefix>impsort</prefix>
+      <artifactId>impsort-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Warbucks Maven Plugin</name>
       <prefix>warbucks</prefix>
       <artifactId>warbucks-maven-plugin</artifactId>
