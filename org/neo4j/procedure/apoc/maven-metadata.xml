@@ -3,8 +3,8 @@
   <groupId>org.neo4j.procedure</groupId>
   <artifactId>apoc</artifactId>
   <versioning>
-    <latest>3.2.0.1</latest>
-    <release>3.2.0.1</release>
+    <latest>3.2.0.4</latest>
+    <release>3.2.0.4</release>
     <versions>
       <version>1.0.0-RC1</version>
       <version>1.0.0</version>
@@ -19,8 +19,10 @@
       <version>3.1.0.5</version>
       <version>3.1.2.5</version>
       <version>3.1.3.7</version>
+      <version>3.1.3.8</version>
       <version>3.2.0.1</version>
+      <version>3.2.0.4</version>
     </versions>
-    <lastUpdated>20170514194723</lastUpdated>
+    <lastUpdated>20170722085258</lastUpdated>
   </versioning>
 </metadata>
