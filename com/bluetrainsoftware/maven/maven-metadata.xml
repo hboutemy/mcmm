@@ -12,6 +12,11 @@
       <artifactId>branch-check-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>gen-code-scanner</name>
+      <prefix>gen-code-scanner</prefix>
+      <artifactId>gen-code-scanner</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven plugin for groovydoc</name>
       <prefix>groovydoc</prefix>
       <artifactId>groovydoc-maven-plugin</artifactId>
