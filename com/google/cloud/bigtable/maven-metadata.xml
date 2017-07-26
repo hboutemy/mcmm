@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>bigtable-emulator</prefix>
+      <artifactId>bigtable-emulator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
