@@ -27,9 +27,19 @@
       <artifactId>smallmind-validation-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Spark-Singularity-Maven-Plugin</name>
+      <prefix>spark-singularity</prefix>
+      <artifactId>spark-singularity-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Spark-Singularity-Mojo</name>
       <prefix>spark-singularity-mojo</prefix>
       <artifactId>spark-singularity-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>Spark-Tanukisoft-Maven-Plugin</name>
+      <prefix>spark-tanukisoft</prefix>
+      <artifactId>spark-tanukisoft-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Spark-Tanukisoft-Mojo</name>
