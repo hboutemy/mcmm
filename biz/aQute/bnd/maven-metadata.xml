@@ -13,24 +13,34 @@
   </versioning>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>biz.aQute.bnd:bnd-baseline-maven-plugin</name>
       <prefix>bnd-baseline</prefix>
       <artifactId>bnd-baseline-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>biz.aQute.bnd:bnd-export-maven-plugin</name>
       <prefix>bnd-export</prefix>
       <artifactId>bnd-export-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>biz.aQute.bnd:bnd-indexer-maven-plugin</name>
       <prefix>bnd-indexer</prefix>
       <artifactId>bnd-indexer-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>biz.aQute.bnd:bnd-maven-plugin</name>
       <prefix>bnd</prefix>
       <artifactId>bnd-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>biz.aQute.bnd:bnd-resolver-maven-plugin</name>
+      <prefix>bnd-resolver</prefix>
+      <artifactId>bnd-resolver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>biz.aQute.bnd:bnd-testing-maven-plugin</name>
+      <prefix>bnd-testing</prefix>
+      <artifactId>bnd-testing-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
