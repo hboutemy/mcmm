@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-content</artifactId>
   <versioning>
-    <latest>v2sandbox-rev46-1.22.0</latest>
-    <release>v2sandbox-rev46-1.22.0</release>
+    <latest>v2sandbox-rev47-1.22.0</latest>
+    <release>v2sandbox-rev47-1.22.0</release>
     <versions>
       <version>v2-rev2-1.14.2-beta</version>
       <version>v2-rev2-1.15.0-rc</version>
@@ -411,6 +411,10 @@
       <version>v2-rev95-1.20.0</version>
       <version>v2-rev95-1.21.0</version>
       <version>v2-rev95-1.22.0</version>
+      <version>v2-rev96-1.18.0-rc</version>
+      <version>v2-rev96-1.20.0</version>
+      <version>v2-rev96-1.21.0</version>
+      <version>v2-rev96-1.22.0</version>
       <version>v2sandbox-rev1-1.18.0-rc</version>
       <version>v2sandbox-rev1-1.19.0</version>
       <version>v2sandbox-rev1-1.19.1</version>
@@ -596,7 +600,11 @@
       <version>v2sandbox-rev46-1.20.0</version>
       <version>v2sandbox-rev46-1.21.0</version>
       <version>v2sandbox-rev46-1.22.0</version>
+      <version>v2sandbox-rev47-1.18.0-rc</version>
+      <version>v2sandbox-rev47-1.20.0</version>
+      <version>v2sandbox-rev47-1.21.0</version>
+      <version>v2sandbox-rev47-1.22.0</version>
     </versions>
-    <lastUpdated>20170719005933</lastUpdated>
+    <lastUpdated>20170728060942</lastUpdated>
   </versioning>
 </metadata>

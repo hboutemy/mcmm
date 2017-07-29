@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.model</groupId>
   <artifactId>camunda-bpmn-model</artifactId>
   <versioning>
-    <latest>7.8.0-alpha1</latest>
-    <release>7.8.0-alpha1</release>
+    <latest>7.8.0-alpha2</latest>
+    <release>7.8.0-alpha2</release>
     <versions>
       <version>7.1.0-alpha4</version>
       <version>7.1.0-Final</version>
@@ -40,7 +40,8 @@
       <version>7.7.0-alpha2</version>
       <version>7.7.0</version>
       <version>7.8.0-alpha1</version>
+      <version>7.8.0-alpha2</version>
     </versions>
-    <lastUpdated>20170630115003</lastUpdated>
+    <lastUpdated>20170728122543</lastUpdated>
   </versioning>
 </metadata>
