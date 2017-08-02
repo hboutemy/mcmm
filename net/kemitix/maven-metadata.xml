@@ -7,9 +7,14 @@
       <artifactId>digraph-dependency-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Kemitix Checkstyle Ruleset Maven Plugin</name>
+      <name>Kemitix Checkstyle :: Ruleset :: Plugin</name>
       <prefix>kemitix-checkstyle-ruleset</prefix>
       <artifactId>kemitix-checkstyle-ruleset-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kemitix Quality Maven Plugin</name>
+      <prefix>kemitix-quality</prefix>
+      <artifactId>kemitix-quality-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

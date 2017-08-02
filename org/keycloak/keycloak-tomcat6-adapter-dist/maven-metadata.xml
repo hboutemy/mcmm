@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-tomcat6-adapter-dist</artifactId>
   <versioning>
-    <latest>3.2.0.Final</latest>
-    <release>3.2.0.Final</release>
+    <latest>3.2.1.Final</latest>
+    <release>3.2.1.Final</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -58,8 +58,9 @@
       <version>3.1.0.Final</version>
       <version>3.2.0.CR1</version>
       <version>3.2.0.Final</version>
+      <version>3.2.1.Final</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20170705073112</lastUpdated>
+    <lastUpdated>20170724140741</lastUpdated>
   </versioning>
 </metadata>
