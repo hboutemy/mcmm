@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-admin-directory</artifactId>
   <versioning>
-    <latest>directory_v1-rev82-1.22.0</latest>
-    <release>directory_v1-rev82-1.22.0</release>
+    <latest>directory_v1-rev83-1.22.0</latest>
+    <release>directory_v1-rev83-1.22.0</release>
     <versions>
       <version>directory_v1-rev14-1.17.0-rc</version>
       <version>directory_v1-rev15-1.17.0-rc</version>
@@ -160,7 +160,10 @@
       <version>directory_v1-rev82-1.20.0</version>
       <version>directory_v1-rev82-1.21.0</version>
       <version>directory_v1-rev82-1.22.0</version>
+      <version>directory_v1-rev83-1.20.0</version>
+      <version>directory_v1-rev83-1.21.0</version>
+      <version>directory_v1-rev83-1.22.0</version>
     </versions>
-    <lastUpdated>20170725080723</lastUpdated>
+    <lastUpdated>20170802213722</lastUpdated>
   </versioning>
 </metadata>

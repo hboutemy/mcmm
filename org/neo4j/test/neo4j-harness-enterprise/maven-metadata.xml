@@ -3,8 +3,8 @@
   <groupId>org.neo4j.test</groupId>
   <artifactId>neo4j-harness-enterprise</artifactId>
   <versioning>
-    <latest>3.3.0-alpha04</latest>
-    <release>3.3.0-alpha04</release>
+    <latest>3.3.0-alpha05</latest>
+    <release>3.3.0-alpha05</release>
     <versions>
       <version>3.0.0-M01</version>
       <version>3.0.0-M02</version>
@@ -23,6 +23,7 @@
       <version>3.0.8</version>
       <version>3.0.9</version>
       <version>3.0.10</version>
+      <version>3.0.11</version>
       <version>3.1.0-BETA1</version>
       <version>3.1.0-M01</version>
       <version>3.1.0-M02</version>
@@ -63,7 +64,8 @@
       <version>3.3.0-alpha02</version>
       <version>3.3.0-alpha03</version>
       <version>3.3.0-alpha04</version>
+      <version>3.3.0-alpha05</version>
     </versions>
-    <lastUpdated>20170801091942</lastUpdated>
+    <lastUpdated>20170802145634</lastUpdated>
   </versioning>
 </metadata>

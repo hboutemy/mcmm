@@ -2,17 +2,17 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven plugin for the SAP Cloud Platform (Java Web Tomcat 8) SDK</name>
+      <name>Maven plugin for the SAP Cloud Platform SDK for Neo environment (Java Web Tomcat 8)</name>
       <prefix>neo-java-web</prefix>
       <artifactId>neo-java-web-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven plugin for the SAP Cloud Platform (Java EE 6 Web Profile) SDK</name>
+      <name>Maven plugin for the SAP Cloud Platform SDK for Neo environment (Java EE 6 Web Profile)</name>
       <prefix>neo-javaee6-wp</prefix>
       <artifactId>neo-javaee6-wp-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven plugin for the SAP Cloud Platform (Java EE 7 Web Profile TomEE 7) SDK</name>
+      <name>Maven plugin for the SAP Cloud Platform SDK for Neo environment (Java EE 7 Web Profile TomEE 7)</name>
       <prefix>neo-javaee7-wp</prefix>
       <artifactId>neo-javaee7-wp-maven-plugin</artifactId>
     </plugin>
