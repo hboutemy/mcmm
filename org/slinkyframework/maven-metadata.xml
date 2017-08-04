@@ -5,5 +5,9 @@
       <prefix>slinky-environment-builder</prefix>
       <artifactId>slinky-environment-builder-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>slinky-environment-config</prefix>
+      <artifactId>slinky-environment-config-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

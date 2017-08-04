@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Java compiler for ASN1 model</name>
+      <prefix>bncompiler</prefix>
+      <artifactId>bncompiler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Java to C# converter</name>
       <prefix>java2csharp</prefix>
       <artifactId>java2csharp-maven-plugin</artifactId>

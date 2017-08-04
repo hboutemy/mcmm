@@ -3,8 +3,8 @@
   <groupId>org.mongodb</groupId>
   <artifactId>mongodb-driver</artifactId>
   <versioning>
-    <latest>3.5.0-alpha1</latest>
-    <release>3.5.0-alpha1</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>3.0.0-beta1</version>
       <version>3.0.0-beta2</version>
@@ -31,7 +31,8 @@
       <version>3.4.2</version>
       <version>3.4.3</version>
       <version>3.5.0-alpha1</version>
+      <version>3.5.0</version>
     </versions>
-    <lastUpdated>20170802113710</lastUpdated>
+    <lastUpdated>20170803133146</lastUpdated>
   </versioning>
 </metadata>

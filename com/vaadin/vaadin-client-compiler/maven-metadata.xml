@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-client-compiler</artifactId>
   <versioning>
-    <latest>8.1.0</latest>
-    <release>8.1.0</release>
+    <latest>8.1.1</latest>
+    <release>8.1.1</release>
     <versions>
       <version>7.0.0.beta1</version>
       <version>7.0.0.beta2</version>
@@ -141,10 +141,11 @@
       <version>8.0.6</version>
       <version>8.0.7</version>
       <version>8.1.0</version>
+      <version>8.1.1</version>
       <version>7.4.8</version>
       <version>7.5.0.rc1</version>
       <version>7.5.0.rc2</version>
     </versions>
-    <lastUpdated>20170725080252</lastUpdated>
+    <lastUpdated>20170803095010</lastUpdated>
   </versioning>
 </metadata>
