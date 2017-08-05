@@ -3,8 +3,8 @@
   <groupId>com.google.guava</groupId>
   <artifactId>guava</artifactId>
   <versioning>
-    <latest>23.0-rc1-android</latest>
-    <release>23.0-rc1-android</release>
+    <latest>23.0-android</latest>
+    <release>23.0-android</release>
     <versions>
       <version>r03</version>
       <version>r05</version>
@@ -60,8 +60,10 @@
       <version>22.0-android</version>
       <version>23.0-rc1</version>
       <version>23.0-rc1-android</version>
+      <version>23.0</version>
+      <version>23.0-android</version>
       <version>13.0-final</version>
     </versions>
-    <lastUpdated>20170725173822</lastUpdated>
+    <lastUpdated>20170804221015</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.jts</groupId>
   <artifactId>narayana-jts-idlj</artifactId>
   <versioning>
-    <latest>5.6.3.Final</latest>
-    <release>5.6.3.Final</release>
+    <latest>5.6.4.Final</latest>
+    <release>5.6.4.Final</release>
     <versions>
       <version>5.0.0.M2</version>
       <version>5.0.3.Final</version>
@@ -59,11 +59,13 @@
       <version>5.5.27.Final</version>
       <version>5.5.28.Final</version>
       <version>5.5.29.Final</version>
+      <version>5.5.30.Final</version>
       <version>5.6.0.Final</version>
       <version>5.6.1.Final</version>
       <version>5.6.2.Final</version>
       <version>5.6.3.Final</version>
+      <version>5.6.4.Final</version>
     </versions>
-    <lastUpdated>20170727142328</lastUpdated>
+    <lastUpdated>20170804125301</lastUpdated>
   </versioning>
 </metadata>
