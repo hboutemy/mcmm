@@ -3,8 +3,8 @@
   <groupId>org.datasyslab</groupId>
   <artifactId>geospark</artifactId>
   <versioning>
-    <latest>0.8.1</latest>
-    <release>0.8.1</release>
+    <latest>0.8.1-spark-1.x</latest>
+    <release>0.8.1-spark-1.x</release>
     <versions>
       <version>0.3.1</version>
       <version>0.3.2</version>
@@ -35,7 +35,8 @@
       <version>0.8.0</version>
       <version>0.8.0-spark-1.x</version>
       <version>0.8.1</version>
+      <version>0.8.1-spark-1.x</version>
     </versions>
-    <lastUpdated>20170728041838</lastUpdated>
+    <lastUpdated>20170807192521</lastUpdated>
   </versioning>
 </metadata>
