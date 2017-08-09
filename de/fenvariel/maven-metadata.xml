@@ -6,5 +6,10 @@
       <prefix>freemarker</prefix>
       <artifactId>freemarker-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Gettext Plugin</name>
+      <prefix>gettext</prefix>
+      <artifactId>gettext-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

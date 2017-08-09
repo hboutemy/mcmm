@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>percolator-client</artifactId>
   <versioning>
-    <latest>6.0.0-alpha2</latest>
-    <release>6.0.0-alpha2</release>
+    <latest>6.0.0-beta1</latest>
+    <release>6.0.0-beta1</release>
     <versions>
       <version>5.0.0-alpha5</version>
       <version>5.0.0-beta1</version>
@@ -29,7 +29,8 @@
       <version>5.5.1</version>
       <version>6.0.0-alpha1</version>
       <version>6.0.0-alpha2</version>
+      <version>6.0.0-beta1</version>
     </versions>
-    <lastUpdated>20170725150059</lastUpdated>
+    <lastUpdated>20170808153156</lastUpdated>
   </versioning>
 </metadata>

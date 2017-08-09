@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>AsyncAPI Maven plugin</name>
+      <prefix>asyncapi</prefix>
+      <artifactId>asyncapi</artifactId>
+    </plugin>
+    <plugin>
       <name>Jacoco Extras</name>
       <prefix>jacoco-extras</prefix>
       <artifactId>jacoco-extras</artifactId>
