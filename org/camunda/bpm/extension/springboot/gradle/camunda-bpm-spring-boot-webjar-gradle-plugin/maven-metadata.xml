@@ -3,13 +3,14 @@
   <groupId>org.camunda.bpm.extension.springboot.gradle</groupId>
   <artifactId>camunda-bpm-spring-boot-webjar-gradle-plugin</artifactId>
   <versioning>
-    <latest>2.1.2</latest>
-    <release>2.1.2</release>
+    <latest>2.2.0</latest>
+    <release>2.2.0</release>
     <versions>
       <version>2.1.0</version>
       <version>2.1.1</version>
       <version>2.1.2</version>
+      <version>2.2.0</version>
     </versions>
-    <lastUpdated>20170502090816</lastUpdated>
+    <lastUpdated>20170809124718</lastUpdated>
   </versioning>
 </metadata>

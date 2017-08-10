@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-toolresults</artifactId>
   <versioning>
-    <latest>v1beta3-rev255-1.22.0</latest>
-    <release>v1beta3-rev255-1.22.0</release>
+    <latest>v1beta3-rev256-1.22.0</latest>
+    <release>v1beta3-rev256-1.22.0</release>
     <versions>
       <version>v1beta3firstparty-rev1-1.18.0-rc</version>
       <version>v1beta3firstparty-rev1-1.20.0</version>
@@ -290,6 +290,10 @@
       <version>v1beta3firstparty-rev77-1.20.0</version>
       <version>v1beta3firstparty-rev77-1.21.0</version>
       <version>v1beta3firstparty-rev77-1.22.0</version>
+      <version>v1beta3firstparty-rev78-1.18.0-rc</version>
+      <version>v1beta3firstparty-rev78-1.20.0</version>
+      <version>v1beta3firstparty-rev78-1.21.0</version>
+      <version>v1beta3firstparty-rev78-1.22.0</version>
       <version>v1beta3-rev1-1.18.0-rc</version>
       <version>v1beta3-rev1-1.19.1</version>
       <version>v1beta3-rev1-1.20.0</version>
@@ -1254,7 +1258,11 @@
       <version>v1beta3-rev255-1.20.0</version>
       <version>v1beta3-rev255-1.21.0</version>
       <version>v1beta3-rev255-1.22.0</version>
+      <version>v1beta3-rev256-1.18.0-rc</version>
+      <version>v1beta3-rev256-1.20.0</version>
+      <version>v1beta3-rev256-1.21.0</version>
+      <version>v1beta3-rev256-1.22.0</version>
     </versions>
-    <lastUpdated>20170805044509</lastUpdated>
+    <lastUpdated>20170809065128</lastUpdated>
   </versioning>
 </metadata>
