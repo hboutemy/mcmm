@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jackson-jsonld-maven</name>
+      <prefix>jackson-jsonld</prefix>
+      <artifactId>jackson-jsonld-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
