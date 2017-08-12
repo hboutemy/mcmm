@@ -3,8 +3,8 @@
   <groupId>io.zipkin.java</groupId>
   <artifactId>zipkin-autoconfigure-collector-kafka10</artifactId>
   <versioning>
-    <latest>1.29.2</latest>
-    <release>1.29.2</release>
+    <latest>1.29.3</latest>
+    <release>1.29.3</release>
     <versions>
       <version>1.26.0</version>
       <version>1.26.1</version>
@@ -15,7 +15,8 @@
       <version>1.29.0</version>
       <version>1.29.1</version>
       <version>1.29.2</version>
+      <version>1.29.3</version>
     </versions>
-    <lastUpdated>20170806152937</lastUpdated>
+    <lastUpdated>20170811131523</lastUpdated>
   </versioning>
 </metadata>
