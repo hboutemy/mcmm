@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-genomics</artifactId>
   <versioning>
-    <latest>v1-rev511-1.22.0</latest>
-    <release>v1-rev511-1.22.0</release>
+    <latest>v1-rev512-1.22.0</latest>
+    <release>v1-rev512-1.22.0</release>
     <versions>
       <version>v1alpha2-rev1-1.18.0-rc</version>
       <version>v1alpha2-rev1-1.19.1</version>
@@ -512,6 +512,10 @@
       <version>v1alpha2-rev459-1.20.0</version>
       <version>v1alpha2-rev459-1.21.0</version>
       <version>v1alpha2-rev459-1.22.0</version>
+      <version>v1alpha2-rev460-1.18.0-rc</version>
+      <version>v1alpha2-rev460-1.20.0</version>
+      <version>v1alpha2-rev460-1.21.0</version>
+      <version>v1alpha2-rev460-1.22.0</version>
       <version>v1beta2-rev1-1.15.0-rc</version>
       <version>v1beta2-rev1-1.16.0-rc</version>
       <version>v1beta2-rev1-1.17.0-rc</version>
@@ -2227,6 +2231,10 @@
       <version>v1-rev511-1.20.0</version>
       <version>v1-rev511-1.21.0</version>
       <version>v1-rev511-1.22.0</version>
+      <version>v1-rev512-1.18.0-rc</version>
+      <version>v1-rev512-1.20.0</version>
+      <version>v1-rev512-1.21.0</version>
+      <version>v1-rev512-1.22.0</version>
       <version>v1-rev3-1.18.0-rc</version>
       <version>v1-rev3-1.19.0</version>
       <version>v1-rev3-1.19.1</version>
@@ -2240,6 +2248,6 @@
       <version>v1beta2-rev49-1.19.1</version>
       <version>v1beta2-rev49-1.20.0</version>
     </versions>
-    <lastUpdated>20170810201407</lastUpdated>
+    <lastUpdated>20170814233728</lastUpdated>
   </versioning>
 </metadata>

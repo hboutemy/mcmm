@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Hadoop Maven Plugins</name>
+      <prefix>hadoops</prefix>
+      <artifactId>hadoop-maven-plugins</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
