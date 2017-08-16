@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>KIE :: Execution Server :: Deploy Maven Plugin</name>
+      <prefix>kieserver</prefix>
+      <artifactId>kie-server-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
