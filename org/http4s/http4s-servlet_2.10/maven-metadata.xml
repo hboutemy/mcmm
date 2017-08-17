@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-servlet_2.10</artifactId>
   <versioning>
-    <latest>0.16.0a-M3</latest>
-    <release>0.16.0a-M3</release>
+    <latest>0.16.0a-RC1</latest>
+    <release>0.16.0a-RC1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -117,10 +117,11 @@
       <version>0.16.0a-M1</version>
       <version>0.16.0a-M2</version>
       <version>0.16.0a-M3</version>
+      <version>0.16.0a-RC1</version>
       <version>0.8.0</version>
       <version>0.8.1</version>
       <version>0.8.2</version>
     </versions>
-    <lastUpdated>20170721025612</lastUpdated>
+    <lastUpdated>20170816223821</lastUpdated>
   </versioning>
 </metadata>

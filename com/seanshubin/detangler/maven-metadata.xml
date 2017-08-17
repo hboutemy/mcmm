@@ -6,5 +6,10 @@
       <prefix>mysql-jdbc-compliance</prefix>
       <artifactId>detangler-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>detangler</prefix>
+      <artifactId>detangler-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
