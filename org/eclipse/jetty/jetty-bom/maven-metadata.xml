@@ -3,12 +3,14 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-bom</artifactId>
   <versioning>
-    <latest>9.4.5.v20170502</latest>
-    <release>9.4.5.v20170502</release>
+    <latest>9.4.7.RC0</latest>
+    <release>9.4.7.RC0</release>
     <versions>
       <version>9.3.19.v20170502</version>
+      <version>9.3.21.RC0</version>
       <version>9.4.5.v20170502</version>
+      <version>9.4.7.RC0</version>
     </versions>
-    <lastUpdated>20170502224220</lastUpdated>
+    <lastUpdated>20170817212448</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-build-conf</artifactId>
   <versioning>
-    <latest>1.11.0-b4</latest>
-    <release>1.11.0-b4</release>
+    <latest>1.11.0-rc1</latest>
+    <release>1.11.0-rc1</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -23,8 +23,9 @@
       <version>1.11.0-b2</version>
       <version>1.11.0-b3</version>
       <version>1.11.0-b4</version>
+      <version>1.11.0-rc1</version>
       <version>1.10.3-onf</version>
     </versions>
-    <lastUpdated>20170812000956</lastUpdated>
+    <lastUpdated>20170817231635</lastUpdated>
   </versioning>
 </metadata>
