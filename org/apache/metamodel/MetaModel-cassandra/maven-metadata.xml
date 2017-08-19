@@ -3,8 +3,8 @@
   <groupId>org.apache.metamodel</groupId>
   <artifactId>MetaModel-cassandra</artifactId>
   <versioning>
-    <latest>5.0-RC3</latest>
-    <release>5.0-RC3</release>
+    <latest>5.0-RC4</latest>
+    <release>5.0-RC4</release>
     <versions>
       <version>4.3.0-incubating</version>
       <version>4.3.1</version>
@@ -26,7 +26,8 @@
       <version>5.0-RC1</version>
       <version>5.0-RC2</version>
       <version>5.0-RC3</version>
+      <version>5.0-RC4</version>
     </versions>
-    <lastUpdated>20170731002903</lastUpdated>
+    <lastUpdated>20170818061532</lastUpdated>
   </versioning>
 </metadata>
