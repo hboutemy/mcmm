@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron</artifactId>
   <versioning>
-    <latest>1.1.0.CR6</latest>
-    <release>1.1.0.CR6</release>
+    <latest>1.1.0.Final</latest>
+    <release>1.1.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -78,7 +78,8 @@
       <version>1.1.0.CR4</version>
       <version>1.1.0.CR5</version>
       <version>1.1.0.CR6</version>
+      <version>1.1.0.Final</version>
     </versions>
-    <lastUpdated>20170816162110</lastUpdated>
+    <lastUpdated>20170820103158</lastUpdated>
   </versioning>
 </metadata>
