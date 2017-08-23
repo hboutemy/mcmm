@@ -3,8 +3,8 @@
   <groupId>com.spotify</groupId>
   <artifactId>scio-bigtable_2.11</artifactId>
   <versioning>
-    <latest>0.4.0-beta2</latest>
-    <release>0.4.0-beta2</release>
+    <latest>0.4.0</latest>
+    <release>0.4.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -43,11 +43,13 @@
       <version>0.3.3</version>
       <version>0.3.4</version>
       <version>0.3.5</version>
+      <version>0.3.6</version>
       <version>0.4.0-alpha1</version>
       <version>0.4.0-alpha2</version>
       <version>0.4.0-beta1</version>
       <version>0.4.0-beta2</version>
+      <version>0.4.0</version>
     </versions>
-    <lastUpdated>20170802215323</lastUpdated>
+    <lastUpdated>20170822205959</lastUpdated>
   </versioning>
 </metadata>

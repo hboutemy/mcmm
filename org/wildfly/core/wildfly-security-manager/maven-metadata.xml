@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-security-manager</artifactId>
   <versioning>
-    <latest>3.0.0.CR1</latest>
-    <release>3.0.0.CR1</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>3.0.0.Alpha14</version>
       <version>3.0.0.Alpha15</version>
@@ -49,7 +49,8 @@
       <version>3.0.0.Beta30</version>
       <version>3.0.0.Beta31</version>
       <version>3.0.0.CR1</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20170820220934</lastUpdated>
+    <lastUpdated>20170822204356</lastUpdated>
   </versioning>
 </metadata>
