@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-testing_2.10</artifactId>
   <versioning>
-    <latest>0.16.0a-RC1</latest>
-    <release>0.16.0a-RC1</release>
+    <latest>0.16.0a-RC2</latest>
+    <release>0.16.0a-RC2</release>
     <versions>
       <version>0.15.0</version>
       <version>0.15.0a</version>
@@ -43,11 +43,13 @@
       <version>0.16.0-M1</version>
       <version>0.16.0-M2</version>
       <version>0.16.0-M3</version>
+      <version>0.16.0-RC2</version>
       <version>0.16.0a-M1</version>
       <version>0.16.0a-M2</version>
       <version>0.16.0a-M3</version>
       <version>0.16.0a-RC1</version>
+      <version>0.16.0a-RC2</version>
     </versions>
-    <lastUpdated>20170816223824</lastUpdated>
+    <lastUpdated>20170824131124</lastUpdated>
   </versioning>
 </metadata>
