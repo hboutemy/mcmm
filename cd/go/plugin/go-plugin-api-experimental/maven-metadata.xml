@@ -3,8 +3,8 @@
   <groupId>cd.go.plugin</groupId>
   <artifactId>go-plugin-api-experimental</artifactId>
   <versioning>
-    <latest>17.9.0-5342</latest>
-    <release>17.9.0-5342</release>
+    <latest>17.9.0-5345</latest>
+    <release>17.9.0-5345</release>
     <versions>
       <version>15.1.0-1445</version>
       <version>15.1.0-1451</version>
@@ -540,6 +540,8 @@
       <version>17.9.0-5339</version>
       <version>17.9.0-5340</version>
       <version>17.9.0-5342</version>
+      <version>17.9.0-5343</version>
+      <version>17.9.0-5345</version>
       <version>15.2.0-2055</version>
       <version>15.2.0-2067</version>
       <version>15.2.0-2090</version>
@@ -550,6 +552,6 @@
       <version>15.2.0-2149</version>
       <version>15.2.0-2153</version>
     </versions>
-    <lastUpdated>20170824115223</lastUpdated>
+    <lastUpdated>20170825220121</lastUpdated>
   </versioning>
 </metadata>
