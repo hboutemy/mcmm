@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bugsnag Maven Plugin</name>
+      <prefix>bugsnag</prefix>
+      <artifactId>bugsnag-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
