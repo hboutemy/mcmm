@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-wildfly-adapter-dist-pom</artifactId>
   <versioning>
-    <latest>3.2.1.Final</latest>
-    <release>3.2.1.Final</release>
+    <latest>3.3.0.CR1</latest>
+    <release>3.3.0.CR1</release>
     <versions>
       <version>1.7.0.CR1</version>
       <version>1.7.0.Final</version>
@@ -46,7 +46,8 @@
       <version>3.2.0.CR1</version>
       <version>3.2.0.Final</version>
       <version>3.2.1.Final</version>
+      <version>3.3.0.CR1</version>
     </versions>
-    <lastUpdated>20170724140705</lastUpdated>
+    <lastUpdated>20170828155351</lastUpdated>
   </versioning>
 </metadata>
