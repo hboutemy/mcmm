@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WeDeploy Maven Plugin</name>
+      <prefix>wedeploy</prefix>
+      <artifactId>wedeploy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

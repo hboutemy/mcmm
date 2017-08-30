@@ -3,12 +3,13 @@
   <groupId>io.atomix</groupId>
   <artifactId>atomix-serializer-parent</artifactId>
   <versioning>
-    <latest>2.0.0-raft-beta1</latest>
-    <release>2.0.0-raft-beta1</release>
+    <latest>2.0.0-raft-final</latest>
+    <release>2.0.0-raft-final</release>
     <versions>
       <version>2.0.0-alpha1</version>
       <version>2.0.0-raft-beta1</version>
+      <version>2.0.0-raft-final</version>
     </versions>
-    <lastUpdated>20170719173325</lastUpdated>
+    <lastUpdated>20170829030935</lastUpdated>
   </versioning>
 </metadata>
