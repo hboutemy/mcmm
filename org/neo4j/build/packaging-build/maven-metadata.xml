@@ -3,8 +3,8 @@
   <groupId>org.neo4j.build</groupId>
   <artifactId>packaging-build</artifactId>
   <versioning>
-    <latest>3.3.0-alpha06</latest>
-    <release>3.3.0-alpha06</release>
+    <latest>3.3.0-alpha07</latest>
+    <release>3.3.0-alpha07</release>
     <versions>
       <version>1.4.M03</version>
       <version>1.4.M04</version>
@@ -45,7 +45,8 @@
       <version>3.3.0-alpha04</version>
       <version>3.3.0-alpha05</version>
       <version>3.3.0-alpha06</version>
+      <version>3.3.0-alpha07</version>
     </versions>
-    <lastUpdated>20170817123153</lastUpdated>
+    <lastUpdated>20170830124343</lastUpdated>
   </versioning>
 </metadata>
