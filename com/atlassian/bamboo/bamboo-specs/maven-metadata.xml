@@ -3,8 +3,8 @@
   <groupId>com.atlassian.bamboo</groupId>
   <artifactId>bamboo-specs</artifactId>
   <versioning>
-    <latest>6.1.1</latest>
-    <release>6.1.1</release>
+    <latest>6.2.0-eap</latest>
+    <release>6.2.0-eap</release>
     <versions>
       <version>5.16.33</version>
       <version>6.0.0</version>
@@ -12,7 +12,9 @@
       <version>6.0.2</version>
       <version>6.1.0</version>
       <version>6.1.1</version>
+      <version>6.2.0-m7</version>
+      <version>6.2.0-eap</version>
     </versions>
-    <lastUpdated>20170809110945</lastUpdated>
+    <lastUpdated>20170831152136</lastUpdated>
   </versioning>
 </metadata>
