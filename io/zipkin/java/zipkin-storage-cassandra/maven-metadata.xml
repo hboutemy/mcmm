@@ -3,8 +3,8 @@
   <groupId>io.zipkin.java</groupId>
   <artifactId>zipkin-storage-cassandra</artifactId>
   <versioning>
-    <latest>1.31.0</latest>
-    <release>1.31.0</release>
+    <latest>1.31.1</latest>
+    <release>1.31.1</release>
     <versions>
       <version>0.17.0</version>
       <version>0.17.1</version>
@@ -98,7 +98,8 @@
       <version>1.30.2</version>
       <version>1.30.3</version>
       <version>1.31.0</version>
+      <version>1.31.1</version>
     </versions>
-    <lastUpdated>20170831024304</lastUpdated>
+    <lastUpdated>20170902054114</lastUpdated>
   </versioning>
 </metadata>
