@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>influxdb-maven-plugin Maven Plugin</name>
+      <prefix>influxdb</prefix>
+      <artifactId>influxdb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>schema-registries-maven-plugin Maven Plugin</name>
+      <prefix>schema-registries</prefix>
+      <artifactId>schema-registries-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
