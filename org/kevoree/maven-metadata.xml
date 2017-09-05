@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kevoree :: Tools :: Maven Plugin</name>
+      <prefix>org.kevoree.tools.</prefix>
+      <artifactId>org.kevoree.tools.mavenplugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

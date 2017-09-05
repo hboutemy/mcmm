@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mule-lint-maven-plugin</name>
+      <prefix>mule-lint</prefix>
+      <artifactId>mule-lint-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
