@@ -6,5 +6,10 @@
       <prefix>nondex</prefix>
       <artifactId>nondex-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>STARTS Maven Plugin</name>
+      <prefix>starts</prefix>
+      <artifactId>starts-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

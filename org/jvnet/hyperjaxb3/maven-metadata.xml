@@ -4,6 +4,11 @@
     <plugin>
       <name>Hyperjaxb3 Maven Plugin</name>
       <prefix>hyperjaxb3</prefix>
+      <artifactId>hyperjaxb3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Hyperjaxb3 Maven Plugin</name>
+      <prefix>hyperjaxb3</prefix>
       <artifactId>maven-hyperjaxb3-plugin</artifactId>
     </plugin>
   </plugins>

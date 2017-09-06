@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Content Gzip Maven Plugin</name>
+      <prefix>contentgzip</prefix>
+      <artifactId>contentgzip-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Content Gzip Plugin</name>
       <prefix>contentgzip</prefix>
       <artifactId>maven-contentgzip-plugin</artifactId>

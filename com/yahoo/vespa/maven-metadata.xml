@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>application-deploy</prefix>
+      <artifactId>application-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>bundle</prefix>
+      <artifactId>bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vespa ConfigGen Plugin</name>
+      <prefix>config-class</prefix>
+      <artifactId>config-class-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>vespa-application</prefix>
+      <artifactId>vespa-application-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vespa DocumentGen Plugin</name>
+      <prefix>vespa-documentgen</prefix>
+      <artifactId>vespa-documentgen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
