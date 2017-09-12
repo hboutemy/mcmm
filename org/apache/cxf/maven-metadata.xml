@@ -22,6 +22,11 @@
       <artifactId>cxf-eclipse-plugin-generator</artifactId>
     </plugin>
     <plugin>
+      <name>Apache CXF Java2Swagger Maven2 Plugin</name>
+      <prefix>cxf-java2swagger</prefix>
+      <artifactId>cxf-java2swagger-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache CXF Java2WADL Maven2 Plugin</name>
       <prefix>cxf-java2wadl</prefix>
       <artifactId>cxf-java2wadl-plugin</artifactId>

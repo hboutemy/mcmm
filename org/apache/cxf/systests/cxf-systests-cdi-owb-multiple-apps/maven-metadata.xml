@@ -3,14 +3,16 @@
   <groupId>org.apache.cxf.systests</groupId>
   <artifactId>cxf-systests-cdi-owb-multiple-apps</artifactId>
   <versioning>
-    <latest>3.1.12</latest>
-    <release>3.1.12</release>
+    <latest>3.2.0</latest>
+    <release>3.2.0</release>
     <versions>
       <version>3.1.9</version>
       <version>3.1.10</version>
       <version>3.1.11</version>
       <version>3.1.12</version>
+      <version>3.1.13</version>
+      <version>3.2.0</version>
     </versions>
-    <lastUpdated>20170630123532</lastUpdated>
+    <lastUpdated>20170911135058</lastUpdated>
   </versioning>
 </metadata>
