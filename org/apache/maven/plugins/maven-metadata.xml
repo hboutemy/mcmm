@@ -222,6 +222,11 @@
       <artifactId>maven-jdeps-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven JLink Plugin</name>
+      <prefix>jlink</prefix>
+      <artifactId>maven-jlink-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven JXR Plugin</name>
       <prefix>jxr</prefix>
       <artifactId>maven-jxr-plugin</artifactId>

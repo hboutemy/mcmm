@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SCP Maven Plugin for Local Neo Runtime</name>
+      <prefix>scp-neo</prefix>
+      <artifactId>scp-neo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

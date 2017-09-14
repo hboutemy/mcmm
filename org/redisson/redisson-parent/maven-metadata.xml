@@ -3,8 +3,8 @@
   <groupId>org.redisson</groupId>
   <artifactId>redisson-parent</artifactId>
   <versioning>
-    <latest>3.5.2</latest>
-    <release>3.5.2</release>
+    <latest>3.5.3</latest>
+    <release>3.5.3</release>
     <versions>
       <version>0.9.0</version>
       <version>2.3.0</version>
@@ -28,6 +28,7 @@
       <version>2.10.0</version>
       <version>2.10.1</version>
       <version>2.10.2</version>
+      <version>2.10.3</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.1.0</version>
@@ -47,7 +48,8 @@
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
+      <version>3.5.3</version>
     </versions>
-    <lastUpdated>20170912153634</lastUpdated>
+    <lastUpdated>20170913081340</lastUpdated>
   </versioning>
 </metadata>
