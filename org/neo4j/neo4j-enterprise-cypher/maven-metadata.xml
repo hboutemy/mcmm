@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-enterprise-cypher</artifactId>
   <versioning>
-    <latest>3.3.0-alpha07</latest>
-    <release>3.3.0-alpha07</release>
+    <latest>3.3.0-beta01</latest>
+    <release>3.3.0-beta01</release>
     <versions>
       <version>3.2.0-alpha05</version>
       <version>3.2.0-alpha06</version>
@@ -25,7 +25,8 @@
       <version>3.3.0-alpha05</version>
       <version>3.3.0-alpha06</version>
       <version>3.3.0-alpha07</version>
+      <version>3.3.0-beta01</version>
     </versions>
-    <lastUpdated>20170913121702</lastUpdated>
+    <lastUpdated>20170914113346</lastUpdated>
   </versioning>
 </metadata>

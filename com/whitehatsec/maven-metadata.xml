@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WhiteHat Scout Maven Plugin</name>
+      <prefix>scout</prefix>
+      <artifactId>scout-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
