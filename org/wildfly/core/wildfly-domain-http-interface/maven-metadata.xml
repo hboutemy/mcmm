@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-domain-http-interface</artifactId>
   <versioning>
-    <latest>3.0.2.CR1</latest>
-    <release>3.0.2.CR1</release>
+    <latest>3.0.2.Final</latest>
+    <release>3.0.2.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -157,7 +157,8 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>3.0.2.CR1</version>
+      <version>3.0.2.Final</version>
     </versions>
-    <lastUpdated>20170909141120</lastUpdated>
+    <lastUpdated>20170915020351</lastUpdated>
   </versioning>
 </metadata>
