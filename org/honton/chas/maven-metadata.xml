@@ -17,6 +17,11 @@
       <artifactId>exists-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Git Tag Maven Plugin</name>
+      <prefix>git-tag</prefix>
+      <artifactId>git-tag-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Process execution maven plugin</name>
       <prefix>process-exec</prefix>
       <artifactId>process-exec-maven-plugin</artifactId>

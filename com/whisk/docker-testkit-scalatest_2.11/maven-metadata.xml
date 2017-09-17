@@ -3,8 +3,8 @@
   <groupId>com.whisk</groupId>
   <artifactId>docker-testkit-scalatest_2.11</artifactId>
   <versioning>
-    <latest>0.9.5</latest>
-    <release>0.9.5</release>
+    <latest>0.10.0-beta1</latest>
+    <release>0.10.0-beta1</release>
     <versions>
       <version>0.5.4</version>
       <version>0.6.0</version>
@@ -36,7 +36,9 @@
       <version>0.9.3</version>
       <version>0.9.4</version>
       <version>0.9.5</version>
+      <version>0.9.6</version>
+      <version>0.10.0-beta1</version>
     </versions>
-    <lastUpdated>20170910081745</lastUpdated>
+    <lastUpdated>20170915235521</lastUpdated>
   </versioning>
 </metadata>
