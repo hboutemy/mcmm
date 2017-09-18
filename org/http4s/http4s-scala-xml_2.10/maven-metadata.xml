@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-scala-xml_2.10</artifactId>
   <versioning>
-    <latest>0.16.0a</latest>
-    <release>0.16.0a</release>
+    <latest>0.16.1a</latest>
+    <release>0.16.1a</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -113,10 +113,12 @@
       <version>0.16.0a-RC2</version>
       <version>0.16.0a-RC3</version>
       <version>0.16.0a</version>
+      <version>0.16.1</version>
+      <version>0.16.1a</version>
       <version>0.8.0</version>
       <version>0.8.1</version>
       <version>0.8.2</version>
     </versions>
-    <lastUpdated>20170901124011</lastUpdated>
+    <lastUpdated>20170917232301</lastUpdated>
   </versioning>
 </metadata>

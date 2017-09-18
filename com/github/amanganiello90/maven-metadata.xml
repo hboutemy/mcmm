@@ -6,5 +6,10 @@
       <prefix>manage-pom</prefix>
       <artifactId>manage-pom-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>MAVEN-MANAGE-POM::Plugin - ${project.version}</name>
+      <prefix>modify-pom</prefix>
+      <artifactId>modify-pom-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
