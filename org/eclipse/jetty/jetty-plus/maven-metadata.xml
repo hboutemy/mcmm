@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-plus</artifactId>
   <versioning>
-    <latest>9.4.7.RC0</latest>
-    <release>9.4.7.RC0</release>
+    <latest>9.4.7.v20170914</latest>
+    <release>9.4.7.v20170914</release>
     <versions>
       <version>7.0.0.M0</version>
       <version>7.0.0.M1</version>
@@ -227,7 +227,8 @@
       <version>9.4.5.v20170502</version>
       <version>9.4.6.v20170531</version>
       <version>9.4.7.RC0</version>
+      <version>9.4.7.v20170914</version>
     </versions>
-    <lastUpdated>20170817212501</lastUpdated>
+    <lastUpdated>20170918210410</lastUpdated>
   </versioning>
 </metadata>
