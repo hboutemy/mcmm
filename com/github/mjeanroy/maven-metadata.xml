@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>node-maven-plugin</name>
       <prefix>node</prefix>
       <artifactId>node-maven-plugin</artifactId>
     </plugin>

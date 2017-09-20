@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-catalina-ant</artifactId>
   <versioning>
-    <latest>9.0.0.M26</latest>
-    <release>9.0.0.M26</release>
+    <latest>9.0.0.M27</latest>
+    <release>9.0.0.M27</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -116,6 +116,7 @@
       <version>8.5.16</version>
       <version>8.5.19</version>
       <version>8.5.20</version>
+      <version>8.5.21</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -134,7 +135,8 @@
       <version>9.0.0.M22</version>
       <version>9.0.0.M25</version>
       <version>9.0.0.M26</version>
+      <version>9.0.0.M27</version>
     </versions>
-    <lastUpdated>20170818054125</lastUpdated>
+    <lastUpdated>20170919202540</lastUpdated>
   </versioning>
 </metadata>
