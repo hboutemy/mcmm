@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-oslogin</artifactId>
   <versioning>
-    <latest>v1alpha-rev6-1.22.0</latest>
-    <release>v1alpha-rev6-1.22.0</release>
+    <latest>v1beta-rev1-1.22.0</latest>
+    <release>v1beta-rev1-1.22.0</release>
     <versions>
       <version>v1alpha-rev1-1.18.0-rc</version>
       <version>v1alpha-rev1-1.20.0</version>
@@ -30,7 +30,11 @@
       <version>v1alpha-rev6-1.20.0</version>
       <version>v1alpha-rev6-1.21.0</version>
       <version>v1alpha-rev6-1.22.0</version>
+      <version>v1beta-rev1-1.18.0-rc</version>
+      <version>v1beta-rev1-1.20.0</version>
+      <version>v1beta-rev1-1.21.0</version>
+      <version>v1beta-rev1-1.22.0</version>
     </versions>
-    <lastUpdated>20170812011312</lastUpdated>
+    <lastUpdated>20170920100743</lastUpdated>
   </versioning>
 </metadata>

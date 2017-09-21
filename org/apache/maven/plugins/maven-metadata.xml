@@ -227,6 +227,11 @@
       <artifactId>maven-jlink-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven JMod Plugin</name>
+      <prefix>jmod</prefix>
+      <artifactId>maven-jmod-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven JXR Plugin</name>
       <prefix>jxr</prefix>
       <artifactId>maven-jxr-plugin</artifactId>
