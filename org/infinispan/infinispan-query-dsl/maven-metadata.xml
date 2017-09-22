@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-query-dsl</artifactId>
   <versioning>
-    <latest>9.1.0.Final</latest>
-    <release>9.1.0.Final</release>
+    <latest>9.1.1.Final</latest>
+    <release>9.1.1.Final</release>
     <versions>
       <version>6.0.0.Alpha3</version>
       <version>6.0.0.Alpha4</version>
@@ -96,7 +96,8 @@
       <version>9.1.0.Beta1</version>
       <version>9.1.0.CR1</version>
       <version>9.1.0.Final</version>
+      <version>9.1.1.Final</version>
     </versions>
-    <lastUpdated>20170714170606</lastUpdated>
+    <lastUpdated>20170920141632</lastUpdated>
   </versioning>
 </metadata>

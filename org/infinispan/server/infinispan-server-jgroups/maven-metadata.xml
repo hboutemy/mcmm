@@ -3,8 +3,8 @@
   <groupId>org.infinispan.server</groupId>
   <artifactId>infinispan-server-jgroups</artifactId>
   <versioning>
-    <latest>9.1.0.Final</latest>
-    <release>9.1.0.Final</release>
+    <latest>9.1.1.Final</latest>
+    <release>9.1.1.Final</release>
     <versions>
       <version>5.3.0.Alpha1</version>
       <version>5.3.0.Beta1</version>
@@ -103,7 +103,8 @@
       <version>9.1.0.Beta1</version>
       <version>9.1.0.CR1</version>
       <version>9.1.0.Final</version>
+      <version>9.1.1.Final</version>
     </versions>
-    <lastUpdated>20170714170719</lastUpdated>
+    <lastUpdated>20170920141754</lastUpdated>
   </versioning>
 </metadata>

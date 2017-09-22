@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-identitytoolkit</artifactId>
   <versioning>
-    <latest>v3-rev240-1.22.0</latest>
-    <release>v3-rev240-1.22.0</release>
+    <latest>v3-rev241-1.22.0</latest>
+    <release>v3-rev241-1.22.0</release>
     <versions>
       <version>v3-rev1-1.13.2-beta</version>
       <version>v3-rev1-1.14.2-beta</version>
@@ -455,7 +455,10 @@
       <version>v3-rev240-1.20.0</version>
       <version>v3-rev240-1.21.0</version>
       <version>v3-rev240-1.22.0</version>
+      <version>v3-rev241-1.20.0</version>
+      <version>v3-rev241-1.21.0</version>
+      <version>v3-rev241-1.22.0</version>
     </versions>
-    <lastUpdated>20170804044223</lastUpdated>
+    <lastUpdated>20170921042058</lastUpdated>
   </versioning>
 </metadata>
