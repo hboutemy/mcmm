@@ -3,8 +3,8 @@
   <groupId>org.restcomm</groupId>
   <artifactId>restcomm-connect.tts.awspolly</artifactId>
   <versioning>
-    <latest>8.2.0.2415.14</latest>
-    <release>8.2.0.2415.14</release>
+    <latest>8.2.1.issue-2493-3</latest>
+    <release>8.2.1.issue-2493-3</release>
     <versions>
       <version>8.1.0.issue-1312.70</version>
       <version>8.1.0.issue-1821.60</version>
@@ -181,8 +181,11 @@
       <version>8.2.0.1308</version>
       <version>8.2.0.1309</version>
       <version>8.2.0.1310</version>
+      <version>8.2.0.1312</version>
       <version>8.2.0.2415.14</version>
+      <version>8.2.1.issue-2493-1</version>
+      <version>8.2.1.issue-2493-3</version>
     </versions>
-    <lastUpdated>20170921231908</lastUpdated>
+    <lastUpdated>20170927212945</lastUpdated>
   </versioning>
 </metadata>

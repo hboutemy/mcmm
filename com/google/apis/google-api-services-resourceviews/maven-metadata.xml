@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-resourceviews</artifactId>
   <versioning>
-    <latest>v1beta2-rev18-1.22.0</latest>
-    <release>v1beta2-rev18-1.22.0</release>
+    <latest>v1beta2-rev19-1.22.0</latest>
+    <release>v1beta2-rev19-1.22.0</release>
     <versions>
       <version>v1beta1-rev2-1.14.2-beta</version>
       <version>v1beta1-rev2-1.15.0-rc</version>
@@ -123,6 +123,10 @@
       <version>v1beta1-rev28-1.20.0</version>
       <version>v1beta1-rev28-1.21.0</version>
       <version>v1beta1-rev28-1.22.0</version>
+      <version>v1beta1-rev29-1.18.0-rc</version>
+      <version>v1beta1-rev29-1.20.0</version>
+      <version>v1beta1-rev29-1.21.0</version>
+      <version>v1beta1-rev29-1.22.0</version>
       <version>v1beta2-rev1-1.15.0-rc</version>
       <version>v1beta2-rev1-1.16.0-rc</version>
       <version>v1beta2-rev1-1.17.0-rc</version>
@@ -199,7 +203,11 @@
       <version>v1beta2-rev18-1.20.0</version>
       <version>v1beta2-rev18-1.21.0</version>
       <version>v1beta2-rev18-1.22.0</version>
+      <version>v1beta2-rev19-1.18.0-rc</version>
+      <version>v1beta2-rev19-1.20.0</version>
+      <version>v1beta2-rev19-1.21.0</version>
+      <version>v1beta2-rev19-1.22.0</version>
     </versions>
-    <lastUpdated>20170404193925</lastUpdated>
+    <lastUpdated>20170927201114</lastUpdated>
   </versioning>
 </metadata>

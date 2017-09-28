@@ -3,8 +3,8 @@
   <groupId>org.restcomm</groupId>
   <artifactId>restcomm-connect.mrb.api</artifactId>
   <versioning>
-    <latest>8.2.0.2415.14</latest>
-    <release>8.2.0.2415.14</release>
+    <latest>8.2.1.issue-2493-3</latest>
+    <release>8.2.1.issue-2493-3</release>
     <versions>
       <version>issue1596-8.0.0.12</version>
       <version>8.0.0.issue-1570.withtest.36</version>
@@ -379,8 +379,11 @@
       <version>8.2.0.1308</version>
       <version>8.2.0.1309</version>
       <version>8.2.0.1310</version>
+      <version>8.2.0.1312</version>
       <version>8.2.0.2415.14</version>
+      <version>8.2.1.issue-2493-1</version>
+      <version>8.2.1.issue-2493-3</version>
     </versions>
-    <lastUpdated>20170921231858</lastUpdated>
+    <lastUpdated>20170927212937</lastUpdated>
   </versioning>
 </metadata>

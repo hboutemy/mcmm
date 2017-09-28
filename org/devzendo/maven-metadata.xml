@@ -6,5 +6,10 @@
       <prefix>CrossPlatformLauncherPlugin</prefix>
       <artifactId>CrossPlatformLauncherPlugin</artifactId>
     </plugin>
+    <plugin>
+      <name>cross-platform-launcher-plugin</name>
+      <prefix>cross-platform-launcher</prefix>
+      <artifactId>cross-platform-launcher-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
