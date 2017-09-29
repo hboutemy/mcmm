@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-language</artifactId>
   <versioning>
-    <latest>v1-rev392-1.22.0</latest>
-    <release>v1-rev392-1.22.0</release>
+    <latest>v1-rev393-1.18.0-rc</latest>
+    <release>v1-rev393-1.18.0-rc</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -182,6 +182,7 @@
       <version>v1beta1-rev410-1.20.0</version>
       <version>v1beta1-rev410-1.21.0</version>
       <version>v1beta1-rev410-1.22.0</version>
+      <version>v1beta1-rev411-1.18.0-rc</version>
       <version>v1beta2-rev1-1.18.0-rc</version>
       <version>v1beta2-rev1-1.20.0</version>
       <version>v1beta2-rev1-1.21.0</version>
@@ -358,7 +359,8 @@
       <version>v1-rev392-1.20.0</version>
       <version>v1-rev392-1.21.0</version>
       <version>v1-rev392-1.22.0</version>
+      <version>v1-rev393-1.18.0-rc</version>
     </versions>
-    <lastUpdated>20170927144750</lastUpdated>
+    <lastUpdated>20170928200919</lastUpdated>
   </versioning>
 </metadata>

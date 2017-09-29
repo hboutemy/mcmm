@@ -3,8 +3,8 @@
   <groupId>org.hawkular.metrics</groupId>
   <artifactId>hawkular-metrics-alerter</artifactId>
   <versioning>
-    <latest>0.28.0.Final</latest>
-    <release>0.28.0.Final</release>
+    <latest>0.28.1.Final</latest>
+    <release>0.28.1.Final</release>
     <versions>
       <version>0.21.0.Final</version>
       <version>0.21.1.Final</version>
@@ -27,6 +27,7 @@
       <version>0.23.8.Final</version>
       <version>0.23.9.Final</version>
       <version>0.23.11.Final</version>
+      <version>0.23.12.Final</version>
       <version>0.24.0.Final</version>
       <version>0.24.1.Final</version>
       <version>0.25.0.Final</version>
@@ -40,7 +41,8 @@
       <version>0.27.5.Final</version>
       <version>0.27.6.Final</version>
       <version>0.28.0.Final</version>
+      <version>0.28.1.Final</version>
     </versions>
-    <lastUpdated>20170926152738</lastUpdated>
+    <lastUpdated>20170927194025</lastUpdated>
   </versioning>
 </metadata>

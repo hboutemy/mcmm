@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>fragment-maven-plugin</name>
+      <prefix>fragment</prefix>
+      <artifactId>fragment-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>qualitycode-maven-plugin</name>
+      <prefix>qualitycode</prefix>
+      <artifactId>qualitycode-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
