@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Plugin for Azure Functions</name>
+      <prefix>azure-functions</prefix>
+      <artifactId>azure-functions-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for Azure Web Apps</name>
       <prefix>azure-webapp</prefix>
       <artifactId>azure-webapp-maven-plugin</artifactId>
