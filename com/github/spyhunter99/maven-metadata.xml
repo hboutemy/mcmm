@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Findbugs Aggregated Site Report</name>
+      <prefix>findbugs-report</prefix>
+      <artifactId>findbugs-report-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Jacoco Aggregated Site Report</name>
       <prefix>jacoco-report</prefix>
       <artifactId>jacoco-report-plugin</artifactId>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>ClauDB Maven Plugin</name>
+      <prefix>claudb</prefix>
+      <artifactId>claudb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>TinyDB Maven Plugin</name>
       <prefix>tinydb</prefix>
       <artifactId>tinydb-maven-plugin</artifactId>
