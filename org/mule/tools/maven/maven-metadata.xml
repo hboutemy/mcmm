@@ -21,5 +21,10 @@
       <prefix>mule</prefix>
       <artifactId>mule-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Mule Module Analyzer Plugin</name>
+      <prefix>mule-module</prefix>
+      <artifactId>mule-module-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mule Application Plugins Maven Plugin</name>
+      <prefix>mule-apps</prefix>
+      <artifactId>mule-app-plugins-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Extensions Maven Plugin</name>
+      <prefix>mule-extensions</prefix>
+      <artifactId>mule-extensions-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

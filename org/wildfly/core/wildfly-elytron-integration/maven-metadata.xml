@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-elytron-integration</artifactId>
   <versioning>
-    <latest>3.0.2.Final</latest>
-    <release>3.0.2.Final</release>
+    <latest>3.0.4.Final</latest>
+    <release>3.0.4.Final</release>
     <versions>
       <version>3.0.0.Beta12</version>
       <version>3.0.0.Beta13</version>
@@ -31,7 +31,9 @@
       <version>3.0.1.Final</version>
       <version>3.0.2.CR1</version>
       <version>3.0.2.Final</version>
+      <version>3.0.3.Final</version>
+      <version>3.0.4.Final</version>
     </versions>
-    <lastUpdated>20170915020353</lastUpdated>
+    <lastUpdated>20171003015518</lastUpdated>
   </versioning>
 </metadata>
