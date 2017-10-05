@@ -3,8 +3,8 @@
   <groupId>com.vmware.photon.controller</groupId>
   <artifactId>photon-gcp-adapter</artifactId>
   <versioning>
-    <latest>0.6.39</latest>
-    <release>0.6.39</release>
+    <latest>0.6.41</latest>
+    <release>0.6.41</release>
     <versions>
       <version>0.4.1</version>
       <version>0.4.2</version>
@@ -74,7 +74,9 @@
       <version>0.6.37</version>
       <version>0.6.38</version>
       <version>0.6.39</version>
+      <version>0.6.40</version>
+      <version>0.6.41</version>
     </versions>
-    <lastUpdated>20170929090239</lastUpdated>
+    <lastUpdated>20171004095439</lastUpdated>
   </versioning>
 </metadata>
