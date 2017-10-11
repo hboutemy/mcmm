@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>apiDoc plugin</name>
+      <prefix>iartisan-generator-apiDoc</prefix>
+      <artifactId>iartisan-generator-apiDoc</artifactId>
+    </plugin>
+    <plugin>
       <name>code plugin</name>
       <prefix>iartisan-generator</prefix>
       <artifactId>iartisan-generator-plugin</artifactId>
