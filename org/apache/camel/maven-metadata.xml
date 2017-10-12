@@ -42,7 +42,7 @@
       <artifactId>camel-restdsl-swagger-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Guice</name>
+      <name>Camel :: Maven Plugins :: Camel Maven Guice (deprecated)</name>
       <prefix>guice</prefix>
       <artifactId>guice-maven-plugin</artifactId>
     </plugin>

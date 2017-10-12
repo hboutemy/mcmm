@@ -6,5 +6,10 @@
       <prefix>camel-salesforce</prefix>
       <artifactId>camel-salesforce-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Camel :: ServiceNow :: Maven plugin</name>
+      <prefix>camel-servicenow</prefix>
+      <artifactId>camel-servicenow-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
