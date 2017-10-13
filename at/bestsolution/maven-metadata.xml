@@ -6,5 +6,15 @@
       <prefix>bindex</prefix>
       <artifactId>bindex-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven OSGi Execution Plug-in</name>
+      <prefix>osgi-exec</prefix>
+      <artifactId>maven-osgi-exec-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven OSGi Execution Plug-in</name>
+      <prefix>osgi-package</prefix>
+      <artifactId>maven-osgi-package-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jacococoverage-maven-plugin Maven Mojo</name>
+      <prefix>jacococoverage</prefix>
+      <artifactId>jacococoverage-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

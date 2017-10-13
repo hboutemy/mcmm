@@ -7,6 +7,11 @@
       <artifactId>package-info-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven properties Plugin</name>
+      <prefix>properties</prefix>
+      <artifactId>properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Sonar-Ignore Plugin</name>
       <prefix>sonarignore</prefix>
       <artifactId>sonarignore-maven-plugin</artifactId>
