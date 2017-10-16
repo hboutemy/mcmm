@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>com.io7m.changelog.</prefix>
+      <artifactId>com.io7m.changelog.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>io7m-changelog</prefix>
       <artifactId>io7m-changelog-plugin</artifactId>
     </plugin>
