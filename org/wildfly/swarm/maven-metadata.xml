@@ -7,7 +7,7 @@
       <artifactId>wildfly-swarm-fraction-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>WildFly Swarm: Plugin</name>
+      <name>Plugin for Maven</name>
       <prefix>wildfly-swarm</prefix>
       <artifactId>wildfly-swarm-plugin</artifactId>
     </plugin>
