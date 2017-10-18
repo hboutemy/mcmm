@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-extension-api</artifactId>
   <versioning>
-    <latest>9.8</latest>
-    <release>9.8</release>
+    <latest>9.9-rc-2</latest>
+    <release>9.9-rc-2</release>
     <versions>
       <version>4.0-milestone-1</version>
       <version>4.0-milestone-2</version>
@@ -182,9 +182,12 @@
       <version>9.7</version>
       <version>9.8-rc-1</version>
       <version>9.8</version>
+      <version>9.8.1</version>
+      <version>9.9-rc-1</version>
+      <version>9.9-rc-2</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20170928100216</lastUpdated>
+    <lastUpdated>20171017131740</lastUpdated>
   </versioning>
 </metadata>

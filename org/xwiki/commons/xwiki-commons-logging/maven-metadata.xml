@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-logging</artifactId>
   <versioning>
-    <latest>9.8</latest>
-    <release>9.8</release>
+    <latest>9.9-rc-2</latest>
+    <release>9.9-rc-2</release>
     <versions>
       <version>3.2-milestone-3</version>
       <version>3.2-rc-1</version>
@@ -198,9 +198,12 @@
       <version>9.7</version>
       <version>9.8-rc-1</version>
       <version>9.8</version>
+      <version>9.8.1</version>
+      <version>9.9-rc-1</version>
+      <version>9.9-rc-2</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20170928100230</lastUpdated>
+    <lastUpdated>20171017131748</lastUpdated>
   </versioning>
 </metadata>
