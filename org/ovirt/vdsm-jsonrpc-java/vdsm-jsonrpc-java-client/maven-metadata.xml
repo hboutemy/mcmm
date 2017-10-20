@@ -3,8 +3,8 @@
   <groupId>org.ovirt.vdsm-jsonrpc-java</groupId>
   <artifactId>vdsm-jsonrpc-java-client</artifactId>
   <versioning>
-    <latest>1.4.7</latest>
-    <release>1.4.7</release>
+    <latest>1.4.8</latest>
+    <release>1.4.8</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -52,6 +52,7 @@
       <version>1.3.11</version>
       <version>1.3.12</version>
       <version>1.3.13</version>
+      <version>1.3.14</version>
       <version>1.4.0</version>
       <version>1.4.1</version>
       <version>1.4.2</version>
@@ -60,7 +61,8 @@
       <version>1.4.5</version>
       <version>1.4.6</version>
       <version>1.4.7</version>
+      <version>1.4.8</version>
     </versions>
-    <lastUpdated>20170922081059</lastUpdated>
+    <lastUpdated>20171019140353</lastUpdated>
   </versioning>
 </metadata>

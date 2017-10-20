@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-validator</artifactId>
   <versioning>
-    <latest>6.0.2.Final</latest>
-    <release>6.0.2.Final</release>
+    <latest>6.0.3.Final</latest>
+    <release>6.0.3.Final</release>
     <versions>
       <version>3.0.0.GA</version>
       <version>3.1.0.CR1</version>
@@ -70,10 +70,12 @@
       <version>5.3.3.Final</version>
       <version>5.3.4.Final</version>
       <version>5.3.5.Final</version>
+      <version>5.3.6.Final</version>
       <version>5.4.0.Beta1</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.Final</version>
       <version>5.4.1.Final</version>
+      <version>5.4.2.Final</version>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
       <version>6.0.0.Beta1</version>
@@ -84,8 +86,9 @@
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
       <version>6.0.2.Final</version>
+      <version>6.0.3.Final</version>
       <version>3.0.0.ga</version>
     </versions>
-    <lastUpdated>20170822131514</lastUpdated>
+    <lastUpdated>20171019160638</lastUpdated>
   </versioning>
 </metadata>

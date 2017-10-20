@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>joylau-compressor-plugins Maven Mojo</name>
+      <prefix>joylau-compressors</prefix>
+      <artifactId>joylau-compressor-plugins</artifactId>
+    </plugin>
+    <plugin>
       <name>joylau-springboot-daemon-windows Maven Mojo</name>
       <prefix>joylau-springboot-daemon-windows</prefix>
       <artifactId>joylau-springboot-daemon-windows</artifactId>

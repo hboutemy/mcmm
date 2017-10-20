@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jschema-maven-plugin</name>
+      <prefix>jschema</prefix>
+      <artifactId>jschema-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>json-schema-maven-plugin</name>
       <prefix>json-schema</prefix>
       <artifactId>json-schema-maven-plugin</artifactId>
