@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-vault-test-feature-pack</artifactId>
   <versioning>
-    <latest>3.0.6.Final</latest>
-    <release>3.0.6.Final</release>
+    <latest>3.0.8.Final</latest>
+    <release>3.0.8.Final</release>
     <versions>
       <version>3.0.0.Alpha20</version>
       <version>3.0.0.Alpha21</version>
@@ -51,7 +51,9 @@
       <version>3.0.4.Final</version>
       <version>3.0.5.Final</version>
       <version>3.0.6.Final</version>
+      <version>3.0.7.Final</version>
+      <version>3.0.8.Final</version>
     </versions>
-    <lastUpdated>20171013171137</lastUpdated>
+    <lastUpdated>20171020040639</lastUpdated>
   </versioning>
 </metadata>

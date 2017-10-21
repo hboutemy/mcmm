@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-hikaricp</artifactId>
   <versioning>
-    <latest>5.2.11.Final</latest>
-    <release>5.2.11.Final</release>
+    <latest>5.2.12.Final</latest>
+    <release>5.2.12.Final</release>
     <versions>
       <version>4.3.6.Final</version>
       <version>4.3.7.Final</version>
@@ -54,7 +54,8 @@
       <version>5.2.9.Final</version>
       <version>5.2.10.Final</version>
       <version>5.2.11.Final</version>
+      <version>5.2.12.Final</version>
     </versions>
-    <lastUpdated>20170913190203</lastUpdated>
+    <lastUpdated>20171019195729</lastUpdated>
   </versioning>
 </metadata>

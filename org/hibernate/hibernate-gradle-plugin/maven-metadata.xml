@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-gradle-plugin</artifactId>
   <versioning>
-    <latest>5.2.11.Final</latest>
-    <release>5.2.11.Final</release>
+    <latest>5.2.12.Final</latest>
+    <release>5.2.12.Final</release>
     <versions>
       <version>4.2.8.Final</version>
       <version>4.2.9.Final</version>
@@ -78,7 +78,8 @@
       <version>5.2.9.Final</version>
       <version>5.2.10.Final</version>
       <version>5.2.11.Final</version>
+      <version>5.2.12.Final</version>
     </versions>
-    <lastUpdated>20170913190202</lastUpdated>
+    <lastUpdated>20171019195729</lastUpdated>
   </versioning>
 </metadata>
