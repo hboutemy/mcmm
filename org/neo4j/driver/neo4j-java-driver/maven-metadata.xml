@@ -3,8 +3,8 @@
   <groupId>org.neo4j.driver</groupId>
   <artifactId>neo4j-java-driver</artifactId>
   <versioning>
-    <latest>1.5.0-alpha03</latest>
-    <release>1.5.0-alpha03</release>
+    <latest>1.5.0-beta01</latest>
+    <release>1.5.0-beta01</release>
     <versions>
       <version>1.0.0-M01</version>
       <version>1.0.0-M02</version>
@@ -51,7 +51,8 @@
       <version>1.5.0-alpha01</version>
       <version>1.5.0-alpha02</version>
       <version>1.5.0-alpha03</version>
+      <version>1.5.0-beta01</version>
     </versions>
-    <lastUpdated>20171012092408</lastUpdated>
+    <lastUpdated>20171021113401</lastUpdated>
   </versioning>
 </metadata>

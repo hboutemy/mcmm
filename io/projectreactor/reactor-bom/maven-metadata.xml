@@ -3,15 +3,16 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-bom</artifactId>
   <versioning>
-    <latest>Bismuth-RELEASE</latest>
-    <release>Bismuth-RELEASE</release>
+    <latest>Bismuth-SR1</latest>
+    <release>Bismuth-SR1</release>
     <versions>
       <version>Aluminium-RELEASE</version>
       <version>Aluminium-SR1</version>
       <version>Aluminium-SR2</version>
       <version>Aluminium-SR3</version>
       <version>Bismuth-RELEASE</version>
+      <version>Bismuth-SR1</version>
     </versions>
-    <lastUpdated>20170925153547</lastUpdated>
+    <lastUpdated>20171021093908</lastUpdated>
   </versioning>
 </metadata>
