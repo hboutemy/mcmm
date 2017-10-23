@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JMS Responder Maven Plugin</name>
+      <prefix>jms-responder</prefix>
+      <artifactId>jms-responder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Stubby Maven Plugin</name>
       <prefix>stubby</prefix>
       <artifactId>stubby-maven-plugin</artifactId>
