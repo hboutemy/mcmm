@@ -3,8 +3,8 @@
   <groupId>org.apache.openejb</groupId>
   <artifactId>assembly</artifactId>
   <versioning>
-    <latest>4.7.4</latest>
-    <release>4.7.4</release>
+    <latest>4.7.5</latest>
+    <release>4.7.5</release>
     <versions>
       <version>3.0-beta-1</version>
       <version>3.0</version>
@@ -31,8 +31,9 @@
       <version>4.7.2</version>
       <version>4.7.3</version>
       <version>4.7.4</version>
+      <version>4.7.5</version>
       <version>3.0-beta-2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160307110332</lastUpdated>
+    <lastUpdated>20171024095513</lastUpdated>
   </versioning>
 </metadata>

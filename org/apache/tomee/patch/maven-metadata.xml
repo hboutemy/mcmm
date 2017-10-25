@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache CXF Code Generation Maven2 Plugins</name>
+      <prefix>cxf-codegen</prefix>
+      <artifactId>cxf-codegen-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache CXF CORBA Tools Maven2 Plugins</name>
+      <prefix>cxf-corbatools</prefix>
+      <artifactId>cxf-corbatools-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache CXF Java2WS Maven2 Plugin</name>
+      <prefix>cxf-java2ws</prefix>
+      <artifactId>cxf-java2ws-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache CXF WADL2Java Code Generation Maven2 Plugin</name>
+      <prefix>cxf-wadl2java</prefix>
+      <artifactId>cxf-wadl2java-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache CXF WSDL Validator Maven2 Plugin</name>
+      <prefix>cxf-wsdl-validator</prefix>
+      <artifactId>cxf-wsdl-validator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

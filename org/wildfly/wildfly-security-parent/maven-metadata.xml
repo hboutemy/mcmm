@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-security-parent</artifactId>
   <versioning>
-    <latest>11.0.0.Beta1</latest>
-    <release>11.0.0.Beta1</release>
+    <latest>11.0.0.Final</latest>
+    <release>11.0.0.Final</release>
     <versions>
       <version>8.1.0.CR1</version>
       <version>8.1.0.CR2</version>
@@ -38,7 +38,8 @@
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
       <version>11.0.0.CR1</version>
+      <version>11.0.0.Final</version>
     </versions>
-    <lastUpdated>20170804052332</lastUpdated>
+    <lastUpdated>20171024042125</lastUpdated>
   </versioning>
 </metadata>

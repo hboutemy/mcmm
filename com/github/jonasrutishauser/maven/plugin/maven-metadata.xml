@@ -6,5 +6,10 @@
       <prefix>bpmn</prefix>
       <artifactId>bpmn-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>CDI Maven Plugin</name>
+      <prefix>cdi</prefix>
+      <artifactId>cdi-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,13 +3,14 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-weld-ejb</artifactId>
   <versioning>
-    <latest>11.0.0.Beta1</latest>
-    <release>11.0.0.Beta1</release>
+    <latest>11.0.0.Final</latest>
+    <release>11.0.0.Final</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
       <version>11.0.0.CR1</version>
+      <version>11.0.0.Final</version>
     </versions>
-    <lastUpdated>20170804052350</lastUpdated>
+    <lastUpdated>20171024042200</lastUpdated>
   </versioning>
 </metadata>
