@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Artifact Publisher Maven Mojo</name>
+      <prefix>artifact-publisher</prefix>
+      <artifactId>artifact-publisher-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
