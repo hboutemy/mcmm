@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-engine</artifactId>
   <versioning>
-    <latest>5.8.1.Final</latest>
-    <release>5.8.1.Final</release>
+    <latest>5.8.2.Final</latest>
+    <release>5.8.2.Final</release>
     <versions>
       <version>4.0.0.Beta2</version>
       <version>4.0.0.CR1</version>
@@ -94,6 +94,7 @@
       <version>5.6.1.Final</version>
       <version>5.6.2.Final</version>
       <version>5.6.3.Final</version>
+      <version>5.6.4.Final</version>
       <version>5.7.0.Alpha1</version>
       <version>5.7.0.Beta1</version>
       <version>5.7.0.Beta2</version>
@@ -101,6 +102,7 @@
       <version>5.7.0.Final</version>
       <version>5.7.1.Final</version>
       <version>5.7.2.Final</version>
+      <version>5.7.3.Final</version>
       <version>5.8.0.Beta1</version>
       <version>5.8.0.Beta2</version>
       <version>5.8.0.Beta3</version>
@@ -108,7 +110,8 @@
       <version>5.8.0.CR1</version>
       <version>5.8.0.Final</version>
       <version>5.8.1.Final</version>
+      <version>5.8.2.Final</version>
     </versions>
-    <lastUpdated>20171002143547</lastUpdated>
+    <lastUpdated>20171026072733</lastUpdated>
   </versioning>
 </metadata>

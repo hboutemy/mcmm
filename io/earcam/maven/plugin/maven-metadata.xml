@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>io.earcam...netlify</prefix>
+      <artifactId>io.earcam.maven.plugin.netlify</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>io.earcam...site.search.offline</prefix>
+      <artifactId>io.earcam.maven.plugin.site.search.offline</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>io.earcam...sitemap</prefix>
+      <artifactId>io.earcam.maven.plugin.sitemap</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,13 +3,14 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-tomcat-7.0-hotrod</artifactId>
   <versioning>
-    <latest>1.0.0.CR1</latest>
-    <release>1.0.0.CR1</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.CR1</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20170922023332</lastUpdated>
+    <lastUpdated>20171026173339</lastUpdated>
   </versioning>
 </metadata>
