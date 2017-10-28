@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-spring-security-adapter</artifactId>
   <versioning>
-    <latest>3.3.0.CR2</latest>
-    <release>3.3.0.CR2</release>
+    <latest>3.3.0.Final</latest>
+    <release>3.3.0.Final</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.Final</version>
@@ -57,8 +57,9 @@
       <version>3.2.1.Final</version>
       <version>3.3.0.CR1</version>
       <version>3.3.0.CR2</version>
+      <version>3.3.0.Final</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20170912120249</lastUpdated>
+    <lastUpdated>20171027075448</lastUpdated>
   </versioning>
 </metadata>

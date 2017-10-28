@@ -3,8 +3,8 @@
   <groupId>org.hawkular.agent</groupId>
   <artifactId>hawkular-wildfly-agent-installer-itest</artifactId>
   <versioning>
-    <latest>1.0.0.CR7</latest>
-    <release>1.0.0.CR7</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>0.17.0.Final</version>
       <version>0.17.1.Final</version>
@@ -44,7 +44,8 @@
       <version>1.0.0.CR5</version>
       <version>1.0.0.CR6</version>
       <version>1.0.0.CR7</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20170913184308</lastUpdated>
+    <lastUpdated>20171027161640</lastUpdated>
   </versioning>
 </metadata>

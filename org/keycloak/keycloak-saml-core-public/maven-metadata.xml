@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-core-public</artifactId>
   <versioning>
-    <latest>3.3.0.CR2</latest>
-    <release>3.3.0.CR2</release>
+    <latest>3.3.0.Final</latest>
+    <release>3.3.0.Final</release>
     <versions>
       <version>1.9.2.Final</version>
       <version>1.9.3.Final</version>
@@ -37,7 +37,8 @@
       <version>3.2.1.Final</version>
       <version>3.3.0.CR1</version>
       <version>3.3.0.CR2</version>
+      <version>3.3.0.Final</version>
     </versions>
-    <lastUpdated>20170912120126</lastUpdated>
+    <lastUpdated>20171027075132</lastUpdated>
   </versioning>
 </metadata>

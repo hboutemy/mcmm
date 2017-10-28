@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-core</artifactId>
   <versioning>
-    <latest>9.2.0.Alpha1</latest>
-    <release>9.2.0.Alpha1</release>
+    <latest>9.2.0.Alpha2</latest>
+    <release>9.2.0.Alpha2</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -166,8 +166,10 @@
       <version>9.1.0.CR1</version>
       <version>9.1.0.Final</version>
       <version>9.1.1.Final</version>
+      <version>9.1.2.Final</version>
       <version>9.2.0.Alpha1</version>
+      <version>9.2.0.Alpha2</version>
     </versions>
-    <lastUpdated>20171005160419</lastUpdated>
+    <lastUpdated>20171027153850</lastUpdated>
   </versioning>
 </metadata>
