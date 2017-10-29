@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>formatter-maven-plugin</name>
       <prefix>formatter</prefix>
       <artifactId>formatter-maven-plugin</artifactId>
     </plugin>

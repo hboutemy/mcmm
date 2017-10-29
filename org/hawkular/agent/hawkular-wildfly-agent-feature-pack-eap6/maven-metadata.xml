@@ -3,8 +3,8 @@
   <groupId>org.hawkular.agent</groupId>
   <artifactId>hawkular-wildfly-agent-feature-pack-eap6</artifactId>
   <versioning>
-    <latest>1.0.0.Final</latest>
-    <release>1.0.0.Final</release>
+    <latest>1.0.1.Final</latest>
+    <release>1.0.1.Final</release>
     <versions>
       <version>0.26.0.Final</version>
       <version>0.27.0.Final</version>
@@ -22,7 +22,8 @@
       <version>1.0.0.CR6</version>
       <version>1.0.0.CR7</version>
       <version>1.0.0.Final</version>
+      <version>1.0.1.Final</version>
     </versions>
-    <lastUpdated>20171027161634</lastUpdated>
+    <lastUpdated>20171027211440</lastUpdated>
   </versioning>
 </metadata>
