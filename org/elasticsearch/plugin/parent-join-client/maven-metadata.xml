@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>parent-join-client</artifactId>
   <versioning>
-    <latest>6.0.0-rc1</latest>
-    <release>6.0.0-rc1</release>
+    <latest>6.0.0-rc2</latest>
+    <release>6.0.0-rc2</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -18,7 +18,8 @@
       <version>6.0.0-beta1</version>
       <version>6.0.0-beta2</version>
       <version>6.0.0-rc1</version>
+      <version>6.0.0-rc2</version>
     </versions>
-    <lastUpdated>20171010144142</lastUpdated>
+    <lastUpdated>20171031145751</lastUpdated>
   </versioning>
 </metadata>
