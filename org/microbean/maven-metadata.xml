@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>microBean Helm Maven Plugin</name>
+      <prefix>helm</prefix>
+      <artifactId>helm-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

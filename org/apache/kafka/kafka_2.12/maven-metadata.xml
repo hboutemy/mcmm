@@ -3,15 +3,16 @@
   <groupId>org.apache.kafka</groupId>
   <artifactId>kafka_2.12</artifactId>
   <versioning>
-    <latest>0.11.0.1</latest>
-    <release>0.11.0.1</release>
+    <latest>1.0.0</latest>
+    <release>1.0.0</release>
     <versions>
       <version>0.10.1.1</version>
       <version>0.10.2.0</version>
       <version>0.10.2.1</version>
       <version>0.11.0.0</version>
       <version>0.11.0.1</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20170912133940</lastUpdated>
+    <lastUpdated>20171101053929</lastUpdated>
   </versioning>
 </metadata>
