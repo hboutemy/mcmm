@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.weld.module</groupId>
   <artifactId>weld-web</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Alpha7</version>
@@ -24,6 +24,6 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20170303115216</lastUpdated>
+    <lastUpdated>20171107220900</lastUpdated>
   </versioning>
 </metadata>

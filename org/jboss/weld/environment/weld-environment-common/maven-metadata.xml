@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.weld.environment</groupId>
   <artifactId>weld-environment-common</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>2.2.5.Final</version>
       <version>2.2.6.Final</version>
@@ -37,6 +37,8 @@
       <version>2.4.2.Final</version>
       <version>2.4.2.SP1</version>
       <version>2.4.3.Final</version>
+      <version>2.4.4.Final</version>
+      <version>2.4.5.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
@@ -57,11 +59,9 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
-      <version>2.4.4.Final</version>
-      <version>2.4.5.Final</version>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20170406071907</lastUpdated>
+    <lastUpdated>20171107220431</lastUpdated>
   </versioning>
 </metadata>

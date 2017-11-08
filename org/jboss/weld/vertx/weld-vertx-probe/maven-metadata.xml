@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.weld.vertx</groupId>
   <artifactId>weld-vertx-probe</artifactId>
   <versioning>
-    <latest>1.0.0.CR6</latest>
-    <release>1.0.0.CR6</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>1.0.0.CR4</version>
       <version>1.0.0.CR5</version>
@@ -14,6 +14,6 @@
       <version>1.1.1.Final</version>
       <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20170410145820</lastUpdated>
+    <lastUpdated>20171107220435</lastUpdated>
   </versioning>
 </metadata>

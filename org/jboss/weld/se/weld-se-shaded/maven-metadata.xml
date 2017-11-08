@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.weld.se</groupId>
   <artifactId>weld-se-shaded</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
@@ -28,6 +28,6 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20170303115222</lastUpdated>
+    <lastUpdated>20171107220419</lastUpdated>
   </versioning>
 </metadata>
