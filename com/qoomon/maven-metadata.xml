@@ -6,5 +6,10 @@
       <prefix>branch-versioning-extension</prefix>
       <artifactId>maven-branch-versioning-extension</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Git Versioning Extension</name>
+      <prefix>git-versioning-extension</prefix>
+      <artifactId>maven-git-versioning-extension</artifactId>
+    </plugin>
   </plugins>
 </metadata>

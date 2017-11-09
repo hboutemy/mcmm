@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Project Properties Maven Plugin</name>
+      <prefix>pom-properties</prefix>
+      <artifactId>pom-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
