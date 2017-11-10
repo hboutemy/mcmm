@@ -3,8 +3,8 @@
   <groupId>org.apache.uima</groupId>
   <artifactId>jcasgen-maven-plugin</artifactId>
   <versioning>
-    <latest>3.0.0-alpha02</latest>
-    <release>3.0.0-alpha02</release>
+    <latest>3.0.0-beta</latest>
+    <release>3.0.0-beta</release>
     <versions>
       <version>2.4.1</version>
       <version>2.4.2</version>
@@ -19,7 +19,8 @@
       <version>2.10.2</version>
       <version>3.0.0-alpha</version>
       <version>3.0.0-alpha02</version>
+      <version>3.0.0-beta</version>
     </versions>
-    <lastUpdated>20171103145833</lastUpdated>
+    <lastUpdated>20171109185000</lastUpdated>
   </versioning>
 </metadata>

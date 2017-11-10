@@ -12,6 +12,11 @@
       <artifactId>deb-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>deps</name>
+      <prefix>deps</prefix>
+      <artifactId>deps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>fingerprint-plugin</name>
       <prefix>fingerprint</prefix>
       <artifactId>fingerprint-maven-plugin</artifactId>

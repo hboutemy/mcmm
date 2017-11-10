@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven Embedded Payara Plugin</name>
+      <name>Payara Embedded Maven Plugin</name>
       <prefix>embedded-payara</prefix>
       <artifactId>embedded-payara-maven-plugin</artifactId>
     </plugin>
