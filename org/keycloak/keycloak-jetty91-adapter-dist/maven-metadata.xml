@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-jetty91-adapter-dist</artifactId>
   <versioning>
-    <latest>3.4.0.CR1</latest>
-    <release>3.4.0.CR1</release>
+    <latest>3.4.0.Final</latest>
+    <release>3.4.0.Final</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -63,8 +63,9 @@
       <version>3.3.0.CR2</version>
       <version>3.3.0.Final</version>
       <version>3.4.0.CR1</version>
+      <version>3.4.0.Final</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20171108131110</lastUpdated>
+    <lastUpdated>20171110075307</lastUpdated>
   </versioning>
 </metadata>

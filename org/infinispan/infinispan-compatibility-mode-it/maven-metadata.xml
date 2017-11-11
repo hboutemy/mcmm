@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-compatibility-mode-it</artifactId>
   <versioning>
-    <latest>9.2.0.Alpha2</latest>
-    <release>9.2.0.Alpha2</release>
+    <latest>9.2.0.Beta1</latest>
+    <release>9.2.0.Beta1</release>
     <versions>
       <version>5.3.0.Beta2</version>
       <version>5.3.0.CR1</version>
@@ -106,7 +106,8 @@
       <version>9.1.2.Final</version>
       <version>9.2.0.Alpha1</version>
       <version>9.2.0.Alpha2</version>
+      <version>9.2.0.Beta1</version>
     </versions>
-    <lastUpdated>20171027153734</lastUpdated>
+    <lastUpdated>20171110195519</lastUpdated>
   </versioning>
 </metadata>
