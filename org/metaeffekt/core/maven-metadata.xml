@@ -18,6 +18,10 @@
       <artifactId>ae-inventory-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>ae-jira</prefix>
+      <artifactId>ae-jira-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>ae-version</prefix>
       <artifactId>ae-version-maven-plugin</artifactId>
     </plugin>
