@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-validator-cdi</artifactId>
   <versioning>
-    <latest>6.0.4.Final</latest>
-    <release>6.0.4.Final</release>
+    <latest>6.0.5.Final</latest>
+    <release>6.0.5.Final</release>
     <versions>
       <version>5.0.0.CR5</version>
       <version>5.0.0.Final</version>
@@ -53,7 +53,8 @@
       <version>6.0.2.Final</version>
       <version>6.0.3.Final</version>
       <version>6.0.4.Final</version>
+      <version>6.0.5.Final</version>
     </versions>
-    <lastUpdated>20171025142104</lastUpdated>
+    <lastUpdated>20171115161351</lastUpdated>
   </versioning>
 </metadata>

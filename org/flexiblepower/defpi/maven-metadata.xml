@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dEF-Pi service creation maven plugin</name>
+      <prefix>defpi</prefix>
+      <artifactId>defpi-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

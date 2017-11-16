@@ -217,6 +217,11 @@
       <artifactId>maven-javadoc-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven JDeprScan Plugin</name>
+      <prefix>jdeprscan</prefix>
+      <artifactId>maven-jdeprscan-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven JDeps Plugin</name>
       <prefix>jdeps</prefix>
       <artifactId>maven-jdeps-plugin</artifactId>
