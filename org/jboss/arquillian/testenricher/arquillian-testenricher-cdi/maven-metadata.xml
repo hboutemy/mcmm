@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.arquillian.testenricher</groupId>
   <artifactId>arquillian-testenricher-cdi</artifactId>
   <versioning>
@@ -49,6 +49,6 @@
       <version>1.1.13.Final</version>
       <version>1.1.14.Final</version>
     </versions>
-    <lastUpdated>20171114091225</lastUpdated>
+    <lastUpdated>20171116184250</lastUpdated>
   </versioning>
 </metadata>
