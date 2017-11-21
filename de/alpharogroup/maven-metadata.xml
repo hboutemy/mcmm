@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>jpa-data-gen</prefix>
+      <artifactId>jpa-data-gen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
