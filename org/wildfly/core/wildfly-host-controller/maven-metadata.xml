@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-host-controller</artifactId>
   <versioning>
-    <latest>4.0.0.Alpha2</latest>
-    <release>4.0.0.Alpha2</release>
+    <latest>4.0.0.Alpha3</latest>
+    <release>4.0.0.Alpha3</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -168,7 +168,8 @@
       <version>3.0.10.Final</version>
       <version>4.0.0.Alpha1</version>
       <version>4.0.0.Alpha2</version>
+      <version>4.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20171103115911</lastUpdated>
+    <lastUpdated>20171118012732</lastUpdated>
   </versioning>
 </metadata>
