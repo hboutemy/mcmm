@@ -17,7 +17,7 @@
       <artifactId>maven-cayenne-modeler-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>maven-cayenne-plugin: Deprecated Cayenne Maven Plugin</name>
+      <name>Cayenne Maven Plugin</name>
       <prefix>cayenne</prefix>
       <artifactId>maven-cayenne-plugin</artifactId>
     </plugin>
