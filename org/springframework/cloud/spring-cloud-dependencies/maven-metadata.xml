@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dependencies</artifactId>
   <versioning>
-    <latest>Dalston.SR4</latest>
-    <release>Dalston.SR4</release>
+    <latest>Edgware.RELEASE</latest>
+    <release>Edgware.RELEASE</release>
     <versions>
       <version>Angel.SR5</version>
       <version>Angel.SR6</version>
@@ -29,7 +29,8 @@
       <version>Dalston.SR2</version>
       <version>Dalston.SR3</version>
       <version>Dalston.SR4</version>
+      <version>Edgware.RELEASE</version>
     </versions>
-    <lastUpdated>20171003153645</lastUpdated>
+    <lastUpdated>20171122185517</lastUpdated>
   </versioning>
 </metadata>

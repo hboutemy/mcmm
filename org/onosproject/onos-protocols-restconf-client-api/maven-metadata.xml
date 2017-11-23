@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-protocols-restconf-client-api</artifactId>
   <versioning>
-    <latest>1.12.0-b2</latest>
-    <release>1.12.0-b2</release>
+    <latest>1.12.0-rc1</latest>
+    <release>1.12.0-rc1</release>
     <versions>
       <version>1.10.6</version>
       <version>1.10.7</version>
@@ -23,7 +23,8 @@
       <version>1.11.1</version>
       <version>1.12.0-b1</version>
       <version>1.12.0-b2</version>
+      <version>1.12.0-rc1</version>
     </versions>
-    <lastUpdated>20171111002821</lastUpdated>
+    <lastUpdated>20171122184427</lastUpdated>
   </versioning>
 </metadata>
