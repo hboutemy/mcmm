@@ -3,8 +3,8 @@
   <groupId>com.aliyun.oss</groupId>
   <artifactId>aliyun-sdk-oss</artifactId>
   <versioning>
-    <latest>2.9.1-for-hadoop27</latest>
-    <release>2.9.1-for-hadoop27</release>
+    <latest>2.9.2-for-import</latest>
+    <release>2.9.2-for-import</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -33,7 +33,9 @@
       <version>2.9.0-for-hadoop27</version>
       <version>2.9.0-for-import</version>
       <version>2.9.1-for-hadoop27</version>
+      <version>2.9.1-for-import</version>
+      <version>2.9.2-for-import</version>
     </versions>
-    <lastUpdated>20171122081528</lastUpdated>
+    <lastUpdated>20171123094746</lastUpdated>
   </versioning>
 </metadata>
