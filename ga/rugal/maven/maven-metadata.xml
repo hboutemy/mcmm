@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Git Commit Message Linter Maven Plugin</name>
+      <prefix>commitlinter</prefix>
+      <artifactId>commitlinter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
