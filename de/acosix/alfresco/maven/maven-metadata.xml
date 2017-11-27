@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Acosix Alfresco Maven Plugins</name>
       <prefix>de.acosix.alfresco..s</prefix>
       <artifactId>de.acosix.alfresco.maven.plugins</artifactId>
     </plugin>
