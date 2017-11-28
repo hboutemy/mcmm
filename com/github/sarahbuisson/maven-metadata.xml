@@ -6,5 +6,10 @@
       <prefix>universal-module-aggregator</prefix>
       <artifactId>maven-universal-module-aggregator-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-universal-module-aggregator-plugin</name>
+      <prefix>universal-module-aggregator</prefix>
+      <artifactId>universal-module-aggregator</artifactId>
+    </plugin>
   </plugins>
 </metadata>

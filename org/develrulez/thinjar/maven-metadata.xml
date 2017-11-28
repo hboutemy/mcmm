@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Thin-JAR Maven Plugin</name>
+      <prefix>thin-jar</prefix>
+      <artifactId>thin-jar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

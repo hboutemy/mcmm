@@ -6,5 +6,10 @@
       <prefix>docufier</prefix>
       <artifactId>docufier-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>J Maven Plugin</name>
+      <prefix>j</prefix>
+      <artifactId>j-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
