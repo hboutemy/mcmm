@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Bintray Maven Plugin</name>
+      <prefix>bintray</prefix>
+      <artifactId>bintray-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name></name>
       <prefix>carrotaws</prefix>
       <artifactId>carrot-maven-aws-plugin</artifactId>

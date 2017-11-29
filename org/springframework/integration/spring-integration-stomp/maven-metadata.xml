@@ -3,8 +3,8 @@
   <groupId>org.springframework.integration</groupId>
   <artifactId>spring-integration-stomp</artifactId>
   <versioning>
-    <latest>4.3.12.RELEASE</latest>
-    <release>4.3.12.RELEASE</release>
+    <latest>5.0.0.RELEASE</latest>
+    <release>5.0.0.RELEASE</release>
     <versions>
       <version>4.2.0.RELEASE</version>
       <version>4.2.1.RELEASE</version>
@@ -30,7 +30,9 @@
       <version>4.3.10.RELEASE</version>
       <version>4.3.11.RELEASE</version>
       <version>4.3.12.RELEASE</version>
+      <version>4.3.13.RELEASE</version>
+      <version>5.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20170911201521</lastUpdated>
+    <lastUpdated>20171128210014</lastUpdated>
   </versioning>
 </metadata>
