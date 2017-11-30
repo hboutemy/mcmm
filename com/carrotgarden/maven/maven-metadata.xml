@@ -36,5 +36,10 @@
       <prefix>carrotstaging</prefix>
       <artifactId>carrot-maven-staging-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Flatten Maven Plugin</name>
+      <prefix>flatten</prefix>
+      <artifactId>flatten-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

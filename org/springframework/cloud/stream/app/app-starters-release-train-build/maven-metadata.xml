@@ -3,13 +3,14 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Bacon.RELEASE</latest>
-    <release>Bacon.RELEASE</release>
+    <latest>Celsius.RELEASE</latest>
+    <release>Celsius.RELEASE</release>
     <versions>
       <version>Avogadro.RELEASE</version>
       <version>Avogadro.SR1</version>
       <version>Bacon.RELEASE</version>
+      <version>Celsius.RELEASE</version>
     </versions>
-    <lastUpdated>20170413224724</lastUpdated>
+    <lastUpdated>20171129210423</lastUpdated>
   </versioning>
 </metadata>

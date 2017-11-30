@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Tentackle Checker Maven Plugin</name>
+      <prefix>tentackle-check</prefix>
+      <artifactId>tentackle-check-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tentackle I18N Maven Plugin</name>
+      <prefix>tentackle-i18n</prefix>
+      <artifactId>tentackle-i18n-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tentackle Maven Plugin</name>
       <prefix>tentackle</prefix>
       <artifactId>tentackle-maven-plugin</artifactId>
