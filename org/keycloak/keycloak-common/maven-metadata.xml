@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-common</artifactId>
   <versioning>
-    <latest>3.4.0.Final</latest>
-    <release>3.4.0.Final</release>
+    <latest>3.4.1.CR1</latest>
+    <release>3.4.1.CR1</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -53,7 +53,8 @@
       <version>3.3.0.Final</version>
       <version>3.4.0.CR1</version>
       <version>3.4.0.Final</version>
+      <version>3.4.1.CR1</version>
     </versions>
-    <lastUpdated>20171110075253</lastUpdated>
+    <lastUpdated>20171130163657</lastUpdated>
   </versioning>
 </metadata>
