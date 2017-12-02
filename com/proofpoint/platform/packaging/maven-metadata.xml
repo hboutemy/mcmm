@@ -3,8 +3,8 @@
   <groupId>com.proofpoint.platform</groupId>
   <artifactId>packaging</artifactId>
   <versioning>
-    <latest>1.64</latest>
-    <release>1.64</release>
+    <latest>1.65</latest>
+    <release>1.65</release>
     <versions>
       <version>0.44</version>
       <version>0.45</version>
@@ -125,8 +125,9 @@
       <version>1.62</version>
       <version>1.63</version>
       <version>1.64</version>
+      <version>1.65</version>
       <version>1.22</version>
     </versions>
-    <lastUpdated>20171108195430</lastUpdated>
+    <lastUpdated>20171130234617</lastUpdated>
   </versioning>
 </metadata>
