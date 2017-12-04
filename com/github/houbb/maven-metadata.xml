@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-gen-plugin</name>
+      <prefix>gen</prefix>
+      <artifactId>gen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
