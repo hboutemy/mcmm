@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven P2 Profile Generation Plugin</name>
+      <prefix>carbon-feature</prefix>
+      <artifactId>carbon-feature-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

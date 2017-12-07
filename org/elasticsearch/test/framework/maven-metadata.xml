@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.test</groupId>
   <artifactId>framework</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>5.0.0-alpha1</version>
       <version>5.0.0-alpha2</version>
@@ -38,6 +38,7 @@
       <version>5.6.2</version>
       <version>5.6.3</version>
       <version>5.6.4</version>
+      <version>5.6.5</version>
       <version>6.0.0-alpha1</version>
       <version>6.0.0-alpha2</version>
       <version>6.0.0-beta1</version>
@@ -45,7 +46,8 @@
       <version>6.0.0-rc1</version>
       <version>6.0.0-rc2</version>
       <version>6.0.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20171114121258</lastUpdated>
+    <lastUpdated>20171206162641</lastUpdated>
   </versioning>
 </metadata>
