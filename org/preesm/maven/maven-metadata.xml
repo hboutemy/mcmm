@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Preesm Maven :: P2 Feature Generator</name>
+      <prefix>genfeature</prefix>
+      <artifactId>genfeature-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Preesm Maven :: M2E Settings Plugin</name>
+      <prefix>m2e-settings</prefix>
+      <artifactId>m2e-settings-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Preesm Maven :: SFTP Transfert Plugin</name>
+      <prefix>sftp</prefix>
+      <artifactId>sftp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

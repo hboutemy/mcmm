@@ -3,8 +3,8 @@
   <groupId>com.typesafe.akka</groupId>
   <artifactId>akka-persistence-tck_2.11</artifactId>
   <versioning>
-    <latest>2.5.7</latest>
-    <release>2.5.7</release>
+    <latest>2.5.8</latest>
+    <release>2.5.8</release>
     <versions>
       <version>2.4-M3</version>
       <version>2.4.0-RC1</version>
@@ -54,7 +54,8 @@
       <version>2.5.5</version>
       <version>2.5.6</version>
       <version>2.5.7</version>
+      <version>2.5.8</version>
     </versions>
-    <lastUpdated>20171120132255</lastUpdated>
+    <lastUpdated>20171207182148</lastUpdated>
   </versioning>
 </metadata>
