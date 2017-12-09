@@ -42,6 +42,11 @@
       <artifactId>ikasan-rt-conf-jboss6-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone Schedule Driven Local File System Integration Module</name>
+      <prefix>ikasan-standalone-filesystem-im</prefix>
+      <artifactId>ikasan-standalone-filesystem-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>IkasanEIP Maven Archetype for a Jboss module supporting ActiveMQ</name>
       <prefix>jboss6-module-activemq</prefix>
       <artifactId>jboss6-module-activemq-maven-plugin</artifactId>
