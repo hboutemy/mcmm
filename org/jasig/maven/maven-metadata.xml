@@ -28,7 +28,7 @@
     </plugin>
     <plugin>
       <name>uportal Platform Data Maven Plugin</name>
-      <prefix>uportaldata</prefix>
+      <prefix>uportalData</prefix>
       <artifactId>uportaldata-maven-plugin</artifactId>
     </plugin>
   </plugins>

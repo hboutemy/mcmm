@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-as7-adapter-dist</artifactId>
   <versioning>
-    <latest>3.4.1.CR1</latest>
-    <release>3.4.1.CR1</release>
+    <latest>3.4.1.Final</latest>
+    <release>3.4.1.Final</release>
     <versions>
       <version>1.0-beta-1</version>
       <version>1.0-beta-2</version>
@@ -78,8 +78,9 @@
       <version>3.4.0.CR1</version>
       <version>3.4.0.Final</version>
       <version>3.4.1.CR1</version>
+      <version>3.4.1.Final</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20171130163645</lastUpdated>
+    <lastUpdated>20171208130545</lastUpdated>
   </versioning>
 </metadata>

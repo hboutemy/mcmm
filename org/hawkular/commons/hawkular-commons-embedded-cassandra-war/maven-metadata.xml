@@ -3,8 +3,8 @@
   <groupId>org.hawkular.commons</groupId>
   <artifactId>hawkular-commons-embedded-cassandra-war</artifactId>
   <versioning>
-    <latest>0.9.7.Final</latest>
-    <release>0.9.7.Final</release>
+    <latest>0.9.8</latest>
+    <release>0.9.8</release>
     <versions>
       <version>0.6.1.Final</version>
       <version>0.7.0.Final</version>
@@ -26,7 +26,9 @@
       <version>0.9.5.Final</version>
       <version>0.9.6.Final</version>
       <version>0.9.7.Final</version>
+      <version>0.9.8</version>
+      <version>0.9.8.Final</version>
     </versions>
-    <lastUpdated>20170728232506</lastUpdated>
+    <lastUpdated>20171208171443</lastUpdated>
   </versioning>
 </metadata>

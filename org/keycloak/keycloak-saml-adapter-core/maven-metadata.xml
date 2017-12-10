@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-adapter-core</artifactId>
   <versioning>
-    <latest>3.4.1.CR1</latest>
-    <release>3.4.1.CR1</release>
+    <latest>3.4.1.Final</latest>
+    <release>3.4.1.Final</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -54,7 +54,8 @@
       <version>3.4.0.CR1</version>
       <version>3.4.0.Final</version>
       <version>3.4.1.CR1</version>
+      <version>3.4.1.Final</version>
     </versions>
-    <lastUpdated>20171130163735</lastUpdated>
+    <lastUpdated>20171208130653</lastUpdated>
   </versioning>
 </metadata>
