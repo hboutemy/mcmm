@@ -3,8 +3,8 @@
   <groupId>org.apache.hadoop</groupId>
   <artifactId>hadoop-yarn-project</artifactId>
   <versioning>
-    <latest>3.0.0-beta1</latest>
-    <release>3.0.0-beta1</release>
+    <latest>3.0.0</latest>
+    <release>3.0.0</release>
     <versions>
       <version>0.23.3</version>
       <version>0.23.4</version>
@@ -48,7 +48,8 @@
       <version>3.0.0-alpha3</version>
       <version>3.0.0-alpha4</version>
       <version>3.0.0-beta1</version>
+      <version>3.0.0</version>
     </versions>
-    <lastUpdated>20171117221743</lastUpdated>
+    <lastUpdated>20171213210951</lastUpdated>
   </versioning>
 </metadata>

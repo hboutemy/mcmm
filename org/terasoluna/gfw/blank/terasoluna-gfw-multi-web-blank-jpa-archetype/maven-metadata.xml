@@ -3,8 +3,8 @@
   <groupId>org.terasoluna.gfw.blank</groupId>
   <artifactId>terasoluna-gfw-multi-web-blank-jpa-archetype</artifactId>
   <versioning>
-    <latest>5.4.0.RC5</latest>
-    <release>5.4.0.RC5</release>
+    <latest>5.4.0.RELEASE</latest>
+    <release>5.4.0.RELEASE</release>
     <versions>
       <version>5.2.0.RC5</version>
       <version>5.2.0.RC6</version>
@@ -20,11 +20,13 @@
       <version>5.3.0.RELEASE</version>
       <version>5.3.1.RC1</version>
       <version>5.3.1.RELEASE</version>
+      <version>5.3.2.RC1</version>
       <version>5.4.0.RC1</version>
       <version>5.4.0.RC3</version>
       <version>5.4.0.RC4</version>
       <version>5.4.0.RC5</version>
+      <version>5.4.0.RELEASE</version>
     </versions>
-    <lastUpdated>20171212071855</lastUpdated>
+    <lastUpdated>20171213070041</lastUpdated>
   </versioning>
 </metadata>
