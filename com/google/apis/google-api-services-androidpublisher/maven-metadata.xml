@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-androidpublisher</artifactId>
   <versioning>
-    <latest>v2-rev47-1.23.0</latest>
-    <release>v2-rev47-1.23.0</release>
+    <latest>v2-rev48-1.23.0</latest>
+    <release>v2-rev48-1.23.0</release>
     <versions>
       <version>v1-rev10-1.13.2-beta</version>
       <version>v1-rev10-1.14.1-beta</version>
@@ -296,6 +296,10 @@
       <version>v1-rev84-1.21.0</version>
       <version>v1-rev84-1.22.0</version>
       <version>v1-rev84-1.23.0</version>
+      <version>v1-rev85-1.18.0-rc</version>
+      <version>v1-rev85-1.21.0</version>
+      <version>v1-rev85-1.22.0</version>
+      <version>v1-rev85-1.23.0</version>
       <version>v1.1-rev2-1.13.2-beta</version>
       <version>v1.1-rev2-1.14.2-beta</version>
       <version>v1.1-rev2-1.15.0-rc</version>
@@ -573,6 +577,10 @@
       <version>v1.1-rev70-1.21.0</version>
       <version>v1.1-rev70-1.22.0</version>
       <version>v1.1-rev70-1.23.0</version>
+      <version>v1.1-rev71-1.18.0-rc</version>
+      <version>v1.1-rev71-1.21.0</version>
+      <version>v1.1-rev71-1.22.0</version>
+      <version>v1.1-rev71-1.23.0</version>
       <version>v2-rev2-1.15.0-rc</version>
       <version>v2-rev2-1.16.0-rc</version>
       <version>v2-rev2-1.17.0-rc</version>
@@ -766,7 +774,11 @@
       <version>v2-rev47-1.21.0</version>
       <version>v2-rev47-1.22.0</version>
       <version>v2-rev47-1.23.0</version>
+      <version>v2-rev48-1.18.0-rc</version>
+      <version>v2-rev48-1.21.0</version>
+      <version>v2-rev48-1.22.0</version>
+      <version>v2-rev48-1.23.0</version>
     </versions>
-    <lastUpdated>20171031221426</lastUpdated>
+    <lastUpdated>20171215040858</lastUpdated>
   </versioning>
 </metadata>
