@@ -3,8 +3,8 @@
   <groupId>org.openmrs.maven.archetypes</groupId>
   <artifactId>openmrs-sdk-archetype-module-refapp</artifactId>
   <versioning>
-    <latest>3.12.2</latest>
-    <release>3.12.2</release>
+    <latest>3.12.3</latest>
+    <release>3.12.3</release>
     <versions>
       <version>3.1.1</version>
       <version>3.1.2</version>
@@ -31,7 +31,8 @@
       <version>3.12.0</version>
       <version>3.12.1</version>
       <version>3.12.2</version>
+      <version>3.12.3</version>
     </versions>
-    <lastUpdated>20171213123841</lastUpdated>
+    <lastUpdated>20171218124142</lastUpdated>
   </versioning>
 </metadata>
