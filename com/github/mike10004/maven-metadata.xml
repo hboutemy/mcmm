@@ -7,6 +7,11 @@
       <artifactId>concatenate-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>crxtool-maven-plugin</name>
+      <prefix>crxtool</prefix>
+      <artifactId>crxtool-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Debian Maven Plugin</name>
       <prefix>debian</prefix>
       <artifactId>debian-maven-plugin</artifactId>
