@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Google Drive Release Maven Plugin</name>
+      <prefix>gdrive-release</prefix>
+      <artifactId>gdrive-release-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Ssh Exec Maven Plugin</name>
       <prefix>ssh-exec</prefix>
       <artifactId>ssh-exec-maven-plugin</artifactId>

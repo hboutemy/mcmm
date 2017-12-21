@@ -3,8 +3,8 @@
   <groupId>org.wildfly.legacy.test</groupId>
   <artifactId>wildfly-legacy-subsystem-10.0.0</artifactId>
   <versioning>
-    <latest>2.0.3.Final</latest>
-    <release>2.0.3.Final</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>2.0.0.Beta1</version>
       <version>2.0.0.CR1</version>
@@ -12,7 +12,8 @@
       <version>2.0.1.Final</version>
       <version>2.0.2.Final</version>
       <version>2.0.3.Final</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20170623120138</lastUpdated>
+    <lastUpdated>20171220133909</lastUpdated>
   </versioning>
 </metadata>

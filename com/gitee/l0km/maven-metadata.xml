@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>swift2thrift-maven-plugin</name>
+      <prefix>swift2thrift</prefix>
+      <artifactId>swift2thrift-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
