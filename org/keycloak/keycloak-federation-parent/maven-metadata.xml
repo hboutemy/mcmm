@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-federation-parent</artifactId>
   <versioning>
-    <latest>3.4.1.Final</latest>
-    <release>3.4.1.Final</release>
+    <latest>3.4.2.Final</latest>
+    <release>3.4.2.Final</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -78,6 +78,6 @@
       <version>3.4.1.Final</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20171208130604</lastUpdated>
+    <lastUpdated>20171221145239</lastUpdated>
   </versioning>
 </metadata>

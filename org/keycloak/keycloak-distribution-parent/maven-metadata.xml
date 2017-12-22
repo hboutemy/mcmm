@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-distribution-parent</artifactId>
   <versioning>
-    <latest>3.4.1.Final</latest>
-    <release>3.4.1.Final</release>
+    <latest>3.4.2.Final</latest>
+    <release>3.4.2.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -46,6 +46,6 @@
       <version>3.4.1.CR1</version>
       <version>3.4.1.Final</version>
     </versions>
-    <lastUpdated>20171208130603</lastUpdated>
+    <lastUpdated>20171221145238</lastUpdated>
   </versioning>
 </metadata>

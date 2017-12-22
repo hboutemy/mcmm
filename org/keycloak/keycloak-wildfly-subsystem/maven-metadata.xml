@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-subsystem</artifactId>
   <versioning>
-    <latest>3.4.1.Final</latest>
-    <release>3.4.1.Final</release>
+    <latest>3.4.2.Final</latest>
+    <release>3.4.2.Final</release>
     <versions>
       <version>1.0-alpha-2</version>
       <version>1.0-alpha-3</version>
@@ -72,6 +72,6 @@
       <version>3.4.1.CR1</version>
       <version>3.4.1.Final</version>
     </versions>
-    <lastUpdated>20171208130817</lastUpdated>
+    <lastUpdated>20171221145434</lastUpdated>
   </versioning>
 </metadata>
