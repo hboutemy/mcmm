@@ -7,6 +7,11 @@
       <artifactId>adt-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven Dependency Plugin</name>
+      <prefix>link-dependencies</prefix>
+      <artifactId>link-dependencies-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>manifest-validator-maven-plugin</name>
       <prefix>manifest-validator</prefix>
       <artifactId>manifest-validator-maven-plugin</artifactId>
