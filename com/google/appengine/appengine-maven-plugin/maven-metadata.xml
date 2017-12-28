@@ -3,8 +3,8 @@
   <groupId>com.google.appengine</groupId>
   <artifactId>appengine-maven-plugin</artifactId>
   <versioning>
-    <latest>1.9.59</latest>
-    <release>1.9.59</release>
+    <latest>1.9.60</latest>
+    <release>1.9.60</release>
     <versions>
       <version>1.7.3</version>
       <version>1.7.4</version>
@@ -88,7 +88,8 @@
       <version>1.9.57</version>
       <version>1.9.58</version>
       <version>1.9.59</version>
+      <version>1.9.60</version>
     </versions>
-    <lastUpdated>20171101233512</lastUpdated>
+    <lastUpdated>20171227191850</lastUpdated>
   </versioning>
 </metadata>
