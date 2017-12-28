@@ -11,5 +11,10 @@
       <prefix>violation-comments-to-gitlab</prefix>
       <artifactId>violation-comments-to-gitlab-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>violations-maven-plugin</name>
+      <prefix>violations</prefix>
+      <artifactId>violations-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
