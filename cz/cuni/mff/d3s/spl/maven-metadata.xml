@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SPL integration into JMH Maven Plugin</name>
+      <prefix>jmh_spl</prefix>
+      <artifactId>jmh_spl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

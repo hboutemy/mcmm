@@ -6,5 +6,10 @@
       <prefix>makeself</prefix>
       <artifactId>makeself-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>smartsprites-maven-plugin</name>
+      <prefix>smartsprites</prefix>
+      <artifactId>smartsprites-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

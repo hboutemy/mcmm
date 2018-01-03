@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Recipe Generator Maven Plugin</name>
+      <prefix>recipe-generator</prefix>
+      <artifactId>recipe-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
