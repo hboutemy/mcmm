@@ -3,8 +3,8 @@
   <groupId>org.voltdb</groupId>
   <artifactId>voltdbclient</artifactId>
   <versioning>
-    <latest>7.8.1</latest>
-    <release>7.8.1</release>
+    <latest>7.9</latest>
+    <release>7.9</release>
     <versions>
       <version>5.0</version>
       <version>5.0.2</version>
@@ -32,8 +32,9 @@
       <version>7.7</version>
       <version>7.8</version>
       <version>7.8.1</version>
+      <version>7.9</version>
       <version>5.2</version>
     </versions>
-    <lastUpdated>20171103180927</lastUpdated>
+    <lastUpdated>20180103170255</lastUpdated>
   </versioning>
 </metadata>
