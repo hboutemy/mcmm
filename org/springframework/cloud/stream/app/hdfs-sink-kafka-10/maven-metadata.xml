@@ -3,13 +3,14 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>hdfs-sink-kafka-10</artifactId>
   <versioning>
-    <latest>1.3.0.RELEASE</latest>
-    <release>1.3.0.RELEASE</release>
+    <latest>1.3.1.RELEASE</latest>
+    <release>1.3.1.RELEASE</release>
     <versions>
       <version>1.1.1.RELEASE</version>
       <version>1.2.0.RELEASE</version>
       <version>1.3.0.RELEASE</version>
+      <version>1.3.1.RELEASE</version>
     </versions>
-    <lastUpdated>20171128171026</lastUpdated>
+    <lastUpdated>20180104013307</lastUpdated>
   </versioning>
 </metadata>
