@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.http</groupId>
   <artifactId>gravitee-gateway-http-client-core</artifactId>
   <versioning>
-    <latest>1.12.2</latest>
-    <release>1.12.2</release>
+    <latest>1.12.3</latest>
+    <release>1.12.3</release>
     <versions>
       <version>0.5.0</version>
       <version>0.6.0</version>
@@ -62,7 +62,8 @@
       <version>1.12.0</version>
       <version>1.12.1</version>
       <version>1.12.2</version>
+      <version>1.12.3</version>
     </versions>
-    <lastUpdated>20171221163225</lastUpdated>
+    <lastUpdated>20180105160856</lastUpdated>
   </versioning>
 </metadata>
