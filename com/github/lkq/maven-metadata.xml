@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Deploy Dependencies Maven Plugin</name>
+      <prefix>deploy-deps</prefix>
+      <artifactId>deploy-deps-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

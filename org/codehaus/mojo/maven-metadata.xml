@@ -367,7 +367,7 @@
       <artifactId>native-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Native2ascii Plugin</name>
+      <name>Native2Ascii Maven Plugin</name>
       <prefix>native2ascii</prefix>
       <artifactId>native2ascii-maven-plugin</artifactId>
     </plugin>
