@@ -41,5 +41,10 @@
       <prefix>flatten</prefix>
       <artifactId>flatten-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Scalor Maven Plugin</name>
+      <prefix>scalor_2.12</prefix>
+      <artifactId>scalor-maven-plugin_2.12</artifactId>
+    </plugin>
   </plugins>
 </metadata>
