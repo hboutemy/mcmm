@@ -3,12 +3,14 @@
   <groupId>org.hibernate.lucene-jbossmodules</groupId>
   <artifactId>lucene-jbossmodules-parent</artifactId>
   <versioning>
-    <latest>5.5.5.hibernate02</latest>
-    <release>5.5.5.hibernate02</release>
+    <latest>5.5.5.hibernate04</latest>
+    <release>5.5.5.hibernate04</release>
     <versions>
       <version>5.5.5.hibernate01</version>
       <version>5.5.5.hibernate02</version>
+      <version>5.5.5.hibernate03</version>
+      <version>5.5.5.hibernate04</version>
     </versions>
-    <lastUpdated>20180108164932</lastUpdated>
+    <lastUpdated>20180109175427</lastUpdated>
   </versioning>
 </metadata>
