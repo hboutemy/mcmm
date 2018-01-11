@@ -47,6 +47,21 @@
       <artifactId>ikasan-standalone-filesystem-im-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone FTP - JMS Integration Module</name>
+      <prefix>ikasan-standalone-ftp-jms-im</prefix>
+      <artifactId>ikasan-standalone-ftp-jms-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone JMS Integration Module</name>
+      <prefix>ikasan-standalone-jms-im</prefix>
+      <artifactId>ikasan-standalone-jms-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone SFTP - JMS Integration Module</name>
+      <prefix>ikasan-standalone-sftp-jms-im</prefix>
+      <artifactId>ikasan-standalone-sftp-jms-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>IkasanEIP Maven Archetype for a Jboss module supporting ActiveMQ</name>
       <prefix>jboss6-module-activemq</prefix>
       <artifactId>jboss6-module-activemq-maven-plugin</artifactId>
