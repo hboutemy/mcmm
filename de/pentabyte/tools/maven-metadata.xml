@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Language File Generator</name>
+      <prefix>i18n</prefix>
+      <artifactId>i18n-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
