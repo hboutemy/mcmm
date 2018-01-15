@@ -6,5 +6,10 @@
       <prefix>external-resources</prefix>
       <artifactId>external-resources-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>remote-dependency Maven Plugin</name>
+      <prefix>remote-enforcer</prefix>
+      <artifactId>remote-enforcer-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
