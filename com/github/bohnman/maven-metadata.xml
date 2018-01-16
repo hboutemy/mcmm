@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Package Info Maven Plugin</name>
+      <prefix>package-info</prefix>
+      <artifactId>package-info-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
