@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>facelogservice-maven-plugin</name>
+      <prefix>facelogservice</prefix>
+      <artifactId>facelogservice-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>swift2thrift-maven-plugin</name>
       <prefix>swift2thrift</prefix>
       <artifactId>swift2thrift-maven-plugin</artifactId>

@@ -7,6 +7,11 @@
       <artifactId>commons-build-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Commons Release Plugin</name>
+      <prefix>commons-release</prefix>
+      <artifactId>commons-release-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Commons Weaver Maven Plugin</name>
       <prefix>commons-weaver</prefix>
       <artifactId>commons-weaver-maven-plugin</artifactId>
