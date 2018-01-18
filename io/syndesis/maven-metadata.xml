@@ -2,7 +2,17 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Syndesis Maven Plugin</name>
+      <name>Connectors :: Maven Plugin</name>
+      <prefix>connectors</prefix>
+      <artifactId>connectors-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>REST :: Build Helper Maven Plugin</name>
+      <prefix>syndesis-build-helper</prefix>
+      <artifactId>syndesis-build-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>REST :: Maven Plugin</name>
       <prefix>syndesis</prefix>
       <artifactId>syndesis-maven-plugin</artifactId>
     </plugin>
