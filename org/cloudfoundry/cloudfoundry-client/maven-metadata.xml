@@ -3,8 +3,8 @@
   <groupId>org.cloudfoundry</groupId>
   <artifactId>cloudfoundry-client</artifactId>
   <versioning>
-    <latest>3.3.0.RELEASE</latest>
-    <release>3.3.0.RELEASE</release>
+    <latest>3.4.0.RELEASE</latest>
+    <release>3.4.0.RELEASE</release>
     <versions>
       <version>2.0.0.M1</version>
       <version>2.0.0.M2</version>
@@ -45,11 +45,13 @@
       <version>2.21.0.RELEASE</version>
       <version>2.22.0.RELEASE</version>
       <version>2.23.0.RELEASE</version>
+      <version>2.24.0.RELEASE</version>
       <version>3.0.0.RELEASE</version>
       <version>3.1.0.RELEASE</version>
       <version>3.2.0.RELEASE</version>
       <version>3.3.0.RELEASE</version>
+      <version>3.4.0.RELEASE</version>
     </versions>
-    <lastUpdated>20171130142912</lastUpdated>
+    <lastUpdated>20180118201346</lastUpdated>
   </versioning>
 </metadata>
