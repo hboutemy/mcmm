@@ -6,5 +6,9 @@
       <prefix>enforcer</prefix>
       <artifactId>enforcer-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>jacoco</prefix>
+      <artifactId>jacoco-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
