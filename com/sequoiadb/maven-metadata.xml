@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JarJar Maven Plugin</name>
+      <prefix>jarjar</prefix>
+      <artifactId>jarjar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
