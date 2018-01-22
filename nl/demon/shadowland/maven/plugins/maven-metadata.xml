@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SonarQube/SonarCloud Maven Report Plugin</name>
+      <prefix>sonarqubereport</prefix>
+      <artifactId>sonarqube-maven-report</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
