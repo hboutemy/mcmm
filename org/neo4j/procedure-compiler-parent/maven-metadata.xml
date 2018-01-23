@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>procedure-compiler-parent</artifactId>
   <versioning>
-    <latest>3.4.0-alpha05</latest>
-    <release>3.4.0-alpha05</release>
+    <latest>3.4.0-alpha06</latest>
+    <release>3.4.0-alpha06</release>
     <versions>
       <version>3.1.5</version>
       <version>3.1.6</version>
@@ -30,12 +30,14 @@
       <version>3.3.0-rc1</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
+      <version>3.3.2</version>
       <version>3.4.0-alpha01</version>
       <version>3.4.0-alpha02</version>
       <version>3.4.0-alpha03</version>
       <version>3.4.0-alpha04</version>
       <version>3.4.0-alpha05</version>
+      <version>3.4.0-alpha06</version>
     </versions>
-    <lastUpdated>20180109090742</lastUpdated>
+    <lastUpdated>20180122104832</lastUpdated>
   </versioning>
 </metadata>
