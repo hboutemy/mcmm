@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Static Code Analysis Tool Maven Plugin</name>
+      <prefix>sat</prefix>
+      <artifactId>sat-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

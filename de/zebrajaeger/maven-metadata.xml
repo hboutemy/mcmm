@@ -6,5 +6,10 @@
       <prefix>opencms</prefix>
       <artifactId>opencms-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>opencms-resource</prefix>
+      <artifactId>opencms-resource-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Royale: Build Tools</name>
+      <prefix>compiler-build-tools</prefix>
+      <artifactId>compiler-build-tools</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Royale: Royale Maven Plugin</name>
+      <prefix>royale</prefix>
+      <artifactId>royale-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
