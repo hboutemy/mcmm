@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-bom</artifactId>
   <versioning>
-    <latest>5.0.0.RELEASE</latest>
-    <release>5.0.0.RELEASE</release>
+    <latest>5.0.1.RELEASE</latest>
+    <release>5.0.1.RELEASE</release>
     <versions>
       <version>3.2.0.RELEASE</version>
       <version>3.2.1.RELEASE</version>
@@ -32,7 +32,8 @@
       <version>4.2.2.RELEASE</version>
       <version>4.2.3.RELEASE</version>
       <version>5.0.0.RELEASE</version>
+      <version>5.0.1.RELEASE</version>
     </versions>
-    <lastUpdated>20171127222258</lastUpdated>
+    <lastUpdated>20180124214226</lastUpdated>
   </versioning>
 </metadata>

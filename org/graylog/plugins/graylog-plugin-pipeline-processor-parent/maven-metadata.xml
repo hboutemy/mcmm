@@ -3,8 +3,8 @@
   <groupId>org.graylog.plugins</groupId>
   <artifactId>graylog-plugin-pipeline-processor-parent</artifactId>
   <versioning>
-    <latest>2.4.1</latest>
-    <release>2.4.1</release>
+    <latest>2.4.3</latest>
+    <release>2.4.3</release>
     <versions>
       <version>2.2.0-beta.1</version>
       <version>2.2.0-beta.2</version>
@@ -37,7 +37,9 @@
       <version>2.4.0-rc.2</version>
       <version>2.4.0</version>
       <version>2.4.1</version>
+      <version>2.4.2</version>
+      <version>2.4.3</version>
     </versions>
-    <lastUpdated>20180119165119</lastUpdated>
+    <lastUpdated>20180124224022</lastUpdated>
   </versioning>
 </metadata>
