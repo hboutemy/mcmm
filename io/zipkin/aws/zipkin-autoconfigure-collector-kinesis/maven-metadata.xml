@@ -3,8 +3,8 @@
   <groupId>io.zipkin.aws</groupId>
   <artifactId>zipkin-autoconfigure-collector-kinesis</artifactId>
   <versioning>
-    <latest>0.8.6</latest>
-    <release>0.8.6</release>
+    <latest>0.8.7</latest>
+    <release>0.8.7</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -26,7 +26,8 @@
       <version>0.8.4</version>
       <version>0.8.5</version>
       <version>0.8.6</version>
+      <version>0.8.7</version>
     </versions>
-    <lastUpdated>20180103192041</lastUpdated>
+    <lastUpdated>20180126063900</lastUpdated>
   </versioning>
 </metadata>

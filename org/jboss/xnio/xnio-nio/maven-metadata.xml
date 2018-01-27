@@ -3,8 +3,8 @@
   <groupId>org.jboss.xnio</groupId>
   <artifactId>xnio-nio</artifactId>
   <versioning>
-    <latest>3.6.0.Beta2</latest>
-    <release>3.6.0.Beta2</release>
+    <latest>3.6.0.Final</latest>
+    <release>3.6.0.Final</release>
     <versions>
       <version>2.0.0.CR2</version>
       <version>2.0.0.CR3</version>
@@ -114,7 +114,8 @@
       <version>3.5.4.Final</version>
       <version>3.6.0.Beta1</version>
       <version>3.6.0.Beta2</version>
+      <version>3.6.0.Final</version>
     </versions>
-    <lastUpdated>20171108141324</lastUpdated>
+    <lastUpdated>20180126154147</lastUpdated>
   </versioning>
 </metadata>
