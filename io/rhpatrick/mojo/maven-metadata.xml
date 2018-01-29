@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WLST Test Maven Plugin</name>
+      <prefix>wlst-test</prefix>
+      <artifactId>wlst-test-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-test</artifactId>
   <versioning>
-    <latest>0.37.3</latest>
-    <release>0.37.3</release>
+    <latest>0.37.4</latest>
+    <release>0.37.4</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -72,11 +72,13 @@
       <version>0.36.11</version>
       <version>0.36.12</version>
       <version>0.36.13</version>
+      <version>0.36.14</version>
       <version>0.37</version>
       <version>0.37.1</version>
       <version>0.37.2</version>
       <version>0.37.3</version>
+      <version>0.37.4</version>
     </versions>
-    <lastUpdated>20180105180852</lastUpdated>
+    <lastUpdated>20180128200433</lastUpdated>
   </versioning>
 </metadata>
