@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-kafka</artifactId>
   <versioning>
-    <latest>0.192</latest>
-    <release>0.192</release>
+    <latest>0.193</latest>
+    <release>0.193</release>
     <versions>
       <version>0.76</version>
       <version>0.77</version>
@@ -132,7 +132,8 @@
       <version>0.190</version>
       <version>0.191</version>
       <version>0.192</version>
+      <version>0.193</version>
     </versions>
-    <lastUpdated>20180112232724</lastUpdated>
+    <lastUpdated>20180129182305</lastUpdated>
   </versioning>
 </metadata>
