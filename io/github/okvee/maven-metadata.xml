@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Typesafe Config DocGen Maven Plugin</name>
+      <prefix>tscfg-docgen</prefix>
+      <artifactId>tscfg-docgen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
