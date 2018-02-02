@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.directory.service.mgr.feature</artifactId>
   <versioning>
-    <latest>5.11.10</latest>
-    <release>5.11.10</release>
+    <latest>5.11.12</latest>
+    <release>5.11.12</release>
     <versions>
       <version>5.8.140</version>
       <version>5.8.141</version>
@@ -147,7 +147,9 @@
       <version>5.11.8</version>
       <version>5.11.9</version>
       <version>5.11.10</version>
+      <version>5.11.11</version>
+      <version>5.11.12</version>
     </versions>
-    <lastUpdated>20180129140826</lastUpdated>
+    <lastUpdated>20180201092711</lastUpdated>
   </versioning>
 </metadata>

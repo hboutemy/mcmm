@@ -3,8 +3,8 @@
   <groupId>org.wildfly.camel</groupId>
   <artifactId>wildfly-camel-subsystem-core</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>3.0.0.redhat-1</version>
       <version>3.0.1.redhat-1</version>
@@ -23,7 +23,8 @@
       <version>4.8.0</version>
       <version>4.9.0</version>
       <version>5.0.0</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20171204134123</lastUpdated>
+    <lastUpdated>20180201150341</lastUpdated>
   </versioning>
 </metadata>

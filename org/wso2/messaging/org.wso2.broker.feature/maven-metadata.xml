@@ -3,8 +3,8 @@
   <groupId>org.wso2.messaging</groupId>
   <artifactId>org.wso2.broker.feature</artifactId>
   <versioning>
-    <latest>4.0.24</latest>
-    <release>4.0.24</release>
+    <latest>4.0.33</latest>
+    <release>4.0.33</release>
     <versions>
       <version>4.0.11</version>
       <version>4.0.12</version>
@@ -20,7 +20,16 @@
       <version>4.0.22</version>
       <version>4.0.23</version>
       <version>4.0.24</version>
+      <version>4.0.25</version>
+      <version>4.0.26</version>
+      <version>4.0.27</version>
+      <version>4.0.28</version>
+      <version>4.0.29</version>
+      <version>4.0.30</version>
+      <version>4.0.31</version>
+      <version>4.0.32</version>
+      <version>4.0.33</version>
     </versions>
-    <lastUpdated>20180129080447</lastUpdated>
+    <lastUpdated>20180201140907</lastUpdated>
   </versioning>
 </metadata>

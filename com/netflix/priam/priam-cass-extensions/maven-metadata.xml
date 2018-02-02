@@ -3,8 +3,8 @@
   <groupId>com.netflix.priam</groupId>
   <artifactId>priam-cass-extensions</artifactId>
   <versioning>
-    <latest>3.11.16</latest>
-    <release>3.11.16</release>
+    <latest>3.11.17</latest>
+    <release>3.11.17</release>
     <versions>
       <version>1.1.51</version>
       <version>1.1.52</version>
@@ -89,6 +89,7 @@
       <version>3.1.44</version>
       <version>3.1.45</version>
       <version>3.1.46</version>
+      <version>3.1.48</version>
       <version>3.11.3</version>
       <version>3.11.4</version>
       <version>3.11.5</version>
@@ -103,7 +104,8 @@
       <version>3.11.14</version>
       <version>3.11.15</version>
       <version>3.11.16</version>
+      <version>3.11.17</version>
     </versions>
-    <lastUpdated>20171215044132</lastUpdated>
+    <lastUpdated>20180201205127</lastUpdated>
   </versioning>
 </metadata>
