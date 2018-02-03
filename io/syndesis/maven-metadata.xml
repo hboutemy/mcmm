@@ -7,6 +7,11 @@
       <artifactId>connectors-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Extension :: Maven Plugin</name>
+      <prefix>extension</prefix>
+      <artifactId>extension-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>REST :: Build Helper Maven Plugin</name>
       <prefix>syndesis-build-helper</prefix>
       <artifactId>syndesis-build-helper-maven-plugin</artifactId>
