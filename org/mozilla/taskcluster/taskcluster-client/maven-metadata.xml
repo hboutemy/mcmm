@@ -3,8 +3,8 @@
   <groupId>org.mozilla.taskcluster</groupId>
   <artifactId>taskcluster-client</artifactId>
   <versioning>
-    <latest>1.0.235</latest>
-    <release>1.0.235</release>
+    <latest>1.0.239</latest>
+    <release>1.0.239</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -236,7 +236,11 @@
       <version>1.0.233</version>
       <version>1.0.234</version>
       <version>1.0.235</version>
+      <version>1.0.236</version>
+      <version>1.0.237</version>
+      <version>1.0.238</version>
+      <version>1.0.239</version>
     </versions>
-    <lastUpdated>20180130132618</lastUpdated>
+    <lastUpdated>20180205212602</lastUpdated>
   </versioning>
 </metadata>
