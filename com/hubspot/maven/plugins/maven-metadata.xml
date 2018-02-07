@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>copy-protos</prefix>
+      <artifactId>copy-protos-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>dependency-management</prefix>
       <artifactId>dependency-management-maven-plugin</artifactId>
     </plugin>

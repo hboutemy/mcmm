@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-elasticsearch-aws</artifactId>
   <versioning>
-    <latest>5.9.0.CR1</latest>
-    <release>5.9.0.CR1</release>
+    <latest>5.9.0.Final</latest>
+    <release>5.9.0.Final</release>
     <versions>
       <version>5.8.0.Beta4</version>
       <version>5.8.0.CR1</version>
@@ -12,7 +12,8 @@
       <version>5.8.1.Final</version>
       <version>5.8.2.Final</version>
       <version>5.9.0.Beta1</version>
+      <version>5.9.0.Final</version>
     </versions>
-    <lastUpdated>20180123225007</lastUpdated>
+    <lastUpdated>20180206160812</lastUpdated>
   </versioning>
 </metadata>

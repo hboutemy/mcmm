@@ -11,5 +11,10 @@
       <prefix>endpoints-framework</prefix>
       <artifactId>endpoints-framework-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Jib</name>
+      <prefix>jib</prefix>
+      <artifactId>jib-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
