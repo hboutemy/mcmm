@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>ore-deploy</prefix>
+      <artifactId>ore-deploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>pericopist</prefix>
       <artifactId>pericopist-maven-plugin</artifactId>
     </plugin>

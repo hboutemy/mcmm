@@ -3,8 +3,8 @@
   <groupId>org.wildfly.build</groupId>
   <artifactId>wildfly-server-provisioning-standalone</artifactId>
   <versioning>
-    <latest>1.2.6.Final</latest>
-    <release>1.2.6.Final</release>
+    <latest>1.2.7.Final</latest>
+    <release>1.2.7.Final</release>
     <versions>
       <version>1.0.0.Alpha8</version>
       <version>1.0.0.Final</version>
@@ -28,7 +28,8 @@
       <version>1.2.4.Final</version>
       <version>1.2.5.Final</version>
       <version>1.2.6.Final</version>
+      <version>1.2.7.Final</version>
     </versions>
-    <lastUpdated>20180116021515</lastUpdated>
+    <lastUpdated>20180207071707</lastUpdated>
   </versioning>
 </metadata>
