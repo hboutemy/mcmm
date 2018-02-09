@@ -3,8 +3,8 @@
   <groupId>org.wildfly.swarm</groupId>
   <artifactId>camel-couchdb</artifactId>
   <versioning>
-    <latest>2018.1.0</latest>
-    <release>2018.1.0</release>
+    <latest>2018.2.0.Final</latest>
+    <release>2018.2.0.Final</release>
     <versions>
       <version>2012.12.0</version>
       <version>2017.6.0</version>
@@ -21,7 +21,9 @@
       <version>2017.12.0</version>
       <version>2017.12.1</version>
       <version>2018.1.0</version>
+      <version>2018.2.0.Final</version>
+      <version>2018.2.0</version>
     </versions>
-    <lastUpdated>20180206171552</lastUpdated>
+    <lastUpdated>20180208150214</lastUpdated>
   </versioning>
 </metadata>
