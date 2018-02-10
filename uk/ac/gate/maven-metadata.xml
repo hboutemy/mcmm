@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GATE Maven Plugin</name>
+      <prefix>gate</prefix>
+      <artifactId>gate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
