@@ -11,5 +11,9 @@
       <prefix>nativepkg</prefix>
       <artifactId>nativepkg-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>spotter</prefix>
+      <artifactId>spotter-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
