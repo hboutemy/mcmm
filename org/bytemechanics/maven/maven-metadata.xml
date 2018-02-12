@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Copy sources maven plugin</name>
+      <prefix>copysource</prefix>
+      <artifactId>copysource-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
