@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.idp.mgt.stub</artifactId>
   <versioning>
-    <latest>5.11.25</latest>
-    <release>5.11.25</release>
+    <latest>5.11.27</latest>
+    <release>5.11.27</release>
     <versions>
       <version>5.8.140</version>
       <version>5.8.141</version>
@@ -145,6 +145,7 @@
       <version>5.10.119</version>
       <version>5.10.120</version>
       <version>5.10.121</version>
+      <version>5.10.122</version>
       <version>5.11.0</version>
       <version>5.11.1</version>
       <version>5.11.2</version>
@@ -171,7 +172,9 @@
       <version>5.11.23</version>
       <version>5.11.24</version>
       <version>5.11.25</version>
+      <version>5.11.26</version>
+      <version>5.11.27</version>
     </versions>
-    <lastUpdated>20180212121306</lastUpdated>
+    <lastUpdated>20180213195655</lastUpdated>
   </versioning>
 </metadata>

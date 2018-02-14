@@ -18,6 +18,11 @@
       <artifactId>dependency-scope-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>protoc-bundled-plugin -- Batteries included Maven Protobuf compiler Plugin</name>
+      <prefix>protoc-bundled</prefix>
+      <artifactId>protoc-bundled-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>slimfast</prefix>
       <artifactId>slimfast-plugin</artifactId>
     </plugin>

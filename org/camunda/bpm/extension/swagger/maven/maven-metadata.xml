@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Camunda Swagger Model Generator Maven Plugin</name>
+      <prefix>camunda-bpm-swagger</prefix>
+      <artifactId>camunda-bpm-swagger-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camunda Swagger Docs Extractor Maven Plugin</name>
+      <prefix>camunda-bpm-swaggerrest-docs</prefix>
+      <artifactId>camunda-bpm-swagger-plugin-rest-docs</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camunda Swagger Spoon Maven Plugin</name>
+      <prefix>camunda-bpm-swaggerspoon</prefix>
+      <artifactId>camunda-bpm-swagger-plugin-spoon</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tycho Target Platform Refresh Plugin</name>
+      <prefix>tycho-tp-refresh</prefix>
+      <artifactId>tycho-tp-refresh-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
