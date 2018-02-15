@@ -3,13 +3,14 @@
   <groupId>org.jboss.spec.javax.servlet</groupId>
   <artifactId>jboss-servlet-api_4.0_spec</artifactId>
   <versioning>
-    <latest>1.0.0.Alpha3</latest>
-    <release>1.0.0.Alpha3</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
       <version>1.0.0.Alpha3</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20170620030423</lastUpdated>
+    <lastUpdated>20180213233418</lastUpdated>
   </versioning>
 </metadata>
