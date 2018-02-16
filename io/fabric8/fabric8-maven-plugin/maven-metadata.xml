@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>fabric8-maven-plugin</artifactId>
   <versioning>
-    <latest>3.5.34</latest>
-    <release>3.5.34</release>
+    <latest>3.5.35</latest>
+    <release>3.5.35</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -430,6 +430,7 @@
       <version>3.5.32</version>
       <version>3.5.33</version>
       <version>3.5.34</version>
+      <version>3.5.35</version>
       <version>1.0.0.redhat-394</version>
       <version>1.0.0.redhat-412</version>
       <version>1.0.0.redhat-423</version>
@@ -450,6 +451,6 @@
       <version>1.2.0.Beta4</version>
       <version>1.2.0.redhat-133</version>
     </versions>
-    <lastUpdated>20180129073940</lastUpdated>
+    <lastUpdated>20180215154350</lastUpdated>
   </versioning>
 </metadata>
