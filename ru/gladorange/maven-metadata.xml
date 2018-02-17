@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>oas-gen-maven-plugin</name>
+      <prefix>oas-gen</prefix>
+      <artifactId>oas-gen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

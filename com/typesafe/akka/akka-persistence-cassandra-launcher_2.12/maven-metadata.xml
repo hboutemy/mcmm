@@ -3,8 +3,8 @@
   <groupId>com.typesafe.akka</groupId>
   <artifactId>akka-persistence-cassandra-launcher_2.12</artifactId>
   <versioning>
-    <latest>0.81</latest>
-    <release>0.81</release>
+    <latest>0.82</latest>
+    <release>0.82</release>
     <versions>
       <version>0.52</version>
       <version>0.53</version>
@@ -19,7 +19,8 @@
       <version>0.80-RC3</version>
       <version>0.80</version>
       <version>0.81</version>
+      <version>0.82</version>
     </versions>
-    <lastUpdated>20180213094037</lastUpdated>
+    <lastUpdated>20180216115116</lastUpdated>
   </versioning>
 </metadata>
