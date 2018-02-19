@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>githead</prefix>
+      <artifactId>githead-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>ore-deploy</prefix>
       <artifactId>ore-deploy-maven-plugin</artifactId>
     </plugin>
