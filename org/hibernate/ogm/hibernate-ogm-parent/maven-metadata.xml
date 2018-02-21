@@ -3,8 +3,8 @@
   <groupId>org.hibernate.ogm</groupId>
   <artifactId>hibernate-ogm-parent</artifactId>
   <versioning>
-    <latest>5.3.0.CR1</latest>
-    <release>5.3.0.CR1</release>
+    <latest>5.3.0.Final</latest>
+    <release>5.3.0.Final</release>
     <versions>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
@@ -47,7 +47,8 @@
       <version>5.2.0.CR1</version>
       <version>5.2.0.Final</version>
       <version>5.3.0.CR1</version>
+      <version>5.3.0.Final</version>
     </versions>
-    <lastUpdated>20180212144117</lastUpdated>
+    <lastUpdated>20180220150006</lastUpdated>
   </versioning>
 </metadata>
