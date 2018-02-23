@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dataflow-server-kubernetes</artifactId>
   <versioning>
-    <latest>1.3.0.RELEASE</latest>
-    <release>1.3.0.RELEASE</release>
+    <latest>1.3.1.RELEASE</latest>
+    <release>1.3.1.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -15,7 +15,8 @@
       <version>1.2.1.RELEASE</version>
       <version>1.2.2.RELEASE</version>
       <version>1.3.0.RELEASE</version>
+      <version>1.3.1.RELEASE</version>
     </versions>
-    <lastUpdated>20180201195054</lastUpdated>
+    <lastUpdated>20180222224403</lastUpdated>
   </versioning>
 </metadata>
