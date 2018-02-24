@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Javascript Maven Plugin</name>
+      <prefix>javascript</prefix>
+      <artifactId>javascript-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Javascript Maven Report Plugin</name>
+      <prefix>javascript-report</prefix>
+      <artifactId>javascript-report-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
