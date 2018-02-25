@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>zi</name>
+      <prefix>zi</prefix>
+      <artifactId>zi</artifactId>
+    </plugin>
+    <plugin>
+      <name>zi-cljs</name>
+      <prefix>zi-cljs</prefix>
+      <artifactId>zi-cljs</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
