@@ -27,6 +27,11 @@
       <artifactId>process-exec-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Read Files Maven Plugin</name>
+      <prefix>readfiles</prefix>
+      <artifactId>readfiles-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Test Pojos Maven Plugin</name>
       <prefix>testpojo</prefix>
       <artifactId>testpojo-maven-plugin</artifactId>
