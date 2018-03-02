@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-jcache-parent</artifactId>
   <versioning>
-    <latest>9.2.0.CR3</latest>
-    <release>9.2.0.CR3</release>
+    <latest>9.2.0.Final</latest>
+    <release>9.2.0.Final</release>
     <versions>
       <version>7.2.0.Beta1</version>
       <version>7.2.0.Beta2</version>
@@ -81,7 +81,8 @@
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
       <version>9.2.0.CR3</version>
+      <version>9.2.0.Final</version>
     </versions>
-    <lastUpdated>20180221221321</lastUpdated>
+    <lastUpdated>20180228224413</lastUpdated>
   </versioning>
 </metadata>

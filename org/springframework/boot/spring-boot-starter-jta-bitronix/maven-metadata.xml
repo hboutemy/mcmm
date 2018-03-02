@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-jta-bitronix</artifactId>
   <versioning>
-    <latest>1.5.10.RELEASE</latest>
-    <release>1.5.10.RELEASE</release>
+    <latest>2.0.0.RELEASE</latest>
+    <release>2.0.0.RELEASE</release>
     <versions>
       <version>1.2.0.RELEASE</version>
       <version>1.2.1.RELEASE</version>
@@ -43,7 +43,8 @@
       <version>1.5.8.RELEASE</version>
       <version>1.5.9.RELEASE</version>
       <version>1.5.10.RELEASE</version>
+      <version>2.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20180131011240</lastUpdated>
+    <lastUpdated>20180301061316</lastUpdated>
   </versioning>
 </metadata>

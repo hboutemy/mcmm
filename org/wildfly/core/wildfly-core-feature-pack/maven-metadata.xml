@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-feature-pack</artifactId>
   <versioning>
-    <latest>4.0.0.CR1</latest>
-    <release>4.0.0.CR1</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -176,7 +176,8 @@
       <version>4.0.0.Beta1</version>
       <version>4.0.0.Beta2</version>
       <version>4.0.0.CR1</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20180226212021</lastUpdated>
+    <lastUpdated>20180228215902</lastUpdated>
   </versioning>
 </metadata>

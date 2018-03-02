@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-leveldb</artifactId>
   <versioning>
-    <latest>9.2.0.CR3</latest>
-    <release>9.2.0.CR3</release>
+    <latest>9.2.0.Final</latest>
+    <release>9.2.0.Final</release>
     <versions>
       <version>5.2.7.Final</version>
       <version>5.2.8.CR1</version>
@@ -125,7 +125,8 @@
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
       <version>9.2.0.CR3</version>
+      <version>9.2.0.Final</version>
     </versions>
-    <lastUpdated>20180221221246</lastUpdated>
+    <lastUpdated>20180228224326</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cdi-weld-se-it</artifactId>
   <versioning>
-    <latest>9.2.0.CR3</latest>
-    <release>9.2.0.CR3</release>
+    <latest>9.2.0.Final</latest>
+    <release>9.2.0.Final</release>
     <versions>
       <version>8.1.0.Beta1</version>
       <version>8.1.0.CR1</version>
@@ -61,7 +61,8 @@
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
       <version>9.2.0.CR3</version>
+      <version>9.2.0.Final</version>
     </versions>
-    <lastUpdated>20180221221255</lastUpdated>
+    <lastUpdated>20180228224337</lastUpdated>
   </versioning>
 </metadata>

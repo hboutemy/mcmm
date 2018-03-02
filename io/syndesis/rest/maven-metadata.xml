@@ -22,4 +22,11 @@
     </versions>
     <lastUpdated>20180208170744</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>REST :: Builder Maven Plugin</name>
+      <prefix>rest-builder</prefix>
+      <artifactId>rest-builder-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>

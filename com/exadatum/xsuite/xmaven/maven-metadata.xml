@@ -6,5 +6,10 @@
       <prefix>bash</prefix>
       <artifactId>bash-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Workflow Generator Plugin</name>
+      <prefix>workflow</prefix>
+      <artifactId>workflow-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
