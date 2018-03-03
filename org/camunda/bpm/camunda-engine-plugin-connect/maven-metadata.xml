@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-engine-plugin-connect</artifactId>
   <versioning>
-    <latest>7.9.0-alpha1</latest>
-    <release>7.9.0-alpha1</release>
+    <latest>7.9.0-alpha2</latest>
+    <release>7.9.0-alpha2</release>
     <versions>
       <version>7.2.0-alpha6</version>
       <version>7.2.0</version>
@@ -40,7 +40,8 @@
       <version>7.8.0-alpha6</version>
       <version>7.8.0</version>
       <version>7.9.0-alpha1</version>
+      <version>7.9.0-alpha2</version>
     </versions>
-    <lastUpdated>20180202133404</lastUpdated>
+    <lastUpdated>20180302134140</lastUpdated>
   </versioning>
 </metadata>

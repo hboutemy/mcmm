@@ -16,5 +16,10 @@
       <prefix>jib</prefix>
       <artifactId>jib-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Minikube Maven Plugin</name>
+      <prefix>minikube</prefix>
+      <artifactId>minikube-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
