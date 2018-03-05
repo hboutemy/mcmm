@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>RichFaces Resources Maven Plugin</name>
+      <prefix>richfaces-resource-optimizer</prefix>
+      <artifactId>richfaces-resource-optimizer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
