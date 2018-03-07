@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Asciidoc To Dita Maven Plugin</name>
+      <prefix>asciidoctor2dita</prefix>
+      <artifactId>asciidoctor2dita</artifactId>
+    </plugin>
+    <plugin>
       <name>Common Utilities for Maven builds</name>
       <prefix>common</prefix>
       <artifactId>common-maven-plugin</artifactId>
