@@ -3,8 +3,8 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>dotty-sbt-bridge</artifactId>
   <versioning>
-    <latest>0.7.0-bin-20180304-4cfffbe-NIGHTLY</latest>
-    <release>0.7.0-bin-20180304-4cfffbe-NIGHTLY</release>
+    <latest>0.8.0-bin-20180305-346956e-NIGHTLY</latest>
+    <release>0.8.0-bin-20180305-346956e-NIGHTLY</release>
     <versions>
       <version>0.1.1-bin-20170424-40d405b-NIGHTLY</version>
       <version>0.1.1-bin-20170425-f1c3529-NIGHTLY</version>
@@ -285,6 +285,7 @@
       <version>0.6.0-bin-20180114-fc71ee6-NIGHTLY</version>
       <version>0.6.0-bin-20180116-4f54f49-NIGHTLY</version>
       <version>0.6.0-bin-20180117-4e4cddb-NIGHTLY</version>
+      <version>0.7.0-RC1</version>
       <version>0.7.0-bin-20180118-79281da-NIGHTLY</version>
       <version>0.7.0-bin-20180120-577781c-NIGHTLY</version>
       <version>0.7.0-bin-20180121-540371d-NIGHTLY</version>
@@ -320,7 +321,8 @@
       <version>0.7.0-bin-20180301-7655503-NIGHTLY</version>
       <version>0.7.0-bin-20180302-2fb757a-NIGHTLY</version>
       <version>0.7.0-bin-20180304-4cfffbe-NIGHTLY</version>
+      <version>0.8.0-bin-20180305-346956e-NIGHTLY</version>
     </versions>
-    <lastUpdated>20180305023441</lastUpdated>
+    <lastUpdated>20180306102918</lastUpdated>
   </versioning>
 </metadata>

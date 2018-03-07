@@ -3,8 +3,8 @@
   <groupId>org.wso2.analytics.is</groupId>
   <artifactId>wso2analytics-is-release-profile-gen</artifactId>
   <versioning>
-    <latest>5.5.0-alpha3</latest>
-    <release>5.5.0-alpha3</release>
+    <latest>5.5.0-beta</latest>
+    <release>5.5.0-beta</release>
     <versions>
       <version>5.4.0-beta</version>
       <version>5.4.0</version>
@@ -14,7 +14,8 @@
       <version>5.5.0-alpha</version>
       <version>5.5.0-alpha2</version>
       <version>5.5.0-alpha3</version>
+      <version>5.5.0-beta</version>
     </versions>
-    <lastUpdated>20180227183700</lastUpdated>
+    <lastUpdated>20180306164737</lastUpdated>
   </versioning>
 </metadata>

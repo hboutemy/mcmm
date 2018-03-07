@@ -6,5 +6,10 @@
       <prefix>connector</prefix>
       <artifactId>connector-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Connector :: Support :: Maven Plugin</name>
+      <prefix>connector-support</prefix>
+      <artifactId>connector-support-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

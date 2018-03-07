@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}-${project.version}</name>
+      <prefix>reload-resources-file</prefix>
+      <artifactId>reload-resources-file</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}-${project.version}</name>
+      <prefix>zip</prefix>
+      <artifactId>zip</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
