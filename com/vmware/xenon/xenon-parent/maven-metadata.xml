@@ -3,8 +3,8 @@
   <groupId>com.vmware.xenon</groupId>
   <artifactId>xenon-parent</artifactId>
   <versioning>
-    <latest>1.6.4</latest>
-    <release>1.6.4</release>
+    <latest>1.6.4.1</latest>
+    <release>1.6.4.1</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -103,7 +103,8 @@
       <version>1.6.3.2</version>
       <version>1.6.3.3</version>
       <version>1.6.4</version>
+      <version>1.6.4.1</version>
     </versions>
-    <lastUpdated>20180307182632</lastUpdated>
+    <lastUpdated>20180308233808</lastUpdated>
   </versioning>
 </metadata>

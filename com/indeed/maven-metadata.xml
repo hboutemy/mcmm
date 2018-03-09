@@ -5,5 +5,10 @@
       <prefix>proctor</prefix>
       <artifactId>proctor-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Wagon Maven Plugin</name>
+      <prefix>wagonssh-agent</prefix>
+      <artifactId>wagon-maven-plugin-ssh-agent</artifactId>
+    </plugin>
   </plugins>
 </metadata>
