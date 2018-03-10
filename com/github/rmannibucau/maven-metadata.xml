@@ -17,6 +17,11 @@
       <artifactId>diagram-generator-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Dita Maven Plugin</name>
+      <prefix>dita</prefix>
+      <artifactId>dita-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Landslide Maven plugin</name>
       <prefix>landslide</prefix>
       <artifactId>landslide-maven-plugin</artifactId>

@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>consulkv-maven-plugin</name>
       <prefix>consulkv</prefix>
       <artifactId>consulkv-maven-plugin</artifactId>
     </plugin>
