@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>identity-workflow-mgt</artifactId>
   <versioning>
-    <latest>5.11.132</latest>
-    <release>5.11.132</release>
+    <latest>5.11.134</latest>
+    <release>5.11.134</release>
     <versions>
       <version>5.8.140</version>
       <version>5.8.141</version>
@@ -156,6 +156,8 @@
       <version>5.10.130</version>
       <version>5.10.131</version>
       <version>5.10.132</version>
+      <version>5.10.133</version>
+      <version>5.10.134</version>
       <version>5.11.0</version>
       <version>5.11.1</version>
       <version>5.11.2</version>
@@ -283,7 +285,9 @@
       <version>5.11.130</version>
       <version>5.11.131</version>
       <version>5.11.132</version>
+      <version>5.11.133</version>
+      <version>5.11.134</version>
     </versions>
-    <lastUpdated>20180309194734</lastUpdated>
+    <lastUpdated>20180310111440</lastUpdated>
   </versioning>
 </metadata>
