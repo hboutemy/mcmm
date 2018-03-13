@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring</artifactId>
   <versioning>
-    <latest>8.2.8.Final</latest>
-    <release>8.2.8.Final</release>
+    <latest>8.2.10.Final</latest>
+    <release>8.2.10.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -147,7 +147,8 @@
       <version>8.2.6.Final</version>
       <version>8.2.7.Final</version>
       <version>8.2.8.Final</version>
+      <version>8.2.10.Final</version>
     </versions>
-    <lastUpdated>20170714160103</lastUpdated>
+    <lastUpdated>20180312140805</lastUpdated>
   </versioning>
 </metadata>
