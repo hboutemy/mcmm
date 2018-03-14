@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-postgresql-migration</artifactId>
   <versioning>
-    <latest>3.34.4</latest>
-    <release>3.34.4</release>
+    <latest>3.34.9</latest>
+    <release>3.34.9</release>
     <versions>
       <version>refac-postgresql-a8971e3</version>
       <version>3.0-alpha.1</version>
@@ -59,7 +59,12 @@
       <version>3.34.2</version>
       <version>3.34.3</version>
       <version>3.34.4</version>
+      <version>3.34.5</version>
+      <version>3.34.6</version>
+      <version>3.34.7</version>
+      <version>3.34.8</version>
+      <version>3.34.9</version>
     </versions>
-    <lastUpdated>20180312204002</lastUpdated>
+    <lastUpdated>20180313224534</lastUpdated>
   </versioning>
 </metadata>

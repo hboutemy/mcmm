@@ -6,5 +6,10 @@
       <prefix>loggit</prefix>
       <artifactId>loggit-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>releasecat-maven-plugin</name>
+      <prefix>releasecat</prefix>
+      <artifactId>releasecat-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
