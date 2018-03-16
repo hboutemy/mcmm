@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.throttling.siddhi.extension.feature</artifactId>
   <versioning>
-    <latest>6.2.195</latest>
-    <release>6.2.195</release>
+    <latest>6.2.201</latest>
+    <release>6.2.201</release>
     <versions>
       <version>6.1.113</version>
       <version>6.1.114</version>
@@ -236,7 +236,13 @@
       <version>6.2.192</version>
       <version>6.2.193</version>
       <version>6.2.195</version>
+      <version>6.2.196</version>
+      <version>6.2.197</version>
+      <version>6.2.198</version>
+      <version>6.2.199</version>
+      <version>6.2.200</version>
+      <version>6.2.201</version>
     </versions>
-    <lastUpdated>20180314212016</lastUpdated>
+    <lastUpdated>20180315140542</lastUpdated>
   </versioning>
 </metadata>

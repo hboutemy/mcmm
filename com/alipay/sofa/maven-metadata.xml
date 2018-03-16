@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>sofa-ark</prefix>
+      <artifactId>sofa-ark-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>sofa-ark</prefix>
+      <artifactId>sofa-ark-plugin-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
