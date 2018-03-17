@@ -157,7 +157,7 @@
       <artifactId>maven-gpg-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Help Plugin</name>
+      <name>Apache Maven Help Plugin</name>
       <prefix>help</prefix>
       <artifactId>maven-help-plugin</artifactId>
     </plugin>
