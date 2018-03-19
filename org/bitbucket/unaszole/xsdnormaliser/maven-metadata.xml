@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>XSD Normaliser Maven Plugin</name>
+      <prefix>xsdnormaliser</prefix>
+      <artifactId>xsdnormaliser-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
