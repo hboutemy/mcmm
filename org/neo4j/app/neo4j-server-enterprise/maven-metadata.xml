@@ -3,8 +3,8 @@
   <groupId>org.neo4j.app</groupId>
   <artifactId>neo4j-server-enterprise</artifactId>
   <versioning>
-    <latest>3.4.0-alpha09</latest>
-    <release>3.4.0-alpha09</release>
+    <latest>3.4.0-alpha10</latest>
+    <release>3.4.0-alpha10</release>
     <versions>
       <version>1.7.2</version>
       <version>1.8.M02</version>
@@ -182,7 +182,8 @@
       <version>3.4.0-alpha07</version>
       <version>3.4.0-alpha08</version>
       <version>3.4.0-alpha09</version>
+      <version>3.4.0-alpha10</version>
     </versions>
-    <lastUpdated>20180315132723</lastUpdated>
+    <lastUpdated>20180320131306</lastUpdated>
   </versioning>
 </metadata>

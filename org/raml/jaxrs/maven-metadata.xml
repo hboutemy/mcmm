@@ -6,7 +6,6 @@
       <artifactId>jaxrs-to-raml-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>RAML JAX-RS Maven Plug-in</name>
       <prefix>raml-to-jaxrs</prefix>
       <artifactId>raml-to-jaxrs-maven-plugin</artifactId>
     </plugin>
