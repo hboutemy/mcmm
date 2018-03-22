@@ -7,6 +7,16 @@
       <artifactId>bash-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Depack Maven Plugin</name>
+      <prefix>depack</prefix>
+      <artifactId>depack-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Artifact Deployer Plugin</name>
+      <prefix>deploy</prefix>
+      <artifactId>deploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Workflow Generator Plugin</name>
       <prefix>workflow</prefix>
       <artifactId>workflow-maven-plugin</artifactId>

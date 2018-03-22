@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.devicemgt-plugins</groupId>
   <artifactId>org.wso2.carbon.andes.extensions.device.mgt.mqtt.authorization.feature</artifactId>
   <versioning>
-    <latest>4.1.4</latest>
-    <release>4.1.4</release>
+    <latest>4.1.5</latest>
+    <release>4.1.5</release>
     <versions>
       <version>4.0.87</version>
       <version>4.0.88</version>
@@ -61,7 +61,8 @@
       <version>4.1.2</version>
       <version>4.1.3</version>
       <version>4.1.4</version>
+      <version>4.1.5</version>
     </versions>
-    <lastUpdated>20180316121650</lastUpdated>
+    <lastUpdated>20180321044030</lastUpdated>
   </versioning>
 </metadata>

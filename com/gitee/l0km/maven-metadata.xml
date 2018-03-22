@@ -2,6 +2,21 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>cassdk-service-maven-plugin</name>
+      <prefix>cassdk-service</prefix>
+      <artifactId>cassdk-service-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>cassdk-wrapper-service-maven-plugin</name>
+      <prefix>cassdk-wrapper-service</prefix>
+      <artifactId>cassdk-wrapper-service-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>decorator-maven-plugin</name>
+      <prefix>decorator</prefix>
+      <artifactId>decorator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>facelogservice-maven-plugin</name>
       <prefix>facelogservice</prefix>
       <artifactId>facelogservice-maven-plugin</artifactId>
