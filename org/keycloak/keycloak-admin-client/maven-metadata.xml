@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-admin-client</artifactId>
   <versioning>
-    <latest>3.4.3.Final</latest>
-    <release>3.4.3.Final</release>
+    <latest>4.0.0.Beta1</latest>
+    <release>4.0.0.Beta1</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -77,8 +77,9 @@
       <version>3.4.1.CR1</version>
       <version>3.4.1.Final</version>
       <version>3.4.3.Final</version>
+      <version>4.0.0.Beta1</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20180104095634</lastUpdated>
+    <lastUpdated>20180322182108</lastUpdated>
   </versioning>
 </metadata>
