@@ -12,6 +12,11 @@
       <artifactId>azure-webapp-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Artifacts Bundler</name>
+      <prefix>bundler</prefix>
+      <artifactId>bundler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Azure Web Apps Maven Plugin</name>
       <prefix>webapp</prefix>
       <artifactId>webapp-maven-plugin</artifactId>
