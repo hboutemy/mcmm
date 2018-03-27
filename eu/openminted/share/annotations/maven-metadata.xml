@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenMinTeD SHARE (v${omtd-share.version}) Annotations for Java - Maven Plugin</name>
+      <prefix>omtd-share-annotations</prefix>
+      <artifactId>omtd-share-annotations-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
