@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dependencies</artifactId>
   <versioning>
-    <latest>Edgware.SR2</latest>
-    <release>Edgware.SR2</release>
+    <latest>Edgware.SR3</latest>
+    <release>Edgware.SR3</release>
     <versions>
       <version>Angel.SR5</version>
       <version>Angel.SR6</version>
@@ -33,7 +33,8 @@
       <version>Edgware.RELEASE</version>
       <version>Edgware.SR1</version>
       <version>Edgware.SR2</version>
+      <version>Edgware.SR3</version>
     </versions>
-    <lastUpdated>20180209185705</lastUpdated>
+    <lastUpdated>20180327104001</lastUpdated>
   </versioning>
 </metadata>
