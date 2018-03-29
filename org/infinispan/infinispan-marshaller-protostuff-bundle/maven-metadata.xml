@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-marshaller-protostuff-bundle</artifactId>
   <versioning>
-    <latest>9.2.0.Final</latest>
-    <release>9.2.0.Final</release>
+    <latest>9.2.1.Final</latest>
+    <release>9.2.1.Final</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -35,7 +35,8 @@
       <version>9.2.0.CR2</version>
       <version>9.2.0.CR3</version>
       <version>9.2.0.Final</version>
+      <version>9.2.1.Final</version>
     </versions>
-    <lastUpdated>20180316135739</lastUpdated>
+    <lastUpdated>20180327210714</lastUpdated>
   </versioning>
 </metadata>

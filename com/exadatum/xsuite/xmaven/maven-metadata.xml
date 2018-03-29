@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Bash Unit Test Plugin</name>
+      <name>Bash Maven Plugin</name>
       <prefix>bash</prefix>
       <artifactId>bash-maven-plugin</artifactId>
     </plugin>

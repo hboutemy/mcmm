@@ -6,5 +6,10 @@
       <prefix>hibernate</prefix>
       <artifactId>hibernate-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Hibernate Tools Maven Plugin</name>
+      <prefix>hibernate-tools</prefix>
+      <artifactId>hibernate-tools-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
