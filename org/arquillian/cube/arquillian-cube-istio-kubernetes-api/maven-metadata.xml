@@ -3,14 +3,15 @@
   <groupId>org.arquillian.cube</groupId>
   <artifactId>arquillian-cube-istio-kubernetes-api</artifactId>
   <versioning>
-    <latest>1.15.2</latest>
-    <release>1.15.2</release>
+    <latest>1.15.3</latest>
+    <release>1.15.3</release>
     <versions>
       <version>1.14.0</version>
       <version>1.15.0</version>
       <version>1.15.1</version>
       <version>1.15.2</version>
+      <version>1.15.3</version>
     </versions>
-    <lastUpdated>20180227131114</lastUpdated>
+    <lastUpdated>20180329085905</lastUpdated>
   </versioning>
 </metadata>

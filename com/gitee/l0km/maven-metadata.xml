@@ -12,6 +12,11 @@
       <artifactId>cassdk-wrapper-service-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>codegen-decorator-maven-plugin</name>
+      <prefix>codegen-decorator</prefix>
+      <artifactId>codegen-decorator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>decorator-maven-plugin</name>
       <prefix>decorator</prefix>
       <artifactId>decorator-maven-plugin</artifactId>
