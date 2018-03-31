@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JsonPath Maven Plugin</name>
+      <prefix>jsonpath</prefix>
+      <artifactId>jsonpath-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.build</groupId>
   <artifactId>wildfly-server-provisioning-maven-plugin</artifactId>
   <versioning>
-    <latest>1.2.9.Final</latest>
-    <release>1.2.9.Final</release>
+    <latest>1.2.10.Final</latest>
+    <release>1.2.10.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -37,7 +37,8 @@
       <version>1.2.7.Final</version>
       <version>1.2.8.Final</version>
       <version>1.2.9.Final</version>
+      <version>1.2.10.Final</version>
     </versions>
-    <lastUpdated>20180212181232</lastUpdated>
+    <lastUpdated>20180329223330</lastUpdated>
   </versioning>
 </metadata>

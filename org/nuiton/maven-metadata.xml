@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Helper Maven Plugin</name>
+      <name>Helper Maven Plugin :: Mojos</name>
       <prefix>helper</prefix>
       <artifactId>helper-maven-plugin</artifactId>
     </plugin>
@@ -17,6 +17,11 @@
       <artifactId>maven-license-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Nuiton Config :: Maven plugin</name>
+      <prefix>nuiton-config</prefix>
+      <artifactId>nuiton-config-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Nuiton Maven reports plugin</name>
       <prefix>nuitonreport</prefix>
       <artifactId>nuiton-maven-report-plugin</artifactId>
@@ -25,11 +30,6 @@
       <name>Nuiton Utils :: Maven Report Plugin</name>
       <prefix>nuiton-utilsreport</prefix>
       <artifactId>nuiton-utils-maven-report-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <name>Nuiton Config :: Maven plugin</name>
-      <prefix>nuiton-config</prefix>
-      <artifactId>nuiton-config-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
