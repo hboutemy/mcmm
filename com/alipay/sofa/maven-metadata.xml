@@ -9,5 +9,10 @@
       <prefix>sofa-ark</prefix>
       <artifactId>sofa-ark-plugin-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>sofa-version</prefix>
+      <artifactId>sofa-version-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

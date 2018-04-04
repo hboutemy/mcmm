@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-throttle-jdbc</artifactId>
   <versioning>
-    <latest>5.3.0-RC2</latest>
-    <release>5.3.0-RC2</release>
+    <latest>5.3.0-RC3</latest>
+    <release>5.3.0-RC3</release>
     <versions>
       <version>5.0.0.M3</version>
       <version>5.0.0.RC1</version>
@@ -46,7 +46,8 @@
       <version>5.2.3</version>
       <version>5.3.0-RC1</version>
       <version>5.3.0-RC2</version>
+      <version>5.3.0-RC3</version>
     </versions>
-    <lastUpdated>20180304061706</lastUpdated>
+    <lastUpdated>20180403072644</lastUpdated>
   </versioning>
 </metadata>
