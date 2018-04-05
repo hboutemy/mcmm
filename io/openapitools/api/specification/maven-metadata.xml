@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>API Post Processing Maven Plugin</name>
+      <prefix>api-pp</prefix>
+      <artifactId>api-pp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
