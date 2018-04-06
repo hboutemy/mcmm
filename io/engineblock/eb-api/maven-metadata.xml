@@ -3,9 +3,10 @@
   <groupId>io.engineblock</groupId>
   <artifactId>eb-api</artifactId>
   <versioning>
-    <latest>2.0.71</latest>
-    <release>2.0.71</release>
+    <latest>2.0.75</latest>
+    <release>2.0.75</release>
     <versions>
+      <version>-</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -165,7 +166,10 @@
       <version>2.0.69</version>
       <version>2.0.70</version>
       <version>2.0.71</version>
+      <version>2.0.72</version>
+      <version>2.0.73</version>
+      <version>2.0.75</version>
     </versions>
-    <lastUpdated>20180404001836</lastUpdated>
+    <lastUpdated>20180405052323</lastUpdated>
   </versioning>
 </metadata>

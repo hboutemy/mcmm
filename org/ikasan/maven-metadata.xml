@@ -62,6 +62,11 @@
       <artifactId>ikasan-standalone-sftp-jms-im-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone empty Integration Module</name>
+      <prefix>ikasan-standalone-vanilla-im</prefix>
+      <artifactId>ikasan-standalone-vanilla-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>IkasanEIP Maven Archetype for a Jboss module supporting ActiveMQ</name>
       <prefix>jboss6-module-activemq</prefix>
       <artifactId>jboss6-module-activemq-maven-plugin</artifactId>

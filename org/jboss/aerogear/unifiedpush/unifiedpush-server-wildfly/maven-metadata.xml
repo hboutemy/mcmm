@@ -3,8 +3,8 @@
   <groupId>org.jboss.aerogear.unifiedpush</groupId>
   <artifactId>unifiedpush-server-wildfly</artifactId>
   <versioning>
-    <latest>1.3.0-no-auth.Final</latest>
-    <release>1.3.0-no-auth.Final</release>
+    <latest>1.3.1.no-auth.Final</latest>
+    <release>1.3.1.no-auth.Final</release>
     <versions>
       <version>1.0.0.Beta2</version>
       <version>1.0.0.Final</version>
@@ -33,7 +33,8 @@
       <version>1.2.3.Final</version>
       <version>1.2.4.Final</version>
       <version>1.3.0-no-auth.Final</version>
+      <version>1.3.1.no-auth.Final</version>
     </versions>
-    <lastUpdated>20180324152502</lastUpdated>
+    <lastUpdated>20180405175914</lastUpdated>
   </versioning>
 </metadata>
