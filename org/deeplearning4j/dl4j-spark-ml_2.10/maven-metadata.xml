@@ -3,12 +3,13 @@
   <groupId>org.deeplearning4j</groupId>
   <artifactId>dl4j-spark-ml_2.10</artifactId>
   <versioning>
-    <latest>0.9.1_spark_1</latest>
-    <release>0.9.1_spark_1</release>
+    <latest>1.0.0-alpha_spark_1</latest>
+    <release>1.0.0-alpha_spark_1</release>
     <versions>
       <version>0.9.0_spark_1</version>
       <version>0.9.1_spark_1</version>
+      <version>1.0.0-alpha_spark_1</version>
     </versions>
-    <lastUpdated>20170813000301</lastUpdated>
+    <lastUpdated>20180406100726</lastUpdated>
   </versioning>
 </metadata>

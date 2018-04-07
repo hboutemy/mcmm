@@ -3,8 +3,8 @@
   <groupId>org.wildfly.swarm</groupId>
   <artifactId>spring</artifactId>
   <versioning>
-    <latest>2018.3.3</latest>
-    <release>2018.3.3</release>
+    <latest>2018.4.1</latest>
+    <release>2018.4.1</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -46,8 +46,10 @@
       <version>2018.3.1</version>
       <version>2018.3.2</version>
       <version>2018.3.3</version>
+      <version>2018.4.0</version>
+      <version>2018.4.1</version>
       <version>2018.2.0</version>
     </versions>
-    <lastUpdated>20180308214746</lastUpdated>
+    <lastUpdated>20180406141007</lastUpdated>
   </versioning>
 </metadata>

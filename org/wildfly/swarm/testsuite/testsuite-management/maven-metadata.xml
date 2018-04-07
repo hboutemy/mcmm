@@ -3,8 +3,8 @@
   <groupId>org.wildfly.swarm.testsuite</groupId>
   <artifactId>testsuite-management</artifactId>
   <versioning>
-    <latest>2018.3.3</latest>
-    <release>2018.3.3</release>
+    <latest>2018.4.1</latest>
+    <release>2018.4.1</release>
     <versions>
       <version>2012.12.0</version>
       <version>2017.9.4</version>
@@ -21,8 +21,10 @@
       <version>2018.3.1</version>
       <version>2018.3.2</version>
       <version>2018.3.3</version>
+      <version>2018.4.0</version>
+      <version>2018.4.1</version>
       <version>2018.2.0</version>
     </versions>
-    <lastUpdated>20180308214824</lastUpdated>
+    <lastUpdated>20180406141121</lastUpdated>
   </versioning>
 </metadata>

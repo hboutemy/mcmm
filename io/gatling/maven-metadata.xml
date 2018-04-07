@@ -7,6 +7,11 @@
       <artifactId>gatling-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Gatling Maven Shade Plugin, fork of Apache's</name>
+      <prefix>gatlingshade</prefix>
+      <artifactId>gatling-maven-shade-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven Shade Plugin</name>
       <prefix>shade</prefix>
       <artifactId>maven-shade-plugin</artifactId>
