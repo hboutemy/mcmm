@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-jms-processors-nar</artifactId>
   <versioning>
-    <latest>1.5.0</latest>
-    <release>1.5.0</release>
+    <latest>1.6.0</latest>
+    <release>1.6.0</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -23,7 +23,8 @@
       <version>1.3.0</version>
       <version>1.4.0</version>
       <version>1.5.0</version>
+      <version>1.6.0</version>
     </versions>
-    <lastUpdated>20180112172416</lastUpdated>
+    <lastUpdated>20180406235329</lastUpdated>
   </versioning>
 </metadata>
