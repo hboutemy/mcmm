@@ -5,5 +5,9 @@
       <prefix>bw-deploy</prefix>
       <artifactId>bw-deploy-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>bw-utildeploy</prefix>
+      <artifactId>bw-util-maven-deploy</artifactId>
+    </plugin>
   </plugins>
 </metadata>
