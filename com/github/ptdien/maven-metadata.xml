@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Rancher Maven Plugin</name>
+      <prefix>rancher</prefix>
+      <artifactId>rancher-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
