@@ -6,5 +6,10 @@
       <prefix>swagger-codegen</prefix>
       <artifactId>swagger-codegen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>SwaggerHub Maven Plugin</name>
+      <prefix>swaggerhub</prefix>
+      <artifactId>swaggerhub-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
