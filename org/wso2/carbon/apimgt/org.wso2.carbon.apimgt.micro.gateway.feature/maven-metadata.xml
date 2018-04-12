@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.micro.gateway.feature</artifactId>
   <versioning>
-    <latest>6.2.220</latest>
-    <release>6.2.220</release>
+    <latest>6.2.223</latest>
+    <release>6.2.223</release>
     <versions>
       <version>6.2.114</version>
       <version>6.2.115</version>
@@ -110,7 +110,10 @@
       <version>6.2.218</version>
       <version>6.2.219</version>
       <version>6.2.220</version>
+      <version>6.2.221</version>
+      <version>6.2.222</version>
+      <version>6.2.223</version>
     </versions>
-    <lastUpdated>20180410101238</lastUpdated>
+    <lastUpdated>20180411124820</lastUpdated>
   </versioning>
 </metadata>
