@@ -3,8 +3,8 @@
   <groupId>org.wildfly.openssl</groupId>
   <artifactId>wildfly-openssl-windows-i386</artifactId>
   <versioning>
-    <latest>1.0.4.Final</latest>
-    <release>1.0.4.Final</release>
+    <latest>1.0.6.Final</latest>
+    <release>1.0.6.Final</release>
     <versions>
       <version>1.0.0.Beta4</version>
       <version>1.0.0.Beta6</version>
@@ -18,7 +18,9 @@
       <version>1.0.2.Final</version>
       <version>1.0.3.Final</version>
       <version>1.0.4.Final</version>
+      <version>1.0.5.Final</version>
+      <version>1.0.6.Final</version>
     </versions>
-    <lastUpdated>20180305003344</lastUpdated>
+    <lastUpdated>20180412045850</lastUpdated>
   </versioning>
 </metadata>
