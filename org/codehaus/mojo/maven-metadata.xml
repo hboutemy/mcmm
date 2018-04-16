@@ -607,7 +607,7 @@
       <artifactId>vfs-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Wagon plugin</name>
+      <name>Wagon Maven Plugin</name>
       <prefix>wagon</prefix>
       <artifactId>wagon-maven-plugin</artifactId>
     </plugin>
