@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-morsel-runtime</artifactId>
   <versioning>
-    <latest>3.4.0-beta01</latest>
-    <release>3.4.0-beta01</release>
+    <latest>3.4.0-beta02</latest>
+    <release>3.4.0-beta02</release>
     <versions>
       <version>3.4.0-alpha02</version>
       <version>3.4.0-alpha03</version>
@@ -16,7 +16,8 @@
       <version>3.4.0-alpha09</version>
       <version>3.4.0-alpha10</version>
       <version>3.4.0-beta01</version>
+      <version>3.4.0-beta02</version>
     </versions>
-    <lastUpdated>20180403105101</lastUpdated>
+    <lastUpdated>20180416064514</lastUpdated>
   </versioning>
 </metadata>
