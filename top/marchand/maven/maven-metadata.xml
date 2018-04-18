@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Dependency-tree generator</name>
+      <prefix>dep-tree</prefix>
+      <artifactId>dep-tree-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
