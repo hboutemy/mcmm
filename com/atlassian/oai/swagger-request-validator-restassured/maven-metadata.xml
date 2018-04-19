@@ -3,8 +3,8 @@
   <groupId>com.atlassian.oai</groupId>
   <artifactId>swagger-request-validator-restassured</artifactId>
   <versioning>
-    <latest>1.4.1</latest>
-    <release>1.4.1</release>
+    <latest>1.4.2</latest>
+    <release>1.4.2</release>
     <versions>
       <version>1.3.3</version>
       <version>1.3.7</version>
@@ -13,6 +13,7 @@
       <version>1.3.10</version>
       <version>1.4.0</version>
       <version>1.4.1</version>
+      <version>1.4.2</version>
       <version>1.0.10</version>
       <version>1.0.11</version>
       <version>1.0.12</version>
@@ -41,6 +42,6 @@
       <version>1.3.1</version>
       <version>1.3.2</version>
     </versions>
-    <lastUpdated>20180417051103</lastUpdated>
+    <lastUpdated>20180418064636</lastUpdated>
   </versioning>
 </metadata>
