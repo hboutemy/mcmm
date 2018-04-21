@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-defaults-maven-plugin</artifactId>
   <versioning>
-    <latest>9.2.1.Final</latest>
-    <release>9.2.1.Final</release>
+    <latest>9.3.0.Alpha1</latest>
+    <release>9.3.0.Alpha1</release>
     <versions>
       <version>9.0.0.Beta2</version>
       <version>9.0.0.CR1</version>
@@ -35,7 +35,8 @@
       <version>9.2.0.CR3</version>
       <version>9.2.0.Final</version>
       <version>9.2.1.Final</version>
+      <version>9.3.0.Alpha1</version>
     </versions>
-    <lastUpdated>20180327210638</lastUpdated>
+    <lastUpdated>20180420163740</lastUpdated>
   </versioning>
 </metadata>

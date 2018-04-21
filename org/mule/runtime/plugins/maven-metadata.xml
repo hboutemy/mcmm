@@ -11,5 +11,20 @@
       <prefix>mule-extensions</prefix>
       <artifactId>mule-extensions-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Mule Application Plugins Maven Plugin</name>
+      <prefix>mule</prefix>
+      <artifactId>mule-plugin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Server Plugin Maven Plugin</name>
+      <prefix>mule-server</prefix>
+      <artifactId>mule-server-plugin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mule Service Maven Plugin</name>
+      <prefix>mule-service</prefix>
+      <artifactId>mule-service-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
