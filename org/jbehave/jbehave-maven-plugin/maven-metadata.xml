@@ -3,8 +3,8 @@
   <groupId>org.jbehave</groupId>
   <artifactId>jbehave-maven-plugin</artifactId>
   <versioning>
-    <latest>4.3</latest>
-    <release>4.3</release>
+    <latest>4.3.1</latest>
+    <release>4.3.1</release>
     <versions>
       <version>3.10</version>
       <version>4.0</version>
@@ -28,6 +28,7 @@
       <version>4.3-beta-3</version>
       <version>4.3-beta-4</version>
       <version>4.3</version>
+      <version>4.3.1</version>
       <version>0.9.0</version>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -158,6 +159,6 @@
       <version>4.0-beta-8</version>
       <version>4.0-beta-9</version>
     </versions>
-    <lastUpdated>20180415115208</lastUpdated>
+    <lastUpdated>20180421134111</lastUpdated>
   </versioning>
 </metadata>
