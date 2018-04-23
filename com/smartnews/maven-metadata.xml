@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-entitygen-plugin Maven Mojo</name>
+      <prefix>jpa-entity-generator</prefix>
+      <artifactId>maven-jpa-entity-generator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
