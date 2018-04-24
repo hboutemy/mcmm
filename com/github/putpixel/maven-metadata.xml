@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>liquibase-unwrap-all-maven-plugin Maven Plugin</name>
+      <prefix>liquibase-unwrap-all</prefix>
+      <artifactId>liquibase-unwrap-all-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
