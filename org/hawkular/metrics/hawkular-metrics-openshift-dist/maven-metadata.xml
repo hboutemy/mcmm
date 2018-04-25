@@ -3,8 +3,8 @@
   <groupId>org.hawkular.metrics</groupId>
   <artifactId>hawkular-metrics-openshift-dist</artifactId>
   <versioning>
-    <latest>0.28.3.Final</latest>
-    <release>0.28.3.Final</release>
+    <latest>0.28.4.Final</latest>
+    <release>0.28.4.Final</release>
     <versions>
       <version>0.21.0.Final</version>
       <version>0.21.1.Final</version>
@@ -49,7 +49,8 @@
       <version>0.28.1.Final</version>
       <version>0.28.2.Final</version>
       <version>0.28.3.Final</version>
+      <version>0.28.4.Final</version>
     </versions>
-    <lastUpdated>20180420150015</lastUpdated>
+    <lastUpdated>20180424135239</lastUpdated>
   </versioning>
 </metadata>
