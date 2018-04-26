@@ -12,6 +12,11 @@
       <artifactId>gaulois-compiler-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>oxygen-pjt-beautifier-maven-plugin Mojo</name>
+      <prefix>oxygen-pjt-beautifier</prefix>
+      <artifactId>oxygen-pjt-beautifier-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>XSL Compiler plugin for Saxon EE</name>
       <prefix>xslcompiler</prefix>
       <artifactId>xslcompiler-maven-plugin</artifactId>

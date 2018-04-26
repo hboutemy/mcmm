@@ -3,8 +3,8 @@
   <groupId>com.nimbusds</groupId>
   <artifactId>infinispan-cachestore-sql</artifactId>
   <versioning>
-    <latest>2.8</latest>
-    <release>2.8</release>
+    <latest>2.9</latest>
+    <release>2.9</release>
     <versions>
       <version>2.2</version>
       <version>2.2.1</version>
@@ -27,7 +27,8 @@
       <version>2.6.3</version>
       <version>2.7</version>
       <version>2.8</version>
+      <version>2.9</version>
     </versions>
-    <lastUpdated>20180416091814</lastUpdated>
+    <lastUpdated>20180425071434</lastUpdated>
   </versioning>
 </metadata>
