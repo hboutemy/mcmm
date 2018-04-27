@@ -3,8 +3,8 @@
   <groupId>org.apache.jackrabbit</groupId>
   <artifactId>oak-solr-osgi</artifactId>
   <versioning>
-    <latest>1.8.2</latest>
-    <release>1.8.2</release>
+    <latest>1.9.0</latest>
+    <release>1.9.0</release>
     <versions>
       <version>0.19</version>
       <version>0.20.0</version>
@@ -175,7 +175,8 @@
       <version>1.8.0</version>
       <version>1.8.1</version>
       <version>1.8.2</version>
+      <version>1.9.0</version>
     </versions>
-    <lastUpdated>20180409033610</lastUpdated>
+    <lastUpdated>20180426131947</lastUpdated>
   </versioning>
 </metadata>
