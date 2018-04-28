@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Cloud Development Maven Plugin</name>
+      <prefix>cloud</prefix>
+      <artifactId>cloud-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Angular Client Maven Plugin</name>
       <prefix>ngcli</prefix>
       <artifactId>ngcli-maven-plugin</artifactId>

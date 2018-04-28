@@ -3,13 +3,14 @@
   <groupId>org.mule.tools</groupId>
   <artifactId>mule-transport-archetype</artifactId>
   <versioning>
-    <latest>3.8.1</latest>
-    <release>3.8.1</release>
+    <latest>3.9.0</latest>
+    <release>3.9.0</release>
     <versions>
       <version>3.6.0</version>
       <version>3.7.0</version>
       <version>3.8.0</version>
       <version>3.8.1</version>
+      <version>3.9.0</version>
       <version>1.4.1</version>
       <version>1.4.2</version>
       <version>1.4.3</version>
@@ -63,6 +64,6 @@
       <version>3.5.0-bighorn</version>
       <version>3.5.0-bighorn-RC3</version>
     </versions>
-    <lastUpdated>20160822031916</lastUpdated>
+    <lastUpdated>20180427070737</lastUpdated>
   </versioning>
 </metadata>
