@@ -362,7 +362,7 @@
       <artifactId>multibuild-optimizer-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Native Plugin</name>
+      <name>Native Maven Plugin</name>
       <prefix>native</prefix>
       <artifactId>native-maven-plugin</artifactId>
     </plugin>
