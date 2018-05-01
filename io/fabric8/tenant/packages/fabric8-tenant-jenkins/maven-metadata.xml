@@ -3,8 +3,8 @@
   <groupId>io.fabric8.tenant.packages</groupId>
   <artifactId>fabric8-tenant-jenkins</artifactId>
   <versioning>
-    <latest>4.0.63</latest>
-    <release>4.0.63</release>
+    <latest>4.0.69</latest>
+    <release>4.0.69</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -70,7 +70,13 @@
       <version>4.0.61</version>
       <version>4.0.62</version>
       <version>4.0.63</version>
+      <version>4.0.64</version>
+      <version>4.0.65</version>
+      <version>4.0.66</version>
+      <version>4.0.67</version>
+      <version>4.0.68</version>
+      <version>4.0.69</version>
     </versions>
-    <lastUpdated>20180319050912</lastUpdated>
+    <lastUpdated>20180430104927</lastUpdated>
   </versioning>
 </metadata>
