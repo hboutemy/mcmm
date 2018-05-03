@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-jboss-adapter-core</artifactId>
   <versioning>
-    <latest>4.0.0.Beta1</latest>
-    <release>4.0.0.Beta1</release>
+    <latest>4.0.0.Beta2</latest>
+    <release>4.0.0.Beta2</release>
     <versions>
       <version>1.0-alpha-3</version>
       <version>1.0-alpha-4</version>
@@ -85,8 +85,9 @@
       <version>3.4.1.Final</version>
       <version>3.4.3.Final</version>
       <version>4.0.0.Beta1</version>
+      <version>4.0.0.Beta2</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20180322182136</lastUpdated>
+    <lastUpdated>20180502104050</lastUpdated>
   </versioning>
 </metadata>
