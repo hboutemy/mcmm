@@ -3,8 +3,8 @@
   <groupId>org.openjdk.jmh</groupId>
   <artifactId>jmh-generator-asm</artifactId>
   <versioning>
-    <latest>1.20</latest>
-    <release>1.20</release>
+    <latest>1.21</latest>
+    <release>1.21</release>
     <versions>
       <version>0.9</version>
       <version>0.9.1</version>
@@ -66,8 +66,9 @@
       <version>1.18</version>
       <version>1.19</version>
       <version>1.20</version>
+      <version>1.21</version>
       <version>1.10</version>
     </versions>
-    <lastUpdated>20180123090417</lastUpdated>
+    <lastUpdated>20180504162047</lastUpdated>
   </versioning>
 </metadata>

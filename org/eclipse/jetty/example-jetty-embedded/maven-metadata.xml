@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>example-jetty-embedded</artifactId>
   <versioning>
-    <latest>9.4.10.RC1</latest>
-    <release>9.4.10.RC1</release>
+    <latest>9.4.10.v20180503</latest>
+    <release>9.4.10.v20180503</release>
     <versions>
       <version>7.0.0.M3</version>
       <version>7.0.0.M4</version>
@@ -234,7 +234,8 @@
       <version>9.4.9.v20180320</version>
       <version>9.4.10.RC0</version>
       <version>9.4.10.RC1</version>
+      <version>9.4.10.v20180503</version>
     </versions>
-    <lastUpdated>20180426233849</lastUpdated>
+    <lastUpdated>20180504194838</lastUpdated>
   </versioning>
 </metadata>

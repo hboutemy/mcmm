@@ -3,8 +3,8 @@
   <groupId>org.openjdk.jmh</groupId>
   <artifactId>jmh-java-benchmark-archetype</artifactId>
   <versioning>
-    <latest>1.20</latest>
-    <release>1.20</release>
+    <latest>1.21</latest>
+    <release>1.21</release>
     <versions>
       <version>0.5</version>
       <version>0.5.2</version>
@@ -79,8 +79,9 @@
       <version>1.18</version>
       <version>1.19</version>
       <version>1.20</version>
+      <version>1.21</version>
       <version>1.10</version>
     </versions>
-    <lastUpdated>20180123090419</lastUpdated>
+    <lastUpdated>20180504162050</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-archetype-application-multimodule</artifactId>
   <versioning>
-    <latest>8.4.0</latest>
-    <release>8.4.0</release>
+    <latest>8.4.1</latest>
+    <release>8.4.1</release>
     <versions>
       <version>7.4.0.beta3</version>
       <version>7.4.0.rc1</version>
@@ -76,9 +76,10 @@
       <version>8.3.2</version>
       <version>8.3.3</version>
       <version>8.4.0</version>
+      <version>8.4.1</version>
       <version>7.4.8</version>
       <version>7.5.0.rc1</version>
     </versions>
-    <lastUpdated>20180426070918</lastUpdated>
+    <lastUpdated>20180504134404</lastUpdated>
   </versioning>
 </metadata>
