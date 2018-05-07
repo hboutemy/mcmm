@@ -3,8 +3,18 @@
   <plugins>
     <plugin>
       <name>Maven Jython packaging</name>
+      <prefix>com.github.yishenggudou.test</prefix>
+      <artifactId>com.github.yishenggudou.test</artifactId>
+    </plugin>
+    <plugin>
+      <name>jython-compile-maven-plugin</name>
       <prefix>jython-compile</prefix>
       <artifactId>jython-compile-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Jython packaging</name>
+      <prefix>jython</prefix>
+      <artifactId>mavenjython</artifactId>
     </plugin>
   </plugins>
 </metadata>
