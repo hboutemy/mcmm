@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-mongodb-cross-store</artifactId>
   <versioning>
-    <latest>2.0.6.RELEASE</latest>
-    <release>2.0.6.RELEASE</release>
+    <latest>2.0.7.RELEASE</latest>
+    <release>2.0.7.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -73,6 +73,7 @@
       <version>1.10.9.RELEASE</version>
       <version>1.10.10.RELEASE</version>
       <version>1.10.11.RELEASE</version>
+      <version>1.10.12.RELEASE</version>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.0.2.RELEASE</version>
@@ -80,7 +81,8 @@
       <version>2.0.4.RELEASE</version>
       <version>2.0.5.RELEASE</version>
       <version>2.0.6.RELEASE</version>
+      <version>2.0.7.RELEASE</version>
     </versions>
-    <lastUpdated>20180404153524</lastUpdated>
+    <lastUpdated>20180508133246</lastUpdated>
   </versioning>
 </metadata>
