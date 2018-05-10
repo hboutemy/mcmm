@@ -3,15 +3,16 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Celsius.SR1</latest>
-    <release>Celsius.SR1</release>
+    <latest>Celsius.SR2</latest>
+    <release>Celsius.SR2</release>
     <versions>
       <version>Avogadro.RELEASE</version>
       <version>Avogadro.SR1</version>
       <version>Bacon.RELEASE</version>
       <version>Celsius.RELEASE</version>
       <version>Celsius.SR1</version>
+      <version>Celsius.SR2</version>
     </versions>
-    <lastUpdated>20180104154116</lastUpdated>
+    <lastUpdated>20180509191227</lastUpdated>
   </versioning>
 </metadata>
