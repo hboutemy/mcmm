@@ -6,5 +6,10 @@
       <prefix>npefix</prefix>
       <artifactId>npefix-maven</artifactId>
     </plugin>
+    <plugin>
+      <name>Plugin to Automatically Fix failing test with Nopol and NPEFix</name>
+      <prefix>repair</prefix>
+      <artifactId>repair-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
