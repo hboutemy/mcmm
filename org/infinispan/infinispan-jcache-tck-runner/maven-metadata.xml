@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-jcache-tck-runner</artifactId>
   <versioning>
-    <latest>9.3.0.Alpha1</latest>
-    <release>9.3.0.Alpha1</release>
+    <latest>9.3.0.Beta1</latest>
+    <release>9.3.0.Beta1</release>
     <versions>
       <version>7.2.0.Beta1</version>
       <version>7.2.0.Beta2</version>
@@ -87,8 +87,10 @@
       <version>9.2.0.Final</version>
       <version>9.2.1.Final</version>
       <version>9.2.2.Final</version>
+      <version>9.2.3.Final</version>
       <version>9.3.0.Alpha1</version>
+      <version>9.3.0.Beta1</version>
     </versions>
-    <lastUpdated>20180502083704</lastUpdated>
+    <lastUpdated>20180511151334</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-hibernate-cache-commons</artifactId>
   <versioning>
-    <latest>9.3.0.Alpha1</latest>
-    <release>9.3.0.Alpha1</release>
+    <latest>9.3.0.Beta1</latest>
+    <release>9.3.0.Beta1</release>
     <versions>
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
@@ -12,8 +12,10 @@
       <version>9.2.0.Final</version>
       <version>9.2.1.Final</version>
       <version>9.2.2.Final</version>
+      <version>9.2.3.Final</version>
       <version>9.3.0.Alpha1</version>
+      <version>9.3.0.Beta1</version>
     </versions>
-    <lastUpdated>20180502070001</lastUpdated>
+    <lastUpdated>20180511151308</lastUpdated>
   </versioning>
 </metadata>
