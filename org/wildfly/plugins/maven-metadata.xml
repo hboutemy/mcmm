@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>wildfly-component-matrix</prefix>
+      <artifactId>wildfly-component-matrix-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Wildfly Extension Installer Maven Plugin</name>
       <prefix>wildfly-extension</prefix>
       <artifactId>wildfly-extension-maven-plugin</artifactId>

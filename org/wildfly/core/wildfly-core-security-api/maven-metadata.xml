@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-security-api</artifactId>
   <versioning>
-    <latest>5.0.0.Alpha7</latest>
-    <release>5.0.0.Alpha7</release>
+    <latest>5.0.0.Beta1</latest>
+    <release>5.0.0.Beta1</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -187,7 +187,8 @@
       <version>5.0.0.Alpha5</version>
       <version>5.0.0.Alpha6</version>
       <version>5.0.0.Alpha7</version>
+      <version>5.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20180508035634</lastUpdated>
+    <lastUpdated>20180514004605</lastUpdated>
   </versioning>
 </metadata>
