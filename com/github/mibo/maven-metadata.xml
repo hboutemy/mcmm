@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JAX-RS Documentation Maven Plugin</name>
+      <prefix>jaxrs-doc</prefix>
+      <artifactId>jaxrs-doc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
