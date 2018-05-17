@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-parent</artifactId>
   <versioning>
-    <latest>5.10.0.CR1</latest>
-    <release>5.10.0.CR1</release>
+    <latest>5.10.0.Final</latest>
+    <release>5.10.0.Final</release>
     <versions>
       <version>3.2.0.CR1</version>
       <version>3.2.0.Final</version>
@@ -137,7 +137,8 @@
       <version>5.10.0.Beta1</version>
       <version>5.10.0.Beta2</version>
       <version>5.10.0.CR1</version>
+      <version>5.10.0.Final</version>
     </versions>
-    <lastUpdated>20180504135306</lastUpdated>
+    <lastUpdated>20180516102249</lastUpdated>
   </versioning>
 </metadata>
