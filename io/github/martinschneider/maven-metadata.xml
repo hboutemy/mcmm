@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JUnit code generator for Cucumber tests</name>
+      <prefix>cucumber2junit</prefix>
+      <artifactId>cucumber2junit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
