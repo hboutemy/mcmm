@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure</groupId>
   <artifactId>azure-storage</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.1.0-Preview</latest>
+    <release>7.1.0-Preview</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0</version>
@@ -31,8 +31,9 @@
       <version>6.0.0</version>
       <version>6.1.0</version>
       <version>7.0.0</version>
+      <version>7.1.0-Preview</version>
       <version>1.3.0</version>
     </versions>
-    <lastUpdated>20180206175419</lastUpdated>
+    <lastUpdated>20180522231308</lastUpdated>
   </versioning>
 </metadata>
