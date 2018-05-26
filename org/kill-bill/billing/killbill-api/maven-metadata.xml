@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-api</artifactId>
   <versioning>
-    <latest>0.51.20</latest>
-    <release>0.51.20</release>
+    <latest>0.51.21</latest>
+    <release>0.51.21</release>
     <versions>
       <version>0.8.2</version>
       <version>0.8.3</version>
@@ -91,10 +91,11 @@
       <version>0.51.18</version>
       <version>0.51.19</version>
       <version>0.51.20</version>
+      <version>0.51.21</version>
       <version>0.15</version>
       <version>0.16</version>
       <version>0.17</version>
     </versions>
-    <lastUpdated>20180507200705</lastUpdated>
+    <lastUpdated>20180523044909</lastUpdated>
   </versioning>
 </metadata>

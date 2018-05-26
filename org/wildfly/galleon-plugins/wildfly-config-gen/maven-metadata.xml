@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-config-gen</artifactId>
   <versioning>
-    <latest>1.0.0.CR7</latest>
-    <release>1.0.0.CR7</release>
+    <latest>1.0.0.CR10</latest>
+    <release>1.0.0.CR10</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -33,7 +33,10 @@
       <version>1.0.0.CR5</version>
       <version>1.0.0.CR6</version>
       <version>1.0.0.CR7</version>
+      <version>1.0.0.CR8</version>
+      <version>1.0.0.CR9</version>
+      <version>1.0.0.CR10</version>
     </versions>
-    <lastUpdated>20180522194445</lastUpdated>
+    <lastUpdated>20180523172209</lastUpdated>
   </versioning>
 </metadata>
