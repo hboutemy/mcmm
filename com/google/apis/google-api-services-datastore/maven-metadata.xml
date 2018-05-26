@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-datastore</artifactId>
   <versioning>
-    <latest>v1-rev52-1.23.0</latest>
-    <release>v1-rev52-1.23.0</release>
+    <latest>v1-rev53-1.23.0</latest>
+    <release>v1-rev53-1.23.0</release>
     <versions>
       <version>v1beta1-rev1-1.13.2-beta</version>
       <version>v1beta1-rev1-1.14.2-beta</version>
@@ -268,6 +268,10 @@
       <version>v1beta1-rev66-1.21.0</version>
       <version>v1beta1-rev66-1.22.0</version>
       <version>v1beta1-rev66-1.23.0</version>
+      <version>v1beta1-rev67-1.18.0-rc</version>
+      <version>v1beta1-rev67-1.21.0</version>
+      <version>v1beta1-rev67-1.22.0</version>
+      <version>v1beta1-rev67-1.23.0</version>
       <version>v1beta2-rev2-1.14.2-beta</version>
       <version>v1beta2-rev2-1.15.0-rc</version>
       <version>v1beta2-rev2-1.16.0-rc</version>
@@ -642,6 +646,10 @@
       <version>v1beta3-rev60-1.21.0</version>
       <version>v1beta3-rev60-1.22.0</version>
       <version>v1beta3-rev60-1.23.0</version>
+      <version>v1beta3-rev61-1.18.0-rc</version>
+      <version>v1beta3-rev61-1.21.0</version>
+      <version>v1beta3-rev61-1.22.0</version>
+      <version>v1beta3-rev61-1.23.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -835,7 +843,11 @@
       <version>v1-rev52-1.21.0</version>
       <version>v1-rev52-1.22.0</version>
       <version>v1-rev52-1.23.0</version>
+      <version>v1-rev53-1.18.0-rc</version>
+      <version>v1-rev53-1.21.0</version>
+      <version>v1-rev53-1.22.0</version>
+      <version>v1-rev53-1.23.0</version>
     </versions>
-    <lastUpdated>20180517232443</lastUpdated>
+    <lastUpdated>20180525040719</lastUpdated>
   </versioning>
 </metadata>
