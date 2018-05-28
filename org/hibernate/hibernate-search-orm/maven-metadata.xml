@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-orm</artifactId>
   <versioning>
-    <latest>5.10.0.Final</latest>
-    <release>5.10.0.Final</release>
+    <latest>5.10.1.Final</latest>
+    <release>5.10.1.Final</release>
     <versions>
       <version>4.0.0.Beta2</version>
       <version>4.0.0.CR1</version>
@@ -118,7 +118,8 @@
       <version>5.10.0.Beta2</version>
       <version>5.10.0.CR1</version>
       <version>5.10.0.Final</version>
+      <version>5.10.1.Final</version>
     </versions>
-    <lastUpdated>20180516102248</lastUpdated>
+    <lastUpdated>20180527144201</lastUpdated>
   </versioning>
 </metadata>
