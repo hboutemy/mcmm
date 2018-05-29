@@ -6,5 +6,10 @@
       <prefix>punner</prefix>
       <artifactId>punner</artifactId>
     </plugin>
+    <plugin>
+      <name>punner</name>
+      <prefix>punner</prefix>
+      <artifactId>punner-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
