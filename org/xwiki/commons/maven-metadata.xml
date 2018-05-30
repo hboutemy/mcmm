@@ -7,6 +7,11 @@
       <artifactId>xwiki-commons-tool-extension-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>XWiki Commons - Tools - Remote Resource Plugin</name>
+      <prefix>xwiki-commons-tool-remote-resource</prefix>
+      <artifactId>xwiki-commons-tool-remote-resource-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>XWiki Commons - Tools - XAR Tools - XAR Plugin</name>
       <prefix>xwiki-commons-tool-xar</prefix>
       <artifactId>xwiki-commons-tool-xar-plugin</artifactId>
