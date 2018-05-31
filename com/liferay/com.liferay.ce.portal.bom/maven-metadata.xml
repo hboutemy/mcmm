@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.ce.portal.bom</artifactId>
   <versioning>
-    <latest>7.0.5</latest>
-    <release>7.0.5</release>
+    <latest>7.0.6</latest>
+    <release>7.0.6</release>
     <versions>
-      <version>7.0-GA7</version>
       <version>7.0.5</version>
+      <version>7.0.6</version>
+      <version>7.0-GA7</version>
     </versions>
-    <lastUpdated>20180524221242</lastUpdated>
+    <lastUpdated>20180530175512</lastUpdated>
   </versioning>
 </metadata>
