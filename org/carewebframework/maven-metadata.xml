@@ -7,7 +7,7 @@
       <artifactId>org.carewebframework.mvn.plugin.helpconverter</artifactId>
     </plugin>
     <plugin>
-      <name>CWF Help Converter Maven Plugin</name>
+      <name>CareWeb Framework Help Converter Maven Plugin</name>
       <prefix>org.carewebframework.mvn..helpconverter</prefix>
       <artifactId>org.carewebframework.mvn.plugin.helpconverter</artifactId>
     </plugin>
@@ -17,7 +17,7 @@
       <artifactId>org.carewebframework.mvn.plugin.themegenerator</artifactId>
     </plugin>
     <plugin>
-      <name>CWF Theme Generator Maven Plugin</name>
+      <name>CareWeb Framework Theme Generator Maven Plugin</name>
       <prefix>org.carewebframework.mvn..themegenerator</prefix>
       <artifactId>org.carewebframework.mvn.plugin.themegenerator</artifactId>
     </plugin>

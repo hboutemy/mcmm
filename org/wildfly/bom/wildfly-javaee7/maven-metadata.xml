@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-javaee7</artifactId>
   <versioning>
-    <latest>13.0.0.Alpha5</latest>
-    <release>13.0.0.Alpha5</release>
+    <latest>13.0.0.Final</latest>
+    <release>13.0.0.Final</release>
     <versions>
       <version>10.0.0.CR3</version>
       <version>10.0.0.CR4</version>
@@ -27,7 +27,8 @@
       <version>13.0.0.Alpha2</version>
       <version>13.0.0.Alpha3</version>
       <version>13.0.0.Alpha5</version>
+      <version>13.0.0.Final</version>
     </versions>
-    <lastUpdated>20180326154523</lastUpdated>
+    <lastUpdated>20180531043223</lastUpdated>
   </versioning>
 </metadata>

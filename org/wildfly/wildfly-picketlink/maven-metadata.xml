@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-picketlink</artifactId>
   <versioning>
-    <latest>13.0.0.Beta1</latest>
-    <release>13.0.0.Beta1</release>
+    <latest>13.0.0.Final</latest>
+    <release>13.0.0.Final</release>
     <versions>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Beta1</version>
@@ -38,7 +38,8 @@
       <version>12.0.0.CR1</version>
       <version>12.0.0.Final</version>
       <version>13.0.0.Beta1</version>
+      <version>13.0.0.Final</version>
     </versions>
-    <lastUpdated>20180517223734</lastUpdated>
+    <lastUpdated>20180531042229</lastUpdated>
   </versioning>
 </metadata>

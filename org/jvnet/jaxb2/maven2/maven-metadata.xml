@@ -26,5 +26,10 @@
       <prefix>jaxb22</prefix>
       <artifactId>maven-jaxb22-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven JAXB 2.3.x Plugin</name>
+      <prefix>jaxb23</prefix>
+      <artifactId>maven-jaxb23-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
