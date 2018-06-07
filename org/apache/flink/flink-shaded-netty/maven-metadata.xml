@@ -3,13 +3,14 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-shaded-netty</artifactId>
   <versioning>
-    <latest>4.0.56.Final-3.0</latest>
-    <release>4.0.56.Final-3.0</release>
+    <latest>4.1.24.Final-4.0</latest>
+    <release>4.1.24.Final-4.0</release>
     <versions>
       <version>4.0.27.Final-1.0</version>
       <version>4.0.27.Final-2.0</version>
       <version>4.0.56.Final-3.0</version>
+      <version>4.1.24.Final-4.0</version>
     </versions>
-    <lastUpdated>20180228092541</lastUpdated>
+    <lastUpdated>20180606070009</lastUpdated>
   </versioning>
 </metadata>

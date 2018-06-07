@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>pre-commit Maven Plugin</name>
+      <prefix>pre-commit</prefix>
+      <artifactId>pre-commit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
