@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>atomicfu-maven-plugin</name>
       <prefix>atomicfu</prefix>
       <artifactId>atomicfu-maven-plugin</artifactId>
     </plugin>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.analytics.apim</groupId>
   <artifactId>org.wso2.analytics.apim.spark.feature</artifactId>
   <versioning>
-    <latest>2.5.0-Alpha</latest>
-    <release>2.5.0-Alpha</release>
+    <latest>2.5.0.Beta</latest>
+    <release>2.5.0.Beta</release>
     <versions>
       <version>2.1.0-update2</version>
       <version>2.1.0-update3</version>
@@ -21,7 +21,8 @@
       <version>2.2.0-update1</version>
       <version>2.2.0-update2</version>
       <version>2.5.0-Alpha</version>
+      <version>2.5.0.Beta</version>
     </versions>
-    <lastUpdated>20180601114756</lastUpdated>
+    <lastUpdated>20180607135245</lastUpdated>
   </versioning>
 </metadata>
