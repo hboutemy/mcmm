@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>xml-cleanup-maven-plugin</name>
+      <prefix>xml-cleanup</prefix>
+      <artifactId>xml-cleanup-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

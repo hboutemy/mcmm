@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>i18n-maven-plugin Maven Plugin</name>
+      <prefix>i18n</prefix>
+      <artifactId>i18n-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>osgi-target-maven-plugin Maven Plugin</name>
       <prefix>osgi-target</prefix>
       <artifactId>osgi-target-maven-plugin</artifactId>
