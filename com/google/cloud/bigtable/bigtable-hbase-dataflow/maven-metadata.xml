@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.bigtable</groupId>
   <artifactId>bigtable-hbase-dataflow</artifactId>
   <versioning>
-    <latest>1.3.0</latest>
-    <release>1.3.0</release>
+    <latest>1.4.0</latest>
+    <release>1.4.0</release>
     <versions>
       <version>0.2.1</version>
       <version>0.2.2</version>
@@ -29,7 +29,8 @@
       <version>1.0.0-pre3</version>
       <version>1.0.0-pre4</version>
       <version>1.3.0</version>
+      <version>1.4.0</version>
     </versions>
-    <lastUpdated>20180322213830</lastUpdated>
+    <lastUpdated>20180611131916</lastUpdated>
   </versioning>
 </metadata>
