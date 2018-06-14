@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>emjar-maven-plugin -- for building executable embedded jar files</name>
+      <prefix>emjar</prefix>
+      <artifactId>emjar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>protoc-bundled-plugin -- Batteries included Maven Protobuf compiler Plugin</name>
+      <prefix>protoc-bundled</prefix>
+      <artifactId>protoc-bundled-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

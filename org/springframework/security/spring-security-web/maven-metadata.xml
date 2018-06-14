@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-web</artifactId>
   <versioning>
-    <latest>5.0.5.RELEASE</latest>
-    <release>5.0.5.RELEASE</release>
+    <latest>5.0.6.RELEASE</latest>
+    <release>5.0.6.RELEASE</release>
     <versions>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
@@ -52,13 +52,15 @@
       <version>4.2.4.RELEASE</version>
       <version>4.2.5.RELEASE</version>
       <version>4.2.6.RELEASE</version>
+      <version>4.2.7.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
       <version>5.0.3.RELEASE</version>
       <version>5.0.4.RELEASE</version>
       <version>5.0.5.RELEASE</version>
+      <version>5.0.6.RELEASE</version>
     </versions>
-    <lastUpdated>20180508173428</lastUpdated>
+    <lastUpdated>20180613030934</lastUpdated>
   </versioning>
 </metadata>
