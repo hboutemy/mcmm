@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk-codegen-maven-plugin</artifactId>
   <versioning>
-    <latest>1.11.346</latest>
-    <release>1.11.346</release>
+    <latest>1.11.347</latest>
+    <release>1.11.347</release>
     <versions>
       <version>1.10.70</version>
       <version>1.10.71</version>
@@ -363,7 +363,8 @@
       <version>1.11.344</version>
       <version>1.11.345</version>
       <version>1.11.346</version>
+      <version>1.11.347</version>
     </versions>
-    <lastUpdated>20180613002412</lastUpdated>
+    <lastUpdated>20180614003427</lastUpdated>
   </versioning>
 </metadata>

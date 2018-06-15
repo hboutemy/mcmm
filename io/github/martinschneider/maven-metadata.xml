@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>aws-devicefarm-maven-plugin</name>
+      <prefix>aws-devicefarm</prefix>
+      <artifactId>aws-devicefarm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JUnit code generator for Cucumber tests</name>
       <prefix>cucumber2junit</prefix>
       <artifactId>cucumber2junit-maven-plugin</artifactId>
