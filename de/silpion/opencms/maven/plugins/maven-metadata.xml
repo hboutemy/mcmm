@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>OpenCms CmsShell Maven Plugin</name>
+      <prefix>opencms-cmsshell</prefix>
+      <artifactId>opencms-cmsshell-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>OpenCms Maven Plugin</name>
       <prefix>opencms</prefix>
       <artifactId>opencms-maven-plugin</artifactId>

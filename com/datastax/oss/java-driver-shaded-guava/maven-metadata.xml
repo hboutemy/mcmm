@@ -3,11 +3,12 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-shaded-guava</artifactId>
   <versioning>
-    <latest>24.1-jre</latest>
-    <release>24.1-jre</release>
+    <latest>25.1-jre</latest>
+    <release>25.1-jre</release>
     <versions>
       <version>24.1-jre</version>
+      <version>25.1-jre</version>
     </versions>
-    <lastUpdated>20180330184031</lastUpdated>
+    <lastUpdated>20180615215545</lastUpdated>
   </versioning>
 </metadata>
