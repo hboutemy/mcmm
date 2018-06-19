@@ -6,5 +6,9 @@
       <prefix>datamodel</prefix>
       <artifactId>datamodel-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>solr-runner</prefix>
+      <artifactId>solr-runner-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

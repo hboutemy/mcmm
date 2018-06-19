@@ -11,5 +11,10 @@
       <prefix></prefix>
       <artifactId>plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>TypeSafeSQL Maven Plugin</name>
+      <prefix>typesafesql</prefix>
+      <artifactId>typesafesql-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
