@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Flow code generator</name>
+      <prefix>flow-code-generator</prefix>
+      <artifactId>flow-code-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Flow Maven plugin</name>
+      <prefix>flow</prefix>
+      <artifactId>flow-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Vaadin Plug-in for Maven</name>
       <prefix>vaadin</prefix>
       <artifactId>vaadin-maven-plugin</artifactId>
