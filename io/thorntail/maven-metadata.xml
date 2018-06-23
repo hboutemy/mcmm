@@ -6,5 +6,10 @@
       <prefix>thorntail-fraction</prefix>
       <artifactId>thorntail-fraction-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Plugin for Maven</name>
+      <prefix>thorntail</prefix>
+      <artifactId>thorntail-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
