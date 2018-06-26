@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Tycho Document Bundle Plugin</name>
+      <prefix>tycho-document-bundle</prefix>
+      <artifactId>tycho-document-bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho Target Platform Refresh Plugin</name>
       <prefix>tycho-tp-refresh</prefix>
       <artifactId>tycho-tp-refresh-maven-plugin</artifactId>
