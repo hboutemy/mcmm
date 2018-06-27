@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>SonarQube rule.xml generator</name>
       <prefix>rule-xml</prefix>
       <artifactId>rule-xml-maven-plugin</artifactId>
     </plugin>
