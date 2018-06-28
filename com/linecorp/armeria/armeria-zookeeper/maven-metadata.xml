@@ -3,8 +3,8 @@
   <groupId>com.linecorp.armeria</groupId>
   <artifactId>armeria-zookeeper</artifactId>
   <versioning>
-    <latest>0.66.0</latest>
-    <release>0.66.0</release>
+    <latest>0.67.1</latest>
+    <release>0.67.1</release>
     <versions>
       <version>0.32.0</version>
       <version>0.33.0</version>
@@ -60,7 +60,9 @@
       <version>0.65.0</version>
       <version>0.65.1</version>
       <version>0.66.0</version>
+      <version>0.67.0</version>
+      <version>0.67.1</version>
     </versions>
-    <lastUpdated>20180615040219</lastUpdated>
+    <lastUpdated>20180627140543</lastUpdated>
   </versioning>
 </metadata>
