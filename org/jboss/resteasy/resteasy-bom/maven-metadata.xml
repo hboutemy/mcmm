@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-bom</artifactId>
   <versioning>
-    <latest>4.0.0.Beta3</latest>
-    <release>4.0.0.Beta3</release>
+    <latest>4.0.0.Beta4</latest>
+    <release>4.0.0.Beta4</release>
     <versions>
       <version>1.2.GA</version>
       <version>1.2.1.GA</version>
@@ -83,10 +83,12 @@
       <version>3.5.0.Final</version>
       <version>3.5.1.Final</version>
       <version>3.6.0.CR1</version>
+      <version>3.6.0.Final</version>
       <version>4.0.0.Beta1</version>
       <version>4.0.0.Beta2</version>
       <version>4.0.0.Beta3</version>
+      <version>4.0.0.Beta4</version>
     </versions>
-    <lastUpdated>20180625135322</lastUpdated>
+    <lastUpdated>20180629071503</lastUpdated>
   </versioning>
 </metadata>
