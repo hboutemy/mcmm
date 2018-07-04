@@ -6,5 +6,10 @@
       <prefix>xsl-generator</prefix>
       <artifactId>maven-xsl-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven RelaxNg Simplifier</name>
+      <prefix>relaxng-schema-simplifier</prefix>
+      <artifactId>relaxng-schema-simplifier</artifactId>
+    </plugin>
   </plugins>
 </metadata>

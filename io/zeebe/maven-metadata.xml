@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Zeebe Git Hooks Maven Plugin</name>
+      <prefix>zb-githooks</prefix>
+      <artifactId>zb-githooks-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

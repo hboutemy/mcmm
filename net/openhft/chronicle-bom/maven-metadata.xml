@@ -3,8 +3,8 @@
   <groupId>net.openhft</groupId>
   <artifactId>chronicle-bom</artifactId>
   <versioning>
-    <latest>1.16.95</latest>
-    <release>1.16.95</release>
+    <latest>1.16.99</latest>
+    <release>1.16.99</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -717,6 +717,8 @@
       <version>1.15.366</version>
       <version>1.15.367</version>
       <version>1.15.368</version>
+      <version>1.15.369</version>
+      <version>1.15.370</version>
       <version>1.16.0</version>
       <version>1.16.1</version>
       <version>1.16.2</version>
@@ -812,7 +814,11 @@
       <version>1.16.93</version>
       <version>1.16.94</version>
       <version>1.16.95</version>
+      <version>1.16.96</version>
+      <version>1.16.97</version>
+      <version>1.16.98</version>
+      <version>1.16.99</version>
     </versions>
-    <lastUpdated>20180702211111</lastUpdated>
+    <lastUpdated>20180703161039</lastUpdated>
   </versioning>
 </metadata>

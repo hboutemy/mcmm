@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Buckminster to Tycho Migrator Maven Plugin</name>
+      <prefix>buckminster-tycho-migrator</prefix>
+      <artifactId>buckminster-tycho-migrator</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho Document Bundle Plugin</name>
       <prefix>tycho-document-bundle</prefix>
       <artifactId>tycho-document-bundle-plugin</artifactId>
