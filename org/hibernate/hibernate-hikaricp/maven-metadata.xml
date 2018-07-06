@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-hikaricp</artifactId>
   <versioning>
-    <latest>5.3.0.Beta1</latest>
-    <release>5.3.0.Beta1</release>
+    <latest>5.3.2.Final</latest>
+    <release>5.3.2.Final</release>
     <versions>
       <version>4.3.6.Final</version>
       <version>4.3.7.Final</version>
@@ -44,8 +44,6 @@
       <version>5.1.10.Final</version>
       <version>5.1.11.Final</version>
       <version>5.1.12.Final</version>
-      <version>5.1.13.Final</version>
-      <version>5.1.14.Final</version>
       <version>5.2.0.Final</version>
       <version>5.2.1.Final</version>
       <version>5.2.2.Final</version>
@@ -59,18 +57,22 @@
       <version>5.2.10.Final</version>
       <version>5.2.11.Final</version>
       <version>5.2.12.Final</version>
-      <version>5.2.13.Final</version>
-      <version>5.2.14.Final</version>
-      <version>5.2.15.Final</version>
-      <version>5.2.16.Final</version>
-      <version>5.2.17.Final</version>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
       <version>5.3.0.CR1</version>
       <version>5.3.0.CR2</version>
       <version>5.3.0.Final</version>
       <version>5.3.1.Final</version>
+      <version>5.3.2.Final</version>
+      <version>5.1.13.Final</version>
+      <version>5.1.14.Final</version>
+      <version>5.1.15.Final</version>
+      <version>5.2.13.Final</version>
+      <version>5.2.14.Final</version>
+      <version>5.2.15.Final</version>
+      <version>5.2.16.Final</version>
+      <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20180511211434</lastUpdated>
+    <lastUpdated>20180705140419</lastUpdated>
   </versioning>
 </metadata>

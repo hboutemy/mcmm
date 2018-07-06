@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ccl-maven-plugin Maven Mojo</name>
+      <prefix>ccl</prefix>
+      <artifactId>ccl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>cerreal-maven-plugin Maven Mojo</name>
+      <prefix>cerreal</prefix>
+      <artifactId>cerreal-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

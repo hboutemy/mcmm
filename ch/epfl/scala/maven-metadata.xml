@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>maven-bloop</name>
+      <prefix>bloop_2.10</prefix>
+      <artifactId>maven-bloop_2.10</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-bloop</name>
       <prefix>bloop_2.12</prefix>
       <artifactId>maven-bloop_2.12</artifactId>
     </plugin>

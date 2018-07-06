@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>aws-devicefarm-maven-plugin</name>
+      <prefix>aws-devicefarm</prefix>
+      <artifactId>aws-devicefarm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven plugin to create test runs on Testrails</name>
       <prefix>testrail</prefix>
       <artifactId>testrail-maven-plugin</artifactId>
