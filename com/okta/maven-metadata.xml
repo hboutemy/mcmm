@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>Okta Doc List Maven Plugin</name>
+      <prefix>okta-code-snippet</prefix>
+      <artifactId>okta-code-snippet-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Okta Doc List Maven Plugin</name>
       <prefix>okta-doclist</prefix>
       <artifactId>okta-doclist-maven-plugin</artifactId>
     </plugin>
