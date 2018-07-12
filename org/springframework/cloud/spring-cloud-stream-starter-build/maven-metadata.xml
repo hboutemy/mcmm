@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-starter-build</artifactId>
   <versioning>
-    <latest>Elmhurst.RELEASE</latest>
-    <release>Elmhurst.RELEASE</release>
+    <latest>Elmhurst.SR1</latest>
+    <release>Elmhurst.SR1</release>
     <versions>
       <version>Brooklyn.RELEASE</version>
       <version>Brooklyn.SR1</version>
@@ -18,7 +18,8 @@
       <version>Ditmars.SR3</version>
       <version>Ditmars.SR4</version>
       <version>Elmhurst.RELEASE</version>
+      <version>Elmhurst.SR1</version>
     </versions>
-    <lastUpdated>20180613020447</lastUpdated>
+    <lastUpdated>20180711234052</lastUpdated>
   </versioning>
 </metadata>
