@@ -6,5 +6,10 @@
       <prefix>infinispan-defaults</prefix>
       <artifactId>infinispan-defaults-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Protocol Parser Generator Maven Plugin</name>
+      <prefix>infinispan-protocol-parser-generator</prefix>
+      <artifactId>infinispan-protocol-parser-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

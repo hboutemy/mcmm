@@ -3,9 +3,10 @@
   <groupId>org.arquillian.cube</groupId>
   <artifactId>arquillian-cube-istio-kubernetes</artifactId>
   <versioning>
-    <latest>1.16.0</latest>
-    <release>1.16.0</release>
+    <latest>1.17.0</latest>
+    <release>1.17.0</release>
     <versions>
+      <version>1.17.0</version>
       <version>1.14.0</version>
       <version>1.15.0</version>
       <version>1.15.1</version>
@@ -13,6 +14,6 @@
       <version>1.15.3</version>
       <version>1.16.0</version>
     </versions>
-    <lastUpdated>20180613164310</lastUpdated>
+    <lastUpdated>20180713141521</lastUpdated>
   </versioning>
 </metadata>
