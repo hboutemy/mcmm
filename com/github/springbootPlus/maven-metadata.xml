@@ -4,6 +4,11 @@
     <plugin>
       <name>codinghelper</name>
       <prefix>coder</prefix>
+      <artifactId>coder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>codinghelper</name>
+      <prefix>coder</prefix>
       <artifactId>maven-coder-plugin</artifactId>
     </plugin>
   </plugins>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AWS p2 Maven Plugin</name>
+      <prefix>aws-p2</prefix>
+      <artifactId>aws-p2-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
