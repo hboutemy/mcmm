@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Darwin.RELEASE</latest>
-    <release>Darwin.RELEASE</release>
+    <latest>Darwin.SR1</latest>
+    <release>Darwin.SR1</release>
     <versions>
       <version>Avogadro.RELEASE</version>
       <version>Avogadro.SR1</version>
@@ -14,7 +14,8 @@
       <version>Celsius.SR2</version>
       <version>Celsius.SR3</version>
       <version>Darwin.RELEASE</version>
+      <version>Darwin.SR1</version>
     </versions>
-    <lastUpdated>20180622224407</lastUpdated>
+    <lastUpdated>20180716212525</lastUpdated>
   </versioning>
 </metadata>

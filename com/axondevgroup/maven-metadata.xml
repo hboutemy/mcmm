@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-git-policy Maven Mojo</name>
+      <prefix>git-policy</prefix>
+      <artifactId>maven-git-policy</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
