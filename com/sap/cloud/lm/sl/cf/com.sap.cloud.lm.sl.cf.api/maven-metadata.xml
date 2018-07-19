@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud.lm.sl.cf</groupId>
   <artifactId>com.sap.cloud.lm.sl.cf.api</artifactId>
   <versioning>
-    <latest>1.61.0</latest>
-    <release>1.61.0</release>
+    <latest>1.62.1</latest>
+    <release>1.62.1</release>
     <versions>
       <version>1.49.0</version>
       <version>1.50.0</version>
@@ -24,6 +24,7 @@
       <version>1.54.5</version>
       <version>1.54.6</version>
       <version>1.54.7</version>
+      <version>1.54.8</version>
       <version>1.55.0</version>
       <version>1.56.0</version>
       <version>1.56.1</version>
@@ -44,7 +45,9 @@
       <version>1.59.3</version>
       <version>1.60.0</version>
       <version>1.61.0</version>
+      <version>1.62.0</version>
+      <version>1.62.1</version>
     </versions>
-    <lastUpdated>20180704110027</lastUpdated>
+    <lastUpdated>20180718114636</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.gcloud</groupId>
   <artifactId>gcloud-parent</artifactId>
   <versioning>
-    <latest>9.4.11.v20180605</latest>
-    <release>9.4.11.v20180605</release>
+    <latest>9.4.12.RC0</latest>
+    <release>9.4.12.RC0</release>
     <versions>
       <version>9.3.5.v20151012</version>
       <version>9.3.6.v20151106</version>
@@ -66,7 +66,8 @@
       <version>9.4.10.RC1</version>
       <version>9.4.10.v20180503</version>
       <version>9.4.11.v20180605</version>
+      <version>9.4.12.RC0</version>
     </versions>
-    <lastUpdated>20180622153047</lastUpdated>
+    <lastUpdated>20180718160831</lastUpdated>
   </versioning>
 </metadata>
