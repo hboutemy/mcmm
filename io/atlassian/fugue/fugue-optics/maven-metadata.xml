@@ -3,11 +3,13 @@
   <groupId>io.atlassian.fugue</groupId>
   <artifactId>fugue-optics</artifactId>
   <versioning>
-    <latest>4.6.2</latest>
-    <release>4.6.2</release>
+    <latest>4.7.1</latest>
+    <release>4.7.1</release>
     <versions>
       <version>4.6.1</version>
       <version>4.6.2</version>
+      <version>4.7.0</version>
+      <version>4.7.1</version>
       <version>4.0.0</version>
       <version>4.0.0-rc1</version>
       <version>4.0.1</version>
@@ -21,6 +23,6 @@
       <version>4.5.0</version>
       <version>4.5.1</version>
     </versions>
-    <lastUpdated>20180531071552</lastUpdated>
+    <lastUpdated>20180719033942</lastUpdated>
   </versioning>
 </metadata>
