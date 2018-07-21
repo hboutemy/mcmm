@@ -17,6 +17,11 @@
       <artifactId>syndesis-build-helper-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Documentation :: Maven plugin</name>
+      <prefix>syndesis-documentation</prefix>
+      <artifactId>syndesis-documentation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>REST :: Maven Plugin</name>
       <prefix>syndesis</prefix>
       <artifactId>syndesis-maven-plugin</artifactId>
