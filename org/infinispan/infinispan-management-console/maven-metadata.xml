@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-management-console</artifactId>
   <versioning>
@@ -30,7 +30,7 @@
       <version>9.0.0.CR2</version>
       <version>9.0.0.CR3</version>
       <version>9.0.0.CR4</version>
-      <version>9.0.0</version>
+      <version>9.0.0.Final</version>
       <version>9.0.1.Final</version>
       <version>9.1.0.Alpha1</version>
       <version>9.1.0.CR1</version>
@@ -47,8 +47,8 @@
       <version>9.3.0.Final</version>
       <version>9.3.1.Final</version>
       <version>9.4.0.Alpha1</version>
-      <version>9.0.0.Final</version>
+      <version>9.0.0</version>
     </versions>
-    <lastUpdated>20180713133741</lastUpdated>
+    <lastUpdated>20180724054618</lastUpdated>
   </versioning>
 </metadata>

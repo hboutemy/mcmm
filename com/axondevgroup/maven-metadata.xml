@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>maven-git-policy Maven Mojo</name>
+      <prefix>contribgit-policy</prefix>
+      <artifactId>contrib-maven-git-policy</artifactId>
+    </plugin>
+    <plugin>
+      <name>maven-git-policy Maven Mojo</name>
       <prefix>git-policy</prefix>
       <artifactId>maven-git-policy</artifactId>
     </plugin>

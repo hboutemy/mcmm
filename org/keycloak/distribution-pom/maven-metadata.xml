@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.keycloak</groupId>
   <artifactId>distribution-pom</artifactId>
   <versioning>
@@ -8,7 +8,7 @@
     <versions>
       <version>1.3.1.Final</version>
       <version>1.4.0.Final</version>
-      <version>1.5.0-Final</version>
+      <version>1.5.0.Final</version>
       <version>1.5.1.Final</version>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -20,8 +20,8 @@
       <version>1.8.0.CR3</version>
       <version>1.8.0.Final</version>
       <version>1.8.1.Final</version>
-      <version>1.5.0.Final</version>
+      <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20160204090318</lastUpdated>
+    <lastUpdated>20180724043815</lastUpdated>
   </versioning>
 </metadata>

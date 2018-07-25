@@ -6,5 +6,10 @@
       <prefix>jdeps</prefix>
       <artifactId>jdeps-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Truststore Maven Plugin</name>
+      <prefix>truststore</prefix>
+      <artifactId>truststore-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

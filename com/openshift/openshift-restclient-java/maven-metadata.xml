@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.openshift</groupId>
   <artifactId>openshift-restclient-java</artifactId>
   <versioning>
@@ -9,7 +9,7 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>4.0.0.Final</version>
-      <version>4.0.1-FINAL</version>
+      <version>4.0.1.Final</version>
       <version>4.0.2.Final</version>
       <version>4.0.3.Final</version>
       <version>4.0.4.Final</version>
@@ -32,8 +32,8 @@
       <version>6.0.1.Final</version>
       <version>6.1.0.Final</version>
       <version>6.1.1.Final</version>
-      <version>4.0.1.Final</version>
+      <version>4.0.1-FINAL</version>
     </versions>
-    <lastUpdated>20180705222622</lastUpdated>
+    <lastUpdated>20180724021504</lastUpdated>
   </versioning>
 </metadata>
