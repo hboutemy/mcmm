@@ -3,14 +3,15 @@
   <groupId>org.springframework.cloud.task.app</groupId>
   <artifactId>task-app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Clark.SR1</latest>
-    <release>Clark.SR1</release>
+    <latest>Dearborn.RELEASE</latest>
+    <release>Dearborn.RELEASE</release>
     <versions>
       <version>Addison.RELEASE</version>
       <version>Belmont.RELEASE</version>
       <version>Clark.RELEASE</version>
       <version>Clark.SR1</version>
+      <version>Dearborn.RELEASE</version>
     </versions>
-    <lastUpdated>20180516164855</lastUpdated>
+    <lastUpdated>20180726132234</lastUpdated>
   </versioning>
 </metadata>
