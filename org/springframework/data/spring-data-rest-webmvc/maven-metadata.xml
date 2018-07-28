@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-rest-webmvc</artifactId>
   <versioning>
-    <latest>3.0.8.RELEASE</latest>
-    <release>3.0.8.RELEASE</release>
+    <latest>3.0.9.RELEASE</latest>
+    <release>3.0.9.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>2.0.0.RELEASE</version>
@@ -57,6 +57,7 @@
       <version>2.6.11.RELEASE</version>
       <version>2.6.12.RELEASE</version>
       <version>2.6.13.RELEASE</version>
+      <version>2.6.14.RELEASE</version>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
       <version>3.0.2.RELEASE</version>
@@ -66,7 +67,8 @@
       <version>3.0.6.RELEASE</version>
       <version>3.0.7.RELEASE</version>
       <version>3.0.8.RELEASE</version>
+      <version>3.0.9.RELEASE</version>
     </versions>
-    <lastUpdated>20180613193828</lastUpdated>
+    <lastUpdated>20180727091544</lastUpdated>
   </versioning>
 </metadata>
