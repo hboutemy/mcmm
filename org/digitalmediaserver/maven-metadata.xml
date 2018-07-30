@@ -6,5 +6,10 @@
       <prefix>crowdin</prefix>
       <artifactId>crowdin-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>NSIS Maven Plugin</name>
+      <prefix>nsis</prefix>
+      <artifactId>nsis-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
