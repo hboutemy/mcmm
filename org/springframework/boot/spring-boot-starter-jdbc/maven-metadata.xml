@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-jdbc</artifactId>
   <versioning>
-    <latest>2.0.3.RELEASE</latest>
-    <release>2.0.3.RELEASE</release>
+    <latest>2.0.4.RELEASE</latest>
+    <release>2.0.4.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -63,11 +63,13 @@
       <version>1.5.12.RELEASE</version>
       <version>1.5.13.RELEASE</version>
       <version>1.5.14.RELEASE</version>
+      <version>1.5.15.RELEASE</version>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.0.2.RELEASE</version>
       <version>2.0.3.RELEASE</version>
+      <version>2.0.4.RELEASE</version>
     </versions>
-    <lastUpdated>20180614193537</lastUpdated>
+    <lastUpdated>20180730161907</lastUpdated>
   </versioning>
 </metadata>
