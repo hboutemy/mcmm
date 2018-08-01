@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Galleon Maven Plugin</name>
+      <prefix>galleon</prefix>
+      <artifactId>galleon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Galleon Maven plugins</name>
+      <prefix>galleons</prefix>
+      <artifactId>galleon-maven-plugins</artifactId>
+    </plugin>
+    <plugin>
+      <name>Galleon feature pack building Maven plugin</name>
+      <prefix>galleon-pack-build</prefix>
+      <artifactId>galleon-pack-build-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
