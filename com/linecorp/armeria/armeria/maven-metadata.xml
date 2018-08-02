@@ -3,8 +3,8 @@
   <groupId>com.linecorp.armeria</groupId>
   <artifactId>armeria</artifactId>
   <versioning>
-    <latest>0.68.0</latest>
-    <release>0.68.0</release>
+    <latest>0.68.2</latest>
+    <release>0.68.2</release>
     <versions>
       <version>0.4.0.Final</version>
       <version>0.5.0.Final</version>
@@ -117,7 +117,9 @@
       <version>0.67.1</version>
       <version>0.67.2</version>
       <version>0.68.0</version>
+      <version>0.68.1</version>
+      <version>0.68.2</version>
     </versions>
-    <lastUpdated>20180730064836</lastUpdated>
+    <lastUpdated>20180801093102</lastUpdated>
   </versioning>
 </metadata>
