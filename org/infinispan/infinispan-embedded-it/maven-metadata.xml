@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-embedded-it</artifactId>
   <versioning>
-    <latest>9.4.0.Alpha1</latest>
-    <release>9.4.0.Alpha1</release>
+    <latest>9.4.0.Beta1</latest>
+    <release>9.4.0.Beta1</release>
     <versions>
       <version>7.0.0.Beta2</version>
       <version>7.0.0.CR1</version>
@@ -109,7 +109,8 @@
       <version>9.3.0.Final</version>
       <version>9.3.1.Final</version>
       <version>9.4.0.Alpha1</version>
+      <version>9.4.0.Beta1</version>
     </versions>
-    <lastUpdated>20180713210041</lastUpdated>
+    <lastUpdated>20180803200923</lastUpdated>
   </versioning>
 </metadata>
