@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Guardrail Maven Plugin</name>
+      <prefix>guardrail_2.12</prefix>
+      <artifactId>guardrail-maven-plugin_2.12</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
