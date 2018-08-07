@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-starter-eureka</artifactId>
   <versioning>
-    <latest>4.2.9</latest>
-    <release>4.2.9</release>
+    <latest>4.3.1</latest>
+    <release>4.3.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -64,6 +64,8 @@
       <version>3.5.7</version>
       <version>3.5.8</version>
       <version>3.5.9</version>
+      <version>3.6.0</version>
+      <version>3.6.1</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -94,7 +96,9 @@
       <version>4.2.7</version>
       <version>4.2.8</version>
       <version>4.2.9</version>
+      <version>4.3.0</version>
+      <version>4.3.1</version>
     </versions>
-    <lastUpdated>20180803153536</lastUpdated>
+    <lastUpdated>20180806095517</lastUpdated>
   </versioning>
 </metadata>
