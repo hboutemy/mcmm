@@ -7,6 +7,11 @@
       <artifactId>aws-devicefarm-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JUnit code generator for Cucumber tests</name>
+      <prefix>cucumber2junit</prefix>
+      <artifactId>cucumber2junit-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven plugin to create test runs on Testrails</name>
       <prefix>testrail</prefix>
       <artifactId>testrail-maven-plugin</artifactId>

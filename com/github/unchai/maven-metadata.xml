@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Checkstyle github pull request maven plugin</name>
+      <prefix>checkstyle-github</prefix>
+      <artifactId>checkstyle-github-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
