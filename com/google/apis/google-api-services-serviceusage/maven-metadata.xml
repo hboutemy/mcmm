@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-serviceusage</artifactId>
   <versioning>
-    <latest>v1-rev32-1.24.1</latest>
-    <release>v1-rev32-1.24.1</release>
+    <latest>v1-rev33-1.24.1</latest>
+    <release>v1-rev33-1.24.1</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.21.0</version>
@@ -237,6 +237,10 @@
       <version>v1beta1-rev79-1.22.0</version>
       <version>v1beta1-rev79-1.23.0</version>
       <version>v1beta1-rev79-1.24.1</version>
+      <version>v1beta1-rev80-1.18.0-rc</version>
+      <version>v1beta1-rev80-1.22.0</version>
+      <version>v1beta1-rev80-1.23.0</version>
+      <version>v1beta1-rev80-1.24.1</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.21.0</version>
       <version>v1-rev2-1.22.0</version>
@@ -313,7 +317,11 @@
       <version>v1-rev32-1.22.0</version>
       <version>v1-rev32-1.23.0</version>
       <version>v1-rev32-1.24.1</version>
+      <version>v1-rev33-1.18.0-rc</version>
+      <version>v1-rev33-1.22.0</version>
+      <version>v1-rev33-1.23.0</version>
+      <version>v1-rev33-1.24.1</version>
     </versions>
-    <lastUpdated>20180804081213</lastUpdated>
+    <lastUpdated>20180808051904</lastUpdated>
   </versioning>
 </metadata>

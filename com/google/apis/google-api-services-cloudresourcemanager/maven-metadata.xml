@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudresourcemanager</artifactId>
   <versioning>
-    <latest>v2-rev25-1.24.1</latest>
-    <release>v2-rev25-1.24.1</release>
+    <latest>v2-rev26-1.24.1</latest>
+    <release>v2-rev26-1.24.1</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.19.0</version>
@@ -463,6 +463,10 @@
       <version>v1beta1-rev502-1.22.0</version>
       <version>v1beta1-rev502-1.23.0</version>
       <version>v1beta1-rev502-1.24.1</version>
+      <version>v1beta1-rev503-1.18.0-rc</version>
+      <version>v1beta1-rev503-1.22.0</version>
+      <version>v1beta1-rev503-1.23.0</version>
+      <version>v1beta1-rev503-1.24.1</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.19.1</version>
       <version>v1-rev2-1.20.0</version>
@@ -898,6 +902,10 @@
       <version>v1-rev498-1.22.0</version>
       <version>v1-rev498-1.23.0</version>
       <version>v1-rev498-1.24.1</version>
+      <version>v1-rev499-1.18.0-rc</version>
+      <version>v1-rev499-1.22.0</version>
+      <version>v1-rev499-1.23.0</version>
+      <version>v1-rev499-1.24.1</version>
       <version>v2beta1-rev1-1.18.0-rc</version>
       <version>v2beta1-rev1-1.20.0</version>
       <version>v2beta1-rev1-1.21.0</version>
@@ -1072,6 +1080,10 @@
       <version>v2beta1-rev58-1.22.0</version>
       <version>v2beta1-rev58-1.23.0</version>
       <version>v2beta1-rev58-1.24.1</version>
+      <version>v2beta1-rev59-1.18.0-rc</version>
+      <version>v2beta1-rev59-1.22.0</version>
+      <version>v2beta1-rev59-1.23.0</version>
+      <version>v2beta1-rev59-1.24.1</version>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.21.0</version>
       <version>v2-rev1-1.22.0</version>
@@ -1149,7 +1161,11 @@
       <version>v2-rev25-1.22.0</version>
       <version>v2-rev25-1.23.0</version>
       <version>v2-rev25-1.24.1</version>
+      <version>v2-rev26-1.18.0-rc</version>
+      <version>v2-rev26-1.22.0</version>
+      <version>v2-rev26-1.23.0</version>
+      <version>v2-rev26-1.24.1</version>
     </versions>
-    <lastUpdated>20180803014349</lastUpdated>
+    <lastUpdated>20180808220427</lastUpdated>
   </versioning>
 </metadata>

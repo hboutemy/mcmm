@@ -11,5 +11,10 @@
       <prefix>io.wcm.qa.galenium.</prefix>
       <artifactId>io.wcm.qa.galenium.maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Galenium Galen Specs Maven Plugin</name>
+      <prefix>io.wcm.qa.galenium.specs</prefix>
+      <artifactId>io.wcm.qa.galenium.specs-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
