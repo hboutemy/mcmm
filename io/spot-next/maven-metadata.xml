@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>io.spot-next:spot-maven-plugin</name>
       <prefix>spot</prefix>
       <artifactId>spot-maven-plugin</artifactId>
     </plugin>
