@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-civicinfo</artifactId>
   <versioning>
-    <latest>v2-rev32-1.24.1</latest>
-    <release>v2-rev32-1.24.1</release>
+    <latest>v2-rev33-1.24.1</latest>
+    <release>v2-rev33-1.24.1</release>
     <versions>
       <version>us_v1-rev12-1.13.2-beta</version>
       <version>us_v1-rev12-1.14.1-beta</version>
@@ -386,7 +386,11 @@
       <version>v2-rev32-1.22.0</version>
       <version>v2-rev32-1.23.0</version>
       <version>v2-rev32-1.24.1</version>
+      <version>v2-rev33-1.18.0-rc</version>
+      <version>v2-rev33-1.22.0</version>
+      <version>v2-rev33-1.23.0</version>
+      <version>v2-rev33-1.24.1</version>
     </versions>
-    <lastUpdated>20180803013048</lastUpdated>
+    <lastUpdated>20180810135755</lastUpdated>
   </versioning>
 </metadata>

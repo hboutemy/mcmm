@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-validator-osgi-karaf-features</artifactId>
   <versioning>
-    <latest>6.0.11.Final</latest>
-    <release>6.0.11.Final</release>
+    <latest>6.0.12.Final</latest>
+    <release>6.0.12.Final</release>
     <versions>
       <version>5.2.0.Beta1</version>
       <version>5.2.0.CR1</version>
@@ -47,7 +47,8 @@
       <version>6.0.9.Final</version>
       <version>6.0.10.Final</version>
       <version>6.0.11.Final</version>
+      <version>6.0.12.Final</version>
     </versions>
-    <lastUpdated>20180718134725</lastUpdated>
+    <lastUpdated>20180810161903</lastUpdated>
   </versioning>
 </metadata>

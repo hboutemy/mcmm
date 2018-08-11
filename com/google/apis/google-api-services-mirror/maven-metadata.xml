@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-mirror</artifactId>
   <versioning>
-    <latest>v1-rev102-1.24.1</latest>
-    <release>v1-rev102-1.24.1</release>
+    <latest>v1-rev103-1.24.1</latest>
+    <release>v1-rev103-1.24.1</release>
     <versions>
       <version>v1-rev2-1.13.2-beta</version>
       <version>v1-rev2-1.14.1-beta</version>
@@ -357,8 +357,12 @@
       <version>v1-rev102-1.22.0</version>
       <version>v1-rev102-1.23.0</version>
       <version>v1-rev102-1.24.1</version>
+      <version>v1-rev103-1.18.0-rc</version>
+      <version>v1-rev103-1.22.0</version>
+      <version>v1-rev103-1.23.0</version>
+      <version>v1-rev103-1.24.1</version>
       <version>v1-rev14-1.15.0-rc</version>
     </versions>
-    <lastUpdated>20180803035912</lastUpdated>
+    <lastUpdated>20180810204829</lastUpdated>
   </versioning>
 </metadata>
