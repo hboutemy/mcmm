@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>dependencies-maven-plugin</name>
+      <prefix>dependencies</prefix>
+      <artifactId>dependencies-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>dependency-maven-plugin</name>
       <prefix>dependency</prefix>
       <artifactId>dependency-maven-plugin</artifactId>
