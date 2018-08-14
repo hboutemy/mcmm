@@ -32,7 +32,7 @@
       <artifactId>ph-sch2xslt-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>ph-schemnatron-maven-plugin</name>
+      <name>ph-schematron-maven-plugin</name>
       <prefix>ph-schematron</prefix>
       <artifactId>ph-schematron-maven-plugin</artifactId>
     </plugin>
