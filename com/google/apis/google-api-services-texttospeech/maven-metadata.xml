@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-texttospeech</artifactId>
   <versioning>
-    <latest>v1-rev3-1.24.1</latest>
-    <release>v1-rev3-1.24.1</release>
+    <latest>v1-rev4-1.24.1</latest>
+    <release>v1-rev4-1.24.1</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.21.0</version>
@@ -88,6 +88,10 @@
       <version>v1beta1-rev24-1.22.0</version>
       <version>v1beta1-rev24-1.23.0</version>
       <version>v1beta1-rev24-1.24.1</version>
+      <version>v1beta1-rev25-1.18.0-rc</version>
+      <version>v1beta1-rev25-1.22.0</version>
+      <version>v1beta1-rev25-1.23.0</version>
+      <version>v1beta1-rev25-1.24.1</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.22.0</version>
       <version>v1-rev2-1.23.0</version>
@@ -96,7 +100,11 @@
       <version>v1-rev3-1.22.0</version>
       <version>v1-rev3-1.23.0</version>
       <version>v1-rev3-1.24.1</version>
+      <version>v1-rev4-1.18.0-rc</version>
+      <version>v1-rev4-1.22.0</version>
+      <version>v1-rev4-1.23.0</version>
+      <version>v1-rev4-1.24.1</version>
     </versions>
-    <lastUpdated>20180807102038</lastUpdated>
+    <lastUpdated>20180814115051</lastUpdated>
   </versioning>
 </metadata>

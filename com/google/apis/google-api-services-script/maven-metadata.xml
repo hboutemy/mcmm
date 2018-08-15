@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-script</artifactId>
   <versioning>
-    <latest>v1-rev238-1.24.1</latest>
-    <release>v1-rev238-1.24.1</release>
+    <latest>v1-rev240-1.24.1</latest>
+    <release>v1-rev240-1.24.1</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
@@ -604,7 +604,11 @@
       <version>v1-rev238-1.22.0</version>
       <version>v1-rev238-1.23.0</version>
       <version>v1-rev238-1.24.1</version>
+      <version>v1-rev240-1.18.0-rc</version>
+      <version>v1-rev240-1.22.0</version>
+      <version>v1-rev240-1.23.0</version>
+      <version>v1-rev240-1.24.1</version>
     </versions>
-    <lastUpdated>20180810031422</lastUpdated>
+    <lastUpdated>20180814024035</lastUpdated>
   </versioning>
 </metadata>
