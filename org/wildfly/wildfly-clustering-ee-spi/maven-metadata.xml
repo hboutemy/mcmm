@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ee-spi</artifactId>
   <versioning>
-    <latest>14.0.0.Beta1</latest>
-    <release>14.0.0.Beta1</release>
+    <latest>14.0.0.Beta2</latest>
+    <release>14.0.0.Beta2</release>
     <versions>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Beta1</version>
@@ -39,7 +39,8 @@
       <version>12.0.0.Final</version>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
+      <version>14.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20180725134422</lastUpdated>
+    <lastUpdated>20180815232823</lastUpdated>
   </versioning>
 </metadata>
