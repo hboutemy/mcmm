@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-catalina-jmx-remote</artifactId>
   <versioning>
-    <latest>9.0.10</latest>
-    <release>9.0.10</release>
+    <latest>9.0.11</latest>
+    <release>9.0.11</release>
     <versions>
       <version>6.0.36</version>
       <version>6.0.37</version>
@@ -149,6 +149,7 @@
       <version>8.5.30</version>
       <version>8.5.31</version>
       <version>8.5.32</version>
+      <version>8.5.33</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -176,7 +177,8 @@
       <version>9.0.7</version>
       <version>9.0.8</version>
       <version>9.0.10</version>
+      <version>9.0.11</version>
     </versions>
-    <lastUpdated>20180706054942</lastUpdated>
+    <lastUpdated>20180817205033</lastUpdated>
   </versioning>
 </metadata>
