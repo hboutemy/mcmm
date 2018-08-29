@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Che Core :: API :: DTO Maven Plugin</name>
+      <prefix>che-core-api-dto</prefix>
+      <artifactId>che-core-api-dto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Che Core :: API :: Language Server Maven Plugin</name>
+      <prefix>che-core-api-languageserver</prefix>
+      <artifactId>che-core-api-languageserver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>che-core-dyna-provider-generator-maven-plugin Maven Mojo</name>
+      <prefix>che-core-dyna-provider-generator</prefix>
+      <artifactId>che-core-dyna-provider-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Che Core :: API :: DynaModule maven plugin</name>
+      <prefix>che-core-dynamodule</prefix>
+      <artifactId>che-core-dynamodule-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Che Core :: IDE :: GWT Maven Plugin</name>
+      <prefix>che-core-gwt</prefix>
+      <artifactId>che-core-gwt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Che Core :: API :: TypeScript DTO maven plugin</name>
+      <prefix>che-core-typescript-dto</prefix>
+      <artifactId>che-core-typescript-dto-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
