@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-adexchangeseller</artifactId>
   <versioning>
-    <latest>v2.0-rev114-1.24.1</latest>
-    <release>v2.0-rev114-1.24.1</release>
+    <latest>v2.0-rev114-1.25.0</latest>
+    <release>v2.0-rev114-1.25.0</release>
     <versions>
       <version>v1-rev28-1.13.2-beta</version>
       <version>v1-rev28-1.14.1-beta</version>
@@ -753,6 +753,7 @@
       <version>v1-rev221-1.22.0</version>
       <version>v1-rev221-1.23.0</version>
       <version>v1-rev221-1.24.1</version>
+      <version>v1-rev221-1.25.0</version>
       <version>v1.1-rev3-1.14.2-beta</version>
       <version>v1.1-rev3-1.15.0-rc</version>
       <version>v1.1-rev3-1.16.0-rc</version>
@@ -1386,6 +1387,7 @@
       <version>v1.1-rev150-1.22.0</version>
       <version>v1.1-rev150-1.23.0</version>
       <version>v1.1-rev150-1.24.1</version>
+      <version>v1.1-rev150-1.25.0</version>
       <version>v2.0-rev2-1.15.0-rc</version>
       <version>v2.0-rev2-1.16.0-rc</version>
       <version>v2.0-rev2-1.17.0-rc</version>
@@ -1870,9 +1872,10 @@
       <version>v2.0-rev114-1.22.0</version>
       <version>v2.0-rev114-1.23.0</version>
       <version>v2.0-rev114-1.24.1</version>
+      <version>v2.0-rev114-1.25.0</version>
       <version>v1-rev58-1.14.2-beta</version>
       <version>v1-rev72-1.16.0-rc</version>
     </versions>
-    <lastUpdated>20180810210232</lastUpdated>
+    <lastUpdated>20180824180939</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-blogger</artifactId>
   <versioning>
-    <latest>v3-rev61-1.24.1</latest>
-    <release>v3-rev61-1.24.1</release>
+    <latest>v3-rev61-1.25.0</latest>
+    <release>v3-rev61-1.25.0</release>
     <versions>
       <version>v2-rev16-1.13.2-beta</version>
       <version>v2-rev16-1.14.1-beta</version>
@@ -199,6 +199,7 @@
       <version>v2-rev65-1.22.0</version>
       <version>v2-rev65-1.23.0</version>
       <version>v2-rev65-1.24.1</version>
+      <version>v2-rev65-1.25.0</version>
       <version>v3-rev9-1.13.2-beta</version>
       <version>v3-rev9-1.14.1-beta</version>
       <version>v3-rev10-1.13.2-beta</version>
@@ -399,7 +400,8 @@
       <version>v3-rev61-1.22.0</version>
       <version>v3-rev61-1.23.0</version>
       <version>v3-rev61-1.24.1</version>
+      <version>v3-rev61-1.25.0</version>
     </versions>
-    <lastUpdated>20180810133555</lastUpdated>
+    <lastUpdated>20180824200238</lastUpdated>
   </versioning>
 </metadata>

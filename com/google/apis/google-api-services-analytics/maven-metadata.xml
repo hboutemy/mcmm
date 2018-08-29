@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-analytics</artifactId>
   <versioning>
-    <latest>v3-rev159-1.24.1</latest>
-    <release>v3-rev159-1.24.1</release>
+    <latest>v3-rev159-1.25.0</latest>
+    <release>v3-rev159-1.25.0</release>
     <versions>
       <version>v2.4-rev31-1.13.2-beta</version>
       <version>v2.4-rev31-1.14.1-beta</version>
@@ -395,6 +395,7 @@
       <version>v2.4-rev135-1.22.0</version>
       <version>v2.4-rev135-1.23.0</version>
       <version>v2.4-rev135-1.24.1</version>
+      <version>v2.4-rev135-1.25.0</version>
       <version>v3-rev34-1.13.2-beta</version>
       <version>v3-rev34-1.14.1-beta</version>
       <version>v3-rev35-1.13.2-beta</version>
@@ -830,7 +831,8 @@
       <version>v3-rev159-1.22.0</version>
       <version>v3-rev159-1.23.0</version>
       <version>v3-rev159-1.24.1</version>
+      <version>v3-rev159-1.25.0</version>
     </versions>
-    <lastUpdated>20180810114728</lastUpdated>
+    <lastUpdated>20180824182122</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>prapr-plugin</name>
+      <prefix>prapr</prefix>
+      <artifactId>prapr-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>simpr-plugin</name>
       <prefix>simpr</prefix>
       <artifactId>simpr-plugin</artifactId>

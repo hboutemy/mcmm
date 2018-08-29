@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.eclipse.core.runtime.compatibility</groupId>
   <artifactId>registry</artifactId>
-  <version>3.2.100-v20070316</version>
   <versioning>
+    <latest>3.2.100-v20070316</latest>
+    <release>3.2.100-v20070316</release>
     <versions>
-      <version>3.2.100-v20070316</version>
       <version>3.2.1-R32x_v20060907</version>
+      <version>3.2.100-v20070316</version>
     </versions>
-    <lastUpdated>20071127073152</lastUpdated>
+    <lastUpdated>20180824012814</lastUpdated>
   </versioning>
 </metadata>
