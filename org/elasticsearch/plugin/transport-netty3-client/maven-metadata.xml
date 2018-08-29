@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>transport-netty3-client</artifactId>
   <versioning>
-    <latest>5.6.10</latest>
-    <release>5.6.10</release>
+    <latest>5.6.11</latest>
+    <release>5.6.11</release>
     <versions>
       <version>5.0.0-alpha5</version>
       <version>5.0.0-beta1</version>
@@ -40,7 +40,8 @@
       <version>5.6.8</version>
       <version>5.6.9</version>
       <version>5.6.10</version>
+      <version>5.6.11</version>
     </versions>
-    <lastUpdated>20180613170907</lastUpdated>
+    <lastUpdated>20180823112707</lastUpdated>
   </versioning>
 </metadata>
