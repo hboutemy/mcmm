@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven UUID Generator</name>
+      <prefix>uuid-generator</prefix>
+      <artifactId>maven-uuid-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
