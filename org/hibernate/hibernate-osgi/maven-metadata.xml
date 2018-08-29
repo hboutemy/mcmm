@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-osgi</artifactId>
   <versioning>
-    <latest>5.3.5.Final</latest>
-    <release>5.3.5.Final</release>
+    <latest>5.3.6.Final</latest>
+    <release>5.3.6.Final</release>
     <versions>
       <version>4.2.0.CR2</version>
       <version>4.2.0.Final</version>
@@ -105,6 +105,7 @@
       <version>5.3.3.Final</version>
       <version>5.3.4.Final</version>
       <version>5.3.5.Final</version>
+      <version>5.3.6.Final</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
       <version>5.1.15.Final</version>
@@ -114,6 +115,6 @@
       <version>5.2.16.Final</version>
       <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20180814132717</lastUpdated>
+    <lastUpdated>20180828172811</lastUpdated>
   </versioning>
 </metadata>
