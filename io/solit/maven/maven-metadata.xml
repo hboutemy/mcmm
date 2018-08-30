@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>concatenation maven plugin</name>
+      <prefix>cat</prefix>
+      <artifactId>cat-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>.deb maven plugin</name>
       <prefix>deb</prefix>
       <artifactId>deb-maven-plugin</artifactId>
