@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>graalhelper</prefix>
+      <artifactId>graalhelper</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>htmlcompiler</prefix>
       <artifactId>htmlcompiler</artifactId>
     </plugin>

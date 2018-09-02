@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk-osgi</artifactId>
   <versioning>
-    <latest>1.11.400</latest>
-    <release>1.11.400</release>
+    <latest>1.11.401</latest>
+    <release>1.11.401</release>
     <versions>
       <version>1.9.11</version>
       <version>1.9.12</version>
@@ -519,9 +519,10 @@
       <version>1.11.398</version>
       <version>1.11.399</version>
       <version>1.11.400</version>
+      <version>1.11.401</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
     </versions>
-    <lastUpdated>20180830223018</lastUpdated>
+    <lastUpdated>20180901004552</lastUpdated>
   </versioning>
 </metadata>
