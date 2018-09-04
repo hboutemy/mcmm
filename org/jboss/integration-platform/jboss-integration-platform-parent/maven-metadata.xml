@@ -3,8 +3,8 @@
   <groupId>org.jboss.integration-platform</groupId>
   <artifactId>jboss-integration-platform-parent</artifactId>
   <versioning>
-    <latest>8.0.0.Final</latest>
-    <release>8.0.0.Final</release>
+    <latest>8.1.0.CR2</latest>
+    <release>8.1.0.CR2</release>
     <versions>
       <version>6.0.0.CR3</version>
       <version>6.0.0.CR4</version>
@@ -58,7 +58,9 @@
       <version>8.0.0.CR2</version>
       <version>8.0.0.CR3</version>
       <version>8.0.0.Final</version>
+      <version>8.1.0.CR1</version>
+      <version>8.1.0.CR2</version>
     </versions>
-    <lastUpdated>20180809144938</lastUpdated>
+    <lastUpdated>20180831135444</lastUpdated>
   </versioning>
 </metadata>

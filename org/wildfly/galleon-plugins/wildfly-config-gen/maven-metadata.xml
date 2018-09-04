@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-config-gen</artifactId>
   <versioning>
-    <latest>2.0.0.Beta2</latest>
-    <release>2.0.0.Beta2</release>
+    <latest>2.0.0.Final</latest>
+    <release>2.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -48,7 +48,8 @@
       <version>2.0.0.Alpha6</version>
       <version>2.0.0.Beta1</version>
       <version>2.0.0.Beta2</version>
+      <version>2.0.0.Final</version>
     </versions>
-    <lastUpdated>20180815222828</lastUpdated>
+    <lastUpdated>20180824170327</lastUpdated>
   </versioning>
 </metadata>

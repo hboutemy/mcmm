@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security.elytron-web</groupId>
   <artifactId>elytron-web-parent</artifactId>
   <versioning>
-    <latest>1.2.1.Final</latest>
-    <release>1.2.1.Final</release>
+    <latest>1.2.3.Final</latest>
+    <release>1.2.3.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -28,11 +28,14 @@
       <version>1.0.0.CR2</version>
       <version>1.0.0.Final</version>
       <version>1.0.1.Final</version>
+      <version>1.0.2.Final</version>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Final</version>
       <version>1.2.0.Final</version>
       <version>1.2.1.Final</version>
+      <version>1.2.2.Final</version>
+      <version>1.2.3.Final</version>
     </versions>
-    <lastUpdated>20180809174845</lastUpdated>
+    <lastUpdated>20180824102342</lastUpdated>
   </versioning>
 </metadata>

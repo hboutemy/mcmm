@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ejb-infinispan</artifactId>
   <versioning>
-    <latest>14.0.0.Beta2</latest>
-    <release>14.0.0.Beta2</release>
+    <latest>14.0.0.Final</latest>
+    <release>14.0.0.Final</release>
     <versions>
       <version>8.0.0.CR1</version>
       <version>8.0.0.Final</version>
@@ -47,7 +47,8 @@
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
       <version>14.0.0.Beta2</version>
+      <version>14.0.0.Final</version>
     </versions>
-    <lastUpdated>20180815232823</lastUpdated>
+    <lastUpdated>20180830223937</lastUpdated>
   </versioning>
 </metadata>

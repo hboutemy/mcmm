@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-websecurityscanner</artifactId>
   <versioning>
-    <latest>v1alpha-rev82-1.25.0</latest>
-    <release>v1alpha-rev82-1.25.0</release>
+    <latest>v1alpha-rev83-1.25.0</latest>
+    <release>v1alpha-rev83-1.25.0</release>
     <versions>
       <version>v1alpha-rev2-1.18.0-rc</version>
       <version>v1alpha-rev2-1.21.0</version>
@@ -259,7 +259,10 @@
       <version>v1alpha-rev82-1.23.0</version>
       <version>v1alpha-rev82-1.24.1</version>
       <version>v1alpha-rev82-1.25.0</version>
+      <version>v1alpha-rev83-1.18.0-rc</version>
+      <version>v1alpha-rev83-1.24.1</version>
+      <version>v1alpha-rev83-1.25.0</version>
     </versions>
-    <lastUpdated>20180831231125</lastUpdated>
+    <lastUpdated>20180903231802</lastUpdated>
   </versioning>
 </metadata>

@@ -8,6 +8,11 @@
     </plugin>
     <plugin>
       <name>WildFly Galleon Maven Plugins</name>
+      <prefix>wfgp</prefix>
+      <artifactId>wildfly-galleon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WildFly Galleon Maven Plugins</name>
       <prefix>wildfly-galleons</prefix>
       <artifactId>wildfly-galleon-maven-plugins</artifactId>
     </plugin>
