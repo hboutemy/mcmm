@@ -6,5 +6,10 @@
       <prefix>myoss</prefix>
       <artifactId>archetypes-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>archetypes-maven-plugin</name>
+      <prefix>archetypes</prefix>
+      <artifactId>archetypes-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

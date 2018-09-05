@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-appengine</artifactId>
   <versioning>
-    <latest>1.7.5</latest>
-    <release>1.7.5</release>
+    <latest>1.7.7</latest>
+    <release>1.7.7</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.0-beta2</version>
@@ -39,7 +39,9 @@
       <version>1.7.3</version>
       <version>1.7.4</version>
       <version>1.7.5</version>
+      <version>1.7.6</version>
+      <version>1.7.7</version>
     </versions>
-    <lastUpdated>20180525143717</lastUpdated>
+    <lastUpdated>20180904182501</lastUpdated>
   </versioning>
 </metadata>
