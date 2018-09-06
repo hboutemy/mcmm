@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-dist</artifactId>
   <versioning>
-    <latest>6.0.1.Final</latest>
-    <release>6.0.1.Final</release>
+    <latest>6.0.2.Final</latest>
+    <release>6.0.2.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -203,7 +203,8 @@
       <version>6.0.0.CR4</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
+      <version>6.0.2.Final</version>
     </versions>
-    <lastUpdated>20180829171251</lastUpdated>
+    <lastUpdated>20180905200042</lastUpdated>
   </versioning>
 </metadata>

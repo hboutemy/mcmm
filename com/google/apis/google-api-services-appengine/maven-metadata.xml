@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-appengine</artifactId>
   <versioning>
-    <latest>v1-rev75-1.25.0</latest>
-    <release>v1-rev75-1.25.0</release>
+    <latest>v1-rev77-1.25.0</latest>
+    <release>v1-rev77-1.25.0</release>
     <versions>
       <version>v1alpha-rev1-1.18.0-rc</version>
       <version>v1alpha-rev1-1.20.0</version>
@@ -610,6 +610,9 @@
       <version>v1beta4-rev91-1.23.0</version>
       <version>v1beta4-rev91-1.24.1</version>
       <version>v1beta4-rev91-1.25.0</version>
+      <version>v1beta4-rev93-1.18.0-rc</version>
+      <version>v1beta4-rev93-1.23.0</version>
+      <version>v1beta4-rev93-1.25.0</version>
       <version>v1beta5-rev1-1.18.0-rc</version>
       <version>v1beta5-rev1-1.19.1</version>
       <version>v1beta5-rev1-1.20.0</version>
@@ -924,6 +927,11 @@
       <version>v1beta5-rev83-1.23.0</version>
       <version>v1beta5-rev83-1.24.1</version>
       <version>v1beta5-rev83-1.25.0</version>
+      <version>v1beta5-rev85-1.18.0-rc</version>
+      <version>v1beta5-rev85-1.22.0</version>
+      <version>v1beta5-rev85-1.23.0</version>
+      <version>v1beta5-rev85-1.24.1</version>
+      <version>v1beta5-rev85-1.25.0</version>
       <version>v1beta-rev1-1.18.0-rc</version>
       <version>v1beta-rev1-1.20.0</version>
       <version>v1beta-rev1-1.21.0</version>
@@ -1462,7 +1470,12 @@
       <version>v1-rev75-1.23.0</version>
       <version>v1-rev75-1.24.1</version>
       <version>v1-rev75-1.25.0</version>
+      <version>v1-rev77-1.18.0-rc</version>
+      <version>v1-rev77-1.22.0</version>
+      <version>v1-rev77-1.23.0</version>
+      <version>v1-rev77-1.24.1</version>
+      <version>v1-rev77-1.25.0</version>
     </versions>
-    <lastUpdated>20180824183916</lastUpdated>
+    <lastUpdated>20180905221432</lastUpdated>
   </versioning>
 </metadata>

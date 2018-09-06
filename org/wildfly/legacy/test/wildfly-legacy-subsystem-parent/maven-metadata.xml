@@ -3,8 +3,8 @@
   <groupId>org.wildfly.legacy.test</groupId>
   <artifactId>wildfly-legacy-subsystem-parent</artifactId>
   <versioning>
-    <latest>3.0.0.Final</latest>
-    <release>3.0.0.Final</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -21,7 +21,8 @@
       <version>2.0.2.Final</version>
       <version>2.0.3.Final</version>
       <version>3.0.0.Final</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20171220133911</lastUpdated>
+    <lastUpdated>20180905190329</lastUpdated>
   </versioning>
 </metadata>
