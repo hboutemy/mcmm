@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-clouddebugger</artifactId>
   <versioning>
-    <latest>v2-rev253-1.25.0</latest>
-    <release>v2-rev253-1.25.0</release>
+    <latest>v2-rev255-1.25.0</latest>
+    <release>v2-rev255-1.25.0</release>
     <versions>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.19.0</version>
@@ -267,7 +267,12 @@
       <version>v2-rev253-1.23.0</version>
       <version>v2-rev253-1.24.1</version>
       <version>v2-rev253-1.25.0</version>
+      <version>v2-rev255-1.18.0-rc</version>
+      <version>v2-rev255-1.22.0</version>
+      <version>v2-rev255-1.23.0</version>
+      <version>v2-rev255-1.24.1</version>
+      <version>v2-rev255-1.25.0</version>
     </versions>
-    <lastUpdated>20180824192813</lastUpdated>
+    <lastUpdated>20180906203428</lastUpdated>
   </versioning>
 </metadata>

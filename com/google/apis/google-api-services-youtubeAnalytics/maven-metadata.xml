@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-youtubeAnalytics</artifactId>
   <versioning>
-    <latest>v2-rev56-1.25.0</latest>
-    <release>v2-rev56-1.25.0</release>
+    <latest>v2-rev58-1.25.0</latest>
+    <release>v2-rev58-1.25.0</release>
     <versions>
       <version>v1beta1-rev18-1.13.2-beta</version>
       <version>v1beta1-rev18-1.14.1-beta</version>
@@ -956,6 +956,11 @@
       <version>v1beta1-rev292-1.23.0</version>
       <version>v1beta1-rev292-1.24.1</version>
       <version>v1beta1-rev292-1.25.0</version>
+      <version>v1beta1-rev293-1.18.0-rc</version>
+      <version>v1beta1-rev293-1.22.0</version>
+      <version>v1beta1-rev293-1.23.0</version>
+      <version>v1beta1-rev293-1.24.1</version>
+      <version>v1beta1-rev293-1.25.0</version>
       <version>v1-rev14-1.13.2-beta</version>
       <version>v1-rev14-1.14.1-beta</version>
       <version>v1-rev15-1.13.2-beta</version>
@@ -1917,6 +1922,11 @@
       <version>v1-rev290-1.23.0</version>
       <version>v1-rev290-1.24.1</version>
       <version>v1-rev290-1.25.0</version>
+      <version>v1-rev291-1.18.0-rc</version>
+      <version>v1-rev291-1.22.0</version>
+      <version>v1-rev291-1.23.0</version>
+      <version>v1-rev291-1.24.1</version>
+      <version>v1-rev291-1.25.0</version>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.21.0</version>
       <version>v2-rev1-1.22.0</version>
@@ -2089,7 +2099,12 @@
       <version>v2-rev56-1.23.0</version>
       <version>v2-rev56-1.24.1</version>
       <version>v2-rev56-1.25.0</version>
+      <version>v2-rev58-1.18.0-rc</version>
+      <version>v2-rev58-1.22.0</version>
+      <version>v2-rev58-1.23.0</version>
+      <version>v2-rev58-1.24.1</version>
+      <version>v2-rev58-1.25.0</version>
     </versions>
-    <lastUpdated>20180905195643</lastUpdated>
+    <lastUpdated>20180906173145</lastUpdated>
   </versioning>
 </metadata>
