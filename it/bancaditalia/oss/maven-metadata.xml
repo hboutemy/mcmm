@@ -6,5 +6,10 @@
       <prefix>file-list</prefix>
       <artifactId>file-list-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>r-maven-plugin</name>
+      <prefix>r</prefix>
+      <artifactId>r-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
