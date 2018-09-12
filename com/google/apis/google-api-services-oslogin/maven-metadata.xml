@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-oslogin</artifactId>
   <versioning>
-    <latest>v1-rev23-1.25.0</latest>
-    <release>v1-rev23-1.25.0</release>
+    <latest>v1-rev25-1.25.0</latest>
+    <release>v1-rev25-1.25.0</release>
     <versions>
       <version>v1alpha-rev1-1.18.0-rc</version>
       <version>v1alpha-rev1-1.20.0</version>
@@ -138,6 +138,11 @@
       <version>v1alpha-rev38-1.23.0</version>
       <version>v1alpha-rev38-1.24.1</version>
       <version>v1alpha-rev38-1.25.0</version>
+      <version>v1alpha-rev40-1.18.0-rc</version>
+      <version>v1alpha-rev40-1.22.0</version>
+      <version>v1alpha-rev40-1.23.0</version>
+      <version>v1alpha-rev40-1.24.1</version>
+      <version>v1alpha-rev40-1.25.0</version>
       <version>v1beta-rev1-1.18.0-rc</version>
       <version>v1beta-rev1-1.20.0</version>
       <version>v1beta-rev1-1.21.0</version>
@@ -237,6 +242,11 @@
       <version>v1beta-rev32-1.23.0</version>
       <version>v1beta-rev32-1.24.1</version>
       <version>v1beta-rev32-1.25.0</version>
+      <version>v1beta-rev34-1.18.0-rc</version>
+      <version>v1beta-rev34-1.22.0</version>
+      <version>v1beta-rev34-1.23.0</version>
+      <version>v1beta-rev34-1.24.1</version>
+      <version>v1beta-rev34-1.25.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -316,7 +326,12 @@
       <version>v1-rev23-1.23.0</version>
       <version>v1-rev23-1.24.1</version>
       <version>v1-rev23-1.25.0</version>
+      <version>v1-rev25-1.18.0-rc</version>
+      <version>v1-rev25-1.22.0</version>
+      <version>v1-rev25-1.23.0</version>
+      <version>v1-rev25-1.24.1</version>
+      <version>v1-rev25-1.25.0</version>
     </versions>
-    <lastUpdated>20180829091654</lastUpdated>
+    <lastUpdated>20180911192644</lastUpdated>
   </versioning>
 </metadata>

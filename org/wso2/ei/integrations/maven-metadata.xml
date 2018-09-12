@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.wso2.ei</groupId>
   <artifactId>integrations</artifactId>
   <versioning>
@@ -45,11 +45,11 @@
       <version>6.4.0-m5</version>
       <version>6.4.0-m6</version>
       <version>6.4.0-m7</version>
-      <version>6.4.0</version>
       <version>7.0.0-m2</version>
       <version>7.0.0-update0</version>
       <version>7.0.0-update1</version>
+      <version>6.4.0</version>
     </versions>
-    <lastUpdated>20180906011717</lastUpdated>
+    <lastUpdated>20180911201032</lastUpdated>
   </versioning>
 </metadata>
