@@ -5,5 +5,9 @@
       <prefix>listening-boot-codegen</prefix>
       <artifactId>listening-boot-codegen</artifactId>
     </plugin>
+    <plugin>
+      <prefix>listening-boot</prefix>
+      <artifactId>listening-boot-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
