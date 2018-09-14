@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.keymgt.client</artifactId>
   <versioning>
-    <latest>6.4.36</latest>
-    <release>6.4.36</release>
+    <latest>6.4.43</latest>
+    <release>6.4.43</release>
     <versions>
       <version>6.1.113</version>
       <version>6.1.114</version>
@@ -487,7 +487,14 @@
       <version>6.4.34</version>
       <version>6.4.35</version>
       <version>6.4.36</version>
+      <version>6.4.37</version>
+      <version>6.4.38</version>
+      <version>6.4.39</version>
+      <version>6.4.40</version>
+      <version>6.4.41</version>
+      <version>6.4.42</version>
+      <version>6.4.43</version>
     </versions>
-    <lastUpdated>20180912190029</lastUpdated>
+    <lastUpdated>20180913192224</lastUpdated>
   </versioning>
 </metadata>

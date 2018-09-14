@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-vertx-web</artifactId>
   <versioning>
-    <latest>5.3.1</latest>
-    <release>5.3.1</release>
+    <latest>5.3.2</latest>
+    <release>5.3.2</release>
     <versions>
       <version>4.15.0</version>
       <version>4.15.1</version>
@@ -31,7 +31,8 @@
       <version>5.2.0</version>
       <version>5.3.0</version>
       <version>5.3.1</version>
+      <version>5.3.2</version>
     </versions>
-    <lastUpdated>20180910223942</lastUpdated>
+    <lastUpdated>20180913143019</lastUpdated>
   </versioning>
 </metadata>

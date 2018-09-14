@@ -3,8 +3,8 @@
   <groupId>com.butor</groupId>
   <artifactId>butor-utils</artifactId>
   <versioning>
-    <latest>1.0.21</latest>
-    <release>1.0.21</release>
+    <latest>1.0.22</latest>
+    <release>1.0.22</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.4</version>
@@ -21,8 +21,9 @@
       <version>1.0.18</version>
       <version>1.0.19</version>
       <version>1.0.21</version>
+      <version>1.0.22</version>
       <version>mvn+-P+sonatype-oss-release+release:perform</version>
     </versions>
-    <lastUpdated>20180519184626</lastUpdated>
+    <lastUpdated>20180913121810</lastUpdated>
   </versioning>
 </metadata>

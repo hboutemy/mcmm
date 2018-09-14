@@ -3,8 +3,8 @@
   <groupId>org.stagemonitor</groupId>
   <artifactId>stagemonitor-alerting</artifactId>
   <versioning>
-    <latest>0.88.4</latest>
-    <release>0.88.4</release>
+    <latest>0.88.5</latest>
+    <release>0.88.5</release>
     <versions>
       <version>0.13.0</version>
       <version>0.14.0</version>
@@ -68,15 +68,17 @@
       <version>0.87.10</version>
       <version>0.87.11</version>
       <version>0.87.12</version>
+      <version>0.87.13</version>
       <version>0.88.0</version>
       <version>0.88.1</version>
       <version>0.88.2</version>
       <version>0.88.3</version>
       <version>0.88.4</version>
+      <version>0.88.5</version>
       <version>0.15.0</version>
       <version>0.15.1</version>
       <version>0.15.2</version>
     </versions>
-    <lastUpdated>20180810124056</lastUpdated>
+    <lastUpdated>20180913090353</lastUpdated>
   </versioning>
 </metadata>
