@@ -3,8 +3,8 @@
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-scm-plugin</artifactId>
   <versioning>
-    <latest>1.10.0</latest>
-    <release>1.10.0</release>
+    <latest>1.11.1</latest>
+    <release>1.11.1</release>
     <versions>
       <version>1.0-alpha-2</version>
       <version>1.0-alpha-3</version>
@@ -30,7 +30,8 @@
       <version>1.9.4</version>
       <version>1.9.5</version>
       <version>1.10.0</version>
+      <version>1.11.1</version>
     </versions>
-    <lastUpdated>20180528080210</lastUpdated>
+    <lastUpdated>20180914220312</lastUpdated>
   </versioning>
 </metadata>

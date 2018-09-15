@@ -7,7 +7,7 @@
       <artifactId>mvn-scalafmt</artifactId>
     </plugin>
     <plugin>
-      <name>Scalafmt Maven Plugin</name>
+      <name>ScalaFmt Maven Plugin (${version.scala.binary})</name>
       <prefix>mvn-scalafmt_${version.scala.binary}</prefix>
       <artifactId>mvn-scalafmt_${version.scala.binary}</artifactId>
     </plugin>
