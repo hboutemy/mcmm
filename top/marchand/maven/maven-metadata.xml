@@ -6,5 +6,10 @@
       <prefix>dep-tree</prefix>
       <artifactId>dep-tree-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>BaseUri definer</name>
+      <prefix>setbaseuri</prefix>
+      <artifactId>setbaseuri-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
