@@ -3,14 +3,15 @@
   <groupId>org.elasticsearch.distribution.zip</groupId>
   <artifactId>elasticsearch-oss</artifactId>
   <versioning>
-    <latest>6.4.0</latest>
-    <release>6.4.0</release>
+    <latest>6.4.1</latest>
+    <release>6.4.1</release>
     <versions>
       <version>6.3.0</version>
       <version>6.3.1</version>
       <version>6.3.2</version>
       <version>6.4.0</version>
+      <version>6.4.1</version>
     </versions>
-    <lastUpdated>20180823164919</lastUpdated>
+    <lastUpdated>20180918152416</lastUpdated>
   </versioning>
 </metadata>
