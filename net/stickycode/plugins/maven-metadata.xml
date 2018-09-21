@@ -31,5 +31,10 @@
       <prefix>wait</prefix>
       <artifactId>sticky-wait-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>sticky-wait-plugin</name>
+      <prefix>wait</prefix>
+      <artifactId>wait-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

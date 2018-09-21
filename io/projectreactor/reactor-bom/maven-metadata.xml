@@ -3,8 +3,8 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-bom</artifactId>
   <versioning>
-    <latest>Bismuth-SR11</latest>
-    <release>Bismuth-SR11</release>
+    <latest>Californium-RELEASE</latest>
+    <release>Californium-RELEASE</release>
     <versions>
       <version>Aluminium-RELEASE</version>
       <version>Aluminium-SR1</version>
@@ -22,7 +22,8 @@
       <version>Bismuth-SR9</version>
       <version>Bismuth-SR10</version>
       <version>Bismuth-SR11</version>
+      <version>Californium-RELEASE</version>
     </versions>
-    <lastUpdated>20180906044234</lastUpdated>
+    <lastUpdated>20180920061700</lastUpdated>
   </versioning>
 </metadata>
