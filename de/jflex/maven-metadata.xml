@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>CUP Maven plugin</name>
+      <prefix>cup</prefix>
+      <artifactId>cup-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JFlex Maven Plugin</name>
       <prefix>jflex</prefix>
       <artifactId>jflex-maven-plugin</artifactId>

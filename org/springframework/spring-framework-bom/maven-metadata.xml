@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-framework-bom</artifactId>
   <versioning>
-    <latest>5.0.9.RELEASE</latest>
-    <release>5.0.9.RELEASE</release>
+    <latest>5.1.0.RELEASE</latest>
+    <release>5.1.0.RELEASE</release>
     <versions>
       <version>3.2.6.RELEASE</version>
       <version>3.2.7.RELEASE</version>
@@ -79,7 +79,8 @@
       <version>5.0.7.RELEASE</version>
       <version>5.0.8.RELEASE</version>
       <version>5.0.9.RELEASE</version>
+      <version>5.1.0.RELEASE</version>
     </versions>
-    <lastUpdated>20180907143608</lastUpdated>
+    <lastUpdated>20180921075344</lastUpdated>
   </versioning>
 </metadata>
