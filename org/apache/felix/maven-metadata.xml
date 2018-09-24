@@ -31,5 +31,10 @@
       <prefix>org.apache.felix.dependencymanager.annotation</prefix>
       <artifactId>org.apache.felix.dependencymanager.annotation</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Felix OSGi Check Maven Plugin</name>
+      <prefix>osgicheck</prefix>
+      <artifactId>osgicheck-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

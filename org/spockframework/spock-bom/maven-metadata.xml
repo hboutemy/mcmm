@@ -3,8 +3,8 @@
   <groupId>org.spockframework</groupId>
   <artifactId>spock-bom</artifactId>
   <versioning>
-    <latest>1.2-RC3-groovy-2.5</latest>
-    <release>1.2-RC3-groovy-2.5</release>
+    <latest>1.2-groovy-2.5</latest>
+    <release>1.2-groovy-2.5</release>
     <versions>
       <version>1.1-groovy-2.0-rc-3</version>
       <version>1.1-groovy-2.0-rc-4</version>
@@ -21,7 +21,9 @@
       <version>1.2-RC2-groovy-2.5</version>
       <version>1.2-RC3-groovy-2.4</version>
       <version>1.2-RC3-groovy-2.5</version>
+      <version>1.2-groovy-2.4</version>
+      <version>1.2-groovy-2.5</version>
     </versions>
-    <lastUpdated>20180916193718</lastUpdated>
+    <lastUpdated>20180923180138</lastUpdated>
   </versioning>
 </metadata>

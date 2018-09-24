@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-svn</artifactId>
   <versioning>
-    <latest>3.36-beta.0</latest>
-    <release>3.36-beta.0</release>
+    <latest>3.36-beta.3</latest>
+    <release>3.36-beta.3</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -228,7 +228,10 @@
       <version>3.35.11</version>
       <version>3.35.12</version>
       <version>3.36-beta.0</version>
+      <version>3.36-beta.1</version>
+      <version>3.36-beta.2</version>
+      <version>3.36-beta.3</version>
     </versions>
-    <lastUpdated>20180922193747</lastUpdated>
+    <lastUpdated>20180923155255</lastUpdated>
   </versioning>
 </metadata>
