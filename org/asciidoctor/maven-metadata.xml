@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Asciidoctor Maven Plugin</name>
+      <name>Asciidoctor Maven Plugin and Doxia Parser</name>
       <prefix>asciidoctor</prefix>
       <artifactId>asciidoctor-maven-plugin</artifactId>
     </plugin>
