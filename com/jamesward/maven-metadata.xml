@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>OSGi Version Maven Plugin</name>
+      <prefix>osgi-version</prefix>
+      <artifactId>osgi-version-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>unSNAPSHOT Maven Plugin</name>
       <prefix>unsnapshot</prefix>
       <artifactId>unsnapshot-maven-plugin</artifactId>

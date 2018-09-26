@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk-cloudformation</artifactId>
   <versioning>
-    <latest>1.11.414</latest>
-    <release>1.11.414</release>
+    <latest>1.11.416</latest>
+    <release>1.11.416</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -545,9 +545,11 @@
       <version>1.11.412</version>
       <version>1.11.413</version>
       <version>1.11.414</version>
+      <version>1.11.415</version>
+      <version>1.11.416</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
     </versions>
-    <lastUpdated>20180921225654</lastUpdated>
+    <lastUpdated>20180925231942</lastUpdated>
   </versioning>
 </metadata>
