@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-androidpublisher</artifactId>
   <versioning>
-    <latest>v3-rev26-1.25.0</latest>
-    <release>v3-rev26-1.25.0</release>
+    <latest>v3-rev27-1.25.0</latest>
+    <release>v3-rev27-1.25.0</release>
     <versions>
       <version>v1-rev10-1.13.2-beta</version>
       <version>v1-rev10-1.14.1-beta</version>
@@ -452,6 +452,11 @@
       <version>v1-rev134-1.23.0</version>
       <version>v1-rev134-1.24.1</version>
       <version>v1-rev134-1.25.0</version>
+      <version>v1-rev135-1.18.0-rc</version>
+      <version>v1-rev135-1.22.0</version>
+      <version>v1-rev135-1.23.0</version>
+      <version>v1-rev135-1.24.1</version>
+      <version>v1-rev135-1.25.0</version>
       <version>v1.1-rev2-1.13.2-beta</version>
       <version>v1.1-rev2-1.14.2-beta</version>
       <version>v1.1-rev2-1.15.0-rc</version>
@@ -883,6 +888,11 @@
       <version>v1.1-rev118-1.23.0</version>
       <version>v1.1-rev118-1.24.1</version>
       <version>v1.1-rev118-1.25.0</version>
+      <version>v1.1-rev119-1.18.0-rc</version>
+      <version>v1.1-rev119-1.22.0</version>
+      <version>v1.1-rev119-1.23.0</version>
+      <version>v1.1-rev119-1.24.1</version>
+      <version>v1.1-rev119-1.25.0</version>
       <version>v2-rev2-1.15.0-rc</version>
       <version>v2-rev2-1.16.0-rc</version>
       <version>v2-rev2-1.17.0-rc</version>
@@ -1233,6 +1243,11 @@
       <version>v2-rev99-1.23.0</version>
       <version>v2-rev99-1.24.1</version>
       <version>v2-rev99-1.25.0</version>
+      <version>v2-rev100-1.18.0-rc</version>
+      <version>v2-rev100-1.22.0</version>
+      <version>v2-rev100-1.23.0</version>
+      <version>v2-rev100-1.24.1</version>
+      <version>v2-rev100-1.25.0</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.21.0</version>
       <version>v3-rev1-1.22.0</version>
@@ -1318,7 +1333,12 @@
       <version>v3-rev26-1.23.0</version>
       <version>v3-rev26-1.24.1</version>
       <version>v3-rev26-1.25.0</version>
+      <version>v3-rev27-1.18.0-rc</version>
+      <version>v3-rev27-1.22.0</version>
+      <version>v3-rev27-1.23.0</version>
+      <version>v3-rev27-1.24.1</version>
+      <version>v3-rev27-1.25.0</version>
     </versions>
-    <lastUpdated>20180924190502</lastUpdated>
+    <lastUpdated>20180926180349</lastUpdated>
   </versioning>
 </metadata>
