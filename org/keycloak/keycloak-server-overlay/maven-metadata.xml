@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-server-overlay</artifactId>
   <versioning>
-    <latest>4.4.0.Final</latest>
-    <release>4.4.0.Final</release>
+    <latest>4.5.0.Final</latest>
+    <release>4.5.0.Final</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.Final</version>
@@ -72,8 +72,9 @@
       <version>4.2.1.Final</version>
       <version>4.3.0.Final</version>
       <version>4.4.0.Final</version>
+      <version>4.5.0.Final</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20180905201026</lastUpdated>
+    <lastUpdated>20180927130036</lastUpdated>
   </versioning>
 </metadata>

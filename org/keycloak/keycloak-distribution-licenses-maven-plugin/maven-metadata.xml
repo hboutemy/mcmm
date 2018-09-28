@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-distribution-licenses-maven-plugin</artifactId>
   <versioning>
-    <latest>4.4.0.Final</latest>
-    <release>4.4.0.Final</release>
+    <latest>4.5.0.Final</latest>
+    <release>4.5.0.Final</release>
     <versions>
       <version>3.4.1.CR1</version>
       <version>3.4.1.Final</version>
@@ -18,7 +18,8 @@
       <version>4.2.1.Final</version>
       <version>4.3.0.Final</version>
       <version>4.4.0.Final</version>
+      <version>4.5.0.Final</version>
     </versions>
-    <lastUpdated>20180905201005</lastUpdated>
+    <lastUpdated>20180927130014</lastUpdated>
   </versioning>
 </metadata>
