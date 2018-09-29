@@ -11,5 +11,10 @@
       <prefix>opencms-resource</prefix>
       <artifactId>opencms-resource-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-project-plugin Maven Plugin</name>
+      <prefix>progen</prefix>
+      <artifactId>progen-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

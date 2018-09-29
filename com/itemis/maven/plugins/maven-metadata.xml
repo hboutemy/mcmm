@@ -7,6 +7,11 @@
       <artifactId>artifact-spy-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Multi Deployment Maven Plugin</name>
+      <prefix>multi-deployment</prefix>
+      <artifactId>multi-deployment-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Unleash Maven Plugin</name>
       <prefix>unleash</prefix>
       <artifactId>unleash-maven-plugin</artifactId>
