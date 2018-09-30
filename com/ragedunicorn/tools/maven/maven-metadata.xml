@@ -6,5 +6,10 @@
       <prefix>github-release</prefix>
       <artifactId>github-release-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>sql-execute</prefix>
+      <artifactId>sql-execute-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
