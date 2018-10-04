@@ -11,5 +11,10 @@
       <prefix>sass</prefix>
       <artifactId>sass-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>SchemaSpy Maven Plugin</name>
+      <prefix>schemaspy</prefix>
+      <artifactId>schemaspy-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
