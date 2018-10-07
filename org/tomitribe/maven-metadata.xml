@@ -6,5 +6,10 @@
       <prefix>crest</prefix>
       <artifactId>crest-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>OpenApi Maven Plugin</name>
+      <prefix>openapi</prefix>
+      <artifactId>openapi-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

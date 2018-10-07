@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.core.feature</artifactId>
   <versioning>
-    <latest>7.0.207</latest>
-    <release>7.0.207</release>
+    <latest>7.0.208</latest>
+    <release>7.0.208</release>
     <versions>
       <version>6.1.113</version>
       <version>6.1.114</version>
@@ -521,6 +521,7 @@
       <version>6.4.68</version>
       <version>6.4.69</version>
       <version>6.4.70</version>
+      <version>6.4.71</version>
       <version>7.0.43</version>
       <version>7.0.44</version>
       <version>7.0.45</version>
@@ -684,7 +685,8 @@
       <version>7.0.205</version>
       <version>7.0.206</version>
       <version>7.0.207</version>
+      <version>7.0.208</version>
     </versions>
-    <lastUpdated>20181005183536</lastUpdated>
+    <lastUpdated>20181006180707</lastUpdated>
   </versioning>
 </metadata>
