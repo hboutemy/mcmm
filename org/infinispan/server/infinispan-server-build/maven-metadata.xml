@@ -3,8 +3,8 @@
   <groupId>org.infinispan.server</groupId>
   <artifactId>infinispan-server-build</artifactId>
   <versioning>
-    <latest>9.4.0.CR3</latest>
-    <release>9.4.0.CR3</release>
+    <latest>9.4.0.Final</latest>
+    <release>9.4.0.Final</release>
     <versions>
       <version>5.3.0.Alpha1</version>
       <version>5.3.0.Beta1</version>
@@ -137,7 +137,8 @@
       <version>9.4.0.CR1</version>
       <version>9.4.0.CR2</version>
       <version>9.4.0.CR3</version>
+      <version>9.4.0.Final</version>
     </versions>
-    <lastUpdated>20180917064528</lastUpdated>
+    <lastUpdated>20181008060928</lastUpdated>
   </versioning>
 </metadata>

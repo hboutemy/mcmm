@@ -3,15 +3,16 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-protocol-parser-generator-maven-plugin</artifactId>
   <versioning>
-    <latest>9.4.0.CR3</latest>
-    <release>9.4.0.CR3</release>
+    <latest>9.4.0.Final</latest>
+    <release>9.4.0.Final</release>
     <versions>
       <version>9.4.0.Alpha1</version>
       <version>9.4.0.Beta1</version>
       <version>9.4.0.CR1</version>
       <version>9.4.0.CR2</version>
       <version>9.4.0.CR3</version>
+      <version>9.4.0.Final</version>
     </versions>
-    <lastUpdated>20180917064522</lastUpdated>
+    <lastUpdated>20181008060922</lastUpdated>
   </versioning>
 </metadata>

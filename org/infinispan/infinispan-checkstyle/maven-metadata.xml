@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-checkstyle</artifactId>
   <versioning>
-    <latest>9.4.0.CR3</latest>
-    <release>9.4.0.CR3</release>
+    <latest>9.4.0.Final</latest>
+    <release>9.4.0.Final</release>
     <versions>
       <version>8.2.1.Final</version>
       <version>8.2.2.Final</version>
@@ -65,7 +65,8 @@
       <version>9.4.0.CR1</version>
       <version>9.4.0.CR2</version>
       <version>9.4.0.CR3</version>
+      <version>9.4.0.Final</version>
     </versions>
-    <lastUpdated>20180917064511</lastUpdated>
+    <lastUpdated>20181008060911</lastUpdated>
   </versioning>
 </metadata>
