@@ -2,8 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>io.earcam...jigsaw</prefix>
+      <artifactId>io.earcam.maven.plugin.jigsaw</artifactId>
+    </plugin>
+    <plugin>
       <prefix>io.earcam...netlify</prefix>
       <artifactId>io.earcam.maven.plugin.netlify</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>io.earcam...ramdisk</prefix>
+      <artifactId>io.earcam.maven.plugin.ramdisk</artifactId>
     </plugin>
     <plugin>
       <prefix>io.earcam...site.search.offline</prefix>

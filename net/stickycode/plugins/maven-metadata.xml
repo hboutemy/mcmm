@@ -17,6 +17,11 @@
       <artifactId>happy-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>shifty-maven-plugin-1</name>
+      <prefix>shifty</prefix>
+      <artifactId>shifty-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sticky-bound-plugin</name>
       <prefix>bounds</prefix>
       <artifactId>sticky-bounds-plugin</artifactId>
