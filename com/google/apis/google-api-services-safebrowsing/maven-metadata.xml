@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-safebrowsing</artifactId>
   <versioning>
-    <latest>v4-rev72-1.25.0</latest>
-    <release>v4-rev72-1.25.0</release>
+    <latest>v4-rev76-1.25.0</latest>
+    <release>v4-rev76-1.25.0</release>
     <versions>
       <version>v4-rev1-1.18.0-rc</version>
       <version>v4-rev1-1.19.1</version>
@@ -263,7 +263,12 @@
       <version>v4-rev72-1.23.0</version>
       <version>v4-rev72-1.24.1</version>
       <version>v4-rev72-1.25.0</version>
+      <version>v4-rev76-1.18.0-rc</version>
+      <version>v4-rev76-1.22.0</version>
+      <version>v4-rev76-1.23.0</version>
+      <version>v4-rev76-1.24.1</version>
+      <version>v4-rev76-1.25.0</version>
     </versions>
-    <lastUpdated>20180913224513</lastUpdated>
+    <lastUpdated>20181011011702</lastUpdated>
   </versioning>
 </metadata>
