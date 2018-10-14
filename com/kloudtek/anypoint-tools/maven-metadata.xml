@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Anypoint Tools Maven Plugin</name>
       <prefix>anypoint</prefix>
       <artifactId>anypoint-maven-plugin</artifactId>
     </plugin>
