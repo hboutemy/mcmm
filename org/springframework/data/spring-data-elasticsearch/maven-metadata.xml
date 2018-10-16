@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
   <versioning>
-    <latest>3.1.0.RELEASE</latest>
-    <release>3.1.0.RELEASE</release>
+    <latest>3.1.1.RELEASE</latest>
+    <release>3.1.1.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -54,6 +54,7 @@
       <version>2.1.13.RELEASE</version>
       <version>2.1.14.RELEASE</version>
       <version>2.1.15.RELEASE</version>
+      <version>2.1.16.RELEASE</version>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
       <version>3.0.2.RELEASE</version>
@@ -65,8 +66,10 @@
       <version>3.0.8.RELEASE</version>
       <version>3.0.9.RELEASE</version>
       <version>3.0.10.RELEASE</version>
+      <version>3.0.11.RELEASE</version>
       <version>3.1.0.RELEASE</version>
+      <version>3.1.1.RELEASE</version>
     </versions>
-    <lastUpdated>20180921122217</lastUpdated>
+    <lastUpdated>20181015122427</lastUpdated>
   </versioning>
 </metadata>

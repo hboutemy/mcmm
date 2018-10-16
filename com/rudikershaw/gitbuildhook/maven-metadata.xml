@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Git Build Hook Maven Plugin</name>
+      <prefix>git-build-hook</prefix>
+      <artifactId>git-build-hook-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-orm</artifactId>
   <versioning>
-    <latest>5.1.0.RELEASE</latest>
-    <release>5.1.0.RELEASE</release>
+    <latest>5.1.1.RELEASE</latest>
+    <release>5.1.1.RELEASE</release>
     <versions>
       <version>1.0-rc1</version>
       <version>1.0</version>
@@ -121,6 +121,7 @@
       <version>4.3.17.RELEASE</version>
       <version>4.3.18.RELEASE</version>
       <version>4.3.19.RELEASE</version>
+      <version>4.3.20.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -131,8 +132,10 @@
       <version>5.0.7.RELEASE</version>
       <version>5.0.8.RELEASE</version>
       <version>5.0.9.RELEASE</version>
+      <version>5.0.10.RELEASE</version>
       <version>5.1.0.RELEASE</version>
+      <version>5.1.1.RELEASE</version>
     </versions>
-    <lastUpdated>20180921075348</lastUpdated>
+    <lastUpdated>20181015091022</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-acl</artifactId>
   <versioning>
-    <latest>5.1.0.RELEASE</latest>
-    <release>5.1.0.RELEASE</release>
+    <latest>5.1.1.RELEASE</latest>
+    <release>5.1.1.RELEASE</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -72,8 +72,10 @@
       <version>5.0.6.RELEASE</version>
       <version>5.0.7.RELEASE</version>
       <version>5.0.8.RELEASE</version>
+      <version>5.0.9.RELEASE</version>
       <version>5.1.0.RELEASE</version>
+      <version>5.1.1.RELEASE</version>
     </versions>
-    <lastUpdated>20180921134829</lastUpdated>
+    <lastUpdated>20181015202208</lastUpdated>
   </versioning>
 </metadata>

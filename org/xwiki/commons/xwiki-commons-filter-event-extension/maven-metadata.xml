@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-filter-event-extension</artifactId>
   <versioning>
-    <latest>10.8</latest>
-    <release>10.8</release>
+    <latest>10.8.1</latest>
+    <release>10.8.1</release>
     <versions>
       <version>6.2-milestone-1</version>
       <version>6.2-milestone-2</version>
@@ -143,9 +143,10 @@
       <version>10.7.1</version>
       <version>10.8-rc-1</version>
       <version>10.8</version>
+      <version>10.8.1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20180924150326</lastUpdated>
+    <lastUpdated>20181015173236</lastUpdated>
   </versioning>
 </metadata>
