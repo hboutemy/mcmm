@@ -7,6 +7,7 @@
       <artifactId>app-lifecycle-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name></name>
       <prefix>attach-artifact</prefix>
       <artifactId>attach-artifact-maven-plugin</artifactId>
     </plugin>
@@ -40,6 +41,7 @@
       <artifactId>maven-runtime-assembler-plugin</artifactId>
     </plugin>
     <plugin>
+      <name></name>
       <prefix>upload</prefix>
       <artifactId>maven-upload-plugin</artifactId>
     </plugin>
@@ -89,10 +91,12 @@
       <artifactId>port-allocator-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Provided dependencies maven-plugin</name>
       <prefix>provided-dependencies</prefix>
       <artifactId>provided-dependencies-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>sisubridge</prefix>
       <artifactId>sisu-maven-bridge-maven-plugin</artifactId>
     </plugin>
@@ -102,6 +106,7 @@
       <artifactId>sisu-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name></name>
       <prefix>tattletale</prefix>
       <artifactId>tattletale-maven-plugin</artifactId>
     </plugin>

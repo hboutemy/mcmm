@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>reShift-Capnp-Bindings</name>
+      <prefix>reshift-capnp</prefix>
+      <artifactId>reshift-capnp</artifactId>
+    </plugin>
+    <plugin>
+      <name>reShift-Reporter-Plugin</name>
+      <prefix>reshift-reporter</prefix>
+      <artifactId>reshift-reporter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
