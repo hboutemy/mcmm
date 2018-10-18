@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.windup.ui</groupId>
   <artifactId>windup-ui</artifactId>
   <versioning>
-    <latest>4.0.1.Final</latest>
-    <release>4.0.1.Final</release>
+    <latest>4.2.0.Alpha2</latest>
+    <release>4.2.0.Alpha2</release>
     <versions>
       <version>2.2.0.Final</version>
       <version>2.3.0.Final</version>
@@ -33,6 +33,6 @@
       <version>4.2.0.Alpha1</version>
       <version>4.2.0.Alpha2</version>
     </versions>
-    <lastUpdated>20180320141352</lastUpdated>
+    <lastUpdated>20181017162003</lastUpdated>
   </versioning>
 </metadata>

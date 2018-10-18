@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.windup.web</groupId>
   <artifactId>windup-keycloak-tool</artifactId>
   <versioning>
-    <latest>4.0.1.Final</latest>
-    <release>4.0.1.Final</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>4.0.0.Beta1</version>
       <version>4.0.0.Beta2</version>
@@ -14,6 +14,6 @@
       <version>4.1.0.Alpha5</version>
       <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20180320141425</lastUpdated>
+    <lastUpdated>20181017161356</lastUpdated>
   </versioning>
 </metadata>

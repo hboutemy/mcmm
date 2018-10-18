@@ -3,14 +3,15 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>apm-agent</artifactId>
   <versioning>
-    <latest>5.0.0-RC2</latest>
-    <release>5.0.0-RC2</release>
+    <latest>5.0.0-GA</latest>
+    <release>5.0.0-GA</release>
     <versions>
       <version>5.0.0-alpha</version>
       <version>5.0.0-beta</version>
       <version>5.0.0-beta2</version>
       <version>5.0.0-RC2</version>
+      <version>5.0.0-GA</version>
     </versions>
-    <lastUpdated>20180912141610</lastUpdated>
+    <lastUpdated>20181017030147</lastUpdated>
   </versioning>
 </metadata>

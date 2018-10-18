@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>aws-deploy-maven-plugin Maven Mojo</name>
+      <prefix>aws-deploy</prefix>
+      <artifactId>aws-deploy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

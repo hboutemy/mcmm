@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-security-enterprise</artifactId>
   <versioning>
-    <latest>3.5.0-beta01</latest>
-    <release>3.5.0-beta01</release>
+    <latest>3.5.0-beta02</latest>
+    <release>3.5.0-beta02</release>
     <versions>
       <version>3.1.0-BETA1</version>
       <version>3.1.0-M02</version>
@@ -105,7 +105,8 @@
       <version>3.5.0-alpha08</version>
       <version>3.5.0-alpha09</version>
       <version>3.5.0-beta01</version>
+      <version>3.5.0-beta02</version>
     </versions>
-    <lastUpdated>20181016154221</lastUpdated>
+    <lastUpdated>20181017071454</lastUpdated>
   </versioning>
 </metadata>
