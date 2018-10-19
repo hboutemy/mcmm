@@ -16,5 +16,10 @@
       <prefix>kemitix-quality</prefix>
       <artifactId>kemitix-quality-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Package Dependency Graph Maven Plugin</name>
+      <prefix>pdg</prefix>
+      <artifactId>pdg-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

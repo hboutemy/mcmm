@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-drive</artifactId>
   <versioning>
-    <latest>v3-rev134-1.25.0</latest>
-    <release>v3-rev134-1.25.0</release>
+    <latest>v3-rev135-1.25.0</latest>
+    <release>v3-rev135-1.25.0</release>
     <versions>
       <version>v1-rev45-1.13.2-beta</version>
       <version>v1-rev45-1.14.1-beta</version>
@@ -1435,6 +1435,11 @@
       <version>v2-rev330-1.23.0</version>
       <version>v2-rev330-1.24.1</version>
       <version>v2-rev330-1.25.0</version>
+      <version>v2-rev331-1.18.0-rc</version>
+      <version>v2-rev331-1.22.0</version>
+      <version>v2-rev331-1.23.0</version>
+      <version>v2-rev331-1.24.1</version>
+      <version>v2-rev331-1.25.0</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.19.1</version>
       <version>v3-rev1-1.20.0</version>
@@ -1912,6 +1917,11 @@
       <version>v3-rev134-1.23.0</version>
       <version>v3-rev134-1.24.1</version>
       <version>v3-rev134-1.25.0</version>
+      <version>v3-rev135-1.18.0-rc</version>
+      <version>v3-rev135-1.22.0</version>
+      <version>v3-rev135-1.23.0</version>
+      <version>v3-rev135-1.24.1</version>
+      <version>v3-rev135-1.25.0</version>
       <version>v1-rev126-1.18.0-rc</version>
       <version>v1-rev126-1.19.0</version>
       <version>v1-rev126-1.19.1</version>
@@ -1921,6 +1931,6 @@
       <version>v2-rev174-1.19.1</version>
       <version>v2-rev174-1.20.0</version>
     </versions>
-    <lastUpdated>20181012034304</lastUpdated>
+    <lastUpdated>20181018062042</lastUpdated>
   </versioning>
 </metadata>
