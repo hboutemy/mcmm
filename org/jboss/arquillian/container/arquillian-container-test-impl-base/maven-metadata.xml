@@ -3,8 +3,8 @@
   <groupId>org.jboss.arquillian.container</groupId>
   <artifactId>arquillian-container-test-impl-base</artifactId>
   <versioning>
-    <latest>1.4.0.Final</latest>
-    <release>1.4.0.Final</release>
+    <latest>1.4.1.Final</latest>
+    <release>1.4.1.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -44,7 +44,8 @@
       <version>1.2.1.Final</version>
       <version>1.3.0.Final</version>
       <version>1.4.0.Final</version>
+      <version>1.4.1.Final</version>
     </versions>
-    <lastUpdated>20180227153700</lastUpdated>
+    <lastUpdated>20181019123652</lastUpdated>
   </versioning>
 </metadata>
