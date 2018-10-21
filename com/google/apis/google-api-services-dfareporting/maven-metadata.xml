@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-dfareporting</artifactId>
   <versioning>
-    <latest>v3.2-rev3-1.25.0</latest>
-    <release>v3.2-rev3-1.25.0</release>
+    <latest>v3.2-rev20180830-1.26.0</latest>
+    <release>v3.2-rev20180830-1.26.0</release>
     <versions>
       <version>v1-rev11-1.13.2-beta</version>
       <version>v1-rev11-1.14.1-beta</version>
@@ -1100,6 +1100,7 @@
       <version>v2.8-rev13-1.23.0</version>
       <version>v2.8-rev13-1.24.1</version>
       <version>v2.8-rev13-1.25.0</version>
+      <version>v2.8-rev20180830-1.26.0</version>
       <version>v3.0-rev1-1.21.0</version>
       <version>v3.0-rev1-1.22.0</version>
       <version>v3.0-rev1-1.23.0</version>
@@ -1131,6 +1132,7 @@
       <version>v3.0-rev11-1.23.0</version>
       <version>v3.0-rev11-1.24.1</version>
       <version>v3.0-rev11-1.25.0</version>
+      <version>v3.0-rev20180830-1.26.0</version>
       <version>v3.1-rev1-1.18.0-rc</version>
       <version>v3.1-rev1-1.21.0</version>
       <version>v3.1-rev1-1.22.0</version>
@@ -1153,6 +1155,7 @@
       <version>v3.1-rev6-1.23.0</version>
       <version>v3.1-rev6-1.24.1</version>
       <version>v3.1-rev6-1.25.0</version>
+      <version>v3.1-rev20180830-1.26.0</version>
       <version>v3.2-rev1-1.18.0-rc</version>
       <version>v3.2-rev1-1.22.0</version>
       <version>v3.2-rev1-1.23.0</version>
@@ -1167,7 +1170,8 @@
       <version>v3.2-rev3-1.23.0</version>
       <version>v3.2-rev3-1.24.1</version>
       <version>v3.2-rev3-1.25.0</version>
+      <version>v3.2-rev20180830-1.26.0</version>
     </versions>
-    <lastUpdated>20180907032951</lastUpdated>
+    <lastUpdated>20181020171845</lastUpdated>
   </versioning>
 </metadata>

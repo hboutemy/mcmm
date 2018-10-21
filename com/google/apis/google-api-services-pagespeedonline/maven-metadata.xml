@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-pagespeedonline</artifactId>
   <versioning>
-    <latest>v4-rev13-1.25.0</latest>
-    <release>v4-rev13-1.25.0</release>
+    <latest>v4-rev20180606-1.26.0</latest>
+    <release>v4-rev20180606-1.26.0</release>
     <versions>
       <version>v1-rev15-1.13.2-beta</version>
       <version>v1-rev15-1.14.1-beta</version>
@@ -262,6 +262,7 @@
       <version>v1-rev84-1.23.0</version>
       <version>v1-rev84-1.24.1</version>
       <version>v1-rev84-1.25.0</version>
+      <version>v1-rev20180606-1.26.0</version>
       <version>v2-rev1-1.15.0-rc</version>
       <version>v2-rev1-1.16.0-rc</version>
       <version>v2-rev1-1.17.0-rc</version>
@@ -378,6 +379,7 @@
       <version>v2-rev30-1.23.0</version>
       <version>v2-rev30-1.24.1</version>
       <version>v2-rev30-1.25.0</version>
+      <version>v2-rev20180606-1.26.0</version>
       <version>v4-rev3-1.18.0-rc</version>
       <version>v4-rev3-1.21.0</version>
       <version>v4-rev3-1.22.0</version>
@@ -407,7 +409,8 @@
       <version>v4-rev13-1.23.0</version>
       <version>v4-rev13-1.24.1</version>
       <version>v4-rev13-1.25.0</version>
+      <version>v4-rev20180606-1.26.0</version>
     </versions>
-    <lastUpdated>20180829111008</lastUpdated>
+    <lastUpdated>20181020182442</lastUpdated>
   </versioning>
 </metadata>
