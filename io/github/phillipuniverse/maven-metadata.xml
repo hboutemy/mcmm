@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Git Hook Plugin</name>
+      <prefix>githook</prefix>
+      <artifactId>githook-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
