@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.gradle.plugins.defaults</artifactId>
   <versioning>
-    <latest>5.4.48</latest>
-    <release>5.5.97</release>
+    <latest>5.5.98</latest>
+    <release>5.5.98</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -635,6 +635,7 @@
       <version>5.4.46</version>
       <version>5.4.47</version>
       <version>5.4.48</version>
+      <version>5.4.49</version>
       <version>5.4.50</version>
       <version>5.4.51</version>
       <version>5.4.52</version>
@@ -681,16 +682,20 @@
       <version>5.4.93</version>
       <version>5.4.94</version>
       <version>5.4.95</version>
+      <version>5.4.96</version>
       <version>5.4.97</version>
       <version>5.4.98</version>
       <version>5.4.99</version>
       <version>5.4.100</version>
       <version>5.4.101</version>
+      <version>5.4.102</version>
+      <version>5.4.103</version>
       <version>5.4.104</version>
       <version>5.5.0</version>
       <version>5.5.1</version>
       <version>5.5.2</version>
       <version>5.5.3</version>
+      <version>5.5.4</version>
       <version>5.5.5</version>
       <version>5.5.6</version>
       <version>5.5.7</version>
@@ -701,6 +706,7 @@
       <version>5.5.12</version>
       <version>5.5.13</version>
       <version>5.5.14</version>
+      <version>5.5.15</version>
       <version>5.5.16</version>
       <version>5.5.17</version>
       <version>5.5.18</version>
@@ -712,28 +718,35 @@
       <version>5.5.24</version>
       <version>5.5.25</version>
       <version>5.5.26</version>
+      <version>5.5.27</version>
       <version>5.5.28</version>
       <version>5.5.29</version>
       <version>5.5.30</version>
       <version>5.5.31</version>
+      <version>5.5.32</version>
       <version>5.5.33</version>
       <version>5.5.34</version>
       <version>5.5.35</version>
       <version>5.5.36</version>
       <version>5.5.37</version>
+      <version>5.5.38</version>
       <version>5.5.39</version>
       <version>5.5.40</version>
       <version>5.5.41</version>
+      <version>5.5.42</version>
       <version>5.5.43</version>
       <version>5.5.44</version>
       <version>5.5.45</version>
       <version>5.5.46</version>
+      <version>5.5.47</version>
       <version>5.5.48</version>
       <version>5.5.49</version>
       <version>5.5.50</version>
       <version>5.5.51</version>
       <version>5.5.52</version>
       <version>5.5.53</version>
+      <version>5.5.54</version>
+      <version>5.5.55</version>
       <version>5.5.56</version>
       <version>5.5.57</version>
       <version>5.5.58</version>
@@ -741,6 +754,7 @@
       <version>5.5.60</version>
       <version>5.5.61</version>
       <version>5.5.62</version>
+      <version>5.5.63</version>
       <version>5.5.64</version>
       <version>5.5.65</version>
       <version>5.5.66</version>
@@ -759,8 +773,10 @@
       <version>5.5.79</version>
       <version>5.5.80</version>
       <version>5.5.81</version>
+      <version>5.5.82</version>
       <version>5.5.83</version>
       <version>5.5.84</version>
+      <version>5.5.85</version>
       <version>5.5.86</version>
       <version>5.5.87</version>
       <version>5.5.88</version>
@@ -769,27 +785,13 @@
       <version>5.5.91</version>
       <version>5.5.92</version>
       <version>5.5.93</version>
+      <version>5.5.94</version>
       <version>5.5.95</version>
       <version>5.5.96</version>
       <version>5.5.97</version>
-      <version>5.4.102</version>
-      <version>5.4.103</version>
-      <version>5.4.49</version>
-      <version>5.4.96</version>
-      <version>5.5.15</version>
-      <version>5.5.27</version>
-      <version>5.5.32</version>
-      <version>5.5.38</version>
-      <version>5.5.4</version>
-      <version>5.5.42</version>
-      <version>5.5.47</version>
-      <version>5.5.54</version>
-      <version>5.5.55</version>
-      <version>5.5.63</version>
-      <version>5.5.82</version>
-      <version>5.5.85</version>
-      <version>5.5.94</version>
+      <version>5.5.98</version>
+      <version>5.5.99</version>
     </versions>
-    <lastUpdated>20181022204441</lastUpdated>
+    <lastUpdated>20181023224125</lastUpdated>
   </versioning>
 </metadata>

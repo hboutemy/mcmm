@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>spf4j-${project.artifactId} - ${project.version}</name>
+      <prefix>avro-schema</prefix>
+      <artifactId>maven-avro-schema-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>spf4j-config-discovery</prefix>
       <artifactId>spf4j-config-discovery-maven-plugin</artifactId>

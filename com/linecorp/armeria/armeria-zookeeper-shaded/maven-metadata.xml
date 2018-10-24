@@ -3,8 +3,8 @@
   <groupId>com.linecorp.armeria</groupId>
   <artifactId>armeria-zookeeper-shaded</artifactId>
   <versioning>
-    <latest>0.74.0</latest>
-    <release>0.74.0</release>
+    <latest>0.74.1</latest>
+    <release>0.74.1</release>
     <versions>
       <version>0.37.0</version>
       <version>0.38.0</version>
@@ -65,7 +65,8 @@
       <version>0.72.0</version>
       <version>0.73.0</version>
       <version>0.74.0</version>
+      <version>0.74.1</version>
     </versions>
-    <lastUpdated>20181019062733</lastUpdated>
+    <lastUpdated>20181023062001</lastUpdated>
   </versioning>
 </metadata>
