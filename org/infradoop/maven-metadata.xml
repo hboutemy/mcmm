@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>infradoop-maven-oozie</name>
+      <prefix>infradoopoozie</prefix>
+      <artifactId>infradoop-maven-oozie</artifactId>
+    </plugin>
+    <plugin>
+      <name>infradoop-maven-spark</name>
+      <prefix>infradoopspark</prefix>
+      <artifactId>infradoop-maven-spark</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

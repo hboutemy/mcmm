@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-osgi-bundles-test-beatrix</artifactId>
   <versioning>
-    <latest>0.38.2</latest>
-    <release>0.38.2</release>
+    <latest>0.38.3</latest>
+    <release>0.38.3</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -100,7 +100,8 @@
       <version>0.38.0</version>
       <version>0.38.1</version>
       <version>0.38.2</version>
+      <version>0.38.3</version>
     </versions>
-    <lastUpdated>20180803183456</lastUpdated>
+    <lastUpdated>20181025074322</lastUpdated>
   </versioning>
 </metadata>
