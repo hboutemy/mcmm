@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-spec-suite-tools</artifactId>
   <versioning>
-    <latest>3.5.0-beta02</latest>
-    <release>3.5.0-beta02</release>
+    <latest>3.5.0-beta03</latest>
+    <release>3.5.0-beta03</release>
     <versions>
       <version>3.1.5</version>
       <version>3.1.6</version>
@@ -76,7 +76,8 @@
       <version>3.5.0-alpha09</version>
       <version>3.5.0-beta01</version>
       <version>3.5.0-beta02</version>
+      <version>3.5.0-beta03</version>
     </versions>
-    <lastUpdated>20181017071345</lastUpdated>
+    <lastUpdated>20181026095943</lastUpdated>
   </versioning>
 </metadata>

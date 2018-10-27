@@ -3,8 +3,8 @@
   <groupId>io.prestodb.tempto</groupId>
   <artifactId>tempto-runner</artifactId>
   <versioning>
-    <latest>1.49</latest>
-    <release>1.49</release>
+    <latest>1.50</latest>
+    <release>1.50</release>
     <versions>
       <version>1.41</version>
       <version>1.42</version>
@@ -13,7 +13,8 @@
       <version>1.46</version>
       <version>1.47</version>
       <version>1.49</version>
+      <version>1.50</version>
     </versions>
-    <lastUpdated>20180405105833</lastUpdated>
+    <lastUpdated>20181026132001</lastUpdated>
   </versioning>
 </metadata>
