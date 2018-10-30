@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.sonarqube</groupId>
   <artifactId>sonar-ws</artifactId>
   <versioning>
-    <latest>7.3</latest>
-    <release>7.3</release>
+    <latest>7.4</latest>
+    <release>7.4</release>
     <versions>
       <version>5.2-RC2</version>
       <version>5.2-RC3</version>
@@ -66,7 +66,8 @@
       <version>7.2.1</version>
       <version>7.3-alpha1</version>
       <version>7.3</version>
+      <version>7.4</version>
     </versions>
-    <lastUpdated>20180816083230</lastUpdated>
+    <lastUpdated>20181029135636</lastUpdated>
   </versioning>
 </metadata>

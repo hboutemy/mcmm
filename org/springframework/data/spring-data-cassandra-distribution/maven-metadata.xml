@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-cassandra-distribution</artifactId>
   <versioning>
-    <latest>2.1.1.RELEASE</latest>
-    <release>2.1.1.RELEASE</release>
+    <latest>2.1.2.RELEASE</latest>
+    <release>2.1.2.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -69,7 +69,8 @@
       <version>2.0.11.RELEASE</version>
       <version>2.1.0.RELEASE</version>
       <version>2.1.1.RELEASE</version>
+      <version>2.1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20181015122453</lastUpdated>
+    <lastUpdated>20181029130331</lastUpdated>
   </versioning>
 </metadata>
