@@ -3,8 +3,8 @@
   <groupId>com.spotify</groupId>
   <artifactId>scio-cassandra2_2.11</artifactId>
   <versioning>
-    <latest>0.7.0-alpha2</latest>
-    <release>0.7.0-alpha2</release>
+    <latest>0.7.0-beta1</latest>
+    <release>0.7.0-beta1</release>
     <versions>
       <version>0.3.3</version>
       <version>0.3.4</version>
@@ -36,7 +36,8 @@
       <version>0.6.1</version>
       <version>0.7.0-alpha1</version>
       <version>0.7.0-alpha2</version>
+      <version>0.7.0-beta1</version>
     </versions>
-    <lastUpdated>20181015190758</lastUpdated>
+    <lastUpdated>20181030202445</lastUpdated>
   </versioning>
 </metadata>

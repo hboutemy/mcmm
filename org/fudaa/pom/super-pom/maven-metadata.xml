@@ -3,8 +3,8 @@
   <groupId>org.fudaa.pom</groupId>
   <artifactId>super-pom</artifactId>
   <versioning>
-    <latest>3.10</latest>
-    <release>3.10</release>
+    <latest>3.13</latest>
+    <release>3.13</release>
     <versions>
       <version>0.4</version>
       <version>2.0</version>
@@ -26,7 +26,10 @@
       <version>3.8</version>
       <version>3.9</version>
       <version>3.10</version>
+      <version>3.11</version>
+      <version>3.12</version>
+      <version>3.13</version>
     </versions>
-    <lastUpdated>20181025105006</lastUpdated>
+    <lastUpdated>20181030152015</lastUpdated>
   </versioning>
 </metadata>
