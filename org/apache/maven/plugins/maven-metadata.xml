@@ -327,7 +327,7 @@
       <artifactId>maven-release-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Remote Resources Plugin</name>
+      <name>Apache Maven Remote Resources Plugin</name>
       <prefix>remote-resources</prefix>
       <artifactId>maven-remote-resources-plugin</artifactId>
     </plugin>

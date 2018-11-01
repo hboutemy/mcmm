@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-archetype-liferay-portlet</artifactId>
   <versioning>
-    <latest>8.5.2</latest>
-    <release>8.5.2</release>
+    <latest>8.6.0</latest>
+    <release>8.6.0</release>
     <versions>
       <version>7.2.0</version>
       <version>7.2.1</version>
@@ -123,9 +123,10 @@
       <version>8.5.0</version>
       <version>8.5.1</version>
       <version>8.5.2</version>
+      <version>8.6.0</version>
       <version>7.4.8</version>
       <version>7.5.0.rc1</version>
     </versions>
-    <lastUpdated>20180919102446</lastUpdated>
+    <lastUpdated>20181031155116</lastUpdated>
   </versioning>
 </metadata>
