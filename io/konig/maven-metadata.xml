@@ -7,9 +7,49 @@
       <artifactId>diff</artifactId>
     </plugin>
     <plugin>
+      <name>Konig AWS Deployment Maven Plugin</name>
+      <prefix>konig-aws-deploy</prefix>
+      <artifactId>konig-aws-deploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Content System Maven Plugin</name>
+      <prefix>konig-content-system</prefix>
+      <artifactId>konig-content-system-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Data Catalog Maven Plugin</name>
+      <prefix>konig-data-catalog</prefix>
+      <artifactId>konig-data-catalog-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Diff</name>
+      <prefix>konig-diff</prefix>
+      <artifactId>konig-diff-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig GCP Deployment Maven Plugin</name>
+      <prefix>konig-gcp-deploy</prefix>
+      <artifactId>konig-gcp-deploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Google Download Maven Plugin</name>
+      <prefix>konig-google-download</prefix>
+      <artifactId>konig-google-download-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Konig LDP Maven Plugin</name>
       <prefix>konig-ldp</prefix>
       <artifactId>konig-ldp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Konig Model Merge Maven Plugin</name>
+      <prefix>konig-model-merge</prefix>
+      <artifactId>konig-model-merge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>konig OMCS Deployment Maven Plugin</name>
+      <prefix>konig-omcs-deploy</prefix>
+      <artifactId>konig-omcs-deploy-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Konig Schema Generator Maven Plugin</name>

@@ -7,7 +7,7 @@
       <artifactId>reshift-capnp</artifactId>
     </plugin>
     <plugin>
-      <name>reshift-Reporter-Plugin</name>
+      <name>Reshift-Reporter-Plugin</name>
       <prefix>reshift-reporter</prefix>
       <artifactId>reshift-reporter-maven-plugin</artifactId>
     </plugin>
