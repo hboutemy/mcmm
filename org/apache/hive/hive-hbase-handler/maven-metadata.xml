@@ -3,8 +3,8 @@
   <groupId>org.apache.hive</groupId>
   <artifactId>hive-hbase-handler</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -33,7 +33,8 @@
       <version>2.3.3</version>
       <version>3.0.0</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20180731013337</lastUpdated>
+    <lastUpdated>20181102051340</lastUpdated>
   </versioning>
 </metadata>

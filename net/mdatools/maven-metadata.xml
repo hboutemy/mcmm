@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>modelant.conversion.maven.plugin</name>
+      <prefix>modelant.conversion..</prefix>
+      <artifactId>modelant.conversion.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.mof14.maven.plugin</name>
+      <prefix>modelant.mof14..</prefix>
+      <artifactId>modelant.mof14.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.repository.maven.plugin</name>
+      <prefix>modelant.repository..</prefix>
+      <artifactId>modelant.repository.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.template.maven.plugin</name>
+      <prefix>modelant.template..</prefix>
+      <artifactId>modelant.template.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.uml13.maven.javauml</name>
+      <prefix>modelant.uml13..javauml</prefix>
+      <artifactId>modelant.uml13.maven.javauml</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.uml13.maven.plugin</name>
+      <prefix>modelant.uml13..</prefix>
+      <artifactId>modelant.uml13.maven.plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>modelant.uml14.maven.plugin</name>
+      <prefix>modelant.uml14..</prefix>
+      <artifactId>modelant.uml14.maven.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
