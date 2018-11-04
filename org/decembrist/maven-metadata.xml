@@ -6,5 +6,10 @@
       <prefix>decembrist-jar</prefix>
       <artifactId>decembrist-jar-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>kotlin2js-reflection-mplugin</name>
+      <prefix>kotlin2js-reflection-m</prefix>
+      <artifactId>kotlin2js-reflection-mplugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
