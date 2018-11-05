@@ -6,5 +6,10 @@
       <prefix>perfana-gatling</prefix>
       <artifactId>perfana-gatling-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Perfana JMeter Maven Plugin</name>
+      <prefix>perfana-jmeter</prefix>
+      <artifactId>perfana-jmeter-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

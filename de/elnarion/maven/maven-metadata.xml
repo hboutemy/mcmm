@@ -5,5 +5,9 @@
       <prefix>docconverter</prefix>
       <artifactId>docconverter-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>plantuml-generator</prefix>
+      <artifactId>plantuml-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
