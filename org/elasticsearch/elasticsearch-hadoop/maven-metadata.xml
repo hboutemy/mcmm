@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-hadoop</artifactId>
   <versioning>
-    <latest>6.4.2</latest>
-    <release>6.4.2</release>
+    <latest>6.4.3</latest>
+    <release>6.4.3</release>
     <versions>
       <version>0.8.0</version>
       <version>0.9.0</version>
@@ -120,6 +120,7 @@
       <version>5.6.10</version>
       <version>5.6.11</version>
       <version>5.6.12</version>
+      <version>5.6.13</version>
       <version>6.0.0-alpha-1</version>
       <version>6.0.0-alpha2</version>
       <version>6.0.0-beta1</version>
@@ -143,8 +144,9 @@
       <version>6.4.0</version>
       <version>6.4.1</version>
       <version>6.4.2</version>
+      <version>6.4.3</version>
       <version>2.1.0.rc1</version>
     </versions>
-    <lastUpdated>20181002144732</lastUpdated>
+    <lastUpdated>20181106214220</lastUpdated>
   </versioning>
 </metadata>

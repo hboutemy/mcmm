@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>proto-lint-maven-plugin</name>
+      <prefix>proto-lint</prefix>
+      <artifactId>proto-lint-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
