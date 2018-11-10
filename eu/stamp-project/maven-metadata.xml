@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Botsing Maven Plugin</name>
+      <prefix>botsing</prefix>
+      <artifactId>botsing-maven</artifactId>
+    </plugin>
+    <plugin>
       <name>Diff Test Selection</name>
       <prefix>diff-test-selection</prefix>
       <artifactId>diff-test-selection</artifactId>
