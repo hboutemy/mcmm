@@ -3,8 +3,8 @@
   <groupId>com.netflix.spectator</groupId>
   <artifactId>spectator-ext-spark</artifactId>
   <versioning>
-    <latest>0.80.0</latest>
-    <release>0.80.0</release>
+    <latest>0.80.1</latest>
+    <release>0.80.1</release>
     <versions>
       <version>0.21.0</version>
       <version>0.22.0</version>
@@ -78,7 +78,8 @@
       <version>0.78.0</version>
       <version>0.79.0</version>
       <version>0.80.0</version>
+      <version>0.80.1</version>
     </versions>
-    <lastUpdated>20181101161907</lastUpdated>
+    <lastUpdated>20181109040441</lastUpdated>
   </versioning>
 </metadata>
