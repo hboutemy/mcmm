@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.multiuser</groupId>
   <artifactId>che-multiuser-keycloak-ide</artifactId>
   <versioning>
-    <latest>6.13.0</latest>
-    <release>6.13.0</release>
+    <latest>6.13.1</latest>
+    <release>6.13.1</release>
     <versions>
       <version>6.10.0</version>
       <version>6.11.0</version>
@@ -13,7 +13,8 @@
       <version>6.12.1</version>
       <version>6.12.2</version>
       <version>6.13.0</version>
+      <version>6.13.1</version>
     </versions>
-    <lastUpdated>20181024165732</lastUpdated>
+    <lastUpdated>20181108120948</lastUpdated>
   </versioning>
 </metadata>
