@@ -11,5 +11,10 @@
       <prefix>yak4j-swagger</prefix>
       <artifactId>yak4j-swagger-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>yak4j sync archetype Maven Plugin</name>
+      <prefix>yak4j-sync-archetype</prefix>
+      <artifactId>yak4j-sync-archetype-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
