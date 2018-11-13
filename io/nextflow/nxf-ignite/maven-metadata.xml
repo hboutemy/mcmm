@@ -3,8 +3,8 @@
   <groupId>io.nextflow</groupId>
   <artifactId>nxf-ignite</artifactId>
   <versioning>
-    <latest>18.10.1</latest>
-    <release>18.10.1</release>
+    <latest>18.11.0-edge</latest>
+    <release>18.11.0-edge</release>
     <versions>
       <version>0.16.0-RC1</version>
       <version>0.16.0-RC2</version>
@@ -108,7 +108,8 @@
       <version>0.32.0</version>
       <version>18.10.0</version>
       <version>18.10.1</version>
+      <version>18.11.0-edge</version>
     </versions>
-    <lastUpdated>20181024140921</lastUpdated>
+    <lastUpdated>20181112172041</lastUpdated>
   </versioning>
 </metadata>

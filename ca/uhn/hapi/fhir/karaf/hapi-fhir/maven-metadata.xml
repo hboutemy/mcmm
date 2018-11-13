@@ -3,13 +3,14 @@
   <groupId>ca.uhn.hapi.fhir.karaf</groupId>
   <artifactId>hapi-fhir</artifactId>
   <versioning>
-    <latest>3.5.0</latest>
-    <release>3.5.0</release>
+    <latest>3.6.0</latest>
+    <release>3.6.0</release>
     <versions>
       <version>3.3.0</version>
       <version>3.4.0</version>
       <version>3.5.0</version>
+      <version>3.6.0</version>
     </versions>
-    <lastUpdated>20180920121918</lastUpdated>
+    <lastUpdated>20181112130851</lastUpdated>
   </versioning>
 </metadata>
