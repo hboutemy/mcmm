@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudiot</artifactId>
   <versioning>
-    <latest>v1-rev20180926-1.26.0</latest>
-    <release>v1-rev20180926-1.26.0</release>
+    <latest>v1-rev20180926-1.27.0</latest>
+    <release>v1-rev20180926-1.27.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -63,6 +63,7 @@
       <version>v1beta1-rev14-1.22.0</version>
       <version>v1beta1-rev14-1.23.0</version>
       <version>v1beta1-rev20171227-1.26.0</version>
+      <version>v1beta1-rev20171227-1.27.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -262,9 +263,15 @@
       <version>v1-rev51-1.23.0</version>
       <version>v1-rev51-1.24.1</version>
       <version>v1-rev51-1.25.0</version>
+      <version>v1-rev53-1.18.0-rc</version>
+      <version>v1-rev53-1.22.0</version>
+      <version>v1-rev53-1.23.0</version>
+      <version>v1-rev53-1.24.1</version>
+      <version>v1-rev53-1.25.0</version>
       <version>v1-rev20170922-1.22.0</version>
       <version>v1-rev20180926-1.26.0</version>
+      <version>v1-rev20180926-1.27.0</version>
     </versions>
-    <lastUpdated>20181023011618</lastUpdated>
+    <lastUpdated>20181113230007</lastUpdated>
   </versioning>
 </metadata>

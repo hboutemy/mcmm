@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudtrace</artifactId>
   <versioning>
-    <latest>v2-rev20180820-1.26.0</latest>
-    <release>v2-rev20180820-1.26.0</release>
+    <latest>v2-rev20180820-1.27.0</latest>
+    <release>v2-rev20180820-1.27.0</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
@@ -296,6 +296,7 @@
       <version>v1-rev128-1.24.1</version>
       <version>v1-rev128-1.25.0</version>
       <version>v1-rev20180910-1.26.0</version>
+      <version>v1-rev20180910-1.27.0</version>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.20.0</version>
       <version>v2-rev1-1.21.0</version>
@@ -505,6 +506,6 @@
       <version>v2-rev60-1.25.0</version>
       <version>v2-rev20180820-1.26.0</version>
     </versions>
-    <lastUpdated>20181112200819</lastUpdated>
+    <lastUpdated>20181113232450</lastUpdated>
   </versioning>
 </metadata>
