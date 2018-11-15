@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-fusiontables</artifactId>
   <versioning>
-    <latest>v2-rev20171117-1.26.0</latest>
-    <release>v2-rev20171117-1.26.0</release>
+    <latest>v2-rev20171117-1.27.0</latest>
+    <release>v2-rev20171117-1.27.0</release>
     <versions>
       <version>v1-rev19-1.13.2-beta</version>
       <version>v1-rev19-1.14.1-beta</version>
@@ -264,6 +264,7 @@
       <version>v1-rev87-1.24.1</version>
       <version>v1-rev87-1.25.0</version>
       <version>v1-rev20171117-1.26.0</version>
+      <version>v1-rev20171117-1.27.0</version>
       <version>v2-rev1-1.15.0-rc</version>
       <version>v2-rev1-1.16.0-rc</version>
       <version>v2-rev1-1.17.0-rc</version>
@@ -371,7 +372,8 @@
       <version>v2-rev27-1.24.1</version>
       <version>v2-rev27-1.25.0</version>
       <version>v2-rev20171117-1.26.0</version>
+      <version>v2-rev20171117-1.27.0</version>
     </versions>
-    <lastUpdated>20181020174311</lastUpdated>
+    <lastUpdated>20181114003223</lastUpdated>
   </versioning>
 </metadata>

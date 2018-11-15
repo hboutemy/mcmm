@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-oauth2</artifactId>
   <versioning>
-    <latest>v2-rev20180628-1.26.0</latest>
-    <release>v2-rev20180628-1.26.0</release>
+    <latest>v2-rev20180628-1.27.0</latest>
+    <release>v2-rev20180628-1.27.0</release>
     <versions>
       <version>v1-rev33-1.13.2-beta</version>
       <version>v1-rev33-1.14.1-beta</version>
@@ -364,6 +364,7 @@
       <version>v1-rev145-1.24.1</version>
       <version>v1-rev145-1.25.0</version>
       <version>v1-rev20180628-1.26.0</version>
+      <version>v1-rev20180628-1.27.0</version>
       <version>v2-rev32-1.13.2-beta</version>
       <version>v2-rev32-1.14.1-beta</version>
       <version>v2-rev35-1.13.2-beta</version>
@@ -765,7 +766,8 @@
       <version>v2-rev141-1.24.1</version>
       <version>v2-rev141-1.25.0</version>
       <version>v2-rev20180628-1.26.0</version>
+      <version>v2-rev20180628-1.27.0</version>
     </versions>
-    <lastUpdated>20181020181831</lastUpdated>
+    <lastUpdated>20181114011715</lastUpdated>
   </versioning>
 </metadata>

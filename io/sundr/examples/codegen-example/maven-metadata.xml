@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>io.sundr.examples</groupId>
   <artifactId>codegen-example</artifactId>
   <versioning>
-    <latest>1.14.0</latest>
-    <release>1.14.0</release>
+    <latest>0.14.2</latest>
+    <release>0.14.2</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -22,6 +22,9 @@
       <version>0.0.14</version>
       <version>0.0.15</version>
       <version>0.0.16</version>
+      <version>0.0.17</version>
+      <version>0.0.18</version>
+      <version>0.0.19</version>
       <version>0.0.20</version>
       <version>0.0.21</version>
       <version>0.0.22</version>
@@ -105,12 +108,11 @@
       <version>0.12.1</version>
       <version>0.13.1</version>
       <version>0.14.0</version>
-      <version>1.14.0</version>
-      <version>0.0.17</version>
-      <version>0.0.18</version>
-      <version>0.0.19</version>
+      <version>0.14.1</version>
+      <version>0.14.2</version>
       <version>0.7</version>
+      <version>1.14.0</version>
     </versions>
-    <lastUpdated>20181108194812</lastUpdated>
+    <lastUpdated>20181114165943</lastUpdated>
   </versioning>
 </metadata>
