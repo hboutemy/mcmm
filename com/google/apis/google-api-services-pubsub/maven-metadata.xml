@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-pubsub</artifactId>
   <versioning>
-    <latest>v1-rev20181105-1.27.0</latest>
-    <release>v1-rev20181105-1.27.0</release>
+    <latest>v1-rev20181107-1.27.0</latest>
+    <release>v1-rev20181107-1.27.0</release>
     <versions>
       <version>v1beta1a-rev1-1.17.0-rc</version>
       <version>v1beta1a-rev1-1.18.0-rc</version>
@@ -1038,11 +1038,13 @@
       <version>v1-rev20180828-1.26.0</version>
       <version>v1-rev20181105-1.26.0</version>
       <version>v1-rev20181105-1.27.0</version>
+      <version>v1-rev20181107-1.26.0</version>
+      <version>v1-rev20181107-1.27.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
       <version>v1-rev1-1.19.1</version>
       <version>v1-rev1-1.20.0</version>
     </versions>
-    <lastUpdated>20181114014018</lastUpdated>
+    <lastUpdated>20181115212846</lastUpdated>
   </versioning>
 </metadata>

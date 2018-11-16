@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-as7-eap6-adapter-dist-pom</artifactId>
   <versioning>
-    <latest>4.5.0.Final</latest>
-    <release>4.5.0.Final</release>
+    <latest>4.6.0.Final</latest>
+    <release>4.6.0.Final</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -66,7 +66,8 @@
       <version>4.3.0.Final</version>
       <version>4.4.0.Final</version>
       <version>4.5.0.Final</version>
+      <version>4.6.0.Final</version>
     </versions>
-    <lastUpdated>20180927130023</lastUpdated>
+    <lastUpdated>20181114213754</lastUpdated>
   </versioning>
 </metadata>

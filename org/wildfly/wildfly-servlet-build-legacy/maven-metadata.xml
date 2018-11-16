@@ -3,15 +3,16 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-servlet-build-legacy</artifactId>
   <versioning>
-    <latest>14.0.1.Final</latest>
-    <release>14.0.1.Final</release>
+    <latest>15.0.0.Beta1</latest>
+    <release>15.0.0.Beta1</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
       <version>14.0.0.Beta2</version>
       <version>14.0.0.Final</version>
       <version>14.0.1.Final</version>
+      <version>15.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20180906004939</lastUpdated>
+    <lastUpdated>20181115022806</lastUpdated>
   </versioning>
 </metadata>

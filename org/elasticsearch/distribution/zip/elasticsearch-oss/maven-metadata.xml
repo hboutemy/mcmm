@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.distribution.zip</groupId>
   <artifactId>elasticsearch-oss</artifactId>
   <versioning>
-    <latest>6.5.0</latest>
-    <release>6.5.0</release>
+    <latest>7.0.0-alpha1</latest>
+    <release>7.0.0-alpha1</release>
     <versions>
       <version>6.3.0</version>
       <version>6.3.1</version>
@@ -14,7 +14,8 @@
       <version>6.4.2</version>
       <version>6.4.3</version>
       <version>6.5.0</version>
+      <version>7.0.0-alpha1</version>
     </versions>
-    <lastUpdated>20181114152407</lastUpdated>
+    <lastUpdated>20181115145416</lastUpdated>
   </versioning>
 </metadata>
