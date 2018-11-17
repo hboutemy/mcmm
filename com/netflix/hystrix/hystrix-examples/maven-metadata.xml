@@ -3,8 +3,8 @@
   <groupId>com.netflix.hystrix</groupId>
   <artifactId>hystrix-examples</artifactId>
   <versioning>
-    <latest>1.5.12</latest>
-    <release>1.5.12</release>
+    <latest>1.5.18</latest>
+    <release>1.5.18</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.4</version>
@@ -107,9 +107,10 @@
       <version>1.5.10</version>
       <version>1.5.11</version>
       <version>1.5.12</version>
+      <version>1.5.18</version>
       <version>1.4.11</version>
       <version>1.4.12</version>
     </versions>
-    <lastUpdated>20170516231214</lastUpdated>
+    <lastUpdated>20181116225518</lastUpdated>
   </versioning>
 </metadata>

@@ -2,17 +2,17 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>yak4j Filename Conventions Maven Plugin</name>
+      <name>yak4j-filename-conventions-maven-plugin</name>
       <prefix>yak4j-filename-conventions</prefix>
       <artifactId>yak4j-filename-conventions-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>yak4j Swagger Maven Plugin</name>
+      <name>yak4j-swagger-maven-plugin</name>
       <prefix>yak4j-swagger</prefix>
       <artifactId>yak4j-swagger-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>yak4j sync archetype Maven Plugin</name>
+      <name>yak4j-sync-archetype-maven-plugin</name>
       <prefix>yak4j-sync-archetype</prefix>
       <artifactId>yak4j-sync-archetype-maven-plugin</artifactId>
     </plugin>
