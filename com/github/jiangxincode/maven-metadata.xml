@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Emma Plugin</name>
+      <prefix>emma</prefix>
+      <artifactId>emma-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Simian Maven Plugin</name>
       <prefix>simian</prefix>
       <artifactId>simian-maven-plugin</artifactId>
