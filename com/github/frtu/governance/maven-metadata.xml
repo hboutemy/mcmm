@@ -8,6 +8,11 @@
     </plugin>
     <plugin>
       <name>schema-registries-maven-plugin Maven Plugin</name>
+      <prefix>schema</prefix>
+      <artifactId>schema-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>schema-registries-maven-plugin Maven Plugin</name>
       <prefix>schema-registries</prefix>
       <artifactId>schema-registries-maven-plugin</artifactId>
     </plugin>
