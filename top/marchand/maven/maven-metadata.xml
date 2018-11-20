@@ -11,5 +11,10 @@
       <prefix>setbaseuri</prefix>
       <artifactId>setbaseuri-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Spring-XD archiver maven plugin</name>
+      <prefix>spring-xd-archiver</prefix>
+      <artifactId>spring-xd-archiver-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
