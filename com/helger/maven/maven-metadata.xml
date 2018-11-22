@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JAX-WS Maven Plugin</name>
+      <prefix>jaxws</prefix>
+      <artifactId>jaxws-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ph-buildinfo-maven-plugin</name>
       <prefix>ph-buildinfo</prefix>
       <artifactId>ph-buildinfo-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>com.espertech</groupId>
   <artifactId>esperio-amqp</artifactId>
   <versioning>
-    <latest>8.0.0-beta2</latest>
-    <release>8.0.0-beta2</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>5.0.0</version>
       <version>5.1.0</version>
@@ -22,6 +22,7 @@
       <version>7.1.0</version>
       <version>8.0.0-beta1</version>
       <version>8.0.0-beta2</version>
+      <version>8.0.0</version>
       <version>4.10.0</version>
       <version>4.11.0</version>
       <version>4.6.0</version>
@@ -29,6 +30,6 @@
       <version>4.8.0</version>
       <version>4.9.0</version>
     </versions>
-    <lastUpdated>20181102165437</lastUpdated>
+    <lastUpdated>20181121162424</lastUpdated>
   </versioning>
 </metadata>

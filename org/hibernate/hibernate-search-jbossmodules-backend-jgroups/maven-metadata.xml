@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-jbossmodules-backend-jgroups</artifactId>
   <versioning>
-    <latest>5.10.4.Final</latest>
-    <release>5.10.4.Final</release>
+    <latest>5.10.5.Final</latest>
+    <release>5.10.5.Final</release>
     <versions>
       <version>5.10.0.Beta2</version>
       <version>5.10.0.CR1</version>
@@ -13,7 +13,8 @@
       <version>5.10.2.Final</version>
       <version>5.10.3.Final</version>
       <version>5.10.4.Final</version>
+      <version>5.10.5.Final</version>
     </versions>
-    <lastUpdated>20180910154925</lastUpdated>
+    <lastUpdated>20181121183430</lastUpdated>
   </versioning>
 </metadata>
