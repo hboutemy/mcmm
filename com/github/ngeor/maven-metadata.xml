@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>yak4j-bitbucket-maven-plugin</name>
+      <prefix>yak4j-bitbucket</prefix>
+      <artifactId>yak4j-bitbucket-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>yak4j-filename-conventions-maven-plugin</name>
       <prefix>yak4j-filename-conventions</prefix>
       <artifactId>yak4j-filename-conventions-maven-plugin</artifactId>

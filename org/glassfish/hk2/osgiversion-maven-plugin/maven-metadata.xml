@@ -3,8 +3,8 @@
   <groupId>org.glassfish.hk2</groupId>
   <artifactId>osgiversion-maven-plugin</artifactId>
   <versioning>
-    <latest>2.5.0-b61</latest>
-    <release>2.5.0-b61</release>
+    <latest>2.5.0-b63</latest>
+    <release>2.5.0-b63</release>
     <versions>
       <version>1.1.10</version>
       <version>1.1.11</version>
@@ -252,10 +252,11 @@
       <version>2.5.0-b56</version>
       <version>2.5.0-b57</version>
       <version>2.5.0-b61</version>
+      <version>2.5.0-b63</version>
       <version>1.6.10</version>
       <version>1.6.11</version>
       <version>1.6.12</version>
     </versions>
-    <lastUpdated>20180124014100</lastUpdated>
+    <lastUpdated>20181122000422</lastUpdated>
   </versioning>
 </metadata>

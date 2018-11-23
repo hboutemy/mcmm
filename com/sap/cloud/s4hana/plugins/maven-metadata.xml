@@ -2,7 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>SCP Maven Plugin for Local Neo Runtime</name>
+      <name>SAP S/4HANA Cloud SDK Maven Plugin</name>
+      <prefix>s4sdk</prefix>
+      <artifactId>s4sdk-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SAP CP Maven Plugin Local Neo Runtime</name>
       <prefix>scp-neo</prefix>
       <artifactId>scp-neo-maven-plugin</artifactId>
     </plugin>
