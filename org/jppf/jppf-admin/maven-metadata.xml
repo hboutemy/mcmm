@@ -3,8 +3,8 @@
   <groupId>org.jppf</groupId>
   <artifactId>jppf-admin</artifactId>
   <versioning>
-    <latest>6.0</latest>
-    <release>6.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>4.0.2</version>
       <version>4.0.3</version>
@@ -35,6 +35,7 @@
       <version>5.1.4</version>
       <version>5.1.5</version>
       <version>5.1.6</version>
+      <version>5.1.7</version>
       <version>5.2</version>
       <version>5.2.1</version>
       <version>5.2.2</version>
@@ -45,10 +46,12 @@
       <version>5.2.7</version>
       <version>5.2.8</version>
       <version>5.2.9</version>
+      <version>5.2.10</version>
       <version>6.0-alpha-4</version>
       <version>6.0-beta</version>
       <version>6.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20181006084028</lastUpdated>
+    <lastUpdated>20181124070533</lastUpdated>
   </versioning>
 </metadata>
