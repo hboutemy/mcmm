@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-command-line</artifactId>
   <versioning>
-    <latest>3.5.0-rc01</latest>
-    <release>3.5.0-rc01</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>3.0.4</version>
       <version>3.0.5</version>
@@ -117,7 +117,8 @@
       <version>3.5.0-beta02</version>
       <version>3.5.0-beta03</version>
       <version>3.5.0-rc01</version>
+      <version>3.5.0</version>
     </versions>
-    <lastUpdated>20181115192006</lastUpdated>
+    <lastUpdated>20181126132010</lastUpdated>
   </versioning>
 </metadata>

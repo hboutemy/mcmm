@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-jmx</artifactId>
   <versioning>
-    <latest>3.5.0-rc01</latest>
-    <release>3.5.0-rc01</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>1.3</version>
       <version>1.4.M01</version>
@@ -248,7 +248,8 @@
       <version>3.5.0-beta02</version>
       <version>3.5.0-beta03</version>
       <version>3.5.0-rc01</version>
+      <version>3.5.0</version>
     </versions>
-    <lastUpdated>20181115192048</lastUpdated>
+    <lastUpdated>20181126132050</lastUpdated>
   </versioning>
 </metadata>

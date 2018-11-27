@@ -3,9 +3,10 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>dotty-compiler_0.11</artifactId>
   <versioning>
-    <latest>0.11.0-bin-20181124-d56af69-NIGHTLY</latest>
-    <release>0.11.0-bin-20181124-d56af69-NIGHTLY</release>
+    <latest>0.11.0-bin-20181125-92bbb6e-NIGHTLY</latest>
+    <release>0.11.0-bin-20181125-92bbb6e-NIGHTLY</release>
     <versions>
+      <version>0.11.0-RC1</version>
       <version>0.11.0-bin-20181003-3eee37d-NIGHTLY</version>
       <version>0.11.0-bin-20181004-3f86587-NIGHTLY</version>
       <version>0.11.0-bin-20181005-786e6da-NIGHTLY</version>
@@ -53,7 +54,8 @@
       <version>0.11.0-bin-20181122-74c405e-NIGHTLY</version>
       <version>0.11.0-bin-20181123-9a9aa31-NIGHTLY</version>
       <version>0.11.0-bin-20181124-d56af69-NIGHTLY</version>
+      <version>0.11.0-bin-20181125-92bbb6e-NIGHTLY</version>
     </versions>
-    <lastUpdated>20181125025153</lastUpdated>
+    <lastUpdated>20181126183035</lastUpdated>
   </versioning>
 </metadata>
