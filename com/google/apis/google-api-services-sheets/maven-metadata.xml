@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-sheets</artifactId>
   <versioning>
-    <latest>v4-rev20180727-1.27.0</latest>
-    <release>v4-rev20180727-1.27.0</release>
+    <latest>v4-rev20181116-1.27.0</latest>
+    <release>v4-rev20181116-1.27.0</release>
     <versions>
       <version>v4-rev1-1.18.0-rc</version>
       <version>v4-rev1-1.20.0</version>
@@ -563,7 +563,9 @@
       <version>v4-rev553-1.25.0</version>
       <version>v4-rev20180727-1.26.0</version>
       <version>v4-rev20180727-1.27.0</version>
+      <version>v4-rev20181116-1.26.0</version>
+      <version>v4-rev20181116-1.27.0</version>
     </versions>
-    <lastUpdated>20181120012406</lastUpdated>
+    <lastUpdated>20181127212739</lastUpdated>
   </versioning>
 </metadata>
