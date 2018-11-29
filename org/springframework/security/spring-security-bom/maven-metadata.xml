@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-bom</artifactId>
   <versioning>
-    <latest>5.1.1.RELEASE</latest>
-    <release>5.1.1.RELEASE</release>
+    <latest>5.1.2.RELEASE</latest>
+    <release>5.1.2.RELEASE</release>
     <versions>
       <version>3.2.0.RELEASE</version>
       <version>3.2.1.RELEASE</version>
@@ -38,6 +38,7 @@
       <version>4.2.7.RELEASE</version>
       <version>4.2.8.RELEASE</version>
       <version>4.2.9.RELEASE</version>
+      <version>4.2.10.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -48,9 +49,11 @@
       <version>5.0.7.RELEASE</version>
       <version>5.0.8.RELEASE</version>
       <version>5.0.9.RELEASE</version>
+      <version>5.0.10.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
+      <version>5.1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20181016033211</lastUpdated>
+    <lastUpdated>20181128192610</lastUpdated>
   </versioning>
 </metadata>

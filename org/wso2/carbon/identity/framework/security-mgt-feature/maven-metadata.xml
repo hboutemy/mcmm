@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>security-mgt-feature</artifactId>
   <versioning>
@@ -629,7 +629,8 @@
       <version>5.12.210</version>
       <version>5.12.211</version>
       <version>5.12.212</version>
+      <version>5.12.213</version>
     </versions>
-    <lastUpdated>20181127141641</lastUpdated>
+    <lastUpdated>20181128103615</lastUpdated>
   </versioning>
 </metadata>

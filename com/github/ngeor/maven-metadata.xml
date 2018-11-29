@@ -12,6 +12,11 @@
       <artifactId>yak4j-filename-conventions-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>yak4j-json-yaml-converter-maven-plugin</name>
+      <prefix>yak4j-json-yaml-converter</prefix>
+      <artifactId>yak4j-json-yaml-converter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>yak4j-swagger-maven-plugin</name>
       <prefix>yak4j-swagger</prefix>
       <artifactId>yak4j-swagger-maven-plugin</artifactId>
