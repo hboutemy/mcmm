@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-core</artifactId>
   <versioning>
-    <latest>1.6.2</latest>
-    <release>1.6.2</release>
+    <latest>1.7.0</latest>
+    <release>1.7.0</release>
     <versions>
       <version>0.6-hadoop2-incubating</version>
       <version>0.6-incubating</version>
@@ -65,7 +65,8 @@
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
+      <version>1.7.0</version>
     </versions>
-    <lastUpdated>20181029071054</lastUpdated>
+    <lastUpdated>20181129173101</lastUpdated>
   </versioning>
 </metadata>
