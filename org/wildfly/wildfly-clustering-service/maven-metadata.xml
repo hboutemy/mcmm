@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-service</artifactId>
   <versioning>
-    <latest>15.0.0.Beta1</latest>
-    <release>15.0.0.Beta1</release>
+    <latest>15.0.0.Final</latest>
+    <release>15.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -44,7 +44,8 @@
       <version>14.0.0.Final</version>
       <version>14.0.1.Final</version>
       <version>15.0.0.Beta1</version>
+      <version>15.0.0.Final</version>
     </versions>
-    <lastUpdated>20181115022746</lastUpdated>
+    <lastUpdated>20181130232004</lastUpdated>
   </versioning>
 </metadata>
