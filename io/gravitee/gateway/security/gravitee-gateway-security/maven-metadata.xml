@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.security</groupId>
   <artifactId>gravitee-gateway-security</artifactId>
   <versioning>
-    <latest>1.21.0</latest>
-    <release>1.21.0</release>
+    <latest>1.21.1</latest>
+    <release>1.21.1</release>
     <versions>
       <version>1.2.0</version>
       <version>1.3.0</version>
@@ -83,8 +83,10 @@
       <version>1.20.5</version>
       <version>1.20.6</version>
       <version>1.20.7</version>
+      <version>1.20.8</version>
       <version>1.21.0</version>
+      <version>1.21.1</version>
     </versions>
-    <lastUpdated>20181129090427</lastUpdated>
+    <lastUpdated>20181203230918</lastUpdated>
   </versioning>
 </metadata>
