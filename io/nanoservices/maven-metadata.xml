@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Serverless Maven Plugin</name>
+      <prefix>serverless</prefix>
+      <artifactId>serverless-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
