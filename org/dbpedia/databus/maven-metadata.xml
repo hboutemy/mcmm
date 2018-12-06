@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>DBpedia Databus Maven Plugin</name>
+      <prefix>databus</prefix>
+      <artifactId>databus-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

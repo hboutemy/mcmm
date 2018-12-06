@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>martini</prefix>
+      <artifactId>martini-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
