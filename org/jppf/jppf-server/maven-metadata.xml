@@ -3,8 +3,8 @@
   <groupId>org.jppf</groupId>
   <artifactId>jppf-server</artifactId>
   <versioning>
-    <latest>6.0.1</latest>
-    <release>6.0.1</release>
+    <latest>6.1-alpha</latest>
+    <release>6.1-alpha</release>
     <versions>
       <version>3.3.0</version>
       <version>3.3.1</version>
@@ -61,7 +61,8 @@
       <version>6.0-beta</version>
       <version>6.0</version>
       <version>6.0.1</version>
+      <version>6.1-alpha</version>
     </versions>
-    <lastUpdated>20181124070548</lastUpdated>
+    <lastUpdated>20181210091529</lastUpdated>
   </versioning>
 </metadata>
