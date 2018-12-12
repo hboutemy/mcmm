@@ -21,5 +21,10 @@
       <prefix>tentackle-sql</prefix>
       <artifactId>tentackle-sql-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Tentackle Wizard Maven Plugin</name>
+      <prefix>tentackle-wizard</prefix>
+      <artifactId>tentackle-wizard-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

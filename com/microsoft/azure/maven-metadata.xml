@@ -7,6 +7,11 @@
       <artifactId>azure-functions-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Service Fabric Mesh Maven Plugin</name>
+      <prefix>azure-sfmesh</prefix>
+      <artifactId>azure-sfmesh-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for Azure Web Apps</name>
       <prefix>azure-webapp</prefix>
       <artifactId>azure-webapp-maven-plugin</artifactId>

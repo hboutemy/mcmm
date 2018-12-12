@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>jacoco-report</prefix>
+      <artifactId>jacoco-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>wsimport</prefix>
       <artifactId>wsimport-maven-plugin</artifactId>
     </plugin>

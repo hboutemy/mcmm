@@ -11,6 +11,11 @@
       <artifactId>code-coverage-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JDeps Maven Plugin</name>
+      <prefix>jdeps</prefix>
+      <artifactId>jdeps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JSP Plugin</name>
       <prefix>jsp</prefix>
       <artifactId>jsp-maven-plugin</artifactId>
