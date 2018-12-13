@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JAR Runner Maven Plugin</name>
+      <prefix>jar-runner</prefix>
+      <artifactId>jar-runner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-jpamodelgen</artifactId>
   <versioning>
-    <latest>5.4.0.CR2</latest>
-    <release>5.4.0.CR2</release>
+    <latest>5.4.0.Final</latest>
+    <release>5.4.0.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0-Beta-2</version>
@@ -90,6 +90,7 @@
       <version>5.3.7.Final</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.CR2</version>
+      <version>5.4.0.Final</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
       <version>5.1.15.Final</version>
@@ -100,6 +101,6 @@
       <version>5.2.16.Final</version>
       <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20181129170832</lastUpdated>
+    <lastUpdated>20181212222000</lastUpdated>
   </versioning>
 </metadata>

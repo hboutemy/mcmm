@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.analytics-common</groupId>
   <artifactId>org.wso2.carbon.event.output.adapter.kafka.server.feature</artifactId>
   <versioning>
-    <latest>5.1.46</latest>
-    <release>5.1.46</release>
+    <latest>5.1.48</latest>
+    <release>5.1.48</release>
     <versions>
       <version>5.1.21</version>
       <version>5.1.22</version>
@@ -32,7 +32,9 @@
       <version>5.1.44</version>
       <version>5.1.45</version>
       <version>5.1.46</version>
+      <version>5.1.47</version>
+      <version>5.1.48</version>
     </versions>
-    <lastUpdated>20181115162601</lastUpdated>
+    <lastUpdated>20181212075406</lastUpdated>
   </versioning>
 </metadata>
