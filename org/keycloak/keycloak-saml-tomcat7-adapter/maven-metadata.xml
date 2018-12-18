@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-tomcat7-adapter</artifactId>
   <versioning>
-    <latest>4.7.0.Final</latest>
-    <release>4.7.0.Final</release>
+    <latest>4.8.0.Final</latest>
+    <release>4.8.0.Final</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -68,7 +68,8 @@
       <version>4.5.0.Final</version>
       <version>4.6.0.Final</version>
       <version>4.7.0.Final</version>
+      <version>4.8.0.Final</version>
     </versions>
-    <lastUpdated>20181204130317</lastUpdated>
+    <lastUpdated>20181217090018</lastUpdated>
   </versioning>
 </metadata>
