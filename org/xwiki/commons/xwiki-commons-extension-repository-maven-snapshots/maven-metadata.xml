@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-extension-repository-maven-snapshots</artifactId>
   <versioning>
-    <latest>10.10</latest>
-    <release>10.10</release>
+    <latest>10.11-rc-1</latest>
+    <release>10.11-rc-1</release>
     <versions>
       <version>6.2-milestone-1</version>
       <version>6.2-milestone-2</version>
@@ -149,9 +149,10 @@
       <version>10.9</version>
       <version>10.10-rc-1</version>
       <version>10.10</version>
+      <version>10.11-rc-1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20181130093324</lastUpdated>
+    <lastUpdated>20181218171527</lastUpdated>
   </versioning>
 </metadata>
