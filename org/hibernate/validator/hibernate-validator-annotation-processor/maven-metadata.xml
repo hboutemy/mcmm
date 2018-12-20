@@ -3,8 +3,8 @@
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator-annotation-processor</artifactId>
   <versioning>
-    <latest>6.1.0.Alpha1</latest>
-    <release>6.1.0.Alpha1</release>
+    <latest>6.1.0.Alpha2</latest>
+    <release>6.1.0.Alpha2</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -28,7 +28,8 @@
       <version>6.0.12.Final</version>
       <version>6.0.13.Final</version>
       <version>6.1.0.Alpha1</version>
+      <version>6.1.0.Alpha2</version>
     </versions>
-    <lastUpdated>20181211102834</lastUpdated>
+    <lastUpdated>20181219194358</lastUpdated>
   </versioning>
 </metadata>

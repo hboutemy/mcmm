@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-oidc-client-adapter-pom</artifactId>
   <versioning>
-    <latest>4.8.0.Final</latest>
-    <release>4.8.0.Final</release>
+    <latest>4.8.1.Final</latest>
+    <release>4.8.1.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -59,7 +59,8 @@
       <version>4.6.0.Final</version>
       <version>4.7.0.Final</version>
       <version>4.8.0.Final</version>
+      <version>4.8.1.Final</version>
     </versions>
-    <lastUpdated>20181217090006</lastUpdated>
+    <lastUpdated>20181219123824</lastUpdated>
   </versioning>
 </metadata>
