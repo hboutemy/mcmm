@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-bolt</artifactId>
   <versioning>
-    <latest>3.5.0</latest>
-    <release>3.5.0</release>
+    <latest>3.5.1</latest>
+    <release>3.5.1</release>
     <versions>
       <version>3.0.0-M01</version>
       <version>3.0.0-M02</version>
@@ -133,7 +133,8 @@
       <version>3.5.0-beta03</version>
       <version>3.5.0-rc01</version>
       <version>3.5.0</version>
+      <version>3.5.1</version>
     </versions>
-    <lastUpdated>20181217131049</lastUpdated>
+    <lastUpdated>20181220143311</lastUpdated>
   </versioning>
 </metadata>
