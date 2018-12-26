@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-config-center-starter-nacos</artifactId>
   <versioning>
-    <latest>4.8.0-RC1</latest>
-    <release>4.8.0-RC1</release>
+    <latest>4.8.1</latest>
+    <release>4.8.1</release>
     <versions>
       <version>3.7.0</version>
       <version>3.7.1</version>
@@ -20,6 +20,8 @@
       <version>3.7.11</version>
       <version>3.7.12</version>
       <version>3.8.0-RC1</version>
+      <version>3.8.0</version>
+      <version>3.8.1</version>
       <version>4.7.0</version>
       <version>4.7.1</version>
       <version>4.7.2</version>
@@ -34,7 +36,9 @@
       <version>4.7.11</version>
       <version>4.7.12</version>
       <version>4.8.0-RC1</version>
+      <version>4.8.0</version>
+      <version>4.8.1</version>
     </versions>
-    <lastUpdated>20181101024542</lastUpdated>
+    <lastUpdated>20181225100454</lastUpdated>
   </versioning>
 </metadata>
