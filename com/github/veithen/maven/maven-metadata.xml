@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>hermetic</prefix>
+      <artifactId>hermetic-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>jacoco-report</prefix>
       <artifactId>jacoco-report-maven-plugin</artifactId>
     </plugin>
