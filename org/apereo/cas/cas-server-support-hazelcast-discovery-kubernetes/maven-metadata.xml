@@ -3,13 +3,14 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-hazelcast-discovery-kubernetes</artifactId>
   <versioning>
-    <latest>6.0.0-RC4</latest>
-    <release>6.0.0-RC4</release>
+    <latest>6.0.0</latest>
+    <release>6.0.0</release>
     <versions>
       <version>6.0.0-RC2</version>
       <version>6.0.0-RC3</version>
       <version>6.0.0-RC4</version>
+      <version>6.0.0</version>
     </versions>
-    <lastUpdated>20181202011839</lastUpdated>
+    <lastUpdated>20181229033412</lastUpdated>
   </versioning>
 </metadata>
