@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven HTMLCompressor Plugin</name>
+      <prefix>htmlcompressor</prefix>
+      <artifactId>htmlcompressor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>makeself-maven-plugin</name>
       <prefix>makeself</prefix>
       <artifactId>makeself-maven-plugin</artifactId>
