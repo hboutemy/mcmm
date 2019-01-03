@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Analytics ExecutionPlan Plugin</name>
+      <prefix>analytics-execution-plan</prefix>
+      <artifactId>analytics-execution-plan-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Analytics Publisher Plugin</name>
+      <prefix>analytics-publisher</prefix>
+      <artifactId>analytics-publisher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Analytics Receiver Plugin</name>
+      <prefix>analytics-receiver</prefix>
+      <artifactId>analytics-receiver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Analytics Stream Plugin</name>
+      <prefix>analytics-stream</prefix>
+      <artifactId>analytics-stream-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven P2 Profile Generation Plugin</name>
+      <prefix>carbon-p2</prefix>
+      <artifactId>carbon-p2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>humantask</prefix>
+      <artifactId>humantask-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Axis2 Plugin</name>
+      <prefix>axis2</prefix>
+      <artifactId>maven-axis2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven BPEL Plugin</name>
+      <prefix>bpel</prefix>
+      <artifactId>maven-bpel-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven BRS Plugin</name>
+      <prefix>brs</prefix>
+      <artifactId>maven-brs-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven CAR Deploy Plugin</name>
+      <prefix>car-deploy</prefix>
+      <artifactId>maven-car-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven CAR Plugin</name>
+      <prefix>car</prefix>
+      <artifactId>maven-car-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Carbon UI Plugin</name>
+      <prefix>carbon-ui</prefix>
+      <artifactId>maven-carbon-ui-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven CEP Plugin</name>
+      <prefix>cep</prefix>
+      <artifactId>maven-cep-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Dataservice Plugin</name>
+      <prefix>dataservice</prefix>
+      <artifactId>maven-dataservice-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Datasource Plugin</name>
+      <prefix>datasource</prefix>
+      <artifactId>maven-datasource-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DataServices Validator Plugin</name>
+      <prefix>ds-validator</prefix>
+      <artifactId>maven-ds-validator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Endpoint Plugin</name>
+      <prefix>endpoint</prefix>
+      <artifactId>maven-endpoint-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Gadget Plugin</name>
+      <prefix>gadget</prefix>
+      <artifactId>maven-gadget-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Inbound Endpoint Plugin</name>
+      <prefix>inboundendpoint</prefix>
+      <artifactId>maven-inboundendpoint-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAX-WS Plugin</name>
+      <prefix>jaxws</prefix>
+      <artifactId>maven-jaxws-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Library Plugin</name>
+      <prefix>library</prefix>
+      <artifactId>maven-library-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Local Entry Plugin</name>
+      <prefix>localentry</prefix>
+      <artifactId>maven-localentry-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Proxy Plugin</name>
+      <prefix>proxy</prefix>
+      <artifactId>maven-proxy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven QOS Plugin</name>
+      <prefix>qos</prefix>
+      <artifactId>maven-qos-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Registry Filter Plugin</name>
+      <prefix>registry-filter</prefix>
+      <artifactId>maven-registry-filter-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Registry Handler Plugin</name>
+      <prefix>registry-handler</prefix>
+      <artifactId>maven-registry-handler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Registry Plugin</name>
+      <prefix>registry</prefix>
+      <artifactId>maven-registry-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Sequence Plugin</name>
+      <prefix>sequence</prefix>
+      <artifactId>maven-sequence-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Stratos Plugin</name>
+      <prefix>stratos</prefix>
+      <artifactId>maven-stratos-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Synapse Mediator Plugin</name>
+      <prefix>synapse-mediator</prefix>
+      <artifactId>maven-synapse-mediator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Synapse Configuration Plugin</name>
+      <prefix>synapse</prefix>
+      <artifactId>maven-synapse-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven WAR Plugin</name>
+      <prefix>war</prefix>
+      <artifactId>maven-war-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven API Plugin</name>
+      <prefix>wso2-esb-api</prefix>
+      <artifactId>wso2-esb-api-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Connector Plugin</name>
+      <prefix>wso2-esb-connector</prefix>
+      <artifactId>wso2-esb-connector-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Endpoint Plugin</name>
+      <prefix>wso2-esb-endpoint</prefix>
+      <artifactId>wso2-esb-endpoint-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Inbound Endpoint Plugin</name>
+      <prefix>wso2-esb-inboundendpoint</prefix>
+      <artifactId>wso2-esb-inboundendpoint-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Local Entry Plugin</name>
+      <prefix>wso2-esb-localentry</prefix>
+      <artifactId>wso2-esb-localentry-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven MessageProcessor Plugin</name>
+      <prefix>wso2-esb-messageprocessor</prefix>
+      <artifactId>wso2-esb-messageprocessor-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven MessageStore Plugin</name>
+      <prefix>wso2-esb-messagestore</prefix>
+      <artifactId>wso2-esb-messagestore-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Proxy Plugin</name>
+      <prefix>wso2-esb-proxy</prefix>
+      <artifactId>wso2-esb-proxy-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven ESB Sequence Plugin</name>
+      <prefix>wso2-esb-sequence</prefix>
+      <artifactId>wso2-esb-sequence-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>WSO2  ESB Synapse Configuration Plugin</name>
+      <prefix>wso2-esb-synapse</prefix>
+      <artifactId>wso2-esb-synapse-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Task Plugin</name>
+      <prefix>wso2-esb-task</prefix>
+      <artifactId>wso2-esb-task-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Template Plugin</name>
+      <prefix>wso2-esb-template</prefix>
+      <artifactId>wso2-esb-template-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Registry Plugin</name>
+      <prefix>wso2-general-project</prefix>
+      <artifactId>wso2-general-project-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wso2-maven-package-prepare-plugin Maven Mojo</name>
+      <prefix>wso2package-prepare</prefix>
+      <artifactId>wso2-maven-package-prepare-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wso2-release-helper-plugin</name>
+      <prefix>wso2-release-helper</prefix>
+      <artifactId>wso2-release-helper-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wso2-release-pre-prepare-plugin Maven Mojo</name>
+      <prefix>wso2-release-prepare</prefix>
+      <artifactId>wso2-release-pre-prepare-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wso2-release-pre-prepare-plugin Maven Mojo</name>
+      <prefix>wso2-release-pre-prepare</prefix>
+      <artifactId>wso2-release-pre-prepare-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
