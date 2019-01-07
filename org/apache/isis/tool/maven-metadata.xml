@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Apache Isis Maven Plugin (isis-maven-plugin)</name>
       <prefix>isis</prefix>
       <artifactId>isis-maven-plugin</artifactId>
     </plugin>

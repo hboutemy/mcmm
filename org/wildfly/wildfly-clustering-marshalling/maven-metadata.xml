@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-marshalling</artifactId>
   <versioning>
-    <latest>15.0.0.Final</latest>
-    <release>15.0.0.Final</release>
+    <latest>15.0.1.Final</latest>
+    <release>15.0.1.Final</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -43,7 +43,8 @@
       <version>14.0.1.Final</version>
       <version>15.0.0.Beta1</version>
       <version>15.0.0.Final</version>
+      <version>15.0.1.Final</version>
     </versions>
-    <lastUpdated>20181130232002</lastUpdated>
+    <lastUpdated>20190106010201</lastUpdated>
   </versioning>
 </metadata>
