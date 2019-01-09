@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-starter-build</artifactId>
   <versioning>
-    <latest>Elmhurst.SR2</latest>
-    <release>Elmhurst.SR2</release>
+    <latest>Fishtown.RELEASE</latest>
+    <release>Fishtown.RELEASE</release>
     <versions>
       <version>Brooklyn.RELEASE</version>
       <version>Brooklyn.SR1</version>
@@ -20,7 +20,8 @@
       <version>Elmhurst.RELEASE</version>
       <version>Elmhurst.SR1</version>
       <version>Elmhurst.SR2</version>
+      <version>Fishtown.RELEASE</version>
     </versions>
-    <lastUpdated>20181119225008</lastUpdated>
+    <lastUpdated>20190108121559</lastUpdated>
   </versioning>
 </metadata>

@@ -26,5 +26,10 @@
       <prefix>splasher</prefix>
       <artifactId>splasher-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>xmllocation-replacer-maven-plugin</name>
+      <prefix>xmllocation-replacer</prefix>
+      <artifactId>xmllocation-replacer-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
