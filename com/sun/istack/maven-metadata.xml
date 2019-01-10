@@ -11,10 +11,5 @@
       <prefix>istack-commons</prefix>
       <artifactId>istack-commons-maven-plugin</artifactId>
     </plugin>
-    <plugin>
-      <name>istack-commons Maven Mojo</name>
-      <prefix>istack-commons</prefix>
-      <artifactId>maven-istack-commons-plugin</artifactId>
-    </plugin>
   </plugins>
 </metadata>

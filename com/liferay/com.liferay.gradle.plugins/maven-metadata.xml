@@ -4,7 +4,7 @@
   <artifactId>com.liferay.gradle.plugins</artifactId>
   <versioning>
     <latest>3.12.49</latest>
-    <release>3.13.52</release>
+    <release>3.13.55</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -1134,6 +1134,9 @@
       <version>3.13.50</version>
       <version>3.13.51</version>
       <version>3.13.52</version>
+      <version>3.13.53</version>
+      <version>3.13.54</version>
+      <version>3.13.55</version>
       <version>3.12.108</version>
       <version>3.12.119</version>
       <version>3.12.129</version>
@@ -1149,6 +1152,6 @@
       <version>3.13.40</version>
       <version>3.13.46</version>
     </versions>
-    <lastUpdated>20190108194840</lastUpdated>
+    <lastUpdated>20190109185738</lastUpdated>
   </versioning>
 </metadata>

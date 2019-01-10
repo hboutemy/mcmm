@@ -15,6 +15,10 @@
       <artifactId>state-machine-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>xjc</prefix>
+      <artifactId>xjc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>xuml-tools</prefix>
       <artifactId>xuml-tools-maven-plugin</artifactId>

@@ -3,13 +3,10 @@
   <groupId>org.glassfish.external</groupId>
   <artifactId>management-api</artifactId>
   <versioning>
-    <latest>3.2.1-b003</latest>
-    <release>3.2.1-b003</release>
+    <latest>3.2.1</latest>
+    <release>3.2.1</release>
     <versions>
-      <version>3.2.0-b001</version>
-      <version>3.2.1-b001</version>
-      <version>3.2.1-b002</version>
-      <version>3.2.1-b003</version>
+      <version>3.2.1</version>
       <version>3.0.0-b001</version>
       <version>3.0.0-b002</version>
       <version>3.0.0-b003</version>
@@ -23,7 +20,11 @@
       <version>3.0.0-b011</version>
       <version>3.0.0-b012</version>
       <version>3.1.0-b001</version>
+      <version>3.2.0-b001</version>
+      <version>3.2.1-b001</version>
+      <version>3.2.1-b002</version>
+      <version>3.2.1-b003</version>
     </versions>
-    <lastUpdated>20180511061218</lastUpdated>
+    <lastUpdated>20190109082226</lastUpdated>
   </versioning>
 </metadata>

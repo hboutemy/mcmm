@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-model-test</artifactId>
   <versioning>
-    <latest>8.0.0.Beta1</latest>
-    <release>8.0.0.Beta1</release>
+    <latest>8.0.0.Beta2</latest>
+    <release>8.0.0.Beta2</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -217,7 +217,8 @@
       <version>7.0.0.CR1</version>
       <version>7.0.0.Final</version>
       <version>8.0.0.Beta1</version>
+      <version>8.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20181212135046</lastUpdated>
+    <lastUpdated>20190109130703</lastUpdated>
   </versioning>
 </metadata>
