@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.tools</groupId>
   <artifactId>jib-maven-plugin</artifactId>
   <versioning>
-    <latest>1.0.0-rc1</latest>
-    <release>1.0.0-rc1</release>
+    <latest>1.0.0-rc2</latest>
+    <release>1.0.0-rc2</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -30,7 +30,8 @@
       <version>0.10.0</version>
       <version>0.10.1</version>
       <version>1.0.0-rc1</version>
+      <version>1.0.0-rc2</version>
     </versions>
-    <lastUpdated>20181219184205</lastUpdated>
+    <lastUpdated>20190110211630</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk-pom</artifactId>
   <versioning>
-    <latest>1.11.479</latest>
-    <release>1.11.479</release>
+    <latest>1.11.481</latest>
+    <release>1.11.481</release>
     <versions>
       <version>1.8.10</version>
       <version>1.8.10.1</version>
@@ -615,9 +615,11 @@
       <version>1.11.477</version>
       <version>1.11.478</version>
       <version>1.11.479</version>
+      <version>1.11.480</version>
+      <version>1.11.481</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
     </versions>
-    <lastUpdated>20190108025213</lastUpdated>
+    <lastUpdated>20190110224619</lastUpdated>
   </versioning>
 </metadata>

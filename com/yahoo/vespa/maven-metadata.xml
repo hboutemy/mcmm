@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>abi-check</prefix>
+      <artifactId>abi-check-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>application-deploy</prefix>
       <artifactId>application-deploy-plugin</artifactId>
     </plugin>

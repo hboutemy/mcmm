@@ -7,6 +7,11 @@
       <artifactId>dependencypath-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>filepathtouri-maven-plugin</name>
+      <prefix>filepathtouri</prefix>
+      <artifactId>filepathtouri-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>indexer-maven-plugin</name>
       <prefix>indexer</prefix>
       <artifactId>indexer-maven-plugin</artifactId>
