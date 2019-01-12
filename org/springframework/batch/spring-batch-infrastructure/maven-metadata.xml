@@ -3,8 +3,8 @@
   <groupId>org.springframework.batch</groupId>
   <artifactId>spring-batch-infrastructure</artifactId>
   <versioning>
-    <latest>4.1.0.RELEASE</latest>
-    <release>4.1.0.RELEASE</release>
+    <latest>4.1.1.RELEASE</latest>
+    <release>4.1.1.RELEASE</release>
     <versions>
       <version>1.0.0.FINAL</version>
       <version>1.0.1.RELEASE</version>
@@ -49,10 +49,13 @@
       <version>3.0.7.RELEASE</version>
       <version>3.0.8.RELEASE</version>
       <version>3.0.9.RELEASE</version>
+      <version>3.0.10.RELEASE</version>
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
+      <version>4.0.2.RELEASE</version>
       <version>4.1.0.RELEASE</version>
+      <version>4.1.1.RELEASE</version>
     </versions>
-    <lastUpdated>20181029210255</lastUpdated>
+    <lastUpdated>20190111132613</lastUpdated>
   </versioning>
 </metadata>
