@@ -3,8 +3,8 @@
   <groupId>org.apache.kylin</groupId>
   <artifactId>kylin-jdbc</artifactId>
   <versioning>
-    <latest>2.5.2</latest>
-    <release>2.5.2</release>
+    <latest>2.6.0</latest>
+    <release>2.6.0</release>
     <versions>
       <version>0.7.1-incubating</version>
       <version>0.7.2-incubating</version>
@@ -32,7 +32,8 @@
       <version>2.5.0</version>
       <version>2.5.1</version>
       <version>2.5.2</version>
+      <version>2.6.0</version>
     </versions>
-    <lastUpdated>20181204043135</lastUpdated>
+    <lastUpdated>20190112064417</lastUpdated>
   </versioning>
 </metadata>

@@ -32,6 +32,11 @@
       <artifactId>mvn-golang-wrapper</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Jlink plugin</name>
+      <prefix>mvn-jlink-wrapper</prefix>
+      <artifactId>mvn-jlink-wrapper</artifactId>
+    </plugin>
+    <plugin>
       <name>UberPom</name>
       <prefix>uber-pom</prefix>
       <artifactId>uber-pom</artifactId>

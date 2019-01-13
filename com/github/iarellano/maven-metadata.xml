@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Properties loader from Json file</name>
+      <prefix>iad-json-properties</prefix>
+      <artifactId>iad-json-properties-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
