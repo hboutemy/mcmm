@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>container-dependency-versions</artifactId>
   <versioning>
-    <latest>6.328.65</latest>
-    <release>6.328.65</release>
+    <latest>6.329.64</latest>
+    <release>6.329.64</release>
     <versions>
       <version>6.182.28</version>
       <version>6.183.169</version>
@@ -111,7 +111,8 @@
       <version>6.324.14</version>
       <version>6.327.49</version>
       <version>6.328.65</version>
+      <version>6.329.64</version>
     </versions>
-    <lastUpdated>20190110172013</lastUpdated>
+    <lastUpdated>20190114100320</lastUpdated>
   </versioning>
 </metadata>

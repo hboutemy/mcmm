@@ -47,6 +47,11 @@
       <artifactId>maven-sling-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Sling Maven Plugin</name>
+      <prefix>sling</prefix>
+      <artifactId>sling-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Sling OSGi Feature Maven Plugin</name>
       <prefix>slingfeature</prefix>
       <artifactId>slingfeature-maven-plugin</artifactId>
