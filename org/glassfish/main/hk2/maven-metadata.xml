@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HK2 configuration reader generator module</name>
+      <prefix>config-generator</prefix>
+      <artifactId>config-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

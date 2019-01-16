@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-wildfly-elytron-adapter</artifactId>
   <versioning>
-    <latest>4.8.2.Final</latest>
-    <release>4.8.2.Final</release>
+    <latest>4.8.3.Final</latest>
+    <release>4.8.3.Final</release>
     <versions>
       <version>3.1.0.CR1</version>
       <version>3.1.0.Final</version>
@@ -34,7 +34,8 @@
       <version>4.8.0.Final</version>
       <version>4.8.1.Final</version>
       <version>4.8.2.Final</version>
+      <version>4.8.3.Final</version>
     </versions>
-    <lastUpdated>20190103220922</lastUpdated>
+    <lastUpdated>20190115134938</lastUpdated>
   </versioning>
 </metadata>
