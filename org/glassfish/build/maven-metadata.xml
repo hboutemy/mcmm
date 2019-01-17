@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Command Security Plug-in</name>
+      <prefix>command-security</prefix>
+      <artifactId>command-security-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>GlassFishBuild Maven Plugin</name>
+      <prefix>glassfishbuild</prefix>
+      <artifactId>glassfishbuild-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Spec Version Maven Plugin</name>
       <prefix>spec-version</prefix>
       <artifactId>spec-version-maven-plugin</artifactId>
