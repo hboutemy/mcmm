@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-dsl</artifactId>
   <versioning>
-    <latest>3.37.5</latest>
-    <release>3.37.5</release>
+    <latest>3.37.7</latest>
+    <release>3.37.7</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -319,6 +319,8 @@
       <version>3.37.3</version>
       <version>3.37.4</version>
       <version>3.37.5</version>
+      <version>3.37.6</version>
+      <version>3.37.7</version>
       <version>2.10.0</version>
       <version>feature-275-page-link-87c04df</version>
       <version>feature-275-page-link-aab1758</version>
@@ -327,6 +329,6 @@
       <version>master-4d3a951</version>
       <version>master-762890b</version>
     </versions>
-    <lastUpdated>20190116121103</lastUpdated>
+    <lastUpdated>20190117085732</lastUpdated>
   </versioning>
 </metadata>

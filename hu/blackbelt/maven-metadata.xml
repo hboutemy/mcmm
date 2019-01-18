@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Unpack artifact maven plugin</name>
+      <prefix>unpack-artifact</prefix>
+      <artifactId>unpack-artifact-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

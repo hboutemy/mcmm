@@ -3,8 +3,8 @@
   <groupId>com.lightbend.akka</groupId>
   <artifactId>akka-stream-alpakka-unix-domain-socket_2.11</artifactId>
   <versioning>
-    <latest>1.0-M1</latest>
-    <release>1.0-M1</release>
+    <latest>1.0-M2</latest>
+    <release>1.0-M2</release>
     <versions>
       <version>0.16</version>
       <version>0.17</version>
@@ -12,7 +12,8 @@
       <version>0.19</version>
       <version>0.20</version>
       <version>1.0-M1</version>
+      <version>1.0-M2</version>
     </versions>
-    <lastUpdated>20180927194759</lastUpdated>
+    <lastUpdated>20190117231516</lastUpdated>
   </versioning>
 </metadata>
