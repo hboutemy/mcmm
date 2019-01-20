@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Atlassian Marketplace publishing Maven Plugin</name>
+      <prefix>marketplace</prefix>
+      <artifactId>marketplace-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
