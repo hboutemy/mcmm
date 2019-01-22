@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.util.bridges</artifactId>
   <versioning>
@@ -25,7 +25,8 @@
       <version>3.0.2</version>
       <version>4.0.0</version>
       <version>5.0.0</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20180925221434</lastUpdated>
+    <lastUpdated>20190121063025</lastUpdated>
   </versioning>
 </metadata>
