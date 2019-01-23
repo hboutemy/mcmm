@@ -3,12 +3,13 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-kubernetes-dependencies</artifactId>
   <versioning>
-    <latest>0.3.0.RELEASE</latest>
-    <release>0.3.0.RELEASE</release>
+    <latest>1.0.0.RELEASE</latest>
+    <release>1.0.0.RELEASE</release>
     <versions>
       <version>0.2.0.RELEASE</version>
       <version>0.3.0.RELEASE</version>
+      <version>1.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20180803165216</lastUpdated>
+    <lastUpdated>20190122214638</lastUpdated>
   </versioning>
 </metadata>
