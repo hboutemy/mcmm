@@ -3,8 +3,8 @@
   <groupId>com.alibaba.csp</groupId>
   <artifactId>sentinel-annotation-aspectj</artifactId>
   <versioning>
-    <latest>1.4.1</latest>
-    <release>1.4.1</release>
+    <latest>1.4.1-no-slf4j</latest>
+    <release>1.4.1-no-slf4j</release>
     <versions>
       <version>0.1.1</version>
       <version>0.1.2</version>
@@ -14,7 +14,8 @@
       <version>1.4.0</version>
       <version>1.4.0-no-slf4j</version>
       <version>1.4.1</version>
+      <version>1.4.1-no-slf4j</version>
     </versions>
-    <lastUpdated>20190117115411</lastUpdated>
+    <lastUpdated>20190123165934</lastUpdated>
   </versioning>
 </metadata>

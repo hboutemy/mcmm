@@ -6,5 +6,10 @@
       <prefix>dado</prefix>
       <artifactId>dado</artifactId>
     </plugin>
+    <plugin>
+      <name>rift</name>
+      <prefix>rift</prefix>
+      <artifactId>rift</artifactId>
+    </plugin>
   </plugins>
 </metadata>

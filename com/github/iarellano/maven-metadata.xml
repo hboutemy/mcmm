@@ -6,5 +6,10 @@
       <prefix>iad-json-properties</prefix>
       <artifactId>iad-json-properties-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>REST Client Maven Plugin</name>
+      <prefix>iad-rest-client</prefix>
+      <artifactId>iad-rest-client-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
