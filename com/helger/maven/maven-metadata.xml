@@ -27,6 +27,11 @@
       <artifactId>ph-javacc-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>ph-jdmc-maven-plugin</name>
+      <prefix>ph-jdmc</prefix>
+      <artifactId>ph-jdmc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ph-jscompress-maven-plugin</name>
       <prefix>ph-jscompress</prefix>
       <artifactId>ph-jscompress-maven-plugin</artifactId>

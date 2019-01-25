@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fix Info.plist Maven Plugin (Eclipse RCP)</name>
+      <prefix>fix-info-plist</prefix>
+      <artifactId>fix-info-plist-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
