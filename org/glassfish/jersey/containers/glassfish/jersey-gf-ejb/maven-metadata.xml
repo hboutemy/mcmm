@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.glassfish.jersey.containers.glassfish</groupId>
   <artifactId>jersey-gf-ejb</artifactId>
   <versioning>
     <latest>2.28-RC4</latest>
     <release>2.28-RC4</release>
     <versions>
-      <version>2.28-RC4</version>
-      <version>2.0</version>
       <version>2.0-m05-1</version>
       <version>2.0-m05-2</version>
       <version>2.0-m06</version>
@@ -26,8 +24,22 @@
       <version>2.0-m13-2</version>
       <version>2.0-m13-3</version>
       <version>2.0-rc1</version>
+      <version>2.0</version>
       <version>2.0.1</version>
       <version>2.1</version>
+      <version>2.2</version>
+      <version>2.3</version>
+      <version>2.3.1</version>
+      <version>2.4</version>
+      <version>2.4.1</version>
+      <version>2.5</version>
+      <version>2.5.1</version>
+      <version>2.5.2</version>
+      <version>2.6</version>
+      <version>2.7</version>
+      <version>2.8</version>
+      <version>2.9</version>
+      <version>2.9.1</version>
       <version>2.10</version>
       <version>2.10.1</version>
       <version>2.10.2</version>
@@ -42,7 +54,6 @@
       <version>2.17</version>
       <version>2.18</version>
       <version>2.19</version>
-      <version>2.2</version>
       <version>2.20</version>
       <version>2.21</version>
       <version>2.21.1</version>
@@ -58,7 +69,6 @@
       <version>2.24.1</version>
       <version>2.25</version>
       <version>2.25.1</version>
-      <version>2.26</version>
       <version>2.26-b01</version>
       <version>2.26-b02</version>
       <version>2.26-b03</version>
@@ -68,20 +78,10 @@
       <version>2.26-b07</version>
       <version>2.26-b08</version>
       <version>2.26-b09</version>
+      <version>2.26</version>
       <version>2.27</version>
-      <version>2.3</version>
-      <version>2.3.1</version>
-      <version>2.4</version>
-      <version>2.4.1</version>
-      <version>2.5</version>
-      <version>2.5.1</version>
-      <version>2.5.2</version>
-      <version>2.6</version>
-      <version>2.7</version>
-      <version>2.8</version>
-      <version>2.9</version>
-      <version>2.9.1</version>
+      <version>2.28-RC4</version>
     </versions>
-    <lastUpdated>20190121195547</lastUpdated>
+    <lastUpdated>20190125182154</lastUpdated>
   </versioning>
 </metadata>

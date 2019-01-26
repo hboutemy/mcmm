@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-spi</artifactId>
   <versioning>
-    <latest>0.215</latest>
-    <release>0.215</release>
+    <latest>0.216</latest>
+    <release>0.216</release>
     <versions>
       <version>0.52</version>
       <version>0.53</version>
@@ -177,7 +177,8 @@
       <version>0.213</version>
       <version>0.214</version>
       <version>0.215</version>
+      <version>0.216</version>
     </versions>
-    <lastUpdated>20181215031924</lastUpdated>
+    <lastUpdated>20190125200415</lastUpdated>
   </versioning>
 </metadata>

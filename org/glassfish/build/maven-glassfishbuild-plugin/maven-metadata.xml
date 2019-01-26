@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.glassfish.build</groupId>
   <artifactId>maven-glassfishbuild-plugin</artifactId>
   <versioning>
     <latest>3.2.2</latest>
     <release>3.2.2</release>
     <versions>
-      <version>3.2.1</version>
-      <version>3.2.2</version>
-      <version>3.0</version>
-      <version>3.0-Preview</version>
-      <version>3.0-Preview-b47a</version>
-      <version>3.0-Preview-b47b</version>
-      <version>3.0-Preview-b47c</version>
       <version>3.0-b39</version>
       <version>3.0-b40</version>
       <version>3.0-b41</version>
@@ -51,7 +44,11 @@
       <version>3.0-b74</version>
       <version>3.0-b74a</version>
       <version>3.0-b74b</version>
-      <version>3.0.1</version>
+      <version>3.0</version>
+      <version>3.0-Preview-b47a</version>
+      <version>3.0-Preview-b47b</version>
+      <version>3.0-Preview-b47c</version>
+      <version>3.0-Preview</version>
       <version>3.0.1-b01</version>
       <version>3.0.1-b02</version>
       <version>3.0.1-b03</version>
@@ -71,7 +68,7 @@
       <version>3.0.1-b18</version>
       <version>3.0.1-b19</version>
       <version>3.0.1-b20</version>
-      <version>3.1</version>
+      <version>3.0.1</version>
       <version>3.1-b01</version>
       <version>3.1-b02</version>
       <version>3.1-b03</version>
@@ -112,7 +109,7 @@
       <version>3.1-b39</version>
       <version>3.1-b40</version>
       <version>3.1-b41</version>
-      <version>3.1.1</version>
+      <version>3.1</version>
       <version>3.1.1-b01</version>
       <version>3.1.1-b02</version>
       <version>3.1.1-b03</version>
@@ -124,13 +121,16 @@
       <version>3.1.1-b09</version>
       <version>3.1.1-b10</version>
       <version>3.1.1-b11</version>
+      <version>3.1.1</version>
       <version>3.2-b01</version>
       <version>3.2-b02</version>
       <version>3.2-b03</version>
       <version>3.2-b04</version>
       <version>3.2-b05</version>
       <version>3.2-b06</version>
+      <version>3.2.1</version>
+      <version>3.2.2</version>
     </versions>
-    <lastUpdated>20110915083247</lastUpdated>
+    <lastUpdated>20190125202921</lastUpdated>
   </versioning>
 </metadata>
