@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Json to Yaml to Json Converter Maven Plugin</name>
+      <prefix>iad-j2y2j-converter</prefix>
+      <artifactId>iad-j2y2j-converter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Properties loader from Json file</name>
       <prefix>iad-json-properties</prefix>
       <artifactId>iad-json-properties-maven-plugin</artifactId>
