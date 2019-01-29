@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-assembly-descriptors</artifactId>
   <versioning>
-    <latest>0.9.0.Beta2</latest>
-    <release>0.9.0.Beta2</release>
+    <latest>0.9.0.CR1</latest>
+    <release>0.9.0.CR1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -43,7 +43,8 @@
       <version>0.9.0.Alpha2</version>
       <version>0.9.0.Beta1</version>
       <version>0.9.0.Beta2</version>
+      <version>0.9.0.CR1</version>
     </versions>
-    <lastUpdated>20181219133059</lastUpdated>
+    <lastUpdated>20190128112106</lastUpdated>
   </versioning>
 </metadata>
