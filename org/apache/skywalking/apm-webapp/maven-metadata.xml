@@ -3,8 +3,8 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>apm-webapp</artifactId>
   <versioning>
-    <latest>6.0.0-beta</latest>
-    <release>6.0.0-beta</release>
+    <latest>6.0.0-GA</latest>
+    <release>6.0.0-GA</release>
     <versions>
       <version>5.0.0-alpha</version>
       <version>5.0.0-beta</version>
@@ -13,7 +13,8 @@
       <version>5.0.0-GA</version>
       <version>6.0.0-alpha</version>
       <version>6.0.0-beta</version>
+      <version>6.0.0-GA</version>
     </versions>
-    <lastUpdated>20181225020819</lastUpdated>
+    <lastUpdated>20190129081900</lastUpdated>
   </versioning>
 </metadata>
