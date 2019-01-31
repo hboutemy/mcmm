@@ -3,11 +3,12 @@
   <groupId>com.mapbox.mapboxsdk</groupId>
   <artifactId>mapbox-android-navigation</artifactId>
   <versioning>
-    <latest>0.27.0</latest>
-    <release>0.27.0</release>
+    <latest>0.28.0</latest>
+    <release>0.28.0</release>
     <versions>
       <version>eh-beta.1</version>
       <version>eh-beta.2</version>
+      <version>eh-beta.3</version>
       <version>NATIVE-OFFLINE-beta.1</version>
       <version>NATIVE-OFFLINE-beta.2</version>
       <version>NATIVE-OFFLINE-beta.3</version>
@@ -58,7 +59,8 @@
       <version>0.25.0</version>
       <version>0.26.0</version>
       <version>0.27.0</version>
+      <version>0.28.0</version>
     </versions>
-    <lastUpdated>20190117190312</lastUpdated>
+    <lastUpdated>20190130213947</lastUpdated>
   </versioning>
 </metadata>

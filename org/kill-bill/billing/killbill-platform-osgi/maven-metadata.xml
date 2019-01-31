@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-osgi</artifactId>
   <versioning>
-    <latest>0.39.0</latest>
-    <release>0.39.0</release>
+    <latest>0.39.1</latest>
+    <release>0.39.1</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -103,7 +103,8 @@
       <version>0.38.2</version>
       <version>0.38.3</version>
       <version>0.39.0</version>
+      <version>0.39.1</version>
     </versions>
-    <lastUpdated>20190129203916</lastUpdated>
+    <lastUpdated>20190130024426</lastUpdated>
   </versioning>
 </metadata>
