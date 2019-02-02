@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>asciidoc-maven-plugin</name>
+      <prefix>asciidoc</prefix>
+      <artifactId>asciidoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>aspell-maven-plugin</name>
+      <prefix>aspell</prefix>
+      <artifactId>aspell-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
