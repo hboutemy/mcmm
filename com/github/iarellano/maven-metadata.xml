@@ -12,6 +12,11 @@
       <artifactId>iad-json-properties-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Invoker maven plugin</name>
+      <prefix>iadinvoker</prefix>
+      <artifactId>iad-maven-invoker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>REST Client Maven Plugin</name>
       <prefix>iad-rest-client</prefix>
       <artifactId>iad-rest-client-maven-plugin</artifactId>
