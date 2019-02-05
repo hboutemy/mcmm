@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-redis-service-registry</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>5.2.0-RC3</version>
       <version>5.2.0-RC4</version>
@@ -35,7 +35,8 @@
       <version>6.0.0-RC3</version>
       <version>6.0.0-RC4</version>
       <version>6.0.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20181229033600</lastUpdated>
+    <lastUpdated>20190204100819</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-mongo-ticket-registry</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>5.1.0-RC2</version>
       <version>5.1.0-RC3</version>
@@ -50,7 +50,8 @@
       <version>6.0.0-RC3</version>
       <version>6.0.0-RC4</version>
       <version>6.0.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20181229033509</lastUpdated>
+    <lastUpdated>20190204100725</lastUpdated>
   </versioning>
 </metadata>
