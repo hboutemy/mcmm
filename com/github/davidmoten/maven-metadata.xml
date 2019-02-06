@@ -10,6 +10,10 @@
       <artifactId>decrypt-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>jax</prefix>
+      <artifactId>jax-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>state-machine</prefix>
       <artifactId>state-machine-maven-plugin</artifactId>
