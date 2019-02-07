@@ -3,8 +3,8 @@
   <groupId>com.atlassian.pom</groupId>
   <artifactId>central-pom</artifactId>
   <versioning>
-    <latest>5.0.23</latest>
-    <release>5.0.23</release>
+    <latest>5.0.24</latest>
+    <release>5.0.24</release>
     <versions>
       <version>3.0.49</version>
       <version>3.0.66</version>
@@ -19,6 +19,7 @@
       <version>5.0.21</version>
       <version>5.0.22</version>
       <version>5.0.23</version>
+      <version>5.0.24</version>
       <version>3.0.100</version>
       <version>3.0.103</version>
       <version>3.0.104</version>
@@ -131,6 +132,6 @@
       <version>4.0.8</version>
       <version>4.0.9</version>
     </versions>
-    <lastUpdated>20180926042916</lastUpdated>
+    <lastUpdated>20190206031852</lastUpdated>
   </versioning>
 </metadata>

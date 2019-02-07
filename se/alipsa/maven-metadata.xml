@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>renjin-hamcrest-maven-plugin Maven Mojo</name>
+      <prefix>renjin-hamcrest</prefix>
+      <artifactId>renjin-hamcrest-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

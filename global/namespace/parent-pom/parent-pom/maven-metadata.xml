@@ -3,15 +3,16 @@
   <groupId>global.namespace.parent-pom</groupId>
   <artifactId>parent-pom</artifactId>
   <versioning>
-    <latest>6</latest>
-    <release>6</release>
+    <latest>7</latest>
+    <release>7</release>
     <versions>
       <version>2</version>
       <version>3</version>
       <version>4</version>
       <version>5</version>
       <version>6</version>
+      <version>7</version>
     </versions>
-    <lastUpdated>20181228073047</lastUpdated>
+    <lastUpdated>20190206093658</lastUpdated>
   </versioning>
 </metadata>

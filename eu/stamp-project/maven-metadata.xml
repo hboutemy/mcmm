@@ -12,6 +12,11 @@
       <artifactId>diff-test-selection</artifactId>
     </plugin>
     <plugin>
+      <name>DSpot - Diff Test Selection</name>
+      <prefix>dspot-diff-test-selection</prefix>
+      <artifactId>dspot-diff-test-selection</artifactId>
+    </plugin>
+    <plugin>
       <name>DSpot - Maven Plugin</name>
       <prefix>dspot</prefix>
       <artifactId>dspot-maven</artifactId>
