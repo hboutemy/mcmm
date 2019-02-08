@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Dependency Lock Maven Plugin</name>
+      <prefix>dependency-lock</prefix>
+      <artifactId>dependency-lock-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Text Checker - Text Checker Maven Plugin</name>
       <prefix>text-checker</prefix>
       <artifactId>text-checker-maven-plugin</artifactId>

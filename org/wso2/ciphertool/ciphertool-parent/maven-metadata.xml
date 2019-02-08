@@ -3,15 +3,16 @@
   <groupId>org.wso2.ciphertool</groupId>
   <artifactId>ciphertool-parent</artifactId>
   <versioning>
-    <latest>1.0.0-wso4v9</latest>
-    <release>1.0.0-wso4v9</release>
+    <latest>1.0.0-wso5v9</latest>
+    <release>1.0.0-wso5v9</release>
     <versions>
       <version>1.0.0-wso2v7</version>
       <version>1.0.0-wso2v8</version>
       <version>1.0.0-wso2v9</version>
       <version>1.0.0-wso3v9</version>
       <version>1.0.0-wso4v9</version>
+      <version>1.0.0-wso5v9</version>
     </versions>
-    <lastUpdated>20181205081442</lastUpdated>
+    <lastUpdated>20190207111547</lastUpdated>
   </versioning>
 </metadata>

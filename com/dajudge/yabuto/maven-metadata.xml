@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Yabuto ${project.artifactId}</name>
+      <prefix>yabuto</prefix>
+      <artifactId>yabuto-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>yabuto</prefix>
       <artifactId>yabuto-plugin</artifactId>
     </plugin>
