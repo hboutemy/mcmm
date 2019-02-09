@@ -3,8 +3,8 @@
   <groupId>org.wso2.siddhi</groupId>
   <artifactId>siddhi-service</artifactId>
   <versioning>
-    <latest>4.4.4</latest>
-    <release>4.4.4</release>
+    <latest>4.4.8</latest>
+    <release>4.4.8</release>
     <versions>
       <version>4.0.0-alpha</version>
       <version>4.0.0-alpha2</version>
@@ -222,7 +222,11 @@
       <version>4.4.2</version>
       <version>4.4.3</version>
       <version>4.4.4</version>
+      <version>4.4.5</version>
+      <version>4.4.6</version>
+      <version>4.4.7</version>
+      <version>4.4.8</version>
     </versions>
-    <lastUpdated>20190207133033</lastUpdated>
+    <lastUpdated>20190208191635</lastUpdated>
   </versioning>
 </metadata>
