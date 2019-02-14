@@ -36,5 +36,10 @@
       <prefix>swift2thrift</prefix>
       <artifactId>swift2thrift-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>maven plugin for Microsoft/thrifty compiler</name>
+      <prefix>thrifty-compiler</prefix>
+      <artifactId>thrifty-compiler-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
