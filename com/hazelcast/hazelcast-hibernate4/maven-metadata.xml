@@ -3,8 +3,8 @@
   <groupId>com.hazelcast</groupId>
   <artifactId>hazelcast-hibernate4</artifactId>
   <versioning>
-    <latest>3.8.3</latest>
-    <release>3.8.3</release>
+    <latest>3.8.4</latest>
+    <release>3.8.4</release>
     <versions>
       <version>3.0-RC1</version>
       <version>3.0-RC2</version>
@@ -75,11 +75,12 @@
       <version>3.8.1</version>
       <version>3.8.2</version>
       <version>3.8.3</version>
+      <version>3.8.4</version>
       <version>3.2.7</version>
       <version>3.4.3</version>
       <version>3.4.4</version>
       <version>3.5</version>
     </versions>
-    <lastUpdated>20181210085429</lastUpdated>
+    <lastUpdated>20190218103601</lastUpdated>
   </versioning>
 </metadata>

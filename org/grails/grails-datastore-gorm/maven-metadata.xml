@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm</artifactId>
   <versioning>
-    <latest>6.1.9.RELEASE</latest>
-    <release>6.1.9.RELEASE</release>
+    <latest>7.0.0.RC1</latest>
+    <release>7.0.0.RC1</release>
     <versions>
       <version>1.0.0.M2</version>
       <version>1.0.0.M3</version>
@@ -110,9 +110,10 @@
       <version>6.1.7.RELEASE</version>
       <version>6.1.8.RELEASE</version>
       <version>6.1.9.RELEASE</version>
+      <version>7.0.0.RC1</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20180306190845</lastUpdated>
+    <lastUpdated>20190218100257</lastUpdated>
   </versioning>
 </metadata>

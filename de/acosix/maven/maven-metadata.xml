@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Acosix I18n Resources Plugin</name>
+      <prefix>i18n-resources</prefix>
+      <artifactId>i18n-resources-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JSHint Maven Plugin</name>
       <prefix>jshint</prefix>
       <artifactId>jshint-maven-plugin</artifactId>

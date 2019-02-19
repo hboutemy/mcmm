@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-validator</artifactId>
   <versioning>
-    <latest>6.1.0.Alpha2</latest>
-    <release>6.1.0.Alpha2</release>
+    <latest>6.1.0.Alpha3</latest>
+    <release>6.1.0.Alpha3</release>
     <versions>
       <version>3.0.0.GA</version>
       <version>3.1.0.CR1</version>
@@ -99,10 +99,12 @@
       <version>6.0.12.Final</version>
       <version>6.0.13.Final</version>
       <version>6.0.14.Final</version>
+      <version>6.0.15.Final</version>
       <version>6.1.0.Alpha1</version>
       <version>6.1.0.Alpha2</version>
+      <version>6.1.0.Alpha3</version>
       <version>3.0.0.ga</version>
     </versions>
-    <lastUpdated>20190203155656</lastUpdated>
+    <lastUpdated>20190218113928</lastUpdated>
   </versioning>
 </metadata>

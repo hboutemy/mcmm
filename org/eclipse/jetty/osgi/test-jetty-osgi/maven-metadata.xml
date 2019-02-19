@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.osgi</groupId>
   <artifactId>test-jetty-osgi</artifactId>
   <versioning>
-    <latest>9.4.14.v20181114</latest>
-    <release>9.4.14.v20181114</release>
+    <latest>9.4.15.v20190215</latest>
+    <release>9.4.15.v20190215</release>
     <versions>
       <version>7.1.6.v20100715</version>
       <version>7.2.0.RC0</version>
@@ -208,7 +208,8 @@
       <version>9.4.12.v20180830</version>
       <version>9.4.13.v20181111</version>
       <version>9.4.14.v20181114</version>
+      <version>9.4.15.v20190215</version>
     </versions>
-    <lastUpdated>20181115125928</lastUpdated>
+    <lastUpdated>20190218171416</lastUpdated>
   </versioning>
 </metadata>
