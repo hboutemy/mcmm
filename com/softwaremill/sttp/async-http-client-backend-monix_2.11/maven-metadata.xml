@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp</groupId>
   <artifactId>async-http-client-backend-monix_2.11</artifactId>
   <versioning>
-    <latest>1.5.10</latest>
-    <release>1.5.10</release>
+    <latest>1.5.11</latest>
+    <release>1.5.11</release>
     <versions>
       <version>0.0.14</version>
       <version>0.0.15</version>
@@ -74,7 +74,8 @@
       <version>1.5.8</version>
       <version>1.5.9</version>
       <version>1.5.10</version>
+      <version>1.5.11</version>
     </versions>
-    <lastUpdated>20190214173832</lastUpdated>
+    <lastUpdated>20190219111100</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,9 @@
       <prefix>gen</prefix>
       <artifactId>gen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>idoc-core</prefix>
+      <artifactId>idoc-core</artifactId>
+    </plugin>
   </plugins>
 </metadata>
