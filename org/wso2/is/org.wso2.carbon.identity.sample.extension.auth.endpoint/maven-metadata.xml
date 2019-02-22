@@ -3,8 +3,8 @@
   <groupId>org.wso2.is</groupId>
   <artifactId>org.wso2.carbon.identity.sample.extension.auth.endpoint</artifactId>
   <versioning>
-    <latest>5.8.0-m21</latest>
-    <release>5.8.0-m21</release>
+    <latest>5.8.0-m22</latest>
+    <release>5.8.0-m22</release>
     <versions>
       <version>5.5.0-alpha</version>
       <version>5.5.0-alpha2</version>
@@ -59,7 +59,8 @@
       <version>5.8.0-m19</version>
       <version>5.8.0-m20</version>
       <version>5.8.0-m21</version>
+      <version>5.8.0-m22</version>
     </versions>
-    <lastUpdated>20190207031324</lastUpdated>
+    <lastUpdated>20190221030524</lastUpdated>
   </versioning>
 </metadata>
