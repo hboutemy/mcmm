@@ -22,7 +22,7 @@
       <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>
     </plugin>
@@ -35,6 +35,11 @@
       <name>Camel :: Maven Plugins :: Camel Maven Package</name>
       <prefix>camel-package</prefix>
       <artifactId>camel-package-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Catalog :: Camel Report Maven Plugin</name>
+      <prefix>camel-report</prefix>
+      <artifactId>camel-report-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Camel :: Maven Plugins :: Swagger REST DSL Generator Maven plugin</name>
