@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>diff-jacoco-maven-plugin Maven Plugin</name>
+      <prefix>diff-jacoco</prefix>
+      <artifactId>diff-jacoco-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
