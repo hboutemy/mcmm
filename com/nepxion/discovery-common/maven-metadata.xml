@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-common</artifactId>
   <versioning>
-    <latest>4.8.2.6</latest>
-    <release>4.8.2.6</release>
+    <latest>4.8.3</latest>
+    <release>4.8.3</release>
     <versions>
       <version>3.5.2</version>
       <version>3.5.3</version>
@@ -58,6 +58,7 @@
       <version>3.8.2.4</version>
       <version>3.8.2.5</version>
       <version>3.8.2.6</version>
+      <version>3.8.3</version>
       <version>4.2.2</version>
       <version>4.2.3</version>
       <version>4.2.4</version>
@@ -110,7 +111,8 @@
       <version>4.8.2.4</version>
       <version>4.8.2.5</version>
       <version>4.8.2.6</version>
+      <version>4.8.3</version>
     </versions>
-    <lastUpdated>20190219082957</lastUpdated>
+    <lastUpdated>20190225012850</lastUpdated>
   </versioning>
 </metadata>
