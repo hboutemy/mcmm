@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-vibur</artifactId>
   <versioning>
-    <latest>5.4.1.Final</latest>
-    <release>5.4.1.Final</release>
+    <latest>5.3.0.Beta1</latest>
+    <release>5.3.0.Beta1</release>
     <versions>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
@@ -25,6 +25,6 @@
       <version>5.4.0.Final</version>
       <version>5.4.1.Final</version>
     </versions>
-    <lastUpdated>20190225225420</lastUpdated>
+    <lastUpdated>20180118163902</lastUpdated>
   </versioning>
 </metadata>

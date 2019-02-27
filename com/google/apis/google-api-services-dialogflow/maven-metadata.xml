@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-dialogflow</artifactId>
   <versioning>
-    <latest>v2-rev20190209-1.28.0</latest>
-    <release>v2-rev20190209-1.28.0</release>
+    <latest>v2-rev20190219-1.27.0</latest>
+    <release>v2-rev20190219-1.27.0</release>
     <versions>
       <version>v2beta1-rev2-1.18.0-rc</version>
       <version>v2beta1-rev2-1.21.0</version>
@@ -245,6 +245,8 @@
       <version>v2beta1-rev20190209-1.26.0</version>
       <version>v2beta1-rev20190209-1.27.0</version>
       <version>v2beta1-rev20190209-1.28.0</version>
+      <version>v2beta1-rev20190219-1.26.0</version>
+      <version>v2beta1-rev20190219-1.27.0</version>
       <version>v2-rev2-1.18.0-rc</version>
       <version>v2-rev2-1.21.0</version>
       <version>v2-rev2-1.22.0</version>
@@ -430,7 +432,9 @@
       <version>v2-rev20190209-1.26.0</version>
       <version>v2-rev20190209-1.27.0</version>
       <version>v2-rev20190209-1.28.0</version>
+      <version>v2-rev20190219-1.26.0</version>
+      <version>v2-rev20190219-1.27.0</version>
     </versions>
-    <lastUpdated>20190221093748</lastUpdated>
+    <lastUpdated>20190226231227</lastUpdated>
   </versioning>
 </metadata>
