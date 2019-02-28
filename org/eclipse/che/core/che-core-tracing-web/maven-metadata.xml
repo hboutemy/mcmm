@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-tracing-web</artifactId>
   <versioning>
-    <latest>6.18.2</latest>
-    <release>6.18.2</release>
+    <latest>7.0.0-beta-1.0</latest>
+    <release>7.0.0-beta-1.0</release>
     <versions>
       <version>6.14.0</version>
       <version>6.14.1</version>
@@ -16,7 +16,9 @@
       <version>6.18.0</version>
       <version>6.18.1</version>
       <version>6.18.2</version>
+      <version>6.19.0</version>
+      <version>7.0.0-beta-1.0</version>
     </versions>
-    <lastUpdated>20190215091714</lastUpdated>
+    <lastUpdated>20190227190920</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ArchUnit Maven plugin</name>
+      <prefix>arch-unit</prefix>
+      <artifactId>arch-unit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.common</groupId>
   <artifactId>wildfly-common</artifactId>
   <versioning>
-    <latest>1.5.0.Alpha4-format-002</latest>
-    <release>1.5.0.Alpha4-format-002</release>
+    <latest>1.5.0.Final</latest>
+    <release>1.5.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -41,7 +41,8 @@
       <version>1.5.0.Alpha4</version>
       <version>1.5.0.Alpha4-format-001</version>
       <version>1.5.0.Alpha4-format-002</version>
+      <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20190211163507</lastUpdated>
+    <lastUpdated>20190227210450</lastUpdated>
   </versioning>
 </metadata>

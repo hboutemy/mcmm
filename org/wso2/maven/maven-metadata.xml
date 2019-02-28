@@ -226,6 +226,11 @@
       <artifactId>wso2-general-project-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Library Plugin</name>
+      <prefix>wso2json-merge</prefix>
+      <artifactId>wso2-maven-json-merge-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>wso2-maven-package-prepare-plugin Maven Mojo</name>
       <prefix>wso2package-prepare</prefix>
       <artifactId>wso2-maven-package-prepare-plugin</artifactId>
