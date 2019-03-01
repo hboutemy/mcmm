@@ -3,14 +3,15 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-jaxws-client-bom</artifactId>
   <versioning>
-    <latest>16.0.0.Beta1</latest>
-    <release>16.0.0.Beta1</release>
+    <latest>16.0.0.Final</latest>
+    <release>16.0.0.Final</release>
     <versions>
       <version>15.0.0.Beta1</version>
       <version>15.0.0.Final</version>
       <version>15.0.1.Final</version>
       <version>16.0.0.Beta1</version>
+      <version>16.0.0.Final</version>
     </versions>
-    <lastUpdated>20190219110724</lastUpdated>
+    <lastUpdated>20190228013155</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,15 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-metrics-smallrye</artifactId>
   <versioning>
-    <latest>16.0.0.Beta1</latest>
-    <release>16.0.0.Beta1</release>
+    <latest>16.0.0.Final</latest>
+    <release>16.0.0.Final</release>
     <versions>
       <version>15.0.0.Beta1</version>
       <version>15.0.0.Final</version>
       <version>15.0.1.Final</version>
       <version>16.0.0.Beta1</version>
+      <version>16.0.0.Final</version>
     </versions>
-    <lastUpdated>20190214005825</lastUpdated>
+    <lastUpdated>20190228010709</lastUpdated>
   </versioning>
 </metadata>

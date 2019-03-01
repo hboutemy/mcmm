@@ -3,8 +3,8 @@
   <groupId>org.datanucleus</groupId>
   <artifactId>datanucleus-mongodb</artifactId>
   <versioning>
-    <latest>5.2.0-m2</latest>
-    <release>5.2.0-m2</release>
+    <latest>5.2.0-release</latest>
+    <release>5.2.0-release</release>
     <versions>
       <version>3.0.0-m1</version>
       <version>3.0.0-m2</version>
@@ -75,7 +75,8 @@
       <version>5.1.2</version>
       <version>5.2.0-m1</version>
       <version>5.2.0-m2</version>
+      <version>5.2.0-release</version>
     </versions>
-    <lastUpdated>20190102115335</lastUpdated>
+    <lastUpdated>20190228082952</lastUpdated>
   </versioning>
 </metadata>

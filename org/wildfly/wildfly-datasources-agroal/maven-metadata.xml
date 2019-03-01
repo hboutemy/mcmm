@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-datasources-agroal</artifactId>
   <versioning>
-    <latest>16.0.0.Beta1</latest>
-    <release>16.0.0.Beta1</release>
+    <latest>16.0.0.Final</latest>
+    <release>16.0.0.Final</release>
     <versions>
       <version>14.0.0.Beta2</version>
       <version>14.0.0.Final</version>
@@ -13,7 +13,8 @@
       <version>15.0.0.Final</version>
       <version>15.0.1.Final</version>
       <version>16.0.0.Beta1</version>
+      <version>16.0.0.Final</version>
     </versions>
-    <lastUpdated>20190214005813</lastUpdated>
+    <lastUpdated>20190228010658</lastUpdated>
   </versioning>
 </metadata>

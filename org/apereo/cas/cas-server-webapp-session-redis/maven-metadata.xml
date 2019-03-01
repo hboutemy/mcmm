@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-webapp-session-redis</artifactId>
   <versioning>
-    <latest>5.3.8</latest>
-    <release>5.3.8</release>
+    <latest>5.3.9</latest>
+    <release>5.3.9</release>
     <versions>
       <version>5.0.0.M1</version>
       <version>5.0.0.M2</version>
@@ -66,7 +66,8 @@
       <version>5.3.6</version>
       <version>5.3.7</version>
       <version>5.3.8</version>
+      <version>5.3.9</version>
     </versions>
-    <lastUpdated>20190208210223</lastUpdated>
+    <lastUpdated>20190228182737</lastUpdated>
   </versioning>
 </metadata>
