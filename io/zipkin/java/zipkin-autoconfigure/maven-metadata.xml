@@ -3,8 +3,8 @@
   <groupId>io.zipkin.java</groupId>
   <artifactId>zipkin-autoconfigure</artifactId>
   <versioning>
-    <latest>2.12.2</latest>
-    <release>2.12.2</release>
+    <latest>2.12.3</latest>
+    <release>2.12.3</release>
     <versions>
       <version>0.21.0</version>
       <version>0.21.1</version>
@@ -148,10 +148,12 @@
       <version>2.11.10</version>
       <version>2.11.11</version>
       <version>2.11.12</version>
+      <version>2.11.13</version>
       <version>2.12.0</version>
       <version>2.12.1</version>
       <version>2.12.2</version>
+      <version>2.12.3</version>
     </versions>
-    <lastUpdated>20190220041739</lastUpdated>
+    <lastUpdated>20190301161414</lastUpdated>
   </versioning>
 </metadata>
