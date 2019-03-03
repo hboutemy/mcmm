@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-bson-macros_2.11</artifactId>
   <versioning>
-    <latest>0.16.2</latest>
-    <release>0.16.2</release>
+    <latest>0.16.3</latest>
+    <release>0.16.3</release>
     <versions>
       <version>0.10.5.0.akka23</version>
       <version>0.11.0-M2</version>
@@ -46,8 +46,9 @@
       <version>0.16.0</version>
       <version>0.16.1</version>
       <version>0.16.2</version>
+      <version>0.16.3</version>
       <version>0.11.0-M1</version>
     </versions>
-    <lastUpdated>20190210140506</lastUpdated>
+    <lastUpdated>20190302232917</lastUpdated>
   </versioning>
 </metadata>
