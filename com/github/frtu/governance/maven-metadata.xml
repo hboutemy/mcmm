@@ -7,7 +7,7 @@
       <artifactId>influxdb-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>schema-registries-maven-plugin Maven Plugin</name>
+      <name>schema-maven-plugin Maven Plugin</name>
       <prefix>schema</prefix>
       <artifactId>schema-maven-plugin</artifactId>
     </plugin>
