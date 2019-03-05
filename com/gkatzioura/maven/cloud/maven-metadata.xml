@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>azure-storage-wagon</prefix>
+      <artifactId>azure-storage-wagon</artifactId>
+    </plugin>
+    <plugin>
       <prefix>s3-storage-wagon</prefix>
       <artifactId>s3-storage-wagon</artifactId>
     </plugin>
