@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>flexio-mongo-io</prefix>
+      <artifactId>flexio-mongo-io-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
