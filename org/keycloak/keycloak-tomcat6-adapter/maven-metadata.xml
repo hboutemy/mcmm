@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-tomcat6-adapter</artifactId>
   <versioning>
-    <latest>4.8.3.Final</latest>
-    <release>4.8.3.Final</release>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -83,8 +83,9 @@
       <version>4.8.1.Final</version>
       <version>4.8.2.Final</version>
       <version>4.8.3.Final</version>
+      <version>5.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20190115134951</lastUpdated>
+    <lastUpdated>20190306094400</lastUpdated>
   </versioning>
 </metadata>

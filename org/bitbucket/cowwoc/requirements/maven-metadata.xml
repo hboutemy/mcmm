@@ -36,4 +36,10 @@
     </versions>
     <lastUpdated>20180209043714</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <prefix>_</prefix>
+      <artifactId>maven_plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>
