@@ -3,8 +3,8 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-server-undertow</artifactId>
   <versioning>
-    <latest>3.115.0</latest>
-    <release>3.115.0</release>
+    <latest>3.115.1</latest>
+    <release>3.115.1</release>
     <versions>
       <version>1.22.2</version>
       <version>1.23.0</version>
@@ -194,7 +194,8 @@
       <version>3.113.0</version>
       <version>3.114.0</version>
       <version>3.115.0</version>
+      <version>3.115.1</version>
     </versions>
-    <lastUpdated>20190304155716</lastUpdated>
+    <lastUpdated>20190307210344</lastUpdated>
   </versioning>
 </metadata>

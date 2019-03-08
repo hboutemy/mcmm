@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JGit Build Number Maven Plugin</name>
+      <prefix>jgit-buildnumber</prefix>
+      <artifactId>jgit-buildnumber-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
