@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-storagetransfer</artifactId>
   <versioning>
-    <latest>v1-rev20190226-1.28.0</latest>
-    <release>v1-rev20190226-1.28.0</release>
+    <latest>v1-rev20190306-1.28.0</latest>
+    <release>v1-rev20190306-1.28.0</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
@@ -335,6 +335,11 @@
       <version>v1-rev104-1.23.0</version>
       <version>v1-rev104-1.24.1</version>
       <version>v1-rev104-1.25.0</version>
+      <version>v1-rev105-1.18.0-rc</version>
+      <version>v1-rev105-1.22.0</version>
+      <version>v1-rev105-1.23.0</version>
+      <version>v1-rev105-1.24.1</version>
+      <version>v1-rev105-1.25.0</version>
       <version>v1-rev20180919-1.26.0</version>
       <version>v1-rev20180919-1.27.0</version>
       <version>v1-rev20180919-1.28.0</version>
@@ -350,7 +355,10 @@
       <version>v1-rev20190226-1.26.0</version>
       <version>v1-rev20190226-1.27.0</version>
       <version>v1-rev20190226-1.28.0</version>
+      <version>v1-rev20190306-1.26.0</version>
+      <version>v1-rev20190306-1.27.0</version>
+      <version>v1-rev20190306-1.28.0</version>
     </versions>
-    <lastUpdated>20190307001330</lastUpdated>
+    <lastUpdated>20190308220159</lastUpdated>
   </versioning>
 </metadata>
