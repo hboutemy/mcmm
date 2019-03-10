@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-mysql8</artifactId>
   <versioning>
-    <latest>5.6.1</latest>
-    <release>5.6.1</release>
+    <latest>5.6.2</latest>
+    <release>5.6.2</release>
     <versions>
       <version>5.1.0</version>
       <version>5.1.1</version>
@@ -27,7 +27,8 @@
       <version>5.5.2</version>
       <version>5.6.0</version>
       <version>5.6.1</version>
+      <version>5.6.2</version>
     </versions>
-    <lastUpdated>20190121094745</lastUpdated>
+    <lastUpdated>20190309161233</lastUpdated>
   </versioning>
 </metadata>

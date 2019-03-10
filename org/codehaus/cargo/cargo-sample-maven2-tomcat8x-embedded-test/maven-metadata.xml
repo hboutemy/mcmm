@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>cargo-sample-maven2-tomcat8x-embedded-test</artifactId>
   <versioning>
-    <latest>1.7.2</latest>
-    <release>1.7.2</release>
+    <latest>1.7.3</latest>
+    <release>1.7.3</release>
     <versions>
       <version>1.4.14</version>
       <version>1.4.15</version>
@@ -29,8 +29,9 @@
       <version>1.7.0</version>
       <version>1.7.1</version>
       <version>1.7.2</version>
+      <version>1.7.3</version>
       <version>1.4.13</version>
     </versions>
-    <lastUpdated>20190126185238</lastUpdated>
+    <lastUpdated>20190309142936</lastUpdated>
   </versioning>
 </metadata>
