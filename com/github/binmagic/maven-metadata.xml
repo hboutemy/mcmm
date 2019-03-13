@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>codeguard-maven-plugin</name>
+      <prefix>codeguard</prefix>
+      <artifactId>codeguard-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
