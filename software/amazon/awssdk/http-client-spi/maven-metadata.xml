@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>http-client-spi</artifactId>
   <versioning>
-    <latest>2.5.7</latest>
-    <release>2.5.7</release>
+    <latest>2.5.8</latest>
+    <release>2.5.8</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.0-preview-1</version>
@@ -66,7 +66,8 @@
       <version>2.5.5</version>
       <version>2.5.6</version>
       <version>2.5.7</version>
+      <version>2.5.8</version>
     </versions>
-    <lastUpdated>20190312202611</lastUpdated>
+    <lastUpdated>20190313003431</lastUpdated>
   </versioning>
 </metadata>
