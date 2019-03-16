@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dataflow-dependencies</artifactId>
   <versioning>
-    <latest>2.0.0.RELEASE</latest>
-    <release>2.0.0.RELEASE</release>
+    <latest>2.0.1.RELEASE</latest>
+    <release>2.0.1.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -34,7 +34,8 @@
       <version>1.7.3.RELEASE</version>
       <version>1.7.4.RELEASE</version>
       <version>2.0.0.RELEASE</version>
+      <version>2.0.1.RELEASE</version>
     </versions>
-    <lastUpdated>20190306115650</lastUpdated>
+    <lastUpdated>20190315055710</lastUpdated>
   </versioning>
 </metadata>

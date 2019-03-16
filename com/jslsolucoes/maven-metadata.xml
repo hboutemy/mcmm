@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>db-migrate</prefix>
+      <artifactId>db-migrate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>replaceregexp</prefix>
+      <artifactId>replaceregexp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
