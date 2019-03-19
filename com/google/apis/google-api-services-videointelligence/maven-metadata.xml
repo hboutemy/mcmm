@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-videointelligence</artifactId>
   <versioning>
-    <latest>v1-rev20190220-1.28.0</latest>
-    <release>v1-rev20190220-1.28.0</release>
+    <latest>v1-rev20190308-1.28.0</latest>
+    <release>v1-rev20190308-1.28.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -371,7 +371,10 @@
       <version>v1-rev20190220-1.26.0</version>
       <version>v1-rev20190220-1.27.0</version>
       <version>v1-rev20190220-1.28.0</version>
+      <version>v1-rev20190308-1.26.0</version>
+      <version>v1-rev20190308-1.27.0</version>
+      <version>v1-rev20190308-1.28.0</version>
     </versions>
-    <lastUpdated>20190316201805</lastUpdated>
+    <lastUpdated>20190318200546</lastUpdated>
   </versioning>
 </metadata>

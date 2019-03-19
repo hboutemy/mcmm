@@ -18,8 +18,13 @@
     </plugin>
     <plugin>
       <name>system-properties-maven-plugin</name>
-      <prefix>system-properties</prefix>
+      <prefix>properties</prefix>
       <artifactId>system-properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>UnboundID Maven Plugin</name>
+      <prefix>unboundid</prefix>
+      <artifactId>unboundid-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
