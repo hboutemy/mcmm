@@ -3,8 +3,8 @@
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-legacy-api</artifactId>
   <versioning>
-    <latest>11.1</latest>
-    <release>11.1</release>
+    <latest>11.2-rc-1</latest>
+    <release>11.2-rc-1</release>
     <versions>
       <version>4.1-milestone-1</version>
       <version>4.1-milestone-2</version>
@@ -228,9 +228,10 @@
       <version>11.0.3</version>
       <version>11.1-rc-1</version>
       <version>11.1</version>
+      <version>11.2-rc-1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20190225164920</lastUpdated>
+    <lastUpdated>20190319120118</lastUpdated>
   </versioning>
 </metadata>
