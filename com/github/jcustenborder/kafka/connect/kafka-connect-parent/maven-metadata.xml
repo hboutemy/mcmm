@@ -3,8 +3,8 @@
   <groupId>com.github.jcustenborder.kafka.connect</groupId>
   <artifactId>kafka-connect-parent</artifactId>
   <versioning>
-    <latest>2.1.0-cp1</latest>
-    <release>2.1.0-cp1</release>
+    <latest>2.1.1-cp1</latest>
+    <release>2.1.1-cp1</release>
     <versions>
       <version>0.10.1.0-cp1</version>
       <version>0.10.2.0-cp1</version>
@@ -23,7 +23,8 @@
       <version>2.0.0</version>
       <version>2.0.0-cp1</version>
       <version>2.1.0-cp1</version>
+      <version>2.1.1-cp1</version>
     </versions>
-    <lastUpdated>20190206013102</lastUpdated>
+    <lastUpdated>20190320190937</lastUpdated>
   </versioning>
 </metadata>
