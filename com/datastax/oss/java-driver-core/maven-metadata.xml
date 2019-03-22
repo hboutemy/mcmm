@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-core</artifactId>
   <versioning>
-    <latest>4.0.0-rc1</latest>
-    <release>4.0.0-rc1</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>4.0.0-alpha1</version>
       <version>4.0.0-alpha2</version>
@@ -13,7 +13,8 @@
       <version>4.0.0-beta2</version>
       <version>4.0.0-beta3</version>
       <version>4.0.0-rc1</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20190219104141</lastUpdated>
+    <lastUpdated>20190321174452</lastUpdated>
   </versioning>
 </metadata>

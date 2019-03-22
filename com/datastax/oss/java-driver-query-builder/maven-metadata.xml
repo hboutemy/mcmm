@@ -3,14 +3,15 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-query-builder</artifactId>
   <versioning>
-    <latest>4.0.0-rc1</latest>
-    <release>4.0.0-rc1</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>4.0.0-beta1</version>
       <version>4.0.0-beta2</version>
       <version>4.0.0-beta3</version>
       <version>4.0.0-rc1</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20190219104146</lastUpdated>
+    <lastUpdated>20190321174454</lastUpdated>
   </versioning>
 </metadata>

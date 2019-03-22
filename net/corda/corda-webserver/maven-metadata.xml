@@ -3,8 +3,8 @@
   <groupId>net.corda</groupId>
   <artifactId>corda-webserver</artifactId>
   <versioning>
-    <latest>3.3-corda</latest>
-    <release>3.3-corda</release>
+    <latest>3.4-corda</latest>
+    <release>3.4-corda</release>
     <versions>
       <version>corda-3.0</version>
       <version>0.9</version>
@@ -22,7 +22,8 @@
       <version>3.1-corda</version>
       <version>3.2-corda</version>
       <version>3.3-corda</version>
+      <version>3.4-corda</version>
     </versions>
-    <lastUpdated>20181015113738</lastUpdated>
+    <lastUpdated>20190321112059</lastUpdated>
   </versioning>
 </metadata>
