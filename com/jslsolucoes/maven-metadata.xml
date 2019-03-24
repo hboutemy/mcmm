@@ -9,5 +9,9 @@
       <prefix>replaceregexp</prefix>
       <artifactId>replaceregexp-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>resource</prefix>
+      <artifactId>resource-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
