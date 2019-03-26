@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudresourcemanager</artifactId>
   <versioning>
-    <latest>v2-rev20190227-1.28.0</latest>
-    <release>v2-rev20190227-1.28.0</release>
+    <latest>v2-rev20190318-1.28.0</latest>
+    <release>v2-rev20190318-1.28.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.19.0</version>
@@ -563,6 +563,9 @@
       <version>v1beta1-rev20190304-1.26.0</version>
       <version>v1beta1-rev20190304-1.27.0</version>
       <version>v1beta1-rev20190304-1.28.0</version>
+      <version>v1beta1-rev20190318-1.26.0</version>
+      <version>v1beta1-rev20190318-1.27.0</version>
+      <version>v1beta1-rev20190318-1.28.0</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.19.1</version>
       <version>v1-rev2-1.20.0</version>
@@ -1087,6 +1090,9 @@
       <version>v1-rev20190227-1.26.0</version>
       <version>v1-rev20190227-1.27.0</version>
       <version>v1-rev20190227-1.28.0</version>
+      <version>v1-rev20190318-1.26.0</version>
+      <version>v1-rev20190318-1.27.0</version>
+      <version>v1-rev20190318-1.28.0</version>
       <version>v2beta1-rev1-1.18.0-rc</version>
       <version>v2beta1-rev1-1.20.0</version>
       <version>v2beta1-rev1-1.21.0</version>
@@ -1500,7 +1506,9 @@
       <version>v2-rev20190227-1.26.0</version>
       <version>v2-rev20190227-1.27.0</version>
       <version>v2-rev20190227-1.28.0</version>
+      <version>v2-rev20190318-1.27.0</version>
+      <version>v2-rev20190318-1.28.0</version>
     </versions>
-    <lastUpdated>20190321214115</lastUpdated>
+    <lastUpdated>20190325203252</lastUpdated>
   </versioning>
 </metadata>

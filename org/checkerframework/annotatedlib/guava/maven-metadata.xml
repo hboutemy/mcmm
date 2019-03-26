@@ -3,8 +3,8 @@
   <groupId>org.checkerframework.annotatedlib</groupId>
   <artifactId>guava</artifactId>
   <versioning>
-    <latest>27.0.1-jre</latest>
-    <release>27.0.1-jre</release>
+    <latest>27.1-jre</latest>
+    <release>27.1-jre</release>
     <versions>
       <version>23.5-jre</version>
       <version>24.1-jre</version>
@@ -13,7 +13,8 @@
       <version>25.1.0.1-jre</version>
       <version>26.0-jre</version>
       <version>27.0.1-jre</version>
+      <version>27.1-jre</version>
     </versions>
-    <lastUpdated>20181129061318</lastUpdated>
+    <lastUpdated>20190325220123</lastUpdated>
   </versioning>
 </metadata>
