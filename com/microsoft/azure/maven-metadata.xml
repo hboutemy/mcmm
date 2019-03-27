@@ -7,6 +7,11 @@
       <artifactId>azure-functions-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>azure-relay</name>
+      <prefix>azure-relay</prefix>
+      <artifactId>azure-relay</artifactId>
+    </plugin>
+    <plugin>
       <name>Service Fabric Mesh Maven Plugin</name>
       <prefix>azure-sfmesh</prefix>
       <artifactId>azure-sfmesh-maven-plugin</artifactId>
