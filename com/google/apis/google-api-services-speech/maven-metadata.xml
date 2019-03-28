@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-speech</artifactId>
   <versioning>
-    <latest>v1-rev20190211-1.28.0</latest>
-    <release>v1-rev20190211-1.28.0</release>
+    <latest>v1-rev20190321-1.28.0</latest>
+    <release>v1-rev20190321-1.28.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -519,6 +519,9 @@
       <version>v1p1beta1-rev20190211-1.26.0</version>
       <version>v1p1beta1-rev20190211-1.27.0</version>
       <version>v1p1beta1-rev20190211-1.28.0</version>
+      <version>v1p1beta1-rev20190321-1.26.0</version>
+      <version>v1p1beta1-rev20190321-1.27.0</version>
+      <version>v1p1beta1-rev20190321-1.28.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -828,7 +831,10 @@
       <version>v1-rev20190211-1.26.0</version>
       <version>v1-rev20190211-1.27.0</version>
       <version>v1-rev20190211-1.28.0</version>
+      <version>v1-rev20190321-1.26.0</version>
+      <version>v1-rev20190321-1.27.0</version>
+      <version>v1-rev20190321-1.28.0</version>
     </versions>
-    <lastUpdated>20190326103012</lastUpdated>
+    <lastUpdated>20190327205538</lastUpdated>
   </versioning>
 </metadata>

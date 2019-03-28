@@ -18,6 +18,10 @@
       <artifactId>cloudfront-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>cloudwatch</prefix>
+      <artifactId>cloudwatch-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>jbake</prefix>
       <artifactId>jbake-maven-plugin</artifactId>
     </plugin>

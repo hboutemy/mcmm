@@ -6,5 +6,10 @@
       <prefix>closure-compiler</prefix>
       <artifactId>closure-compiler-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>grapid-maven-plugin</name>
+      <prefix>grapid</prefix>
+      <artifactId>grapid-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

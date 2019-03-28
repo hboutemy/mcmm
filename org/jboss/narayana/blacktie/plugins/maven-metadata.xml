@@ -8,6 +8,11 @@
     </plugin>
     <plugin>
       <name>Blacktie C++ Plugin</name>
+      <prefix>blacktie-cpp</prefix>
+      <artifactId>blacktie-cpp-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Blacktie C++ Plugin</name>
       <prefix>cpp</prefix>
       <artifactId>cpp-plugin</artifactId>
     </plugin>
