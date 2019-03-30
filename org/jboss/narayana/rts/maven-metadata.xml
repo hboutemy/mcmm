@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven plugin LRA annotation checker</name>
+      <name>lra-annotation-checker-maven-plugin</name>
       <prefix>lra-annotation-checker</prefix>
       <artifactId>lra-annotation-checker-maven-plugin</artifactId>
     </plugin>
