@@ -12,6 +12,11 @@
       <artifactId>tentackle-i18n-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tentackle JLink Maven Plugin</name>
+      <prefix>tentackle-jlink</prefix>
+      <artifactId>tentackle-jlink-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tentackle Maven Plugin</name>
       <prefix>tentackle</prefix>
       <artifactId>tentackle-maven-plugin</artifactId>
