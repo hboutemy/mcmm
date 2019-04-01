@@ -22,6 +22,11 @@
       <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: Maven Plugins :: Enhanced javadoc plugin</name>
+      <prefix>camel-javadoc</prefix>
+      <artifactId>camel-javadoc-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>

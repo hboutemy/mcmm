@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Apache Maven Eclipse Plugin</name>
+      <prefix>eclipse</prefix>
+      <artifactId>eclipse-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven jdeps plugin</name>
       <prefix>jdeps</prefix>
       <artifactId>jdeps-maven-plugin</artifactId>
