@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Wildfly server plugin</name>
+      <prefix>wildfly</prefix>
+      <artifactId>wildfly-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

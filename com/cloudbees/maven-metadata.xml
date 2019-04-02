@@ -6,5 +6,10 @@
       <prefix>maven-license-plugin</prefix>
       <artifactId>maven-license-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-license-plugin Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>maven-license-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
