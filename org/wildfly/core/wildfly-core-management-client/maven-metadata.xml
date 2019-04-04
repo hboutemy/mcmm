@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-management-client</artifactId>
   <versioning>
-    <latest>9.0.0.Beta1</latest>
-    <release>9.0.0.Beta1</release>
+    <latest>9.0.0.Beta2</latest>
+    <release>9.0.0.Beta2</release>
     <versions>
       <version>3.0.0.Alpha13</version>
       <version>3.0.0.Alpha14</version>
@@ -119,7 +119,8 @@
       <version>8.0.0.CR1</version>
       <version>8.0.0.Final</version>
       <version>9.0.0.Beta1</version>
+      <version>9.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20190320132659</lastUpdated>
+    <lastUpdated>20190403161718</lastUpdated>
   </versioning>
 </metadata>

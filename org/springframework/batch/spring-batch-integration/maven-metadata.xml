@@ -3,8 +3,8 @@
   <groupId>org.springframework.batch</groupId>
   <artifactId>spring-batch-integration</artifactId>
   <versioning>
-    <latest>4.1.1.RELEASE</latest>
-    <release>4.1.1.RELEASE</release>
+    <latest>4.1.2.RELEASE</latest>
+    <release>4.1.2.RELEASE</release>
     <versions>
       <version>1.0.0.FINAL</version>
       <version>1.0.0.RELEASE</version>
@@ -34,9 +34,11 @@
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.2.RELEASE</version>
+      <version>4.0.3.RELEASE</version>
       <version>4.1.0.RELEASE</version>
       <version>4.1.1.RELEASE</version>
+      <version>4.1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20190111132614</lastUpdated>
+    <lastUpdated>20190403093949</lastUpdated>
   </versioning>
 </metadata>
