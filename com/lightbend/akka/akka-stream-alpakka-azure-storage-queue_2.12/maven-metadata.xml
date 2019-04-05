@@ -3,8 +3,8 @@
   <groupId>com.lightbend.akka</groupId>
   <artifactId>akka-stream-alpakka-azure-storage-queue_2.12</artifactId>
   <versioning>
-    <latest>1.0-RC1</latest>
-    <release>1.0-RC1</release>
+    <latest>1.0.0</latest>
+    <release>1.0.0</release>
     <versions>
       <version>0.12</version>
       <version>0.13</version>
@@ -20,7 +20,8 @@
       <version>1.0-M2</version>
       <version>1.0-M3</version>
       <version>1.0-RC1</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20190319171523</lastUpdated>
+    <lastUpdated>20190404151851</lastUpdated>
   </versioning>
 </metadata>

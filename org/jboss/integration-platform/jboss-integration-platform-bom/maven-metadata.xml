@@ -3,8 +3,8 @@
   <groupId>org.jboss.integration-platform</groupId>
   <artifactId>jboss-integration-platform-bom</artifactId>
   <versioning>
-    <latest>8.5.0.Final</latest>
-    <release>8.5.0.Final</release>
+    <latest>8.6.0.Final</latest>
+    <release>8.6.0.Final</release>
     <versions>
       <version>6.0.0.Beta2</version>
       <version>6.0.0.CR1</version>
@@ -69,7 +69,8 @@
       <version>8.3.3.Final</version>
       <version>8.4.0.Final</version>
       <version>8.5.0.Final</version>
+      <version>8.6.0.Final</version>
     </versions>
-    <lastUpdated>20190225092415</lastUpdated>
+    <lastUpdated>20190404104349</lastUpdated>
   </versioning>
 </metadata>
