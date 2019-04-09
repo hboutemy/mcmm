@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Quarkus - Bootstrap - Maven plugin</name>
+      <prefix>quarkus-bootstrap</prefix>
+      <artifactId>quarkus-bootstrap-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Quarkus - Extension Maven plugin</name>
       <prefix>quarkus-extension</prefix>
       <artifactId>quarkus-extension-plugin</artifactId>

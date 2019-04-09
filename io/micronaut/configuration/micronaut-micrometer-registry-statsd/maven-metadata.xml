@@ -3,8 +3,8 @@
   <groupId>io.micronaut.configuration</groupId>
   <artifactId>micronaut-micrometer-registry-statsd</artifactId>
   <versioning>
-    <latest>1.1.0.RC2</latest>
-    <release>1.1.0.RC2</release>
+    <latest>1.1.0</latest>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0.RC3</version>
       <version>1.0.0</version>
@@ -14,7 +14,8 @@
       <version>1.0.4</version>
       <version>1.1.0.RC1</version>
       <version>1.1.0.RC2</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20190312131750</lastUpdated>
+    <lastUpdated>20190408125245</lastUpdated>
   </versioning>
 </metadata>

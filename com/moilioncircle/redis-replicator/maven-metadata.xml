@@ -3,8 +3,8 @@
   <groupId>com.moilioncircle</groupId>
   <artifactId>redis-replicator</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -46,13 +46,15 @@
       <version>2.6.0</version>
       <version>2.6.1</version>
       <version>2.6.2</version>
+      <version>2.6.3</version>
       <version>3.0.0-RC1</version>
       <version>3.0.0-RC2</version>
       <version>3.0.0-RC3</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20190224042231</lastUpdated>
+    <lastUpdated>20190408033025</lastUpdated>
   </versioning>
 </metadata>
