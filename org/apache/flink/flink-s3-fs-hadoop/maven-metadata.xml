@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-s3-fs-hadoop</artifactId>
   <versioning>
-    <latest>1.7.2</latest>
-    <release>1.7.2</release>
+    <latest>1.8.0</latest>
+    <release>1.8.0</release>
     <versions>
       <version>1.4.0</version>
       <version>1.4.1</version>
@@ -24,7 +24,8 @@
       <version>1.7.0</version>
       <version>1.7.1</version>
       <version>1.7.2</version>
+      <version>1.8.0</version>
     </versions>
-    <lastUpdated>20190222021445</lastUpdated>
+    <lastUpdated>20190409082737</lastUpdated>
   </versioning>
 </metadata>

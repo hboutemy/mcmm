@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>AppDynamics Instrumentation Android Maven Plugin</name>
+      <name>AppDynamics Instrumentation Android Runtime</name>
       <prefix>appdynamics</prefix>
       <artifactId>appdynamics-maven-plugin</artifactId>
     </plugin>

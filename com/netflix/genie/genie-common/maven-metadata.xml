@@ -3,8 +3,8 @@
   <groupId>com.netflix.genie</groupId>
   <artifactId>genie-common</artifactId>
   <versioning>
-    <latest>4.0.0-rc.3</latest>
-    <release>4.0.0-rc.3</release>
+    <latest>4.0.0-rc.4</latest>
+    <release>4.0.0-rc.4</release>
     <versions>
       <version>0.20</version>
       <version>0.21</version>
@@ -107,10 +107,12 @@
       <version>3.3.16</version>
       <version>3.3.17</version>
       <version>3.3.18</version>
+      <version>3.3.19</version>
       <version>4.0.0-rc.1</version>
       <version>4.0.0-rc.2</version>
       <version>4.0.0-rc.3</version>
+      <version>4.0.0-rc.4</version>
     </versions>
-    <lastUpdated>20190320182327</lastUpdated>
+    <lastUpdated>20190409214108</lastUpdated>
   </versioning>
 </metadata>
