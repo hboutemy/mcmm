@@ -3,11 +3,12 @@
   <groupId>com.alibaba.flink</groupId>
   <artifactId>flink-shaded</artifactId>
   <versioning>
-    <latest>6.0-flink</latest>
-    <release>6.0-flink</release>
+    <latest>6.0.1-flink</latest>
+    <release>6.0.1-flink</release>
     <versions>
       <version>6.0-flink</version>
+      <version>6.0.1-flink</version>
     </versions>
-    <lastUpdated>20181229065455</lastUpdated>
+    <lastUpdated>20190410013459</lastUpdated>
   </versioning>
 </metadata>

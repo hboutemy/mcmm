@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>nuls-smartcontract-maven-plugin Maven Mojo</name>
+      <prefix>nuls-sc</prefix>
+      <artifactId>nuls-sc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
