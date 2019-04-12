@@ -3,8 +3,8 @@
   <groupId>org.jdbi</groupId>
   <artifactId>jdbi3-bom</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.7.1</latest>
+    <release>3.7.1</release>
     <versions>
       <version>3.0.0-beta2</version>
       <version>3.0.0-beta3</version>
@@ -23,7 +23,8 @@
       <version>3.5.1</version>
       <version>3.6.0</version>
       <version>3.7.0</version>
+      <version>3.7.1</version>
     </versions>
-    <lastUpdated>20190407050618</lastUpdated>
+    <lastUpdated>20190411043432</lastUpdated>
   </versioning>
 </metadata>

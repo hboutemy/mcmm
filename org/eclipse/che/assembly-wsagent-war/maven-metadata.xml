@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che</groupId>
   <artifactId>assembly-wsagent-war</artifactId>
   <versioning>
-    <latest>7.0.0-beta-2.0</latest>
-    <release>7.0.0-beta-2.0</release>
+    <latest>7.0.0-beta-3.0</latest>
+    <release>7.0.0-beta-3.0</release>
     <versions>
       <version>6.10.0</version>
       <version>6.11.0</version>
@@ -27,9 +27,11 @@
       <version>6.19.0</version>
       <version>6.19.1</version>
       <version>6.19.2</version>
+      <version>6.19.3</version>
       <version>7.0.0-beta-1.0</version>
       <version>7.0.0-beta-2.0</version>
+      <version>7.0.0-beta-3.0</version>
     </versions>
-    <lastUpdated>20190320163139</lastUpdated>
+    <lastUpdated>20190411112748</lastUpdated>
   </versioning>
 </metadata>

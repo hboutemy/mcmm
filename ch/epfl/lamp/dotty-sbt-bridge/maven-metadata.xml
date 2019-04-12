@@ -3,8 +3,8 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>dotty-sbt-bridge</artifactId>
   <versioning>
-    <latest>0.14.0-bin-20190409-2f557b5-NIGHTLY</latest>
-    <release>0.14.0-bin-20190409-2f557b5-NIGHTLY</release>
+    <latest>0.14.0-bin-20190410-d4a47aa-NIGHTLY</latest>
+    <release>0.14.0-bin-20190410-d4a47aa-NIGHTLY</release>
     <versions>
       <version>0.1.1-bin-20170424-40d405b-NIGHTLY</version>
       <version>0.1.1-bin-20170425-f1c3529-NIGHTLY</version>
@@ -576,6 +576,7 @@
       <version>0.12.0-bin-20190115-4aa00a7-NIGHTLY</version>
       <version>0.12.0-bin-20190117-b4a26ca-NIGHTLY</version>
       <version>0.13.0-RC1</version>
+      <version>0.13.0</version>
       <version>0.13.0-bin-20190120-e873908-NIGHTLY</version>
       <version>0.13.0-bin-20190120-2ce89da-NIGHTLY</version>
       <version>0.13.0-bin-20190121-1947222-NIGHTLY</version>
@@ -602,6 +603,7 @@
       <version>0.13.0-bin-20190215-4c3e170-NIGHTLY</version>
       <version>0.13.0-bin-20190216-12eef6d-NIGHTLY</version>
       <version>0.13.0-bin-20190217-2b0e4a1-NIGHTLY</version>
+      <version>0.14.0-RC1</version>
       <version>0.14.0-bin-20190219-38189b5-NIGHTLY</version>
       <version>0.14.0-bin-20190220-60c4bf8-NIGHTLY</version>
       <version>0.14.0-bin-20190221-daf4ce9-NIGHTLY</version>
@@ -647,7 +649,8 @@
       <version>0.14.0-bin-20190407-574fd0c-NIGHTLY</version>
       <version>0.14.0-bin-20190408-0d0274b-NIGHTLY</version>
       <version>0.14.0-bin-20190409-2f557b5-NIGHTLY</version>
+      <version>0.14.0-bin-20190410-d4a47aa-NIGHTLY</version>
     </versions>
-    <lastUpdated>20190410014519</lastUpdated>
+    <lastUpdated>20190411154721</lastUpdated>
   </versioning>
 </metadata>
