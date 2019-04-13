@@ -81,6 +81,11 @@
       <artifactId>nexus-test-environment-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Nexus Staging Maven Plugin</name>
+      <prefix>nxrm3-staging</prefix>
+      <artifactId>nxrm3-staging-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Sonatype Plexus Plugin</name>
       <prefix>plx</prefix>
       <artifactId>plx-maven-plugin</artifactId>
