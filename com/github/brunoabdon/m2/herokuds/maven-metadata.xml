@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>HerokuDS Maven Plugin</name>
+      <prefix>herokuds</prefix>
+      <artifactId>herokuds-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
