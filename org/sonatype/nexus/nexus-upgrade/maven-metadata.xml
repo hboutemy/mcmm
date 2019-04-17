@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-upgrade</artifactId>
   <versioning>
-    <latest>3.16.0-01</latest>
-    <release>3.16.0-01</release>
+    <latest>3.16.1-02</latest>
+    <release>3.16.1-02</release>
     <versions>
       <version>3.1.0-04</version>
       <version>3.2.0-01</version>
@@ -33,7 +33,8 @@
       <version>3.15.1-01</version>
       <version>3.15.2-01</version>
       <version>3.16.0-01</version>
+      <version>3.16.1-02</version>
     </versions>
-    <lastUpdated>20190411192149</lastUpdated>
+    <lastUpdated>20190416205726</lastUpdated>
   </versioning>
 </metadata>
