@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-eap6-adapter-dist</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>6.0.0</latest>
+    <release>6.0.0</release>
     <versions>
       <version>1.0-beta-1</version>
       <version>1.0-beta-2</version>
@@ -97,8 +97,9 @@
       <version>4.8.2.Final</version>
       <version>4.8.3.Final</version>
       <version>5.0.0</version>
+      <version>6.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20190306094318</lastUpdated>
+    <lastUpdated>20190417075034</lastUpdated>
   </versioning>
 </metadata>
