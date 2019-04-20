@@ -3,8 +3,8 @@
   <groupId>org.codelibs.elasticsearch.module</groupId>
   <artifactId>transport-netty3</artifactId>
   <versioning>
-    <latest>5.6.12</latest>
-    <release>5.6.12</release>
+    <latest>5.6.16</latest>
+    <release>5.6.16</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -38,7 +38,11 @@
       <version>5.6.10</version>
       <version>5.6.11</version>
       <version>5.6.12</version>
+      <version>5.6.13</version>
+      <version>5.6.14</version>
+      <version>5.6.15</version>
+      <version>5.6.16</version>
     </versions>
-    <lastUpdated>20190418100632</lastUpdated>
+    <lastUpdated>20190419210527</lastUpdated>
   </versioning>
 </metadata>
