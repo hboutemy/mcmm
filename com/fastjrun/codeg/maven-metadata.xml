@@ -5,5 +5,9 @@
       <prefix>sdkg-helper</prefix>
       <artifactId>sdkg-helper</artifactId>
     </plugin>
+    <plugin>
+      <prefix>sdkg</prefix>
+      <artifactId>sdkg-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

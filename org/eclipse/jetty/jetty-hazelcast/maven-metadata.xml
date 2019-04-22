@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-hazelcast</artifactId>
   <versioning>
-    <latest>9.4.16.v20190411</latest>
-    <release>9.4.16.v20190411</release>
+    <latest>9.4.17.v20190418</latest>
+    <release>9.4.17.v20190418</release>
     <versions>
       <version>9.3.21.M0</version>
       <version>9.3.21.RC0</version>
@@ -14,6 +14,7 @@
       <version>9.3.24.v20180605</version>
       <version>9.3.25.v20180904</version>
       <version>9.3.26.v20190403</version>
+      <version>9.3.27.v20190418</version>
       <version>9.4.7.RC0</version>
       <version>9.4.7.v20170914</version>
       <version>9.4.7.v20180619</version>
@@ -32,7 +33,8 @@
       <version>9.4.14.v20181114</version>
       <version>9.4.15.v20190215</version>
       <version>9.4.16.v20190411</version>
+      <version>9.4.17.v20190418</version>
     </versions>
-    <lastUpdated>20190412134413</lastUpdated>
+    <lastUpdated>20190421043332</lastUpdated>
   </versioning>
 </metadata>
