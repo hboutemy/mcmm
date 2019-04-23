@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-bundle-archetype</artifactId>
   <versioning>
-    <latest>2.1.0-rc2</latest>
-    <release>2.1.0-rc2</release>
+    <latest>2.1.0-rc3</latest>
+    <release>2.1.0-rc3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0p1</version>
@@ -120,7 +120,8 @@
       <version>2.0.0</version>
       <version>2.1.0-rc1</version>
       <version>2.1.0-rc2</version>
+      <version>2.1.0-rc3</version>
     </versions>
-    <lastUpdated>20190419172804</lastUpdated>
+    <lastUpdated>20190422200541</lastUpdated>
   </versioning>
 </metadata>
