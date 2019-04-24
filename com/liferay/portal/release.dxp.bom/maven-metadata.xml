@@ -3,16 +3,11 @@
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.bom</artifactId>
   <versioning>
-    <latest>7.1.10</latest>
-    <release>7.0.10.fp74</release>
+    <latest>7.1.10.1</latest>
+    <release>7.0.10.fp79</release>
     <versions>
-      <version>7.0.10.7</version>
-      <version>7.0.10.8</version>
-      <version>7.0.10.9</version>
-      <version>7.1.10</version>
-      <version>7.1.10.1</version>
-      <version>7.0.10.fp70</version>
       <version>7.0.10.fp60</version>
+      <version>7.0.10.fp61</version>
       <version>7.0.10.fp62</version>
       <version>7.0.10.fp63</version>
       <version>7.0.10.fp64</version>
@@ -21,17 +16,23 @@
       <version>7.0.10.fp67</version>
       <version>7.0.10.fp68</version>
       <version>7.0.10.fp69</version>
-      <version>7.0.10.fp61</version>
+      <version>7.0.10.fp70</version>
+      <version>7.0.10.fp72</version>
+      <version>7.0.10.fp73</version>
+      <version>7.0.10.fp74</version>
+      <version>7.0.10.7</version>
+      <version>7.0.10.8</version>
+      <version>7.0.10.9</version>
+      <version>7.1.10</version>
       <version>7.1.10.fp1</version>
       <version>7.1.10.fp2</version>
       <version>7.1.10.fp3</version>
       <version>7.1.10.fp4</version>
       <version>7.1.10.fp5</version>
       <version>7.1.10.fp6</version>
-      <version>7.0.10.fp72</version>
-      <version>7.0.10.fp73</version>
-      <version>7.0.10.fp74</version>
+      <version>7.1.10.1</version>
+      <version>7.0.10.fp79</version>
     </versions>
-    <lastUpdated>20190226184959</lastUpdated>
+    <lastUpdated>20190423225226</lastUpdated>
   </versioning>
 </metadata>
