@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.bom</artifactId>
   <versioning>
     <latest>7.1.10.1</latest>
-    <release>7.0.10.fp79</release>
+    <release>7.1.10.1</release>
     <versions>
       <version>7.0.10.fp60</version>
       <version>7.0.10.fp61</version>
@@ -33,6 +33,6 @@
       <version>7.1.10.1</version>
       <version>7.0.10.fp79</version>
     </versions>
-    <lastUpdated>20190423225226</lastUpdated>
+    <lastUpdated>20190424233641</lastUpdated>
   </versioning>
 </metadata>

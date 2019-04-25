@@ -3,8 +3,8 @@
   <groupId>org.wildfly.build</groupId>
   <artifactId>wildfly-build-tools-parent</artifactId>
   <versioning>
-    <latest>1.2.10.Final</latest>
-    <release>1.2.10.Final</release>
+    <latest>1.2.11.Final</latest>
+    <release>1.2.11.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -38,7 +38,8 @@
       <version>1.2.8.Final</version>
       <version>1.2.9.Final</version>
       <version>1.2.10.Final</version>
+      <version>1.2.11.Final</version>
     </versions>
-    <lastUpdated>20180329223328</lastUpdated>
+    <lastUpdated>20190424151340</lastUpdated>
   </versioning>
 </metadata>

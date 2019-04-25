@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Cloudify</name>
+      <prefix>cloudify</prefix>
+      <artifactId>cloudify-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
