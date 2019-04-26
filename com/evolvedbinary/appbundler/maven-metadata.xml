@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AppBundler Maven Plugin</name>
+      <prefix>appbundler</prefix>
+      <artifactId>appbundler-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

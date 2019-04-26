@@ -81,6 +81,11 @@
       <artifactId>nexus-test-environment-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Nexus Maven Plugin</name>
+      <prefix>nxrm3</prefix>
+      <artifactId>nxrm3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Nexus Staging Maven Plugin</name>
       <prefix>nxrm3-staging</prefix>
       <artifactId>nxrm3-staging-maven-plugin</artifactId>
