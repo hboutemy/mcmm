@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-servicenetworking</artifactId>
   <versioning>
-    <latest>v1-rev20190406-1.28.0</latest>
-    <release>v1-rev20190406-1.28.0</release>
+    <latest>v1-rev20190412-1.28.0</latest>
+    <release>v1-rev20190412-1.28.0</release>
     <versions>
       <version>v1beta-rev1-1.18.0-rc</version>
       <version>v1beta-rev1-1.22.0</version>
@@ -229,6 +229,11 @@
       <version>v1beta-rev81-1.23.0</version>
       <version>v1beta-rev81-1.24.1</version>
       <version>v1beta-rev81-1.25.0</version>
+      <version>v1beta-rev82-1.18.0-rc</version>
+      <version>v1beta-rev82-1.22.0</version>
+      <version>v1beta-rev82-1.23.0</version>
+      <version>v1beta-rev82-1.24.1</version>
+      <version>v1beta-rev82-1.25.0</version>
       <version>v1beta-rev20181017-1.26.0</version>
       <version>v1beta-rev20181026-1.26.0</version>
       <version>v1beta-rev20181030-1.26.0</version>
@@ -269,6 +274,9 @@
       <version>v1beta-rev20190406-1.26.0</version>
       <version>v1beta-rev20190406-1.27.0</version>
       <version>v1beta-rev20190406-1.28.0</version>
+      <version>v1beta-rev20190412-1.26.0</version>
+      <version>v1beta-rev20190412-1.27.0</version>
+      <version>v1beta-rev20190412-1.28.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.22.0</version>
       <version>v1-rev1-1.23.0</version>
@@ -359,6 +367,11 @@
       <version>v1-rev19-1.23.0</version>
       <version>v1-rev19-1.24.1</version>
       <version>v1-rev19-1.25.0</version>
+      <version>v1-rev20-1.18.0-rc</version>
+      <version>v1-rev20-1.22.0</version>
+      <version>v1-rev20-1.23.0</version>
+      <version>v1-rev20-1.24.1</version>
+      <version>v1-rev20-1.25.0</version>
       <version>v1-rev20190313-1.26.0</version>
       <version>v1-rev20190313-1.27.0</version>
       <version>v1-rev20190313-1.28.0</version>
@@ -368,7 +381,10 @@
       <version>v1-rev20190406-1.26.0</version>
       <version>v1-rev20190406-1.27.0</version>
       <version>v1-rev20190406-1.28.0</version>
+      <version>v1-rev20190412-1.26.0</version>
+      <version>v1-rev20190412-1.27.0</version>
+      <version>v1-rev20190412-1.28.0</version>
     </versions>
-    <lastUpdated>20190425122633</lastUpdated>
+    <lastUpdated>20190426222633</lastUpdated>
   </versioning>
 </metadata>
