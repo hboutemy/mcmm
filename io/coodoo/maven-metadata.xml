@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Compressor</name>
+      <prefix>compressor</prefix>
+      <artifactId>compressor</artifactId>
+    </plugin>
+    <plugin>
+      <name>s3Upload</name>
+      <prefix>s3Upload</prefix>
+      <artifactId>s3Upload</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
