@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Pack200 Maven Plugin</name>
+      <prefix>pack200</prefix>
+      <artifactId>maven-pack200-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

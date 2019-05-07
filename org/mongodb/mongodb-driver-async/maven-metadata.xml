@@ -3,8 +3,8 @@
   <groupId>org.mongodb</groupId>
   <artifactId>mongodb-driver-async</artifactId>
   <versioning>
-    <latest>3.11.0-beta2</latest>
-    <release>3.11.0-beta2</release>
+    <latest>3.11.0-beta3</latest>
+    <release>3.11.0-beta3</release>
     <versions>
       <version>3.0.0-beta1</version>
       <version>3.0.0-beta2</version>
@@ -58,7 +58,8 @@
       <version>3.10.2</version>
       <version>3.11.0-beta1</version>
       <version>3.11.0-beta2</version>
+      <version>3.11.0-beta3</version>
     </versions>
-    <lastUpdated>20190408133319</lastUpdated>
+    <lastUpdated>20190506221051</lastUpdated>
   </versioning>
 </metadata>

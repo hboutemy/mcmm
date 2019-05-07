@@ -3,9 +3,10 @@
   <groupId>org.wso2.ei</groupId>
   <artifactId>org.wso2.carbon.micro.integrator.server.feature</artifactId>
   <versioning>
-    <latest>6.5.0-m3</latest>
-    <release>6.5.0-m3</release>
+    <latest>6.5.0-m4</latest>
+    <release>6.5.0-m4</release>
     <versions>
+      <version>1.0.0-m6</version>
       <version>6.3.0-m11</version>
       <version>6.3.0-rc1</version>
       <version>6.3.0</version>
@@ -22,6 +23,6 @@
       <version>6.5.0-m2</version>
       <version>6.5.0-m3</version>
     </versions>
-    <lastUpdated>20190314222106</lastUpdated>
+    <lastUpdated>20190506053217</lastUpdated>
   </versioning>
 </metadata>
