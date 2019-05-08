@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-androidpublisher</artifactId>
   <versioning>
-    <latest>v3-rev20190414-1.28.0</latest>
-    <release>v3-rev20190414-1.28.0</release>
+    <latest>v3-rev20190506-1.28.0</latest>
+    <release>v3-rev20190506-1.28.0</release>
     <versions>
       <version>v1-rev10-1.13.2-beta</version>
       <version>v1-rev10-1.14.1-beta</version>
@@ -641,6 +641,14 @@
       <version>v1-rev189-1.23.0</version>
       <version>v1-rev189-1.24.1</version>
       <version>v1-rev189-1.25.0</version>
+      <version>v1-rev190-1.18.0-rc</version>
+      <version>v1-rev190-1.22.0</version>
+      <version>v1-rev190-1.23.0</version>
+      <version>v1-rev190-1.24.1</version>
+      <version>v1-rev190-1.25.0</version>
+      <version>v1-rev191-1.22.0</version>
+      <version>v1-rev191-1.23.0</version>
+      <version>v1-rev191-1.25.0</version>
       <version>v1-rev20181009-1.26.0</version>
       <version>v1-rev20181009-1.27.0</version>
       <version>v1-rev20181009-1.28.0</version>
@@ -1260,6 +1268,15 @@
       <version>v1.1-rev172-1.23.0</version>
       <version>v1.1-rev172-1.24.1</version>
       <version>v1.1-rev172-1.25.0</version>
+      <version>v1.1-rev173-1.18.0-rc</version>
+      <version>v1.1-rev173-1.22.0</version>
+      <version>v1.1-rev173-1.23.0</version>
+      <version>v1.1-rev173-1.24.1</version>
+      <version>v1.1-rev173-1.25.0</version>
+      <version>v1.1-rev174-1.18.0-rc</version>
+      <version>v1.1-rev174-1.22.0</version>
+      <version>v1.1-rev174-1.23.0</version>
+      <version>v1.1-rev174-1.24.1</version>
       <version>v1.1-rev20181009-1.26.0</version>
       <version>v1.1-rev20181009-1.27.0</version>
       <version>v1.1-rev20181009-1.28.0</version>
@@ -1803,6 +1820,13 @@
       <version>v2-rev154-1.23.0</version>
       <version>v2-rev154-1.24.1</version>
       <version>v2-rev154-1.25.0</version>
+      <version>v2-rev155-1.18.0-rc</version>
+      <version>v2-rev155-1.22.0</version>
+      <version>v2-rev155-1.23.0</version>
+      <version>v2-rev155-1.24.1</version>
+      <version>v2-rev155-1.25.0</version>
+      <version>v2-rev156-1.18.0-rc</version>
+      <version>v2-rev156-1.22.0</version>
       <version>v2-rev20181009-1.26.0</version>
       <version>v2-rev20181009-1.27.0</version>
       <version>v2-rev20181009-1.28.0</version>
@@ -2087,6 +2111,16 @@
       <version>v3-rev81-1.23.0</version>
       <version>v3-rev81-1.24.1</version>
       <version>v3-rev81-1.25.0</version>
+      <version>v3-rev82-1.18.0-rc</version>
+      <version>v3-rev82-1.22.0</version>
+      <version>v3-rev82-1.23.0</version>
+      <version>v3-rev82-1.24.1</version>
+      <version>v3-rev82-1.25.0</version>
+      <version>v3-rev83-1.18.0-rc</version>
+      <version>v3-rev83-1.22.0</version>
+      <version>v3-rev83-1.23.0</version>
+      <version>v3-rev83-1.24.1</version>
+      <version>v3-rev83-1.25.0</version>
       <version>v3-rev20181009-1.26.0</version>
       <version>v3-rev20181009-1.27.0</version>
       <version>v3-rev20181113-1.26.0</version>
@@ -2101,7 +2135,10 @@
       <version>v3-rev20190414-1.26.0</version>
       <version>v3-rev20190414-1.27.0</version>
       <version>v3-rev20190414-1.28.0</version>
+      <version>v3-rev20190506-1.26.0</version>
+      <version>v3-rev20190506-1.27.0</version>
+      <version>v3-rev20190506-1.28.0</version>
     </versions>
-    <lastUpdated>20190503060446</lastUpdated>
+    <lastUpdated>20190507230622</lastUpdated>
   </versioning>
 </metadata>

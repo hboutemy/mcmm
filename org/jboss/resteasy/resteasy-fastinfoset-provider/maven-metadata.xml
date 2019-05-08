@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-fastinfoset-provider</artifactId>
   <versioning>
-    <latest>4.0.0.CR3</latest>
-    <release>4.0.0.CR3</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.2.RC1</version>
       <version>1.2.GA</version>
@@ -105,7 +105,8 @@
       <version>4.0.0.CR1</version>
       <version>4.0.0.CR2</version>
       <version>4.0.0.CR3</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20190503232118</lastUpdated>
+    <lastUpdated>20190506220749</lastUpdated>
   </versioning>
 </metadata>

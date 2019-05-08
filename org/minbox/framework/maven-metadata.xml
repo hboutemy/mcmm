@@ -5,5 +5,9 @@
       <prefix>api-bootcode-builder</prefix>
       <artifactId>api-boot-maven-plugin-code-builder</artifactId>
     </plugin>
+    <plugin>
+      <prefix>api-boot-mybatis-enhancecodegen</prefix>
+      <artifactId>api-boot-mybatis-enhance-maven-codegen</artifactId>
+    </plugin>
   </plugins>
 </metadata>

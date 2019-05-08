@@ -3,13 +3,14 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-starter-parent</artifactId>
   <versioning>
-    <latest>Fishtown.SR2</latest>
-    <release>Fishtown.SR2</release>
+    <latest>Germantown.RELEASE</latest>
+    <release>Germantown.RELEASE</release>
     <versions>
       <version>Fishtown.RELEASE</version>
       <version>Fishtown.SR1</version>
       <version>Fishtown.SR2</version>
+      <version>Germantown.RELEASE</version>
     </versions>
-    <lastUpdated>20190304130440</lastUpdated>
+    <lastUpdated>20190507130001</lastUpdated>
   </versioning>
 </metadata>

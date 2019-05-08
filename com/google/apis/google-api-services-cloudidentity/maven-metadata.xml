@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudidentity</artifactId>
   <versioning>
-    <latest>v1-rev20190309-1.28.0</latest>
-    <release>v1-rev20190309-1.28.0</release>
+    <latest>v1-rev20190503-1.28.0</latest>
+    <release>v1-rev20190503-1.28.0</release>
     <versions>
       <version>v1beta1-rev2-1.24.1</version>
       <version>v1beta1-rev14-1.18.0-rc</version>
@@ -107,6 +107,11 @@
       <version>v1beta1-rev33-1.23.0</version>
       <version>v1beta1-rev33-1.24.1</version>
       <version>v1beta1-rev33-1.25.0</version>
+      <version>v1beta1-rev34-1.18.0-rc</version>
+      <version>v1beta1-rev34-1.22.0</version>
+      <version>v1beta1-rev34-1.23.0</version>
+      <version>v1beta1-rev34-1.24.1</version>
+      <version>v1beta1-rev34-1.25.0</version>
       <version>v1beta1-rev20181215-1.26.0</version>
       <version>v1beta1-rev20181215-1.27.0</version>
       <version>v1beta1-rev20181215-1.28.0</version>
@@ -119,6 +124,9 @@
       <version>v1beta1-rev20190309-1.26.0</version>
       <version>v1beta1-rev20190309-1.27.0</version>
       <version>v1beta1-rev20190309-1.28.0</version>
+      <version>v1beta1-rev20190503-1.26.0</version>
+      <version>v1beta1-rev20190503-1.27.0</version>
+      <version>v1beta1-rev20190503-1.28.0</version>
       <version>v1-rev12-1.18.0-rc</version>
       <version>v1-rev12-1.22.0</version>
       <version>v1-rev12-1.23.0</version>
@@ -219,6 +227,11 @@
       <version>v1-rev31-1.23.0</version>
       <version>v1-rev31-1.24.1</version>
       <version>v1-rev31-1.25.0</version>
+      <version>v1-rev32-1.18.0-rc</version>
+      <version>v1-rev32-1.22.0</version>
+      <version>v1-rev32-1.23.0</version>
+      <version>v1-rev32-1.24.1</version>
+      <version>v1-rev32-1.25.0</version>
       <version>v1-rev20181218-1.26.0</version>
       <version>v1-rev20181218-1.27.0</version>
       <version>v1-rev20181218-1.28.0</version>
@@ -234,7 +247,10 @@
       <version>v1-rev20190309-1.26.0</version>
       <version>v1-rev20190309-1.27.0</version>
       <version>v1-rev20190309-1.28.0</version>
+      <version>v1-rev20190503-1.26.0</version>
+      <version>v1-rev20190503-1.27.0</version>
+      <version>v1-rev20190503-1.28.0</version>
     </versions>
-    <lastUpdated>20190430033950</lastUpdated>
+    <lastUpdated>20190507204632</lastUpdated>
   </versioning>
 </metadata>
