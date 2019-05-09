@@ -3,8 +3,8 @@
   <groupId>com.floragunn</groupId>
   <artifactId>search-guard-6</artifactId>
   <versioning>
-    <latest>6.7.2-25.0-api</latest>
-    <release>6.7.2-25.0-api</release>
+    <latest>6.7.2-25.1-api</latest>
+    <release>6.7.2-25.1-api</release>
     <versions>
       <version>6.0.0-17.beta1</version>
       <version>6.0.0-17.beta1api</version>
@@ -175,6 +175,8 @@
       <version>6.4.3-24.3-api</version>
       <version>6.4.3-25.0</version>
       <version>6.4.3-25.0-api</version>
+      <version>6.4.3-25.1</version>
+      <version>6.4.3-25.1-api</version>
       <version>6.5.1-23.2</version>
       <version>6.5.1-23.2-api</version>
       <version>6.5.1-24.0</version>
@@ -215,6 +217,8 @@
       <version>6.5.4-24.3-api</version>
       <version>6.5.4-25.0</version>
       <version>6.5.4-25.0-api</version>
+      <version>6.5.4-25.1</version>
+      <version>6.5.4-25.1-api</version>
       <version>6.6.0-24.1</version>
       <version>6.6.0-24.1-api</version>
       <version>6.6.0-24.2</version>
@@ -233,15 +237,21 @@
       <version>6.6.2-24.3-api</version>
       <version>6.6.2-25.0</version>
       <version>6.6.2-25.0-api</version>
+      <version>6.6.2-25.1</version>
+      <version>6.6.2-25.1-api</version>
       <version>6.7.0-24.3</version>
       <version>6.7.0-24.3-api</version>
       <version>6.7.1-24.3</version>
       <version>6.7.1-24.3-api</version>
       <version>6.7.1-25.0</version>
       <version>6.7.1-25.0-api</version>
+      <version>6.7.1-25.1</version>
+      <version>6.7.1-25.1-api</version>
       <version>6.7.2-25.0</version>
       <version>6.7.2-25.0-api</version>
+      <version>6.7.2-25.1</version>
+      <version>6.7.2-25.1-api</version>
     </versions>
-    <lastUpdated>20190503091527</lastUpdated>
+    <lastUpdated>20190508210723</lastUpdated>
   </versioning>
 </metadata>
