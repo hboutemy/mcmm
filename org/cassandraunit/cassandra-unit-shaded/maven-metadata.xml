@@ -3,8 +3,8 @@
   <groupId>org.cassandraunit</groupId>
   <artifactId>cassandra-unit-shaded</artifactId>
   <versioning>
-    <latest>3.5.0.1</latest>
-    <release>3.5.0.1</release>
+    <latest>3.11.2.0</latest>
+    <release>3.11.2.0</release>
     <versions>
       <version>2.1.9.2</version>
       <version>3.1.3.2</version>
@@ -12,7 +12,9 @@
       <version>3.3.0.2</version>
       <version>3.5.0.0</version>
       <version>3.5.0.1</version>
+      <version>3.7.1.0</version>
+      <version>3.11.2.0</version>
     </versions>
-    <lastUpdated>20180612094935</lastUpdated>
+    <lastUpdated>20190509132930</lastUpdated>
   </versioning>
 </metadata>

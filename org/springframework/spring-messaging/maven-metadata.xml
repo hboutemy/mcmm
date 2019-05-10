@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-messaging</artifactId>
   <versioning>
-    <latest>5.1.6.RELEASE</latest>
-    <release>5.1.6.RELEASE</release>
+    <latest>5.1.7.RELEASE</latest>
+    <release>5.1.7.RELEASE</release>
     <versions>
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
@@ -60,6 +60,7 @@
       <version>4.3.21.RELEASE</version>
       <version>4.3.22.RELEASE</version>
       <version>4.3.23.RELEASE</version>
+      <version>4.3.24.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -74,6 +75,7 @@
       <version>5.0.11.RELEASE</version>
       <version>5.0.12.RELEASE</version>
       <version>5.0.13.RELEASE</version>
+      <version>5.0.14.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -81,7 +83,8 @@
       <version>5.1.4.RELEASE</version>
       <version>5.1.5.RELEASE</version>
       <version>5.1.6.RELEASE</version>
+      <version>5.1.7.RELEASE</version>
     </versions>
-    <lastUpdated>20190331091216</lastUpdated>
+    <lastUpdated>20190509154347</lastUpdated>
   </versioning>
 </metadata>

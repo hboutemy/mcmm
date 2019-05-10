@@ -6,5 +6,10 @@
       <prefix>docker</prefix>
       <artifactId>docker-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>dockertask-maven-plugin</name>
+      <prefix>dockertask</prefix>
+      <artifactId>dockertask-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
