@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-keyvalue</artifactId>
   <versioning>
-    <latest>2.1.6.RELEASE</latest>
-    <release>2.1.6.RELEASE</release>
+    <latest>2.1.7.RELEASE</latest>
+    <release>2.1.7.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -42,6 +42,7 @@
       <version>1.2.17.RELEASE</version>
       <version>1.2.18.RELEASE</version>
       <version>1.2.20.RELEASE</version>
+      <version>1.2.21.RELEASE</version>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.0.2.RELEASE</version>
@@ -64,7 +65,8 @@
       <version>2.1.4.RELEASE</version>
       <version>2.1.5.RELEASE</version>
       <version>2.1.6.RELEASE</version>
+      <version>2.1.7.RELEASE</version>
     </versions>
-    <lastUpdated>20190401190400</lastUpdated>
+    <lastUpdated>20190510125117</lastUpdated>
   </versioning>
 </metadata>
