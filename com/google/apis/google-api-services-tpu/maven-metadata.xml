@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-tpu</artifactId>
   <versioning>
-    <latest>v1-rev20190422-1.28.0</latest>
-    <release>v1-rev20190422-1.28.0</release>
+    <latest>v1-rev20190509-1.28.0</latest>
+    <release>v1-rev20190509-1.28.0</release>
     <versions>
       <version>v1alpha1-rev2-1.18.0-rc</version>
       <version>v1alpha1-rev2-1.21.0</version>
@@ -140,6 +140,9 @@
       <version>v1alpha1-rev20190422-1.26.0</version>
       <version>v1alpha1-rev20190422-1.27.0</version>
       <version>v1alpha1-rev20190422-1.28.0</version>
+      <version>v1alpha1-rev20190509-1.26.0</version>
+      <version>v1alpha1-rev20190509-1.27.0</version>
+      <version>v1alpha1-rev20190509-1.28.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -250,7 +253,10 @@
       <version>v1-rev20190422-1.26.0</version>
       <version>v1-rev20190422-1.27.0</version>
       <version>v1-rev20190422-1.28.0</version>
+      <version>v1-rev20190509-1.26.0</version>
+      <version>v1-rev20190509-1.27.0</version>
+      <version>v1-rev20190509-1.28.0</version>
     </versions>
-    <lastUpdated>20190510083217</lastUpdated>
+    <lastUpdated>20190513214637</lastUpdated>
   </versioning>
 </metadata>
