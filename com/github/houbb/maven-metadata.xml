@@ -2,9 +2,19 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>gen-comment-plugin</name>
+      <prefix>gen-comment</prefix>
+      <artifactId>gen-comment-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-gen-plugin</name>
       <prefix>gen</prefix>
       <artifactId>gen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>gen-test-plugin</name>
+      <prefix>gen-test</prefix>
+      <artifactId>gen-test-plugin</artifactId>
     </plugin>
     <plugin>
       <prefix>idoc-core</prefix>
