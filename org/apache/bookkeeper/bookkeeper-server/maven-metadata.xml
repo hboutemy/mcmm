@@ -3,8 +3,8 @@
   <groupId>org.apache.bookkeeper</groupId>
   <artifactId>bookkeeper-server</artifactId>
   <versioning>
-    <latest>4.9.1</latest>
-    <release>4.9.1</release>
+    <latest>4.9.2</latest>
+    <release>4.9.2</release>
     <versions>
       <version>4.0.0</version>
       <version>4.1.0</version>
@@ -31,7 +31,8 @@
       <version>4.8.2</version>
       <version>4.9.0</version>
       <version>4.9.1</version>
+      <version>4.9.2</version>
     </versions>
-    <lastUpdated>20190405082537</lastUpdated>
+    <lastUpdated>20190516173645</lastUpdated>
   </versioning>
 </metadata>

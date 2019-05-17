@@ -3,8 +3,8 @@
   <groupId>com.bbossgroups.plugins</groupId>
   <artifactId>bboss-elasticsearch-rest</artifactId>
   <versioning>
-    <latest>5.6.9</latest>
-    <release>5.6.9</release>
+    <latest>5.7.1</latest>
+    <release>5.7.1</release>
     <versions>
       <version>5.0.3.7.4</version>
       <version>5.0.3.7.5</version>
@@ -119,7 +119,9 @@
       <version>5.6.7</version>
       <version>5.6.8</version>
       <version>5.6.9</version>
+      <version>5.7.0</version>
+      <version>5.7.1</version>
     </versions>
-    <lastUpdated>20190509151417</lastUpdated>
+    <lastUpdated>20190516155359</lastUpdated>
   </versioning>
 </metadata>
