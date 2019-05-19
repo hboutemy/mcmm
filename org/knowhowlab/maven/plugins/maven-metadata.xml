@@ -6,5 +6,10 @@
       <prefix>keepass</prefix>
       <artifactId>keepass-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Versions Helper Maven Plugin</name>
+      <prefix>versions-helper</prefix>
+      <artifactId>versions-helper-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
