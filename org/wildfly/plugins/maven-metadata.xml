@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>wildfly-bom-builder</prefix>
+      <artifactId>wildfly-bom-builder-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>wildfly-component-matrix</prefix>
       <artifactId>wildfly-component-matrix-plugin</artifactId>
     </plugin>
