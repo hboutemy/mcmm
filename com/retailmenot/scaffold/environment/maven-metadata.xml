@@ -3,11 +3,14 @@
   <groupId>com.retailmenot.scaffold</groupId>
   <artifactId>environment</artifactId>
   <versioning>
-    <latest>1.0.0-beta</latest>
-    <release>1.0.0-beta</release>
+    <latest>1.0.1</latest>
+    <release>1.0.1</release>
     <versions>
+      <version>DEV</version>
       <version>1.0.0-beta</version>
+      <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20190405205721</lastUpdated>
+    <lastUpdated>20190521211254</lastUpdated>
   </versioning>
 </metadata>

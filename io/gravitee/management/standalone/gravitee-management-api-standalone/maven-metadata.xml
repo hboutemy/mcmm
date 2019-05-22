@@ -3,8 +3,8 @@
   <groupId>io.gravitee.management.standalone</groupId>
   <artifactId>gravitee-management-api-standalone</artifactId>
   <versioning>
-    <latest>1.25.3</latest>
-    <release>1.25.3</release>
+    <latest>1.26.0</latest>
+    <release>1.26.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -118,6 +118,7 @@
       <version>1.20.14</version>
       <version>1.20.15</version>
       <version>1.20.16</version>
+      <version>1.20.17</version>
       <version>1.21.0</version>
       <version>1.21.1</version>
       <version>1.21.2</version>
@@ -137,7 +138,8 @@
       <version>1.25.1</version>
       <version>1.25.2</version>
       <version>1.25.3</version>
+      <version>1.26.0</version>
     </versions>
-    <lastUpdated>20190516202939</lastUpdated>
+    <lastUpdated>20190521170624</lastUpdated>
   </versioning>
 </metadata>

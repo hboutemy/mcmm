@@ -3,8 +3,8 @@
   <groupId>fr.jetoile.hadoop</groupId>
   <artifactId>confluent-integrationtest</artifactId>
   <versioning>
-    <latest>3.4</latest>
-    <release>3.4</release>
+    <latest>3.5</latest>
+    <release>3.5</release>
     <versions>
       <version>2.9</version>
       <version>2.10</version>
@@ -14,7 +14,8 @@
       <version>3.2</version>
       <version>3.3</version>
       <version>3.4</version>
+      <version>3.5</version>
     </versions>
-    <lastUpdated>20190316191234</lastUpdated>
+    <lastUpdated>20190521140222</lastUpdated>
   </versioning>
 </metadata>
