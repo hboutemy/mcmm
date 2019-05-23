@@ -3,8 +3,8 @@
   <groupId>com.floragunn</groupId>
   <artifactId>search-guard-6</artifactId>
   <versioning>
-    <latest>6.7.2-25.1-api</latest>
-    <release>6.7.2-25.1-api</release>
+    <latest>6.8.0-25.1-api</latest>
+    <release>6.8.0-25.1-api</release>
     <versions>
       <version>6.0.0-17.beta1</version>
       <version>6.0.0-17.beta1api</version>
@@ -251,7 +251,11 @@
       <version>6.7.2-25.0-api</version>
       <version>6.7.2-25.1</version>
       <version>6.7.2-25.1-api</version>
+      <version>6.7.2-25.2</version>
+      <version>6.7.2-25.2-api</version>
+      <version>6.8.0-25.1</version>
+      <version>6.8.0-25.1-api</version>
     </versions>
-    <lastUpdated>20190508210723</lastUpdated>
+    <lastUpdated>20190522175608</lastUpdated>
   </versioning>
 </metadata>
