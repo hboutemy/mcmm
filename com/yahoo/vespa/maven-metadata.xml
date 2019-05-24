@@ -29,5 +29,9 @@
       <prefix>vespa-documentgen</prefix>
       <artifactId>vespa-documentgen-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>vespa</prefix>
+      <artifactId>vespa-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

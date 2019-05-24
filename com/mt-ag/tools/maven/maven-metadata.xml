@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Plugin to generate jars with module information as Maven Plugin</name>
+      <prefix>jar-module</prefix>
+      <artifactId>jar-module-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
