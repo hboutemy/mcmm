@@ -2,9 +2,19 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>vdb-codegen-plugin Maven Plugin</name>
+      <prefix>vdb-codegen</prefix>
+      <artifactId>vdb-codegen-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>vdb-maven-plugin Maven Plugin</name>
       <prefix>vdb</prefix>
       <artifactId>vdb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>vdb-plugin Maven Plugin</name>
+      <prefix>vdb</prefix>
+      <artifactId>vdb-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
