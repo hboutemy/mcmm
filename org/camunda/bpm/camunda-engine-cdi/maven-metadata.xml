@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-engine-cdi</artifactId>
   <versioning>
-    <latest>7.11.0-alpha5</latest>
-    <release>7.11.0-alpha5</release>
+    <latest>7.11.0</latest>
+    <release>7.11.0</release>
     <versions>
       <version>7.1.0-alpha2</version>
       <version>7.1.0-alpha4</version>
@@ -65,7 +65,8 @@
       <version>7.11.0-alpha3</version>
       <version>7.11.0-alpha4</version>
       <version>7.11.0-alpha5</version>
+      <version>7.11.0</version>
     </versions>
-    <lastUpdated>20190517115211</lastUpdated>
+    <lastUpdated>20190528145752</lastUpdated>
   </versioning>
 </metadata>
