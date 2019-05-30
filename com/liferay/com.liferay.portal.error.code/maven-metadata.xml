@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.error.code</artifactId>
   <versioning>
+    <latest>1.0.1</latest>
     <release>1.0.1</release>
     <versions>
-      <version>1.0.1</version>
       <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20190501174210</lastUpdated>
+    <lastUpdated>20190529174304</lastUpdated>
   </versioning>
 </metadata>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.apio.api</artifactId>
   <versioning>
+    <latest>1.2.2</latest>
     <release>1.2.2</release>
     <versions>
       <version>1.0.0</version>
@@ -17,6 +18,6 @@
       <version>1.2.1</version>
       <version>1.2.2</version>
     </versions>
-    <lastUpdated>20190329183210</lastUpdated>
+    <lastUpdated>20190529221145</lastUpdated>
   </versioning>
 </metadata>

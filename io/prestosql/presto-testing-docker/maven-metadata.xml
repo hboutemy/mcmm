@@ -3,15 +3,16 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-testing-docker</artifactId>
   <versioning>
-    <latest>311</latest>
-    <release>311</release>
+    <latest>312</latest>
+    <release>312</release>
     <versions>
       <version>307</version>
       <version>308</version>
       <version>309</version>
       <version>310</version>
       <version>311</version>
+      <version>312</version>
     </versions>
-    <lastUpdated>20190515054842</lastUpdated>
+    <lastUpdated>20190529215051</lastUpdated>
   </versioning>
 </metadata>

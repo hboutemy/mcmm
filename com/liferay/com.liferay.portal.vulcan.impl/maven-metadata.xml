@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.vulcan.impl</artifactId>
   <versioning>
-    <release>3.0.6</release>
+    <latest>3.0.7</latest>
+    <release>3.0.7</release>
     <versions>
+      <version>1.0.0</version>
       <version>1.0.1</version>
       <version>2.0.0</version>
-      <version>3.0.1</version>
       <version>2.0.1</version>
+      <version>2.0.2</version>
       <version>2.0.3</version>
+      <version>2.0.4</version>
+      <version>3.0.0</version>
+      <version>3.0.1</version>
       <version>3.0.2</version>
       <version>3.0.3</version>
-      <version>2.0.4</version>
       <version>3.0.4</version>
       <version>3.0.5</version>
       <version>3.0.6</version>
-      <version>1.0.0</version>
-      <version>2.0.2</version>
-      <version>3.0.0</version>
+      <version>3.0.7</version>
     </versions>
-    <lastUpdated>20190528225255</lastUpdated>
+    <lastUpdated>20190529181642</lastUpdated>
   </versioning>
 </metadata>
