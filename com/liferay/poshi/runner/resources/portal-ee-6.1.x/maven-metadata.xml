@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.poshi.runner.resources</groupId>
   <artifactId>portal-ee-6.1.x</artifactId>
   <versioning>
+    <latest>20190325111923-20a286f</latest>
     <release>20190325111923-20a286f</release>
     <versions>
       <version>20180516095228-87f131d</version>
@@ -10,6 +11,6 @@
       <version>20190110114651-2943909</version>
       <version>20190325111923-20a286f</version>
     </versions>
-    <lastUpdated>20190325181933</lastUpdated>
+    <lastUpdated>20190530011116</lastUpdated>
   </versioning>
 </metadata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.product.navigation.user</artifactId>
   <versioning>
-    <latest>2.0.2</latest>
+    <latest>4.0.2</latest>
     <release>4.0.2</release>
     <versions>
       <version>1.0.0</version>
@@ -16,14 +16,14 @@
       <version>2.0.6</version>
       <version>2.0.7</version>
       <version>2.0.8</version>
+      <version>2.0.9</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
-      <version>2.0.9</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
     </versions>
-    <lastUpdated>20190514033720</lastUpdated>
+    <lastUpdated>20190530152940</lastUpdated>
   </versioning>
 </metadata>

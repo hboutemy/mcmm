@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.portal.test.integration</artifactId>
   <versioning>
-    <latest>2.0.0</latest>
-    <release>2.0.0</release>
+    <latest>6.0.7</latest>
+    <release>6.0.7</release>
     <versions>
       <version>2.0.0</version>
       <version>3.0.0</version>
@@ -16,13 +16,21 @@
       <version>4.1.2</version>
       <version>4.1.3</version>
       <version>4.1.4</version>
+      <version>4.1.5</version>
+      <version>4.1.6</version>
+      <version>4.1.8</version>
+      <version>4.1.9</version>
+      <version>4.1.10</version>
+      <version>4.1.11</version>
+      <version>4.1.12</version>
+      <version>4.1.13</version>
+      <version>4.1.14</version>
+      <version>4.1.15</version>
+      <version>4.1.16</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
-      <version>4.1.5</version>
       <version>5.0.2</version>
-      <version>4.1.6</version>
       <version>5.0.8</version>
-      <version>4.1.8</version>
       <version>5.0.9</version>
       <version>5.0.10</version>
       <version>5.1.0</version>
@@ -32,30 +40,22 @@
       <version>5.1.4</version>
       <version>5.1.5</version>
       <version>5.1.6</version>
-      <version>4.1.9</version>
-      <version>4.1.10</version>
-      <version>4.1.11</version>
       <version>5.1.7</version>
       <version>5.1.8</version>
       <version>5.1.9</version>
-      <version>4.1.12</version>
       <version>5.1.10</version>
-      <version>4.1.13</version>
       <version>5.1.11</version>
-      <version>4.1.14</version>
-      <version>6.0.0</version>
-      <version>4.1.15</version>
-      <version>6.0.1</version>
       <version>5.1.12</version>
+      <version>5.1.13</version>
+      <version>6.0.0</version>
+      <version>6.0.1</version>
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
       <version>6.0.5</version>
       <version>6.0.6</version>
       <version>6.0.7</version>
-      <version>4.1.16</version>
-      <version>5.1.13</version>
     </versions>
-    <lastUpdated>20190520191609</lastUpdated>
+    <lastUpdated>20190530101549</lastUpdated>
   </versioning>
 </metadata>

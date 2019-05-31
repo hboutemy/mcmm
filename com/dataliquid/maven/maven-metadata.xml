@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dataliquid :: Distribution Verifier Maven Plugin</name>
+      <prefix>distribution-verifier</prefix>
+      <artifactId>distribution-verifier-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
