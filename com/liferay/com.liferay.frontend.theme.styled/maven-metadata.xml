@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.theme.styled</artifactId>
   <versioning>
-    <latest>2.0.14</latest>
+    <latest>4.0.7</latest>
     <release>4.0.7</release>
     <versions>
       <version>1.0.0</version>
@@ -49,28 +49,28 @@
       <version>2.1.5</version>
       <version>2.1.6</version>
       <version>2.1.7</version>
+      <version>2.1.8</version>
+      <version>2.1.9</version>
+      <version>2.1.10</version>
+      <version>2.1.11</version>
+      <version>2.1.12</version>
+      <version>2.1.13</version>
+      <version>2.1.14</version>
+      <version>2.1.15</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
-      <version>2.1.8</version>
       <version>3.0.3</version>
-      <version>2.1.9</version>
-      <version>2.1.10</version>
       <version>3.0.4</version>
       <version>3.0.5</version>
       <version>3.0.8</version>
       <version>3.0.9</version>
-      <version>2.1.11</version>
-      <version>2.1.12</version>
       <version>3.0.10</version>
       <version>3.0.11</version>
-      <version>2.1.13</version>
       <version>3.0.12</version>
       <version>3.0.13</version>
       <version>3.0.14</version>
-      <version>2.1.14</version>
       <version>3.0.15</version>
-      <version>2.1.15</version>
       <version>3.0.16</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
@@ -81,6 +81,6 @@
       <version>4.0.6</version>
       <version>4.0.7</version>
     </versions>
-    <lastUpdated>20190530202230</lastUpdated>
+    <lastUpdated>20190531034258</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>agentrule</prefix>
       <artifactId>agentrule-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Assemble Maven Plugin for SpecialAgent</name>
+      <prefix>assemble</prefix>
+      <artifactId>assemble-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

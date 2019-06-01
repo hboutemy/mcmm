@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.dynamic.data.mapping.api</artifactId>
   <versioning>
-    <latest>3.8.8</latest>
+    <latest>5.2.0</latest>
     <release>5.2.0</release>
     <versions>
       <version>1.0.0</version>
@@ -37,6 +37,18 @@
       <version>3.8.6</version>
       <version>3.8.7</version>
       <version>3.8.8</version>
+      <version>3.8.9</version>
+      <version>3.8.10</version>
+      <version>3.9.1</version>
+      <version>3.9.2</version>
+      <version>3.9.3</version>
+      <version>3.9.4</version>
+      <version>3.9.5</version>
+      <version>3.9.6</version>
+      <version>3.9.7</version>
+      <version>3.9.8</version>
+      <version>3.9.9</version>
+      <version>3.9.10</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.1.0</version>
@@ -44,21 +56,17 @@
       <version>4.1.2</version>
       <version>4.1.3</version>
       <version>4.1.4</version>
-      <version>3.8.9</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
-      <version>3.8.10</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
       <version>4.4.0</version>
       <version>4.6.4</version>
       <version>4.6.5</version>
       <version>4.6.6</version>
-      <version>3.9.1</version>
       <version>4.6.7</version>
       <version>4.6.8</version>
       <version>4.6.9</version>
-      <version>3.9.2</version>
       <version>4.7.0</version>
       <version>4.7.1</version>
       <version>4.7.2</version>
@@ -66,33 +74,26 @@
       <version>4.7.4</version>
       <version>4.8.0</version>
       <version>4.8.1</version>
-      <version>3.9.3</version>
       <version>4.8.2</version>
       <version>4.8.3</version>
-      <version>3.9.4</version>
       <version>4.8.4</version>
       <version>4.8.5</version>
       <version>4.8.6</version>
-      <version>3.9.5</version>
       <version>4.8.7</version>
-      <version>3.9.6</version>
       <version>4.8.8</version>
-      <version>3.9.7</version>
       <version>4.8.9</version>
       <version>4.8.10</version>
       <version>4.8.11</version>
-      <version>3.9.8</version>
+      <version>4.8.12</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.0.3</version>
       <version>5.0.4</version>
       <version>5.0.5</version>
-      <version>3.9.9</version>
-      <version>4.8.12</version>
       <version>5.1.0</version>
       <version>5.2.0</version>
     </versions>
-    <lastUpdated>20190529195709</lastUpdated>
+    <lastUpdated>20190531062300</lastUpdated>
   </versioning>
 </metadata>

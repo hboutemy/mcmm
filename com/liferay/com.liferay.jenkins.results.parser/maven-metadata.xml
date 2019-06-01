@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.jenkins.results.parser</artifactId>
   <versioning>
-    <latest>1.0.55</latest>
+    <latest>1.0.472</latest>
     <release>1.0.472</release>
     <versions>
       <version>1.0.0</version>
@@ -289,16 +289,22 @@
       <version>1.0.281</version>
       <version>1.0.282</version>
       <version>1.0.283</version>
+      <version>1.0.284</version>
       <version>1.0.285</version>
       <version>1.0.286</version>
       <version>1.0.287</version>
+      <version>1.0.288</version>
       <version>1.0.289</version>
       <version>1.0.290</version>
       <version>1.0.291</version>
       <version>1.0.292</version>
+      <version>1.0.293</version>
+      <version>1.0.294</version>
       <version>1.0.295</version>
       <version>1.0.296</version>
       <version>1.0.297</version>
+      <version>1.0.298</version>
+      <version>1.0.299</version>
       <version>1.0.300</version>
       <version>1.0.301</version>
       <version>1.0.302</version>
@@ -316,6 +322,7 @@
       <version>1.0.314</version>
       <version>1.0.315</version>
       <version>1.0.316</version>
+      <version>1.0.317</version>
       <version>1.0.318</version>
       <version>1.0.319</version>
       <version>1.0.320</version>
@@ -330,15 +337,20 @@
       <version>1.0.329</version>
       <version>1.0.330</version>
       <version>1.0.331</version>
+      <version>1.0.332</version>
       <version>1.0.333</version>
+      <version>1.0.334</version>
       <version>1.0.335</version>
       <version>1.0.336</version>
       <version>1.0.337</version>
       <version>1.0.338</version>
+      <version>1.0.339</version>
+      <version>1.0.340</version>
       <version>1.0.341</version>
       <version>1.0.342</version>
       <version>1.0.343</version>
       <version>1.0.344</version>
+      <version>1.0.345</version>
       <version>1.0.346</version>
       <version>1.0.347</version>
       <version>1.0.348</version>
@@ -359,10 +371,12 @@
       <version>1.0.363</version>
       <version>1.0.364</version>
       <version>1.0.365</version>
+      <version>1.0.366</version>
       <version>1.0.367</version>
       <version>1.0.368</version>
       <version>1.0.369</version>
       <version>1.0.370</version>
+      <version>1.0.371</version>
       <version>1.0.372</version>
       <version>1.0.373</version>
       <version>1.0.374</version>
@@ -382,6 +396,7 @@
       <version>1.0.388</version>
       <version>1.0.389</version>
       <version>1.0.390</version>
+      <version>1.0.391</version>
       <version>1.0.392</version>
       <version>1.0.393</version>
       <version>1.0.394</version>
@@ -411,6 +426,7 @@
       <version>1.0.418</version>
       <version>1.0.419</version>
       <version>1.0.420</version>
+      <version>1.0.421</version>
       <version>1.0.422</version>
       <version>1.0.423</version>
       <version>1.0.424</version>
@@ -462,23 +478,7 @@
       <version>1.0.470</version>
       <version>1.0.471</version>
       <version>1.0.472</version>
-      <version>1.0.284</version>
-      <version>1.0.288</version>
-      <version>1.0.293</version>
-      <version>1.0.294</version>
-      <version>1.0.298</version>
-      <version>1.0.299</version>
-      <version>1.0.317</version>
-      <version>1.0.332</version>
-      <version>1.0.334</version>
-      <version>1.0.339</version>
-      <version>1.0.340</version>
-      <version>1.0.345</version>
-      <version>1.0.366</version>
-      <version>1.0.371</version>
-      <version>1.0.391</version>
-      <version>1.0.421</version>
     </versions>
-    <lastUpdated>20190530220145</lastUpdated>
+    <lastUpdated>20190530234346</lastUpdated>
   </versioning>
 </metadata>

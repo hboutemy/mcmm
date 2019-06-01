@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.gradle.plugins.js.transpiler</artifactId>
   <versioning>
-    <latest>2.2.1</latest>
+    <latest>2.4.34</latest>
     <release>2.4.34</release>
     <versions>
       <version>1.0.0</version>
@@ -104,9 +104,9 @@
       <version>2.4.30</version>
       <version>2.4.31</version>
       <version>2.4.32</version>
-      <version>2.4.34</version>
       <version>2.4.33</version>
+      <version>2.4.34</version>
     </versions>
-    <lastUpdated>20190524211841</lastUpdated>
+    <lastUpdated>20190531032013</lastUpdated>
   </versioning>
 </metadata>

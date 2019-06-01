@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-grpc</artifactId>
   <versioning>
-    <latest>2.13.1-alpha</latest>
-    <release>2.13.1-alpha</release>
+    <latest>2.13.2-alpha</latest>
+    <release>2.13.2-alpha</release>
     <versions>
       <version>2.0.0-rc3</version>
       <version>2.0.0-rc4</version>
@@ -54,8 +54,10 @@
       <version>2.12.1</version>
       <version>2.12.2</version>
       <version>2.12.3</version>
+      <version>2.12.4</version>
       <version>2.13.1-alpha</version>
+      <version>2.13.2-alpha</version>
     </versions>
-    <lastUpdated>20190530022018</lastUpdated>
+    <lastUpdated>20190531031738</lastUpdated>
   </versioning>
 </metadata>

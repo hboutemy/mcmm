@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Debian Maven Plugin</name>
+      <prefix>debian</prefix>
+      <artifactId>debian-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>LaTeX Maven Plugin</name>
       <prefix>latex</prefix>
       <artifactId>latex-maven-plugin</artifactId>

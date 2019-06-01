@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.dynamic.data.mapping.type.checkbox</artifactId>
   <versioning>
-    <latest>2.0.7</latest>
-    <release>2.0.20</release>
+    <latest>3.0.1</latest>
+    <release>3.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -24,13 +24,13 @@
       <version>2.0.14</version>
       <version>2.0.15</version>
       <version>2.0.16</version>
-      <version>3.0.0</version>
-      <version>3.0.1</version>
       <version>2.0.17</version>
       <version>2.0.18</version>
       <version>2.0.19</version>
       <version>2.0.20</version>
+      <version>3.0.0</version>
+      <version>3.0.1</version>
     </versions>
-    <lastUpdated>20190420000447</lastUpdated>
+    <lastUpdated>20190531053347</lastUpdated>
   </versioning>
 </metadata>
