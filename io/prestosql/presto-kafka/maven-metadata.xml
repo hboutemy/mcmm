@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-kafka</artifactId>
   <versioning>
-    <latest>312</latest>
-    <release>312</release>
+    <latest>313</latest>
+    <release>313</release>
     <versions>
       <version>300</version>
       <version>301</version>
@@ -19,7 +19,8 @@
       <version>310</version>
       <version>311</version>
       <version>312</version>
+      <version>313</version>
     </versions>
-    <lastUpdated>20190529214915</lastUpdated>
+    <lastUpdated>20190601082146</lastUpdated>
   </versioning>
 </metadata>
