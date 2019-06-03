@@ -32,6 +32,11 @@
       <artifactId>konig-gcp-deploy-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>konig-gcp-maven-plugin</name>
+      <prefix>konig-gcp</prefix>
+      <artifactId>konig-gcp-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Konig Google Download Maven Plugin</name>
       <prefix>konig-google-download</prefix>
       <artifactId>konig-google-download-maven-plugin</artifactId>
