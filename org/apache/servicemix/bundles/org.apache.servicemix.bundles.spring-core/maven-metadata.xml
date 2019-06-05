@@ -3,8 +3,8 @@
   <groupId>org.apache.servicemix.bundles</groupId>
   <artifactId>org.apache.servicemix.bundles.spring-core</artifactId>
   <versioning>
-    <latest>5.1.6.RELEASE_1</latest>
-    <release>5.1.6.RELEASE_1</release>
+    <latest>5.1.7.RELEASE_1</latest>
+    <release>5.1.7.RELEASE_1</release>
     <versions>
       <version>3.2.7.RELEASE_1</version>
       <version>3.2.7.RELEASE_2</version>
@@ -96,6 +96,7 @@
       <version>4.3.22.RELEASE_1</version>
       <version>4.3.22.RELEASE_2</version>
       <version>4.3.23.RELEASE_1</version>
+      <version>4.3.24.RELEASE_1</version>
       <version>5.0.0.RELEASE_1</version>
       <version>5.0.2.RELEASE_1</version>
       <version>5.0.3.RELEASE_1</version>
@@ -109,12 +110,14 @@
       <version>5.0.11.RELEASE_1</version>
       <version>5.0.12.RELEASE_1</version>
       <version>5.0.13.RELEASE_1</version>
+      <version>5.0.14.RELEASE_1</version>
       <version>5.1.1.RELEASE_1</version>
       <version>5.1.3.RELEASE_1</version>
       <version>5.1.4.RELEASE_1</version>
       <version>5.1.5.RELEASE_1</version>
       <version>5.1.6.RELEASE_1</version>
+      <version>5.1.7.RELEASE_1</version>
     </versions>
-    <lastUpdated>20190509072748</lastUpdated>
+    <lastUpdated>20190604082812</lastUpdated>
   </versioning>
 </metadata>

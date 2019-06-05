@@ -3,8 +3,8 @@
   <groupId>org.apache.storm</groupId>
   <artifactId>maven-shade-clojure-transformer</artifactId>
   <versioning>
-    <latest>1.2.2</latest>
-    <release>1.2.2</release>
+    <latest>2.0.0</latest>
+    <release>2.0.0</release>
     <versions>
       <version>0.9.1-incubating</version>
       <version>0.9.2-incubating</version>
@@ -32,7 +32,8 @@
       <version>1.2.0</version>
       <version>1.2.1</version>
       <version>1.2.2</version>
+      <version>2.0.0</version>
     </versions>
-    <lastUpdated>20180601205638</lastUpdated>
+    <lastUpdated>20190604161632</lastUpdated>
   </versioning>
 </metadata>

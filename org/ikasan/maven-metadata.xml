@@ -42,6 +42,11 @@
       <artifactId>ikasan-rt-conf-jboss6-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone DB to JMS to DB Integration Module</name>
+      <prefix>ikasan-standalone-db-jms-im</prefix>
+      <artifactId>ikasan-standalone-db-jms-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>IkasanEIP Maven Archetype for a standalone Schedule Driven Local File System Integration Module</name>
       <prefix>ikasan-standalone-filesystem-im</prefix>
       <artifactId>ikasan-standalone-filesystem-im-maven-plugin</artifactId>
@@ -50,6 +55,11 @@
       <name>IkasanEIP Maven Archetype for a standalone FTP - JMS Integration Module</name>
       <prefix>ikasan-standalone-ftp-jms-im</prefix>
       <artifactId>ikasan-standalone-ftp-jms-im-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>IkasanEIP Maven Archetype for a standalone DB (Hibernate) to JMS to DB (Hibernate) Integration Module</name>
+      <prefix>ikasan-standalone-hibernate-jms-im</prefix>
+      <artifactId>ikasan-standalone-hibernate-jms-im-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>IkasanEIP Maven Archetype for a standalone JMS Integration Module</name>
