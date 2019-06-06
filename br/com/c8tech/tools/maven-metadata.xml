@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OSGi Container Distribution Archive Generator Maven Plugin</name>
+      <prefix>osgi-container</prefix>
+      <artifactId>osgi-container-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OSGi Subsystem Archive Generator Maven Plugin</name>
+      <prefix>osgi-subsystem</prefix>
+      <artifactId>osgi-subsystem-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
