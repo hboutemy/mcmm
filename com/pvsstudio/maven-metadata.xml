@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PVS-Studio Maven Plugin</name>
+      <prefix>pvsstudio</prefix>
+      <artifactId>pvsstudio-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
