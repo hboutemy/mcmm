@@ -3,8 +3,8 @@
   <groupId>org.wicketstuff</groupId>
   <artifactId>wicket-mount-parent</artifactId>
   <versioning>
-    <latest>9.0.0-M1</latest>
-    <release>9.0.0-M1</release>
+    <latest>9.0.0-M2</latest>
+    <release>9.0.0-M2</release>
     <versions>
       <version>6.15.0</version>
       <version>6.16.0</version>
@@ -53,9 +53,11 @@
       <version>8.2.0</version>
       <version>8.3.0</version>
       <version>8.4.0</version>
+      <version>8.5.0</version>
       <version>9.0.0-M1</version>
+      <version>9.0.0-M2</version>
       <version>6.20.0</version>
     </versions>
-    <lastUpdated>20190531010614</lastUpdated>
+    <lastUpdated>20190608044028</lastUpdated>
   </versioning>
 </metadata>
