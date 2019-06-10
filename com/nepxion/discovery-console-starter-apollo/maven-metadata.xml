@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-console-starter-apollo</artifactId>
   <versioning>
-    <latest>5.0.8</latest>
-    <release>5.0.8</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -35,6 +35,7 @@
       <version>3.8.11</version>
       <version>3.8.12</version>
       <version>3.8.13</version>
+      <version>3.9.0</version>
       <version>4.7.12</version>
       <version>4.8.0-RC1</version>
       <version>4.8.0</version>
@@ -62,6 +63,7 @@
       <version>4.8.11</version>
       <version>4.8.12</version>
       <version>4.8.13</version>
+      <version>4.9.0</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -73,7 +75,8 @@
       <version>5.0.6</version>
       <version>5.0.7</version>
       <version>5.0.8</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20190602060310</lastUpdated>
+    <lastUpdated>20190609052111</lastUpdated>
   </versioning>
 </metadata>
