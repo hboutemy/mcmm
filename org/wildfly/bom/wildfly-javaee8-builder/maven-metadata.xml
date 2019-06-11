@@ -3,11 +3,12 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-javaee8-builder</artifactId>
   <versioning>
-    <latest>17.0.0.Beta1</latest>
-    <release>17.0.0.Beta1</release>
+    <latest>17.0.0.Final</latest>
+    <release>17.0.0.Final</release>
     <versions>
       <version>17.0.0.Beta1</version>
+      <version>17.0.0.Final</version>
     </versions>
-    <lastUpdated>20190525053259</lastUpdated>
+    <lastUpdated>20190610100240</lastUpdated>
   </versioning>
 </metadata>

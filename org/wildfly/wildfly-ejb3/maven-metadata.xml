@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-ejb3</artifactId>
   <versioning>
-    <latest>17.0.0.Beta1</latest>
-    <release>17.0.0.Beta1</release>
+    <latest>17.0.0.Final</latest>
+    <release>17.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -61,7 +61,8 @@
       <version>16.0.0.Final</version>
       <version>17.0.0.Alpha1</version>
       <version>17.0.0.Beta1</version>
+      <version>17.0.0.Final</version>
     </versions>
-    <lastUpdated>20190524180330</lastUpdated>
+    <lastUpdated>20190610021250</lastUpdated>
   </versioning>
 </metadata>
