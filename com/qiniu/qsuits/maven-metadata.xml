@@ -3,8 +3,8 @@
   <groupId>com.qiniu</groupId>
   <artifactId>qsuits</artifactId>
   <versioning>
-    <latest>6.31-beta</latest>
-    <release>6.31-beta</release>
+    <latest>6.31-thin</latest>
+    <release>6.31-thin</release>
     <versions>
       <version>2.20</version>
       <version>2.21</version>
@@ -50,7 +50,9 @@
       <version>6.30</version>
       <version>6.30-thin</version>
       <version>6.31-beta</version>
+      <version>6.31</version>
+      <version>6.31-thin</version>
     </versions>
-    <lastUpdated>20190606095832</lastUpdated>
+    <lastUpdated>20190611140918</lastUpdated>
   </versioning>
 </metadata>

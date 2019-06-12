@@ -12,7 +12,7 @@
       <artifactId>camel-api-component-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Connectors :: Camel Connector Maven Plugin (deprecated)</name>
+      <name>Camel :: Connectors :: Camel Connector Maven Plugin</name>
       <prefix>camel-connector</prefix>
       <artifactId>camel-connector-maven-plugin</artifactId>
     </plugin>
@@ -27,7 +27,7 @@
       <artifactId>camel-javadoc-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
+      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>
     </plugin>
