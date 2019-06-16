@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>libraries utilities mojo - ${project.version}</name>
+      <name>Maven Bulk Deploy Plugin - ${project.version}</name>
       <prefix>bulk-deploy</prefix>
       <artifactId>bulk-deploy</artifactId>
     </plugin>
