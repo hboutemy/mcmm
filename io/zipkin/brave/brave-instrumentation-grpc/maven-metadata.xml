@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-grpc</artifactId>
   <versioning>
-    <latest>5.6.3</latest>
-    <release>5.6.3</release>
+    <latest>5.6.4</latest>
+    <release>5.6.4</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -78,7 +78,8 @@
       <version>5.6.1</version>
       <version>5.6.2</version>
       <version>5.6.3</version>
+      <version>5.6.4</version>
     </versions>
-    <lastUpdated>20190311153629</lastUpdated>
+    <lastUpdated>20190614135238</lastUpdated>
   </versioning>
 </metadata>
