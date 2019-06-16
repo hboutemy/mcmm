@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache NetBeans Maven Utilities - NB Repository Plugin</name>
+      <prefix>nb-repository</prefix>
+      <artifactId>nb-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache NetBeans Maven Utilities - NBM Maven Plugin</name>
+      <prefix>nbm</prefix>
+      <artifactId>nbm-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

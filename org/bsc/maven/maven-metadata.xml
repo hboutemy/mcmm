@@ -2,12 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>CONFLUENCE-REPORTING::Plugin - ${project.version}</name>
+      <name>CONFLUENCE-REPORTING::Plugin</name>
       <prefix>confluence-reporting</prefix>
       <artifactId>confluence-reporting-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>CONFLUENCE-REPORTING::Test::Plugin - ${project.version}</name>
+      <name>CONFLUENCE-REPORTING::Test::Plugin</name>
       <prefix>confluencetest</prefix>
       <artifactId>maven-confluence-plugin-test</artifactId>
     </plugin>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Fake Maven Plugin</name>
+      <prefix>wangdm-fake</prefix>
+      <artifactId>wangdm-fake-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fake Maven Plugin</name>
+      <prefix>wangdm-fake</prefix>
+      <artifactId>wangdm-fake-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
