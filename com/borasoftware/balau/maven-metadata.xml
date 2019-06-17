@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Balau Integration Test Maven plugin</name>
+      <prefix>balau-integration-test</prefix>
+      <artifactId>balau-integration-test-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Balau Unit Test Maven plugin</name>
+      <prefix>balau-unit-test</prefix>
+      <artifactId>balau-unit-test-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Balau CMake Maven Plugin</name>
+      <prefix>cmake</prefix>
+      <artifactId>cmake-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
