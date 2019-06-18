@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-serialization-avro</artifactId>
   <versioning>
-    <latest>5.11.1.Final</latest>
-    <release>5.11.1.Final</release>
+    <latest>5.11.2.Final</latest>
+    <release>5.11.2.Final</release>
     <versions>
       <version>5.0.0.Alpha1</version>
       <version>5.0.0.Alpha2</version>
@@ -90,10 +90,12 @@
       <version>5.10.3.Final</version>
       <version>5.10.4.Final</version>
       <version>5.10.5.Final</version>
+      <version>5.10.6.Final</version>
       <version>5.11.0.CR1</version>
       <version>5.11.0.Final</version>
       <version>5.11.1.Final</version>
+      <version>5.11.2.Final</version>
     </versions>
-    <lastUpdated>20190131161434</lastUpdated>
+    <lastUpdated>20190617110605</lastUpdated>
   </versioning>
 </metadata>
