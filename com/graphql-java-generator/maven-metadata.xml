@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Graphql Java Maven Plugin</name>
+      <prefix>graphql</prefix>
+      <artifactId>graphql-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

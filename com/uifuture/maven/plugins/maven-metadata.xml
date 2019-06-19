@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-auto-generate-test-plugin</name>
+      <prefix>auto-generate-test</prefix>
+      <artifactId>maven-auto-generate-test-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

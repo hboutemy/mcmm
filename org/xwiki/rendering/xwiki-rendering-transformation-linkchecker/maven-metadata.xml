@@ -3,8 +3,8 @@
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-transformation-linkchecker</artifactId>
   <versioning>
-    <latest>11.4</latest>
-    <release>11.4</release>
+    <latest>11.5-rc-1</latest>
+    <release>11.5-rc-1</release>
     <versions>
       <version>3.3-milestone-1</version>
       <version>3.3-milestone-2</version>
@@ -256,9 +256,10 @@
       <version>11.3.1</version>
       <version>11.4-rc-1</version>
       <version>11.4</version>
+      <version>11.5-rc-1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20190607153616</lastUpdated>
+    <lastUpdated>20190618162751</lastUpdated>
   </versioning>
 </metadata>

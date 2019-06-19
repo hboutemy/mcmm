@@ -3,8 +3,8 @@
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-syntax-annotatedhtml5</artifactId>
   <versioning>
-    <latest>11.4</latest>
-    <release>11.4</release>
+    <latest>11.5-rc-1</latest>
+    <release>11.5-rc-1</release>
     <versions>
       <version>6.4-milestone-3</version>
       <version>6.4-rc-1</version>
@@ -155,9 +155,10 @@
       <version>11.3.1</version>
       <version>11.4-rc-1</version>
       <version>11.4</version>
+      <version>11.5-rc-1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20190607153554</lastUpdated>
+    <lastUpdated>20190618162731</lastUpdated>
   </versioning>
 </metadata>
