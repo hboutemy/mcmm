@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>individual-phases-maven-plugin</name>
+      <prefix>individual-phases</prefix>
+      <artifactId>individual-phases-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>project-artifact-info-maven-plugin</name>
       <prefix>project-artifact-info</prefix>
       <artifactId>project-artifact-info-maven-plugin</artifactId>
