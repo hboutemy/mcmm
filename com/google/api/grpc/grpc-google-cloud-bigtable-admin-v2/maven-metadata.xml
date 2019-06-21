@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>grpc-google-cloud-bigtable-admin-v2</artifactId>
   <versioning>
-    <latest>0.61.0</latest>
-    <release>0.61.0</release>
+    <latest>0.62.0</latest>
+    <release>0.62.0</release>
     <versions>
       <version>0.1.20</version>
       <version>0.1.22</version>
@@ -78,7 +78,8 @@
       <version>0.59.0</version>
       <version>0.60.0</version>
       <version>0.61.0</version>
+      <version>0.62.0</version>
     </versions>
-    <lastUpdated>20190613225454</lastUpdated>
+    <lastUpdated>20190620225445</lastUpdated>
   </versioning>
 </metadata>
