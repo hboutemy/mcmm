@@ -7,7 +7,7 @@
       <artifactId>maven-linkchecker-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>${project.artifactId}</name>
+      <name>Scalate :: Maven Plugin</name>
       <prefix>scalate</prefix>
       <artifactId>maven-scalate-plugin</artifactId>
     </plugin>

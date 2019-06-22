@@ -3,8 +3,8 @@
   <groupId>io.syndesis.connector</groupId>
   <artifactId>connector-aws-s3</artifactId>
   <versioning>
-    <latest>1.7.2</latest>
-    <release>1.7.2</release>
+    <latest>1.7.3</latest>
+    <release>1.7.3</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.0-20180301</version>
@@ -64,7 +64,8 @@
       <version>1.7.0</version>
       <version>1.7.1</version>
       <version>1.7.2</version>
+      <version>1.7.3</version>
     </versions>
-    <lastUpdated>20190620142507</lastUpdated>
+    <lastUpdated>20190621082741</lastUpdated>
   </versioning>
 </metadata>

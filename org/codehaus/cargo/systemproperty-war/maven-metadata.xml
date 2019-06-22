@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>systemproperty-war</artifactId>
   <versioning>
-    <latest>1.7.4</latest>
-    <release>1.7.4</release>
+    <latest>1.7.5</latest>
+    <release>1.7.5</release>
     <versions>
       <version>1.4.14</version>
       <version>1.4.15</version>
@@ -31,6 +31,7 @@
       <version>1.7.2</version>
       <version>1.7.3</version>
       <version>1.7.4</version>
+      <version>1.7.5</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.2.4</version>
@@ -53,6 +54,6 @@
       <version>1.4.8</version>
       <version>1.4.9</version>
     </versions>
-    <lastUpdated>20190514191328</lastUpdated>
+    <lastUpdated>20190621225158</lastUpdated>
   </versioning>
 </metadata>

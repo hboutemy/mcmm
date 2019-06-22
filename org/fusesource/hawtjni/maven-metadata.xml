@@ -4,11 +4,6 @@
     <plugin>
       <name>HawtJNI Maven Plugin</name>
       <prefix>hawtjni</prefix>
-      <artifactId>hawtjni-maven-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <name>HawtJNI Maven Plugin</name>
-      <prefix>hawtjni</prefix>
       <artifactId>maven-hawtjni-plugin</artifactId>
     </plugin>
   </plugins>
