@@ -3,13 +3,14 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-zookeeper-lock</artifactId>
   <versioning>
-    <latest>2.13.3-alpha</latest>
-    <release>2.13.3-alpha</release>
+    <latest>2.13.4-alpha</latest>
+    <release>2.13.4-alpha</release>
     <versions>
       <version>2.13.1-alpha</version>
       <version>2.13.2-alpha</version>
       <version>2.13.3-alpha</version>
+      <version>2.13.4-alpha</version>
     </versions>
-    <lastUpdated>20190619012631</lastUpdated>
+    <lastUpdated>20190625023401</lastUpdated>
   </versioning>
 </metadata>
