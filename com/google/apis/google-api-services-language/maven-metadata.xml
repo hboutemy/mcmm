@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-language</artifactId>
   <versioning>
-    <latest>v1-rev20190603-1.28.0</latest>
-    <release>v1-rev20190603-1.28.0</release>
+    <latest>v1-rev20190603-1.30.1</latest>
+    <release>v1-rev20190603-1.30.1</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -483,6 +483,8 @@
       <version>v1beta1-rev20190603-1.26.0</version>
       <version>v1beta1-rev20190603-1.27.0</version>
       <version>v1beta1-rev20190603-1.28.0</version>
+      <version>v1beta1-rev20190603-1.29.2</version>
+      <version>v1beta1-rev20190603-1.30.1</version>
       <version>v1beta2-rev1-1.18.0-rc</version>
       <version>v1beta2-rev1-1.20.0</version>
       <version>v1beta2-rev1-1.21.0</version>
@@ -847,6 +849,8 @@
       <version>v1beta2-rev20190603-1.26.0</version>
       <version>v1beta2-rev20190603-1.27.0</version>
       <version>v1beta2-rev20190603-1.28.0</version>
+      <version>v1beta2-rev20190603-1.29.2</version>
+      <version>v1beta2-rev20190603-1.30.1</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -1267,7 +1271,9 @@
       <version>v1-rev20190603-1.26.0</version>
       <version>v1-rev20190603-1.27.0</version>
       <version>v1-rev20190603-1.28.0</version>
+      <version>v1-rev20190603-1.29.2</version>
+      <version>v1-rev20190603-1.30.1</version>
     </versions>
-    <lastUpdated>20190618021145</lastUpdated>
+    <lastUpdated>20190626055246</lastUpdated>
   </versioning>
 </metadata>

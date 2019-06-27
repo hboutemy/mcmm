@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-cache-core</artifactId>
   <versioning>
-    <latest>4.0.0.Final</latest>
-    <release>4.0.0.Final</release>
+    <latest>4.1.0.Final</latest>
+    <release>4.1.0.Final</release>
     <versions>
       <version>1.1-RC1</version>
       <version>1.1-RC2</version>
@@ -111,7 +111,8 @@
       <version>4.0.0.CR2</version>
       <version>4.0.0.CR3</version>
       <version>4.0.0.Final</version>
+      <version>4.1.0.Final</version>
     </versions>
-    <lastUpdated>20190617233811</lastUpdated>
+    <lastUpdated>20190626075340</lastUpdated>
   </versioning>
 </metadata>

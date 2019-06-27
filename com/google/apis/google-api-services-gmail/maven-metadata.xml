@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-gmail</artifactId>
   <versioning>
-    <latest>v1-rev20190602-1.28.0</latest>
-    <release>v1-rev20190602-1.28.0</release>
+    <latest>v1-rev20190602-1.30.1</latest>
+    <release>v1-rev20190602-1.30.1</release>
     <versions>
       <version>v1-rev1-1.14.2-beta</version>
       <version>v1-rev1-1.15.0-rc</version>
@@ -418,7 +418,9 @@
       <version>v1-rev20190602-1.26.0</version>
       <version>v1-rev20190602-1.27.0</version>
       <version>v1-rev20190602-1.28.0</version>
+      <version>v1-rev20190602-1.29.2</version>
+      <version>v1-rev20190602-1.30.1</version>
     </versions>
-    <lastUpdated>20190618012136</lastUpdated>
+    <lastUpdated>20190626045124</lastUpdated>
   </versioning>
 </metadata>
