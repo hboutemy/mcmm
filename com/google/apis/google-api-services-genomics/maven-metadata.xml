@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-genomics</artifactId>
   <versioning>
-    <latest>v2alpha1-rev20190606-1.30.1</latest>
-    <release>v2alpha1-rev20190606-1.30.1</release>
+    <latest>v2alpha1-rev20190626-1.30.1</latest>
+    <release>v2alpha1-rev20190626-1.30.1</release>
     <versions>
       <version>v1alpha2-rev1-1.18.0-rc</version>
       <version>v1alpha2-rev1-1.19.1</version>
@@ -3042,6 +3042,9 @@
       <version>v2alpha1-rev20190606-1.28.0</version>
       <version>v2alpha1-rev20190606-1.29.2</version>
       <version>v2alpha1-rev20190606-1.30.1</version>
+      <version>v2alpha1-rev20190626-1.28.0</version>
+      <version>v2alpha1-rev20190626-1.29.2</version>
+      <version>v2alpha1-rev20190626-1.30.1</version>
       <version>v1-rev3-1.18.0-rc</version>
       <version>v1-rev3-1.19.0</version>
       <version>v1-rev3-1.19.1</version>
@@ -3055,6 +3058,6 @@
       <version>v1beta2-rev49-1.19.1</version>
       <version>v1beta2-rev49-1.20.0</version>
     </versions>
-    <lastUpdated>20190626044806</lastUpdated>
+    <lastUpdated>20190627204326</lastUpdated>
   </versioning>
 </metadata>
