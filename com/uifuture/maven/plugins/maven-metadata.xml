@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>auto-generate-test-maven-plugin</name>
+      <prefix>auto-generate-test</prefix>
+      <artifactId>auto-generate-test-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-auto-generate-test-plugin</name>
       <prefix>auto-generate-test</prefix>
       <artifactId>maven-auto-generate-test-plugin</artifactId>
