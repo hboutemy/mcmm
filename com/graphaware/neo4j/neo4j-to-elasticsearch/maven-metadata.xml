@@ -3,8 +3,8 @@
   <groupId>com.graphaware.neo4j</groupId>
   <artifactId>neo4j-to-elasticsearch</artifactId>
   <versioning>
-    <latest>3.5.4.53.11</latest>
-    <release>3.5.4.53.11</release>
+    <latest>3.5.5.53.11</latest>
+    <release>3.5.5.53.11</release>
     <versions>
       <version>3.0.1.38.2</version>
       <version>3.0.1.38.3</version>
@@ -42,7 +42,9 @@
       <version>3.5.2.53.11</version>
       <version>3.5.3.53.11</version>
       <version>3.5.4.53.11</version>
+      <version>3.5.5.53.0</version>
+      <version>3.5.5.53.11</version>
     </versions>
-    <lastUpdated>20190412205206</lastUpdated>
+    <lastUpdated>20190629133232</lastUpdated>
   </versioning>
 </metadata>

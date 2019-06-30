@@ -6,6 +6,10 @@
       <artifactId>azure-storage-wagon</artifactId>
     </plugin>
     <plugin>
+      <prefix>google-storage-wagon</prefix>
+      <artifactId>google-storage-wagon</artifactId>
+    </plugin>
+    <plugin>
       <prefix>s3-storage-wagon</prefix>
       <artifactId>s3-storage-wagon</artifactId>
     </plugin>
