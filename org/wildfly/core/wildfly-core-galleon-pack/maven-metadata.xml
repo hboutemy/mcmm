@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-galleon-pack</artifactId>
   <versioning>
-    <latest>9.0.1.Final</latest>
-    <release>9.0.1.Final</release>
+    <latest>9.0.2.Final</latest>
+    <release>9.0.2.Final</release>
     <versions>
       <version>5.0.0.Alpha6</version>
       <version>5.0.0.Alpha7</version>
@@ -52,7 +52,8 @@
       <version>9.0.0.Beta7</version>
       <version>9.0.0.Final</version>
       <version>9.0.1.Final</version>
+      <version>9.0.2.Final</version>
     </versions>
-    <lastUpdated>20190607010340</lastUpdated>
+    <lastUpdated>20190701105739</lastUpdated>
   </versioning>
 </metadata>

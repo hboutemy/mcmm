@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>agt</prefix>
+      <artifactId>agt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>auto-generate-test-maven-plugin</name>
       <prefix>auto-generate-test</prefix>
       <artifactId>auto-generate-test-maven-plugin</artifactId>
