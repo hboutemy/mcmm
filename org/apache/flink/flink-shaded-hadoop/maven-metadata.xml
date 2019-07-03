@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-shaded-hadoop</artifactId>
   <versioning>
-    <latest>1.8.0</latest>
-    <release>1.8.0</release>
+    <latest>1.8.1</latest>
+    <release>1.8.1</release>
     <versions>
       <version>0.9.0-milestone-1</version>
       <version>0.9.0-milestone-1-hadoop1</version>
@@ -62,7 +62,8 @@
       <version>1.7.1</version>
       <version>1.7.2</version>
       <version>1.8.0</version>
+      <version>1.8.1</version>
     </versions>
-    <lastUpdated>20190409082740</lastUpdated>
+    <lastUpdated>20190702054125</lastUpdated>
   </versioning>
 </metadata>
