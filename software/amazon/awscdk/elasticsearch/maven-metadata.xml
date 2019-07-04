@@ -3,8 +3,8 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>elasticsearch</artifactId>
   <versioning>
-    <latest>0.36.1</latest>
-    <release>0.36.1</release>
+    <latest>0.36.2.DEVPREVIEW</latest>
+    <release>0.36.2.DEVPREVIEW</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -48,7 +48,8 @@
       <version>0.35.0</version>
       <version>0.36.0</version>
       <version>0.36.1</version>
+      <version>0.36.2.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20190701181301</lastUpdated>
+    <lastUpdated>20190703135444</lastUpdated>
   </versioning>
 </metadata>

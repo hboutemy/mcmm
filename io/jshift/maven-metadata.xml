@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kubernetes Maven Plugin :: Plugin</name>
+      <prefix>k8s</prefix>
+      <artifactId>k8s-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Openshift Maven Plugin</name>
+      <prefix>oc</prefix>
+      <artifactId>oc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

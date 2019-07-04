@@ -3,9 +3,13 @@
   <groupId>org.wso2.extension.siddhi.map.xml</groupId>
   <artifactId>siddhi-map-xml</artifactId>
   <versioning>
-    <latest>4.1.0</latest>
-    <release>4.1.0</release>
+    <latest>5.0.1</latest>
+    <release>5.0.1</release>
     <versions>
+      <version>4.0.0-M6</version>
+      <version>4.0.0-M8</version>
+      <version>4.0.0</version>
+      <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
@@ -27,7 +31,10 @@
       <version>4.0.20</version>
       <version>4.0.21</version>
       <version>4.1.0</version>
+      <version>4.1.2</version>
+      <version>5.0.0</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20190215150529</lastUpdated>
+    <lastUpdated>20190409183724</lastUpdated>
   </versioning>
 </metadata>
