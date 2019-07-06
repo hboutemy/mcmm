@@ -3,8 +3,8 @@
   <groupId>io.zipkin.aws</groupId>
   <artifactId>zipkin-sender-sqs</artifactId>
   <versioning>
-    <latest>0.17.1</latest>
-    <release>0.17.1</release>
+    <latest>0.17.2</latest>
+    <release>0.17.2</release>
     <versions>
       <version>0.0.3</version>
       <version>0.2.0</version>
@@ -68,7 +68,8 @@
       <version>0.16.4</version>
       <version>0.17.0</version>
       <version>0.17.1</version>
+      <version>0.17.2</version>
     </versions>
-    <lastUpdated>20190615125512</lastUpdated>
+    <lastUpdated>20190705064424</lastUpdated>
   </versioning>
 </metadata>

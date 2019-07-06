@@ -12,6 +12,11 @@
       <artifactId>mvn-scalafmt_${version.scala.binary}</artifactId>
     </plugin>
     <plugin>
+      <name>ScalaFmt Maven Plugin (${version.scala.major})</name>
+      <prefix>mvn-scalafmt_${version.scala.major}</prefix>
+      <artifactId>mvn-scalafmt_${version.scala.major}</artifactId>
+    </plugin>
+    <plugin>
       <name>Scoozie Maven Plugin</name>
       <prefix>mvn-scoozie</prefix>
       <artifactId>mvn-scoozie</artifactId>
