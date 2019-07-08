@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>vlingo-build-plugins</name>
+      <prefix>vlingo-builds</prefix>
+      <artifactId>vlingo-build-plugins</artifactId>
+    </plugin>
+    <plugin>
       <name>vlingo-maven-plugin</name>
       <prefix>vlingo</prefix>
       <artifactId>vlingo-maven-plugin</artifactId>
