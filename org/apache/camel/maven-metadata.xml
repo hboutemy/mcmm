@@ -27,7 +27,17 @@
       <artifactId>camel-javadoc-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <name>Camel :: Catalog :: Camel Main Maven Plugin</name>
+      <prefix>camel-main</prefix>
+      <artifactId>camel-main-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven :: Camel Main Package Maven Plugin</name>
+      <prefix>camel-main-package</prefix>
+      <artifactId>camel-main-package-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>
     </plugin>

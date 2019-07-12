@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-profiles-killpay</artifactId>
   <versioning>
-    <latest>0.21.2</latest>
-    <release>0.21.2</release>
+    <latest>0.21.3</latest>
+    <release>0.21.3</release>
     <versions>
       <version>0.11.5</version>
       <version>0.11.6</version>
@@ -120,7 +120,8 @@
       <version>0.21.0</version>
       <version>0.21.1</version>
       <version>0.21.2</version>
+      <version>0.21.3</version>
     </versions>
-    <lastUpdated>20190702010831</lastUpdated>
+    <lastUpdated>20190711014205</lastUpdated>
   </versioning>
 </metadata>
