@@ -6,5 +6,10 @@
       <prefix>kafka-connect</prefix>
       <artifactId>kafka-connect-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>wits-maven-plugin</name>
+      <prefix>wits</prefix>
+      <artifactId>wits-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
