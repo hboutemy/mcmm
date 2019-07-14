@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-spring</artifactId>
   <versioning>
-    <latest>9.4.19.v20190610</latest>
-    <release>9.4.19.v20190610</release>
+    <latest>10.0.0-alpha0</latest>
+    <release>10.0.0-alpha0</release>
     <versions>
       <version>9.0.0.M0</version>
       <version>9.0.0.M1</version>
@@ -154,7 +154,8 @@
       <version>9.4.17.v20190418</version>
       <version>9.4.18.v20190429</version>
       <version>9.4.19.v20190610</version>
+      <version>10.0.0-alpha0</version>
     </versions>
-    <lastUpdated>20190612114409</lastUpdated>
+    <lastUpdated>20190713152811</lastUpdated>
   </versioning>
 </metadata>
