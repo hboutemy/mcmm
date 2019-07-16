@@ -6,5 +6,10 @@
       <prefix>pgpverify</prefix>
       <artifactId>pgpverify-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Sitemap generator plugin</name>
+      <prefix>sitemapxml</prefix>
+      <artifactId>sitemapxml-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
