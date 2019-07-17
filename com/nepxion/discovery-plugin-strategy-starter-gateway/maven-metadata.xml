@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-strategy-starter-gateway</artifactId>
   <versioning>
-    <latest>5.2.2</latest>
-    <release>5.2.2</release>
+    <latest>5.2.3</latest>
+    <release>5.2.3</release>
     <versions>
       <version>Finchley.1.0.0</version>
       <version>4.7.0</version>
@@ -52,6 +52,7 @@
       <version>4.10.0</version>
       <version>4.10.1</version>
       <version>4.10.2</version>
+      <version>4.10.3</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -69,7 +70,8 @@
       <version>5.2.0</version>
       <version>5.2.1</version>
       <version>5.2.2</version>
+      <version>5.2.3</version>
     </versions>
-    <lastUpdated>20190712125430</lastUpdated>
+    <lastUpdated>20190716111412</lastUpdated>
   </versioning>
 </metadata>
