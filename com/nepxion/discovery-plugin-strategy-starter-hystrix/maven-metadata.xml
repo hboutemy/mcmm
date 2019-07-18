@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-strategy-starter-hystrix</artifactId>
   <versioning>
-    <latest>5.2.3</latest>
-    <release>5.2.3</release>
+    <latest>5.2.5</latest>
+    <release>5.2.5</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -92,7 +92,9 @@
       <version>5.2.1</version>
       <version>5.2.2</version>
       <version>5.2.3</version>
+      <version>5.2.4</version>
+      <version>5.2.5</version>
     </versions>
-    <lastUpdated>20190716113121</lastUpdated>
+    <lastUpdated>20190717234522</lastUpdated>
   </versioning>
 </metadata>
