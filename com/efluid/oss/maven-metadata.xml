@@ -6,5 +6,10 @@
       <prefix>datagate-generator</prefix>
       <artifactId>datagate-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>Dictionary generator</name>
+      <prefix>efluid-datagate-generator</prefix>
+      <artifactId>efluid-datagate-generator</artifactId>
+    </plugin>
   </plugins>
 </metadata>
