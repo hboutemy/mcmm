@@ -6,5 +6,10 @@
       <prefix>empty-source</prefix>
       <artifactId>empty-source-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Genoa Maven Plugin</name>
+      <prefix>genoa</prefix>
+      <artifactId>genoa-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
