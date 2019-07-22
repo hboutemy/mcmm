@@ -27,6 +27,11 @@
       <artifactId>site-aggregate-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho creation of uber jar</name>
+      <prefix>tycho-shade</prefix>
+      <artifactId>tycho-shade-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven WoOF Plugin</name>
       <prefix>woof</prefix>
       <artifactId>woof-maven-plugin</artifactId>
