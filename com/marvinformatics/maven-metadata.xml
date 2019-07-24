@@ -16,5 +16,10 @@
       <prefix>manifest-validator</prefix>
       <artifactId>manifest-validator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>partial-build</prefix>
+      <artifactId>partial-build-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
