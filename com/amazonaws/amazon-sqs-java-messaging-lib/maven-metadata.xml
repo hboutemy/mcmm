@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>amazon-sqs-java-messaging-lib</artifactId>
   <versioning>
-    <latest>1.0.6</latest>
-    <release>1.0.6</release>
+    <latest>1.0.6.receivenowait+customstring</latest>
+    <release>1.0.6.receivenowait+customstring</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -13,7 +13,9 @@
       <version>1.0.4</version>
       <version>1.0.5</version>
       <version>1.0.6</version>
+      <version>1.0.6.receivenowait</version>
+      <version>1.0.6.receivenowait+customstring</version>
     </versions>
-    <lastUpdated>20190416165234</lastUpdated>
+    <lastUpdated>20190729214947</lastUpdated>
   </versioning>
 </metadata>

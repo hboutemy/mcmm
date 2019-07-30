@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>aws-java-sdk-dynamodb</artifactId>
   <versioning>
-    <latest>1.11.600</latest>
-    <release>1.11.600</release>
+    <latest>1.11.601</latest>
+    <release>1.11.601</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -731,9 +731,10 @@
       <version>1.11.598</version>
       <version>1.11.599</version>
       <version>1.11.600</version>
+      <version>1.11.601</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
     </versions>
-    <lastUpdated>20190726222417</lastUpdated>
+    <lastUpdated>20190729211510</lastUpdated>
   </versioning>
 </metadata>
