@@ -3,8 +3,8 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-bom</artifactId>
   <versioning>
-    <latest>Californium-SR9</latest>
-    <release>Californium-SR9</release>
+    <latest>Californium-SR10</latest>
+    <release>Californium-SR10</release>
     <versions>
       <version>Aluminium-RELEASE</version>
       <version>Aluminium-SR1</version>
@@ -38,7 +38,8 @@
       <version>Californium-SR7</version>
       <version>Californium-SR8</version>
       <version>Californium-SR9</version>
+      <version>Californium-SR10</version>
     </versions>
-    <lastUpdated>20190610201011</lastUpdated>
+    <lastUpdated>20190730015839</lastUpdated>
   </versioning>
 </metadata>
