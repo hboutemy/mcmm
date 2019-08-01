@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Thrifty Maven Plugin</name>
+      <prefix>thrifty</prefix>
+      <artifactId>thrifty-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>tscfg Maven Plugin</name>
       <prefix>tscfg</prefix>
       <artifactId>tscfg-maven-plugin</artifactId>
