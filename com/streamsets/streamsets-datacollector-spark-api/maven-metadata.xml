@@ -3,8 +3,8 @@
   <groupId>com.streamsets</groupId>
   <artifactId>streamsets-datacollector-spark-api</artifactId>
   <versioning>
-    <latest>3.9.1</latest>
-    <release>3.9.1</release>
+    <latest>3.10.0</latest>
+    <release>3.10.0</release>
     <versions>
       <version>2.2.0.0</version>
       <version>2.2.1.0</version>
@@ -42,7 +42,8 @@
       <version>3.8.2</version>
       <version>3.9.0</version>
       <version>3.9.1</version>
+      <version>3.10.0</version>
     </versions>
-    <lastUpdated>20190627205944</lastUpdated>
+    <lastUpdated>20190801203925</lastUpdated>
   </versioning>
 </metadata>

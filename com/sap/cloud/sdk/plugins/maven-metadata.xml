@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Plugins - SAP CP Maven Plugin Local Neo Runtime</name>
+      <prefix>scp-neo</prefix>
+      <artifactId>scp-neo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plugins - Usage Analytics Maven Plugin</name>
+      <prefix>usage-analytics</prefix>
+      <artifactId>usage-analytics-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
