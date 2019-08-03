@@ -3,8 +3,8 @@
   <groupId>org.springframework.amqp</groupId>
   <artifactId>spring-rabbit-test</artifactId>
   <versioning>
-    <latest>2.1.7.RELEASE</latest>
-    <release>2.1.7.RELEASE</release>
+    <latest>2.1.8.RELEASE</latest>
+    <release>2.1.8.RELEASE</release>
     <versions>
       <version>1.6.0.RELEASE</version>
       <version>1.6.1.RELEASE</version>
@@ -32,6 +32,7 @@
       <version>1.7.11.RELEASE</version>
       <version>1.7.12.RELEASE</version>
       <version>1.7.13.RELEASE</version>
+      <version>1.7.14.RELEASE</version>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.0.2.RELEASE</version>
@@ -53,7 +54,8 @@
       <version>2.1.5.RELEASE</version>
       <version>2.1.6.RELEASE</version>
       <version>2.1.7.RELEASE</version>
+      <version>2.1.8.RELEASE</version>
     </versions>
-    <lastUpdated>20190614172633</lastUpdated>
+    <lastUpdated>20190802163439</lastUpdated>
   </versioning>
 </metadata>
