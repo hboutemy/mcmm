@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>mp-rest-client-maven-plugin</name>
+      <prefix>mp-rest-client</prefix>
+      <artifactId>mp-rest-client-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Wildfly server plugin</name>
       <prefix>wildfly</prefix>
       <artifactId>wildfly-maven-plugin</artifactId>

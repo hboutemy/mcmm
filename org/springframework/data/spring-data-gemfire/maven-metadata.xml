@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-gemfire</artifactId>
   <versioning>
-    <latest>2.1.9.RELEASE</latest>
-    <release>2.1.9.RELEASE</release>
+    <latest>2.1.10.RELEASE</latest>
+    <release>2.1.10.RELEASE</release>
     <versions>
       <version>1.1.0.RELEASE</version>
       <version>1.1.1.RELEASE</version>
@@ -71,6 +71,7 @@
       <version>1.9.20.RELEASE</version>
       <version>1.9.21.RELEASE</version>
       <version>1.9.22.RELEASE</version>
+      <version>1.9.23.RELEASE</version>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.0.2.RELEASE</version>
@@ -96,7 +97,8 @@
       <version>2.1.7.RELEASE</version>
       <version>2.1.8.RELEASE</version>
       <version>2.1.9.RELEASE</version>
+      <version>2.1.10.RELEASE</version>
     </versions>
-    <lastUpdated>20190614133920</lastUpdated>
+    <lastUpdated>20190805101615</lastUpdated>
   </versioning>
 </metadata>

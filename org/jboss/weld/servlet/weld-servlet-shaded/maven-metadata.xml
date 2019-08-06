@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.servlet</groupId>
   <artifactId>weld-servlet-shaded</artifactId>
   <versioning>
-    <latest>3.1.1.Final</latest>
-    <release>3.1.1.Final</release>
+    <latest>3.1.2.Final</latest>
+    <release>3.1.2.Final</release>
     <versions>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
@@ -35,7 +35,8 @@
       <version>3.1.0.Beta1</version>
       <version>3.1.0.Final</version>
       <version>3.1.1.Final</version>
+      <version>3.1.2.Final</version>
     </versions>
-    <lastUpdated>20190507122343</lastUpdated>
+    <lastUpdated>20190805141326</lastUpdated>
   </versioning>
 </metadata>
