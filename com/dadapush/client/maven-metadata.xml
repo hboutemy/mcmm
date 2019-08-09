@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven DaDaPush Notification Plugin</name>
+      <prefix>dadapush</prefix>
+      <artifactId>dadapush-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-crypto-common</artifactId>
   <versioning>
-    <latest>11.6</latest>
-    <release>11.6</release>
+    <latest>11.6.1</latest>
+    <release>11.6.1</release>
     <versions>
       <version>6.0-milestone-1</version>
       <version>6.0-milestone-2</version>
@@ -189,9 +189,10 @@
       <version>11.5</version>
       <version>11.6-rc-1</version>
       <version>11.6</version>
+      <version>11.6.1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20190731083243</lastUpdated>
+    <lastUpdated>20190808145050</lastUpdated>
   </versioning>
 </metadata>

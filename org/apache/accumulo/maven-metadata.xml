@@ -6,5 +6,10 @@
       <prefix>accumulo</prefix>
       <artifactId>accumulo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Accumulo Maven Plugin</name>
+      <prefix>accumulo2</prefix>
+      <artifactId>accumulo2-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
