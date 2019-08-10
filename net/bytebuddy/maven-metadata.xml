@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Byte Buddy (Maven plugin)</name>
+      <name>Byte Buddy Maven plugin</name>
       <prefix>byte-buddy</prefix>
       <artifactId>byte-buddy-maven-plugin</artifactId>
     </plugin>

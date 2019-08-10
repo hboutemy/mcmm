@@ -6,6 +6,7 @@
       <artifactId>slinky-environment-builder-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>slinky-environment-config-maven-plugin</name>
       <prefix>slinky-environment-config</prefix>
       <artifactId>slinky-environment-config-maven-plugin</artifactId>
     </plugin>
