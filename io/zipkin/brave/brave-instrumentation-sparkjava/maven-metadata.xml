@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-sparkjava</artifactId>
   <versioning>
-    <latest>5.6.9</latest>
-    <release>5.6.9</release>
+    <latest>5.6.10</latest>
+    <release>5.6.10</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -84,7 +84,8 @@
       <version>5.6.7</version>
       <version>5.6.8</version>
       <version>5.6.9</version>
+      <version>5.6.10</version>
     </versions>
-    <lastUpdated>20190717003102</lastUpdated>
+    <lastUpdated>20190811130527</lastUpdated>
   </versioning>
 </metadata>
