@@ -3,8 +3,8 @@
   <groupId>com.linecorp.armeria</groupId>
   <artifactId>armeria-retrofit2</artifactId>
   <versioning>
-    <latest>0.90.0</latest>
-    <release>0.90.0</release>
+    <latest>0.90.1</latest>
+    <release>0.90.1</release>
     <versions>
       <version>0.29.0.Final</version>
       <version>0.29.1.Final</version>
@@ -100,8 +100,10 @@
       <version>0.87.0</version>
       <version>0.88.0</version>
       <version>0.89.0</version>
+      <version>0.89.1</version>
       <version>0.90.0</version>
+      <version>0.90.1</version>
     </versions>
-    <lastUpdated>20190810005401</lastUpdated>
+    <lastUpdated>20190812152239</lastUpdated>
   </versioning>
 </metadata>
