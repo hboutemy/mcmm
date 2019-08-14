@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud.servicesdk</groupId>
   <artifactId>bom</artifactId>
   <versioning>
-    <latest>1.32.5</latest>
-    <release>1.32.5</release>
+    <latest>1.33.0</latest>
+    <release>1.33.0</release>
     <versions>
       <version>1.10.2</version>
       <version>1.11.4</version>
@@ -40,7 +40,8 @@
       <version>1.32.0</version>
       <version>1.32.3</version>
       <version>1.32.5</version>
+      <version>1.33.0</version>
     </versions>
-    <lastUpdated>20190729105236</lastUpdated>
+    <lastUpdated>20190813060712</lastUpdated>
   </versioning>
 </metadata>

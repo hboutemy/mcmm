@@ -7,6 +7,11 @@
       <artifactId>azure-functions-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Azure Plugin</name>
+      <prefix>azure</prefix>
+      <artifactId>azure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>azure-relay</name>
       <prefix>azure-relay</prefix>
       <artifactId>azure-relay</artifactId>
