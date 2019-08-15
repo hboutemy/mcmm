@@ -3,8 +3,8 @@
   <groupId>io.joynr.tools</groupId>
   <artifactId>generator</artifactId>
   <versioning>
-    <latest>1.9.1</latest>
-    <release>1.9.1</release>
+    <latest>1.10.0</latest>
+    <release>1.10.0</release>
     <versions>
       <version>0.5.0</version>
       <version>0.6.0</version>
@@ -116,10 +116,16 @@
       <version>1.8.3</version>
       <version>1.9.0</version>
       <version>1.9.1</version>
+      <version>1.10.0</version>
     </versions>
-    <lastUpdated>20190813162635</lastUpdated>
+    <lastUpdated>20190814104205</lastUpdated>
   </versioning>
   <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>joynr-generator-gradle</prefix>
+      <artifactId>joynr-generator-gradle-plugin</artifactId>
+    </plugin>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>joynr-generator</prefix>
