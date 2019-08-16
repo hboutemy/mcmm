@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-jcache</artifactId>
   <versioning>
-    <latest>5.3.0.Beta1</latest>
-    <release>5.3.0.Beta1</release>
+    <latest>5.4.4.Final</latest>
+    <release>5.4.4.Final</release>
     <versions>
       <version>5.2.0.Final</version>
       <version>5.2.1.Final</version>
@@ -19,11 +19,6 @@
       <version>5.2.10.Final</version>
       <version>5.2.11.Final</version>
       <version>5.2.12.Final</version>
-      <version>5.2.13.Final</version>
-      <version>5.2.14.Final</version>
-      <version>5.2.15.Final</version>
-      <version>5.2.16.Final</version>
-      <version>5.2.17.Final</version>
       <version>5.2.18.Final</version>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
@@ -31,7 +26,6 @@
       <version>5.3.0.CR2</version>
       <version>5.3.0.Final</version>
       <version>5.3.1.Final</version>
-      <version>5.3.10.Final</version>
       <version>5.3.2.Final</version>
       <version>5.3.3.Final</version>
       <version>5.3.4.Final</version>
@@ -40,6 +34,8 @@
       <version>5.3.7.Final</version>
       <version>5.3.8.Final</version>
       <version>5.3.9.Final</version>
+      <version>5.3.10.Final</version>
+      <version>5.3.11.Final</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.CR2</version>
       <version>5.4.0.Final</version>
@@ -47,7 +43,12 @@
       <version>5.4.2.Final</version>
       <version>5.4.3.Final</version>
       <version>5.4.4.Final</version>
+      <version>5.2.13.Final</version>
+      <version>5.2.14.Final</version>
+      <version>5.2.15.Final</version>
+      <version>5.2.16.Final</version>
+      <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20181119143519</lastUpdated>
+    <lastUpdated>20190815213016</lastUpdated>
   </versioning>
 </metadata>
