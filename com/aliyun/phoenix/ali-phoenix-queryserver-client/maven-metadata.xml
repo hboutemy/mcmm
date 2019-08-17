@@ -3,8 +3,8 @@
   <groupId>com.aliyun.phoenix</groupId>
   <artifactId>ali-phoenix-queryserver-client</artifactId>
   <versioning>
-    <latest>5.1.0-HBase-2.0.0.2</latest>
-    <release>5.1.0-HBase-2.0.0.2</release>
+    <latest>5.2.1-HBase-2.x</latest>
+    <release>5.2.1-HBase-2.x</release>
     <versions>
       <version>4.11.0-AliHBase-1.1</version>
       <version>4.11.0-AliHBase-1.1-0.1</version>
@@ -22,8 +22,9 @@
       <version>5.1.0-HBase-2.0</version>
       <version>5.1.0-HBase-2.0.0.1</version>
       <version>5.1.0-HBase-2.0.0.2</version>
+      <version>5.2.1-HBase-2.x</version>
       <version>4.12.0-AliHBase-1.1-0.4-Final</version>
     </versions>
-    <lastUpdated>20190613054759</lastUpdated>
+    <lastUpdated>20190816075436</lastUpdated>
   </versioning>
 </metadata>
