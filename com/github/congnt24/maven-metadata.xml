@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>kafka-maven-plugin Maven Mojo</name>
+      <prefix>kafka</prefix>
+      <artifactId>kafka-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

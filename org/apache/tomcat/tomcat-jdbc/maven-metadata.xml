@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-jdbc</artifactId>
   <versioning>
-    <latest>9.0.22</latest>
-    <release>9.0.22</release>
+    <latest>9.0.24</latest>
+    <release>9.0.24</release>
     <versions>
       <version>7.0.19</version>
       <version>7.0.20</version>
@@ -180,7 +180,8 @@
       <version>9.0.20</version>
       <version>9.0.21</version>
       <version>9.0.22</version>
+      <version>9.0.24</version>
     </versions>
-    <lastUpdated>20190729165243</lastUpdated>
+    <lastUpdated>20190817163512</lastUpdated>
   </versioning>
 </metadata>
