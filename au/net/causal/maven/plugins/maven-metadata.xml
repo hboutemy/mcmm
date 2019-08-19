@@ -7,6 +7,11 @@
       <artifactId>boxdb-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Browser Box Maven Plugin</name>
+      <prefix>browserbox</prefix>
+      <artifactId>browserbox-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Docker Image Archive Maven Plugin</name>
       <prefix>docker-image-archive</prefix>
       <artifactId>docker-image-archive-maven-plugin</artifactId>
