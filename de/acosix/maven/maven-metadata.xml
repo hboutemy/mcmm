@@ -11,5 +11,10 @@
       <prefix>jshint</prefix>
       <artifactId>jshint-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Acosix JSHint Plugin</name>
+      <prefix>jshint</prefix>
+      <artifactId>jshint-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
