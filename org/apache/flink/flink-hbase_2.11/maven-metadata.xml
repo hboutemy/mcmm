@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-hbase_2.11</artifactId>
   <versioning>
-    <latest>1.8.1</latest>
-    <release>1.8.1</release>
+    <latest>1.9.0</latest>
+    <release>1.9.0</release>
     <versions>
       <version>0.10.0</version>
       <version>0.10.1</version>
@@ -45,7 +45,8 @@
       <version>1.7.2</version>
       <version>1.8.0</version>
       <version>1.8.1</version>
+      <version>1.9.0</version>
     </versions>
-    <lastUpdated>20190702054110</lastUpdated>
+    <lastUpdated>20190822050457</lastUpdated>
   </versioning>
 </metadata>

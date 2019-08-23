@@ -3,8 +3,8 @@
   <groupId>com.oracle.substratevm</groupId>
   <artifactId>svm-hosted-native-windows-amd64</artifactId>
   <versioning>
-    <latest>19.1.1</latest>
-    <release>19.1.1</release>
+    <latest>19.2.0</latest>
+    <release>19.2.0</release>
     <versions>
       <version>1.0.0-rc11</version>
       <version>1.0.0-rc12</version>
@@ -16,7 +16,8 @@
       <version>19.0.2</version>
       <version>19.1.0</version>
       <version>19.1.1</version>
+      <version>19.2.0</version>
     </versions>
-    <lastUpdated>20190719132525</lastUpdated>
+    <lastUpdated>20190822093649</lastUpdated>
   </versioning>
 </metadata>

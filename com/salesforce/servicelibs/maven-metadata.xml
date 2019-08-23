@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>canteen</prefix>
+      <artifactId>canteen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Proto Backwards Compatibility Maven Mojo</name>
       <prefix>proto-backwards-compatibility</prefix>
       <artifactId>proto-backwards-compatibility</artifactId>
