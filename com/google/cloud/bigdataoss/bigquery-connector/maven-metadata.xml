@@ -34,6 +34,7 @@
       <version>hadoop2-0.13.17</version>
       <version>hadoop2-1.0.0-RC1</version>
       <version>hadoop2-1.0.0-RC2</version>
+      <version>hadoop2-1.0.0</version>
       <version>hadoop3-0.13.5</version>
       <version>hadoop3-0.13.6</version>
       <version>hadoop3-0.13.7</version>
@@ -49,6 +50,7 @@
       <version>hadoop3-0.13.17</version>
       <version>hadoop3-1.0.0-RC1</version>
       <version>hadoop3-1.0.0-RC2</version>
+      <version>hadoop3-1.0.0</version>
       <version>0.5.1-hadoop1</version>
       <version>0.5.1-hadoop2</version>
       <version>0.6.0-hadoop1</version>
@@ -123,6 +125,6 @@
       <version>0.13.4-hadoop2</version>
       <version>0.13.4-hadoop3</version>
     </versions>
-    <lastUpdated>20190702024227</lastUpdated>
+    <lastUpdated>20190824003532</lastUpdated>
   </versioning>
 </metadata>
