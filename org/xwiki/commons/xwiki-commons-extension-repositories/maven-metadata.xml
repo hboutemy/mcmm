@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-extension-repositories</artifactId>
   <versioning>
-    <latest>11.7-rc-1</latest>
-    <release>11.7-rc-1</release>
+    <latest>11.7</latest>
+    <release>11.7</release>
     <versions>
       <version>4.0-milestone-1</version>
       <version>4.0-milestone-2</version>
@@ -257,9 +257,10 @@
       <version>11.6</version>
       <version>11.6.1</version>
       <version>11.7-rc-1</version>
+      <version>11.7</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20190820125249</lastUpdated>
+    <lastUpdated>20190826150711</lastUpdated>
   </versioning>
 </metadata>
