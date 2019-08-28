@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>MiMa Maven Plugin</name>
+      <prefix>mima</prefix>
+      <artifactId>mima-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Scala Cross Maven Plugin</name>
+      <prefix>scala-cross</prefix>
+      <artifactId>scala-cross-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tut Maven Plugin</name>
       <prefix>tut</prefix>
       <artifactId>tut-maven-plugin</artifactId>

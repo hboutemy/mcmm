@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apigee Proxy Deploy Maven Plugin</name>
+      <prefix>apigee</prefix>
+      <artifactId>apigee-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
