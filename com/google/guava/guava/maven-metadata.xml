@@ -3,8 +3,8 @@
   <groupId>com.google.guava</groupId>
   <artifactId>guava</artifactId>
   <versioning>
-    <latest>28.0-jre</latest>
-    <release>28.0-jre</release>
+    <latest>28.1-jre</latest>
+    <release>28.1-jre</release>
     <versions>
       <version>r03</version>
       <version>r05</version>
@@ -96,8 +96,10 @@
       <version>27.1-jre</version>
       <version>28.0-android</version>
       <version>28.0-jre</version>
+      <version>28.1-android</version>
+      <version>28.1-jre</version>
       <version>13.0-final</version>
     </versions>
-    <lastUpdated>20190611233536</lastUpdated>
+    <lastUpdated>20190828211444</lastUpdated>
   </versioning>
 </metadata>

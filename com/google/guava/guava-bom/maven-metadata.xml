@@ -3,14 +3,16 @@
   <groupId>com.google.guava</groupId>
   <artifactId>guava-bom</artifactId>
   <versioning>
-    <latest>28.0-jre</latest>
-    <release>28.0-jre</release>
+    <latest>28.1-jre</latest>
+    <release>28.1-jre</release>
     <versions>
       <version>27.1-android</version>
       <version>27.1-jre</version>
       <version>28.0-android</version>
       <version>28.0-jre</version>
+      <version>28.1-android</version>
+      <version>28.1-jre</version>
     </versions>
-    <lastUpdated>20190611233537</lastUpdated>
+    <lastUpdated>20190828211447</lastUpdated>
   </versioning>
 </metadata>
