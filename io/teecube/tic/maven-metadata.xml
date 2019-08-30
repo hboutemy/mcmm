@@ -7,6 +7,11 @@
       <artifactId>tic-bw5</artifactId>
     </plugin>
     <plugin>
+      <name>${ecosystemName} - ${ticName} - ${ticBW5MavenName}</name>
+      <prefix>tic-bw5</prefix>
+      <artifactId>tic-bw5</artifactId>
+    </plugin>
+    <plugin>
       <name>T³ - TIC - BW6 Maven plugin</name>
       <prefix>bw6</prefix>
       <artifactId>tic-bw6</artifactId>

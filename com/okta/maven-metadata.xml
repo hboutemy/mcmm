@@ -11,5 +11,10 @@
       <prefix>okta-doclist</prefix>
       <artifactId>okta-doclist-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Okta Maven Plugin</name>
+      <prefix>okta</prefix>
+      <artifactId>okta-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
