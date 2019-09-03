@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Quack Import Maven Plugin</name>
+      <prefix>import</prefix>
+      <artifactId>import-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
