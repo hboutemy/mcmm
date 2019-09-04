@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-testing-server-launcher</artifactId>
   <versioning>
-    <latest>0.224</latest>
-    <release>0.224</release>
+    <latest>0.225</latest>
+    <release>0.225</release>
     <versions>
       <version>0.114</version>
       <version>0.115</version>
@@ -126,7 +126,8 @@
       <version>0.223</version>
       <version>0.223.1</version>
       <version>0.224</version>
+      <version>0.225</version>
     </versions>
-    <lastUpdated>20190812184852</lastUpdated>
+    <lastUpdated>20190903164851</lastUpdated>
   </versioning>
 </metadata>

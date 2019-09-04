@@ -3,8 +3,8 @@
   <groupId>com.lightbend.lagom</groupId>
   <artifactId>lagom-logback_2.11</artifactId>
   <versioning>
-    <latest>1.5.1</latest>
-    <release>1.5.1</release>
+    <latest>1.5.3</latest>
+    <release>1.5.3</release>
     <versions>
       <version>1.0.0-M1</version>
       <version>1.0.0-M2</version>
@@ -67,7 +67,8 @@
       <version>1.5.0-RC2</version>
       <version>1.5.0</version>
       <version>1.5.1</version>
+      <version>1.5.3</version>
     </versions>
-    <lastUpdated>20190822205008</lastUpdated>
+    <lastUpdated>20190903173349</lastUpdated>
   </versioning>
 </metadata>
