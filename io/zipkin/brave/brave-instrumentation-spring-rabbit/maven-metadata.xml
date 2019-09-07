@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-spring-rabbit</artifactId>
   <versioning>
-    <latest>5.6.11</latest>
-    <release>5.6.11</release>
+    <latest>5.7.0</latest>
+    <release>5.7.0</release>
     <versions>
       <version>4.17.1</version>
       <version>4.17.2</version>
@@ -47,7 +47,8 @@
       <version>5.6.9</version>
       <version>5.6.10</version>
       <version>5.6.11</version>
+      <version>5.7.0</version>
     </versions>
-    <lastUpdated>20190821125909</lastUpdated>
+    <lastUpdated>20190906031832</lastUpdated>
   </versioning>
 </metadata>

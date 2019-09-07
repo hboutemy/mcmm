@@ -3,8 +3,8 @@
   <groupId>org.infinispan.protostream</groupId>
   <artifactId>parent</artifactId>
   <versioning>
-    <latest>4.3.0.Alpha10</latest>
-    <release>4.3.0.Alpha10</release>
+    <latest>4.3.0.Alpha11</latest>
+    <release>4.3.0.Alpha11</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -74,6 +74,7 @@
       <version>4.2.1.Final</version>
       <version>4.2.2.Final</version>
       <version>4.2.3.Final</version>
+      <version>4.2.4.Final</version>
       <version>4.3.0.Alpha1</version>
       <version>4.3.0.Alpha2</version>
       <version>4.3.0.Alpha3</version>
@@ -84,7 +85,8 @@
       <version>4.3.0.Alpha8</version>
       <version>4.3.0.Alpha9</version>
       <version>4.3.0.Alpha10</version>
+      <version>4.3.0.Alpha11</version>
     </versions>
-    <lastUpdated>20190819115034</lastUpdated>
+    <lastUpdated>20190906180821</lastUpdated>
   </versioning>
 </metadata>

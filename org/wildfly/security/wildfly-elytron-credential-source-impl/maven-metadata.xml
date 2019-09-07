@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-credential-source-impl</artifactId>
   <versioning>
-    <latest>1.10.0.Final</latest>
-    <release>1.10.0.Final</release>
+    <latest>1.10.1.Final</latest>
+    <release>1.10.1.Final</release>
     <versions>
       <version>1.9.0.Final</version>
       <version>1.9.1.Final</version>
@@ -15,7 +15,8 @@
       <version>1.10.0.CR5</version>
       <version>1.10.0.CR6</version>
       <version>1.10.0.Final</version>
+      <version>1.10.1.Final</version>
     </versions>
-    <lastUpdated>20190830193317</lastUpdated>
+    <lastUpdated>20190906012306</lastUpdated>
   </versioning>
 </metadata>
