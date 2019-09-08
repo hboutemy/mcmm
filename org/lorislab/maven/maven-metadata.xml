@@ -7,6 +7,11 @@
       <artifactId>mp-rest-client-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>semver-release-maven-plugin</name>
+      <prefix>semver-release</prefix>
+      <artifactId>semver-release-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Wildfly server plugin</name>
       <prefix>wildfly</prefix>
       <artifactId>wildfly-maven-plugin</artifactId>
