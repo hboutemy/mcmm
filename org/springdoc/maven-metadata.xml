@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>springdoc-openapi-maven-plugin</name>
+      <prefix>springdoc-openapi</prefix>
+      <artifactId>springdoc-openapi-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

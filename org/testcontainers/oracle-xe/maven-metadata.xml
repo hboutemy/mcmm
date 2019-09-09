@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>oracle-xe</artifactId>
   <versioning>
-    <latest>1.12.0</latest>
-    <release>1.12.0</release>
+    <latest>1.12.1</latest>
+    <release>1.12.1</release>
     <versions>
       <version>0.9.6</version>
       <version>0.9.7</version>
@@ -53,7 +53,8 @@
       <version>1.11.3</version>
       <version>1.11.4</version>
       <version>1.12.0</version>
+      <version>1.12.1</version>
     </versions>
-    <lastUpdated>20190724105103</lastUpdated>
+    <lastUpdated>20190908091851</lastUpdated>
   </versioning>
 </metadata>
