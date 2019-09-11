@@ -11,5 +11,10 @@
       <prefix>htmlcompiler</prefix>
       <artifactId>htmlcompiler</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>jooq-preprocessor</prefix>
+      <artifactId>jooq-preprocessor</artifactId>
+    </plugin>
   </plugins>
 </metadata>
