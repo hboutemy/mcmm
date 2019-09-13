@@ -7,9 +7,19 @@
       <artifactId>filter-manifest-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>karaf-plugin Maven Plugin</name>
+      <prefix>karaf-plugin</prefix>
+      <artifactId>karaf-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ODL :: odlparent :: ${project.artifactId}</name>
       <prefix>karaf</prefix>
       <artifactId>karaf-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>karaf</prefix>
+      <artifactId>karaf4-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

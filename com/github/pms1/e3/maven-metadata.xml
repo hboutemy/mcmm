@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Eclipse Equinox Embedder Maven Plugin</name>
+      <prefix>e3</prefix>
+      <artifactId>e3-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
