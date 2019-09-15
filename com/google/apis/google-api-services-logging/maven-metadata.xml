@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-logging</artifactId>
   <versioning>
-    <latest>v2-rev20190803-1.30.1</latest>
-    <release>v2-rev20190803-1.30.1</release>
+    <latest>v2-rev20190902-1.30.1</latest>
+    <release>v2-rev20190902-1.30.1</release>
     <versions>
       <version>v1beta3-rev1-1.18.0-rc</version>
       <version>v1beta3-rev1-1.19.0</version>
@@ -826,7 +826,10 @@
       <version>v2-rev20190803-1.28.0</version>
       <version>v2-rev20190803-1.29.2</version>
       <version>v2-rev20190803-1.30.1</version>
+      <version>v2-rev20190902-1.28.0</version>
+      <version>v2-rev20190902-1.29.2</version>
+      <version>v2-rev20190902-1.30.1</version>
     </versions>
-    <lastUpdated>20190813213133</lastUpdated>
+    <lastUpdated>20190914000741</lastUpdated>
   </versioning>
 </metadata>
