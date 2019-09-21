@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-jdbc</artifactId>
   <versioning>
-    <latest>9.0.24</latest>
-    <release>9.0.24</release>
+    <latest>9.0.26</latest>
+    <release>9.0.26</release>
     <versions>
       <version>7.0.19</version>
       <version>7.0.20</version>
@@ -144,6 +144,7 @@
       <version>8.5.42</version>
       <version>8.5.43</version>
       <version>8.5.45</version>
+      <version>8.5.46</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -182,7 +183,8 @@
       <version>9.0.21</version>
       <version>9.0.22</version>
       <version>9.0.24</version>
+      <version>9.0.26</version>
     </versions>
-    <lastUpdated>20190821094313</lastUpdated>
+    <lastUpdated>20190919200132</lastUpdated>
   </versioning>
 </metadata>

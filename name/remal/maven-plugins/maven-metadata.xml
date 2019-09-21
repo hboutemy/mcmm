@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Remal Maven plugin</name>
+      <prefix>remal</prefix>
+      <artifactId>remal-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Remal Maven root-basedir property extension</name>
+      <prefix>root-basedir-property-extension</prefix>
+      <artifactId>root-basedir-property-extension</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

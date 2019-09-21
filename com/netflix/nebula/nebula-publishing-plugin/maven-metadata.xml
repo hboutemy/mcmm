@@ -3,8 +3,8 @@
   <groupId>com.netflix.nebula</groupId>
   <artifactId>nebula-publishing-plugin</artifactId>
   <versioning>
-    <latest>13.5.0</latest>
-    <release>13.5.0</release>
+    <latest>13.6.1</latest>
+    <release>13.6.1</release>
     <versions>
       <version>1.9.7</version>
       <version>1.12.0-RC1</version>
@@ -124,7 +124,9 @@
       <version>13.4.0</version>
       <version>13.4.1</version>
       <version>13.5.0</version>
+      <version>13.6.0</version>
+      <version>13.6.1</version>
     </versions>
-    <lastUpdated>20190916214838</lastUpdated>
+    <lastUpdated>20190919162901</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TraeckIt :: OpenAPI Validator (maven-plugin)</name>
+      <prefix>openapi-validator</prefix>
+      <artifactId>openapi-validator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
