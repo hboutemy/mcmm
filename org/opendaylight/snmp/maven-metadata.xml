@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>yang-oid-plugin Maven Plugin</name>
+      <prefix>yang-oid-plugin</prefix>
+      <artifactId>yang-oid-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>yang-oid-plugin Maven Plugin</name>
+      <prefix>yang-oid</prefix>
+      <artifactId>yang-oid-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

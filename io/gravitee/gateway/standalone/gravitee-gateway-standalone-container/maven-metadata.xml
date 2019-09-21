@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.standalone</groupId>
   <artifactId>gravitee-gateway-standalone-container</artifactId>
   <versioning>
-    <latest>1.28.1</latest>
-    <release>1.28.1</release>
+    <latest>1.29.0</latest>
+    <release>1.29.0</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -155,7 +155,8 @@
       <version>1.27.3</version>
       <version>1.28.0</version>
       <version>1.28.1</version>
+      <version>1.29.0</version>
     </versions>
-    <lastUpdated>20190823162401</lastUpdated>
+    <lastUpdated>20190917173356</lastUpdated>
   </versioning>
 </metadata>
