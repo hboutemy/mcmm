@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-tpcds</artifactId>
   <versioning>
-    <latest>318</latest>
-    <release>318</release>
+    <latest>319</latest>
+    <release>319</release>
     <versions>
       <version>300</version>
       <version>301</version>
@@ -25,7 +25,8 @@
       <version>316</version>
       <version>317</version>
       <version>318</version>
+      <version>319</version>
     </versions>
-    <lastUpdated>20190826232828</lastUpdated>
+    <lastUpdated>20190922225010</lastUpdated>
   </versioning>
 </metadata>
