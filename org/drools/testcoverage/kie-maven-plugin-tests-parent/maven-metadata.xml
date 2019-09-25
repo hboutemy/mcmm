@@ -3,8 +3,8 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>kie-maven-plugin-tests-parent</artifactId>
   <versioning>
-    <latest>7.26.0.Final</latest>
-    <release>7.26.0.Final</release>
+    <latest>7.27.0.Final</latest>
+    <release>7.27.0.Final</release>
     <versions>
       <version>7.1.0.Beta1</version>
       <version>7.1.0.Beta2</version>
@@ -40,7 +40,8 @@
       <version>7.24.0.t043</version>
       <version>7.25.0.Final</version>
       <version>7.26.0.Final</version>
+      <version>7.27.0.Final</version>
     </versions>
-    <lastUpdated>20190905165412</lastUpdated>
+    <lastUpdated>20190924073001</lastUpdated>
   </versioning>
 </metadata>
