@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.services</groupId>
   <artifactId>gravitee-gateway-services-endpoint-discovery</artifactId>
   <versioning>
-    <latest>1.29.0</latest>
-    <release>1.29.0</release>
+    <latest>1.29.1</latest>
+    <release>1.29.1</release>
     <versions>
       <version>1.22.0</version>
       <version>1.22.1</version>
@@ -38,7 +38,8 @@
       <version>1.28.2</version>
       <version>1.28.3</version>
       <version>1.29.0</version>
+      <version>1.29.1</version>
     </versions>
-    <lastUpdated>20190920065513</lastUpdated>
+    <lastUpdated>20190925212905</lastUpdated>
   </versioning>
 </metadata>

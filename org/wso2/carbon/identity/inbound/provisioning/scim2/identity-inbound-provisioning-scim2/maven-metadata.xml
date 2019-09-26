@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.provisioning.scim2</groupId>
   <artifactId>identity-inbound-provisioning-scim2</artifactId>
   <versioning>
-    <latest>1.4.7</latest>
-    <release>1.4.7</release>
+    <latest>1.4.8</latest>
+    <release>1.4.8</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -67,7 +67,8 @@
       <version>1.2.46</version>
       <version>1.4.6</version>
       <version>1.4.7</version>
+      <version>1.4.8</version>
     </versions>
-    <lastUpdated>20190924060002</lastUpdated>
+    <lastUpdated>20190925120317</lastUpdated>
   </versioning>
 </metadata>

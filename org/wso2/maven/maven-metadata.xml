@@ -27,6 +27,7 @@
       <artifactId>carbon-p2-plugin</artifactId>
     </plugin>
     <plugin>
+      <name></name>
       <prefix>humantask</prefix>
       <artifactId>humantask-maven-plugin</artifactId>
     </plugin>
@@ -161,6 +162,11 @@
       <artifactId>maven-war-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Synapse Unit Test Maven Plugin</name>
+      <prefix>synapse-unit-test</prefix>
+      <artifactId>synapse-unit-test-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>VSCode CAR Plugin</name>
       <prefix>vscode-car</prefix>
       <artifactId>vscode-car-plugin</artifactId>
@@ -229,6 +235,11 @@
       <name>Maven Registry Plugin</name>
       <prefix>wso2-general-project</prefix>
       <artifactId>wso2-general-project-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Library Plugin</name>
+      <prefix>json-merge</prefix>
+      <artifactId>wso2-maven-json-merge-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Maven Library Plugin</name>
