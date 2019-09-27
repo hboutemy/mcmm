@@ -3,11 +3,12 @@
   <groupId>com.alibaba.blink</groupId>
   <artifactId>flink-shaded-hadoop3-uber</artifactId>
   <versioning>
-    <latest>blink-3.3.0</latest>
-    <release>blink-3.3.0</release>
+    <latest>blink-3.4.0</latest>
+    <release>blink-3.4.0</release>
     <versions>
       <version>blink-3.3.0</version>
+      <version>blink-3.4.0</version>
     </versions>
-    <lastUpdated>20190726074015</lastUpdated>
+    <lastUpdated>20190926121157</lastUpdated>
   </versioning>
 </metadata>

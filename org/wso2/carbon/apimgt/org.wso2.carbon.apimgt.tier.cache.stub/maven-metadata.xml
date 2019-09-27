@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.tier.cache.stub</artifactId>
   <versioning>
-    <latest>6.5.133</latest>
-    <release>6.5.133</release>
+    <latest>6.5.140</latest>
+    <release>6.5.140</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -798,7 +798,12 @@
       <version>6.5.131</version>
       <version>6.5.132</version>
       <version>6.5.133</version>
+      <version>6.5.135</version>
+      <version>6.5.136</version>
+      <version>6.5.137</version>
+      <version>6.5.138</version>
+      <version>6.5.140</version>
     </versions>
-    <lastUpdated>20190925104329</lastUpdated>
+    <lastUpdated>20190926174935</lastUpdated>
   </versioning>
 </metadata>
