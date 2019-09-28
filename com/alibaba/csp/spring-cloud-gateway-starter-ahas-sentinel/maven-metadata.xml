@@ -3,8 +3,8 @@
   <groupId>com.alibaba.csp</groupId>
   <artifactId>spring-cloud-gateway-starter-ahas-sentinel</artifactId>
   <versioning>
-    <latest>1.0.5</latest>
-    <release>1.0.5</release>
+    <latest>1.0.5-fix</latest>
+    <release>1.0.5-fix</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-paas</version>
@@ -15,7 +15,8 @@
       <version>1.0.3</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
+      <version>1.0.5-fix</version>
     </versions>
-    <lastUpdated>20190809062821</lastUpdated>
+    <lastUpdated>20190927223857</lastUpdated>
   </versioning>
 </metadata>

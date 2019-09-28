@@ -3,8 +3,8 @@
   <groupId>com.wavefront</groupId>
   <artifactId>wavefront</artifactId>
   <versioning>
-    <latest>5.0-RELEASE-TEST</latest>
-    <release>5.0-RELEASE-TEST</release>
+    <latest>5.7-RELEASE-TEST</latest>
+    <release>5.7-RELEASE-TEST</release>
     <versions>
       <version>3.0</version>
       <version>3.1</version>
@@ -72,8 +72,10 @@
       <version>4.37</version>
       <version>4.38</version>
       <version>4.39</version>
+      <version>5.0</version>
       <version>5.0-RELEASE-TEST</version>
+      <version>5.7-RELEASE-TEST</version>
     </versions>
-    <lastUpdated>20190926003213</lastUpdated>
+    <lastUpdated>20190927215513</lastUpdated>
   </versioning>
 </metadata>
