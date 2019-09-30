@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.mediation</groupId>
   <artifactId>kerberos-mediator-feature</artifactId>
   <versioning>
-    <latest>4.7.18</latest>
-    <release>4.7.18</release>
+    <latest>4.7.20</latest>
+    <release>4.7.20</release>
     <versions>
       <version>4.6.91</version>
       <version>4.6.92</version>
@@ -49,7 +49,9 @@
       <version>4.7.16</version>
       <version>4.7.17</version>
       <version>4.7.18</version>
+      <version>4.7.19</version>
+      <version>4.7.20</version>
     </versions>
-    <lastUpdated>20190928130107</lastUpdated>
+    <lastUpdated>20190929122224</lastUpdated>
   </versioning>
 </metadata>

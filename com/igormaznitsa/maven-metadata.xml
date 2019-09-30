@@ -27,6 +27,11 @@
       <artifactId>meta-checker</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Finisher Extension</name>
+      <prefix>mvn-finisher-extension</prefix>
+      <artifactId>mvn-finisher-extension</artifactId>
+    </plugin>
+    <plugin>
       <name>mvn-golang-wrapper</name>
       <prefix>mvn-golang-wrapper</prefix>
       <artifactId>mvn-golang-wrapper</artifactId>
