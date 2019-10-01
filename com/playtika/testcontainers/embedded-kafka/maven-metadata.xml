@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-kafka</artifactId>
   <versioning>
-    <latest>1.26</latest>
-    <release>1.26</release>
+    <latest>1.30</latest>
+    <release>1.30</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -28,7 +28,8 @@
       <version>1.24</version>
       <version>1.25</version>
       <version>1.26</version>
+      <version>1.30</version>
     </versions>
-    <lastUpdated>20190718150045</lastUpdated>
+    <lastUpdated>20190930141139</lastUpdated>
   </versioning>
 </metadata>

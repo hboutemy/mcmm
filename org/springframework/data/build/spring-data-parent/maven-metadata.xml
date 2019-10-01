@@ -3,8 +3,8 @@
   <groupId>org.springframework.data.build</groupId>
   <artifactId>spring-data-parent</artifactId>
   <versioning>
-    <latest>2.1.10.RELEASE</latest>
-    <release>2.1.10.RELEASE</release>
+    <latest>2.2.0.RELEASE</latest>
+    <release>2.2.0.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -103,7 +103,9 @@
       <version>2.1.8.RELEASE</version>
       <version>2.1.9.RELEASE</version>
       <version>2.1.10.RELEASE</version>
+      <version>2.1.11.RELEASE</version>
+      <version>2.2.0.RELEASE</version>
     </versions>
-    <lastUpdated>20190805100502</lastUpdated>
+    <lastUpdated>20190930172640</lastUpdated>
   </versioning>
 </metadata>

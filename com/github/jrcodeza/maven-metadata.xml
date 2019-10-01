@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Spring Open API - Client generator plugin</name>
+      <prefix>spring-openapi-client-generator</prefix>
+      <artifactId>spring-openapi-client-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Spring Open API - Schema generator plugin</name>
       <prefix>spring-openapi-schema-generator</prefix>
       <artifactId>spring-openapi-schema-generator-plugin</artifactId>

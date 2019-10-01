@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-maven-plugin</artifactId>
   <versioning>
-    <latest>14.0.6</latest>
-    <release>14.0.6</release>
+    <latest>14.0.7</latest>
+    <release>14.0.7</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -243,10 +243,11 @@
       <version>14.0.4</version>
       <version>14.0.5</version>
       <version>14.0.6</version>
+      <version>14.0.7</version>
       <version>7.4.8</version>
       <version>7.5.0.rc1</version>
       <version>7.5.0.rc2</version>
     </versions>
-    <lastUpdated>20190923094745</lastUpdated>
+    <lastUpdated>20190930123318</lastUpdated>
   </versioning>
 </metadata>

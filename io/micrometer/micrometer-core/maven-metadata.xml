@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-core</artifactId>
   <versioning>
-    <latest>1.2.1</latest>
-    <release>1.2.1</release>
+    <latest>1.2.2</latest>
+    <release>1.2.2</release>
     <versions>
       <version>0.6.3.RELEASE</version>
       <version>0.7.0.RELEASE</version>
@@ -43,9 +43,11 @@
       <version>1.1.4</version>
       <version>1.1.5</version>
       <version>1.1.6</version>
+      <version>1.1.7</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
+      <version>1.2.2</version>
     </versions>
-    <lastUpdated>20190909040222</lastUpdated>
+    <lastUpdated>20190930234615</lastUpdated>
   </versioning>
 </metadata>

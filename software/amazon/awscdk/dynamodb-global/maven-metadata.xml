@@ -3,9 +3,10 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>dynamodb-global</artifactId>
   <versioning>
-    <latest>1.9.0.DEVPREVIEW</latest>
-    <release>1.9.0.DEVPREVIEW</release>
+    <latest>1.10.0.DEVPREVIEW</latest>
+    <release>1.10.0.DEVPREVIEW</release>
     <versions>
+      <version>1.10.0.DEVPREVIEW</version>
       <version>0.29.0</version>
       <version>0.30.0</version>
       <version>0.31.0</version>
@@ -31,6 +32,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20190920110148</lastUpdated>
+    <lastUpdated>20190930173537</lastUpdated>
   </versioning>
 </metadata>
