@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-sqlserver</artifactId>
   <versioning>
-    <latest>0.10.0.CR2</latest>
-    <release>0.10.0.CR2</release>
+    <latest>0.10.0.Final</latest>
+    <release>0.10.0.Final</release>
     <versions>
       <version>0.9.0.Alpha1</version>
       <version>0.9.0.Alpha2</version>
@@ -25,7 +25,8 @@
       <version>0.10.0.Beta4</version>
       <version>0.10.0.CR1</version>
       <version>0.10.0.CR2</version>
+      <version>0.10.0.Final</version>
     </versions>
-    <lastUpdated>20190927052241</lastUpdated>
+    <lastUpdated>20191001200523</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.zeebe</groupId>
   <artifactId>zeebe-bom</artifactId>
   <versioning>
-    <latest>0.21.0-alpha3</latest>
-    <release>0.21.0-alpha3</release>
+    <latest>0.21.0</latest>
+    <release>0.21.0</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -16,7 +16,8 @@
       <version>0.21.0-alpha1</version>
       <version>0.21.0-alpha2</version>
       <version>0.21.0-alpha3</version>
+      <version>0.21.0</version>
     </versions>
-    <lastUpdated>20190911135858</lastUpdated>
+    <lastUpdated>20191001174059</lastUpdated>
   </versioning>
 </metadata>

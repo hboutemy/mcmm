@@ -3,10 +3,11 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>redshift</artifactId>
   <versioning>
-    <latest>1.10.0.DEVPREVIEW</latest>
-    <release>1.10.0.DEVPREVIEW</release>
+    <latest>1.10.1.DEVPREVIEW</latest>
+    <release>1.10.1.DEVPREVIEW</release>
     <versions>
       <version>1.10.0.DEVPREVIEW</version>
+      <version>1.10.1.DEVPREVIEW</version>
       <version>0.10.0</version>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -65,6 +66,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20190930173548</lastUpdated>
+    <lastUpdated>20191001153624</lastUpdated>
   </versioning>
 </metadata>

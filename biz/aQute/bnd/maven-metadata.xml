@@ -35,6 +35,11 @@
       <artifactId>bnd-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>biz.aQute.bnd:bnd-reporter-maven-plugin</name>
+      <prefix>bnd-reporter</prefix>
+      <artifactId>bnd-reporter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>biz.aQute.bnd:bnd-resolver-maven-plugin</name>
       <prefix>bnd-resolver</prefix>
       <artifactId>bnd-resolver-maven-plugin</artifactId>

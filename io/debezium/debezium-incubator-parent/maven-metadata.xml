@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-incubator-parent</artifactId>
   <versioning>
-    <latest>0.10.0.CR2</latest>
-    <release>0.10.0.CR2</release>
+    <latest>0.10.0.Final</latest>
+    <release>0.10.0.Final</release>
     <versions>
       <version>0.8.0.Beta1</version>
       <version>0.8.0.CR1</version>
@@ -31,7 +31,8 @@
       <version>0.10.0.Beta4</version>
       <version>0.10.0.CR1</version>
       <version>0.10.0.CR2</version>
+      <version>0.10.0.Final</version>
     </versions>
-    <lastUpdated>20190927052502</lastUpdated>
+    <lastUpdated>20191001200417</lastUpdated>
   </versioning>
 </metadata>

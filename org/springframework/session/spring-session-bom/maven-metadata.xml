@@ -3,8 +3,8 @@
   <groupId>org.springframework.session</groupId>
   <artifactId>spring-session-bom</artifactId>
   <versioning>
-    <latest>Bean-SR7</latest>
-    <release>Bean-SR7</release>
+    <latest>Bean-SR8</latest>
+    <release>Bean-SR8</release>
     <versions>
       <version>Apple-RELEASE</version>
       <version>Apple-SR1</version>
@@ -24,7 +24,8 @@
       <version>Bean-SR5</version>
       <version>Bean-SR6</version>
       <version>Bean-SR7</version>
+      <version>Bean-SR8</version>
     </versions>
-    <lastUpdated>20190805160411</lastUpdated>
+    <lastUpdated>20191001121920</lastUpdated>
   </versioning>
 </metadata>
