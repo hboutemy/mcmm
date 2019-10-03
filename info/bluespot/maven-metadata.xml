@@ -6,5 +6,10 @@
       <prefix>build-info</prefix>
       <artifactId>build-info-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>POM utilities plugin</name>
+      <prefix>pomutils</prefix>
+      <artifactId>pomutils-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

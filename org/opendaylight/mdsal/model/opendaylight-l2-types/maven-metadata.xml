@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.model</groupId>
   <artifactId>opendaylight-l2-types</artifactId>
   <versioning>
-    <latest>2013.08.27.16.6</latest>
-    <release>2013.08.27.16.6</release>
+    <latest>2013.08.27.17.1</latest>
+    <release>2013.08.27.17.1</release>
     <versions>
       <version>2013.08.27.8-Beryllium</version>
       <version>2013.08.27.8.1-Beryllium-SR1</version>
@@ -53,7 +53,9 @@
       <version>2013.08.27.16.4</version>
       <version>2013.08.27.16.5</version>
       <version>2013.08.27.16.6</version>
+      <version>2013.08.27.17.0</version>
+      <version>2013.08.27.17.1</version>
     </versions>
-    <lastUpdated>20190922164805</lastUpdated>
+    <lastUpdated>20191002152621</lastUpdated>
   </versioning>
 </metadata>

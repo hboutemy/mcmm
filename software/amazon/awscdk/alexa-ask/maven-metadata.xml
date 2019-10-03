@@ -3,11 +3,12 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>alexa-ask</artifactId>
   <versioning>
-    <latest>1.10.1.DEVPREVIEW</latest>
-    <release>1.10.1.DEVPREVIEW</release>
+    <latest>1.11.0.DEVPREVIEW</latest>
+    <release>1.11.0.DEVPREVIEW</release>
     <versions>
       <version>1.10.0.DEVPREVIEW</version>
       <version>1.10.1.DEVPREVIEW</version>
+      <version>1.11.0.DEVPREVIEW</version>
       <version>0.19.0</version>
       <version>0.20.0</version>
       <version>0.21.0</version>
@@ -47,6 +48,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191001153600</lastUpdated>
+    <lastUpdated>20191002192225</lastUpdated>
   </versioning>
 </metadata>

@@ -3,11 +3,12 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>cloudfront</artifactId>
   <versioning>
-    <latest>1.10.1.DEVPREVIEW</latest>
-    <release>1.10.1.DEVPREVIEW</release>
+    <latest>1.11.0.DEVPREVIEW</latest>
+    <release>1.11.0.DEVPREVIEW</release>
     <versions>
       <version>1.10.0.DEVPREVIEW</version>
       <version>1.10.1.DEVPREVIEW</version>
+      <version>1.11.0.DEVPREVIEW</version>
       <version>0.10.0</version>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -66,6 +67,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191001153607</lastUpdated>
+    <lastUpdated>20191002192232</lastUpdated>
   </versioning>
 </metadata>

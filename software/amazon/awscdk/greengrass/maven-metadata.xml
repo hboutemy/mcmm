@@ -3,11 +3,12 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>greengrass</artifactId>
   <versioning>
-    <latest>1.10.1.DEVPREVIEW</latest>
-    <release>1.10.1.DEVPREVIEW</release>
+    <latest>1.11.0.DEVPREVIEW</latest>
+    <release>1.11.0.DEVPREVIEW</release>
     <versions>
       <version>1.10.0.DEVPREVIEW</version>
       <version>1.10.1.DEVPREVIEW</version>
+      <version>1.11.0.DEVPREVIEW</version>
       <version>0.26.0</version>
       <version>0.27.0</version>
       <version>0.28.0</version>
@@ -36,6 +37,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191001153616</lastUpdated>
+    <lastUpdated>20191002192245</lastUpdated>
   </versioning>
 </metadata>

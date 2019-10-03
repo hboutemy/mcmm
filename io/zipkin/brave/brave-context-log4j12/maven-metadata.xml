@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-context-log4j12</artifactId>
   <versioning>
-    <latest>5.7.0</latest>
-    <release>5.7.0</release>
+    <latest>5.8.0</latest>
+    <release>5.8.0</release>
     <versions>
       <version>4.3.1</version>
       <version>4.3.2</version>
@@ -86,7 +86,8 @@
       <version>5.6.10</version>
       <version>5.6.11</version>
       <version>5.7.0</version>
+      <version>5.8.0</version>
     </versions>
-    <lastUpdated>20190906031748</lastUpdated>
+    <lastUpdated>20191002142337</lastUpdated>
   </versioning>
 </metadata>

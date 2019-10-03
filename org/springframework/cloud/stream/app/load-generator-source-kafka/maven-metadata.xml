@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>load-generator-source-kafka</artifactId>
   <versioning>
-    <latest>2.1.0.RELEASE</latest>
-    <release>2.1.0.RELEASE</release>
+    <latest>2.1.1.RELEASE</latest>
+    <release>2.1.1.RELEASE</release>
     <versions>
       <version>1.0.2.RELEASE</version>
       <version>1.0.4.RELEASE</version>
@@ -12,7 +12,8 @@
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
       <version>2.1.0.RELEASE</version>
+      <version>2.1.1.RELEASE</version>
     </versions>
-    <lastUpdated>20190215211739</lastUpdated>
+    <lastUpdated>20191002193026</lastUpdated>
   </versioning>
 </metadata>

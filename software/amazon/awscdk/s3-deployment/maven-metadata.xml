@@ -3,11 +3,12 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>s3-deployment</artifactId>
   <versioning>
-    <latest>1.10.1.DEVPREVIEW</latest>
-    <release>1.10.1.DEVPREVIEW</release>
+    <latest>1.11.0.DEVPREVIEW</latest>
+    <release>1.11.0.DEVPREVIEW</release>
     <versions>
       <version>1.10.0.DEVPREVIEW</version>
       <version>1.10.1.DEVPREVIEW</version>
+      <version>1.11.0.DEVPREVIEW</version>
       <version>0.13.0</version>
       <version>0.14.0</version>
       <version>0.14.1</version>
@@ -57,6 +58,6 @@
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191001153626</lastUpdated>
+    <lastUpdated>20191002192257</lastUpdated>
   </versioning>
 </metadata>
