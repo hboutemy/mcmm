@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-rts</artifactId>
   <versioning>
-    <latest>18.0.0.Beta1</latest>
-    <release>18.0.0.Beta1</release>
+    <latest>18.0.0.Final</latest>
+    <release>18.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha2</version>
       <version>8.0.0.Alpha3</version>
@@ -63,7 +63,8 @@
       <version>17.0.0.Final</version>
       <version>17.0.1.Final</version>
       <version>18.0.0.Beta1</version>
+      <version>18.0.0.Final</version>
     </versions>
-    <lastUpdated>20190905002828</lastUpdated>
+    <lastUpdated>20191003165319</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Remal JOOQ generator Maven plugin</name>
+      <prefix>jooq-generator</prefix>
+      <artifactId>jooq-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Remal Maven plugin</name>
       <prefix>remal</prefix>
       <artifactId>remal-maven-plugin</artifactId>
