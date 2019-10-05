@@ -3,8 +3,8 @@
   <groupId>com.atomikos</groupId>
   <artifactId>transactions-hibernate4</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.0.1</release>
+    <latest>5.0.3</latest>
+    <release>5.0.3</release>
     <versions>
       <version>4.0.0M4</version>
       <version>4.0.0M5</version>
@@ -16,7 +16,9 @@
       <version>4.0.5</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
+      <version>5.0.2</version>
+      <version>5.0.3</version>
     </versions>
-    <lastUpdated>20190627161247</lastUpdated>
+    <lastUpdated>20191004143442</lastUpdated>
   </versioning>
 </metadata>

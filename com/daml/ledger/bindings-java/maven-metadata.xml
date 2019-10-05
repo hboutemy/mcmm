@@ -3,8 +3,8 @@
   <groupId>com.daml.ledger</groupId>
   <artifactId>bindings-java</artifactId>
   <versioning>
-    <latest>100.13.27</latest>
-    <release>100.13.27</release>
+    <latest>100.13.29</latest>
+    <release>100.13.29</release>
     <versions>
       <version>100.13.3</version>
       <version>100.13.5</version>
@@ -28,7 +28,9 @@
       <version>100.13.25</version>
       <version>100.13.26</version>
       <version>100.13.27</version>
+      <version>100.13.28</version>
+      <version>100.13.29</version>
     </versions>
-    <lastUpdated>20190925105510</lastUpdated>
+    <lastUpdated>20191004153925</lastUpdated>
   </versioning>
 </metadata>

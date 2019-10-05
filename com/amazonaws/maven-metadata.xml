@@ -6,15 +6,5 @@
       <prefix>aws-java-sdk-codegen</prefix>
       <artifactId>aws-java-sdk-codegen-maven-plugin</artifactId>
     </plugin>
-    <plugin>
-      <name>aws-java-sdk-generated-samples</name>
-      <prefix>aws-java-sdk-generated-samples</prefix>
-      <artifactId>aws-java-sdk-generated-samples</artifactId>
-    </plugin>
-    <plugin>
-      <name>aws-java-sdk-sample-extractor</name>
-      <prefix>aws-java-sdk-sample-extractor</prefix>
-      <artifactId>aws-java-sdk-sample-extractor</artifactId>
-    </plugin>
   </plugins>
 </metadata>
