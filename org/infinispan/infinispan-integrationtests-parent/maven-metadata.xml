@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-integrationtests-parent</artifactId>
   <versioning>
-    <latest>10.0.0.CR2</latest>
-    <release>10.0.0.CR2</release>
+    <latest>10.0.0.CR3</latest>
+    <release>10.0.0.CR3</release>
     <versions>
       <version>7.2.0.Beta1</version>
       <version>7.2.0.Beta2</version>
@@ -131,7 +131,8 @@
       <version>10.0.0.Beta5</version>
       <version>10.0.0.CR1</version>
       <version>10.0.0.CR2</version>
+      <version>10.0.0.CR3</version>
     </versions>
-    <lastUpdated>20190915124644</lastUpdated>
+    <lastUpdated>20191004201033</lastUpdated>
   </versioning>
 </metadata>
