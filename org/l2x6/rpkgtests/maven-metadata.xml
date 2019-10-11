@@ -6,5 +6,10 @@
       <prefix>repackage-tests</prefix>
       <artifactId>repackage-tests-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Repackage Tests Maven Plugin</name>
+      <prefix>rpkgtests</prefix>
+      <artifactId>rpkgtests-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
