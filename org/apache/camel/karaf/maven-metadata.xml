@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>karaf</artifactId>
   <versioning>
-    <latest>3.0.0-RC1</latest>
-    <release>3.0.0-RC1</release>
+    <latest>3.0.0-RC2</latest>
+    <release>3.0.0-RC2</release>
     <versions>
       <version>1.6.1</version>
       <version>1.6.2</version>
@@ -134,7 +134,8 @@
       <version>3.0.0-M3</version>
       <version>3.0.0-M4</version>
       <version>3.0.0-RC1</version>
+      <version>3.0.0-RC2</version>
     </versions>
-    <lastUpdated>20190922200827</lastUpdated>
+    <lastUpdated>20191006160657</lastUpdated>
   </versioning>
 </metadata>
