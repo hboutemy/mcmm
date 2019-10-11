@@ -12,6 +12,11 @@
       <artifactId>github-release-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>gitlab Release Maven Plugin</name>
+      <prefix>gitlab-release</prefix>
+      <artifactId>gitlab-release-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>rest2java Maven Mojo</name>
       <prefix>rest2java</prefix>
       <artifactId>rest2java-maven-plugin</artifactId>

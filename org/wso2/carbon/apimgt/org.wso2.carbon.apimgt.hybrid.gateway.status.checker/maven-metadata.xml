@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.hybrid.gateway.status.checker</artifactId>
   <versioning>
-    <latest>6.5.197</latest>
-    <release>6.5.197</release>
+    <latest>6.5.205</latest>
+    <release>6.5.205</release>
     <versions>
       <version>6.4.140</version>
       <version>6.4.141</version>
@@ -153,7 +153,15 @@
       <version>6.5.195</version>
       <version>6.5.196</version>
       <version>6.5.197</version>
+      <version>6.5.198</version>
+      <version>6.5.199</version>
+      <version>6.5.200</version>
+      <version>6.5.201</version>
+      <version>6.5.202</version>
+      <version>6.5.203</version>
+      <version>6.5.204</version>
+      <version>6.5.205</version>
     </versions>
-    <lastUpdated>20191007170303</lastUpdated>
+    <lastUpdated>20191008193535</lastUpdated>
   </versioning>
 </metadata>
