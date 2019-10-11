@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>prapr-multi-module-maven-plugin</name>
+      <prefix>prapr-multi-module</prefix>
+      <artifactId>prapr-multi-module-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>prapr-plugin</name>
       <prefix>prapr</prefix>
       <artifactId>prapr-plugin</artifactId>

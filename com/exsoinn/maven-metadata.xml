@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>code-quality-maven-plugin</name>
+      <prefix>code-quality</prefix>
+      <artifactId>code-quality-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>FreeLibrary Maven Plugins</name>
+      <prefix>freelibs</prefix>
+      <artifactId>freelib-maven-plugins</artifactId>
+    </plugin>
+    <plugin>
       <name>FreeLibrary Utilities</name>
       <prefix>freelib-utils</prefix>
       <artifactId>freelib-utils</artifactId>
