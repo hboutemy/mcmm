@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.hostobjects.oidc</artifactId>
   <versioning>
-    <latest>6.5.231</latest>
-    <release>6.5.231</release>
+    <latest>6.5.239</latest>
+    <release>6.5.239</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -896,7 +896,15 @@
       <version>6.5.229</version>
       <version>6.5.230</version>
       <version>6.5.231</version>
+      <version>6.5.232</version>
+      <version>6.5.233</version>
+      <version>6.5.234</version>
+      <version>6.5.235</version>
+      <version>6.5.236</version>
+      <version>6.5.237</version>
+      <version>6.5.238</version>
+      <version>6.5.239</version>
     </versions>
-    <lastUpdated>20191010214501</lastUpdated>
+    <lastUpdated>20191011192321</lastUpdated>
   </versioning>
 </metadata>
