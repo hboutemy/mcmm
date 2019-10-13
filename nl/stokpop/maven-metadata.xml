@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>events-gatling-maven-plugin</name>
+      <prefix>events-gatling</prefix>
+      <artifactId>events-gatling-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>targetsio-gatling-maven-plugin</name>
       <prefix>targetsio-gatling</prefix>
       <artifactId>targetsio-gatling-maven-plugin</artifactId>

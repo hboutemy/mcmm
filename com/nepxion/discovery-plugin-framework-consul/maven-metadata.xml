@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-framework-consul</artifactId>
   <versioning>
-    <latest>5.4.0</latest>
-    <release>5.4.0</release>
+    <latest>5.4.1</latest>
+    <release>5.4.1</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -149,6 +149,7 @@
       <version>3.11.8</version>
       <version>3.11.9</version>
       <version>3.12.0</version>
+      <version>3.12.1</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -262,6 +263,7 @@
       <version>4.11.8</version>
       <version>4.11.9</version>
       <version>4.12.0</version>
+      <version>4.12.1</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -296,7 +298,8 @@
       <version>5.3.8</version>
       <version>5.3.9</version>
       <version>5.4.0</version>
+      <version>5.4.1</version>
     </versions>
-    <lastUpdated>20190928111042</lastUpdated>
+    <lastUpdated>20191012003952</lastUpdated>
   </versioning>
 </metadata>
