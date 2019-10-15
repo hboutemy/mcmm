@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-artifactory</artifactId>
   <versioning>
-    <latest>3.40.0</latest>
-    <release>3.40.0</release>
+    <latest>3.40.2</latest>
+    <release>3.40.2</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -293,7 +293,9 @@
       <version>3.39.5</version>
       <version>3.39.6</version>
       <version>3.40.0</version>
+      <version>3.40.1</version>
+      <version>3.40.2</version>
     </versions>
-    <lastUpdated>20190930110614</lastUpdated>
+    <lastUpdated>20191014131804</lastUpdated>
   </versioning>
 </metadata>

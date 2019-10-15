@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>ds-to-spi</prefix>
+      <artifactId>ds-to-spi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>DAISY Pipeline 2 :: Modules Build Helper</name>
       <prefix>modules-build-helper</prefix>
       <artifactId>modules-build-helper</artifactId>
