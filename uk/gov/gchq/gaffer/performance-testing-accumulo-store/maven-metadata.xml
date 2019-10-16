@@ -3,8 +3,8 @@
   <groupId>uk.gov.gchq.gaffer</groupId>
   <artifactId>performance-testing-accumulo-store</artifactId>
   <versioning>
-    <latest>1.10.0</latest>
-    <release>1.10.0</release>
+    <latest>1.10.1</latest>
+    <release>1.10.1</release>
     <versions>
       <version>0.7.8</version>
       <version>1.0.0-RC1</version>
@@ -55,7 +55,8 @@
       <version>1.10.0-RC2</version>
       <version>1.10.0-RC3</version>
       <version>1.10.0</version>
+      <version>1.10.1</version>
     </versions>
-    <lastUpdated>20190926134145</lastUpdated>
+    <lastUpdated>20191015103357</lastUpdated>
   </versioning>
 </metadata>
