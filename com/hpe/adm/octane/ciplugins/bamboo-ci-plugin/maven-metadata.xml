@@ -3,9 +3,10 @@
   <groupId>com.hpe.adm.octane.ciplugins</groupId>
   <artifactId>bamboo-ci-plugin</artifactId>
   <versioning>
-    <latest>1.10.0.2-beta</latest>
-    <release>1.10.0.2-beta</release>
+    <latest>1.10.1.0-beta</latest>
+    <release>1.10.1.0-beta</release>
     <versions>
+      <version>v1.10.0.3-beta</version>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.2</version>
@@ -28,7 +29,10 @@
       <version>1.9.7</version>
       <version>1.10.0.1-beta</version>
       <version>1.10.0.2-beta</version>
+      <version>1.10.0.3-beta</version>
+      <version>1.10.0.4-beta</version>
+      <version>1.10.1.0-beta</version>
     </versions>
-    <lastUpdated>20190815080219</lastUpdated>
+    <lastUpdated>20191016073138</lastUpdated>
   </versioning>
 </metadata>
