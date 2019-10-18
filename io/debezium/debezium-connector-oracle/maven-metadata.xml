@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-oracle</artifactId>
   <versioning>
-    <latest>0.10.0.Final</latest>
-    <release>0.10.0.Final</release>
+    <latest>1.0.0.Beta1</latest>
+    <release>1.0.0.Beta1</release>
     <versions>
       <version>0.8.0.Beta1</version>
       <version>0.8.0.CR1</version>
@@ -32,7 +32,8 @@
       <version>0.10.0.CR1</version>
       <version>0.10.0.CR2</version>
       <version>0.10.0.Final</version>
+      <version>1.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20191001200414</lastUpdated>
+    <lastUpdated>20191017085820</lastUpdated>
   </versioning>
 </metadata>

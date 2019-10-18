@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-dbms</artifactId>
   <versioning>
-    <latest>3.5.11</latest>
-    <release>3.5.11</release>
+    <latest>3.5.12</latest>
+    <release>3.5.12</release>
     <versions>
       <version>3.0.0-M05</version>
       <version>3.0.0-RC1</version>
@@ -146,7 +146,8 @@
       <version>3.5.9</version>
       <version>3.5.10</version>
       <version>3.5.11</version>
+      <version>3.5.12</version>
     </versions>
-    <lastUpdated>20191011195834</lastUpdated>
+    <lastUpdated>20191017140340</lastUpdated>
   </versioning>
 </metadata>
