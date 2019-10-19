@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Zanata Maven Plugin</name>
+      <prefix>zanata</prefix>
+      <artifactId>zanata-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

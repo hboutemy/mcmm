@@ -3,8 +3,8 @@
   <groupId>io.syndesis.connector</groupId>
   <artifactId>connector-activemq</artifactId>
   <versioning>
-    <latest>1.7.13</latest>
-    <release>1.7.13</release>
+    <latest>1.8.2</latest>
+    <release>1.8.2</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.0-20180306</version>
@@ -71,7 +71,10 @@
       <version>1.7.11</version>
       <version>1.7.12</version>
       <version>1.7.13</version>
+      <version>1.8.0</version>
+      <version>1.8.1</version>
+      <version>1.8.2</version>
     </versions>
-    <lastUpdated>20190724141956</lastUpdated>
+    <lastUpdated>20191018095911</lastUpdated>
   </versioning>
 </metadata>

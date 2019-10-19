@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-common</artifactId>
   <versioning>
-    <latest>5.4.1</latest>
-    <release>5.4.1</release>
+    <latest>5.4.2</latest>
+    <release>5.4.2</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -100,6 +100,7 @@
       <version>3.11.9</version>
       <version>3.12.0</version>
       <version>3.12.1</version>
+      <version>3.12.2</version>
       <version>4.2.2</version>
       <version>4.2.3</version>
       <version>4.2.4</version>
@@ -192,6 +193,7 @@
       <version>4.11.9</version>
       <version>4.12.0</version>
       <version>4.12.1</version>
+      <version>4.12.2</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -227,7 +229,8 @@
       <version>5.3.9</version>
       <version>5.4.0</version>
       <version>5.4.1</version>
+      <version>5.4.2</version>
     </versions>
-    <lastUpdated>20191012003929</lastUpdated>
+    <lastUpdated>20191018155538</lastUpdated>
   </versioning>
 </metadata>
