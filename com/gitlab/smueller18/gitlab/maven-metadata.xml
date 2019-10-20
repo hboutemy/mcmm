@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>com.gitlab.smueller18.gitlab:gitlab-codeclimate-maven-plugin</name>
+      <prefix>gitlab-codeclimate</prefix>
+      <artifactId>gitlab-codeclimate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>gitlab-dependency</prefix>
       <artifactId>gitlab-dependency-maven-plugin</artifactId>
