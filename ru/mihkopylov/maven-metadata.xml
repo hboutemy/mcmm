@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>spring-boot-configuration-properties-descriptor</prefix>
+      <artifactId>spring-boot-configuration-properties-descriptor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>versioner</prefix>
       <artifactId>versioner-maven-plugin</artifactId>
     </plugin>

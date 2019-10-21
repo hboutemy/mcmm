@@ -6,5 +6,9 @@
       <prefix>autojunit</prefix>
       <artifactId>autojunit</artifactId>
     </plugin>
+    <plugin>
+      <prefix>autojunit</prefix>
+      <artifactId>autojunit-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
