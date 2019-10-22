@@ -16,6 +16,11 @@
       <artifactId>tycho-custom-bundle-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Dependency Tools Plugin</name>
+      <prefix>tycho-dependency-tools</prefix>
+      <artifactId>tycho-dependency-tools-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho Document Bundle Plugin</name>
       <prefix>tycho-document-bundle</prefix>
       <artifactId>tycho-document-bundle-plugin</artifactId>

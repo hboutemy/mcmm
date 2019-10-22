@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-ldap-federation</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -97,8 +97,9 @@
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20190826070833</lastUpdated>
+    <lastUpdated>20191021091208</lastUpdated>
   </versioning>
 </metadata>

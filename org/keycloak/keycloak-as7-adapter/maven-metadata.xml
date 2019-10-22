@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-as7-adapter</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>1.0-alpha-1</version>
       <version>1.0-alpha-1-12062013</version>
@@ -107,8 +107,9 @@
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20190826070818</lastUpdated>
+    <lastUpdated>20191021091152</lastUpdated>
   </versioning>
 </metadata>

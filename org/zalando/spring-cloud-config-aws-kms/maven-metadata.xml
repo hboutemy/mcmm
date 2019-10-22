@@ -3,8 +3,8 @@
   <groupId>org.zalando</groupId>
   <artifactId>spring-cloud-config-aws-kms</artifactId>
   <versioning>
-    <latest>4.2</latest>
-    <release>4.2</release>
+    <latest>4.3</latest>
+    <release>4.3</release>
     <versions>
       <version>1.3-M1</version>
       <version>1.3</version>
@@ -19,14 +19,17 @@
       <version>2.0</version>
       <version>2.1</version>
       <version>2.2</version>
+      <version>2.3</version>
       <version>3.0</version>
       <version>3.1</version>
       <version>3.2</version>
+      <version>3.3</version>
       <version>4.0-beta1</version>
       <version>4.0</version>
       <version>4.1</version>
       <version>4.2</version>
+      <version>4.3</version>
     </versions>
-    <lastUpdated>20190624093800</lastUpdated>
+    <lastUpdated>20191021093629</lastUpdated>
   </versioning>
 </metadata>
