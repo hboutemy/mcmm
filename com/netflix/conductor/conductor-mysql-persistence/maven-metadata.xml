@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-mysql-persistence</artifactId>
   <versioning>
-    <latest>2.16.4-hotfix.1</latest>
-    <release>2.16.4-hotfix.1</release>
+    <latest>2.16.5-alpha</latest>
+    <release>2.16.5-alpha</release>
     <versions>
       <version>1.8.2-rc3</version>
       <version>1.8.2-rc4</version>
@@ -152,7 +152,8 @@
       <version>2.16.4-beta.2</version>
       <version>2.16.4</version>
       <version>2.16.4-hotfix.1</version>
+      <version>2.16.5-alpha</version>
     </versions>
-    <lastUpdated>20191019201507</lastUpdated>
+    <lastUpdated>20191022204948</lastUpdated>
   </versioning>
 </metadata>

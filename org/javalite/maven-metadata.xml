@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>JavaLite - Instrumentation Plugin and JavaAgent</name>
+      <name>JavaLite - ActiveJDBC Instrumentation Plugin</name>
       <prefix>activejdbc-instrumentation</prefix>
       <artifactId>activejdbc-instrumentation</artifactId>
     </plugin>
@@ -12,7 +12,7 @@
       <artifactId>activejdbc-instrumentation</artifactId>
     </plugin>
     <plugin>
-      <name>ActiveWeb - Lessc Maven Plugin</name>
+      <name>JavaLite - ActiveWeb Lessc Maven Plugin</name>
       <prefix>activeweb-lessc</prefix>
       <artifactId>activeweb-lessc-maven-plugin</artifactId>
     </plugin>

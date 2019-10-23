@@ -2,12 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>istack-commons import properties plugin</name>
+      <name>istack common import properties plugin</name>
       <prefix>import-properties</prefix>
       <artifactId>import-properties-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>istack-commons Maven Mojo</name>
+      <name>istack common maven mojo</name>
       <prefix>istack-commons</prefix>
       <artifactId>istack-commons-maven-plugin</artifactId>
     </plugin>
