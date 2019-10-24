@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Flatten Plugin</name>
+      <prefix>flatten</prefix>
+      <artifactId>flatten-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>gitflow-maven-plugin</name>
       <prefix>gitflow</prefix>
       <artifactId>gitflow-maven-plugin</artifactId>

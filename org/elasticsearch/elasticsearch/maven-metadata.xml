@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
   <versioning>
-    <latest>7.4.0</latest>
-    <release>7.4.0</release>
+    <latest>7.4.1</latest>
+    <release>7.4.1</release>
     <versions>
       <version>0.6.0</version>
       <version>0.7.0</version>
@@ -246,6 +246,7 @@
       <version>6.8.1</version>
       <version>6.8.2</version>
       <version>6.8.3</version>
+      <version>6.8.4</version>
       <version>7.0.0-alpha1</version>
       <version>7.0.0-alpha2</version>
       <version>7.0.0-beta1</version>
@@ -261,7 +262,8 @@
       <version>7.3.1</version>
       <version>7.3.2</version>
       <version>7.4.0</version>
+      <version>7.4.1</version>
     </versions>
-    <lastUpdated>20191001132657</lastUpdated>
+    <lastUpdated>20191023140519</lastUpdated>
   </versioning>
 </metadata>
