@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel :: Debezium :: Maven plugin</name>
+      <prefix>camel-debezium</prefix>
+      <artifactId>camel-debezium-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Salesforce :: Maven plugin</name>
       <prefix>camel-salesforce</prefix>
       <artifactId>camel-salesforce-maven-plugin</artifactId>

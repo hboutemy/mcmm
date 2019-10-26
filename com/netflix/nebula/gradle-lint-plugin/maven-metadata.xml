@@ -3,8 +3,8 @@
   <groupId>com.netflix.nebula</groupId>
   <artifactId>gradle-lint-plugin</artifactId>
   <versioning>
-    <latest>15.0.1</latest>
-    <release>15.0.1</release>
+    <latest>15.0.3</latest>
+    <release>15.0.3</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -174,7 +174,9 @@
       <version>14.2.4</version>
       <version>15.0.0</version>
       <version>15.0.1</version>
+      <version>15.0.2</version>
+      <version>15.0.3</version>
     </versions>
-    <lastUpdated>20191024163019</lastUpdated>
+    <lastUpdated>20191025171408</lastUpdated>
   </versioning>
 </metadata>

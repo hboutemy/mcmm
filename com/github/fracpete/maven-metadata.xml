@@ -16,5 +16,10 @@
       <prefix>dependency-list</prefix>
       <artifactId>maven-dependency-list-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Java RPM builder</name>
+      <prefix>rpm</prefix>
+      <artifactId>rpm-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

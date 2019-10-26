@@ -3,8 +3,8 @@
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator-osgi</artifactId>
   <versioning>
-    <latest>6.1.0.Alpha6</latest>
-    <release>6.1.0.Alpha6</release>
+    <latest>6.1.0.Final</latest>
+    <release>6.1.0.Final</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -31,13 +31,15 @@
       <version>6.0.15.Final</version>
       <version>6.0.16.Final</version>
       <version>6.0.17.Final</version>
+      <version>6.0.18.Final</version>
       <version>6.1.0.Alpha1</version>
       <version>6.1.0.Alpha2</version>
       <version>6.1.0.Alpha3</version>
       <version>6.1.0.Alpha4</version>
       <version>6.1.0.Alpha5</version>
       <version>6.1.0.Alpha6</version>
+      <version>6.1.0.Final</version>
     </versions>
-    <lastUpdated>20190719140426</lastUpdated>
+    <lastUpdated>20191025091125</lastUpdated>
   </versioning>
 </metadata>
