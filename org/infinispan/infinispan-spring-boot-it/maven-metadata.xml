@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring-boot-it</artifactId>
   <versioning>
-    <latest>10.0.0.CR3</latest>
-    <release>10.0.0.CR3</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -83,7 +83,8 @@
       <version>10.0.0.CR1</version>
       <version>10.0.0.CR2</version>
       <version>10.0.0.CR3</version>
+      <version>10.0.0.Final</version>
     </versions>
-    <lastUpdated>20191004201046</lastUpdated>
+    <lastUpdated>20191027101126</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-feature-pack-embedded-query</artifactId>
   <versioning>
-    <latest>10.0.0.CR3</latest>
-    <release>10.0.0.CR3</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>9.3.0.CR1</version>
       <version>9.3.0.Final</version>
@@ -47,7 +47,8 @@
       <version>10.0.0.CR1</version>
       <version>10.0.0.CR2</version>
       <version>10.0.0.CR3</version>
+      <version>10.0.0.Final</version>
     </versions>
-    <lastUpdated>20191004201030</lastUpdated>
+    <lastUpdated>20191027101105</lastUpdated>
   </versioning>
 </metadata>

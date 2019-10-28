@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-commons</artifactId>
   <versioning>
-    <latest>10.0.0.CR3</latest>
-    <release>10.0.0.CR3</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>5.1.0.BETA4</version>
       <version>5.1.0.BETA5</version>
@@ -165,7 +165,8 @@
       <version>10.0.0.CR1</version>
       <version>10.0.0.CR2</version>
       <version>10.0.0.CR3</version>
+      <version>10.0.0.Final</version>
     </versions>
-    <lastUpdated>20191004201025</lastUpdated>
+    <lastUpdated>20191027101057</lastUpdated>
   </versioning>
 </metadata>
