@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Artifacts Version Maven Plugin</name>
+      <prefix>artifact-versions</prefix>
+      <artifactId>artifact-versions-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>dependency-lock-plugin Maven Plugin</name>
       <prefix>dependency-lock</prefix>
       <artifactId>dependency-lock-plugin</artifactId>
