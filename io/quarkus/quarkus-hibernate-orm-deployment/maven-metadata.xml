@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-orm-deployment</artifactId>
   <versioning>
-    <latest>0.26.1</latest>
-    <release>0.26.1</release>
+    <latest>0.27.0</latest>
+    <release>0.27.0</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -30,7 +30,8 @@
       <version>0.25.0</version>
       <version>0.26.0</version>
       <version>0.26.1</version>
+      <version>0.27.0</version>
     </versions>
-    <lastUpdated>20191023093631</lastUpdated>
+    <lastUpdated>20191030081308</lastUpdated>
   </versioning>
 </metadata>

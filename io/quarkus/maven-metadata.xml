@@ -16,5 +16,10 @@
       <prefix>quarkus</prefix>
       <artifactId>quarkus-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Quarkus - Dev tools - Platform Descriptor - JSON Maven Plugin</name>
+      <prefix>quarkus-platform-descriptor-json</prefix>
+      <artifactId>quarkus-platform-descriptor-json-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>rest2typescript-maven-plugin</name>
+      <prefix>rest2typescript</prefix>
+      <artifactId>rest2typescript-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
