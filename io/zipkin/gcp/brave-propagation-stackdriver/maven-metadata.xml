@@ -3,8 +3,8 @@
   <groupId>io.zipkin.gcp</groupId>
   <artifactId>brave-propagation-stackdriver</artifactId>
   <versioning>
-    <latest>0.15.0</latest>
-    <release>0.15.0</release>
+    <latest>0.15.1</latest>
+    <release>0.15.1</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -33,7 +33,8 @@
       <version>0.14.0</version>
       <version>0.14.1</version>
       <version>0.15.0</version>
+      <version>0.15.1</version>
     </versions>
-    <lastUpdated>20191016043727</lastUpdated>
+    <lastUpdated>20191102011329</lastUpdated>
   </versioning>
 </metadata>
