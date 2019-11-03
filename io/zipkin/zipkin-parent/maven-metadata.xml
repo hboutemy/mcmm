@@ -3,8 +3,8 @@
   <groupId>io.zipkin</groupId>
   <artifactId>zipkin-parent</artifactId>
   <versioning>
-    <latest>2.18.3</latest>
-    <release>2.18.3</release>
+    <latest>2.19.1</latest>
+    <release>2.19.1</release>
     <versions>
       <version>2.14.1</version>
       <version>2.14.2</version>
@@ -19,7 +19,9 @@
       <version>2.18.1</version>
       <version>2.18.2</version>
       <version>2.18.3</version>
+      <version>2.19.0</version>
+      <version>2.19.1</version>
     </versions>
-    <lastUpdated>20191021055335</lastUpdated>
+    <lastUpdated>20191031165431</lastUpdated>
   </versioning>
 </metadata>

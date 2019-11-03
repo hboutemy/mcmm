@@ -3,8 +3,8 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>scala-compiler</artifactId>
   <versioning>
-    <latest>0.20.0-bin-20191029-d56060d-NIGHTLY</latest>
-    <release>0.20.0-bin-20191029-d56060d-NIGHTLY</release>
+    <latest>0.20.0-bin-20191030-1fe9555-NIGHTLY</latest>
+    <release>0.20.0-bin-20191030-1fe9555-NIGHTLY</release>
     <versions>
       <version>0.1.1-bin-20170424-40d405b-NIGHTLY</version>
       <version>0.1.1-bin-20170425-f1c3529-NIGHTLY</version>
@@ -735,6 +735,7 @@
       <version>0.18.1-bin-20190827-2bbfd17-NIGHTLY</version>
       <version>0.18.1-bin-20190828-78d043a-NIGHTLY</version>
       <version>0.19.0-RC1</version>
+      <version>0.19.0</version>
       <version>0.19.0-bin-20190910-5687b18-NIGHTLY</version>
       <version>0.19.0-bin-20190910-54266c1-NIGHTLY</version>
       <version>0.19.0-bin-20190911-fba8e4f-NIGHTLY</version>
@@ -751,6 +752,7 @@
       <version>0.19.1-bin-20190902-dc88e01-NIGHTLY</version>
       <version>0.19.1-bin-20190903-85962b1-NIGHTLY</version>
       <version>0.19.1-bin-20190904-beba63a-NIGHTLY</version>
+      <version>0.20.0-RC1</version>
       <version>0.20.0-bin-20190923-10091bd-NIGHTLY</version>
       <version>0.20.0-bin-20190924-5bcb1ce-NIGHTLY</version>
       <version>0.20.0-bin-20190925-99e05f7-NIGHTLY</version>
@@ -778,7 +780,8 @@
       <version>0.20.0-bin-20191026-d2db509-NIGHTLY</version>
       <version>0.20.0-bin-20191028-d06a5ff-NIGHTLY</version>
       <version>0.20.0-bin-20191029-d56060d-NIGHTLY</version>
+      <version>0.20.0-bin-20191030-1fe9555-NIGHTLY</version>
     </versions>
-    <lastUpdated>20191030025708</lastUpdated>
+    <lastUpdated>20191031194309</lastUpdated>
   </versioning>
 </metadata>

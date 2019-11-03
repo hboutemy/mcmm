@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mule4-jar-size-reducer-maven-plugin</name>
+      <prefix>mule4-jar-size-reducer</prefix>
+      <artifactId>mule4-jar-size-reducer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

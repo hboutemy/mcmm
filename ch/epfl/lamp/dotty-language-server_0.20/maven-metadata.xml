@@ -3,9 +3,10 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>dotty-language-server_0.20</artifactId>
   <versioning>
-    <latest>0.20.0-bin-20191029-d56060d-NIGHTLY</latest>
-    <release>0.20.0-bin-20191029-d56060d-NIGHTLY</release>
+    <latest>0.20.0-bin-20191030-1fe9555-NIGHTLY</latest>
+    <release>0.20.0-bin-20191030-1fe9555-NIGHTLY</release>
     <versions>
+      <version>0.20.0-RC1</version>
       <version>0.20.0-bin-20190923-10091bd-NIGHTLY</version>
       <version>0.20.0-bin-20190924-5bcb1ce-NIGHTLY</version>
       <version>0.20.0-bin-20190925-99e05f7-NIGHTLY</version>
@@ -33,7 +34,8 @@
       <version>0.20.0-bin-20191026-d2db509-NIGHTLY</version>
       <version>0.20.0-bin-20191028-d06a5ff-NIGHTLY</version>
       <version>0.20.0-bin-20191029-d56060d-NIGHTLY</version>
+      <version>0.20.0-bin-20191030-1fe9555-NIGHTLY</version>
     </versions>
-    <lastUpdated>20191030025658</lastUpdated>
+    <lastUpdated>20191031194302</lastUpdated>
   </versioning>
 </metadata>

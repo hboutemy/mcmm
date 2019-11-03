@@ -22,6 +22,11 @@
       <artifactId>azure-sfmesh-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Azure Spring Cloud Maven Plugin</name>
+      <prefix>azure-spring-cloud</prefix>
+      <artifactId>azure-spring-cloud-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for Azure Web Apps</name>
       <prefix>azure-webapp</prefix>
       <artifactId>azure-webapp-maven-plugin</artifactId>
