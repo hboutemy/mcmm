@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring5-embedded</artifactId>
   <versioning>
-    <latest>10.0.0.Final</latest>
-    <release>10.0.0.Final</release>
+    <latest>10.0.1.Final</latest>
+    <release>10.0.1.Final</release>
     <versions>
       <version>9.4.4.Final</version>
       <version>9.4.5.Final</version>
@@ -30,7 +30,8 @@
       <version>10.0.0.CR2</version>
       <version>10.0.0.CR3</version>
       <version>10.0.0.Final</version>
+      <version>10.0.1.Final</version>
     </versions>
-    <lastUpdated>20191027101127</lastUpdated>
+    <lastUpdated>20191101151454</lastUpdated>
   </versioning>
 </metadata>

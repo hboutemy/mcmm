@@ -11,5 +11,10 @@
       <prefix>assemble</prefix>
       <artifactId>assemble-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>ITest Maven Plugin for SpecialAgent</name>
+      <prefix>itest</prefix>
+      <artifactId>itest-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

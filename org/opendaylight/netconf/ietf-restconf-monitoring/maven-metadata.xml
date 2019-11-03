@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>ietf-restconf-monitoring</artifactId>
   <versioning>
-    <latest>1.10.0</latest>
-    <release>1.10.0</release>
+    <latest>1.10.1</latest>
+    <release>1.10.1</release>
     <versions>
       <version>1.4.3-Boron-SR3</version>
       <version>1.4.4-Boron-SR4</version>
@@ -30,7 +30,8 @@
       <version>1.9.1</version>
       <version>1.9.2</version>
       <version>1.10.0</version>
+      <version>1.10.1</version>
     </versions>
-    <lastUpdated>20190918110220</lastUpdated>
+    <lastUpdated>20191101075218</lastUpdated>
   </versioning>
 </metadata>
