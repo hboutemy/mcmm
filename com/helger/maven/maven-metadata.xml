@@ -7,6 +7,21 @@
       <artifactId>jaxws-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven JAXB 2.x Plugin</name>
+      <prefix>jaxb2</prefix>
+      <artifactId>maven-jaxb2-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.2.x Plugin</name>
+      <prefix>jaxb22</prefix>
+      <artifactId>maven-jaxb22-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.3.x Plugin</name>
+      <prefix>jaxb23</prefix>
+      <artifactId>maven-jaxb23-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ph-buildinfo-maven-plugin</name>
       <prefix>ph-buildinfo</prefix>
       <artifactId>ph-buildinfo-maven-plugin</artifactId>
