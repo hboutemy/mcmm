@@ -3,8 +3,8 @@
   <groupId>io.zeebe</groupId>
   <artifactId>zeebe-gateway-protocol-impl</artifactId>
   <versioning>
-    <latest>0.21.1</latest>
-    <release>0.21.1</release>
+    <latest>0.22.0-alpha1</latest>
+    <release>0.22.0-alpha1</release>
     <versions>
       <version>0.20.0</version>
       <version>0.20.1</version>
@@ -13,7 +13,8 @@
       <version>0.21.0-alpha3</version>
       <version>0.21.0</version>
       <version>0.21.1</version>
+      <version>0.22.0-alpha1</version>
     </versions>
-    <lastUpdated>20191007152003</lastUpdated>
+    <lastUpdated>20191105161726</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.transaction</groupId>
   <artifactId>wildfly-transaction-client</artifactId>
   <versioning>
-    <latest>1.1.7.Final</latest>
-    <release>1.1.7.Final</release>
+    <latest>1.1.8.Final</latest>
+    <release>1.1.8.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -48,7 +48,8 @@
       <version>1.1.5.Final</version>
       <version>1.1.6.Final</version>
       <version>1.1.7.Final</version>
+      <version>1.1.8.Final</version>
     </versions>
-    <lastUpdated>20190829102709</lastUpdated>
+    <lastUpdated>20191105144315</lastUpdated>
   </versioning>
 </metadata>

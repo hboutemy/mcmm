@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Conventional Commits Maven Plugin</name>
+      <prefix>conventional-commits</prefix>
+      <artifactId>conventional-commits-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

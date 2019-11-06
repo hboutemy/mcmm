@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>continuous-update</prefix>
+      <artifactId>continuous-update-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>membrane</prefix>
       <artifactId>membrane-maven-plugin</artifactId>
     </plugin>
