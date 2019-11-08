@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>appstream</artifactId>
   <versioning>
     <latest>1.15.0.DEVPREVIEW</latest>
     <release>1.15.0.DEVPREVIEW</release>
     <versions>
-      <version>1.10.0.DEVPREVIEW</version>
-      <version>1.10.1.DEVPREVIEW</version>
-      <version>1.11.0.DEVPREVIEW</version>
-      <version>1.12.0.DEVPREVIEW</version>
-      <version>1.13.0.DEVPREVIEW</version>
-      <version>1.13.1.DEVPREVIEW</version>
-      <version>1.14.0.DEVPREVIEW</version>
-      <version>1.15.0.DEVPREVIEW</version>
       <version>0.15.0</version>
       <version>0.15.1</version>
       <version>0.15.2</version>
@@ -59,7 +51,15 @@
       <version>1.7.0.DEVPREVIEW</version>
       <version>1.8.0.DEVPREVIEW</version>
       <version>1.9.0.DEVPREVIEW</version>
+      <version>1.10.0.DEVPREVIEW</version>
+      <version>1.10.1.DEVPREVIEW</version>
+      <version>1.11.0.DEVPREVIEW</version>
+      <version>1.12.0.DEVPREVIEW</version>
+      <version>1.13.0.DEVPREVIEW</version>
+      <version>1.13.1.DEVPREVIEW</version>
+      <version>1.14.0.DEVPREVIEW</version>
+      <version>1.15.0.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191028132310</lastUpdated>
+    <lastUpdated>20191107000201</lastUpdated>
   </versioning>
 </metadata>

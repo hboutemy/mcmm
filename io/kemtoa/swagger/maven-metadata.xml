@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Swagger Backwards Compatibility Maven Plugin</name>
+      <prefix>swagger-backwards-compat</prefix>
+      <artifactId>swagger-backwards-compat-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
