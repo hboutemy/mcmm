@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Plugin to run OOT tests</name>
+      <prefix>oot</prefix>
+      <artifactId>oot-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
