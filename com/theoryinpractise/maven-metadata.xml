@@ -17,6 +17,11 @@
       <artifactId>googleformatter-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>reproducablebuild-maven-plugin Maven Mojo</name>
+      <prefix>reproducible</prefix>
+      <artifactId>reproducible-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-youtrack-plugin Maven Mojo</name>
       <prefix>youtrack</prefix>
       <artifactId>youtrack-maven-plugin</artifactId>
