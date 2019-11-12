@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>git-checkout-plugin</name>
+      <prefix>git-checkout</prefix>
+      <artifactId>git-checkout-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Selective Build Maven Plugin (${project.packaging})</name>
       <prefix>selective-build</prefix>
       <artifactId>selective-build-maven-plugin</artifactId>

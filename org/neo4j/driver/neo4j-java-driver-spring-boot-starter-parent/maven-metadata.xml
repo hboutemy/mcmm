@@ -3,8 +3,8 @@
   <groupId>org.neo4j.driver</groupId>
   <artifactId>neo4j-java-driver-spring-boot-starter-parent</artifactId>
   <versioning>
-    <latest>4.0.0-beta02</latest>
-    <release>4.0.0-beta02</release>
+    <latest>4.0.0-beta03</latest>
+    <release>4.0.0-beta03</release>
     <versions>
       <version>1.0.0-alpha02</version>
       <version>1.0.0-alpha03</version>
@@ -12,7 +12,8 @@
       <version>1.7.5.1</version>
       <version>4.0.0-beta01</version>
       <version>4.0.0-beta02</version>
+      <version>4.0.0-beta03</version>
     </versions>
-    <lastUpdated>20191002084400</lastUpdated>
+    <lastUpdated>20191111084931</lastUpdated>
   </versioning>
 </metadata>
