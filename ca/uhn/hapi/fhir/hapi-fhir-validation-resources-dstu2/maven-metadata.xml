@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-validation-resources-dstu2</artifactId>
   <versioning>
-    <latest>4.0.3</latest>
-    <release>4.0.3</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>1.2</version>
       <version>1.3</version>
@@ -30,7 +30,8 @@
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20190909134500</lastUpdated>
+    <lastUpdated>20191112210842</lastUpdated>
   </versioning>
 </metadata>

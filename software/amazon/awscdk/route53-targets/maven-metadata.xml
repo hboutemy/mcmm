@@ -3,8 +3,8 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>route53-targets</artifactId>
   <versioning>
-    <latest>1.16.0.DEVPREVIEW</latest>
-    <release>1.16.0.DEVPREVIEW</release>
+    <latest>1.16.2.DEVPREVIEW</latest>
+    <release>1.16.2.DEVPREVIEW</release>
     <versions>
       <version>0.32.0</version>
       <version>0.33.0</version>
@@ -36,7 +36,9 @@
       <version>1.14.0.DEVPREVIEW</version>
       <version>1.15.0.DEVPREVIEW</version>
       <version>1.16.0.DEVPREVIEW</version>
+      <version>1.16.1.DEVPREVIEW</version>
+      <version>1.16.2.DEVPREVIEW</version>
     </versions>
-    <lastUpdated>20191111181737</lastUpdated>
+    <lastUpdated>20191112125845</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Gemnasium Maven Plugin</name>
+      <prefix>gemnasium</prefix>
+      <artifactId>gemnasium-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>libsass plugin</name>
       <prefix>libsass</prefix>
       <artifactId>libsass-maven-plugin</artifactId>
