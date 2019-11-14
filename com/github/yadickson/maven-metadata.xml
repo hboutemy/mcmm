@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Auto Certificate Generator Plugin</name>
+      <prefix>autocert</prefix>
+      <artifactId>autocert</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Auto PLSQL/SP Generator Plugin</name>
       <prefix>autoplsp</prefix>
       <artifactId>autoplsp</artifactId>

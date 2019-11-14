@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-deployer-spi-test</artifactId>
   <versioning>
-    <latest>2.0.4.RELEASE</latest>
-    <release>2.0.4.RELEASE</release>
+    <latest>2.0.5.RELEASE</latest>
+    <release>2.0.5.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -28,7 +28,8 @@
       <version>2.0.2.RELEASE</version>
       <version>2.0.3.RELEASE</version>
       <version>2.0.4.RELEASE</version>
+      <version>2.0.5.RELEASE</version>
     </versions>
-    <lastUpdated>20190827022937</lastUpdated>
+    <lastUpdated>20191113123820</lastUpdated>
   </versioning>
 </metadata>

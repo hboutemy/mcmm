@@ -3,8 +3,8 @@
   <groupId>org.springframework.security.oauth</groupId>
   <artifactId>spring-security-oauth2</artifactId>
   <versioning>
-    <latest>2.3.7.RELEASE</latest>
-    <release>2.3.7.RELEASE</release>
+    <latest>2.4.0.RELEASE</latest>
+    <release>2.4.0.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -54,7 +54,9 @@
       <version>2.3.5.RELEASE</version>
       <version>2.3.6.RELEASE</version>
       <version>2.3.7.RELEASE</version>
+      <version>2.3.8.RELEASE</version>
+      <version>2.4.0.RELEASE</version>
     </versions>
-    <lastUpdated>20191017091105</lastUpdated>
+    <lastUpdated>20191113215514</lastUpdated>
   </versioning>
 </metadata>
