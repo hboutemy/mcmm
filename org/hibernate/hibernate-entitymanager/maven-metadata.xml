@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-entitymanager</artifactId>
   <versioning>
-    <latest>5.4.8.Final</latest>
-    <release>5.4.8.Final</release>
+    <latest>5.4.9.Final</latest>
+    <release>5.4.9.Final</release>
     <versions>
       <version>3.2.0.cr2</version>
       <version>3.2.0.ga</version>
@@ -197,6 +197,7 @@
       <version>5.4.6.Final</version>
       <version>5.4.7.Final</version>
       <version>5.4.8.Final</version>
+      <version>5.4.9.Final</version>
       <version>4.1.2</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
@@ -208,6 +209,6 @@
       <version>5.2.16.Final</version>
       <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20191108121428</lastUpdated>
+    <lastUpdated>20191114162049</lastUpdated>
   </versioning>
 </metadata>

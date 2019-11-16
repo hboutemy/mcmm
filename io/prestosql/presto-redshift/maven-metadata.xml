@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-redshift</artifactId>
   <versioning>
-    <latest>324</latest>
-    <release>324</release>
+    <latest>325</latest>
+    <release>325</release>
     <versions>
       <version>300</version>
       <version>301</version>
@@ -31,7 +31,8 @@
       <version>322</version>
       <version>323</version>
       <version>324</version>
+      <version>325</version>
     </versions>
-    <lastUpdated>20191102054413</lastUpdated>
+    <lastUpdated>20191114090512</lastUpdated>
   </versioning>
 </metadata>
