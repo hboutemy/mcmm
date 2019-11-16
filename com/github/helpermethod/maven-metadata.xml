@@ -8,6 +8,11 @@
     </plugin>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>dependency-update</prefix>
+      <artifactId>dependency-update-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>membrane</prefix>
       <artifactId>membrane-maven-plugin</artifactId>
     </plugin>

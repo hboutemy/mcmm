@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-weld-transactions</artifactId>
   <versioning>
-    <latest>18.0.0.Final</latest>
-    <release>18.0.0.Final</release>
+    <latest>18.0.1.Final</latest>
+    <release>18.0.1.Final</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -29,7 +29,8 @@
       <version>17.0.1.Final</version>
       <version>18.0.0.Beta1</version>
       <version>18.0.0.Final</version>
+      <version>18.0.1.Final</version>
     </versions>
-    <lastUpdated>20191003165329</lastUpdated>
+    <lastUpdated>20191115024907</lastUpdated>
   </versioning>
 </metadata>

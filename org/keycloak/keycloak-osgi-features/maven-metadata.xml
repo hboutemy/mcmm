@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-osgi-features</artifactId>
   <versioning>
-    <latest>7.0.1</latest>
-    <release>7.0.1</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -88,8 +88,9 @@
       <version>6.0.1</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
+      <version>8.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20191021091210</lastUpdated>
+    <lastUpdated>20191115164141</lastUpdated>
   </versioning>
 </metadata>

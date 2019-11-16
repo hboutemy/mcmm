@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-apps-kafka-integration-oar</artifactId>
   <versioning>
-    <latest>2.2.0</latest>
-    <release>2.2.0</release>
+    <latest>2.2.1-b2</latest>
+    <release>2.2.1-b2</release>
     <versions>
       <version>1.15.0-rc1</version>
       <version>1.15.0-rc2</version>
@@ -23,7 +23,8 @@
       <version>2.2.0-rc1</version>
       <version>2.2.0-rc2</version>
       <version>2.2.0</version>
+      <version>2.2.1-b2</version>
     </versions>
-    <lastUpdated>20190830202203</lastUpdated>
+    <lastUpdated>20191115214413</lastUpdated>
   </versioning>
 </metadata>

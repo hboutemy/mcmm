@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-console-starter-nacos</artifactId>
   <versioning>
-    <latest>5.5.0</latest>
-    <release>5.5.0</release>
+    <latest>5.5.1</latest>
+    <release>5.5.1</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -73,6 +73,7 @@
       <version>3.12.1</version>
       <version>3.12.2</version>
       <version>3.13.0</version>
+      <version>3.13.1</version>
       <version>4.7.0</version>
       <version>4.7.1</version>
       <version>4.7.2</version>
@@ -138,6 +139,7 @@
       <version>4.12.1</version>
       <version>4.12.2</version>
       <version>4.13.0</version>
+      <version>4.13.1</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -175,7 +177,8 @@
       <version>5.4.1</version>
       <version>5.4.2</version>
       <version>5.5.0</version>
+      <version>5.5.1</version>
     </versions>
-    <lastUpdated>20191027235325</lastUpdated>
+    <lastUpdated>20191115005717</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-opentracing-smallrye</artifactId>
   <versioning>
-    <latest>18.0.0.Final</latest>
-    <release>18.0.0.Final</release>
+    <latest>18.0.1.Final</latest>
+    <release>18.0.1.Final</release>
     <versions>
       <version>14.0.0.Beta2</version>
       <version>14.0.0.Final</version>
@@ -20,7 +20,8 @@
       <version>17.0.1.Final</version>
       <version>18.0.0.Beta1</version>
       <version>18.0.0.Final</version>
+      <version>18.0.1.Final</version>
     </versions>
-    <lastUpdated>20191003165315</lastUpdated>
+    <lastUpdated>20191115024855</lastUpdated>
   </versioning>
 </metadata>

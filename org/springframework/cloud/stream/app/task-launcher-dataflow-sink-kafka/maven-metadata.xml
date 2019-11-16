@@ -3,12 +3,13 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>task-launcher-dataflow-sink-kafka</artifactId>
   <versioning>
-    <latest>1.0.1.RELEASE</latest>
-    <release>1.0.1.RELEASE</release>
+    <latest>1.0.2.RELEASE</latest>
+    <release>1.0.2.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
+      <version>1.0.2.RELEASE</version>
     </versions>
-    <lastUpdated>20190516170806</lastUpdated>
+    <lastUpdated>20191115222713</lastUpdated>
   </versioning>
 </metadata>
