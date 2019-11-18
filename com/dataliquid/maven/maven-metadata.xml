@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>dataliquid :: API Portal Maven Plugin</name>
+      <prefix>api-portal</prefix>
+      <artifactId>api-portal-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>dataliquid :: Distribution Verifier Maven Plugin</name>
       <prefix>distribution-verifier</prefix>
       <artifactId>distribution-verifier-maven-plugin</artifactId>
