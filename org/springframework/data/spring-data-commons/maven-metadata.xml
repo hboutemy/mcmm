@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-commons</artifactId>
   <versioning>
-    <latest>2.2.1.RELEASE</latest>
-    <release>2.2.1.RELEASE</release>
+    <latest>2.2.2.RELEASE</latest>
+    <release>2.2.2.RELEASE</release>
     <versions>
       <version>1.5.0.RELEASE</version>
       <version>1.5.1.RELEASE</version>
@@ -103,9 +103,11 @@
       <version>2.1.10.RELEASE</version>
       <version>2.1.11.RELEASE</version>
       <version>2.1.12.RELEASE</version>
+      <version>2.1.13.RELEASE</version>
       <version>2.2.0.RELEASE</version>
       <version>2.2.1.RELEASE</version>
+      <version>2.2.2.RELEASE</version>
     </versions>
-    <lastUpdated>20191104144024</lastUpdated>
+    <lastUpdated>20191118115656</lastUpdated>
   </versioning>
 </metadata>
