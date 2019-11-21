@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>native-image-maven-plugin Maven Plugin</name>
+      <prefix>native-image</prefix>
+      <artifactId>native-image-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

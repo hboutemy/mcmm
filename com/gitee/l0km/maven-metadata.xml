@@ -32,6 +32,11 @@
       <artifactId>facelogservice-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>sql2java-maven-plugin</name>
+      <prefix>sql2java</prefix>
+      <artifactId>sql2java-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>swift2thrift-maven-plugin</name>
       <prefix>swift2thrift</prefix>
       <artifactId>swift2thrift-maven-plugin</artifactId>

@@ -6,5 +6,10 @@
       <prefix>tkit-mp-openapi</prefix>
       <artifactId>tkit-mp-openapi-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>tkit-mp-restclient-plugin</name>
+      <prefix>tkit-mp-restclient</prefix>
+      <artifactId>tkit-mp-restclient-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
