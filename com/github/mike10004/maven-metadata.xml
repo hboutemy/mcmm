@@ -7,6 +7,10 @@
       <artifactId>concatenate-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>containment</prefix>
+      <artifactId>containment-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>crxtool-maven-plugin</name>
       <prefix>crxtool</prefix>
       <artifactId>crxtool-maven-plugin</artifactId>
