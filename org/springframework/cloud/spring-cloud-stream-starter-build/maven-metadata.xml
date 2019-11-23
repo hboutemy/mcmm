@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-starter-build</artifactId>
   <versioning>
-    <latest>Germantown.SR1</latest>
-    <release>Germantown.SR1</release>
+    <latest>Horsham.RELEASE</latest>
+    <release>Horsham.RELEASE</release>
     <versions>
       <version>Brooklyn.RELEASE</version>
       <version>Brooklyn.SR1</version>
@@ -29,7 +29,8 @@
       <version>Fishtown.SR4</version>
       <version>Germantown.RELEASE</version>
       <version>Germantown.SR1</version>
+      <version>Horsham.RELEASE</version>
     </versions>
-    <lastUpdated>20190828095542</lastUpdated>
+    <lastUpdated>20191122154441</lastUpdated>
   </versioning>
 </metadata>
