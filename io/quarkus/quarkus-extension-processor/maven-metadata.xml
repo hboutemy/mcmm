@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-extension-processor</artifactId>
   <versioning>
-    <latest>1.0.0.CR2</latest>
-    <release>1.0.0.CR2</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -37,7 +37,8 @@
       <version>0.28.1</version>
       <version>1.0.0.CR1</version>
       <version>1.0.0.CR2</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20191120091545</lastUpdated>
+    <lastUpdated>20191125090956</lastUpdated>
   </versioning>
 </metadata>

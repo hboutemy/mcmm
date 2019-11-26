@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven byte code enhancement for Timed metric collection</name>
+      <prefix>metrics</prefix>
+      <artifactId>metrics-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
