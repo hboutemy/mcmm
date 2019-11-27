@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>opensocial-portlet</artifactId>
   <versioning>
-    <latest>7.2.0.11</latest>
+    <latest>7.2.0.23</latest>
     <release>7.2.0.23</release>
     <versions>
       <version>7.0.0.1</version>
@@ -73,6 +73,15 @@
       <version>7.0.0.65</version>
       <version>7.0.0.66</version>
       <version>7.0.0.67</version>
+      <version>7.0.0.68</version>
+      <version>7.0.0.69</version>
+      <version>7.0.0.70</version>
+      <version>7.0.0.71</version>
+      <version>7.0.0.72</version>
+      <version>7.0.0.73</version>
+      <version>7.0.0.74</version>
+      <version>7.0.0.75</version>
+      <version>7.0.0.76</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -104,6 +113,14 @@
       <version>7.1.0.31</version>
       <version>7.1.0.32</version>
       <version>7.1.0.33</version>
+      <version>7.1.0.34</version>
+      <version>7.1.0.35</version>
+      <version>7.1.0.36</version>
+      <version>7.1.0.37</version>
+      <version>7.1.0.38</version>
+      <version>7.1.0.39</version>
+      <version>7.1.0.40</version>
+      <version>7.1.0.41</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -115,35 +132,20 @@
       <version>7.2.0.9</version>
       <version>7.2.0.10</version>
       <version>7.2.0.11</version>
-      <version>7.0.0.68</version>
-      <version>7.1.0.34</version>
-      <version>7.0.0.69</version>
-      <version>7.1.0.35</version>
-      <version>7.0.0.70</version>
       <version>7.2.0.12</version>
       <version>7.2.0.13</version>
-      <version>7.0.0.71</version>
-      <version>7.1.0.36</version>
       <version>7.2.0.14</version>
-      <version>7.0.0.72</version>
       <version>7.2.0.15</version>
-      <version>7.1.0.37</version>
-      <version>7.0.0.73</version>
-      <version>7.1.0.38</version>
       <version>7.2.0.16</version>
       <version>7.2.0.17</version>
-      <version>7.0.0.74</version>
-      <version>7.1.0.39</version>
       <version>7.2.0.18</version>
       <version>7.2.0.19</version>
-      <version>7.0.0.75</version>
-      <version>7.1.0.40</version>
       <version>7.2.0.20</version>
       <version>7.2.0.21</version>
-      <version>7.0.0.76</version>
       <version>7.2.0.22</version>
       <version>7.2.0.23</version>
+      <version>7.2.0.24</version>
     </versions>
-    <lastUpdated>20191114051424</lastUpdated>
+    <lastUpdated>20191126215103</lastUpdated>
   </versioning>
 </metadata>
