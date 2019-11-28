@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dependencies</artifactId>
   <versioning>
-    <latest>Greenwich.SR4</latest>
-    <release>Greenwich.SR4</release>
+    <latest>Hoxton.RELEASE</latest>
+    <release>Hoxton.RELEASE</release>
     <versions>
       <version>Angel.SR5</version>
       <version>Angel.SR6</version>
@@ -47,7 +47,8 @@
       <version>Greenwich.SR2</version>
       <version>Greenwich.SR3</version>
       <version>Greenwich.SR4</version>
+      <version>Hoxton.RELEASE</version>
     </versions>
-    <lastUpdated>20191118211147</lastUpdated>
+    <lastUpdated>20191127010055</lastUpdated>
   </versioning>
 </metadata>

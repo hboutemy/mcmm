@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-spec-suite-tools</artifactId>
   <versioning>
-    <latest>3.5.12</latest>
-    <release>3.5.12</release>
+    <latest>3.5.13</latest>
+    <release>3.5.13</release>
     <versions>
       <version>3.1.5</version>
       <version>3.1.6</version>
@@ -102,7 +102,8 @@
       <version>3.5.10</version>
       <version>3.5.11</version>
       <version>3.5.12</version>
+      <version>3.5.13</version>
     </versions>
-    <lastUpdated>20191119134751</lastUpdated>
+    <lastUpdated>20191127110532</lastUpdated>
   </versioning>
 </metadata>
