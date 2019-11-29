@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-db-vendor-mysql</artifactId>
   <versioning>
-    <latest>7.4.0</latest>
-    <release>7.4.0</release>
+    <latest>7.5.0</latest>
+    <release>7.5.0</release>
     <versions>
       <version>6.12.0</version>
       <version>6.12.1</version>
@@ -45,7 +45,8 @@
       <version>7.3.1</version>
       <version>7.3.2</version>
       <version>7.4.0</version>
+      <version>7.5.0</version>
     </versions>
-    <lastUpdated>20191115165518</lastUpdated>
+    <lastUpdated>20191128190408</lastUpdated>
   </versioning>
 </metadata>
