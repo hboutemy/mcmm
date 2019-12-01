@@ -11,5 +11,10 @@
       <prefix>aspell</prefix>
       <artifactId>aspell-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>ova-maven-plugin</name>
+      <prefix>ova</prefix>
+      <artifactId>ova-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

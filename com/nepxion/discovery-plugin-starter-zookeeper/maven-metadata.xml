@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-starter-zookeeper</artifactId>
   <versioning>
-    <latest>5.5.3</latest>
-    <release>5.5.3</release>
+    <latest>5.5.4</latest>
+    <release>5.5.4</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -155,6 +155,7 @@
       <version>3.13.1</version>
       <version>3.13.2</version>
       <version>3.13.3</version>
+      <version>3.13.4</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -274,6 +275,7 @@
       <version>4.13.1</version>
       <version>4.13.2</version>
       <version>4.13.3</version>
+      <version>4.13.4</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -314,7 +316,8 @@
       <version>5.5.1</version>
       <version>5.5.2</version>
       <version>5.5.3</version>
+      <version>5.5.4</version>
     </versions>
-    <lastUpdated>20191122101741</lastUpdated>
+    <lastUpdated>20191130120035</lastUpdated>
   </versioning>
 </metadata>
