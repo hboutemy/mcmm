@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-client</artifactId>
   <versioning>
-    <latest>7.4.2</latest>
-    <release>7.4.2</release>
+    <latest>7.5.0</latest>
+    <release>7.5.0</release>
     <versions>
       <version>5.6.0</version>
       <version>5.6.1</version>
@@ -80,7 +80,8 @@
       <version>7.4.0</version>
       <version>7.4.1</version>
       <version>7.4.2</version>
+      <version>7.5.0</version>
     </versions>
-    <lastUpdated>20191120163840</lastUpdated>
+    <lastUpdated>20191202154410</lastUpdated>
   </versioning>
 </metadata>

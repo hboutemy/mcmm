@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-jetty94-adapter</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>3.0.0.CR1</version>
       <version>3.0.0.Final</version>
@@ -43,7 +43,8 @@
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>8.0.0</version>
+      <version>8.0.1</version>
     </versions>
-    <lastUpdated>20191115164151</lastUpdated>
+    <lastUpdated>20191202120017</lastUpdated>
   </versioning>
 </metadata>

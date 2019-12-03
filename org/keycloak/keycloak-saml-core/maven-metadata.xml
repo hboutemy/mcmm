@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-core</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Beta2</version>
@@ -90,8 +90,9 @@
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>8.0.0</version>
+      <version>8.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20191115164147</lastUpdated>
+    <lastUpdated>20191202120007</lastUpdated>
   </versioning>
 </metadata>

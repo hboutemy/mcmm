@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-adapter</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>1.0-alpha-3</version>
       <version>1.0-alpha-4</version>
@@ -106,8 +106,9 @@
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>8.0.0</version>
+      <version>8.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20191115164212</lastUpdated>
+    <lastUpdated>20191202120053</lastUpdated>
   </versioning>
 </metadata>
