@@ -6,5 +6,10 @@
       <prefix>tabspace-formatter</prefix>
       <artifactId>tabspace-formatter-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>whitespace-formatter-maven-plugin</name>
+      <prefix>whitespace-formatter</prefix>
+      <artifactId>whitespace-formatter-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
