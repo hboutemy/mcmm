@@ -32,7 +32,7 @@
       <artifactId>facelogservice-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>sql2java-maven-plugin</name>
+      <name>sql2java maven plugin</name>
       <prefix>sql2java</prefix>
       <artifactId>sql2java-maven-plugin</artifactId>
     </plugin>

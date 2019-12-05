@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Frontend Plugin</name>
+      <prefix>frontend</prefix>
+      <artifactId>frontend-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
