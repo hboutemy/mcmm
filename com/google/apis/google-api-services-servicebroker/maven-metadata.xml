@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-servicebroker</artifactId>
   <versioning>
-    <latest>v1-rev20191112-1.30.3</latest>
-    <release>v1-rev20191112-1.30.3</release>
+    <latest>v1-rev20191202-1.30.3</latest>
+    <release>v1-rev20191202-1.30.3</release>
     <versions>
       <version>v1alpha1-rev2-1.18.0-rc</version>
       <version>v1alpha1-rev2-1.21.0</version>
@@ -124,6 +124,9 @@
       <version>v1alpha1-rev20191112-1.28.0</version>
       <version>v1alpha1-rev20191112-1.29.2</version>
       <version>v1alpha1-rev20191112-1.30.3</version>
+      <version>v1alpha1-rev20191202-1.28.0</version>
+      <version>v1alpha1-rev20191202-1.29.2</version>
+      <version>v1alpha1-rev20191202-1.30.3</version>
       <version>v1beta1-rev2-1.18.0-rc</version>
       <version>v1beta1-rev2-1.21.0</version>
       <version>v1beta1-rev2-1.22.0</version>
@@ -241,6 +244,9 @@
       <version>v1beta1-rev20191112-1.28.0</version>
       <version>v1beta1-rev20191112-1.29.2</version>
       <version>v1beta1-rev20191112-1.30.3</version>
+      <version>v1beta1-rev20191202-1.28.0</version>
+      <version>v1beta1-rev20191202-1.29.2</version>
+      <version>v1beta1-rev20191202-1.30.3</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.21.0</version>
       <version>v1-rev2-1.22.0</version>
@@ -360,7 +366,10 @@
       <version>v1-rev20191112-1.28.0</version>
       <version>v1-rev20191112-1.29.2</version>
       <version>v1-rev20191112-1.30.3</version>
+      <version>v1-rev20191202-1.28.0</version>
+      <version>v1-rev20191202-1.29.2</version>
+      <version>v1-rev20191202-1.30.3</version>
     </versions>
-    <lastUpdated>20191115000751</lastUpdated>
+    <lastUpdated>20191205004826</lastUpdated>
   </versioning>
 </metadata>

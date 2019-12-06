@@ -3,8 +3,8 @@
   <groupId>com.kiwigrid</groupId>
   <artifactId>helm-maven-plugin</artifactId>
   <versioning>
-    <latest>5.0</latest>
-    <release>5.0</release>
+    <latest>5.1</latest>
+    <release>5.1</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -44,7 +44,8 @@
       <version>4.12</version>
       <version>4.13</version>
       <version>5.0</version>
+      <version>5.1</version>
     </versions>
-    <lastUpdated>20191129204048</lastUpdated>
+    <lastUpdated>20191205141443</lastUpdated>
   </versioning>
 </metadata>
