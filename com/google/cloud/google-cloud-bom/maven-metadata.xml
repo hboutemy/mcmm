@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bom</artifactId>
   <versioning>
-    <latest>0.120.0-alpha</latest>
-    <release>0.120.0-alpha</release>
+    <latest>0.120.2-alpha</latest>
+    <release>0.120.2-alpha</release>
     <versions>
       <version>0.32.0-alpha</version>
       <version>0.33.0-alpha</version>
@@ -95,7 +95,9 @@
       <version>0.118.0-alpha</version>
       <version>0.119.0-alpha</version>
       <version>0.120.0-alpha</version>
+      <version>0.120.1-alpha</version>
+      <version>0.120.2-alpha</version>
     </versions>
-    <lastUpdated>20191205221428</lastUpdated>
+    <lastUpdated>20191206225956</lastUpdated>
   </versioning>
 </metadata>
