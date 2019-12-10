@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.authenticator.oidc</artifactId>
   <versioning>
-    <latest>6.5.428</latest>
-    <release>6.5.428</release>
+    <latest>6.5.430</latest>
+    <release>6.5.430</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -1019,7 +1019,9 @@
       <version>6.5.426</version>
       <version>6.5.427</version>
       <version>6.5.428</version>
+      <version>6.5.429</version>
+      <version>6.5.430</version>
     </versions>
-    <lastUpdated>20191206141020</lastUpdated>
+    <lastUpdated>20191209152017</lastUpdated>
   </versioning>
 </metadata>
