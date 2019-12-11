@@ -3,8 +3,8 @@
   <groupId>com.heroku.api</groupId>
   <artifactId>heroku-http-finagle</artifactId>
   <versioning>
-    <latest>0.37</latest>
-    <release>0.37</release>
+    <latest>0.40</latest>
+    <release>0.40</release>
     <versions>
       <version>0.10</version>
       <version>0.11</version>
@@ -34,7 +34,9 @@
       <version>0.35</version>
       <version>0.36</version>
       <version>0.37</version>
+      <version>0.39</version>
+      <version>0.40</version>
     </versions>
-    <lastUpdated>20190905113416</lastUpdated>
+    <lastUpdated>20191210182410</lastUpdated>
   </versioning>
 </metadata>
