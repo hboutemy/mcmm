@@ -3,8 +3,8 @@
   <groupId>de.adorsys.ledgers</groupId>
   <artifactId>xs2a-connector-remote</artifactId>
   <versioning>
-    <latest>5.5</latest>
-    <release>5.5</release>
+    <latest>5.6</latest>
+    <release>5.6</release>
     <versions>
       <version>3.1.1</version>
       <version>3.2</version>
@@ -31,6 +31,7 @@
       <version>4.3</version>
       <version>4.4</version>
       <version>4.5</version>
+      <version>4.6</version>
       <version>5.0</version>
       <version>5.1</version>
       <version>5.1.2</version>
@@ -40,7 +41,8 @@
       <version>5.3.2</version>
       <version>5.4</version>
       <version>5.5</version>
+      <version>5.6</version>
     </versions>
-    <lastUpdated>20191122113944</lastUpdated>
+    <lastUpdated>20191211100616</lastUpdated>
   </versioning>
 </metadata>
