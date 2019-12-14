@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-strategy-sentinel-starter-nacos</artifactId>
   <versioning>
-    <latest>5.5.5</latest>
-    <release>5.5.5</release>
+    <latest>5.5.6</latest>
+    <release>5.5.6</release>
     <versions>
       <version>3.12.0</version>
       <version>3.12.1</version>
@@ -15,6 +15,7 @@
       <version>3.13.3</version>
       <version>3.13.4</version>
       <version>3.13.5</version>
+      <version>3.13.6</version>
       <version>4.12.0</version>
       <version>4.12.1</version>
       <version>4.12.2</version>
@@ -24,6 +25,7 @@
       <version>4.13.3</version>
       <version>4.13.4</version>
       <version>4.13.5</version>
+      <version>4.13.6</version>
       <version>5.4.0</version>
       <version>5.4.1</version>
       <version>5.4.2</version>
@@ -33,7 +35,8 @@
       <version>5.5.3</version>
       <version>5.5.4</version>
       <version>5.5.5</version>
+      <version>5.5.6</version>
     </versions>
-    <lastUpdated>20191201075942</lastUpdated>
+    <lastUpdated>20191213225631</lastUpdated>
   </versioning>
 </metadata>

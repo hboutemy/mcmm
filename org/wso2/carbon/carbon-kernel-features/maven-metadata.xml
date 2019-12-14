@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon</groupId>
   <artifactId>carbon-kernel-features</artifactId>
   <versioning>
-    <latest>5.2.11</latest>
-    <release>5.2.11</release>
+    <latest>5.2.12</latest>
+    <release>5.2.12</release>
     <versions>
       <version>4.3.0</version>
       <version>4.4.0</version>
@@ -49,6 +49,7 @@
       <version>4.4.39</version>
       <version>4.4.40</version>
       <version>4.5.1</version>
+      <version>4.6.0-alpha</version>
       <version>5.0.0-alpha</version>
       <version>5.0.0-beta</version>
       <version>5.0.0-m4</version>
@@ -80,6 +81,6 @@
       <version>5.2.7</version>
       <version>5.2.8</version>
     </versions>
-    <lastUpdated>20190925121756</lastUpdated>
+    <lastUpdated>20191213075616</lastUpdated>
   </versioning>
 </metadata>
