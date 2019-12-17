@@ -3,13 +3,14 @@
   <groupId>org.jgroups.quarkus.extension</groupId>
   <artifactId>quarkus-jgroups-parent</artifactId>
   <versioning>
-    <latest>0.21.2</latest>
-    <release>0.21.2</release>
+    <latest>1.0.1.Final</latest>
+    <release>1.0.1.Final</release>
     <versions>
       <version>0.18.0</version>
       <version>0.20.0</version>
       <version>0.21.2</version>
+      <version>1.0.1.Final</version>
     </versions>
-    <lastUpdated>20190910100343</lastUpdated>
+    <lastUpdated>20191216083443</lastUpdated>
   </versioning>
 </metadata>

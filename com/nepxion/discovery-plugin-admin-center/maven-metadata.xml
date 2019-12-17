@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-admin-center</artifactId>
   <versioning>
-    <latest>5.5.6</latest>
-    <release>5.5.6</release>
+    <latest>5.5.7</latest>
+    <release>5.5.7</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -172,6 +172,7 @@
       <version>3.13.4</version>
       <version>3.13.5</version>
       <version>3.13.6</version>
+      <version>3.13.7</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -294,6 +295,7 @@
       <version>4.13.4</version>
       <version>4.13.5</version>
       <version>4.13.6</version>
+      <version>4.13.7</version>
       <version>5.0.0</version>
       <version>5.0.0.1</version>
       <version>5.0.0.2</version>
@@ -337,7 +339,8 @@
       <version>5.5.4</version>
       <version>5.5.5</version>
       <version>5.5.6</version>
+      <version>5.5.7</version>
     </versions>
-    <lastUpdated>20191213225606</lastUpdated>
+    <lastUpdated>20191216131251</lastUpdated>
   </versioning>
 </metadata>
