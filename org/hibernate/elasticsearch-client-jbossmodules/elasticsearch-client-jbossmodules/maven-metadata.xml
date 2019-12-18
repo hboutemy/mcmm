@@ -3,8 +3,8 @@
   <groupId>org.hibernate.elasticsearch-client-jbossmodules</groupId>
   <artifactId>elasticsearch-client-jbossmodules</artifactId>
   <versioning>
-    <latest>5.6.8.hibernate02</latest>
-    <release>5.6.8.hibernate02</release>
+    <latest>5.6.16.hibernate01</latest>
+    <release>5.6.16.hibernate01</release>
     <versions>
       <version>5.6.4.hibernate01</version>
       <version>5.6.4.hibernate02</version>
@@ -13,7 +13,8 @@
       <version>5.6.7.hibernate01</version>
       <version>5.6.8.hibernate01</version>
       <version>5.6.8.hibernate02</version>
+      <version>5.6.16.hibernate01</version>
     </versions>
-    <lastUpdated>20190509093447</lastUpdated>
+    <lastUpdated>20191217171713</lastUpdated>
   </versioning>
 </metadata>

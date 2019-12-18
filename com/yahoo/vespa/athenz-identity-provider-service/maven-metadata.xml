@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>athenz-identity-provider-service</artifactId>
   <versioning>
-    <latest>7.145.41</latest>
-    <release>7.145.41</release>
+    <latest>7.147.12</latest>
+    <release>7.147.12</release>
     <versions>
       <version>6.163.28</version>
       <version>6.164.88</version>
@@ -214,7 +214,8 @@
       <version>7.143.13</version>
       <version>7.144.5</version>
       <version>7.145.41</version>
+      <version>7.147.12</version>
     </versions>
-    <lastUpdated>20191126084432</lastUpdated>
+    <lastUpdated>20191217102735</lastUpdated>
   </versioning>
 </metadata>

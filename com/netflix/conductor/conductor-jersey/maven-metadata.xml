@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-jersey</artifactId>
   <versioning>
-    <latest>2.22.4</latest>
-    <release>2.22.4</release>
+    <latest>2.22.5-alpha</latest>
+    <release>2.22.5-alpha</release>
     <versions>
       <version>0.0.4</version>
       <version>1.5.0</version>
@@ -217,7 +217,8 @@
       <version>2.22.2</version>
       <version>2.22.3</version>
       <version>2.22.4</version>
+      <version>2.22.5-alpha</version>
     </versions>
-    <lastUpdated>20191211194914</lastUpdated>
+    <lastUpdated>20191217021241</lastUpdated>
   </versioning>
 </metadata>
