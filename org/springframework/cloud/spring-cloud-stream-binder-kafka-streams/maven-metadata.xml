@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-binder-kafka-streams</artifactId>
   <versioning>
-    <latest>3.0.0.RELEASE</latest>
-    <release>3.0.0.RELEASE</release>
+    <latest>3.0.1.RELEASE</latest>
+    <release>3.0.1.RELEASE</release>
     <versions>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
@@ -18,7 +18,8 @@
       <version>2.2.0.RELEASE</version>
       <version>2.2.1.RELEASE</version>
       <version>3.0.0.RELEASE</version>
+      <version>3.0.1.RELEASE</version>
     </versions>
-    <lastUpdated>20191122154432</lastUpdated>
+    <lastUpdated>20191218185351</lastUpdated>
   </versioning>
 </metadata>

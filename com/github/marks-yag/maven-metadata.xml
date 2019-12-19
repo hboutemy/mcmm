@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Config Maven Plugin</name>
+      <prefix>config</prefix>
+      <artifactId>config-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>punner</name>
       <prefix>punner</prefix>
       <artifactId>punner</artifactId>
