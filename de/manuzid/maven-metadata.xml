@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Static Code Review Plugin</name>
+      <prefix>static-code-review</prefix>
+      <artifactId>static-code-review-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.websocket</groupId>
   <artifactId>javax-websocket-client-impl</artifactId>
   <versioning>
-    <latest>9.4.24.v20191120</latest>
-    <release>9.4.24.v20191120</release>
+    <latest>9.4.25.v20191220</latest>
+    <release>9.4.25.v20191220</release>
     <versions>
       <version>9.1.0.M0</version>
       <version>9.1.0.RC0</version>
@@ -144,7 +144,8 @@
       <version>9.4.22.v20191022</version>
       <version>9.4.23.v20191118</version>
       <version>9.4.24.v20191120</version>
+      <version>9.4.25.v20191220</version>
     </versions>
-    <lastUpdated>20191121144056</lastUpdated>
+    <lastUpdated>20191223090836</lastUpdated>
   </versioning>
 </metadata>

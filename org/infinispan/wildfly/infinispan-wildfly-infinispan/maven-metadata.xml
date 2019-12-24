@@ -3,15 +3,16 @@
   <groupId>org.infinispan.wildfly</groupId>
   <artifactId>infinispan-wildfly-infinispan</artifactId>
   <versioning>
-    <latest>10.1.0.CR1</latest>
-    <release>10.1.0.CR1</release>
+    <latest>10.1.0.Final</latest>
+    <release>10.1.0.Final</release>
     <versions>
       <version>10.0.0.CR3</version>
       <version>10.0.0.Final</version>
       <version>10.0.1.Final</version>
       <version>10.1.0.Beta1</version>
       <version>10.1.0.CR1</version>
+      <version>10.1.0.Final</version>
     </versions>
-    <lastUpdated>20191208135824</lastUpdated>
+    <lastUpdated>20191223090208</lastUpdated>
   </versioning>
 </metadata>

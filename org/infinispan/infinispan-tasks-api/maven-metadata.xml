@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-tasks-api</artifactId>
   <versioning>
-    <latest>10.1.0.CR1</latest>
-    <release>10.1.0.CR1</release>
+    <latest>10.1.0.Final</latest>
+    <release>10.1.0.Final</release>
     <versions>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -105,7 +105,8 @@
       <version>10.0.1.Final</version>
       <version>10.1.0.Beta1</version>
       <version>10.1.0.CR1</version>
+      <version>10.1.0.Final</version>
     </versions>
-    <lastUpdated>20191208192323</lastUpdated>
+    <lastUpdated>20191223090204</lastUpdated>
   </versioning>
 </metadata>
