@@ -3,8 +3,8 @@
   <groupId>org.spf4j</groupId>
   <artifactId>spf4j-config-discovery-maven-plugin</artifactId>
   <versioning>
-    <latest>8.6.30</latest>
-    <release>8.6.30</release>
+    <latest>8.6.32</latest>
+    <release>8.6.32</release>
     <versions>
       <version>8.1.0</version>
       <version>8.1.1</version>
@@ -113,7 +113,9 @@
       <version>8.6.28</version>
       <version>8.6.29</version>
       <version>8.6.30</version>
+      <version>8.6.31</version>
+      <version>8.6.32</version>
     </versions>
-    <lastUpdated>20191222191211</lastUpdated>
+    <lastUpdated>20191228140926</lastUpdated>
   </versioning>
 </metadata>

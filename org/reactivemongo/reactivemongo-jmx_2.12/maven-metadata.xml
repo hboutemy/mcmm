@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-jmx_2.12</artifactId>
   <versioning>
-    <latest>0.19.5</latest>
-    <release>0.19.5</release>
+    <latest>0.19.7-noshaded</latest>
+    <release>0.19.7-noshaded</release>
     <versions>
       <version>0.12.1</version>
       <version>0.12.2</version>
@@ -41,7 +41,11 @@
       <version>0.19.3</version>
       <version>0.19.4</version>
       <version>0.19.5</version>
+      <version>0.19.6</version>
+      <version>0.19.6-noshaded</version>
+      <version>0.19.7</version>
+      <version>0.19.7-noshaded</version>
     </versions>
-    <lastUpdated>20191219200029</lastUpdated>
+    <lastUpdated>20191228034330</lastUpdated>
   </versioning>
 </metadata>

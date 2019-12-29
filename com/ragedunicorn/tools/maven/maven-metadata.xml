@@ -11,5 +11,10 @@
       <prefix>sql-execute</prefix>
       <artifactId>sql-execute-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>twitch-release</prefix>
+      <artifactId>twitch-release-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
