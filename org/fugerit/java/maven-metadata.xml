@@ -6,5 +6,10 @@
       <prefix>fj-daogen</prefix>
       <artifactId>fj-daogen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Freemarker Maven Plugin</name>
+      <prefix>freemarker</prefix>
+      <artifactId>freemarker-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
