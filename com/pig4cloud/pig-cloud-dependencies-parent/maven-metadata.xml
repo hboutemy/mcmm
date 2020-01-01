@@ -3,12 +3,13 @@
   <groupId>com.pig4cloud</groupId>
   <artifactId>pig-cloud-dependencies-parent</artifactId>
   <versioning>
-    <latest>Hoxton.RELEASE</latest>
-    <release>Hoxton.RELEASE</release>
+    <latest>Hoxton.SR1</latest>
+    <release>Hoxton.SR1</release>
     <versions>
       <version>Greenwich.RELEASE</version>
       <version>Hoxton.RELEASE</version>
+      <version>Hoxton.SR1</version>
     </versions>
-    <lastUpdated>20191105104202</lastUpdated>
+    <lastUpdated>20191231103041</lastUpdated>
   </versioning>
 </metadata>
