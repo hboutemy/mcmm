@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Find Dependencies Maven Plugin (${project.packaging})</name>
+      <prefix>find-deps</prefix>
+      <artifactId>find-deps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>git-checkout-plugin</name>
       <prefix>git-checkout</prefix>
       <artifactId>git-checkout-plugin</artifactId>
