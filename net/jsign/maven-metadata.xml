@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Jsign - Code signing for Windows executables (Maven Plugin)</name>
+      <name>Jsign - Code signing for Windows executables, Microsoft Installers and scripts (Maven Plugin)</name>
       <prefix>jsign</prefix>
       <artifactId>jsign-maven-plugin</artifactId>
     </plugin>
