@@ -3,12 +3,13 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-jwt</artifactId>
   <versioning>
-    <latest>1.11.0.CR5</latest>
-    <release>1.11.0.CR5</release>
+    <latest>1.11.0.Final</latest>
+    <release>1.11.0.Final</release>
     <versions>
       <version>1.11.0.CR4</version>
       <version>1.11.0.CR5</version>
+      <version>1.11.0.Final</version>
     </versions>
-    <lastUpdated>20200107205928</lastUpdated>
+    <lastUpdated>20200108190804</lastUpdated>
   </versioning>
 </metadata>
