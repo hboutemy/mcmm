@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-apps-newoptical</artifactId>
   <versioning>
-    <latest>2.2.1-b3</latest>
-    <release>2.2.1-b3</release>
+    <latest>2.3.0-rc1</latest>
+    <release>2.3.0-rc1</release>
     <versions>
       <version>1.7.0</version>
       <version>1.7.1</version>
@@ -115,6 +115,7 @@
       <version>2.2.0</version>
       <version>2.2.1-b2</version>
       <version>2.2.1-b3</version>
+      <version>2.3.0-rc1</version>
       <version>1.9.0</version>
       <version>1.9.0-b1</version>
       <version>1.9.0-b1b</version>
@@ -129,6 +130,6 @@
       <version>1.9.1</version>
       <version>1.9.2</version>
     </versions>
-    <lastUpdated>20191118223607</lastUpdated>
+    <lastUpdated>20200109190617</lastUpdated>
   </versioning>
 </metadata>
