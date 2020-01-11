@@ -3,8 +3,8 @@
   <groupId>com.jdcloud.jdsf</groupId>
   <artifactId>spring-cloud-jdsf-auth</artifactId>
   <versioning>
-    <latest>1.1.1-Hoxton</latest>
-    <release>1.1.1-Hoxton</release>
+    <latest>1.1.2-Hoxton</latest>
+    <release>1.1.2-Hoxton</release>
     <versions>
       <version>1.0.0-Edgware</version>
       <version>1.0.2-Edgware</version>
@@ -14,7 +14,11 @@
       <version>1.1.1-Finchley</version>
       <version>1.1.1-Greenwich</version>
       <version>1.1.1-Hoxton</version>
+      <version>1.1.2-Edgware</version>
+      <version>1.1.2-Finchley</version>
+      <version>1.1.2-Greenwich</version>
+      <version>1.1.2-Hoxton</version>
     </versions>
-    <lastUpdated>20191230034415</lastUpdated>
+    <lastUpdated>20200110075731</lastUpdated>
   </versioning>
 </metadata>

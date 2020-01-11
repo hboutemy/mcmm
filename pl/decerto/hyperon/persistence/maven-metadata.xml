@@ -2,7 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>codegen</prefix>
       <artifactId>codegen-maven-plugin</artifactId>
     </plugin>
