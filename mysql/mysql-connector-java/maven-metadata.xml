@@ -3,8 +3,8 @@
   <groupId>mysql</groupId>
   <artifactId>mysql-connector-java</artifactId>
   <versioning>
-    <latest>8.0.18</latest>
-    <release>8.0.18</release>
+    <latest>8.0.19</latest>
+    <release>8.0.19</release>
     <versions>
       <version>2.0.14</version>
       <version>3.0.8</version>
@@ -79,10 +79,11 @@
       <version>8.0.16</version>
       <version>8.0.17</version>
       <version>8.0.18</version>
+      <version>8.0.19</version>
       <version>8.0.7-dmr</version>
       <version>8.0.8-dmr</version>
       <version>8.0.9-rc</version>
     </versions>
-    <lastUpdated>20191014113548</lastUpdated>
+    <lastUpdated>20200113103040</lastUpdated>
   </versioning>
 </metadata>
