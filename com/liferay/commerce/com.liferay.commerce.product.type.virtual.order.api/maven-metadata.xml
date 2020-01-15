@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.product.type.virtual.order.api</artifactId>
   <versioning>
-    <latest>2.0.6</latest>
+    <latest>2.0.14</latest>
     <release>2.0.14</release>
     <versions>
       <version>1.0.0</version>
@@ -27,6 +27,6 @@
       <version>2.0.13</version>
       <version>2.0.14</version>
     </versions>
-    <lastUpdated>20200110043121</lastUpdated>
+    <lastUpdated>20200114092534</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-cloud-firestore-v1beta1</artifactId>
   <versioning>
-    <latest>0.85.1</latest>
-    <release>0.85.1</release>
+    <latest>0.85.2</latest>
+    <release>0.85.2</release>
     <versions>
       <version>0.1.20</version>
       <version>0.1.21</version>
@@ -102,7 +102,8 @@
       <version>0.84.0</version>
       <version>0.85.0</version>
       <version>0.85.1</version>
+      <version>0.85.2</version>
     </versions>
-    <lastUpdated>20200102221316</lastUpdated>
+    <lastUpdated>20200114212909</lastUpdated>
   </versioning>
 </metadata>

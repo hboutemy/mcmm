@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.headless.commerce.admin.account.api</artifactId>
   <versioning>
-    <latest>1.0.2</latest>
+    <latest>4.0.2</latest>
     <release>4.0.2</release>
     <versions>
       <version>1.0.0</version>
@@ -18,6 +18,6 @@
       <version>4.0.1</version>
       <version>4.0.2</version>
     </versions>
-    <lastUpdated>20191220215505</lastUpdated>
+    <lastUpdated>20200114052444</lastUpdated>
   </versioning>
 </metadata>

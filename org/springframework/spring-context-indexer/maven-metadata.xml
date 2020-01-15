@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-context-indexer</artifactId>
   <versioning>
-    <latest>5.2.2.RELEASE</latest>
-    <release>5.2.2.RELEASE</release>
+    <latest>5.2.3.RELEASE</latest>
+    <release>5.2.3.RELEASE</release>
     <versions>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
@@ -22,6 +22,7 @@
       <version>5.0.13.RELEASE</version>
       <version>5.0.14.RELEASE</version>
       <version>5.0.15.RELEASE</version>
+      <version>5.0.16.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -35,10 +36,12 @@
       <version>5.1.10.RELEASE</version>
       <version>5.1.11.RELEASE</version>
       <version>5.1.12.RELEASE</version>
+      <version>5.1.13.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
+      <version>5.2.3.RELEASE</version>
     </versions>
-    <lastUpdated>20191203102248</lastUpdated>
+    <lastUpdated>20200114105559</lastUpdated>
   </versioning>
 </metadata>

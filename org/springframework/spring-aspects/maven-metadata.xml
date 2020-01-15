@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-aspects</artifactId>
   <versioning>
-    <latest>5.2.2.RELEASE</latest>
-    <release>5.2.2.RELEASE</release>
+    <latest>5.2.3.RELEASE</latest>
+    <release>5.2.3.RELEASE</release>
     <versions>
       <version>2.0-m1</version>
       <version>2.0-m2</version>
@@ -115,6 +115,7 @@
       <version>4.3.23.RELEASE</version>
       <version>4.3.24.RELEASE</version>
       <version>4.3.25.RELEASE</version>
+      <version>4.3.26.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -131,6 +132,7 @@
       <version>5.0.13.RELEASE</version>
       <version>5.0.14.RELEASE</version>
       <version>5.0.15.RELEASE</version>
+      <version>5.0.16.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -144,15 +146,17 @@
       <version>5.1.10.RELEASE</version>
       <version>5.1.11.RELEASE</version>
       <version>5.1.12.RELEASE</version>
+      <version>5.1.13.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
+      <version>5.2.3.RELEASE</version>
       <version>2.0-m3</version>
       <version>2.0-m4</version>
       <version>2.0-m5</version>
       <version>2.0-rc1</version>
       <version>2.0-rc2</version>
     </versions>
-    <lastUpdated>20191203102243</lastUpdated>
+    <lastUpdated>20200114113910</lastUpdated>
   </versioning>
 </metadata>

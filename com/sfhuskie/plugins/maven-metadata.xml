@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>githooks-maven-plugin</name>
+      <prefix>githooks</prefix>
+      <artifactId>githooks-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>tabspace-formatter-maven-plugin</name>
       <prefix>tabspace-formatter</prefix>
       <artifactId>tabspace-formatter-maven-plugin</artifactId>
