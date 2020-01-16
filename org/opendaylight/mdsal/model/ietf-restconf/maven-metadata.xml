@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.model</groupId>
   <artifactId>ietf-restconf</artifactId>
   <versioning>
-    <latest>2013.10.19.16.8</latest>
-    <release>2013.10.19.16.8</release>
+    <latest>2013.10.19.16.9</latest>
+    <release>2013.10.19.16.9</release>
     <versions>
       <version>2013.10.19.8-Beryllium</version>
       <version>2013.10.19.8.1-Beryllium-SR1</version>
@@ -49,6 +49,7 @@
       <version>2013.10.19.15.12</version>
       <version>2013.10.19.15.13</version>
       <version>2013.10.19.15.14</version>
+      <version>2013.10.19.15.15</version>
       <version>2013.10.19.16.0</version>
       <version>2013.10.19.16.1</version>
       <version>2013.10.19.16.2</version>
@@ -58,7 +59,8 @@
       <version>2013.10.19.16.6</version>
       <version>2013.10.19.16.7</version>
       <version>2013.10.19.16.8</version>
+      <version>2013.10.19.16.9</version>
     </versions>
-    <lastUpdated>20200102143124</lastUpdated>
+    <lastUpdated>20200115121407</lastUpdated>
   </versioning>
 </metadata>
