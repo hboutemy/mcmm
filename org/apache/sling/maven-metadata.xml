@@ -51,6 +51,11 @@
       <artifactId>scriptingbundle-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Sling Feature Model Converter Plugin</name>
+      <prefix>sling-feature-converter</prefix>
+      <artifactId>sling-feature-converter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Sling Maven Plugin</name>
       <prefix>sling</prefix>
       <artifactId>sling-maven-plugin</artifactId>

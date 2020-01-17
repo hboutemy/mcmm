@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Certificate Plugin</name>
+      <prefix>certificate</prefix>
+      <artifactId>certificate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>freemarker</prefix>
       <artifactId>freemarker-maven-plugin</artifactId>

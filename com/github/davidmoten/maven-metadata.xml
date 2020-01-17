@@ -10,6 +10,11 @@
       <artifactId>decrypt-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>git-properties</prefix>
+      <artifactId>git-properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>jax</prefix>
       <artifactId>jax-maven-plugin</artifactId>
     </plugin>

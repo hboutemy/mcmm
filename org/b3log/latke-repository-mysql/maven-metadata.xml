@@ -3,8 +3,8 @@
   <groupId>org.b3log</groupId>
   <artifactId>latke-repository-mysql</artifactId>
   <versioning>
-    <latest>3.1.1</latest>
-    <release>3.1.1</release>
+    <latest>3.2.0</latest>
+    <release>3.2.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.4</version>
@@ -167,8 +167,12 @@
       <version>3.0.22</version>
       <version>3.1.0</version>
       <version>3.1.1</version>
+      <version>3.1.2</version>
+      <version>3.1.3</version>
+      <version>3.1.4</version>
+      <version>3.2.0</version>
       <version>1.3.1</version>
     </versions>
-    <lastUpdated>20200115101602</lastUpdated>
+    <lastUpdated>20200116131056</lastUpdated>
   </versioning>
 </metadata>
