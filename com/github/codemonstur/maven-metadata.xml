@@ -16,5 +16,10 @@
       <prefix>jooq-preprocessor</prefix>
       <artifactId>jooq-preprocessor</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>slate4j</prefix>
+      <artifactId>slate4j</artifactId>
+    </plugin>
   </plugins>
 </metadata>

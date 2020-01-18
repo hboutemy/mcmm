@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.model</groupId>
   <artifactId>ietf-type-util</artifactId>
   <versioning>
-    <latest>4.0.8</latest>
-    <release>4.0.8</release>
+    <latest>4.0.9</latest>
+    <release>4.0.9</release>
     <versions>
       <version>0.8.1-Beryllium-SR1</version>
       <version>0.8.2-Beryllium-SR2</version>
@@ -61,6 +61,7 @@
       <version>3.0.8</version>
       <version>3.0.9</version>
       <version>3.0.10</version>
+      <version>3.0.11</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -70,7 +71,8 @@
       <version>4.0.6</version>
       <version>4.0.7</version>
       <version>4.0.8</version>
+      <version>4.0.9</version>
     </versions>
-    <lastUpdated>20200116201150</lastUpdated>
+    <lastUpdated>20200117132823</lastUpdated>
   </versioning>
 </metadata>

@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven CDoc Plugin</name>
+      <name>CDoc Maven Plugin</name>
       <prefix>cdoc</prefix>
       <artifactId>cdoc-maven-plugin</artifactId>
     </plugin>

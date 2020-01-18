@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-runtime</artifactId>
   <versioning>
-    <latest>10.1.0.Final</latest>
-    <release>10.1.0.Final</release>
+    <latest>10.1.1.Final</latest>
+    <release>10.1.1.Final</release>
     <versions>
       <version>10.0.0.Beta3</version>
       <version>10.0.0.Beta4</version>
@@ -17,7 +17,8 @@
       <version>10.1.0.Beta1</version>
       <version>10.1.0.CR1</version>
       <version>10.1.0.Final</version>
+      <version>10.1.1.Final</version>
     </versions>
-    <lastUpdated>20191223090202</lastUpdated>
+    <lastUpdated>20200117171041</lastUpdated>
   </versioning>
 </metadata>

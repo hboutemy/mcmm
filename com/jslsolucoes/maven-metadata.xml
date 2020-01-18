@@ -6,6 +6,10 @@
       <artifactId>db-migrate-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>resource</prefix>
+      <artifactId>maven-plugin-resource</artifactId>
+    </plugin>
+    <plugin>
       <prefix>replaceregexp</prefix>
       <artifactId>replaceregexp-maven-plugin</artifactId>
     </plugin>

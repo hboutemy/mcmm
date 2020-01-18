@@ -2,12 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>ccl-maven-plugin Maven Mojo</name>
+      <name>CCL Maven Plugin</name>
       <prefix>ccl</prefix>
       <artifactId>ccl-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>cerreal-maven-plugin Maven Mojo</name>
+      <name>Cerreal Maven Plugin</name>
       <prefix>cerreal</prefix>
       <artifactId>cerreal-maven-plugin</artifactId>
     </plugin>

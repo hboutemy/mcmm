@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>integrationtests-osgi</artifactId>
   <versioning>
-    <latest>10.1.0.Final</latest>
-    <release>10.1.0.Final</release>
+    <latest>10.1.1.Final</latest>
+    <release>10.1.1.Final</release>
     <versions>
       <version>7.0.0.Alpha4</version>
       <version>7.0.0.Alpha5</version>
@@ -158,7 +158,8 @@
       <version>10.1.0.Beta1</version>
       <version>10.1.0.CR1</version>
       <version>10.1.0.Final</version>
+      <version>10.1.1.Final</version>
     </versions>
-    <lastUpdated>20200109110955</lastUpdated>
+    <lastUpdated>20200117171045</lastUpdated>
   </versioning>
 </metadata>

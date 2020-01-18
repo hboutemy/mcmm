@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven Whitenoise Plugin</name>
+      <name>Whitenoise Maven Plugin</name>
       <prefix>whitenoise</prefix>
       <artifactId>whitenoise-maven-plugin</artifactId>
     </plugin>

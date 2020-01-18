@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-clustered-counter</artifactId>
   <versioning>
-    <latest>10.1.0.Final</latest>
-    <release>10.1.0.Final</release>
+    <latest>10.1.1.Final</latest>
+    <release>10.1.1.Final</release>
     <versions>
       <version>9.0.2.Final</version>
       <version>9.1.0.Alpha1</version>
@@ -81,7 +81,8 @@
       <version>10.1.0.Beta1</version>
       <version>10.1.0.CR1</version>
       <version>10.1.0.Final</version>
+      <version>10.1.1.Final</version>
     </versions>
-    <lastUpdated>20200109110901</lastUpdated>
+    <lastUpdated>20200117171015</lastUpdated>
   </versioning>
 </metadata>
