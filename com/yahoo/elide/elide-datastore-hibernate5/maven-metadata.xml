@@ -3,8 +3,8 @@
   <groupId>com.yahoo.elide</groupId>
   <artifactId>elide-datastore-hibernate5</artifactId>
   <versioning>
-    <latest>4.5.9</latest>
-    <release>4.5.9</release>
+    <latest>4.5.12</latest>
+    <release>4.5.12</release>
     <versions>
       <version>1.0.0.6</version>
       <version>1.0.0.7</version>
@@ -139,7 +139,8 @@
       <version>4.5.7</version>
       <version>4.5.8</version>
       <version>4.5.9</version>
+      <version>4.5.12</version>
     </versions>
-    <lastUpdated>20191219170908</lastUpdated>
+    <lastUpdated>20200118032221</lastUpdated>
   </versioning>
 </metadata>

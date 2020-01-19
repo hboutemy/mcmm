@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-bson-msb-compat_2.12</artifactId>
   <versioning>
-    <latest>0.20.1-noshaded</latest>
-    <release>0.20.1-noshaded</release>
+    <latest>0.20.2-noshaded</latest>
+    <release>0.20.2-noshaded</release>
     <versions>
       <version>0.18.0</version>
       <version>0.18.4</version>
@@ -24,7 +24,9 @@
       <version>0.20.0-noshaded</version>
       <version>0.20.1</version>
       <version>0.20.1-noshaded</version>
+      <version>0.20.2</version>
+      <version>0.20.2-noshaded</version>
     </versions>
-    <lastUpdated>20200109161543</lastUpdated>
+    <lastUpdated>20200118213245</lastUpdated>
   </versioning>
 </metadata>

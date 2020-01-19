@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Zip Maven Plugin</name>
+      <prefix>zip</prefix>
+      <artifactId>zip-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
