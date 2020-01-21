@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che</groupId>
   <artifactId>assembly-root-war</artifactId>
   <versioning>
-    <latest>7.7.1</latest>
-    <release>7.7.1</release>
+    <latest>7.7.1b</latest>
+    <release>7.7.1b</release>
     <versions>
       <version>7.0.0-rc-4.0</version>
       <version>7.0.0</version>
@@ -20,7 +20,8 @@
       <version>7.6.0</version>
       <version>7.7.0</version>
       <version>7.7.1</version>
+      <version>7.7.1b</version>
     </versions>
-    <lastUpdated>20200117133322</lastUpdated>
+    <lastUpdated>20200120093254</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-parent</artifactId>
   <versioning>
-    <latest>7.7.1</latest>
-    <release>7.7.1</release>
+    <latest>7.7.1b</latest>
+    <release>7.7.1b</release>
     <versions>
       <version>6.10.0</version>
       <version>6.11.0</version>
@@ -54,7 +54,8 @@
       <version>7.6.0</version>
       <version>7.7.0</version>
       <version>7.7.1</version>
+      <version>7.7.1b</version>
     </versions>
-    <lastUpdated>20200117133513</lastUpdated>
+    <lastUpdated>20200120093502</lastUpdated>
   </versioning>
 </metadata>

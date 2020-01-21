@@ -3,14 +3,15 @@
   <groupId>org.infrastructurebuilder.maven</groupId>
   <artifactId>ibversions-maven-plugin</artifactId>
   <versioning>
-    <latest>0.13.0</latest>
-    <release>0.13.0</release>
+    <latest>0.14.0</latest>
+    <release>0.14.0</release>
     <versions>
       <version>0.9.0</version>
       <version>0.11.0</version>
       <version>0.12.0</version>
       <version>0.13.0</version>
+      <version>0.14.0</version>
     </versions>
-    <lastUpdated>20191219123525</lastUpdated>
+    <lastUpdated>20200120143203</lastUpdated>
   </versioning>
 </metadata>

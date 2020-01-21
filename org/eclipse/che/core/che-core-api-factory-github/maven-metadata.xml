@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-api-factory-github</artifactId>
   <versioning>
-    <latest>7.7.1</latest>
-    <release>7.7.1</release>
+    <latest>7.7.1b</latest>
+    <release>7.7.1b</release>
     <versions>
       <version>7.0.0-beta-3.0</version>
       <version>7.0.0-beta-4.0</version>
@@ -27,7 +27,8 @@
       <version>7.6.0</version>
       <version>7.7.0</version>
       <version>7.7.1</version>
+      <version>7.7.1b</version>
     </versions>
-    <lastUpdated>20200117133407</lastUpdated>
+    <lastUpdated>20200120093343</lastUpdated>
   </versioning>
 </metadata>

@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Target Platform Validation Plugin</name>
+      <name>Tycho Target Platform Validation Plugin</name>
       <prefix>target-platform-validation</prefix>
       <artifactId>target-platform-validation-plugin</artifactId>
     </plugin>
@@ -12,6 +12,7 @@
       <artifactId>target-platform-validation-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Custom Bundle Plugin</name>
       <prefix>tycho-custom-bundle</prefix>
       <artifactId>tycho-custom-bundle-plugin</artifactId>
     </plugin>
@@ -26,7 +27,7 @@
       <artifactId>tycho-document-bundle-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Eclipserun Plugin</name>
+      <name>Tycho Eclipserun Plugin</name>
       <prefix>tycho-eclipserun</prefix>
       <artifactId>tycho-eclipserun-plugin</artifactId>
     </plugin>
@@ -41,7 +42,7 @@
       <artifactId>tycho-emma-coverage-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>p2 Extras Plugin</name>
+      <name>Tycho p2 Extras Plugin</name>
       <prefix>tycho-p2-extras</prefix>
       <artifactId>tycho-p2-extras-plugin</artifactId>
     </plugin>
@@ -51,7 +52,7 @@
       <artifactId>tycho-p2-extras-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Pack200 Normalization Plugin</name>
+      <name>Tycho Pack200 Normalization Plugin</name>
       <prefix>tycho-pack200a</prefix>
       <artifactId>tycho-pack200a-plugin</artifactId>
     </plugin>
@@ -61,7 +62,7 @@
       <artifactId>tycho-pack200a-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Pack200 Pack Plugin</name>
+      <name>Tycho Pack200 Pack Plugin</name>
       <prefix>tycho-pack200b</prefix>
       <artifactId>tycho-pack200b-plugin</artifactId>
     </plugin>
@@ -71,7 +72,7 @@
       <artifactId>tycho-pack200b-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Source Feature Generation Plugin</name>
+      <name>Tycho Source Feature Generation Plugin</name>
       <prefix>tycho-source-feature</prefix>
       <artifactId>tycho-source-feature-plugin</artifactId>
     </plugin>
