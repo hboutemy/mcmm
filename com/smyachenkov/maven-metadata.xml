@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>run-detekt maven plugin</name>
+      <prefix>run-detekt</prefix>
+      <artifactId>run-detekt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

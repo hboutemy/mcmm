@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>spark-hpcc</artifactId>
   <versioning>
-    <latest>7.6.18</latest>
-    <release>7.6.18</release>
+    <latest>7.6.20</latest>
+    <release>7.6.20</release>
     <versions>
       <version>7.0.0-beta-1</version>
       <version>7.0.0-rc1</version>
@@ -60,13 +60,15 @@
       <version>7.4.32</version>
       <version>7.4.34</version>
       <version>7.4.42</version>
+      <version>7.4.44</version>
       <version>7.6.0</version>
       <version>7.6.2</version>
       <version>7.6.4</version>
       <version>7.6.8</version>
       <version>7.6.10</version>
       <version>7.6.18</version>
+      <version>7.6.20</version>
     </versions>
-    <lastUpdated>20200115190235</lastUpdated>
+    <lastUpdated>20200122171929</lastUpdated>
   </versioning>
 </metadata>
