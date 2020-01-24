@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-vault-parent</artifactId>
   <versioning>
-    <latest>1.2.0.CR1</latest>
-    <release>1.2.0.CR1</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>0.26.0</version>
       <version>0.26.1</version>
@@ -19,7 +19,8 @@
       <version>1.1.0.Final</version>
       <version>1.1.1.Final</version>
       <version>1.2.0.CR1</version>
+      <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20200121100043</lastUpdated>
+    <lastUpdated>20200123091808</lastUpdated>
   </versioning>
 </metadata>

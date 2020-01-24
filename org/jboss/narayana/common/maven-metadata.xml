@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <latest>5.10.1.Final</latest>
-    <release>5.10.1.Final</release>
+    <latest>5.10.3.Final</latest>
+    <release>5.10.3.Final</release>
     <versions>
       <version>foo1</version>
       <version>foo2</version>
@@ -99,7 +99,8 @@
       <version>5.9.8.Final</version>
       <version>5.10.0.Final</version>
       <version>5.10.1.Final</version>
+      <version>5.10.3.Final</version>
     </versions>
-    <lastUpdated>20191204122417</lastUpdated>
+    <lastUpdated>20200123151700</lastUpdated>
   </versioning>
 </metadata>

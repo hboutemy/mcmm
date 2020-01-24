@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>pl.beone.promena.maven.plugin:promena-docker-maven-plugin</name>
+      <prefix>promena-docker</prefix>
+      <artifactId>promena-docker-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
