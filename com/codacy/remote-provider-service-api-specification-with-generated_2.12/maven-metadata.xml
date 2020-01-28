@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>remote-provider-service-api-specification-with-generated_2.12</artifactId>
   <versioning>
-    <latest>2.45.1_akka25Circe08</latest>
-    <release>2.45.1_akka25Circe08</release>
+    <latest>2.46.1_Map(circe -> 0.8.0, cats -> 0.9.0, akka-http -> 10.1.11, akka-actors -> 2.5.27)</latest>
+    <release>2.46.1_Map(circe -> 0.8.0, cats -> 0.9.0, akka-http -> 10.1.11, akka-actors -> 2.5.27)</release>
     <versions>
       <version>0.11.2</version>
       <version>0.11.3</version>
@@ -50,6 +50,6 @@
       <version>2.45.1_akka25Circe08</version>
       <version>0.22.0-SNAPSHOT.d1c8191+akka25Circe011</version>
     </versions>
-    <lastUpdated>20200123101307</lastUpdated>
+    <lastUpdated>20200127181214</lastUpdated>
   </versioning>
 </metadata>

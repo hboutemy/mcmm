@@ -11,5 +11,10 @@
       <prefix>sitegen</prefix>
       <artifactId>sitegen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Helidon SnakeYAML Helper Code Generator</name>
+      <prefix>snakeyaml-codegen</prefix>
+      <artifactId>snakeyaml-codegen-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
