@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${artifactId}</name>
+      <prefix>semantic-gitlog</prefix>
+      <artifactId>maven-semantic-gitlog</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
