@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-environment-api</artifactId>
   <versioning>
-    <latest>12.0-rc-1</latest>
-    <release>12.0-rc-1</release>
+    <latest>12.0</latest>
+    <release>12.0</release>
     <versions>
       <version>3.5-milestone-1</version>
       <version>3.5</version>
@@ -275,9 +275,10 @@
       <version>11.10.1</version>
       <version>11.10.2</version>
       <version>12.0-rc-1</version>
+      <version>12.0</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20200128141123</lastUpdated>
+    <lastUpdated>20200129103121</lastUpdated>
   </versioning>
 </metadata>

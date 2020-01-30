@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${artifactId}</name>
+      <name>maven-semantic-gitlog</name>
       <prefix>semantic-gitlog</prefix>
       <artifactId>maven-semantic-gitlog</artifactId>
     </plugin>
