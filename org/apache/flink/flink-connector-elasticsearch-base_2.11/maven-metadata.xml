@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-connector-elasticsearch-base_2.11</artifactId>
   <versioning>
-    <latest>1.9.1</latest>
-    <release>1.9.1</release>
+    <latest>1.9.2</latest>
+    <release>1.9.2</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -34,7 +34,8 @@
       <version>1.8.3</version>
       <version>1.9.0</version>
       <version>1.9.1</version>
+      <version>1.9.2</version>
     </versions>
-    <lastUpdated>20191211023807</lastUpdated>
+    <lastUpdated>20200130054005</lastUpdated>
   </versioning>
 </metadata>

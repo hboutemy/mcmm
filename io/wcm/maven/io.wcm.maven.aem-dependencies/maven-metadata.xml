@@ -3,8 +3,8 @@
   <groupId>io.wcm.maven</groupId>
   <artifactId>io.wcm.maven.aem-dependencies</artifactId>
   <versioning>
-    <latest>6.5.3.0000</latest>
-    <release>6.5.3.0000</release>
+    <latest>6.5.3.0001</latest>
+    <release>6.5.3.0001</release>
     <versions>
       <version>5.5.0.0000</version>
       <version>6.0.0.0000</version>
@@ -31,10 +31,12 @@
       <version>6.4.6.0000</version>
       <version>6.4.7.0000</version>
       <version>6.5.0.0000</version>
+      <version>6.5.0.0001</version>
       <version>6.5.1.0000</version>
       <version>6.5.2.0000</version>
       <version>6.5.3.0000</version>
+      <version>6.5.3.0001</version>
     </versions>
-    <lastUpdated>20191216204128</lastUpdated>
+    <lastUpdated>20200130101415</lastUpdated>
   </versioning>
 </metadata>
