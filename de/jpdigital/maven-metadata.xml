@@ -36,5 +36,10 @@
       <prefix>hibernate54-ddl</prefix>
       <artifactId>hibernate54-ddl-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven plugin for OWLAPI Simplex</name>
+      <prefix>owlapi-simplex</prefix>
+      <artifactId>owlapi-simplex-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
