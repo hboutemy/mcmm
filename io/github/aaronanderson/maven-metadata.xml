@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Plugin for Workday WSDL JAX-WS Import</name>
+      <prefix>wdjws</prefix>
+      <artifactId>wdjws-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
