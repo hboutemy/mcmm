@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Artifacts Attach Maven Plugin</name>
+      <prefix>artifacts-attach</prefix>
+      <artifactId>artifacts-attach</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

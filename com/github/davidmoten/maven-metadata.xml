@@ -20,6 +20,11 @@
     </plugin>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>odata-client</prefix>
+      <artifactId>odata-client-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>state-machine</prefix>
       <artifactId>state-machine-maven-plugin</artifactId>
     </plugin>
