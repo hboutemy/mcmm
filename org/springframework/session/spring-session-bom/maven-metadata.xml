@@ -3,8 +3,8 @@
   <groupId>org.springframework.session</groupId>
   <artifactId>spring-session-bom</artifactId>
   <versioning>
-    <latest>Corn-RELEASE</latest>
-    <release>Corn-RELEASE</release>
+    <latest>Corn-SR1</latest>
+    <release>Corn-SR1</release>
     <versions>
       <version>Apple-RELEASE</version>
       <version>Apple-SR1</version>
@@ -25,8 +25,10 @@
       <version>Bean-SR6</version>
       <version>Bean-SR7</version>
       <version>Bean-SR8</version>
+      <version>Bean-SR9</version>
       <version>Corn-RELEASE</version>
+      <version>Corn-SR1</version>
     </versions>
-    <lastUpdated>20191016131037</lastUpdated>
+    <lastUpdated>20200204135455</lastUpdated>
   </versioning>
 </metadata>
