@@ -3,8 +3,8 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>scala-compiler</artifactId>
   <versioning>
-    <latest>0.23.0-bin-20200203-2ced64f-NIGHTLY</latest>
-    <release>0.23.0-bin-20200203-2ced64f-NIGHTLY</release>
+    <latest>0.23.0-bin-20200204-46aec62-NIGHTLY</latest>
+    <release>0.23.0-bin-20200204-46aec62-NIGHTLY</release>
     <versions>
       <version>0.1.1-bin-20170424-40d405b-NIGHTLY</version>
       <version>0.1.1-bin-20170425-f1c3529-NIGHTLY</version>
@@ -823,6 +823,7 @@
       <version>0.21.0-bin-20191215-2d2d3c0-NIGHTLY</version>
       <version>0.21.0-bin-20191216-2828fcf-NIGHTLY</version>
       <version>0.21.0-bin-20191217-fa9a48e-NIGHTLY</version>
+      <version>0.22.0-RC1</version>
       <version>0.22.0-bin-20191218-35fbb34-NIGHTLY</version>
       <version>0.22.0-bin-20191219-394217e-NIGHTLY</version>
       <version>0.22.0-bin-20191220-d45fea0-NIGHTLY</version>
@@ -853,7 +854,8 @@
       <version>0.22.0-bin-20200201-c4c847f-NIGHTLY</version>
       <version>0.22.0-bin-20200202-c2478a3-NIGHTLY</version>
       <version>0.23.0-bin-20200203-2ced64f-NIGHTLY</version>
+      <version>0.23.0-bin-20200204-46aec62-NIGHTLY</version>
     </versions>
-    <lastUpdated>20200204025855</lastUpdated>
+    <lastUpdated>20200205025246</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-oauth2-jose</artifactId>
   <versioning>
-    <latest>5.2.1.RELEASE</latest>
-    <release>5.2.1.RELEASE</release>
+    <latest>5.2.2.RELEASE</latest>
+    <release>5.2.2.RELEASE</release>
     <versions>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
@@ -20,6 +20,7 @@
       <version>5.0.11.RELEASE</version>
       <version>5.0.12.RELEASE</version>
       <version>5.0.13.RELEASE</version>
+      <version>5.0.14.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -28,9 +29,11 @@
       <version>5.1.5.RELEASE</version>
       <version>5.1.6.RELEASE</version>
       <version>5.1.7.RELEASE</version>
+      <version>5.1.8.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
+      <version>5.2.2.RELEASE</version>
     </versions>
-    <lastUpdated>20191104201741</lastUpdated>
+    <lastUpdated>20200205163247</lastUpdated>
   </versioning>
 </metadata>
