@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>FAQGenerator</name>
+      <prefix>faqgenerator</prefix>
+      <artifactId>faqgenerator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Modified Maven GPG Plugin</name>
       <prefix>gpg</prefix>
       <artifactId>gpg-maven-plugin</artifactId>

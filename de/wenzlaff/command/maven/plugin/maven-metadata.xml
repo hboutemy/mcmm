@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Command Maven Plugin</name>
+      <prefix>de.wenzlaff.command..</prefix>
+      <artifactId>de.wenzlaff.command.maven.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
