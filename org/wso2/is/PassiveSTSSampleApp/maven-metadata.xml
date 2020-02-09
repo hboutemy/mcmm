@@ -3,8 +3,8 @@
   <groupId>org.wso2.is</groupId>
   <artifactId>PassiveSTSSampleApp</artifactId>
   <versioning>
-    <latest>5.10.0-m9</latest>
-    <release>5.10.0-m9</release>
+    <latest>5.11.0-m1</latest>
+    <release>5.11.0-m1</release>
     <versions>
       <version>5.4.0-alpha4</version>
       <version>5.4.0-alpha5</version>
@@ -92,11 +92,12 @@
       <version>5.8.1-m2</version>
       <version>5.9.0-beta</version>
       <version>5.9.0</version>
+      <version>5.10.0-beta</version>
       <version>5.10.0-m1</version>
       <version>5.10.0-m2</version>
       <version>5.10.0-m3</version>
       <version>5.10.0-m9</version>
     </versions>
-    <lastUpdated>20191213080018</lastUpdated>
+    <lastUpdated>20200208032556</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>DependencyTrack Maven Publisher</name>
+      <prefix>dependencytrack-mvn-publisher</prefix>
+      <artifactId>dependencytrack-mvn-publisher</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
