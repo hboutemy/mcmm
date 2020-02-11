@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>thrift-authenticator-feature</artifactId>
   <versioning>
-    <latest>5.16.66</latest>
-    <release>5.16.66</release>
+    <latest>5.16.69</latest>
+    <release>5.16.69</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1166,7 +1166,10 @@
       <version>5.16.64</version>
       <version>5.16.65</version>
       <version>5.16.66</version>
+      <version>5.16.67</version>
+      <version>5.16.68</version>
+      <version>5.16.69</version>
     </versions>
-    <lastUpdated>20200207140358</lastUpdated>
+    <lastUpdated>20200210143308</lastUpdated>
   </versioning>
 </metadata>

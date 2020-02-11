@@ -3,8 +3,8 @@
   <groupId>org.infinispan.wildfly</groupId>
   <artifactId>infinispan-server-jgroups</artifactId>
   <versioning>
-    <latest>10.1.1.Final</latest>
-    <release>10.1.1.Final</release>
+    <latest>10.1.2.Final</latest>
+    <release>10.1.2.Final</release>
     <versions>
       <version>10.0.0.CR3</version>
       <version>10.0.0.Final</version>
@@ -13,7 +13,8 @@
       <version>10.1.0.CR1</version>
       <version>10.1.0.Final</version>
       <version>10.1.1.Final</version>
+      <version>10.1.2.Final</version>
     </versions>
-    <lastUpdated>20200117171047</lastUpdated>
+    <lastUpdated>20200210120256</lastUpdated>
   </versioning>
 </metadata>

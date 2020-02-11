@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-remote-query-server</artifactId>
   <versioning>
-    <latest>10.1.1.Final</latest>
-    <release>10.1.1.Final</release>
+    <latest>10.1.2.Final</latest>
+    <release>10.1.2.Final</release>
     <versions>
       <version>6.0.0.Alpha4</version>
       <version>6.0.0.Beta1</version>
@@ -169,7 +169,8 @@
       <version>10.1.0.CR1</version>
       <version>10.1.0.Final</version>
       <version>10.1.1.Final</version>
+      <version>10.1.2.Final</version>
     </versions>
-    <lastUpdated>20200117171037</lastUpdated>
+    <lastUpdated>20200210120238</lastUpdated>
   </versioning>
 </metadata>
