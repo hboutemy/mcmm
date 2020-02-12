@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-websocket-api</artifactId>
   <versioning>
-    <latest>9.0.30</latest>
-    <release>9.0.30</release>
+    <latest>9.0.31</latest>
+    <release>9.0.31</release>
     <versions>
       <version>7.0.47</version>
       <version>7.0.50</version>
@@ -129,6 +129,7 @@
       <version>8.5.47</version>
       <version>8.5.49</version>
       <version>8.5.50</version>
+      <version>8.5.51</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -171,7 +172,8 @@
       <version>9.0.27</version>
       <version>9.0.29</version>
       <version>9.0.30</version>
+      <version>9.0.31</version>
     </versions>
-    <lastUpdated>20191217081803</lastUpdated>
+    <lastUpdated>20200211142710</lastUpdated>
   </versioning>
 </metadata>
