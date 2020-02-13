@@ -3,8 +3,8 @@
   <groupId>org.springframework.amqp</groupId>
   <artifactId>spring-rabbit-test</artifactId>
   <versioning>
-    <latest>2.2.3.RELEASE</latest>
-    <release>2.2.3.RELEASE</release>
+    <latest>2.2.4.RELEASE</latest>
+    <release>2.2.4.RELEASE</release>
     <versions>
       <version>1.6.0.RELEASE</version>
       <version>1.6.1.RELEASE</version>
@@ -66,7 +66,8 @@
       <version>2.2.1.RELEASE</version>
       <version>2.2.2.RELEASE</version>
       <version>2.2.3.RELEASE</version>
+      <version>2.2.4.RELEASE</version>
     </versions>
-    <lastUpdated>20200115160157</lastUpdated>
+    <lastUpdated>20200212162722</lastUpdated>
   </versioning>
 </metadata>

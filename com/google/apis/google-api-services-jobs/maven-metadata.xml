@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-jobs</artifactId>
   <versioning>
-    <latest>v3-rev20191029-1.30.3</latest>
-    <release>v3-rev20191029-1.30.3</release>
+    <latest>v3-rev20200109-1.30.8</latest>
+    <release>v3-rev20200109-1.30.8</release>
     <versions>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.21.0</version>
@@ -180,6 +180,8 @@
       <version>v2-rev83-1.25.0</version>
       <version>v2-rev84-1.18.0-rc</version>
       <version>v2-rev84-1.25.0</version>
+      <version>v2-rev87-1.18.0-rc</version>
+      <version>v2-rev87-1.25.0</version>
       <version>v2-rev20181011-1.26.0</version>
       <version>v2-rev20181011-1.27.0</version>
       <version>v2-rev20181114-1.26.0</version>
@@ -210,6 +212,7 @@
       <version>v2-rev20191030-1.28.0</version>
       <version>v2-rev20191030-1.29.2</version>
       <version>v2-rev20191030-1.30.3</version>
+      <version>v2-rev20191030-1.30.8</version>
       <version>v3p1beta1-rev2-1.24.1</version>
       <version>v3p1beta1-rev2-1.25.0</version>
       <version>v3p1beta1-rev3-1.18.0-rc</version>
@@ -331,6 +334,8 @@
       <version>v3p1beta1-rev67-1.25.0</version>
       <version>v3p1beta1-rev69-1.18.0-rc</version>
       <version>v3p1beta1-rev69-1.25.0</version>
+      <version>v3p1beta1-rev71-1.18.0-rc</version>
+      <version>v3p1beta1-rev71-1.25.0</version>
       <version>v3p1beta1-rev20181011-1.26.0</version>
       <version>v3p1beta1-rev20181029-1.26.0</version>
       <version>v3p1beta1-rev20181029-1.27.0</version>
@@ -385,6 +390,9 @@
       <version>v3p1beta1-rev20191030-1.28.0</version>
       <version>v3p1beta1-rev20191030-1.29.2</version>
       <version>v3p1beta1-rev20191030-1.30.3</version>
+      <version>v3p1beta1-rev20200122-1.28.0</version>
+      <version>v3p1beta1-rev20200122-1.29.2</version>
+      <version>v3p1beta1-rev20200122-1.30.8</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.22.0</version>
       <version>v3-rev1-1.23.0</version>
@@ -517,6 +525,8 @@
       <version>v3-rev70-1.18.0-rc</version>
       <version>v3-rev70-1.25.0</version>
       <version>v3-rev71-1.25.0</version>
+      <version>v3-rev74-1.18.0-rc</version>
+      <version>v3-rev74-1.25.0</version>
       <version>v3-rev20181011-1.26.0</version>
       <version>v3-rev20181029-1.26.0</version>
       <version>v3-rev20181029-1.27.0</version>
@@ -563,7 +573,10 @@
       <version>v3-rev20191029-1.28.0</version>
       <version>v3-rev20191029-1.29.2</version>
       <version>v3-rev20191029-1.30.3</version>
+      <version>v3-rev20200109-1.28.0</version>
+      <version>v3-rev20200109-1.29.2</version>
+      <version>v3-rev20200109-1.30.8</version>
     </versions>
-    <lastUpdated>20200206074346</lastUpdated>
+    <lastUpdated>20200212110630</lastUpdated>
   </versioning>
 </metadata>

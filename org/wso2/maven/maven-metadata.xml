@@ -27,7 +27,6 @@
       <artifactId>carbon-p2-plugin</artifactId>
     </plugin>
     <plugin>
-      <name></name>
       <prefix>humantask</prefix>
       <artifactId>humantask-maven-plugin</artifactId>
     </plugin>
@@ -160,6 +159,11 @@
       <name>Maven WAR Plugin</name>
       <prefix>war</prefix>
       <artifactId>maven-war-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>MI Container Config Mapper Maven Plugin</name>
+      <prefix>mi-container-config-mapper</prefix>
+      <artifactId>mi-container-config-mapper</artifactId>
     </plugin>
     <plugin>
       <name>Synapse Unit Test Maven Plugin</name>
