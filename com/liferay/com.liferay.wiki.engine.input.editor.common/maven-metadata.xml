@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.wiki.engine.input.editor.common</artifactId>
   <versioning>
-    <latest>5.0.2</latest>
-    <release>3.0.7</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -18,11 +18,15 @@
       <version>3.0.3</version>
       <version>3.0.4</version>
       <version>3.0.5</version>
+      <version>3.0.6</version>
+      <version>3.0.7</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
+      <version>4.0.6</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -31,13 +35,9 @@
       <version>5.0.5</version>
       <version>5.0.6</version>
       <version>5.0.7</version>
-      <version>4.0.5</version>
       <version>5.0.8</version>
       <version>6.0.1</version>
-      <version>3.0.6</version>
-      <version>4.0.6</version>
-      <version>3.0.7</version>
     </versions>
-    <lastUpdated>20200211113856</lastUpdated>
+    <lastUpdated>20200213173551</lastUpdated>
   </versioning>
 </metadata>

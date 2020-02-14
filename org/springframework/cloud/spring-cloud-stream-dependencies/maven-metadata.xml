@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-dependencies</artifactId>
   <versioning>
-    <latest>1.0.3.RELEASE</latest>
-    <release>1.0.3.RELEASE</release>
+    <latest>3.0.2.RELEASE</latest>
+    <release>3.0.2.RELEASE</release>
     <versions>
       <version>Brooklyn.RELEASE</version>
       <version>Brooklyn.SR1</version>
@@ -31,11 +31,13 @@
       <version>Germantown.SR1</version>
       <version>Horsham.RELEASE</version>
       <version>Horsham.SR1</version>
+      <version>Horsham.SR2</version>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
       <version>1.0.2.RELEASE</version>
       <version>1.0.3.RELEASE</version>
+      <version>3.0.2.RELEASE</version>
     </versions>
-    <lastUpdated>20191218185400</lastUpdated>
+    <lastUpdated>20200213141519</lastUpdated>
   </versioning>
 </metadata>
