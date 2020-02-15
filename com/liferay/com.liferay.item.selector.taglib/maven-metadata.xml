@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.item.selector.taglib</artifactId>
   <versioning>
-    <latest>3.0.10</latest>
-    <release>1.3.14</release>
+    <latest>4.0.6</latest>
+    <release>4.0.6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -48,6 +48,12 @@
       <version>1.3.6</version>
       <version>1.3.7</version>
       <version>1.3.8</version>
+      <version>1.3.9</version>
+      <version>1.3.10</version>
+      <version>1.3.11</version>
+      <version>1.3.12</version>
+      <version>1.3.13</version>
+      <version>1.3.14</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -61,6 +67,9 @@
       <version>2.0.11</version>
       <version>2.0.12</version>
       <version>2.0.13</version>
+      <version>2.0.14</version>
+      <version>2.0.15</version>
+      <version>2.0.16</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -72,13 +81,10 @@
       <version>3.0.8</version>
       <version>3.0.9</version>
       <version>3.0.10</version>
-      <version>2.0.14</version>
       <version>3.0.11</version>
       <version>3.0.12</version>
       <version>3.0.13</version>
       <version>3.0.14</version>
-      <version>2.0.15</version>
-      <version>1.3.9</version>
       <version>3.0.15</version>
       <version>3.0.16</version>
       <version>3.0.17</version>
@@ -89,21 +95,15 @@
       <version>3.0.22</version>
       <version>3.0.23</version>
       <version>3.0.24</version>
-      <version>2.0.16</version>
       <version>3.0.25</version>
+      <version>3.0.26</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
-      <version>3.0.26</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
       <version>4.0.6</version>
-      <version>1.3.10</version>
-      <version>1.3.11</version>
-      <version>1.3.12</version>
-      <version>1.3.13</version>
-      <version>1.3.14</version>
     </versions>
-    <lastUpdated>20200211153434</lastUpdated>
+    <lastUpdated>20200214143752</lastUpdated>
   </versioning>
 </metadata>

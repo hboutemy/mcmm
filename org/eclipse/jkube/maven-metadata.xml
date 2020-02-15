@@ -7,7 +7,7 @@
       <artifactId>k8s-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Openshift Maven Plugin</name>
+      <name>Openshift Maven Plugin :: Plugin</name>
       <prefix>oc</prefix>
       <artifactId>oc-maven-plugin</artifactId>
     </plugin>

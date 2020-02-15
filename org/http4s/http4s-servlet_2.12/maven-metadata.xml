@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-servlet_2.12</artifactId>
   <versioning>
-    <latest>0.21.0</latest>
-    <release>0.21.0</release>
+    <latest>0.21.1</latest>
+    <release>0.21.1</release>
     <versions>
       <version>0.15.0</version>
       <version>0.15.0a</version>
@@ -146,6 +146,7 @@
       <version>0.20.16</version>
       <version>0.20.17</version>
       <version>0.20.18</version>
+      <version>0.20.19</version>
       <version>0.21.0-M1</version>
       <version>0.21.0-M2</version>
       <version>0.21.0-M3</version>
@@ -158,7 +159,8 @@
       <version>0.21.0-RC4</version>
       <version>0.21.0-RC5</version>
       <version>0.21.0</version>
+      <version>0.21.1</version>
     </versions>
-    <lastUpdated>20200213175911</lastUpdated>
+    <lastUpdated>20200214033344</lastUpdated>
   </versioning>
 </metadata>

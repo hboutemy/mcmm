@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.osgi.util</artifactId>
   <versioning>
-    <latest>5.0.3</latest>
-    <release>5.0.6</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -35,27 +35,27 @@
       <version>3.2.1</version>
       <version>3.2.2</version>
       <version>3.2.3</version>
+      <version>3.2.4</version>
+      <version>3.2.5</version>
+      <version>3.2.6</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
+      <version>4.1.3</version>
+      <version>4.1.4</version>
+      <version>4.1.5</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.0.3</version>
-      <version>3.2.4</version>
-      <version>4.1.2</version>
-      <version>3.2.5</version>
-      <version>4.1.3</version>
       <version>5.0.4</version>
-      <version>4.1.4</version>
-      <version>6.0.1</version>
       <version>5.0.5</version>
-      <version>3.2.6</version>
-      <version>4.1.5</version>
       <version>5.0.6</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20200211120650</lastUpdated>
+    <lastUpdated>20200214085140</lastUpdated>
   </versioning>
 </metadata>
