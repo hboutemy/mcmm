@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.api</artifactId>
   <versioning>
-    <latest>5.1.6</latest>
-    <release>5.2.11</release>
+    <latest>6.0.3</latest>
+    <release>6.0.3</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -29,6 +29,9 @@
       <version>3.5.3</version>
       <version>3.5.4</version>
       <version>3.5.5</version>
+      <version>3.5.6</version>
+      <version>3.5.7</version>
+      <version>3.5.8</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -47,6 +50,16 @@
       <version>4.1.4</version>
       <version>4.1.5</version>
       <version>4.1.6</version>
+      <version>4.1.7</version>
+      <version>4.1.8</version>
+      <version>4.2.0</version>
+      <version>4.3.0</version>
+      <version>4.3.1</version>
+      <version>4.3.2</version>
+      <version>4.3.3</version>
+      <version>4.3.4</version>
+      <version>4.3.5</version>
+      <version>4.3.6</version>
       <version>5.0.0</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
@@ -55,34 +68,21 @@
       <version>5.1.4</version>
       <version>5.1.5</version>
       <version>5.1.6</version>
-      <version>4.1.7</version>
       <version>5.2.0</version>
       <version>5.2.1</version>
       <version>5.2.2</version>
-      <version>4.1.8</version>
-      <version>4.2.0</version>
       <version>5.2.3</version>
-      <version>4.3.0</version>
       <version>5.2.4</version>
       <version>5.2.5</version>
-      <version>4.3.1</version>
       <version>5.2.6</version>
-      <version>3.5.6</version>
-      <version>4.3.2</version>
       <version>5.2.7</version>
-      <version>4.3.3</version>
-      <version>6.0.1</version>
-      <version>6.0.2</version>
       <version>5.2.8</version>
       <version>5.2.9</version>
       <version>5.2.10</version>
-      <version>3.5.7</version>
-      <version>4.3.4</version>
-      <version>3.5.8</version>
-      <version>4.3.6</version>
       <version>5.2.11</version>
-      <version>4.3.5</version>
+      <version>6.0.1</version>
+      <version>6.0.2</version>
     </versions>
-    <lastUpdated>20200211215757</lastUpdated>
+    <lastUpdated>20200214235548</lastUpdated>
   </versioning>
 </metadata>
