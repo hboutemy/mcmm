@@ -3,8 +3,8 @@
   <groupId>com.netflix.nebula</groupId>
   <artifactId>gradle-info-plugin</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.1.1</latest>
+    <release>7.1.1</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -58,8 +58,11 @@
       <version>5.2.0</version>
       <version>6.0.0</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
+      <version>7.1.0</version>
+      <version>7.1.1</version>
       <version>5.0.3</version>
     </versions>
-    <lastUpdated>20200215003931</lastUpdated>
+    <lastUpdated>20200217235011</lastUpdated>
   </versioning>
 </metadata>

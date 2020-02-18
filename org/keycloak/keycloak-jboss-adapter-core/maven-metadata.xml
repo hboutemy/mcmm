@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-jboss-adapter-core</artifactId>
   <versioning>
-    <latest>8.0.2</latest>
-    <release>8.0.2</release>
+    <latest>9.0.0</latest>
+    <release>9.0.0</release>
     <versions>
       <version>1.0-alpha-3</version>
       <version>1.0-alpha-4</version>
@@ -108,8 +108,9 @@
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.0.2</version>
+      <version>9.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20200204092633</lastUpdated>
+    <lastUpdated>20200217122731</lastUpdated>
   </versioning>
 </metadata>
