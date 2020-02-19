@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-repository-pypi</artifactId>
   <versioning>
-    <latest>3.21.0-02</latest>
-    <release>3.21.0-02</release>
+    <latest>3.21.0-05</latest>
+    <release>3.21.0-05</release>
     <versions>
       <version>3.13.0-01</version>
       <version>3.14.0-04</version>
@@ -26,7 +26,8 @@
       <version>3.20.1-01</version>
       <version>3.21.0-01</version>
       <version>3.21.0-02</version>
+      <version>3.21.0-05</version>
     </versions>
-    <lastUpdated>20200122190428</lastUpdated>
+    <lastUpdated>20200218182521</lastUpdated>
   </versioning>
 </metadata>

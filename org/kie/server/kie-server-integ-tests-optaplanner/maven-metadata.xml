@@ -3,8 +3,8 @@
   <groupId>org.kie.server</groupId>
   <artifactId>kie-server-integ-tests-optaplanner</artifactId>
   <versioning>
-    <latest>7.32.0.Final</latest>
-    <release>7.32.0.Final</release>
+    <latest>7.33.0.Final</latest>
+    <release>7.33.0.Final</release>
     <versions>
       <version>6.4.0.CR1</version>
       <version>6.4.0.CR2</version>
@@ -64,7 +64,8 @@
       <version>7.30.0.Final</version>
       <version>7.31.0.Final</version>
       <version>7.32.0.Final</version>
+      <version>7.33.0.Final</version>
     </versions>
-    <lastUpdated>20200127113029</lastUpdated>
+    <lastUpdated>20200217143513</lastUpdated>
   </versioning>
 </metadata>

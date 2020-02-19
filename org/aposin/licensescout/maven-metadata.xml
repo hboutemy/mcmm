@@ -6,5 +6,10 @@
       <prefix>licensescout</prefix>
       <artifactId>licensescout-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>LicenseScout Maven Report Plugin</name>
+      <prefix>licensescout-report</prefix>
+      <artifactId>licensescout-report-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

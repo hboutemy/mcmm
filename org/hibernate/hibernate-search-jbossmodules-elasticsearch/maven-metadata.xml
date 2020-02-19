@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-jbossmodules-elasticsearch</artifactId>
   <versioning>
-    <latest>5.11.4.Final</latest>
-    <release>5.11.4.Final</release>
+    <latest>5.11.5.Final</latest>
+    <release>5.11.5.Final</release>
     <versions>
       <version>5.9.0.Final</version>
       <version>5.9.1.Final</version>
@@ -22,13 +22,15 @@
       <version>5.10.6.Final</version>
       <version>5.10.7.Final</version>
       <version>5.10.8.Final</version>
+      <version>5.10.9.Final</version>
       <version>5.11.0.CR1</version>
       <version>5.11.0.Final</version>
       <version>5.11.1.Final</version>
       <version>5.11.2.Final</version>
       <version>5.11.3.Final</version>
       <version>5.11.4.Final</version>
+      <version>5.11.5.Final</version>
     </versions>
-    <lastUpdated>20191121145132</lastUpdated>
+    <lastUpdated>20200218134637</lastUpdated>
   </versioning>
 </metadata>

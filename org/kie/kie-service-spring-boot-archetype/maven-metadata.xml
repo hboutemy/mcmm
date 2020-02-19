@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-service-spring-boot-archetype</artifactId>
   <versioning>
-    <latest>7.32.0.k20191223</latest>
-    <release>7.32.0.k20191223</release>
+    <latest>7.33.0.Final</latest>
+    <release>7.33.0.Final</release>
     <versions>
       <version>7.10.0.Final</version>
       <version>7.11.0.Final</version>
@@ -32,7 +32,8 @@
       <version>7.31.0.Final</version>
       <version>7.32.0.Final</version>
       <version>7.32.0.k20191223</version>
+      <version>7.33.0.Final</version>
     </versions>
-    <lastUpdated>20200127112957</lastUpdated>
+    <lastUpdated>20200217143433</lastUpdated>
   </versioning>
 </metadata>
