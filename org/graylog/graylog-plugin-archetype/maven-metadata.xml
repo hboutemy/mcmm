@@ -3,8 +3,8 @@
   <groupId>org.graylog</groupId>
   <artifactId>graylog-plugin-archetype</artifactId>
   <versioning>
-    <latest>3.2.1</latest>
-    <release>3.2.1</release>
+    <latest>3.2.2</latest>
+    <release>3.2.2</release>
     <versions>
       <version>1.0.0-beta.2</version>
       <version>1.0.0-rc.1</version>
@@ -99,7 +99,8 @@
       <version>3.1.4</version>
       <version>3.2.0</version>
       <version>3.2.1</version>
+      <version>3.2.2</version>
     </versions>
-    <lastUpdated>20200204181703</lastUpdated>
+    <lastUpdated>20200220191111</lastUpdated>
   </versioning>
 </metadata>

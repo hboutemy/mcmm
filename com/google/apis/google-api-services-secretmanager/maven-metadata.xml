@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-secretmanager</artifactId>
   <versioning>
-    <latest>v1beta1-rev20200118-1.30.8</latest>
-    <release>v1beta1-rev20200118-1.30.8</release>
+    <latest>v1-rev1-1.25.0</latest>
+    <release>v1-rev1-1.25.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.25.0</version>
@@ -22,7 +22,9 @@
       <version>v1beta1-rev20200118-1.28.0</version>
       <version>v1beta1-rev20200118-1.29.2</version>
       <version>v1beta1-rev20200118-1.30.8</version>
+      <version>v1-rev1-1.18.0-rc</version>
+      <version>v1-rev1-1.25.0</version>
     </versions>
-    <lastUpdated>20200215010828</lastUpdated>
+    <lastUpdated>20200220094546</lastUpdated>
   </versioning>
 </metadata>
