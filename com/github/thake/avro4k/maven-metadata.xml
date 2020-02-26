@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven plugin for Avro4k</name>
+      <prefix>avro4k</prefix>
+      <artifactId>avro4k-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

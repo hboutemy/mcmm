@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.scxml.feature</artifactId>
   <versioning>
-    <latest>6.6.91</latest>
-    <release>6.6.91</release>
+    <latest>6.6.94</latest>
+    <release>6.6.94</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -1073,7 +1073,10 @@
       <version>6.6.89</version>
       <version>6.6.90</version>
       <version>6.6.91</version>
+      <version>6.6.92</version>
+      <version>6.6.93</version>
+      <version>6.6.94</version>
     </versions>
-    <lastUpdated>20200224180028</lastUpdated>
+    <lastUpdated>20200225150810</lastUpdated>
   </versioning>
 </metadata>

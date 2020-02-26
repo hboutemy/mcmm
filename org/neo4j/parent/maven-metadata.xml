@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>parent</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>4.0.0</release>
+    <latest>4.0.1</latest>
+    <release>4.0.1</release>
     <versions>
       <version>1.9.M05</version>
       <version>1.9.RC1</version>
@@ -228,7 +228,8 @@
       <version>3.5.14</version>
       <version>4.0.0-rc01</version>
       <version>4.0.0</version>
+      <version>4.0.1</version>
     </versions>
-    <lastUpdated>20191217125031</lastUpdated>
+    <lastUpdated>20200225191729</lastUpdated>
   </versioning>
 </metadata>

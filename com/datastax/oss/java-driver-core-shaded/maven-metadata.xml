@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-core-shaded</artifactId>
   <versioning>
-    <latest>4.4.0</latest>
-    <release>4.4.0</release>
+    <latest>4.5.0</latest>
+    <release>4.5.0</release>
     <versions>
       <version>4.0.0-beta1</version>
       <version>4.0.0-beta2</version>
@@ -19,7 +19,8 @@
       <version>4.3.0</version>
       <version>4.3.1</version>
       <version>4.4.0</version>
+      <version>4.5.0</version>
     </versions>
-    <lastUpdated>20200114225015</lastUpdated>
+    <lastUpdated>20200225023746</lastUpdated>
   </versioning>
 </metadata>
