@@ -3,8 +3,8 @@
   <groupId>org.springframework.integration</groupId>
   <artifactId>spring-integration-bom</artifactId>
   <versioning>
-    <latest>5.2.3.RELEASE</latest>
-    <release>5.2.3.RELEASE</release>
+    <latest>5.2.4.RELEASE</latest>
+    <release>5.2.4.RELEASE</release>
     <versions>
       <version>4.0.1.RELEASE</version>
       <version>4.0.2.RELEASE</version>
@@ -88,7 +88,8 @@
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
       <version>5.2.3.RELEASE</version>
+      <version>5.2.4.RELEASE</version>
     </versions>
-    <lastUpdated>20200115175125</lastUpdated>
+    <lastUpdated>20200226190823</lastUpdated>
   </versioning>
 </metadata>

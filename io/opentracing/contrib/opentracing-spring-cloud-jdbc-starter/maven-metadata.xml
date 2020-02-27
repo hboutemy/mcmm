@@ -3,8 +3,8 @@
   <groupId>io.opentracing.contrib</groupId>
   <artifactId>opentracing-spring-cloud-jdbc-starter</artifactId>
   <versioning>
-    <latest>0.4.0</latest>
-    <release>0.4.0</release>
+    <latest>0.5.0</latest>
+    <release>0.5.0</release>
     <versions>
       <version>0.1.14</version>
       <version>0.1.15</version>
@@ -30,7 +30,8 @@
       <version>0.3.11</version>
       <version>0.3.12</version>
       <version>0.4.0</version>
+      <version>0.5.0</version>
     </versions>
-    <lastUpdated>20200131110032</lastUpdated>
+    <lastUpdated>20200226142717</lastUpdated>
   </versioning>
 </metadata>

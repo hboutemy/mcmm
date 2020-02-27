@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.chat.service</artifactId>
   <versioning>
     <latest>5.0.4</latest>
-    <release>5.0.4</release>
+    <release>3.0.35</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -132,7 +132,8 @@
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.0.3</version>
+      <version>3.0.35</version>
     </versions>
-    <lastUpdated>20200213085018</lastUpdated>
+    <lastUpdated>20200226065004</lastUpdated>
   </versioning>
 </metadata>

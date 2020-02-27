@@ -9,5 +9,9 @@
       <prefix>api-boot-mybatis-enhancecodegen</prefix>
       <artifactId>api-boot-mybatis-enhance-maven-codegen</artifactId>
     </plugin>
+    <plugin>
+      <prefix>command-execute</prefix>
+      <artifactId>command-execute-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
