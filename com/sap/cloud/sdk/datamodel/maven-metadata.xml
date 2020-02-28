@@ -6,5 +6,10 @@
       <prefix>odata-generator</prefix>
       <artifactId>odata-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Data Model - OData V4 Services - Generator Maven Plugin</name>
+      <prefix>odata-v4-generator</prefix>
+      <artifactId>odata-v4-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

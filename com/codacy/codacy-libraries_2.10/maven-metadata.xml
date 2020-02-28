@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>codacy-libraries_2.10</artifactId>
   <versioning>
-    <latest>18.0.4</latest>
-    <release>18.0.4</release>
+    <latest>19.0.0-bumpsbt.dd2d8ed</latest>
+    <release>19.0.0-bumpsbt.dd2d8ed</release>
     <versions>
       <version>12.0.0</version>
       <version>12.0.0-separatelibraries.91f1056</version>
@@ -45,7 +45,10 @@
       <version>18.0.1</version>
       <version>18.0.3</version>
       <version>18.0.4</version>
+      <version>18.0.5</version>
+      <version>19.0.0-bumpsbt.1017570</version>
+      <version>19.0.0-bumpsbt.dd2d8ed</version>
     </versions>
-    <lastUpdated>20200226181849</lastUpdated>
+    <lastUpdated>20200227213516</lastUpdated>
   </versioning>
 </metadata>

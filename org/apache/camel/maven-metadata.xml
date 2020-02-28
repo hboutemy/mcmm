@@ -12,6 +12,11 @@
       <artifactId>camel-api-component-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: Maven Plugins :: Enhanced Bundle Plugin</name>
+      <prefix>camel-bundle</prefix>
+      <artifactId>camel-bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Connectors :: Camel Connector Maven Plugin (deprecated)</name>
       <prefix>camel-connector</prefix>
       <artifactId>camel-connector-maven-plugin</artifactId>
@@ -37,7 +42,7 @@
       <artifactId>camel-main-package-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>
     </plugin>
@@ -55,6 +60,16 @@
       <name>Camel :: Catalog :: Camel Report Maven Plugin</name>
       <prefix>camel-report</prefix>
       <artifactId>camel-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Enhanced Resources Plugin</name>
+      <prefix>camel-resources</prefix>
+      <artifactId>camel-resources-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: OpenApi REST DSL Generator Maven plugin</name>
+      <prefix>camel-restdsl-openapi</prefix>
+      <artifactId>camel-restdsl-openapi-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Camel :: Maven Plugins :: Swagger REST DSL Generator Maven plugin</name>

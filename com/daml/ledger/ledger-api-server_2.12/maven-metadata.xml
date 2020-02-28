@@ -3,8 +3,8 @@
   <groupId>com.daml.ledger</groupId>
   <artifactId>ledger-api-server_2.12</artifactId>
   <versioning>
-    <latest>100.13.54</latest>
-    <release>100.13.54</release>
+    <latest>100.13.55-snapshot.20200226.3267.c9b9293d</latest>
+    <release>100.13.55-snapshot.20200226.3267.c9b9293d</release>
     <versions>
       <version>100.13.30</version>
       <version>100.13.31</version>
@@ -30,7 +30,8 @@
       <version>100.13.52</version>
       <version>100.13.53</version>
       <version>100.13.54</version>
+      <version>100.13.55-snapshot.20200226.3267.c9b9293d</version>
     </versions>
-    <lastUpdated>20200220175924</lastUpdated>
+    <lastUpdated>20200227170108</lastUpdated>
   </versioning>
 </metadata>
