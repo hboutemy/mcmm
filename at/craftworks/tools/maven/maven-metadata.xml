@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jOOQ Codegen Postgres Maven Plugin</name>
+      <prefix>jooq-codegen-postgres</prefix>
+      <artifactId>jooq-codegen-postgres-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

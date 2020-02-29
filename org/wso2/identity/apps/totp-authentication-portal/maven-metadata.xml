@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>totp-authentication-portal</artifactId>
   <versioning>
-    <latest>1.0.59</latest>
-    <release>1.0.59</release>
+    <latest>1.0.64</latest>
+    <release>1.0.64</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -65,7 +65,12 @@
       <version>1.0.57</version>
       <version>1.0.58</version>
       <version>1.0.59</version>
+      <version>1.0.60</version>
+      <version>1.0.61</version>
+      <version>1.0.62</version>
+      <version>1.0.63</version>
+      <version>1.0.64</version>
     </versions>
-    <lastUpdated>20200226171040</lastUpdated>
+    <lastUpdated>20200228121152</lastUpdated>
   </versioning>
 </metadata>

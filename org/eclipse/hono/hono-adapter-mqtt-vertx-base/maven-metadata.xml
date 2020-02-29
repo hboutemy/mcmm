@@ -3,8 +3,8 @@
   <groupId>org.eclipse.hono</groupId>
   <artifactId>hono-adapter-mqtt-vertx-base</artifactId>
   <versioning>
-    <latest>1.1.0</latest>
-    <release>1.1.0</release>
+    <latest>1.1.1</latest>
+    <release>1.1.1</release>
     <versions>
       <version>0.5</version>
       <version>0.6-M1</version>
@@ -34,7 +34,8 @@
       <version>1.1.0-M1</version>
       <version>1.1.0-M2</version>
       <version>1.1.0</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20200206183947</lastUpdated>
+    <lastUpdated>20200228153834</lastUpdated>
   </versioning>
 </metadata>
