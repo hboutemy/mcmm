@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Git Code Format Maven Plugin</name>
+      <prefix>git-code-format</prefix>
+      <artifactId>git-code-format-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-git-code-format Maven Plugin</name>
       <prefix>git-code-format</prefix>
       <artifactId>maven-git-code-format</artifactId>

@@ -3,13 +3,14 @@
   <groupId>io.zipkin.gcp</groupId>
   <artifactId>zipkin-module-storage-stackdriver</artifactId>
   <versioning>
-    <latest>0.15.2</latest>
-    <release>0.15.2</release>
+    <latest>0.16.0</latest>
+    <release>0.16.0</release>
     <versions>
       <version>0.15.0</version>
       <version>0.15.1</version>
       <version>0.15.2</version>
+      <version>0.16.0</version>
     </versions>
-    <lastUpdated>20191105065150</lastUpdated>
+    <lastUpdated>20200229034005</lastUpdated>
   </versioning>
 </metadata>

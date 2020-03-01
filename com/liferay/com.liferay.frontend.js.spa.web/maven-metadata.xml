@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.js.spa.web</artifactId>
   <versioning>
     <latest>4.0.3</latest>
-    <release>4.0.3</release>
+    <release>4.0.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -145,7 +145,8 @@
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
+      <version>4.0.4</version>
     </versions>
-    <lastUpdated>20200214190843</lastUpdated>
+    <lastUpdated>20200229160847</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
+  <groupId>gov.nasa.pds</groupId>
+  <artifactId>model</artifactId>
+  <versioning>
+    <latest>11.0.0</latest>
+    <release>11.0.0</release>
+    <versions>
+      <version>11.0.0</version>
+    </versions>
+    <lastUpdated>20200229001058</lastUpdated>
+  </versioning>
   <plugins>
     <plugin>
       <name>Model DM-Document Maven Plugin</name>
