@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.wso2.carbon.identity.carbon.auth.saml2</groupId>
   <artifactId>org.wso2.carbon.identity.authenticator.saml2.sso.feature</artifactId>
   <versioning>
-    <latest>5.2.14</latest>
-    <release>5.2.14</release>
+    <latest>5.5.0</latest>
+    <release>5.5.0</release>
     <versions>
       <version>5.1.5</version>
       <version>5.1.6</version>
@@ -24,7 +24,9 @@
       <version>5.2.13</version>
       <version>5.2.14</version>
       <version>5.2.15</version>
+      <version>5.4.10</version>
+      <version>5.5.0</version>
     </versions>
-    <lastUpdated>20190311054130</lastUpdated>
+    <lastUpdated>20200302152149</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon</groupId>
   <artifactId>org.wso2.carbon.tomcat</artifactId>
   <versioning>
-    <latest>4.6.0-m1</latest>
-    <release>4.6.0-m1</release>
+    <latest>4.6.0</latest>
+    <release>4.6.0</release>
     <versions>
       <version>4.4.19</version>
       <version>4.4.20</version>
@@ -29,7 +29,8 @@
       <version>4.6.0-alpha</version>
       <version>4.6.0-alpha2</version>
       <version>4.6.0-beta2</version>
+      <version>4.6.0</version>
     </versions>
-    <lastUpdated>20200214125307</lastUpdated>
+    <lastUpdated>20200302054815</lastUpdated>
   </versioning>
 </metadata>
