@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-key-value-store-client</artifactId>
   <versioning>
-    <latest>11.0.0.Alpha1</latest>
-    <release>11.0.0.Alpha1</release>
+    <latest>11.0.0.Alpha2</latest>
+    <release>11.0.0.Alpha2</release>
     <versions>
       <version>10.0.0.Beta4</version>
       <version>10.0.0.Beta5</version>
@@ -21,7 +21,8 @@
       <version>10.1.3.Final</version>
       <version>11.0.0.Alpha</version>
       <version>11.0.0.Alpha1</version>
+      <version>11.0.0.Alpha2</version>
     </versions>
-    <lastUpdated>20200226170641</lastUpdated>
+    <lastUpdated>20200303091614</lastUpdated>
   </versioning>
 </metadata>

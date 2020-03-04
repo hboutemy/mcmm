@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-events-influxdb</artifactId>
   <versioning>
-    <latest>6.2.0-RC2</latest>
-    <release>6.2.0-RC2</release>
+    <latest>6.2.0-RC3</latest>
+    <release>6.2.0-RC3</release>
     <versions>
       <version>5.2.0-RC3</version>
       <version>5.2.0-RC4</version>
@@ -69,7 +69,8 @@
       <version>6.1.5</version>
       <version>6.2.0-RC1</version>
       <version>6.2.0-RC2</version>
+      <version>6.2.0-RC3</version>
     </versions>
-    <lastUpdated>20200229114527</lastUpdated>
+    <lastUpdated>20200303153116</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-starter-parent</artifactId>
   <versioning>
-    <latest>3.0.2.RELEASE</latest>
-    <release>3.0.2.RELEASE</release>
+    <latest>3.0.3.RELEASE</latest>
+    <release>3.0.3.RELEASE</release>
     <versions>
       <version>Fishtown.RELEASE</version>
       <version>Fishtown.SR1</version>
@@ -16,8 +16,10 @@
       <version>Horsham.RELEASE</version>
       <version>Horsham.SR1</version>
       <version>Horsham.SR2</version>
+      <version>Horsham.SR3</version>
       <version>3.0.2.RELEASE</version>
+      <version>3.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20200213141525</lastUpdated>
+    <lastUpdated>20200303175349</lastUpdated>
   </versioning>
 </metadata>

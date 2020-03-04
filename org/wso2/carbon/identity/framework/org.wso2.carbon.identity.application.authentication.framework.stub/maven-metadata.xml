@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.application.authentication.framework.stub</artifactId>
   <versioning>
-    <latest>5.17.0</latest>
-    <release>5.17.0</release>
+    <latest>5.17.2</latest>
+    <release>5.17.2</release>
     <versions>
       <version>5.11.198</version>
       <version>5.11.199</version>
@@ -598,7 +598,9 @@
       <version>5.16.119</version>
       <version>5.16.120</version>
       <version>5.17.0</version>
+      <version>5.17.1</version>
+      <version>5.17.2</version>
     </versions>
-    <lastUpdated>20200302123823</lastUpdated>
+    <lastUpdated>20200303141203</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.hybrid.gateway.tenant.initializer</artifactId>
   <versioning>
-    <latest>6.6.111</latest>
-    <release>6.6.111</release>
+    <latest>6.6.118</latest>
+    <release>6.6.118</release>
     <versions>
       <version>6.4.140</version>
       <version>6.4.141</version>
@@ -395,7 +395,14 @@
       <version>6.6.109</version>
       <version>6.6.110</version>
       <version>6.6.111</version>
+      <version>6.6.112</version>
+      <version>6.6.113</version>
+      <version>6.6.114</version>
+      <version>6.6.115</version>
+      <version>6.6.116</version>
+      <version>6.6.117</version>
+      <version>6.6.118</version>
     </versions>
-    <lastUpdated>20200302133517</lastUpdated>
+    <lastUpdated>20200303145159</lastUpdated>
   </versioning>
 </metadata>
