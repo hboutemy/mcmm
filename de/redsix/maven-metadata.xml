@@ -6,5 +6,9 @@
       <prefix>dmn-check</prefix>
       <artifactId>dmn-check</artifactId>
     </plugin>
+    <plugin>
+      <prefix>dmn-check</prefix>
+      <artifactId>dmn-check-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

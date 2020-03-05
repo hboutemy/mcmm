@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-people</artifactId>
   <versioning>
-    <latest>v1-rev20200210-1.30.8</latest>
-    <release>v1-rev20200210-1.30.8</release>
+    <latest>v1-rev20200212-1.30.8</latest>
+    <release>v1-rev20200212-1.30.8</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.1</version>
@@ -1303,6 +1303,10 @@
       <version>v1-rev517-1.25.0</version>
       <version>v1-rev518-1.18.0-rc</version>
       <version>v1-rev518-1.25.0</version>
+      <version>v1-rev519-1.18.0-rc</version>
+      <version>v1-rev519-1.25.0</version>
+      <version>v1-rev520-1.18.0-rc</version>
+      <version>v1-rev520-1.25.0</version>
       <version>v1-rev20180918-1.26.0</version>
       <version>v1-rev20181111-1.26.0</version>
       <version>v1-rev20181111-1.27.0</version>
@@ -1355,7 +1359,8 @@
       <version>v1-rev20191030-1.29.2</version>
       <version>v1-rev20200122-1.30.8</version>
       <version>v1-rev20200210-1.30.8</version>
+      <version>v1-rev20200212-1.30.8</version>
     </versions>
-    <lastUpdated>20200229030616</lastUpdated>
+    <lastUpdated>20200304232400</lastUpdated>
   </versioning>
 </metadata>

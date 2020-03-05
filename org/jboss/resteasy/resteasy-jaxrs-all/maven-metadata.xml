@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-jaxrs-all</artifactId>
   <versioning>
-    <latest>4.5.1.Final</latest>
-    <release>4.5.1.Final</release>
+    <latest>4.5.2.Final</latest>
+    <release>4.5.2.Final</release>
     <versions>
       <version>1.0-beta-6</version>
       <version>1.0-beta-7</version>
@@ -104,6 +104,7 @@
       <version>3.6.1.SP5</version>
       <version>3.6.1.SP6</version>
       <version>3.6.1.SP7</version>
+      <version>3.6.1.SP8</version>
       <version>3.6.2.Final</version>
       <version>3.6.3.Final</version>
       <version>3.6.3.SP1</version>
@@ -140,7 +141,8 @@
       <version>4.4.2.Final</version>
       <version>4.5.0.Final</version>
       <version>4.5.1.Final</version>
+      <version>4.5.2.Final</version>
     </versions>
-    <lastUpdated>20200226081752</lastUpdated>
+    <lastUpdated>20200304105043</lastUpdated>
   </versioning>
 </metadata>
