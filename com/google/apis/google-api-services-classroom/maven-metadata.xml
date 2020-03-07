@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-classroom</artifactId>
   <versioning>
-    <latest>v1-rev20200229-1.30.9</latest>
-    <release>v1-rev20200229-1.30.9</release>
+    <latest>v1-rev20200305-1.30.9</latest>
+    <release>v1-rev20200305-1.30.9</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.19.0</version>
@@ -1002,6 +1002,8 @@
       <version>v1-rev381-1.25.0</version>
       <version>v1-rev382-1.18.0-rc</version>
       <version>v1-rev382-1.25.0</version>
+      <version>v1-rev383-1.18.0-rc</version>
+      <version>v1-rev383-1.25.0</version>
       <version>v1-rev20180919-1.26.0</version>
       <version>v1-rev20180919-1.27.0</version>
       <version>v1-rev20181113-1.26.0</version>
@@ -1021,7 +1023,8 @@
       <version>v1-rev20190503-1.30.8</version>
       <version>v1-rev20200210-1.30.8</version>
       <version>v1-rev20200229-1.30.9</version>
+      <version>v1-rev20200305-1.30.9</version>
     </versions>
-    <lastUpdated>20200305223624</lastUpdated>
+    <lastUpdated>20200306210441</lastUpdated>
   </versioning>
 </metadata>

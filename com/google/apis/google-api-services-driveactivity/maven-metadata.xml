@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-driveactivity</artifactId>
   <versioning>
-    <latest>v2-rev20200212-1.30.8</latest>
-    <release>v2-rev20200212-1.30.8</release>
+    <latest>v2-rev20200218-1.30.9</latest>
+    <release>v2-rev20200218-1.30.9</release>
     <versions>
       <version>v2-rev4-1.18.0-rc</version>
       <version>v2-rev4-1.22.0</version>
@@ -321,6 +321,7 @@
       <version>v2-rev162-1.25.0</version>
       <version>v2-rev163-1.18.0-rc</version>
       <version>v2-rev163-1.25.0</version>
+      <version>v2-rev164-1.18.0-rc</version>
       <version>v2-rev164-1.25.0</version>
       <version>v2-rev20181113-1.26.0</version>
       <version>v2-rev20181113-1.27.0</version>
@@ -347,7 +348,8 @@
       <version>v2-rev20191218-1.30.8</version>
       <version>v2-rev20200210-1.30.8</version>
       <version>v2-rev20200212-1.30.8</version>
+      <version>v2-rev20200218-1.30.9</version>
     </versions>
-    <lastUpdated>20200305230552</lastUpdated>
+    <lastUpdated>20200306031117</lastUpdated>
   </versioning>
 </metadata>
