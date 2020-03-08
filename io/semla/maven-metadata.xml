@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>method-runner</prefix>
+      <artifactId>method-runner-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>semla</prefix>
+      <artifactId>semla-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
