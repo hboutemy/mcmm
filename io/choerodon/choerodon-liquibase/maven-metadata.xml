@@ -3,8 +3,8 @@
   <groupId>io.choerodon</groupId>
   <artifactId>choerodon-liquibase</artifactId>
   <versioning>
-    <latest>0.14.0.RELEASE</latest>
-    <release>0.14.0.RELEASE</release>
+    <latest>0.15.1.RELEASE</latest>
+    <release>0.15.1.RELEASE</release>
     <versions>
       <version>0.5.4.RELEASE</version>
       <version>0.6.0.RELEASE</version>
@@ -26,7 +26,9 @@
       <version>0.12.0.RELEASE</version>
       <version>0.13.0.RELEASE</version>
       <version>0.14.0.RELEASE</version>
+      <version>0.15.0.RELEASE</version>
+      <version>0.15.1.RELEASE</version>
     </versions>
-    <lastUpdated>20191227125129</lastUpdated>
+    <lastUpdated>20200309075134</lastUpdated>
   </versioning>
 </metadata>

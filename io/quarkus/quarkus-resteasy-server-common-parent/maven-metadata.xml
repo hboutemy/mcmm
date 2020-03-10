@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-server-common-parent</artifactId>
   <versioning>
-    <latest>1.3.0.CR1</latest>
-    <release>1.3.0.CR1</release>
+    <latest>1.3.0.CR2</latest>
+    <release>1.3.0.CR2</release>
     <versions>
       <version>0.15.0</version>
       <version>0.16.0</version>
@@ -41,7 +41,8 @@
       <version>1.3.0.Alpha1</version>
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
+      <version>1.3.0.CR2</version>
     </versions>
-    <lastUpdated>20200306013856</lastUpdated>
+    <lastUpdated>20200309233129</lastUpdated>
   </versioning>
 </metadata>
