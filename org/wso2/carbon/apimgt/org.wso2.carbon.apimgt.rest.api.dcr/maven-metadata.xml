@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.rest.api.dcr</artifactId>
   <versioning>
-    <latest>6.6.128</latest>
-    <release>6.6.128</release>
+    <latest>6.6.134</latest>
+    <release>6.6.134</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -1117,7 +1117,13 @@
       <version>6.6.126</version>
       <version>6.6.127</version>
       <version>6.6.128</version>
+      <version>6.6.129</version>
+      <version>6.6.130</version>
+      <version>6.6.131</version>
+      <version>6.6.132</version>
+      <version>6.6.133</version>
+      <version>6.6.134</version>
     </versions>
-    <lastUpdated>20200309092547</lastUpdated>
+    <lastUpdated>20200310153752</lastUpdated>
   </versioning>
 </metadata>

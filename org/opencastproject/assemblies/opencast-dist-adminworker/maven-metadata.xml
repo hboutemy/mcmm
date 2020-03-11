@@ -3,12 +3,14 @@
   <groupId>org.opencastproject.assemblies</groupId>
   <artifactId>opencast-dist-adminworker</artifactId>
   <versioning>
-    <latest>7.2</latest>
-    <release>7.2</release>
+    <latest>7.6</latest>
+    <release>7.6</release>
     <versions>
       <version>6.6</version>
       <version>7.2</version>
+      <version>7.5</version>
+      <version>7.6</version>
     </versions>
-    <lastUpdated>20190822172624</lastUpdated>
+    <lastUpdated>20200310231313</lastUpdated>
   </versioning>
 </metadata>
