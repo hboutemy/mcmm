@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>simple-aop</artifactId>
   <versioning>
-    <latest>1.7.10</latest>
-    <release>1.7.10</release>
+    <latest>1.7.11</latest>
+    <release>1.7.11</release>
     <versions>
       <version>1.4.14</version>
       <version>1.4.15</version>
@@ -37,6 +37,7 @@
       <version>1.7.8</version>
       <version>1.7.9</version>
       <version>1.7.10</version>
+      <version>1.7.11</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -66,6 +67,6 @@
       <version>1.4.8</version>
       <version>1.4.9</version>
     </versions>
-    <lastUpdated>20200130231752</lastUpdated>
+    <lastUpdated>20200313175627</lastUpdated>
   </versioning>
 </metadata>

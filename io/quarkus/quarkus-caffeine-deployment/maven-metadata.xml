@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-caffeine-deployment</artifactId>
   <versioning>
-    <latest>1.3.0.CR2</latest>
-    <release>1.3.0.CR2</release>
+    <latest>1.3.0.Final</latest>
+    <release>1.3.0.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -47,7 +47,8 @@
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
       <version>1.3.0.CR2</version>
+      <version>1.3.0.Final</version>
     </versions>
-    <lastUpdated>20200309232625</lastUpdated>
+    <lastUpdated>20200313075817</lastUpdated>
   </versioning>
 </metadata>
