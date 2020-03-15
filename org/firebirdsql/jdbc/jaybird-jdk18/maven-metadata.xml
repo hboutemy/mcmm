@@ -3,8 +3,8 @@
   <groupId>org.firebirdsql.jdbc</groupId>
   <artifactId>jaybird-jdk18</artifactId>
   <versioning>
-    <latest>4.0.0.java8-beta-2</latest>
-    <release>4.0.0.java8-beta-2</release>
+    <latest>4.0.0.java8</latest>
+    <release>4.0.0.java8</release>
     <versions>
       <version>2.2.4</version>
       <version>2.2.5</version>
@@ -33,7 +33,8 @@
       <version>3.0.8</version>
       <version>4.0.0-beta-1</version>
       <version>4.0.0.java8-beta-2</version>
+      <version>4.0.0.java8</version>
     </versions>
-    <lastUpdated>20200119151717</lastUpdated>
+    <lastUpdated>20200314131945</lastUpdated>
   </versioning>
 </metadata>
