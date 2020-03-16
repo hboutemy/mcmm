@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>boot-docker Maven plugin</name>
+      <prefix>boot-docker</prefix>
+      <artifactId>boot-docker</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
