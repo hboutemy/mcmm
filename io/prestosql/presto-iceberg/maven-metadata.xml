@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-iceberg</artifactId>
   <versioning>
-    <latest>330</latest>
-    <release>330</release>
+    <latest>331</latest>
+    <release>331</release>
     <versions>
       <version>318</version>
       <version>319</version>
@@ -19,7 +19,8 @@
       <version>328</version>
       <version>329</version>
       <version>330</version>
+      <version>331</version>
     </versions>
-    <lastUpdated>20200219044709</lastUpdated>
+    <lastUpdated>20200316210350</lastUpdated>
   </versioning>
 </metadata>

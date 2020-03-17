@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>SchXslt Testsuite Maven Plugin</name>
+      <prefix>testsuite</prefix>
+      <artifactId>testsuite-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>XProc Maven Plugin</name>
       <prefix>xproc</prefix>
       <artifactId>xproc-maven-plugin</artifactId>

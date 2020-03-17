@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.artifactId}</name>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>install4j</prefix>
       <artifactId>install4j-maven-plugin</artifactId>
     </plugin>

@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-i18n-cs</artifactId>
   <versioning>
-    <latest>10.0.0-M1</latest>
-    <release>10.0.0-M1</release>
+    <latest>10.0.0-M3</latest>
+    <release>10.0.0-M3</release>
     <versions>
       <version>9.0.17</version>
       <version>9.0.19</version>
@@ -17,8 +17,10 @@
       <version>9.0.29</version>
       <version>9.0.30</version>
       <version>9.0.31</version>
+      <version>9.0.33</version>
       <version>10.0.0-M1</version>
+      <version>10.0.0-M3</version>
     </versions>
-    <lastUpdated>20200220163133</lastUpdated>
+    <lastUpdated>20200316091402</lastUpdated>
   </versioning>
 </metadata>
