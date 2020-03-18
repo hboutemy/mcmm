@@ -3,8 +3,8 @@
   <groupId>ch.epfl.lamp</groupId>
   <artifactId>dotty-interfaces</artifactId>
   <versioning>
-    <latest>0.23.0-bin-20200315-adc44da-NIGHTLY</latest>
-    <release>0.23.0-bin-20200315-adc44da-NIGHTLY</release>
+    <latest>0.23.0-bin-20200316-6948038-NIGHTLY</latest>
+    <release>0.23.0-bin-20200316-6948038-NIGHTLY</release>
     <versions>
       <version>0.1-SNAPSHOT-20160609-8fe3e37</version>
       <version>0.1.1-bin-20170424-40d405b-NIGHTLY</version>
@@ -881,6 +881,7 @@
       <version>0.21.0-bin-20191216-2828fcf-NIGHTLY</version>
       <version>0.21.0-bin-20191217-fa9a48e-NIGHTLY</version>
       <version>0.22.0-RC1</version>
+      <version>0.22.0</version>
       <version>0.22.0-bin-20191218-35fbb34-NIGHTLY</version>
       <version>0.22.0-bin-20191219-394217e-NIGHTLY</version>
       <version>0.22.0-bin-20191220-d45fea0-NIGHTLY</version>
@@ -910,6 +911,7 @@
       <version>0.22.0-bin-20200129-c1612fa-NIGHTLY</version>
       <version>0.22.0-bin-20200201-c4c847f-NIGHTLY</version>
       <version>0.22.0-bin-20200202-c2478a3-NIGHTLY</version>
+      <version>0.23.0-RC1</version>
       <version>0.23.0-bin-20200203-2ced64f-NIGHTLY</version>
       <version>0.23.0-bin-20200204-46aec62-NIGHTLY</version>
       <version>0.23.0-bin-20200205-3f919dd-NIGHTLY</version>
@@ -943,7 +945,8 @@
       <version>0.23.0-bin-20200313-ea27651-NIGHTLY</version>
       <version>0.23.0-bin-20200314-b08d746-NIGHTLY</version>
       <version>0.23.0-bin-20200315-adc44da-NIGHTLY</version>
+      <version>0.23.0-bin-20200316-6948038-NIGHTLY</version>
     </versions>
-    <lastUpdated>20200316025129</lastUpdated>
+    <lastUpdated>20200317165030</lastUpdated>
   </versioning>
 </metadata>

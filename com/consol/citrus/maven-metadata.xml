@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>citrus-remote-maven-plugin</name>
+      <name>Citrus :: Tools :: Remote :: Maven Plugin</name>
       <prefix>citrus-remote</prefix>
       <artifactId>citrus-remote-maven-plugin</artifactId>
     </plugin>

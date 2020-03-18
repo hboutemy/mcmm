@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>citrus-maven-plugin</name>
+      <name>Citrus :: Tools :: Maven :: Plugin</name>
       <prefix>citrus</prefix>
       <artifactId>citrus-maven-plugin</artifactId>
     </plugin>
