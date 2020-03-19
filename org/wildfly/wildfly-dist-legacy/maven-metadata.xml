@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-dist-legacy</artifactId>
   <versioning>
-    <latest>19.0.0.Beta3</latest>
-    <release>19.0.0.Beta3</release>
+    <latest>19.0.0.Final</latest>
+    <release>19.0.0.Final</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
@@ -26,7 +26,8 @@
       <version>19.0.0.Beta1</version>
       <version>19.0.0.Beta2</version>
       <version>19.0.0.Beta3</version>
+      <version>19.0.0.Final</version>
     </versions>
-    <lastUpdated>20200306015317</lastUpdated>
+    <lastUpdated>20200317233214</lastUpdated>
   </versioning>
 </metadata>
