@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-drive</artifactId>
   <versioning>
-    <latest>v3-rev20200303-1.30.9</latest>
-    <release>v3-rev20200303-1.30.9</release>
+    <latest>v3-rev20200306-1.30.9</latest>
+    <release>v3-rev20200306-1.30.9</release>
     <versions>
       <version>v1-rev45-1.13.2-beta</version>
       <version>v1-rev45-1.14.1-beta</version>
@@ -1520,6 +1520,8 @@
       <version>v2-rev391-1.25.0</version>
       <version>v2-rev392-1.18.0-rc</version>
       <version>v2-rev392-1.25.0</version>
+      <version>v2-rev393-1.18.0-rc</version>
+      <version>v2-rev393-1.25.0</version>
       <version>v2-rev20180830-1.26.0</version>
       <version>v2-rev20181022-1.26.0</version>
       <version>v2-rev20181101-1.26.0</version>
@@ -1565,6 +1567,7 @@
       <version>v2-rev20200110-1.30.8</version>
       <version>v2-rev20200110-1.30.9</version>
       <version>v2-rev20200303-1.30.9</version>
+      <version>v2-rev20200306-1.30.9</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.19.1</version>
       <version>v3-rev1-1.20.0</version>
@@ -2128,6 +2131,8 @@
       <version>v3-rev195-1.25.0</version>
       <version>v3-rev196-1.18.0-rc</version>
       <version>v3-rev196-1.25.0</version>
+      <version>v3-rev197-1.18.0-rc</version>
+      <version>v3-rev197-1.25.0</version>
       <version>v3-rev20180830-1.26.0</version>
       <version>v3-rev20181101-1.26.0</version>
       <version>v3-rev20181101-1.27.0</version>
@@ -2172,6 +2177,7 @@
       <version>v3-rev20191108-1.30.8</version>
       <version>v3-rev20191108-1.30.9</version>
       <version>v3-rev20200303-1.30.9</version>
+      <version>v3-rev20200306-1.30.9</version>
       <version>v1-rev126-1.18.0-rc</version>
       <version>v1-rev126-1.19.0</version>
       <version>v1-rev126-1.19.1</version>
@@ -2181,6 +2187,6 @@
       <version>v2-rev174-1.19.1</version>
       <version>v2-rev174-1.20.0</version>
     </versions>
-    <lastUpdated>20200312201249</lastUpdated>
+    <lastUpdated>20200319203531</lastUpdated>
   </versioning>
 </metadata>
