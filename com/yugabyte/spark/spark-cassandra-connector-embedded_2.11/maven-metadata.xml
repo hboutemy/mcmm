@@ -3,8 +3,8 @@
   <groupId>com.yugabyte.spark</groupId>
   <artifactId>spark-cassandra-connector-embedded_2.11</artifactId>
   <versioning>
-    <latest>2.0.5-yb-7</latest>
-    <release>2.0.5-yb-7</release>
+    <latest>2.4-yb</latest>
+    <release>2.4-yb</release>
     <versions>
       <version>2.0.5-yb-2</version>
       <version>2.0.5-yb-3</version>
@@ -12,7 +12,8 @@
       <version>2.0.5-yb-5</version>
       <version>2.0.5-yb-6</version>
       <version>2.0.5-yb-7</version>
+      <version>2.4-yb</version>
     </versions>
-    <lastUpdated>20180808214137</lastUpdated>
+    <lastUpdated>20200320030142</lastUpdated>
   </versioning>
 </metadata>

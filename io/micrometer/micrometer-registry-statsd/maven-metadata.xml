@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-registry-statsd</artifactId>
   <versioning>
-    <latest>1.3.6</latest>
-    <release>1.3.6</release>
+    <latest>1.4.0</latest>
+    <release>1.4.0</release>
     <versions>
       <version>1.0.0-rc.2</version>
       <version>1.0.0-rc.3</version>
@@ -48,7 +48,8 @@
       <version>1.3.4</version>
       <version>1.3.5</version>
       <version>1.3.6</version>
+      <version>1.4.0</version>
     </versions>
-    <lastUpdated>20200316135532</lastUpdated>
+    <lastUpdated>20200320174808</lastUpdated>
   </versioning>
 </metadata>
