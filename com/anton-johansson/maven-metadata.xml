@@ -6,5 +6,10 @@
       <prefix>build-markdown-generator</prefix>
       <artifactId>build-markdown-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Version lifecycle plugin</name>
+      <prefix>version-lifecycle</prefix>
+      <artifactId>version-lifecycle-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
