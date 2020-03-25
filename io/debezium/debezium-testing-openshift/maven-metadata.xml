@@ -3,13 +3,14 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-testing-openshift</artifactId>
   <versioning>
-    <latest>1.1.0.CR1</latest>
-    <release>1.1.0.CR1</release>
+    <latest>1.1.0.Final</latest>
+    <release>1.1.0.Final</release>
     <versions>
       <version>1.0.2.Final</version>
       <version>1.0.3.Final</version>
       <version>1.1.0.CR1</version>
+      <version>1.1.0.Final</version>
     </versions>
-    <lastUpdated>20200312082924</lastUpdated>
+    <lastUpdated>20200324053518</lastUpdated>
   </versioning>
 </metadata>

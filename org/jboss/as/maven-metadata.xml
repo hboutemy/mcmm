@@ -6,5 +6,10 @@
       <prefix>patch-gen-maven-plugin</prefix>
       <artifactId>patch-gen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>JBoss patch-gen Maven Plugin</name>
+      <prefix>patch-gen</prefix>
+      <artifactId>patch-gen-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
