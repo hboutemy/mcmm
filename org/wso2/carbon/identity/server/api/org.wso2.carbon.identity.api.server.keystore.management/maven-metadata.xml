@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.keystore.management</artifactId>
   <versioning>
-    <latest>1.0.90</latest>
-    <release>1.0.90</release>
+    <latest>1.0.92</latest>
+    <release>1.0.92</release>
     <versions>
       <version>1.0.52</version>
       <version>1.0.53</version>
@@ -40,7 +40,9 @@
       <version>1.0.88</version>
       <version>1.0.89</version>
       <version>1.0.90</version>
+      <version>1.0.91</version>
+      <version>1.0.92</version>
     </versions>
-    <lastUpdated>20200324093436</lastUpdated>
+    <lastUpdated>20200325151220</lastUpdated>
   </versioning>
 </metadata>
