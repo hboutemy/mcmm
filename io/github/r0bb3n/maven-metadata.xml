@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sonar Quality Gate Maven Plugin</name>
+      <prefix>sonar-quality-gate</prefix>
+      <artifactId>sonar-quality-gate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

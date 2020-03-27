@@ -3,8 +3,8 @@
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-macro-html</artifactId>
   <versioning>
-    <latest>12.1</latest>
-    <release>12.1</release>
+    <latest>12.2</latest>
+    <release>12.2</release>
     <versions>
       <version>3.2-milestone-3</version>
       <version>3.2-rc-1</version>
@@ -288,9 +288,10 @@
       <version>12.0</version>
       <version>12.1-rc-1</version>
       <version>12.1</version>
+      <version>12.2</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20200224152922</lastUpdated>
+    <lastUpdated>20200326113059</lastUpdated>
   </versioning>
 </metadata>
