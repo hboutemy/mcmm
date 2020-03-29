@@ -7,9 +7,19 @@
       <artifactId>k8s-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Kubernetes Maven Plugin :: Plugin</name>
+      <prefix>kubernetes</prefix>
+      <artifactId>kubernetes-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Openshift Maven Plugin :: Plugin</name>
       <prefix>oc</prefix>
       <artifactId>oc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Openshift Maven Plugin :: Plugin</name>
+      <prefix>openshift</prefix>
+      <artifactId>openshift-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
