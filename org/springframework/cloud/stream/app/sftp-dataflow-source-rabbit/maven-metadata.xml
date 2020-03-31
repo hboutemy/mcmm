@@ -3,12 +3,13 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>sftp-dataflow-source-rabbit</artifactId>
   <versioning>
-    <latest>2.1.1.RELEASE</latest>
-    <release>2.1.1.RELEASE</release>
+    <latest>2.1.2.RELEASE</latest>
+    <release>2.1.2.RELEASE</release>
     <versions>
       <version>2.1.0.RELEASE</version>
       <version>2.1.1.RELEASE</version>
+      <version>2.1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20191002204423</lastUpdated>
+    <lastUpdated>20200330210918</lastUpdated>
   </versioning>
 </metadata>

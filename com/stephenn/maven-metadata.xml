@@ -6,5 +6,10 @@
       <prefix>scalate_2.12</prefix>
       <artifactId>scalate-maven-plugin_2.12</artifactId>
     </plugin>
+    <plugin>
+      <name>Scalate Maven Plugin</name>
+      <prefix>scalate_2.13</prefix>
+      <artifactId>scalate-maven-plugin_2.13</artifactId>
+    </plugin>
   </plugins>
 </metadata>

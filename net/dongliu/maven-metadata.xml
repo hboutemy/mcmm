@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JLink Maven Plug-In</name>
+      <prefix>jlink</prefix>
+      <artifactId>jlink-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Protoc Plugin for Protoc and Prettypb</name>
       <prefix>protoc</prefix>
       <artifactId>maven-protoc-plugin</artifactId>
