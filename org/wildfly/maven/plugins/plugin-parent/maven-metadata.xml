@@ -3,15 +3,16 @@
   <groupId>org.wildfly.maven.plugins</groupId>
   <artifactId>plugin-parent</artifactId>
   <versioning>
-    <latest>2.0.0.Final</latest>
-    <release>2.0.0.Final</release>
+    <latest>2.1.0.Final</latest>
+    <release>2.1.0.Final</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>2.0.0.Beta1</version>
       <version>2.0.0.Beta2</version>
       <version>2.0.0.Final</version>
+      <version>2.1.0.Final</version>
     </versions>
-    <lastUpdated>20190219113051</lastUpdated>
+    <lastUpdated>20200331184526</lastUpdated>
   </versioning>
 </metadata>
