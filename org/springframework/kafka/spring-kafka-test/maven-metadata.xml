@@ -3,8 +3,8 @@
   <groupId>org.springframework.kafka</groupId>
   <artifactId>spring-kafka-test</artifactId>
   <versioning>
-    <latest>2.4.4.RELEASE</latest>
-    <release>2.4.4.RELEASE</release>
+    <latest>2.4.5.RELEASE</latest>
+    <release>2.4.5.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -87,7 +87,8 @@
       <version>2.4.2.RELEASE</version>
       <version>2.4.3.RELEASE</version>
       <version>2.4.4.RELEASE</version>
+      <version>2.4.5.RELEASE</version>
     </versions>
-    <lastUpdated>20200325165837</lastUpdated>
+    <lastUpdated>20200401165701</lastUpdated>
   </versioning>
 </metadata>

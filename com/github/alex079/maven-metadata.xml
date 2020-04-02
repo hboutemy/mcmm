@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GraphQL client-side java classes generator</name>
+      <prefix>graphql-classes</prefix>
+      <artifactId>graphql-classes-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

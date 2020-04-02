@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Repository with AWS S3</name>
+      <prefix>repository-aws-s3</prefix>
+      <artifactId>maven-repository-aws-s3</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

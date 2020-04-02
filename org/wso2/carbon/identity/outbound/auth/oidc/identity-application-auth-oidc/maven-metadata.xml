@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.outbound.auth.oidc</groupId>
   <artifactId>identity-application-auth-oidc</artifactId>
   <versioning>
-    <latest>5.5.0</latest>
-    <release>5.5.0</release>
+    <latest>5.5.1</latest>
+    <release>5.5.1</release>
     <versions>
       <version>5.1.5</version>
       <version>5.1.6</version>
@@ -32,7 +32,8 @@
       <version>5.3.6</version>
       <version>5.4.2</version>
       <version>5.5.0</version>
+      <version>5.5.1</version>
     </versions>
-    <lastUpdated>20200317063457</lastUpdated>
+    <lastUpdated>20200401052719</lastUpdated>
   </versioning>
 </metadata>
