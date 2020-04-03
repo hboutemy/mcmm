@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-datasources-galleon-pack</artifactId>
   <versioning>
-    <latest>1.0.7.CD.Alpha2</latest>
-    <release>1.0.7.CD.Alpha2</release>
+    <latest>1.0.7.CD.Final</latest>
+    <release>1.0.7.CD.Final</release>
     <versions>
       <version>1.0.0.Alpha2</version>
       <version>1.0.0.Alpha3</version>
@@ -22,7 +22,8 @@
       <version>1.0.7.Final</version>
       <version>1.0.7.CD.Alpha1</version>
       <version>1.0.7.CD.Alpha2</version>
+      <version>1.0.7.CD.Final</version>
     </versions>
-    <lastUpdated>20200318083007</lastUpdated>
+    <lastUpdated>20200402152403</lastUpdated>
   </versioning>
 </metadata>

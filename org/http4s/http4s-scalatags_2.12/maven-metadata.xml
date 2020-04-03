@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-scalatags_2.12</artifactId>
   <versioning>
-    <latest>0.21.2</latest>
-    <release>0.21.2</release>
+    <latest>0.21.3</latest>
+    <release>0.21.3</release>
     <versions>
       <version>0.18.17</version>
       <version>0.18.18</version>
@@ -49,6 +49,7 @@
       <version>0.20.18</version>
       <version>0.20.19</version>
       <version>0.20.20</version>
+      <version>0.20.21</version>
       <version>0.21.0-M1</version>
       <version>0.21.0-M2</version>
       <version>0.21.0-M3</version>
@@ -63,7 +64,8 @@
       <version>0.21.0</version>
       <version>0.21.1</version>
       <version>0.21.2</version>
+      <version>0.21.3</version>
     </versions>
-    <lastUpdated>20200325012707</lastUpdated>
+    <lastUpdated>20200402045211</lastUpdated>
   </versioning>
 </metadata>
