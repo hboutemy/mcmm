@@ -16,5 +16,10 @@
       <prefix>itest</prefix>
       <artifactId>itest-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>SpecialAgent Maven Plugin</name>
+      <prefix>specialagent</prefix>
+      <artifactId>specialagent-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,11 +3,13 @@
   <groupId>com.datastax.spark</groupId>
   <artifactId>spark-cassandra-connector-test-support_2.12</artifactId>
   <versioning>
-    <latest>3.0-alpha</latest>
-    <release>3.0-alpha</release>
+    <latest>3.0.0-alpha2</latest>
+    <release>3.0.0-alpha2</release>
     <versions>
+      <version>v3.0.0-alpha2</version>
       <version>3.0-alpha</version>
+      <version>3.0.0-alpha2</version>
     </versions>
-    <lastUpdated>20200317131618</lastUpdated>
+    <lastUpdated>20200403200209</lastUpdated>
   </versioning>
 </metadata>

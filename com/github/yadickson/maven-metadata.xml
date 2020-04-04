@@ -7,6 +7,11 @@
       <artifactId>autocert</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Auto Database to Liquibase Generator Plugin</name>
+      <prefix>autodblq</prefix>
+      <artifactId>autodblq</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Auto PLSQL/SP Generator Plugin</name>
       <prefix>autoplsp</prefix>
       <artifactId>autoplsp</artifactId>
