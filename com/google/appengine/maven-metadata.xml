@@ -6,5 +6,10 @@
       <prefix>appengine</prefix>
       <artifactId>appengine-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>A Maven Plugin using the Cloud SDK for running and deploying appengine applications</name>
+      <prefix>gcloud</prefix>
+      <artifactId>gcloud-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Variable Search Replace Maven Plugin</name>
+      <prefix>variable-search-replace</prefix>
+      <artifactId>variable-search-replace-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

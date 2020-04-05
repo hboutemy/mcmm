@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>tkit-liquibase-plugin</name>
+      <prefix>tkit-liquibase</prefix>
+      <artifactId>tkit-liquibase-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>tkit-mp-openapi-plugin</name>
       <prefix>tkit-mp-openapi</prefix>
       <artifactId>tkit-mp-openapi-plugin</artifactId>

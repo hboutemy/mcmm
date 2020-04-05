@@ -6,5 +6,10 @@
       <prefix>jboss-fuse</prefix>
       <artifactId>jboss-fuse-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>OpenAPI2JsonSchema4J</name>
+      <prefix>openapi2jsonschema4j</prefix>
+      <artifactId>openapi2jsonschema4j</artifactId>
+    </plugin>
   </plugins>
 </metadata>
