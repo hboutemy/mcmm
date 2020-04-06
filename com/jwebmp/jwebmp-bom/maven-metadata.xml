@@ -3,8 +3,8 @@
   <groupId>com.jwebmp</groupId>
   <artifactId>jwebmp-bom</artifactId>
   <versioning>
-    <latest>1.0.6.4-jre14</latest>
-    <release>1.0.6.4-jre14</release>
+    <latest>1.0.6.5-jre14</latest>
+    <release>1.0.6.5-jre14</release>
     <versions>
       <version>0.57.0.24</version>
       <version>0.58.0.1.RC1</version>
@@ -132,7 +132,11 @@
       <version>1.0.6.3-jre13</version>
       <version>1.0.6.3-jre14</version>
       <version>1.0.6.4-jre14</version>
+      <version>1.0.6.5</version>
+      <version>1.0.6.5-jre12</version>
+      <version>1.0.6.5-jre13</version>
+      <version>1.0.6.5-jre14</version>
     </versions>
-    <lastUpdated>20200403012132</lastUpdated>
+    <lastUpdated>20200405133513</lastUpdated>
   </versioning>
 </metadata>
