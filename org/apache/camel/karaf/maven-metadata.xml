@@ -144,4 +144,16 @@
     </versions>
     <lastUpdated>20200227092636</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>Camel Karaf :: Tooling :: Catalog Generator Maven Plugin</name>
+      <prefix>camel-catalog-generator-karaf</prefix>
+      <artifactId>camel-catalog-generator-karaf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel Karaf :: Tooling :: Docs Maven Plugin</name>
+      <prefix>camel-karaf-docs</prefix>
+      <artifactId>camel-karaf-docs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>

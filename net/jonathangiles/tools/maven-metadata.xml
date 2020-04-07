@@ -6,5 +6,10 @@
       <prefix>dependencyChecker</prefix>
       <artifactId>dependencyChecker-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Whitelist Generator - Maven Plugin</name>
+      <prefix>whitelistgenerator</prefix>
+      <artifactId>whitelistgenerator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
