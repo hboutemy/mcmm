@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudshell</artifactId>
   <versioning>
-    <latest>v1-rev20200224-1.30.9</latest>
-    <release>v1-rev20200224-1.30.9</release>
+    <latest>v1-rev20200405-1.30.9</latest>
+    <release>v1-rev20200405-1.30.9</release>
     <versions>
       <version>v1alpha1-rev1-1.18.0-rc</version>
       <version>v1alpha1-rev1-1.21.0</version>
@@ -419,6 +419,7 @@
       <version>v1alpha1-rev20200210-1.30.8</version>
       <version>v1alpha1-rev20200213-1.30.8</version>
       <version>v1alpha1-rev20200224-1.30.9</version>
+      <version>v1alpha1-rev20200405-1.30.9</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -832,7 +833,8 @@
       <version>v1-rev20200210-1.30.8</version>
       <version>v1-rev20200213-1.30.8</version>
       <version>v1-rev20200224-1.30.9</version>
+      <version>v1-rev20200405-1.30.9</version>
     </versions>
-    <lastUpdated>20200324010531</lastUpdated>
+    <lastUpdated>20200407201152</lastUpdated>
   </versioning>
 </metadata>

@@ -37,6 +37,11 @@
       <artifactId>bundler-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>service-bus-jms-connection-factory</name>
+      <prefix>service-bus-jms-connection-factory</prefix>
+      <artifactId>service-bus-jms-connection-factory</artifactId>
+    </plugin>
+    <plugin>
       <name>Azure Web Apps Maven Plugin</name>
       <prefix>webapp</prefix>
       <artifactId>webapp-maven-plugin</artifactId>

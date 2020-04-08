@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-spring-boot-starter</artifactId>
   <versioning>
-    <latest>4.5.0.Final</latest>
-    <release>4.5.0.Final</release>
+    <latest>4.5.1.Final</latest>
+    <release>4.5.1.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Final</version>
@@ -19,6 +19,7 @@
       <version>3.3.0.Final</version>
       <version>3.3.1.Final</version>
       <version>3.3.2.Final</version>
+      <version>3.4.0.Final</version>
       <version>4.0.0.Final</version>
       <version>4.1.0.Final</version>
       <version>4.1.1.Final</version>
@@ -27,7 +28,8 @@
       <version>4.3.1.Final</version>
       <version>4.4.0.Final</version>
       <version>4.5.0.Final</version>
+      <version>4.5.1.Final</version>
     </versions>
-    <lastUpdated>20200324030522</lastUpdated>
+    <lastUpdated>20200407083209</lastUpdated>
   </versioning>
 </metadata>
