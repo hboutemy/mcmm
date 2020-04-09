@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-annotations-api</artifactId>
   <versioning>
-    <latest>10.0.0-M3</latest>
-    <release>10.0.0-M3</release>
+    <latest>10.0.0-M4</latest>
+    <release>10.0.0-M4</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -163,6 +163,7 @@
       <version>8.5.50</version>
       <version>8.5.51</version>
       <version>8.5.53</version>
+      <version>8.5.54</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -207,9 +208,11 @@
       <version>9.0.30</version>
       <version>9.0.31</version>
       <version>9.0.33</version>
+      <version>9.0.34</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
+      <version>10.0.0-M4</version>
     </versions>
-    <lastUpdated>20200319171634</lastUpdated>
+    <lastUpdated>20200408154510</lastUpdated>
   </versioning>
 </metadata>

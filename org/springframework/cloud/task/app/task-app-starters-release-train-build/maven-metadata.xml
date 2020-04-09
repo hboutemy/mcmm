@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.task.app</groupId>
   <artifactId>task-app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Elston.SR1</latest>
-    <release>Elston.SR1</release>
+    <latest>Elston.SR2</latest>
+    <release>Elston.SR2</release>
     <versions>
       <version>Addison.RELEASE</version>
       <version>Belmont.RELEASE</version>
@@ -14,7 +14,8 @@
       <version>Dearborn.SR1</version>
       <version>Elston.RELEASE</version>
       <version>Elston.SR1</version>
+      <version>Elston.SR2</version>
     </versions>
-    <lastUpdated>20191210163800</lastUpdated>
+    <lastUpdated>20200408151338</lastUpdated>
   </versioning>
 </metadata>

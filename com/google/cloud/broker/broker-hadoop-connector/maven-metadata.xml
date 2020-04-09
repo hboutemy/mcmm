@@ -3,13 +3,14 @@
   <groupId>com.google.cloud.broker</groupId>
   <artifactId>broker-hadoop-connector</artifactId>
   <versioning>
-    <latest>hadoop2-0.10.2</latest>
-    <release>hadoop2-0.10.2</release>
+    <latest>hadoop2-0.10.3</latest>
+    <release>hadoop2-0.10.3</release>
     <versions>
       <version>hadoop2-0.10.0</version>
       <version>hadoop2-0.10.1</version>
       <version>hadoop2-0.10.2</version>
+      <version>hadoop2-0.10.3</version>
     </versions>
-    <lastUpdated>20200330221925</lastUpdated>
+    <lastUpdated>20200408224443</lastUpdated>
   </versioning>
 </metadata>

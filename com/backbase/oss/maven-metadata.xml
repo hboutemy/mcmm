@@ -2,6 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Blade :: Maven Plugin</name>
+      <prefix>blade</prefix>
+      <artifactId>blade-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>BOAT :: Maven Plugin</name>
       <prefix>boat</prefix>
       <artifactId>boat-maven-plugin</artifactId>
     </plugin>
