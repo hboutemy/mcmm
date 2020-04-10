@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.sun.xml.bind</groupId>
   <artifactId>jaxb-xjc</artifactId>
   <versioning>
     <latest>3.0.0-M1</latest>
     <release>3.0.0-M1</release>
     <versions>
+      <version>1.0.6</version>
+      <version>1.0.7</version>
       <version>2.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
       <version>2.0.3</version>
       <version>2.0.4</version>
       <version>2.0.5</version>
+      <version>2.1</version>
+      <version>2.1-EA1</version>
+      <version>2.1-EA2</version>
       <version>2.1.1</version>
       <version>2.1.2</version>
       <version>2.1.3</version>
@@ -22,28 +27,23 @@
       <version>2.1.8</version>
       <version>2.1.9</version>
       <version>2.1.10</version>
+      <version>2.1.10.1</version>
       <version>2.1.11</version>
       <version>2.1.12</version>
-      <version>2.2</version>
-      <version>2.2.2</version>
-      <version>2.3.2</version>
-      <version>2.3.3-b01</version>
-      <version>2.3.3-b02</version>
-      <version>3.0.0-M1</version>
-      <version>1.0.5</version>
-      <version>1.0.6</version>
-      <version>1.0.7</version>
-      <version>2.1</version>
-      <version>2.1-EA1</version>
-      <version>2.1-EA2</version>
-      <version>2.1.10.1</version>
       <version>2.1.13</version>
       <version>2.1.14</version>
       <version>2.1.15</version>
       <version>2.1.16</version>
       <version>2.1.17</version>
-      <version>2.2-EA</version>
       <version>2.2-b1</version>
+      <version>2.2</version>
+      <version>2.2-EA</version>
+      <version>2.2-promoted-b3</version>
+      <version>2.2-promoted-b4</version>
+      <version>2.2-promoted-b6</version>
+      <version>2.2-promoted-b7</version>
+      <version>2.2-promoted-b8</version>
+      <version>2.2-promoted-b9</version>
       <version>2.2-promoted-b10</version>
       <version>2.2-promoted-b11</version>
       <version>2.2-promoted-b12</version>
@@ -62,7 +62,6 @@
       <version>2.2-promoted-b25</version>
       <version>2.2-promoted-b26</version>
       <version>2.2-promoted-b29</version>
-      <version>2.2-promoted-b3</version>
       <version>2.2-promoted-b30</version>
       <version>2.2-promoted-b33</version>
       <version>2.2-promoted-b34</version>
@@ -70,7 +69,6 @@
       <version>2.2-promoted-b36</version>
       <version>2.2-promoted-b38</version>
       <version>2.2-promoted-b39</version>
-      <version>2.2-promoted-b4</version>
       <version>2.2-promoted-b40</version>
       <version>2.2-promoted-b41</version>
       <version>2.2-promoted-b42</version>
@@ -91,22 +89,15 @@
       <version>2.2-promoted-b57</version>
       <version>2.2-promoted-b58</version>
       <version>2.2-promoted-b59</version>
-      <version>2.2-promoted-b6</version>
       <version>2.2-promoted-b60</version>
       <version>2.2-promoted-b61</version>
       <version>2.2-promoted-b62</version>
       <version>2.2-promoted-b63</version>
       <version>2.2-promoted-b64</version>
       <version>2.2-promoted-b65</version>
-      <version>2.2-promoted-b7</version>
-      <version>2.2-promoted-b8</version>
-      <version>2.2-promoted-b9</version>
       <version>2.2.1</version>
       <version>2.2.1.1</version>
-      <version>2.2.10</version>
-      <version>2.2.10-b140310.1920</version>
-      <version>2.2.10-b140802.1033</version>
-      <version>2.2.11</version>
+      <version>2.2.2</version>
       <version>2.2.2-promoted-b92</version>
       <version>2.2.2-promoted-b93</version>
       <version>2.2.2-promoted-b94</version>
@@ -116,17 +107,11 @@
       <version>2.2.2-promoted-b98</version>
       <version>2.2.2-promoted-b99</version>
       <version>2.2.3</version>
+      <version>2.2.3U1</version>
       <version>2.2.3-1</version>
       <version>2.2.3-2</version>
-      <version>2.2.3U1</version>
       <version>2.2.4</version>
       <version>2.2.4-1</version>
-      <version>2.2.5</version>
-      <version>2.2.5-1</version>
-      <version>2.2.5-2</version>
-      <version>2.2.5-3</version>
-      <version>2.2.5-4</version>
-      <version>2.2.5-5</version>
       <version>2.2.5-b01</version>
       <version>2.2.5-b02</version>
       <version>2.2.5-b03</version>
@@ -137,11 +122,15 @@
       <version>2.2.5-b08</version>
       <version>2.2.5-b09</version>
       <version>2.2.5-b10</version>
-      <version>2.2.5.1</version>
-      <version>2.2.6</version>
+      <version>2.2.5</version>
+      <version>2.2.5-1</version>
+      <version>2.2.5-2</version>
+      <version>2.2.5-3</version>
+      <version>2.2.5-4</version>
+      <version>2.2.5-5</version>
       <version>2.2.6-b31</version>
       <version>2.2.6-b35</version>
-      <version>2.2.7</version>
+      <version>2.2.6</version>
       <version>2.2.7-b41</version>
       <version>2.2.7-b52</version>
       <version>2.2.7-b53</version>
@@ -151,14 +140,25 @@
       <version>2.2.7-b60</version>
       <version>2.2.7-b61</version>
       <version>2.2.7-b63</version>
+      <version>2.2.7</version>
       <version>2.2.8-b01</version>
-      <version>2.3.0</version>
+      <version>2.2.10-b140310.1920</version>
+      <version>2.2.10-b140802.1033</version>
+      <version>2.2.10</version>
+      <version>2.2.11</version>
       <version>2.3.0-b170127.1453</version>
+      <version>2.3.0</version>
       <version>2.3.0.1</version>
       <version>2.3.1</version>
+      <version>2.3.2</version>
+      <version>2.3.3-b01</version>
+      <version>2.3.3-b02</version>
       <version>2.4.0-b180725.0644</version>
       <version>2.4.0-b180830.0438</version>
+      <version>3.0.0-M1</version>
+      <version>1.0.5</version>
+      <version>2.2.5.1</version>
     </versions>
-    <lastUpdated>20200407152756</lastUpdated>
+    <lastUpdated>20200409185210</lastUpdated>
   </versioning>
 </metadata>

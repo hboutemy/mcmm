@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.commons</groupId>
   <artifactId>killbill-embeddeddb-postgresql</artifactId>
   <versioning>
-    <latest>0.23.9</latest>
-    <release>0.23.9</release>
+    <latest>0.23.10</latest>
+    <release>0.23.10</release>
     <versions>
       <version>0.4</version>
       <version>0.5</version>
@@ -73,7 +73,8 @@
       <version>0.23.7</version>
       <version>0.23.8</version>
       <version>0.23.9</version>
+      <version>0.23.10</version>
     </versions>
-    <lastUpdated>20200406201936</lastUpdated>
+    <lastUpdated>20200409210943</lastUpdated>
   </versioning>
 </metadata>
