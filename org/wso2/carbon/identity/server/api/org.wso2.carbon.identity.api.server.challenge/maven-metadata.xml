@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.challenge</artifactId>
   <versioning>
-    <latest>1.0.106</latest>
-    <release>1.0.106</release>
+    <latest>1.0.110</latest>
+    <release>1.0.110</release>
     <versions>
       <version>1.0.26</version>
       <version>1.0.27</version>
@@ -66,7 +66,11 @@
       <version>1.0.104</version>
       <version>1.0.105</version>
       <version>1.0.106</version>
+      <version>1.0.107</version>
+      <version>1.0.108</version>
+      <version>1.0.109</version>
+      <version>1.0.110</version>
     </versions>
-    <lastUpdated>20200408095410</lastUpdated>
+    <lastUpdated>20200410203825</lastUpdated>
   </versioning>
 </metadata>

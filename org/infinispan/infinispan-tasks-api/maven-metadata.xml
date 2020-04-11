@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-tasks-api</artifactId>
   <versioning>
-    <latest>11.0.0.Dev03</latest>
-    <release>11.0.0.Dev03</release>
+    <latest>11.0.0.Dev04</latest>
+    <release>11.0.0.Dev04</release>
     <versions>
       <version>8.2.0.Beta2</version>
       <version>8.2.0.CR1</version>
@@ -69,6 +69,7 @@
       <version>9.3.5.Final</version>
       <version>9.3.6.Final</version>
       <version>9.3.8.Final</version>
+      <version>9.3.9.Final</version>
       <version>9.4.0.Alpha1</version>
       <version>9.4.0.Beta1</version>
       <version>9.4.0.CR1</version>
@@ -114,11 +115,13 @@
       <version>10.1.3.Final</version>
       <version>10.1.4.Final</version>
       <version>10.1.5.Final</version>
+      <version>10.1.6.Final</version>
       <version>11.0.0.Alpha</version>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Alpha2</version>
       <version>11.0.0.Dev03</version>
+      <version>11.0.0.Dev04</version>
     </versions>
-    <lastUpdated>20200323105823</lastUpdated>
+    <lastUpdated>20200410190847</lastUpdated>
   </versioning>
 </metadata>
