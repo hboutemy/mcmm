@@ -6,5 +6,10 @@
       <prefix>orm</prefix>
       <artifactId>orm-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>sorm</name>
+      <prefix>sorm</prefix>
+      <artifactId>sorm</artifactId>
+    </plugin>
   </plugins>
 </metadata>

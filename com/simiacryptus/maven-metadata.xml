@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>autocoder-core</prefix>
+      <artifactId>autocoder-core</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>refcount-autocoder</prefix>
+      <artifactId>refcount-autocoder</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
