@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-installed-adapter</artifactId>
   <versioning>
-    <latest>9.0.2</latest>
-    <release>9.0.2</release>
+    <latest>9.0.3</latest>
+    <release>9.0.3</release>
     <versions>
       <version>1.0-beta-1</version>
       <version>1.0-beta-2</version>
@@ -106,8 +106,9 @@
       <version>8.0.2</version>
       <version>9.0.0</version>
       <version>9.0.2</version>
+      <version>9.0.3</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20200324063106</lastUpdated>
+    <lastUpdated>20200414095520</lastUpdated>
   </versioning>
 </metadata>

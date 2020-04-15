@@ -36,5 +36,10 @@
       <prefix>testpojo</prefix>
       <artifactId>testpojo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Artifact Updates Maven Plugin</name>
+      <prefix>updates</prefix>
+      <artifactId>updates-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

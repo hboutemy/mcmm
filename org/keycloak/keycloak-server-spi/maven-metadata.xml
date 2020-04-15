@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-server-spi</artifactId>
   <versioning>
-    <latest>9.0.2</latest>
-    <release>9.0.2</release>
+    <latest>9.0.3</latest>
+    <release>9.0.3</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -72,7 +72,8 @@
       <version>8.0.2</version>
       <version>9.0.0</version>
       <version>9.0.2</version>
+      <version>9.0.3</version>
     </versions>
-    <lastUpdated>20200324063145</lastUpdated>
+    <lastUpdated>20200414095646</lastUpdated>
   </versioning>
 </metadata>
