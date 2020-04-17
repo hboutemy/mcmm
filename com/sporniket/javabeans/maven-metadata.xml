@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>The Sporniket Javabeans Project – Maven Plugin Seeg "Sporniket Entities Extractor and Generator"</name>
+      <prefix>seeg</prefix>
+      <artifactId>seeg-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sporniket-javabeans-maven</name>
       <prefix>sporniket-javabeans</prefix>
       <artifactId>sporniket-javabeans-maven</artifactId>
