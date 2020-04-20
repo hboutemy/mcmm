@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>eclipse-settings</prefix>
+      <artifactId>eclipse-settings-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>hermetic</prefix>
       <artifactId>hermetic-maven-plugin</artifactId>
     </plugin>
