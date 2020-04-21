@@ -3,13 +3,15 @@
   <groupId>com.hotels.beans</groupId>
   <artifactId>bull-report</artifactId>
   <versioning>
-    <latest>1.7.0-RC</latest>
-    <release>1.7.0-RC</release>
+    <latest>1.7.0-jdk8</latest>
+    <release>1.7.0-jdk8</release>
     <versions>
       <version>1.6.5-jdk8</version>
       <version>1.6.6</version>
       <version>1.7.0-RC</version>
+      <version>1.7.0.0</version>
+      <version>1.7.0-jdk8</version>
     </versions>
-    <lastUpdated>20200414065809</lastUpdated>
+    <lastUpdated>20200420092530</lastUpdated>
   </versioning>
 </metadata>

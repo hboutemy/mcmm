@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-session-property-managers</artifactId>
   <versioning>
-    <latest>0.234</latest>
-    <release>0.234</release>
+    <latest>0.234.1</latest>
+    <release>0.234.1</release>
     <versions>
       <version>0.211</version>
       <version>0.212</version>
@@ -33,7 +33,8 @@
       <version>0.233</version>
       <version>0.233.1</version>
       <version>0.234</version>
+      <version>0.234.1</version>
     </versions>
-    <lastUpdated>20200416072903</lastUpdated>
+    <lastUpdated>20200420101538</lastUpdated>
   </versioning>
 </metadata>

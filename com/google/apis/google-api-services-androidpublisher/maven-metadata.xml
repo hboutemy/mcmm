@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-androidpublisher</artifactId>
   <versioning>
-    <latest>v3-rev20200331-1.30.9</latest>
-    <release>v3-rev20200331-1.30.9</release>
+    <latest>v3-rev20200414-1.30.9</latest>
+    <release>v3-rev20200414-1.30.9</release>
     <versions>
       <version>v1-rev10-1.13.2-beta</version>
       <version>v1-rev10-1.14.1-beta</version>
@@ -2067,6 +2067,7 @@
       <version>v2-rev20200115-1.30.8</version>
       <version>v2-rev20200115-1.30.9</version>
       <version>v2-rev20200331-1.30.9</version>
+      <version>v2-rev20200414-1.30.9</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.21.0</version>
       <version>v3-rev1-1.22.0</version>
@@ -2466,7 +2467,8 @@
       <version>v3-rev20200223-1.30.8</version>
       <version>v3-rev20200223-1.30.9</version>
       <version>v3-rev20200331-1.30.9</version>
+      <version>v3-rev20200414-1.30.9</version>
     </versions>
-    <lastUpdated>20200418060151</lastUpdated>
+    <lastUpdated>20200420200234</lastUpdated>
   </versioning>
 </metadata>

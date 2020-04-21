@@ -3,21 +3,17 @@
   <groupId>com.google.appengine</groupId>
   <artifactId>appengine-endpoints-deps</artifactId>
   <versioning>
-    <latest>1.9.76</latest>
-    <release>1.9.76</release>
+    <latest>1.9.80</latest>
+    <release>1.9.80</release>
     <versions>
+      <version>1.9.77</version>
+      <version>1.9.78</version>
+      <version>1.9.79</version>
+      <version>1.9.80</version>
       <version>1.8.8</version>
       <version>1.8.9</version>
       <version>1.9.0</version>
       <version>1.9.1</version>
-      <version>1.9.2</version>
-      <version>1.9.3</version>
-      <version>1.9.4</version>
-      <version>1.9.5</version>
-      <version>1.9.6</version>
-      <version>1.9.7</version>
-      <version>1.9.8</version>
-      <version>1.9.9</version>
       <version>1.9.10</version>
       <version>1.9.11</version>
       <version>1.9.12</version>
@@ -28,6 +24,7 @@
       <version>1.9.17a</version>
       <version>1.9.18</version>
       <version>1.9.19</version>
+      <version>1.9.2</version>
       <version>1.9.20</version>
       <version>1.9.21</version>
       <version>1.9.22</version>
@@ -37,6 +34,7 @@
       <version>1.9.26</version>
       <version>1.9.27</version>
       <version>1.9.28</version>
+      <version>1.9.3</version>
       <version>1.9.30</version>
       <version>1.9.31</version>
       <version>1.9.32</version>
@@ -44,12 +42,14 @@
       <version>1.9.36</version>
       <version>1.9.37</version>
       <version>1.9.38</version>
+      <version>1.9.4</version>
       <version>1.9.40</version>
       <version>1.9.42</version>
       <version>1.9.44</version>
       <version>1.9.46</version>
       <version>1.9.48</version>
       <version>1.9.49</version>
+      <version>1.9.5</version>
       <version>1.9.50</version>
       <version>1.9.51</version>
       <version>1.9.52</version>
@@ -60,6 +60,7 @@
       <version>1.9.57</version>
       <version>1.9.58</version>
       <version>1.9.59</version>
+      <version>1.9.6</version>
       <version>1.9.60</version>
       <version>1.9.61</version>
       <version>1.9.62</version>
@@ -70,16 +71,16 @@
       <version>1.9.67</version>
       <version>1.9.68</version>
       <version>1.9.69</version>
+      <version>1.9.7</version>
       <version>1.9.70</version>
       <version>1.9.71</version>
       <version>1.9.73</version>
       <version>1.9.74</version>
       <version>1.9.75</version>
       <version>1.9.76</version>
-      <version>1.9.77</version>
-      <version>1.9.78</version>
-      <version>1.9.79</version>
+      <version>1.9.8</version>
+      <version>1.9.9</version>
     </versions>
-    <lastUpdated>20190624215903</lastUpdated>
+    <lastUpdated>20200420212510</lastUpdated>
   </versioning>
 </metadata>
