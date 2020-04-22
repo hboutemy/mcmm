@@ -6,5 +6,10 @@
       <prefix>renjin-hamcrest</prefix>
       <artifactId>renjin-hamcrest-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>renjin-test-maven-plugin Maven Mojo</name>
+      <prefix>renjin-test</prefix>
+      <artifactId>renjin-test-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
