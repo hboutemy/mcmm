@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm-mongodb</artifactId>
   <versioning>
-    <latest>7.0.0.RELEASE</latest>
-    <release>7.0.0.RELEASE</release>
+    <latest>7.1.0.M1</latest>
+    <release>7.1.0.M1</release>
     <versions>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
@@ -67,9 +67,10 @@
       <version>6.1.6.RELEASE</version>
       <version>7.0.0.RC2</version>
       <version>7.0.0.RELEASE</version>
+      <version>7.1.0.M1</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20190410111237</lastUpdated>
+    <lastUpdated>20200422210818</lastUpdated>
   </versioning>
 </metadata>
