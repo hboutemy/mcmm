@@ -3,8 +3,8 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-functions-api</artifactId>
   <versioning>
-    <latest>2.5.0</latest>
-    <release>2.5.0</release>
+    <latest>2.5.1</latest>
+    <release>2.5.1</release>
     <versions>
       <version>2.0.0-rc1-incubating</version>
       <version>2.0.1-incubating</version>
@@ -19,7 +19,8 @@
       <version>2.4.1</version>
       <version>2.4.2</version>
       <version>2.5.0</version>
+      <version>2.5.1</version>
     </versions>
-    <lastUpdated>20200115104329</lastUpdated>
+    <lastUpdated>20200423094916</lastUpdated>
   </versioning>
 </metadata>

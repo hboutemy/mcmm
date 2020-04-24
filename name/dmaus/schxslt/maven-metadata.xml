@@ -11,5 +11,10 @@
       <prefix>xproc</prefix>
       <artifactId>xproc-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>XQUnit Maven Plugin</name>
+      <prefix>xqunit</prefix>
+      <artifactId>xqunit-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
