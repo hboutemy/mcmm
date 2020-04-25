@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Hyperfoil Code Generator</name>
+      <prefix>hyperfoil-codegen</prefix>
+      <artifactId>hyperfoil-codegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Hyperfoil Maven Plugin</name>
       <prefix>hyperfoil</prefix>
       <artifactId>hyperfoil-maven-plugin</artifactId>

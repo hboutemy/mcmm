@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-core</artifactId>
   <versioning>
-    <latest>6.0.0.Alpha4</latest>
-    <release>6.0.0.Alpha4</release>
+    <latest>6.0.0.Alpha5</latest>
+    <release>6.0.0.Alpha5</release>
     <versions>
       <version>3.3.0.CR1</version>
       <version>3.3.0.CR2</version>
@@ -206,6 +206,7 @@
       <version>6.0.0.Alpha2</version>
       <version>6.0.0.Alpha3</version>
       <version>6.0.0.Alpha4</version>
+      <version>6.0.0.Alpha5</version>
       <version>4.1.2</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
@@ -217,6 +218,6 @@
       <version>5.2.16.Final</version>
       <version>5.2.17.Final</version>
     </versions>
-    <lastUpdated>20200406174426</lastUpdated>
+    <lastUpdated>20200424191421</lastUpdated>
   </versioning>
 </metadata>
