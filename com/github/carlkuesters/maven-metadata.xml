@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>OpenAPI Maven Plugin</name>
+      <prefix>openapi</prefix>
+      <artifactId>openapi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Swagger Maven Plugin</name>
       <prefix>swagger</prefix>
       <artifactId>swagger-maven-plugin</artifactId>

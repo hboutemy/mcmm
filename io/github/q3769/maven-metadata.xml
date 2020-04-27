@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>SemVer Maven Plugin</name>
       <prefix>semver</prefix>
       <artifactId>semver-maven-plugin</artifactId>
     </plugin>
