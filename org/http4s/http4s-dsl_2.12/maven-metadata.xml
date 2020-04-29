@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-dsl_2.12</artifactId>
   <versioning>
-    <latest>0.21.3</latest>
-    <release>0.21.3</release>
+    <latest>0.21.4</latest>
+    <release>0.21.4</release>
     <versions>
       <version>0.15.0</version>
       <version>0.15.0a</version>
@@ -150,6 +150,8 @@
       <version>0.20.19</version>
       <version>0.20.20</version>
       <version>0.20.21</version>
+      <version>0.20.22</version>
+      <version>0.20.23</version>
       <version>0.21.0-M1</version>
       <version>0.21.0-M2</version>
       <version>0.21.0-M3</version>
@@ -165,7 +167,8 @@
       <version>0.21.1</version>
       <version>0.21.2</version>
       <version>0.21.3</version>
+      <version>0.21.4</version>
     </versions>
-    <lastUpdated>20200402045148</lastUpdated>
+    <lastUpdated>20200428182938</lastUpdated>
   </versioning>
 </metadata>

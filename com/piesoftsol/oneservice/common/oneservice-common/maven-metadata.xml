@@ -3,8 +3,8 @@
   <groupId>com.piesoftsol.oneservice.common</groupId>
   <artifactId>oneservice-common</artifactId>
   <versioning>
-    <latest>5.0.0-RC2</latest>
-    <release>5.0.0-RC2</release>
+    <latest>5.0.0.X</latest>
+    <release>5.0.0.X</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -38,7 +38,8 @@
       <version>5.0.0-M3</version>
       <version>5.0.0-RC1</version>
       <version>5.0.0-RC2</version>
+      <version>5.0.0.X</version>
     </versions>
-    <lastUpdated>20200409180501</lastUpdated>
+    <lastUpdated>20200428115651</lastUpdated>
   </versioning>
 </metadata>

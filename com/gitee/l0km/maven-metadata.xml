@@ -32,6 +32,11 @@
       <artifactId>facelogservice-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>mtfsdk-service-maven-plugin</name>
+      <prefix>mtfsdk-service</prefix>
+      <artifactId>mtfsdk-service-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sql2java maven plugin</name>
       <prefix>sql2java</prefix>
       <artifactId>sql2java-maven-plugin</artifactId>

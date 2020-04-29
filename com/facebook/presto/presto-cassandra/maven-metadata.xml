@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-cassandra</artifactId>
   <versioning>
-    <latest>0.234.1</latest>
-    <release>0.234.1</release>
+    <latest>0.234.2</latest>
+    <release>0.234.2</release>
     <versions>
       <version>0.58</version>
       <version>0.59</version>
@@ -199,7 +199,8 @@
       <version>0.233.1</version>
       <version>0.234</version>
       <version>0.234.1</version>
+      <version>0.234.2</version>
     </versions>
-    <lastUpdated>20200420101401</lastUpdated>
+    <lastUpdated>20200428012452</lastUpdated>
   </versioning>
 </metadata>
