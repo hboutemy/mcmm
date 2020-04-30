@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-tomcat-adapter</artifactId>
   <versioning>
-    <latest>9.0.3</latest>
-    <release>9.0.3</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -14,7 +14,8 @@
       <version>9.0.0</version>
       <version>9.0.2</version>
       <version>9.0.3</version>
+      <version>10.0.0</version>
     </versions>
-    <lastUpdated>20200414095614</lastUpdated>
+    <lastUpdated>20200429084720</lastUpdated>
   </versioning>
 </metadata>
