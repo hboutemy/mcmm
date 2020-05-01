@@ -17,6 +17,11 @@
       <artifactId>maven-dependency-list-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>ParserGen Maven Plugin</name>
+      <prefix>parsergen</prefix>
+      <artifactId>parsergen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Java RPM builder</name>
       <prefix>rpm</prefix>
       <artifactId>rpm-maven-plugin</artifactId>

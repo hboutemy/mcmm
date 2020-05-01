@@ -3,10 +3,11 @@
   <groupId>org.glassfish.tyrus</groupId>
   <artifactId>tyrus-client</artifactId>
   <versioning>
-    <latest>1.16</latest>
-    <release>1.16</release>
+    <latest>2.0.0-M1</latest>
+    <release>2.0.0-M1</release>
     <versions>
       <version>1.16</version>
+      <version>2.0.0-M1</version>
       <version>1.0</version>
       <version>1.0-b07</version>
       <version>1.0-b08</version>
@@ -46,6 +47,6 @@
       <version>1.8.3</version>
       <version>1.9</version>
     </versions>
-    <lastUpdated>20200304125903</lastUpdated>
+    <lastUpdated>20200430131622</lastUpdated>
   </versioning>
 </metadata>

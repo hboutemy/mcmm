@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>CDS Maven Plugin</name>
+      <prefix>cds</prefix>
+      <artifactId>cds-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>cds4j:maven-plugin</name>
       <prefix>cds4j</prefix>
       <artifactId>cds4j-maven-plugin</artifactId>
