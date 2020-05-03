@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>redlinerpm-maven-plugin</name>
+      <prefix>redlinerpm</prefix>
+      <artifactId>redlinerpm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sphinx-maven-plugin</name>
       <prefix>sphinx</prefix>
       <artifactId>sphinx-maven-plugin</artifactId>
