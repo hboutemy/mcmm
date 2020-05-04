@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Resource Minification Maven Plugin</name>
+      <prefix>resource-minification</prefix>
+      <artifactId>resource-minification-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
