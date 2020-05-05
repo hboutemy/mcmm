@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-metrics-smallrye</artifactId>
   <versioning>
-    <latest>19.0.0.Final</latest>
-    <release>19.0.0.Final</release>
+    <latest>19.1.0.Final</latest>
+    <release>19.1.0.Final</release>
     <versions>
       <version>15.0.0.Beta1</version>
       <version>15.0.0.Final</version>
@@ -22,7 +22,8 @@
       <version>19.0.0.Beta2</version>
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
+      <version>19.1.0.Final</version>
     </versions>
-    <lastUpdated>20200317233230</lastUpdated>
+    <lastUpdated>20200504022935</lastUpdated>
   </versioning>
 </metadata>

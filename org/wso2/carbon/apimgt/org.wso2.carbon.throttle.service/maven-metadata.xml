@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.throttle.service</artifactId>
   <versioning>
-    <latest>6.6.192</latest>
-    <release>6.6.192</release>
+    <latest>6.6.195</latest>
+    <release>6.6.195</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -1174,7 +1174,10 @@
       <version>6.6.190</version>
       <version>6.6.191</version>
       <version>6.6.192</version>
+      <version>6.6.193</version>
+      <version>6.6.194</version>
+      <version>6.6.195</version>
     </versions>
-    <lastUpdated>20200430164818</lastUpdated>
+    <lastUpdated>20200504094315</lastUpdated>
   </versioning>
 </metadata>

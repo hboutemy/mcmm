@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-jakartaee8-with-tools-builder</artifactId>
   <versioning>
-    <latest>19.0.1.Final</latest>
-    <release>19.0.1.Final</release>
+    <latest>19.1.0.Final</latest>
+    <release>19.1.0.Final</release>
     <versions>
       <version>18.0.0.Final</version>
       <version>18.0.1.Final</version>
@@ -13,7 +13,8 @@
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
       <version>19.0.1.Final</version>
+      <version>19.1.0.Final</version>
     </versions>
-    <lastUpdated>20200318121951</lastUpdated>
+    <lastUpdated>20200504094133</lastUpdated>
   </versioning>
 </metadata>

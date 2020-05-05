@@ -3,13 +3,14 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-microprofile-builder</artifactId>
   <versioning>
-    <latest>19.0.1.Final</latest>
-    <release>19.0.1.Final</release>
+    <latest>19.1.0.Final</latest>
+    <release>19.1.0.Final</release>
     <versions>
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
       <version>19.0.1.Final</version>
+      <version>19.1.0.Final</version>
     </versions>
-    <lastUpdated>20200318121952</lastUpdated>
+    <lastUpdated>20200504094134</lastUpdated>
   </versioning>
 </metadata>

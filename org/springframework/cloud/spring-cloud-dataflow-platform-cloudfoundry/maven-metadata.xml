@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dataflow-platform-cloudfoundry</artifactId>
   <versioning>
-    <latest>2.4.2.RELEASE</latest>
-    <release>2.4.2.RELEASE</release>
+    <latest>2.5.0.RELEASE</latest>
+    <release>2.5.0.RELEASE</release>
     <versions>
       <version>2.0.0.RELEASE</version>
       <version>2.0.1.RELEASE</version>
@@ -22,7 +22,8 @@
       <version>2.4.0.RELEASE</version>
       <version>2.4.1.RELEASE</version>
       <version>2.4.2.RELEASE</version>
+      <version>2.5.0.RELEASE</version>
     </versions>
-    <lastUpdated>20200310170931</lastUpdated>
+    <lastUpdated>20200504165640</lastUpdated>
   </versioning>
 </metadata>

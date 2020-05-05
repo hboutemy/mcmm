@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-jaxr</artifactId>
   <versioning>
-    <latest>19.0.0.Final</latest>
-    <release>19.0.0.Final</release>
+    <latest>19.1.0.Final</latest>
+    <release>19.1.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -70,7 +70,8 @@
       <version>19.0.0.Beta2</version>
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
+      <version>19.1.0.Final</version>
     </versions>
-    <lastUpdated>20200317233223</lastUpdated>
+    <lastUpdated>20200504022928</lastUpdated>
   </versioning>
 </metadata>
