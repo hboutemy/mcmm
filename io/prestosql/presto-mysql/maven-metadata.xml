@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-mysql</artifactId>
   <versioning>
-    <latest>332</latest>
-    <release>332</release>
+    <latest>333</latest>
+    <release>333</release>
     <versions>
       <version>300</version>
       <version>301</version>
@@ -39,7 +39,8 @@
       <version>330</version>
       <version>331</version>
       <version>332</version>
+      <version>333</version>
     </versions>
-    <lastUpdated>20200409023749</lastUpdated>
+    <lastUpdated>20200505070557</lastUpdated>
   </versioning>
 </metadata>

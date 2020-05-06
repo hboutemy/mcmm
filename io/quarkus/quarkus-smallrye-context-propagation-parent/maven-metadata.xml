@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-context-propagation-parent</artifactId>
   <versioning>
-    <latest>1.4.1.Final</latest>
-    <release>1.4.1.Final</release>
+    <latest>1.4.2.Final</latest>
+    <release>1.4.2.Final</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1</version>
@@ -47,7 +47,8 @@
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
       <version>1.4.1.Final</version>
+      <version>1.4.2.Final</version>
     </versions>
-    <lastUpdated>20200424141759</lastUpdated>
+    <lastUpdated>20200505103850</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-elasticsearch</artifactId>
   <versioning>
-    <latest>332</latest>
-    <release>332</release>
+    <latest>333</latest>
+    <release>333</release>
     <versions>
       <version>302</version>
       <version>303</version>
@@ -37,7 +37,8 @@
       <version>330</version>
       <version>331</version>
       <version>332</version>
+      <version>333</version>
     </versions>
-    <lastUpdated>20200409023712</lastUpdated>
+    <lastUpdated>20200505070508</lastUpdated>
   </versioning>
 </metadata>
