@@ -11,5 +11,10 @@
       <prefix>gpg</prefix>
       <artifactId>gpg-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Versionin Maven Plugin</name>
+      <prefix>versioning</prefix>
+      <artifactId>versioning-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

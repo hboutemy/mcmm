@@ -12,6 +12,11 @@
       <artifactId>jdeps-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Skinny WAR Maven Plugin</name>
+      <prefix>skinny-war</prefix>
+      <artifactId>skinny-war-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Truststore Maven Plugin</name>
       <prefix>truststore</prefix>
       <artifactId>truststore-maven-plugin</artifactId>

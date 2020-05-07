@@ -6,5 +6,10 @@
       <prefix>oci</prefix>
       <artifactId>oci-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>pomchecker-maven-plugin</name>
+      <prefix>pomchecker</prefix>
+      <artifactId>pomchecker-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
