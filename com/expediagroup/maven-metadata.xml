@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>com.expediagroup:graphql-kotlin-maven-plugin</name>
+      <prefix>graphql-kotlin</prefix>
+      <artifactId>graphql-kotlin-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

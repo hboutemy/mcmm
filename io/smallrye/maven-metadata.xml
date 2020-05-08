@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>SmallRye: MicroProfile GraphQL Maven Plugin</name>
+      <name>SmallRye: GraphQL Tools :: Maven</name>
       <prefix>smallrye-graphql</prefix>
       <artifactId>smallrye-graphql-maven-plugin</artifactId>
     </plugin>

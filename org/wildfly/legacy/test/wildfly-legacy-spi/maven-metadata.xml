@@ -3,8 +3,8 @@
   <groupId>org.wildfly.legacy.test</groupId>
   <artifactId>wildfly-legacy-spi</artifactId>
   <versioning>
-    <latest>4.0.1.Final</latest>
-    <release>4.0.1.Final</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -23,7 +23,8 @@
       <version>3.0.0.Final</version>
       <version>4.0.0.Final</version>
       <version>4.0.1.Final</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20190208132430</lastUpdated>
+    <lastUpdated>20200506222348</lastUpdated>
   </versioning>
 </metadata>
