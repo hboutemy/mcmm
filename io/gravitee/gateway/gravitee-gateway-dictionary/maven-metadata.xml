@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway</groupId>
   <artifactId>gravitee-gateway-dictionary</artifactId>
   <versioning>
-    <latest>3.0.0-alpha</latest>
-    <release>3.0.0-alpha</release>
+    <latest>3.0.0-beta</latest>
+    <release>3.0.0-beta</release>
     <versions>
       <version>1.19.0</version>
       <version>1.19.1</version>
@@ -103,7 +103,8 @@
       <version>1.30.9</version>
       <version>1.30.10</version>
       <version>3.0.0-alpha</version>
+      <version>3.0.0-beta</version>
     </versions>
-    <lastUpdated>20200506150455</lastUpdated>
+    <lastUpdated>20200508091425</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-parent</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.0.1</latest>
+    <release>10.0.1</release>
     <versions>
       <version>1.7.0.CR1</version>
       <version>1.7.0.Final</version>
@@ -82,7 +82,8 @@
       <version>9.0.2</version>
       <version>9.0.3</version>
       <version>10.0.0</version>
+      <version>10.0.1</version>
     </versions>
-    <lastUpdated>20200429084801</lastUpdated>
+    <lastUpdated>20200508093128</lastUpdated>
   </versioning>
 </metadata>
