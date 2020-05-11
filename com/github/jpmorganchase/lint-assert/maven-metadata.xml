@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Java Lint Assert Maven Plugin</name>
+      <prefix>lint-assert</prefix>
+      <artifactId>lint-assert-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
