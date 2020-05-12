@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-postgres-persistence</artifactId>
   <versioning>
-    <latest>2.26.2-beta.2</latest>
-    <release>2.26.2-beta.2</release>
+    <latest>2.27.0-beta</latest>
+    <release>2.27.0-beta</release>
     <versions>
       <version>2.21.0-alpha</version>
       <version>2.21.0</version>
@@ -50,7 +50,8 @@
       <version>2.26.2-beta</version>
       <version>2.26.2-beta.1</version>
       <version>2.26.2-beta.2</version>
+      <version>2.27.0-beta</version>
     </versions>
-    <lastUpdated>20200506143621</lastUpdated>
+    <lastUpdated>20200511180143</lastUpdated>
   </versioning>
 </metadata>

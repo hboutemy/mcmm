@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>git-checkout-plugin</name>
+      <name>git-sparse-checkout-plugin</name>
       <prefix>git-sparse-checkout</prefix>
       <artifactId>git-sparse-checkout-plugin</artifactId>
     </plugin>

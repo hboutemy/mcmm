@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-integration-tests</artifactId>
   <versioning>
-    <latest>4.6.0</latest>
-    <release>4.6.0</release>
+    <latest>4.6.1</latest>
+    <release>4.6.1</release>
     <versions>
       <version>4.0.0-alpha3</version>
       <version>4.0.0-beta1</version>
@@ -22,7 +22,8 @@
       <version>4.5.0</version>
       <version>4.5.1</version>
       <version>4.6.0</version>
+      <version>4.6.1</version>
     </versions>
-    <lastUpdated>20200428152441</lastUpdated>
+    <lastUpdated>20200511174543</lastUpdated>
   </versioning>
 </metadata>
