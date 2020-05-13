@@ -17,6 +17,21 @@
       <artifactId>mvn-scalafmt_${version.scala.major}</artifactId>
     </plugin>
     <plugin>
+      <name>ScalaFmt Maven Plugin (2.11)</name>
+      <prefix>mvn-scalafmt_2.11</prefix>
+      <artifactId>mvn-scalafmt_2.11</artifactId>
+    </plugin>
+    <plugin>
+      <name>ScalaFmt Maven Plugin (2.12)</name>
+      <prefix>mvn-scalafmt_2.12</prefix>
+      <artifactId>mvn-scalafmt_2.12</artifactId>
+    </plugin>
+    <plugin>
+      <name>ScalaFmt Maven Plugin (2.13)</name>
+      <prefix>mvn-scalafmt_2.13</prefix>
+      <artifactId>mvn-scalafmt_2.13</artifactId>
+    </plugin>
+    <plugin>
       <name>Scoozie Maven Plugin</name>
       <prefix>mvn-scoozie</prefix>
       <artifactId>mvn-scoozie</artifactId>
