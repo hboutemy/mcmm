@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudresourcemanager</artifactId>
   <versioning>
-    <latest>v2-rev20200415-1.30.9</latest>
-    <release>v2-rev20200415-1.30.9</release>
+    <latest>v2-rev20200504-1.30.9</latest>
+    <release>v2-rev20200504-1.30.9</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.19.0</version>
@@ -662,6 +662,7 @@
       <version>v1beta1-rev20200203-1.30.8</version>
       <version>v1beta1-rev20200203-1.30.9</version>
       <version>v1beta1-rev20200415-1.30.9</version>
+      <version>v1beta1-rev20200504-1.30.9</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.19.1</version>
       <version>v1-rev2-1.20.0</version>
@@ -1292,6 +1293,7 @@
       <version>v1-rev20200210-1.30.9</version>
       <version>v1-rev20200311-1.30.9</version>
       <version>v1-rev20200415-1.30.9</version>
+      <version>v1-rev20200504-1.30.9</version>
       <version>v2beta1-rev1-1.18.0-rc</version>
       <version>v2beta1-rev1-1.20.0</version>
       <version>v2beta1-rev1-1.21.0</version>
@@ -1654,6 +1656,7 @@
       <version>v2beta1-rev20200210-1.30.8</version>
       <version>v2beta1-rev20200210-1.30.9</version>
       <version>v2beta1-rev20200415-1.30.9</version>
+      <version>v2beta1-rev20200504-1.30.9</version>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.21.0</version>
       <version>v2-rev1-1.22.0</version>
@@ -1909,7 +1912,8 @@
       <version>v2-rev20200210-1.30.8</version>
       <version>v2-rev20200210-1.30.9</version>
       <version>v2-rev20200415-1.30.9</version>
+      <version>v2-rev20200504-1.30.9</version>
     </versions>
-    <lastUpdated>20200420201646</lastUpdated>
+    <lastUpdated>20200514202427</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.openssl</groupId>
   <artifactId>wildfly-openssl-linux-x86_64</artifactId>
   <versioning>
-    <latest>1.0.10.Final</latest>
-    <release>1.0.10.Final</release>
+    <latest>1.1.0.Final</latest>
+    <release>1.1.0.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -27,7 +27,8 @@
       <version>1.0.8.Final</version>
       <version>1.0.9.Final</version>
       <version>1.0.10.Final</version>
+      <version>1.1.0.Final</version>
     </versions>
-    <lastUpdated>20200317173322</lastUpdated>
+    <lastUpdated>20200514173841</lastUpdated>
   </versioning>
 </metadata>

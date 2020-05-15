@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Che Core :: API :: DTO Maven Plugin</name>
+      <name>Che Core :: Commons :: API :: DTO Maven Plugin</name>
       <prefix>che-core-api-dto</prefix>
       <artifactId>che-core-api-dto-maven-plugin</artifactId>
     </plugin>
@@ -27,7 +27,7 @@
       <artifactId>che-core-gwt-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Che Core :: API :: TypeScript DTO maven plugin</name>
+      <name>Che Core :: Commons :: API :: TypeScript DTO maven plugin</name>
       <prefix>che-core-typescript-dto</prefix>
       <artifactId>che-core-typescript-dto-maven-plugin</artifactId>
     </plugin>
