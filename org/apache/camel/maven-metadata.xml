@@ -42,7 +42,7 @@
       <artifactId>camel-main-package-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel Maven Run</name>
+      <name>Camel :: Maven Plugins :: Camel Maven Plugin</name>
       <prefix>camel</prefix>
       <artifactId>camel-maven-plugin</artifactId>
     </plugin>
@@ -95,6 +95,11 @@
       <name>Camel :: Maven Plugins :: Camel Manual</name>
       <prefix>html-to-pdf</prefix>
       <artifactId>maven-html-to-pdf</artifactId>
+    </plugin>
+    <plugin>
+      <name>Camel :: Maven Plugins :: Sync Properties</name>
+      <prefix>sync-properties</prefix>
+      <artifactId>sync-properties-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
