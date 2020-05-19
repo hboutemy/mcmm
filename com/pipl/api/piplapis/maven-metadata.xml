@@ -3,8 +3,8 @@
   <groupId>com.pipl.api</groupId>
   <artifactId>piplapis</artifactId>
   <versioning>
-    <latest>5.0.11</latest>
-    <release>5.0.11</release>
+    <latest>5.0.13-20200518163325-enable-partial-name</latest>
+    <release>5.0.13-20200518163325-enable-partial-name</release>
     <versions>
       <version>1.0.1</version>
       <version>4.0.0</version>
@@ -21,7 +21,15 @@
       <version>5.0.9</version>
       <version>5.0.10</version>
       <version>5.0.11</version>
+      <version>5.0.12</version>
+      <version>5.0.12-20200518160801-sign</version>
+      <version>5.0.12-20200518161030-sign</version>
+      <version>5.0.12-20200518161227-sign</version>
+      <version>5.0.12-20200518161228-sign</version>
+      <version>5.0.12-20200518161251-sign</version>
+      <version>5.0.12-20200518161355-sign</version>
+      <version>5.0.13-20200518163325-enable-partial-name</version>
     </versions>
-    <lastUpdated>20180328132255</lastUpdated>
+    <lastUpdated>20200518163443</lastUpdated>
   </versioning>
 </metadata>

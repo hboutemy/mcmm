@@ -17,6 +17,11 @@
       <artifactId>azure-relay</artifactId>
     </plugin>
     <plugin>
+      <name>azure-servicebus-jms</name>
+      <prefix>azure-servicebus-jms</prefix>
+      <artifactId>azure-servicebus-jms</artifactId>
+    </plugin>
+    <plugin>
       <name>Service Fabric Mesh Maven Plugin</name>
       <prefix>azure-sfmesh</prefix>
       <artifactId>azure-sfmesh-maven-plugin</artifactId>

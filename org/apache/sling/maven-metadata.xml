@@ -56,6 +56,11 @@
       <artifactId>sling-feature-converter-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Sling Kickstart Maven Plugin</name>
+      <prefix>sling-kickstart</prefix>
+      <artifactId>sling-kickstart-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Sling Maven Plugin</name>
       <prefix>sling</prefix>
       <artifactId>sling-maven-plugin</artifactId>
