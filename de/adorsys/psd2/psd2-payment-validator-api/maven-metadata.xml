@@ -3,8 +3,8 @@
   <groupId>de.adorsys.psd2</groupId>
   <artifactId>psd2-payment-validator-api</artifactId>
   <versioning>
-    <latest>7.4</latest>
-    <release>7.4</release>
+    <latest>7.4.1</latest>
+    <release>7.4.1</release>
     <versions>
       <version>5.8-RC2</version>
       <version>5.8</version>
@@ -19,12 +19,14 @@
       <version>6.2</version>
       <version>6.3</version>
       <version>6.4</version>
+      <version>6.4.1</version>
       <version>7.0</version>
       <version>7.1</version>
       <version>7.2</version>
       <version>7.3</version>
       <version>7.4</version>
+      <version>7.4.1</version>
     </versions>
-    <lastUpdated>20200508205906</lastUpdated>
+    <lastUpdated>20200519140413</lastUpdated>
   </versioning>
 </metadata>

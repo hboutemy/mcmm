@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Gatling Exporter :: Mojo</name>
+      <prefix>gatling-reporter</prefix>
+      <artifactId>gatling-reporter</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
