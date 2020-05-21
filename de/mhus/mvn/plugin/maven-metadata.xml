@@ -12,6 +12,16 @@
       <artifactId>gpg-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>manual-collector</name>
+      <prefix>manual-collector</prefix>
+      <artifactId>manual-collector-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tmpl</name>
+      <prefix>tmpl</prefix>
+      <artifactId>tmpl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Versionin Maven Plugin</name>
       <prefix>versioning</prefix>
       <artifactId>versioning-maven-plugin</artifactId>

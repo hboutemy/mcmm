@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel-Kafka-Connector :: Tooling :: Docs Maven Plugin</name>
+      <prefix>camel-kafka-connector-docs</prefix>
+      <artifactId>camel-kafka-connector-docs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel-Kafka-Connector :: Generator Maven Plugin</name>
       <prefix>camel-kafka-connector-generator</prefix>
       <artifactId>camel-kafka-connector-generator-maven-plugin</artifactId>
