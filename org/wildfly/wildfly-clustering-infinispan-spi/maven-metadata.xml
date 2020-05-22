@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-infinispan-spi</artifactId>
   <versioning>
-    <latest>19.1.0.Final</latest>
-    <release>19.1.0.Final</release>
+    <latest>20.0.0.Beta1</latest>
+    <release>20.0.0.Beta1</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -58,7 +58,8 @@
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
       <version>19.1.0.Final</version>
+      <version>20.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20200504022903</lastUpdated>
+    <lastUpdated>20200520232926</lastUpdated>
   </versioning>
 </metadata>

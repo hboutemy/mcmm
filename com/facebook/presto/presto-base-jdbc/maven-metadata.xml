@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-base-jdbc</artifactId>
   <versioning>
-    <latest>0.235</latest>
-    <release>0.235</release>
+    <latest>0.235.1</latest>
+    <release>0.235.1</release>
     <versions>
       <version>0.76</version>
       <version>0.77</version>
@@ -182,8 +182,10 @@
       <version>0.234</version>
       <version>0.234.1</version>
       <version>0.234.2</version>
+      <version>0.234.3</version>
       <version>0.235</version>
+      <version>0.235.1</version>
     </versions>
-    <lastUpdated>20200518004841</lastUpdated>
+    <lastUpdated>20200521190038</lastUpdated>
   </versioning>
 </metadata>

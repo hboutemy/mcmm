@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-accumulo</artifactId>
   <versioning>
-    <latest>0.235</latest>
-    <release>0.235</release>
+    <latest>0.235.1</latest>
+    <release>0.235.1</release>
     <versions>
       <version>0.153</version>
       <version>0.154</version>
@@ -94,8 +94,10 @@
       <version>0.234</version>
       <version>0.234.1</version>
       <version>0.234.2</version>
+      <version>0.234.3</version>
       <version>0.235</version>
+      <version>0.235.1</version>
     </versions>
-    <lastUpdated>20200518004835</lastUpdated>
+    <lastUpdated>20200521190032</lastUpdated>
   </versioning>
 </metadata>
