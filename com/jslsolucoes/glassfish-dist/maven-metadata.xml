@@ -3,11 +3,13 @@
   <groupId>com.jslsolucoes</groupId>
   <artifactId>glassfish-dist</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.0.1</release>
+    <latest>5.1.0-patched</latest>
+    <release>5.1.0-patched</release>
     <versions>
       <version>5.0.1</version>
+      <version>5.1.0</version>
+      <version>5.1.0-patched</version>
     </versions>
-    <lastUpdated>20200521223044</lastUpdated>
+    <lastUpdated>20200522225316</lastUpdated>
   </versioning>
 </metadata>
