@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-postgresql-migration</artifactId>
   <versioning>
-    <latest>3.41.15</latest>
-    <release>3.41.15</release>
+    <latest>4.0-alpha.0-dirty</latest>
+    <release>4.0-alpha.0-dirty</release>
     <versions>
       <version>feature-732-back-to-central-5e58285</version>
       <version>feature-735-ui-publication-7c8bc12</version>
@@ -206,7 +206,8 @@
       <version>3.41.13</version>
       <version>3.41.14</version>
       <version>3.41.15</version>
+      <version>4.0-alpha.0-dirty</version>
     </versions>
-    <lastUpdated>20200414184428</lastUpdated>
+    <lastUpdated>20200523195020</lastUpdated>
   </versioning>
 </metadata>
