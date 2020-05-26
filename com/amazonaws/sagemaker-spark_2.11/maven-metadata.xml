@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>sagemaker-spark_2.11</artifactId>
   <versioning>
-    <latest>spark_2.2.0-1.3.1</latest>
-    <release>spark_2.2.0-1.3.1</release>
+    <latest>spark_2.2.0-1.3.1.post0</latest>
+    <release>spark_2.2.0-1.3.1.post0</release>
     <versions>
       <version>spark_2.1.1-1.0</version>
       <version>spark_2.2.0-0.0.0.1</version>
@@ -27,7 +27,8 @@
       <version>spark_2.2.0-1.2.9.dev0</version>
       <version>spark_2.2.0-1.3.0</version>
       <version>spark_2.2.0-1.3.1</version>
+      <version>spark_2.2.0-1.3.1.post0</version>
     </versions>
-    <lastUpdated>20200421192733</lastUpdated>
+    <lastUpdated>20200525163246</lastUpdated>
   </versioning>
 </metadata>

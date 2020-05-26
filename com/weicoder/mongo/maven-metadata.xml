@@ -3,8 +3,8 @@
   <groupId>com.weicoder</groupId>
   <artifactId>mongo</artifactId>
   <versioning>
-    <latest>3.3.9</latest>
-    <release>3.3.9</release>
+    <latest>3.3.9-jdk8</latest>
+    <release>3.3.9-jdk8</release>
     <versions>
       <version>2.6.0</version>
       <version>2.6.1</version>
@@ -37,7 +37,8 @@
       <version>3.3.8</version>
       <version>3.3.8-jdk8</version>
       <version>3.3.9</version>
+      <version>3.3.9-jdk8</version>
     </versions>
-    <lastUpdated>20200524092037</lastUpdated>
+    <lastUpdated>20200525005056</lastUpdated>
   </versioning>
 </metadata>

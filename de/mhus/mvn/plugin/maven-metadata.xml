@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>ConstGenerator</name>
+      <prefix>constgenerator</prefix>
+      <artifactId>constgenerator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>FAQGenerator</name>
       <prefix>faqgenerator</prefix>
       <artifactId>faqgenerator-maven-plugin</artifactId>
@@ -10,6 +15,11 @@
       <name>Modified Maven GPG Plugin</name>
       <prefix>gpg</prefix>
       <artifactId>gpg-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>license-maven-plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>manual-collector</name>
