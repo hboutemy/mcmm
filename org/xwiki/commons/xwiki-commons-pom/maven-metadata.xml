@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-pom</artifactId>
   <versioning>
-    <latest>12.4-rc-1</latest>
-    <release>12.4-rc-1</release>
+    <latest>12.4</latest>
+    <release>12.4</release>
     <versions>
       <version>3.2-milestone-3</version>
       <version>3.2-rc-1</version>
@@ -298,9 +298,10 @@
       <version>12.3-rc-1</version>
       <version>12.3</version>
       <version>12.4-rc-1</version>
+      <version>12.4</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20200518111409</lastUpdated>
+    <lastUpdated>20200526120740</lastUpdated>
   </versioning>
 </metadata>

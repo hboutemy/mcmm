@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.services</groupId>
   <artifactId>gravitee-gateway-services-localregistry</artifactId>
   <versioning>
-    <latest>3.0.0</latest>
-    <release>3.0.0</release>
+    <latest>3.0.1</latest>
+    <release>3.0.1</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -194,7 +194,8 @@
       <version>3.0.0-alpha</version>
       <version>3.0.0-beta</version>
       <version>3.0.0</version>
+      <version>3.0.1</version>
     </versions>
-    <lastUpdated>20200519223351</lastUpdated>
+    <lastUpdated>20200526140256</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.gateway.handler</groupId>
   <artifactId>gravitee-am-gateway-handler-users</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>2.6.0</version>
       <version>2.7.0</version>
@@ -37,7 +37,8 @@
       <version>2.10.14</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
     </versions>
-    <lastUpdated>20200525143859</lastUpdated>
+    <lastUpdated>20200526084026</lastUpdated>
   </versioning>
 </metadata>

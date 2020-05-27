@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Neo4j Migrations (Maven Plugin)</name>
+      <prefix>neo4j-migrations</prefix>
+      <artifactId>neo4j-migrations-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
