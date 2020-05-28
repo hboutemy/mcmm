@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-narayana-stm</artifactId>
   <versioning>
-    <latest>1.5.0.CR1</latest>
-    <release>1.5.0.CR1</release>
+    <latest>1.5.0.Final</latest>
+    <release>1.5.0.Final</release>
     <versions>
       <version>0.24.0</version>
       <version>0.25.0</version>
@@ -36,7 +36,8 @@
       <version>1.4.1.Final</version>
       <version>1.4.2.Final</version>
       <version>1.5.0.CR1</version>
+      <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20200521115114</lastUpdated>
+    <lastUpdated>20200527071656</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jdbc-mssql-deployment</artifactId>
   <versioning>
-    <latest>1.5.0.CR1</latest>
-    <release>1.5.0.CR1</release>
+    <latest>1.5.0.Final</latest>
+    <release>1.5.0.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -56,7 +56,8 @@
       <version>1.4.1.Final</version>
       <version>1.4.2.Final</version>
       <version>1.5.0.CR1</version>
+      <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20200521115001</lastUpdated>
+    <lastUpdated>20200527071535</lastUpdated>
   </versioning>
 </metadata>

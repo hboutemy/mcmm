@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jackson-parent</artifactId>
   <versioning>
-    <latest>1.5.0.CR1</latest>
-    <release>1.5.0.CR1</release>
+    <latest>1.5.0.Final</latest>
+    <release>1.5.0.Final</release>
     <versions>
       <version>0.20.0</version>
       <version>0.21.0</version>
@@ -44,7 +44,8 @@
       <version>1.4.1.Final</version>
       <version>1.4.2.Final</version>
       <version>1.5.0.CR1</version>
+      <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20200521114945</lastUpdated>
+    <lastUpdated>20200527071515</lastUpdated>
   </versioning>
 </metadata>
