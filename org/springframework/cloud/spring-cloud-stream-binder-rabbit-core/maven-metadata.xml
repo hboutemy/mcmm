@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-binder-rabbit-core</artifactId>
   <versioning>
-    <latest>3.0.4.RELEASE</latest>
-    <release>3.0.4.RELEASE</release>
+    <latest>3.0.5.RELEASE</latest>
+    <release>3.0.5.RELEASE</release>
     <versions>
       <version>1.2.0.RELEASE</version>
       <version>1.2.1.RELEASE</version>
@@ -29,7 +29,8 @@
       <version>3.0.2.RELEASE</version>
       <version>3.0.3.RELEASE</version>
       <version>3.0.4.RELEASE</version>
+      <version>3.0.5.RELEASE</version>
     </versions>
-    <lastUpdated>20200422165036</lastUpdated>
+    <lastUpdated>20200528143851</lastUpdated>
   </versioning>
 </metadata>

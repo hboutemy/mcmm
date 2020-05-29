@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-security</artifactId>
   <versioning>
-    <latest>10.0.0.alpha2</latest>
-    <release>10.0.0.alpha2</release>
+    <latest>10.0.0.beta0</latest>
+    <release>10.0.0.beta0</release>
     <versions>
       <version>7.0.0.M0</version>
       <version>7.0.0.M1</version>
@@ -283,7 +283,8 @@
       <version>10.0.0-alpha0</version>
       <version>10.0.0.alpha1</version>
       <version>10.0.0.alpha2</version>
+      <version>10.0.0.beta0</version>
     </versions>
-    <lastUpdated>20200521204811</lastUpdated>
+    <lastUpdated>20200528073221</lastUpdated>
   </versioning>
 </metadata>
