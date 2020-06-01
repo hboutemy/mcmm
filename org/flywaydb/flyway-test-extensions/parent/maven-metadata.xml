@@ -3,8 +3,8 @@
   <groupId>org.flywaydb.flyway-test-extensions</groupId>
   <artifactId>parent</artifactId>
   <versioning>
-    <latest>6.3.3</latest>
-    <release>6.3.3</release>
+    <latest>6.4.0</latest>
+    <release>6.4.0</release>
     <versions>
       <version>3.0</version>
       <version>3.0.1</version>
@@ -26,7 +26,8 @@
       <version>6.0.0</version>
       <version>6.1.0</version>
       <version>6.3.3</version>
+      <version>6.4.0</version>
     </versions>
-    <lastUpdated>20200419203439</lastUpdated>
+    <lastUpdated>20200531140831</lastUpdated>
   </versioning>
 </metadata>
