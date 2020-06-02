@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.deployment</groupId>
   <artifactId>org.wso2.carbon.as.monitoring.ui.feature</artifactId>
   <versioning>
-    <latest>4.10.2</latest>
-    <release>4.10.2</release>
+    <latest>4.10.3</latest>
+    <release>4.10.3</release>
     <versions>
       <version>4.5.0</version>
       <version>4.5.1</version>
@@ -50,7 +50,8 @@
       <version>4.10.0</version>
       <version>4.10.1</version>
       <version>4.10.2</version>
+      <version>4.10.3</version>
     </versions>
-    <lastUpdated>20200326072920</lastUpdated>
+    <lastUpdated>20200601033340</lastUpdated>
   </versioning>
 </metadata>
