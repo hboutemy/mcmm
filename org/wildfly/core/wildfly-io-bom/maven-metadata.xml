@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-io-bom</artifactId>
   <versioning>
-    <latest>12.0.0.Beta4</latest>
-    <release>12.0.0.Beta4</release>
+    <latest>12.0.0.Final</latest>
+    <release>12.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -262,7 +262,8 @@
       <version>12.0.0.Beta2</version>
       <version>12.0.0.Beta3</version>
       <version>12.0.0.Beta4</version>
+      <version>12.0.0.Final</version>
     </versions>
-    <lastUpdated>20200527200909</lastUpdated>
+    <lastUpdated>20200602154102</lastUpdated>
   </versioning>
 </metadata>

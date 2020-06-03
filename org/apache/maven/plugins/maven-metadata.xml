@@ -441,5 +441,10 @@
       <prefix>war</prefix>
       <artifactId>maven-war-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Maven Wrapper Plugin</name>
+      <prefix>wrapper</prefix>
+      <artifactId>maven-wrapper-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

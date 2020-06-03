@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-util-embedded-ldap</artifactId>
   <versioning>
-    <latest>10.0.1</latest>
-    <release>10.0.1</release>
+    <latest>10.0.2</latest>
+    <release>10.0.2</release>
     <versions>
       <version>1.4.0.Final</version>
       <version>1.5.0.Final</version>
@@ -88,8 +88,9 @@
       <version>9.0.3</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
+      <version>10.0.2</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20200508093124</lastUpdated>
+    <lastUpdated>20200602103509</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.zeebe</groupId>
   <artifactId>zeebe-transport</artifactId>
   <versioning>
-    <latest>0.24.0-alpha1</latest>
-    <release>0.24.0-alpha1</release>
+    <latest>0.24.0-alpha2</latest>
+    <release>0.24.0-alpha2</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -34,7 +34,8 @@
       <version>0.23.1</version>
       <version>0.23.2</version>
       <version>0.24.0-alpha1</version>
+      <version>0.24.0-alpha2</version>
     </versions>
-    <lastUpdated>20200528150432</lastUpdated>
+    <lastUpdated>20200602100957</lastUpdated>
   </versioning>
 </metadata>
