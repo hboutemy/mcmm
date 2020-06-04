@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-test</artifactId>
   <versioning>
-    <latest>5.3.2.RELEASE</latest>
-    <release>5.3.2.RELEASE</release>
+    <latest>5.3.3.RELEASE</latest>
+    <release>5.3.3.RELEASE</release>
     <versions>
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
@@ -34,6 +34,7 @@
       <version>4.2.14.RELEASE</version>
       <version>4.2.15.RELEASE</version>
       <version>4.2.16.RELEASE</version>
+      <version>4.2.17.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -51,6 +52,7 @@
       <version>5.0.14.RELEASE</version>
       <version>5.0.15.RELEASE</version>
       <version>5.0.16.RELEASE</version>
+      <version>5.0.17.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -62,15 +64,18 @@
       <version>5.1.8.RELEASE</version>
       <version>5.1.9.RELEASE</version>
       <version>5.1.10.RELEASE</version>
+      <version>5.1.11.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
       <version>5.2.3.RELEASE</version>
       <version>5.2.4.RELEASE</version>
+      <version>5.2.5.RELEASE</version>
       <version>5.3.0.RELEASE</version>
       <version>5.3.1.RELEASE</version>
       <version>5.3.2.RELEASE</version>
+      <version>5.3.3.RELEASE</version>
     </versions>
-    <lastUpdated>20200506204314</lastUpdated>
+    <lastUpdated>20200603224935</lastUpdated>
   </versioning>
 </metadata>

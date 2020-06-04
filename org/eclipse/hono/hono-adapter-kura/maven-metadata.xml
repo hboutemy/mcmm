@@ -3,8 +3,8 @@
   <groupId>org.eclipse.hono</groupId>
   <artifactId>hono-adapter-kura</artifactId>
   <versioning>
-    <latest>1.3.0-M1</latest>
-    <release>1.3.0-M1</release>
+    <latest>1.3.0-M2</latest>
+    <release>1.3.0-M2</release>
     <versions>
       <version>0.5</version>
       <version>0.6-M1</version>
@@ -41,7 +41,8 @@
       <version>1.2.1</version>
       <version>1.2.2</version>
       <version>1.3.0-M1</version>
+      <version>1.3.0-M2</version>
     </versions>
-    <lastUpdated>20200526170352</lastUpdated>
+    <lastUpdated>20200603205849</lastUpdated>
   </versioning>
 </metadata>

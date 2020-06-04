@@ -3,12 +3,13 @@
   <groupId>com.facebook.presto.cassandra</groupId>
   <artifactId>cassandra-driver</artifactId>
   <versioning>
-    <latest>3.1.4-1</latest>
-    <release>3.1.4-1</release>
+    <latest>3.6.0-1</latest>
+    <release>3.6.0-1</release>
     <versions>
       <version>3.0.5-1</version>
       <version>3.1.4-1</version>
+      <version>3.6.0-1</version>
     </versions>
-    <lastUpdated>20170306192221</lastUpdated>
+    <lastUpdated>20200603222850</lastUpdated>
   </versioning>
 </metadata>
