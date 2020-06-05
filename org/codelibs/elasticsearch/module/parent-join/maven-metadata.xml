@@ -3,8 +3,8 @@
   <groupId>org.codelibs.elasticsearch.module</groupId>
   <artifactId>parent-join</artifactId>
   <versioning>
-    <latest>7.7.0</latest>
-    <release>7.7.0</release>
+    <latest>7.7.1</latest>
+    <release>7.7.1</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -90,7 +90,8 @@
       <version>7.6.1</version>
       <version>7.6.2</version>
       <version>7.7.0</version>
+      <version>7.7.1</version>
     </versions>
-    <lastUpdated>20200521233931</lastUpdated>
+    <lastUpdated>20200604010232</lastUpdated>
   </versioning>
 </metadata>

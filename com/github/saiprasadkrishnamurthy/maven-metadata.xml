@@ -6,5 +6,10 @@
       <prefix>cuke-style</prefix>
       <artifactId>cuke-style-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>K8S utilities</name>
+      <prefix>k8s-utils</prefix>
+      <artifactId>k8s-utils-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.apache.tomee</groupId>
   <artifactId>microprofile-health-tck</artifactId>
   <versioning>
-    <latest>8.0.1</latest>
-    <release>8.0.1</release>
+    <latest>8.0.2</latest>
+    <release>8.0.2</release>
     <versions>
       <version>8.0.0-M1</version>
       <version>8.0.0-M2</version>
       <version>8.0.0-M3</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
+      <version>8.0.2</version>
     </versions>
-    <lastUpdated>20200120095724</lastUpdated>
+    <lastUpdated>20200604170240</lastUpdated>
   </versioning>
 </metadata>
