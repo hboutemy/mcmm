@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-plugin-toolkit</artifactId>
   <versioning>
-    <latest>0.235.1</latest>
-    <release>0.235.1</release>
+    <latest>0.236</latest>
+    <release>0.236</release>
     <versions>
       <version>0.152</version>
       <version>0.152.1</version>
@@ -101,7 +101,8 @@
       <version>0.234.3</version>
       <version>0.235</version>
       <version>0.235.1</version>
+      <version>0.236</version>
     </versions>
-    <lastUpdated>20200521190209</lastUpdated>
+    <lastUpdated>20200605215526</lastUpdated>
   </versioning>
 </metadata>

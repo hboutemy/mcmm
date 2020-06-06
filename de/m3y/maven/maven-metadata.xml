@@ -11,5 +11,10 @@
       <prefix>inject</prefix>
       <artifactId>inject-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Wire Plugin</name>
+      <prefix>wire</prefix>
+      <artifactId>wire-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Liftwizard Generator Plugin: Reladomo Code</name>
+      <prefix>liftwizard-generator-reladomo-code</prefix>
+      <artifactId>liftwizard-generator-reladomo-code-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Liftwizard Generator Plugin: Reladomo Database</name>
+      <prefix>liftwizard-generator-reladomo-database</prefix>
+      <artifactId>liftwizard-generator-reladomo-database-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Liftwizard Generator Plugin: XSD to Bean</name>
+      <prefix>liftwizard-generator-xsd2bean</prefix>
+      <artifactId>liftwizard-generator-xsd2bean-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
