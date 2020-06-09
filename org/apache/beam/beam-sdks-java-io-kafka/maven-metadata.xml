@@ -3,8 +3,8 @@
   <groupId>org.apache.beam</groupId>
   <artifactId>beam-sdks-java-io-kafka</artifactId>
   <versioning>
-    <latest>2.20.0</latest>
-    <release>2.20.0</release>
+    <latest>2.22.0</latest>
+    <release>2.22.0</release>
     <versions>
       <version>0.1.0-incubating</version>
       <version>0.2.0-incubating</version>
@@ -34,7 +34,8 @@
       <version>2.19.0</version>
       <version>2.20.0</version>
       <version>2.21.0</version>
+      <version>2.22.0</version>
     </versions>
-    <lastUpdated>20200415192631</lastUpdated>
+    <lastUpdated>20200608185844</lastUpdated>
   </versioning>
 </metadata>

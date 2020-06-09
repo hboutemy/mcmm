@@ -17,7 +17,7 @@
       <artifactId>oc-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Openshift Maven Plugin :: Plugin</name>
+      <name>OpenShift Maven Plugin :: Plugin</name>
       <prefix>openshift</prefix>
       <artifactId>openshift-maven-plugin</artifactId>
     </plugin>

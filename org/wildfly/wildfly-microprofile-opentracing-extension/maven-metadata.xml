@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-opentracing-extension</artifactId>
   <versioning>
-    <latest>20.0.0.Beta1</latest>
-    <release>20.0.0.Beta1</release>
+    <latest>20.0.0.Final</latest>
+    <release>20.0.0.Final</release>
     <versions>
       <version>14.0.0.Beta2</version>
       <version>14.0.0.Final</version>
@@ -27,7 +27,8 @@
       <version>19.0.0.Final</version>
       <version>19.1.0.Final</version>
       <version>20.0.0.Beta1</version>
+      <version>20.0.0.Final</version>
     </versions>
-    <lastUpdated>20200520233001</lastUpdated>
+    <lastUpdated>20200607211853</lastUpdated>
   </versioning>
 </metadata>
