@@ -3,8 +3,8 @@
   <groupId>org.mongodb</groupId>
   <artifactId>mongodb-driver-reactivestreams</artifactId>
   <versioning>
-    <latest>4.1.0-beta1</latest>
-    <release>4.1.0-beta1</release>
+    <latest>4.1.0-beta2</latest>
+    <release>4.1.0-beta2</release>
     <versions>
       <version>1.0.0-beta1</version>
       <version>1.0.0-rc0</version>
@@ -39,7 +39,8 @@
       <version>4.0.3</version>
       <version>4.0.4</version>
       <version>4.1.0-beta1</version>
+      <version>4.1.0-beta2</version>
     </versions>
-    <lastUpdated>20200602131520</lastUpdated>
+    <lastUpdated>20200609151618</lastUpdated>
   </versioning>
 </metadata>

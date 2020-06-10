@@ -3,9 +3,11 @@
   <groupId>org.glassfish.corba</groupId>
   <artifactId>exception-annotation-processor</artifactId>
   <versioning>
-    <latest>4.2.0-b007</latest>
-    <release>4.2.0-b007</release>
+    <latest>4.2.2</latest>
+    <release>4.2.2</release>
     <versions>
+      <version>4.2.2-M1</version>
+      <version>4.2.2</version>
       <version>4.0.0-b001</version>
       <version>4.0.0-b002</version>
       <version>4.0.0-b003</version>
@@ -29,15 +31,15 @@
       <version>4.0.2-b012</version>
       <version>4.1.0</version>
       <version>4.1.1-b001</version>
+      <version>4.2.0</version>
       <version>4.2.0-b001</version>
       <version>4.2.0-b002</version>
       <version>4.2.0-b003</version>
       <version>4.2.0-b004</version>
       <version>4.2.0-b006</version>
       <version>4.2.0-b007</version>
-      <version>4.2.0</version>
       <version>4.2.1</version>
     </versions>
-    <lastUpdated>20200324223233</lastUpdated>
+    <lastUpdated>20200609110201</lastUpdated>
   </versioning>
 </metadata>
