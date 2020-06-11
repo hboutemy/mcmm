@@ -11,5 +11,9 @@
       <prefix>k8s-utils</prefix>
       <artifactId>k8s-utils-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>springboot-manifest</prefix>
+      <artifactId>springboot-manifest-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

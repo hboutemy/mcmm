@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-minio</artifactId>
   <versioning>
-    <latest>1.71</latest>
-    <release>1.71</release>
+    <latest>1.73</latest>
+    <release>1.73</release>
     <versions>
       <version>1.24</version>
       <version>1.25</version>
@@ -35,7 +35,8 @@
       <version>1.69</version>
       <version>1.70</version>
       <version>1.71</version>
+      <version>1.73</version>
     </versions>
-    <lastUpdated>20200602143050</lastUpdated>
+    <lastUpdated>20200610101230</lastUpdated>
   </versioning>
 </metadata>
