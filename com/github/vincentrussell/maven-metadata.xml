@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>bulk-maven-repository-deploy-plugin Maven Plugin</name>
+      <prefix>bulkrepository-deploy</prefix>
+      <artifactId>bulk-maven-repository-deploy-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>springmvc-rest-docs</prefix>
       <artifactId>springmvc-rest-docs-maven-plugin</artifactId>
     </plugin>

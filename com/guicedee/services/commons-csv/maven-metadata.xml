@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>commons-csv</artifactId>
   <versioning>
-    <latest>1.0.11.6-jre14</latest>
-    <release>1.0.11.6-jre14</release>
+    <latest>1.0.11.7-jre14</latest>
+    <release>1.0.11.7-jre14</release>
     <versions>
       <version>1.0.2.0</version>
       <version>1.0.2.0-jre8</version>
@@ -185,7 +185,10 @@
       <version>1.0.11.5-jre12</version>
       <version>1.0.11.5-jre14</version>
       <version>1.0.11.6-jre14</version>
+      <version>1.0.11.7</version>
+      <version>1.0.11.7-jre12</version>
+      <version>1.0.11.7-jre14</version>
     </versions>
-    <lastUpdated>20200607234015</lastUpdated>
+    <lastUpdated>20200611114542</lastUpdated>
   </versioning>
 </metadata>

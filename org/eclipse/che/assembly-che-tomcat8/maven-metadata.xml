@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che</groupId>
   <artifactId>assembly-che-tomcat8</artifactId>
   <versioning>
-    <latest>7.14.1</latest>
-    <release>7.14.1</release>
+    <latest>7.14.2</latest>
+    <release>7.14.2</release>
     <versions>
       <version>7.3.0</version>
       <version>7.3.1</version>
@@ -32,7 +32,8 @@
       <version>7.13.2</version>
       <version>7.14.0</version>
       <version>7.14.1</version>
+      <version>7.14.2</version>
     </versions>
-    <lastUpdated>20200605102608</lastUpdated>
+    <lastUpdated>20200611074101</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-elasticsearch</artifactId>
   <versioning>
-    <latest>3.42.8</latest>
-    <release>3.42.8</release>
+    <latest>3.42.9-dirty</latest>
+    <release>3.42.9-dirty</release>
     <versions>
       <version>feature-732-back-to-central-5e58285</version>
       <version>feature-735-ui-publication-7c8bc12</version>
@@ -55,7 +55,9 @@
       <version>3.42.6</version>
       <version>3.42.7</version>
       <version>3.42.8</version>
+      <version>3.42.9</version>
+      <version>3.42.9-dirty</version>
     </versions>
-    <lastUpdated>20200610190850</lastUpdated>
+    <lastUpdated>20200611195810</lastUpdated>
   </versioning>
 </metadata>
