@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>sl4j</artifactId>
   <versioning>
-    <latest>1.0.11.7-jre14</latest>
-    <release>1.0.11.7-jre14</release>
+    <latest>1.0.12.0-jre14</latest>
+    <release>1.0.12.0-jre14</release>
     <versions>
       <version>1.0.9.5-jre14</version>
       <version>1.0.9.7-jre14</version>
@@ -36,7 +36,12 @@
       <version>1.0.11.7</version>
       <version>1.0.11.7-jre12</version>
       <version>1.0.11.7-jre14</version>
+      <version>1.0.12.0</version>
+      <version>1.0.12.0-jre8</version>
+      <version>1.0.12.0-jre12</version>
+      <version>1.0.12.0-jre13</version>
+      <version>1.0.12.0-jre14</version>
     </versions>
-    <lastUpdated>20200611114705</lastUpdated>
+    <lastUpdated>20200612122454</lastUpdated>
   </versioning>
 </metadata>

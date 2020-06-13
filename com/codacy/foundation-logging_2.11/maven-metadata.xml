@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>foundation-logging_2.11</artifactId>
   <versioning>
-    <latest>9.7.4_play_2.7</latest>
-    <release>9.7.4_play_2.7</release>
+    <latest>10.0.1_play_2.7</latest>
+    <release>10.0.1_play_2.7</release>
     <versions>
       <version>9.3.1-publishsonatype.a27ebe6</version>
       <version>9.3.1-publishsonatype.a27ebe6_play_2.5</version>
@@ -56,8 +56,16 @@
       <version>9.7.4_play_2.5</version>
       <version>9.7.4_play_2.6</version>
       <version>9.7.4_play_2.7</version>
+      <version>10.0.0_play_2.4</version>
+      <version>10.0.0_play_2.5</version>
+      <version>10.0.0_play_2.6</version>
+      <version>10.0.0_play_2.7</version>
+      <version>10.0.1_play_2.4</version>
+      <version>10.0.1_play_2.5</version>
+      <version>10.0.1_play_2.6</version>
+      <version>10.0.1_play_2.7</version>
       <version>9.3.3-luisferreirapatchaddtsql.a3e0b06</version>
     </versions>
-    <lastUpdated>20200515162842</lastUpdated>
+    <lastUpdated>20200612163231</lastUpdated>
   </versioning>
 </metadata>
