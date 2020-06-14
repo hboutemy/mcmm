@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.internal.service</artifactId>
   <versioning>
-    <latest>6.7.4</latest>
-    <release>6.7.4</release>
+    <latest>6.7.6</latest>
+    <release>6.7.6</release>
     <versions>
       <version>6.6.196</version>
       <version>6.6.197</version>
@@ -90,7 +90,9 @@
       <version>6.7.2</version>
       <version>6.7.3</version>
       <version>6.7.4</version>
+      <version>6.7.5</version>
+      <version>6.7.6</version>
     </versions>
-    <lastUpdated>20200612173216</lastUpdated>
+    <lastUpdated>20200613091613</lastUpdated>
   </versioning>
 </metadata>
