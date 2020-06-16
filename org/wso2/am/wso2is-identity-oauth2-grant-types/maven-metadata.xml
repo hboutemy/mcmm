@@ -3,8 +3,8 @@
   <groupId>org.wso2.am</groupId>
   <artifactId>wso2is-identity-oauth2-grant-types</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.2.0-alpha</latest>
+    <release>3.2.0-alpha</release>
     <versions>
       <version>2.1.0-update11</version>
       <version>2.1.0-update12</version>
@@ -37,7 +37,8 @@
       <version>3.0.0-m35</version>
       <version>3.1.0-beta</version>
       <version>3.1.0</version>
+      <version>3.2.0-alpha</version>
     </versions>
-    <lastUpdated>20200326062433</lastUpdated>
+    <lastUpdated>20200615061616</lastUpdated>
   </versioning>
 </metadata>

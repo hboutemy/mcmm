@@ -3,8 +3,8 @@
   <groupId>io.zonky.test.postgres</groupId>
   <artifactId>embedded-postgres-binaries-bom</artifactId>
   <versioning>
-    <latest>12.2.0</latest>
-    <release>12.2.0</release>
+    <latest>12.3.0</latest>
+    <release>12.3.0</release>
     <versions>
       <version>9.3.23</version>
       <version>9.3.24</version>
@@ -30,6 +30,7 @@
       <version>9.5.19</version>
       <version>9.5.20</version>
       <version>9.5.21</version>
+      <version>9.5.22</version>
       <version>9.6.9</version>
       <version>9.6.10</version>
       <version>9.6.10-1</version>
@@ -40,6 +41,7 @@
       <version>9.6.15</version>
       <version>9.6.16</version>
       <version>9.6.17</version>
+      <version>9.6.18</version>
       <version>10.4.0</version>
       <version>10.5.0</version>
       <version>10.5.0-1</version>
@@ -50,6 +52,7 @@
       <version>10.10.0</version>
       <version>10.11.0</version>
       <version>10.12.0</version>
+      <version>10.13.0</version>
       <version>11.0.0</version>
       <version>11.1.0</version>
       <version>11.2.0</version>
@@ -58,10 +61,12 @@
       <version>11.5.0</version>
       <version>11.6.0</version>
       <version>11.7.0</version>
+      <version>11.8.0</version>
       <version>12.0.0</version>
       <version>12.1.0</version>
       <version>12.2.0</version>
+      <version>12.3.0</version>
     </versions>
-    <lastUpdated>20200306094102</lastUpdated>
+    <lastUpdated>20200615170448</lastUpdated>
   </versioning>
 </metadata>

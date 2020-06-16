@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>org.tomitribe.transformer:org.eclipse.transformer.maven</name>
+      <prefix>org.eclipse.transformer.</prefix>
+      <artifactId>org.eclipse.transformer.maven</artifactId>
+    </plugin>
+    <plugin>
       <name>Eclipse Transformer :: Maven Plugin</name>
       <prefix>transformer</prefix>
       <artifactId>transformer-maven-plugin</artifactId>
