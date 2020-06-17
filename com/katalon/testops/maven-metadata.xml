@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TestOps Junit Report Uploader</name>
+      <prefix>junit-report-uploader</prefix>
+      <artifactId>junit-report-uploader-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
