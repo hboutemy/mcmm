@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>rewrite-maven-plugin</name>
+      <prefix>rewrite</prefix>
+      <artifactId>rewrite-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

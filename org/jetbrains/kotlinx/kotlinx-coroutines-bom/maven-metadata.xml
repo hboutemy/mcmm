@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-bom</artifactId>
   <versioning>
-    <latest>1.3.7</latest>
-    <release>1.3.7</release>
+    <latest>1.3.7-native-mt-1.4-M2</latest>
+    <release>1.3.7-native-mt-1.4-M2</release>
     <versions>
       <version>1.3.0-RC</version>
       <version>1.3.0-RC2</version>
@@ -20,7 +20,8 @@
       <version>1.3.5-2-native-mt-1.4-M1</version>
       <version>1.3.6</version>
       <version>1.3.7</version>
+      <version>1.3.7-native-mt-1.4-M2</version>
     </versions>
-    <lastUpdated>20200519123423</lastUpdated>
+    <lastUpdated>20200617073042</lastUpdated>
   </versioning>
 </metadata>
