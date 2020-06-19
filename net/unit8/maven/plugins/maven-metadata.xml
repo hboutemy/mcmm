@@ -22,6 +22,11 @@
       <artifactId>job-streamer-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>savanna-maven-plugin</name>
+      <prefix>savanna</prefix>
+      <artifactId>savanna-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>staticweave-nopu-maven-plugin</name>
       <prefix>staticweave-nopu</prefix>
       <artifactId>staticweave-nopu-maven-plugin</artifactId>

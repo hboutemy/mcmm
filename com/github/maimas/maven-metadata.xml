@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>GraphQL code generator plugin.</name>
+      <prefix>graphql-codegen</prefix>
+      <artifactId>graphql-codegen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

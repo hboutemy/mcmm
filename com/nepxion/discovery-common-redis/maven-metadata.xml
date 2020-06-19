@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-common-redis</artifactId>
   <versioning>
-    <latest>6.0.2</latest>
-    <release>6.0.2</release>
+    <latest>6.0.3</latest>
+    <release>6.0.3</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -121,6 +121,7 @@
       <version>3.16.0</version>
       <version>3.16.1</version>
       <version>3.16.2</version>
+      <version>3.16.3</version>
       <version>4.2.1</version>
       <version>4.2.2</version>
       <version>4.2.3</version>
@@ -285,7 +286,8 @@
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
+      <version>6.0.3</version>
     </versions>
-    <lastUpdated>20200430103218</lastUpdated>
+    <lastUpdated>20200618044743</lastUpdated>
   </versioning>
 </metadata>
