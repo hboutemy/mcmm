@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ATSD Function Definition Generator Maven Plugin</name>
+      <prefix>atsd-function-definition</prefix>
+      <artifactId>atsd-function-definition-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.javers</groupId>
   <artifactId>javers-persistence-mongo</artifactId>
   <versioning>
-    <latest>5.10.0</latest>
-    <release>5.10.0</release>
+    <latest>5.10.1</latest>
+    <release>5.10.1</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -241,9 +241,10 @@
       <version>5.9.3</version>
       <version>5.9.4</version>
       <version>5.10.0</version>
+      <version>5.10.1</version>
       <version>1.2.10</version>
       <version>1.2.9</version>
     </versions>
-    <lastUpdated>20200615202657</lastUpdated>
+    <lastUpdated>20200619201404</lastUpdated>
   </versioning>
 </metadata>
