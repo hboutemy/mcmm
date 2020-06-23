@@ -12,7 +12,7 @@
       <artifactId>javaversion-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache Sling Maven Plugin for Compiling JSP Sources into Bundles</name>
+      <name>Apache Sling JSPC Maven Plugin</name>
       <prefix>jspc</prefix>
       <artifactId>jspc-maven-plugin</artifactId>
     </plugin>
@@ -47,6 +47,7 @@
       <artifactId>maven-sling-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Sling Scripting Bundle Maven Plugin</name>
       <prefix>scriptingbundle</prefix>
       <artifactId>scriptingbundle-maven-plugin</artifactId>
     </plugin>

@@ -26,5 +26,9 @@
       <prefix>cxf-wsdl-validator</prefix>
       <artifactId>cxf-wsdl-validator-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>tomee-patch</prefix>
+      <artifactId>tomee-patch-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

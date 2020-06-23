@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>regex-copy-plugin Maven Mojo</name>
+      <prefix>regex-copy</prefix>
+      <artifactId>regex-copy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
