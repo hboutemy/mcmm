@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>bwMaven Java XPath plugin</name>
+      <prefix>bw-javaxpath</prefix>
+      <artifactId>bw-javaxpath-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>bwMaven plugin</name>
+      <prefix>bw</prefix>
+      <artifactId>bw-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
