@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-core</artifactId>
   <versioning>
-    <latest>1.2.0.CR2</latest>
-    <release>1.2.0.CR2</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -79,7 +79,8 @@
       <version>1.2.0.Beta2</version>
       <version>1.2.0.CR1</version>
       <version>1.2.0.CR2</version>
+      <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20200619050902</lastUpdated>
+    <lastUpdated>20200624150849</lastUpdated>
   </versioning>
 </metadata>

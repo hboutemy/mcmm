@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>fmgen-java${maven.compiler.target}+</name>
+      <name>${project.version}+</name>
       <prefix>fmgen</prefix>
       <artifactId>fmgen-maven-plugin</artifactId>
     </plugin>

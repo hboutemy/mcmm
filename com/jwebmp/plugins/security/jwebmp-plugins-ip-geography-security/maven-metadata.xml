@@ -3,8 +3,8 @@
   <groupId>com.jwebmp.plugins.security</groupId>
   <artifactId>jwebmp-plugins-ip-geography-security</artifactId>
   <versioning>
-    <latest>1.0.12.5-jre14</latest>
-    <release>1.0.12.5-jre14</release>
+    <latest>1.0.13.0-jre14</latest>
+    <release>1.0.13.0-jre14</release>
     <versions>
       <version>0.67.0.5</version>
       <version>0.67.0.7</version>
@@ -154,7 +154,12 @@
       <version>1.0.11.2-jre14</version>
       <version>1.0.12.5</version>
       <version>1.0.12.5-jre14</version>
+      <version>1.0.13.0</version>
+      <version>1.0.13.0-jre8</version>
+      <version>1.0.13.0-jre12</version>
+      <version>1.0.13.0-jre13</version>
+      <version>1.0.13.0-jre14</version>
     </versions>
-    <lastUpdated>20200621023604</lastUpdated>
+    <lastUpdated>20200624043253</lastUpdated>
   </versioning>
 </metadata>

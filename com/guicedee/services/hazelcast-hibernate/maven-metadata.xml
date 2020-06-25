@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>hazelcast-hibernate</artifactId>
   <versioning>
-    <latest>1.0.12.5-jre14</latest>
-    <release>1.0.12.5-jre14</release>
+    <latest>1.0.13.0-jre14</latest>
+    <release>1.0.13.0-jre14</release>
     <versions>
       <version>1.0.9.10</version>
       <version>1.0.9.10-jre14</version>
@@ -56,7 +56,12 @@
       <version>1.0.12.4-jre14</version>
       <version>1.0.12.5</version>
       <version>1.0.12.5-jre14</version>
+      <version>1.0.13.0</version>
+      <version>1.0.13.0-jre8</version>
+      <version>1.0.13.0-jre12</version>
+      <version>1.0.13.0-jre13</version>
+      <version>1.0.13.0-jre14</version>
     </versions>
-    <lastUpdated>20200621023730</lastUpdated>
+    <lastUpdated>20200624043414</lastUpdated>
   </versioning>
 </metadata>
