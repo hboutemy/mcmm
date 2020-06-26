@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che</groupId>
   <artifactId>assembly-swagger-war</artifactId>
   <versioning>
-    <latest>7.14.3</latest>
-    <release>7.14.3</release>
+    <latest>7.15.0</latest>
+    <release>7.15.0</release>
     <versions>
       <version>7.3.0</version>
       <version>7.3.1</version>
@@ -34,7 +34,8 @@
       <version>7.14.1</version>
       <version>7.14.2</version>
       <version>7.14.3</version>
+      <version>7.15.0</version>
     </versions>
-    <lastUpdated>20200618204318</lastUpdated>
+    <lastUpdated>20200625163315</lastUpdated>
   </versioning>
 </metadata>

@@ -2,11 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>HK2 configuration reader generator module</name>
-      <prefix>config-generator</prefix>
-      <artifactId>config-generator</artifactId>
-    </plugin>
-    <plugin>
       <name>consolidated bundle Maven plugin</name>
       <prefix>consolidatedbundle</prefix>
       <artifactId>consolidatedbundle-maven-plugin</artifactId>
@@ -15,11 +10,6 @@
       <name>Inhabitant Generator</name>
       <prefix>hk2-inhabitant-generator</prefix>
       <artifactId>hk2-inhabitant-generator</artifactId>
-    </plugin>
-    <plugin>
-      <name>Maven Plugin for hk2</name>
-      <prefix>hk2</prefix>
-      <artifactId>hk2-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>OSGiVersion Maven Plugin</name>

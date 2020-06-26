@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-api-metrics</artifactId>
   <versioning>
-    <latest>7.14.3</latest>
-    <release>7.14.3</release>
+    <latest>7.15.0</latest>
+    <release>7.15.0</release>
     <versions>
       <version>6.17.0</version>
       <version>6.17.1</version>
@@ -59,7 +59,8 @@
       <version>7.14.1</version>
       <version>7.14.2</version>
       <version>7.14.3</version>
+      <version>7.15.0</version>
     </versions>
-    <lastUpdated>20200618204345</lastUpdated>
+    <lastUpdated>20200625163353</lastUpdated>
   </versioning>
 </metadata>
