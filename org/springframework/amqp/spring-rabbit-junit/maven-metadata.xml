@@ -3,8 +3,8 @@
   <groupId>org.springframework.amqp</groupId>
   <artifactId>spring-rabbit-junit</artifactId>
   <versioning>
-    <latest>2.2.7.RELEASE</latest>
-    <release>2.2.7.RELEASE</release>
+    <latest>2.2.8.RELEASE</latest>
+    <release>2.2.8.RELEASE</release>
     <versions>
       <version>1.7.0.RELEASE</version>
       <version>1.7.1.RELEASE</version>
@@ -60,7 +60,8 @@
       <version>2.2.5.RELEASE</version>
       <version>2.2.6.RELEASE</version>
       <version>2.2.7.RELEASE</version>
+      <version>2.2.8.RELEASE</version>
     </versions>
-    <lastUpdated>20200520194916</lastUpdated>
+    <lastUpdated>20200626154032</lastUpdated>
   </versioning>
 </metadata>

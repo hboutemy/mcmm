@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-kubernetes-ribbon</artifactId>
   <versioning>
-    <latest>1.1.1.RELEASE</latest>
-    <release>1.1.1.RELEASE</release>
+    <latest>1.1.4.RELEASE</latest>
+    <release>1.1.4.RELEASE</release>
     <versions>
       <version>0.2.0.RELEASE</version>
       <version>0.2.1.RELEASE</version>
@@ -17,7 +17,8 @@
       <version>1.0.5.RELEASE</version>
       <version>1.1.0.RELEASE</version>
       <version>1.1.1.RELEASE</version>
+      <version>1.1.4.RELEASE</version>
     </versions>
-    <lastUpdated>20200201012135</lastUpdated>
+    <lastUpdated>20200626203853</lastUpdated>
   </versioning>
 </metadata>
