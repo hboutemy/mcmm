@@ -6,5 +6,10 @@
       <prefix>jlink</prefix>
       <artifactId>jlink-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>JPackage Maven Plugin</name>
+      <prefix>jpackage</prefix>
+      <artifactId>jpackage-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
