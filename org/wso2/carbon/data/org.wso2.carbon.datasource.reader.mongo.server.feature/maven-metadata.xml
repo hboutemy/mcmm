@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.data</groupId>
   <artifactId>org.wso2.carbon.datasource.reader.mongo.server.feature</artifactId>
   <versioning>
-    <latest>4.5.1480</latest>
-    <release>4.5.1480</release>
+    <latest>4.5.1484</latest>
+    <release>4.5.1484</release>
     <versions>
       <version>4.4.2</version>
       <version>4.4.3</version>
@@ -122,7 +122,11 @@
       <version>4.5.1478</version>
       <version>4.5.1479</version>
       <version>4.5.1480</version>
+      <version>4.5.1481</version>
+      <version>4.5.1482</version>
+      <version>4.5.1483</version>
+      <version>4.5.1484</version>
     </versions>
-    <lastUpdated>20200627173710</lastUpdated>
+    <lastUpdated>20200628210703</lastUpdated>
   </versioning>
 </metadata>
