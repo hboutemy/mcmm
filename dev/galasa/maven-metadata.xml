@@ -7,6 +7,11 @@
       <artifactId>galasa-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>galasastaging-maven-plugin Maven Plugin</name>
+      <prefix>galasastaging</prefix>
+      <artifactId>galasastaging-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>galasautils</prefix>
       <artifactId>galasautils-maven-plugin</artifactId>
     </plugin>

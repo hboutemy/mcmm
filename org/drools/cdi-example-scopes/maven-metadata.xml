@@ -3,8 +3,8 @@
   <groupId>org.drools</groupId>
   <artifactId>cdi-example-scopes</artifactId>
   <versioning>
-    <latest>7.39.0.CR1</latest>
-    <release>7.39.0.CR1</release>
+    <latest>7.39.0.Final</latest>
+    <release>7.39.0.Final</release>
     <versions>
       <version>7.0.0.Beta1</version>
       <version>7.0.0.Beta2</version>
@@ -70,7 +70,8 @@
       <version>7.37.0.Final</version>
       <version>7.38.0.Final</version>
       <version>7.39.0.CR1</version>
+      <version>7.39.0.Final</version>
     </versions>
-    <lastUpdated>20200615081934</lastUpdated>
+    <lastUpdated>20200630115419</lastUpdated>
   </versioning>
 </metadata>
