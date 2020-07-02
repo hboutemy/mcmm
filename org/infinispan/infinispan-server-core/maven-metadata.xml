@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-core</artifactId>
   <versioning>
-    <latest>11.0.0.Dev05</latest>
-    <release>11.0.0.Dev05</release>
+    <latest>11.0.1.Final</latest>
+    <release>11.0.1.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -257,7 +257,8 @@
       <version>11.0.0.Dev03</version>
       <version>11.0.0.Dev04</version>
       <version>11.0.0.Dev05</version>
+      <version>11.0.1.Final</version>
     </versions>
-    <lastUpdated>20200614210017</lastUpdated>
+    <lastUpdated>20200630190946</lastUpdated>
   </versioning>
 </metadata>

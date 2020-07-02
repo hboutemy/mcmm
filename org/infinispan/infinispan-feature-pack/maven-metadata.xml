@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-feature-pack</artifactId>
   <versioning>
-    <latest>11.0.0.Dev04</latest>
-    <release>11.0.0.Dev04</release>
+    <latest>11.0.1.Final</latest>
+    <release>11.0.1.Final</release>
     <versions>
       <version>9.3.0.CR1</version>
       <version>9.3.0.Final</version>
@@ -72,7 +72,8 @@
       <version>11.0.0.Final</version>
       <version>11.0.0.Dev03</version>
       <version>11.0.0.Dev04</version>
+      <version>11.0.1.Final</version>
     </versions>
-    <lastUpdated>20200614210005</lastUpdated>
+    <lastUpdated>20200630190933</lastUpdated>
   </versioning>
 </metadata>

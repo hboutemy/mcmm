@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Blunderbuss Maven Plugin</name>
+      <prefix>blunderbuss</prefix>
+      <artifactId>blunderbuss-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Granite IT Maven Plugin</name>
       <prefix>graniteit</prefix>
       <artifactId>graniteit-maven-plugin</artifactId>

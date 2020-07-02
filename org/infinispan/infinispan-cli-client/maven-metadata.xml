@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cli-client</artifactId>
   <versioning>
-    <latest>11.0.0.Dev05</latest>
-    <release>11.0.0.Dev05</release>
+    <latest>11.0.1.Final</latest>
+    <release>11.0.1.Final</release>
     <versions>
       <version>5.2.0.ALPHA1</version>
       <version>5.2.0.ALPHA2</version>
@@ -230,7 +230,8 @@
       <version>11.0.0.Dev03</version>
       <version>11.0.0.Dev04</version>
       <version>11.0.0.Dev05</version>
+      <version>11.0.1.Final</version>
     </versions>
-    <lastUpdated>20200614205958</lastUpdated>
+    <lastUpdated>20200630190926</lastUpdated>
   </versioning>
 </metadata>

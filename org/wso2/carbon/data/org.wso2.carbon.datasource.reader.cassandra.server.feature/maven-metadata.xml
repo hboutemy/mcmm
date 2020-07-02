@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.data</groupId>
   <artifactId>org.wso2.carbon.datasource.reader.cassandra.server.feature</artifactId>
   <versioning>
-    <latest>4.5.1486</latest>
-    <release>4.5.1486</release>
+    <latest>4.5.1488</latest>
+    <release>4.5.1488</release>
     <versions>
       <version>4.3.1</version>
       <version>4.3.2</version>
@@ -137,7 +137,8 @@
       <version>4.5.1484</version>
       <version>4.5.1485</version>
       <version>4.5.1486</version>
+      <version>4.5.1488</version>
     </versions>
-    <lastUpdated>20200629105003</lastUpdated>
+    <lastUpdated>20200701231841</lastUpdated>
   </versioning>
 </metadata>

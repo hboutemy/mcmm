@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-bom</artifactId>
   <versioning>
-    <latest>11.0.0.Dev05</latest>
-    <release>11.0.0.Dev05</release>
+    <latest>11.0.1.Final</latest>
+    <release>11.0.1.Final</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -190,7 +190,8 @@
       <version>11.0.0.Dev03</version>
       <version>11.0.0.Dev04</version>
       <version>11.0.0.Dev05</version>
+      <version>11.0.1.Final</version>
     </versions>
-    <lastUpdated>20200614205954</lastUpdated>
+    <lastUpdated>20200630190921</lastUpdated>
   </versioning>
 </metadata>

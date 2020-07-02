@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-wildfly-module-integrationtests</artifactId>
   <versioning>
-    <latest>11.0.0.Dev04</latest>
-    <release>11.0.0.Dev04</release>
+    <latest>11.0.1.Final</latest>
+    <release>11.0.1.Final</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.3.0.Alpha1</version>
@@ -75,7 +75,8 @@
       <version>11.0.0.Final</version>
       <version>11.0.0.Dev03</version>
       <version>11.0.0.Dev04</version>
+      <version>11.0.1.Final</version>
     </versions>
-    <lastUpdated>20200614210024</lastUpdated>
+    <lastUpdated>20200630190953</lastUpdated>
   </versioning>
 </metadata>
