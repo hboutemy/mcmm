@@ -3,9 +3,10 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-ogm-embedded-native-types</artifactId>
   <versioning>
-    <latest>3.2.12</latest>
-    <release>3.2.12</release>
+    <latest>3.2.13</latest>
+    <release>3.2.13</release>
     <versions>
+      <version>v3.2.13</version>
       <version>3.2.0-alpha01</version>
       <version>3.2.0-alpha02</version>
       <version>3.2.0-alpha03</version>
@@ -27,7 +28,8 @@
       <version>3.2.10</version>
       <version>3.2.11</version>
       <version>3.2.12</version>
+      <version>3.2.13</version>
     </versions>
-    <lastUpdated>20200529125004</lastUpdated>
+    <lastUpdated>20200703120943</lastUpdated>
   </versioning>
 </metadata>

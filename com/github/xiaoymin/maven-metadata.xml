@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>deploy-helper</prefix>
+      <artifactId>deploy-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>template-factory</prefix>
       <artifactId>template-factory-maven-plugin</artifactId>
     </plugin>
