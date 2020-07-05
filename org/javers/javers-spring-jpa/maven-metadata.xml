@@ -3,8 +3,8 @@
   <groupId>org.javers</groupId>
   <artifactId>javers-spring-jpa</artifactId>
   <versioning>
-    <latest>5.10.1</latest>
-    <release>5.10.1</release>
+    <latest>5.10.3</latest>
+    <release>5.10.3</release>
     <versions>
       <version>3.6.0</version>
       <version>3.6.1</version>
@@ -115,7 +115,9 @@
       <version>5.9.4</version>
       <version>5.10.0</version>
       <version>5.10.1</version>
+      <version>5.10.2</version>
+      <version>5.10.3</version>
     </versions>
-    <lastUpdated>20200619201418</lastUpdated>
+    <lastUpdated>20200704185806</lastUpdated>
   </versioning>
 </metadata>

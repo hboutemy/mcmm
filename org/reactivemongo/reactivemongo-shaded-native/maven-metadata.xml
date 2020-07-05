@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-shaded-native</artifactId>
   <versioning>
-    <latest>0.20.11-osx-x86-64</latest>
-    <release>0.20.11-osx-x86-64</release>
+    <latest>0.20.12-osx-x86-64</latest>
+    <release>0.20.12-osx-x86-64</release>
     <versions>
       <version>0.15.0-linux-x86-64</version>
       <version>0.15.0-osx-x86-64</version>
@@ -76,7 +76,9 @@
       <version>0.20.10-osx-x86-64</version>
       <version>0.20.11-linux-x86-64</version>
       <version>0.20.11-osx-x86-64</version>
+      <version>0.20.12-linux-x86-64</version>
+      <version>0.20.12-osx-x86-64</version>
     </versions>
-    <lastUpdated>20200604202933</lastUpdated>
+    <lastUpdated>20200704191701</lastUpdated>
   </versioning>
 </metadata>
