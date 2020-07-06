@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-play-json_2.11</artifactId>
   <versioning>
-    <latest>0.20.12-play27</latest>
-    <release>0.20.12-play27</release>
+    <latest>0.20.12-play27-fix1</latest>
+    <release>0.20.12-play27-fix1</release>
     <versions>
       <version>0.11.9</version>
       <version>0.11.9-1</version>
@@ -168,9 +168,12 @@
       <version>0.20.11-play26</version>
       <version>0.20.11-play27</version>
       <version>0.20.12-play25</version>
+      <version>0.20.12-play25-fix1</version>
       <version>0.20.12-play26</version>
+      <version>0.20.12-play26-fix1</version>
       <version>0.20.12-play27</version>
+      <version>0.20.12-play27-fix1</version>
     </versions>
-    <lastUpdated>20200704192154</lastUpdated>
+    <lastUpdated>20200705121501</lastUpdated>
   </versioning>
 </metadata>
