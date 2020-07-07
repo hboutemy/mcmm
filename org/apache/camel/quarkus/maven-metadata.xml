@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel Quarkus :: Tooling :: Maven Plugin</name>
+      <prefix>camel-quarkus</prefix>
+      <artifactId>camel-quarkus-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel Quarkus :: Tooling :: Maven :: Package Maven Plugin</name>
       <prefix>camel-quarkus-package</prefix>
       <artifactId>camel-quarkus-package-maven-plugin</artifactId>
