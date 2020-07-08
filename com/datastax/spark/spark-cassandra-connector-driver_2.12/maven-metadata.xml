@@ -3,14 +3,15 @@
   <groupId>com.datastax.spark</groupId>
   <artifactId>spark-cassandra-connector-driver_2.12</artifactId>
   <versioning>
-    <latest>3.0.0-alpha2</latest>
-    <release>3.0.0-alpha2</release>
+    <latest>3.0.0-beta</latest>
+    <release>3.0.0-beta</release>
     <versions>
       <version>v3.0.0-alpha2</version>
       <version>2.5.0</version>
       <version>3.0-alpha</version>
       <version>3.0.0-alpha2</version>
+      <version>3.0.0-beta</version>
     </versions>
-    <lastUpdated>20200428184046</lastUpdated>
+    <lastUpdated>20200707123502</lastUpdated>
   </versioning>
 </metadata>
