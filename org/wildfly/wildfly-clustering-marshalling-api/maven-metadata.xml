@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-marshalling-api</artifactId>
   <versioning>
-    <latest>20.0.0.Final</latest>
-    <release>20.0.0.Final</release>
+    <latest>20.0.1.Final</latest>
+    <release>20.0.1.Final</release>
     <versions>
       <version>10.0.0.CR1</version>
       <version>10.0.0.CR2</version>
@@ -45,7 +45,8 @@
       <version>19.1.0.Final</version>
       <version>20.0.0.Beta1</version>
       <version>20.0.0.Final</version>
+      <version>20.0.1.Final</version>
     </versions>
-    <lastUpdated>20200607211825</lastUpdated>
+    <lastUpdated>20200708001050</lastUpdated>
   </versioning>
 </metadata>
