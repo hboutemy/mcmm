@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Apache Sling Feature Launcher Maven Plugin</name>
+      <prefix>feature-launcher</prefix>
+      <artifactId>feature-launcher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Sling HTL Maven Plugin</name>
       <prefix>htl</prefix>
       <artifactId>htl-maven-plugin</artifactId>

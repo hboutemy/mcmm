@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.sts</groupId>
   <artifactId>org.wso2.carbon.mex2</artifactId>
   <versioning>
-    <latest>5.6.1</latest>
-    <release>5.6.1</release>
+    <latest>5.6.2</latest>
+    <release>5.6.2</release>
     <versions>
       <version>5.2.6</version>
       <version>5.2.7</version>
@@ -28,7 +28,8 @@
       <version>5.5.4</version>
       <version>5.6.0</version>
       <version>5.6.1</version>
+      <version>5.6.2</version>
     </versions>
-    <lastUpdated>20200626144538</lastUpdated>
+    <lastUpdated>20200710083539</lastUpdated>
   </versioning>
 </metadata>
