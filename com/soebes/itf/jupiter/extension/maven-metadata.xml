@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>itf-failure</prefix>
+      <artifactId>itf-failure-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>itf</prefix>
       <artifactId>itf-maven-plugin</artifactId>
     </plugin>
