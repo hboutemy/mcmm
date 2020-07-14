@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.assemblies</groupId>
   <artifactId>nexus-cma-feature</artifactId>
   <versioning>
-    <latest>3.24.0-02</latest>
-    <release>3.24.0-02</release>
+    <latest>3.25.0-03</latest>
+    <release>3.25.0-03</release>
     <versions>
       <version>3.21.0-01</version>
       <version>3.21.0-02</version>
@@ -19,7 +19,9 @@
       <version>3.23.0-03</version>
       <version>3.24.0-01</version>
       <version>3.24.0-02</version>
+      <version>3.25.0-02</version>
+      <version>3.25.0-03</version>
     </versions>
-    <lastUpdated>20200608204330</lastUpdated>
+    <lastUpdated>20200713203538</lastUpdated>
   </versioning>
 </metadata>
