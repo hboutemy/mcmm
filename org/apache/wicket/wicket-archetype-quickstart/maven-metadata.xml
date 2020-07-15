@@ -3,8 +3,8 @@
   <groupId>org.apache.wicket</groupId>
   <artifactId>wicket-archetype-quickstart</artifactId>
   <versioning>
-    <latest>9.0.0-M5</latest>
-    <release>9.0.0-M5</release>
+    <latest>9.0.0</latest>
+    <release>9.0.0</release>
     <versions>
       <version>1.3.0-beta3</version>
       <version>1.3.0-beta4</version>
@@ -162,7 +162,8 @@
       <version>9.0.0-M3</version>
       <version>9.0.0-M4</version>
       <version>9.0.0-M5</version>
+      <version>9.0.0</version>
     </versions>
-    <lastUpdated>20200424125252</lastUpdated>
+    <lastUpdated>20200714163826</lastUpdated>
   </versioning>
 </metadata>

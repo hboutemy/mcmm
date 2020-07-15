@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WebSocket RPC Maven Plugin</name>
+      <prefix>wsrpc</prefix>
+      <artifactId>wsrpc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

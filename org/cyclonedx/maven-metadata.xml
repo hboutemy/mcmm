@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>CycloneDX</name>
+      <name>CycloneDX Maven plugin</name>
       <prefix>cyclonedx</prefix>
       <artifactId>cyclonedx-maven-plugin</artifactId>
     </plugin>
