@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Selcukes Maven Plugin for Cucumber Reports</name>
+      <prefix>selcukes-report</prefix>
+      <artifactId>selcukes-report-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

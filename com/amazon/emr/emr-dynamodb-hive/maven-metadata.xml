@@ -3,9 +3,14 @@
   <groupId>com.amazon.emr</groupId>
   <artifactId>emr-dynamodb-hive</artifactId>
   <versioning>
-    <latest>4.12.0</latest>
-    <release>4.12.0</release>
+    <latest>4.14.0</latest>
+    <release>4.14.0</release>
     <versions>
+      <version>4.13.0</version>
+      <version>4.14.0</version>
+      <version>4.10.0</version>
+      <version>4.11.0</version>
+      <version>4.12.0</version>
       <version>4.2.0</version>
       <version>4.3.0</version>
       <version>4.4.0</version>
@@ -14,10 +19,7 @@
       <version>4.7.0</version>
       <version>4.8.0</version>
       <version>4.9.0</version>
-      <version>4.10.0</version>
-      <version>4.11.0</version>
-      <version>4.12.0</version>
     </versions>
-    <lastUpdated>20191001181343</lastUpdated>
+    <lastUpdated>20200715192725</lastUpdated>
   </versioning>
 </metadata>

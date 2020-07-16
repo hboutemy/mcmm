@@ -3,8 +3,8 @@
   <groupId>org.jboss.windup</groupId>
   <artifactId>windup-server-provider-spi-parent</artifactId>
   <versioning>
-    <latest>5.0.0.Beta1</latest>
-    <release>5.0.0.Beta1</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>4.1.0.Alpha5</version>
       <version>4.1.0.Final</version>
@@ -23,7 +23,8 @@
       <version>4.3.1.Final</version>
       <version>5.0.0.Alpha1</version>
       <version>5.0.0.Beta1</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20200713084300</lastUpdated>
+    <lastUpdated>20200715085933</lastUpdated>
   </versioning>
 </metadata>

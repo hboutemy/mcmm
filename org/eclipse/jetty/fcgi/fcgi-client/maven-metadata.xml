@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.fcgi</groupId>
   <artifactId>fcgi-client</artifactId>
   <versioning>
-    <latest>11.0.0-alpha0</latest>
-    <release>11.0.0-alpha0</release>
+    <latest>11.0.0.beta1</latest>
+    <release>11.0.0.beta1</release>
     <versions>
       <version>9.1.4.v20140401</version>
       <version>9.1.5.v20140505</version>
@@ -147,8 +147,10 @@
       <version>10.0.0.alpha1</version>
       <version>10.0.0.alpha2</version>
       <version>10.0.0.beta0</version>
+      <version>10.0.0.beta1</version>
       <version>11.0.0-alpha0</version>
+      <version>11.0.0.beta1</version>
     </versions>
-    <lastUpdated>20200612163134</lastUpdated>
+    <lastUpdated>20200715160838</lastUpdated>
   </versioning>
 </metadata>

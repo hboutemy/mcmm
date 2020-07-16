@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-alpn-client</artifactId>
   <versioning>
-    <latest>11.0.0-alpha0</latest>
-    <release>11.0.0-alpha0</release>
+    <latest>11.0.0.beta1</latest>
+    <release>11.0.0.beta1</release>
     <versions>
       <version>9.2.0.M0</version>
       <version>9.2.0.M1</version>
@@ -144,8 +144,10 @@
       <version>10.0.0.alpha1</version>
       <version>10.0.0.alpha2</version>
       <version>10.0.0.beta0</version>
+      <version>10.0.0.beta1</version>
       <version>11.0.0-alpha0</version>
+      <version>11.0.0.beta1</version>
     </versions>
-    <lastUpdated>20200612163136</lastUpdated>
+    <lastUpdated>20200715160840</lastUpdated>
   </versioning>
 </metadata>
