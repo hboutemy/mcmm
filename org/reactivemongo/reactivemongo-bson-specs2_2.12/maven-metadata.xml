@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-bson-specs2_2.12</artifactId>
   <versioning>
-    <latest>0.20.12-noshaded</latest>
-    <release>0.20.12-noshaded</release>
+    <latest>1.0.0-noshaded-rc.1</latest>
+    <release>1.0.0-noshaded-rc.1</release>
     <versions>
       <version>0.20.2</version>
       <version>0.20.2-noshaded</version>
@@ -18,7 +18,9 @@
       <version>0.20.11-noshaded</version>
       <version>0.20.12</version>
       <version>0.20.12-noshaded</version>
+      <version>1.0.0-rc.1</version>
+      <version>1.0.0-noshaded-rc.1</version>
     </versions>
-    <lastUpdated>20200704191837</lastUpdated>
+    <lastUpdated>20200717130245</lastUpdated>
   </versioning>
 </metadata>

@@ -11,5 +11,10 @@
       <prefix>jtecompiler</prefix>
       <artifactId>jte-maven-compiler-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jte-maven-plugin</name>
+      <prefix>jte</prefix>
+      <artifactId>jte-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

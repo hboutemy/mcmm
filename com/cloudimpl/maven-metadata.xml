@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>code-generator</prefix>
+      <artifactId>code-generator</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>errorcode-generator</prefix>
+      <artifactId>errorcode-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

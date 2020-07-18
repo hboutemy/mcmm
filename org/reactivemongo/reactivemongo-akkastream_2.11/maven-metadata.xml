@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-akkastream_2.11</artifactId>
   <versioning>
-    <latest>0.20.12-fix1</latest>
-    <release>0.20.12-fix1</release>
+    <latest>1.0.0-rc.1</latest>
+    <release>1.0.0-rc.1</release>
     <versions>
       <version>0.12-RC0</version>
       <version>0.12-RC1</version>
@@ -60,7 +60,8 @@
       <version>0.20.11</version>
       <version>0.20.12</version>
       <version>0.20.12-fix1</version>
+      <version>1.0.0-rc.1</version>
     </versions>
-    <lastUpdated>20200705121400</lastUpdated>
+    <lastUpdated>20200717130528</lastUpdated>
   </versioning>
 </metadata>

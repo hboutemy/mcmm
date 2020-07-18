@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-rest-x509</artifactId>
   <versioning>
-    <latest>6.2.0</latest>
-    <release>6.2.0</release>
+    <latest>6.3.0-RC1</latest>
+    <release>6.3.0-RC1</release>
     <versions>
       <version>5.1.0-RC4</version>
       <version>5.1.0</version>
@@ -88,7 +88,8 @@
       <version>6.2.0-RC4</version>
       <version>6.2.0-RC5</version>
       <version>6.2.0</version>
+      <version>6.3.0-RC1</version>
     </versions>
-    <lastUpdated>20200703103545</lastUpdated>
+    <lastUpdated>20200717094227</lastUpdated>
   </versioning>
 </metadata>

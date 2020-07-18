@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>yang-data-util</artifactId>
   <versioning>
-    <latest>5.0.3</latest>
-    <release>5.0.3</release>
+    <latest>5.0.4</latest>
+    <release>5.0.4</release>
     <versions>
       <version>0.5.8</version>
       <version>0.6.0</version>
@@ -103,6 +103,7 @@
       <version>3.0.11</version>
       <version>3.0.12</version>
       <version>3.0.13</version>
+      <version>3.0.14</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -115,11 +116,13 @@
       <version>4.0.9</version>
       <version>4.0.10</version>
       <version>4.0.11</version>
+      <version>4.0.12</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.0.3</version>
+      <version>5.0.4</version>
     </versions>
-    <lastUpdated>20200713210144</lastUpdated>
+    <lastUpdated>20200717163014</lastUpdated>
   </versioning>
 </metadata>
