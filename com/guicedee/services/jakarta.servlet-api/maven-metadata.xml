@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>jakarta.servlet-api</artifactId>
   <versioning>
-    <latest>1.0.13.5-jre14</latest>
-    <release>1.0.13.5-jre14</release>
+    <latest>1.0.14.0-RC1-jre14</latest>
+    <release>1.0.14.0-RC1-jre14</release>
     <versions>
       <version>1.0.10.0</version>
       <version>1.0.10.0-jre13</version>
@@ -72,7 +72,9 @@
       <version>1.0.13.5-jre8</version>
       <version>1.0.13.5-jre12</version>
       <version>1.0.13.5-jre14</version>
+      <version>1.0.14.0-RC1-jre8</version>
+      <version>1.0.14.0-RC1-jre14</version>
     </versions>
-    <lastUpdated>20200717055327</lastUpdated>
+    <lastUpdated>20200718212232</lastUpdated>
   </versioning>
 </metadata>
