@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.services</groupId>
   <artifactId>gravitee-gateway-services-healthcheck</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -202,7 +202,8 @@
       <version>3.0.4</version>
       <version>3.0.5</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20200717143029</lastUpdated>
+    <lastUpdated>20200720221910</lastUpdated>
   </versioning>
 </metadata>
