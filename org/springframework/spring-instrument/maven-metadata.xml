@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-instrument</artifactId>
   <versioning>
-    <latest>5.2.7.RELEASE</latest>
-    <release>5.2.7.RELEASE</release>
+    <latest>5.2.8.RELEASE</latest>
+    <release>5.2.8.RELEASE</release>
     <versions>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
@@ -96,6 +96,7 @@
       <version>4.3.25.RELEASE</version>
       <version>4.3.26.RELEASE</version>
       <version>4.3.27.RELEASE</version>
+      <version>4.3.28.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -114,6 +115,7 @@
       <version>5.0.15.RELEASE</version>
       <version>5.0.16.RELEASE</version>
       <version>5.0.17.RELEASE</version>
+      <version>5.0.18.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -131,6 +133,7 @@
       <version>5.1.14.RELEASE</version>
       <version>5.1.15.RELEASE</version>
       <version>5.1.16.RELEASE</version>
+      <version>5.1.17.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
@@ -139,7 +142,8 @@
       <version>5.2.5.RELEASE</version>
       <version>5.2.6.RELEASE</version>
       <version>5.2.7.RELEASE</version>
+      <version>5.2.8.RELEASE</version>
     </versions>
-    <lastUpdated>20200609090646</lastUpdated>
+    <lastUpdated>20200721090205</lastUpdated>
   </versioning>
 </metadata>

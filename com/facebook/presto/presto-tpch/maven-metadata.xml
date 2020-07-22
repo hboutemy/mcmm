@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-tpch</artifactId>
   <versioning>
-    <latest>0.238</latest>
-    <release>0.238</release>
+    <latest>0.238.1</latest>
+    <release>0.238.1</release>
     <versions>
       <version>0.60</version>
       <version>0.61</version>
@@ -201,7 +201,8 @@
       <version>0.237</version>
       <version>0.237.1</version>
       <version>0.238</version>
+      <version>0.238.1</version>
     </versions>
-    <lastUpdated>20200716225548</lastUpdated>
+    <lastUpdated>20200721015237</lastUpdated>
   </versioning>
 </metadata>

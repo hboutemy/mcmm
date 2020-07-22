@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-azure-functions-http-archetype</artifactId>
   <versioning>
-    <latest>1.6.0.Final</latest>
-    <release>1.6.0.Final</release>
+    <latest>1.6.1.Final</latest>
+    <release>1.6.1.Final</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -45,7 +45,8 @@
       <version>1.5.2.Final</version>
       <version>1.6.0.CR1</version>
       <version>1.6.0.Final</version>
+      <version>1.6.1.Final</version>
     </versions>
-    <lastUpdated>20200702125807</lastUpdated>
+    <lastUpdated>20200721104748</lastUpdated>
   </versioning>
 </metadata>
