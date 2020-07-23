@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.model</groupId>
   <artifactId>ietf-topology-isis</artifactId>
   <versioning>
-    <latest>2013.10.21.18.3</latest>
-    <release>2013.10.21.18.3</release>
+    <latest>2013.10.21.18.4</latest>
+    <release>2013.10.21.18.4</release>
     <versions>
       <version>2013.10.21.8-Beryllium</version>
       <version>2013.10.21.8.1-Beryllium-SR1</version>
@@ -82,11 +82,13 @@
       <version>2013.10.21.17.11</version>
       <version>2013.10.21.17.12</version>
       <version>2013.10.21.17.13</version>
+      <version>2013.10.21.17.14</version>
       <version>2013.10.21.18.0</version>
       <version>2013.10.21.18.1</version>
       <version>2013.10.21.18.2</version>
       <version>2013.10.21.18.3</version>
+      <version>2013.10.21.18.4</version>
     </versions>
-    <lastUpdated>20200717222400</lastUpdated>
+    <lastUpdated>20200722234544</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Unojar Maven Plugin</name>
+      <prefix>unojar</prefix>
+      <artifactId>unojar-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

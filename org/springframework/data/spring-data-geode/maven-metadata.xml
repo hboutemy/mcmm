@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-geode</artifactId>
   <versioning>
-    <latest>2.3.1.RELEASE</latest>
-    <release>2.3.1.RELEASE</release>
+    <latest>2.3.2.RELEASE</latest>
+    <release>2.3.2.RELEASE</release>
     <versions>
       <version>1.0.0.APACHE-GEODE-INCUBATING-M2</version>
       <version>1.0.0.APACHE-GEODE-INCUBATING-M3</version>
@@ -43,6 +43,7 @@
       <version>2.1.16.RELEASE</version>
       <version>2.1.17.RELEASE</version>
       <version>2.1.18.RELEASE</version>
+      <version>2.1.19.RELEASE</version>
       <version>2.2.0.RELEASE</version>
       <version>2.2.1.RELEASE</version>
       <version>2.2.2.RELEASE</version>
@@ -52,9 +53,11 @@
       <version>2.2.6.RELEASE</version>
       <version>2.2.7.RELEASE</version>
       <version>2.2.8.RELEASE</version>
+      <version>2.2.9.RELEASE</version>
       <version>2.3.0.RELEASE</version>
       <version>2.3.1.RELEASE</version>
+      <version>2.3.2.RELEASE</version>
     </versions>
-    <lastUpdated>20200610132216</lastUpdated>
+    <lastUpdated>20200722084327</lastUpdated>
   </versioning>
 </metadata>

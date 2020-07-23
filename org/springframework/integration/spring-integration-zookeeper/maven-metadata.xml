@@ -3,8 +3,8 @@
   <groupId>org.springframework.integration</groupId>
   <artifactId>spring-integration-zookeeper</artifactId>
   <versioning>
-    <latest>5.3.1.RELEASE</latest>
-    <release>5.3.1.RELEASE</release>
+    <latest>5.3.2.RELEASE</latest>
+    <release>5.3.2.RELEASE</release>
     <versions>
       <version>4.2.0.RELEASE</version>
       <version>4.2.1.RELEASE</version>
@@ -41,6 +41,7 @@
       <version>4.3.20.RELEASE</version>
       <version>4.3.21.RELEASE</version>
       <version>4.3.22.RELEASE</version>
+      <version>4.3.23.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -68,6 +69,7 @@
       <version>5.1.9.RELEASE</version>
       <version>5.1.10.RELEASE</version>
       <version>5.1.11.RELEASE</version>
+      <version>5.1.12.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
@@ -76,9 +78,11 @@
       <version>5.2.5.RELEASE</version>
       <version>5.2.6.RELEASE</version>
       <version>5.2.7.RELEASE</version>
+      <version>5.2.8.RELEASE</version>
       <version>5.3.0.RELEASE</version>
       <version>5.3.1.RELEASE</version>
+      <version>5.3.2.RELEASE</version>
     </versions>
-    <lastUpdated>20200610184251</lastUpdated>
+    <lastUpdated>20200722191447</lastUpdated>
   </versioning>
 </metadata>
