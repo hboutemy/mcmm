@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-spring-legacy</artifactId>
   <versioning>
-    <latest>1.3.10</latest>
-    <release>1.3.10</release>
+    <latest>1.3.11</latest>
+    <release>1.3.11</release>
     <versions>
       <version>0.6.1.RELEASE</version>
       <version>0.6.3.RELEASE</version>
@@ -53,6 +53,7 @@
       <version>1.1.13</version>
       <version>1.1.14</version>
       <version>1.1.15</version>
+      <version>1.1.16</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
       <version>1.2.2</version>
@@ -66,7 +67,8 @@
       <version>1.3.8</version>
       <version>1.3.9</version>
       <version>1.3.10</version>
+      <version>1.3.11</version>
     </versions>
-    <lastUpdated>20200623133339</lastUpdated>
+    <lastUpdated>20200723171517</lastUpdated>
   </versioning>
 </metadata>
