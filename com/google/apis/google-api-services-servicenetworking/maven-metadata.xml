@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-servicenetworking</artifactId>
   <versioning>
-    <latest>v1-rev20200711-1.30.10</latest>
-    <release>v1-rev20200711-1.30.10</release>
+    <latest>v1-rev20200721-1.30.10</latest>
+    <release>v1-rev20200721-1.30.10</release>
     <versions>
       <version>v1beta-rev1-1.18.0-rc</version>
       <version>v1beta-rev1-1.22.0</version>
@@ -421,6 +421,7 @@
       <version>v1beta-rev20200615-1.30.9</version>
       <version>v1beta-rev20200615-1.30.10</version>
       <version>v1beta-rev20200711-1.30.10</version>
+      <version>v1beta-rev20200721-1.30.10</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.22.0</version>
       <version>v1-rev1-1.23.0</version>
@@ -673,7 +674,8 @@
       <version>v1-rev20200615-1.30.9</version>
       <version>v1-rev20200615-1.30.10</version>
       <version>v1-rev20200711-1.30.10</version>
+      <version>v1-rev20200721-1.30.10</version>
     </versions>
-    <lastUpdated>20200716210243</lastUpdated>
+    <lastUpdated>20200724090722</lastUpdated>
   </versioning>
 </metadata>
