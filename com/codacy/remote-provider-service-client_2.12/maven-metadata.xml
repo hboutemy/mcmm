@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>remote-provider-service-client_2.12</artifactId>
   <versioning>
-    <latest>8.18.3_akka25Circe08</latest>
-    <release>8.18.3_akka25Circe08</release>
+    <latest>8.20.1_akka25Circe08</latest>
+    <release>8.20.1_akka25Circe08</release>
     <versions>
       <version>0.11.2+akka24Circe011</version>
       <version>0.11.3+akka24Circe011</version>
@@ -71,7 +71,9 @@
       <version>8.18.1_akka25Circe08</version>
       <version>8.18.2_akka25Circe08</version>
       <version>8.18.3_akka25Circe08</version>
+      <version>8.20.0_akka25Circe08</version>
+      <version>8.20.1_akka25Circe08</version>
     </versions>
-    <lastUpdated>20200714083945</lastUpdated>
+    <lastUpdated>20200729155659</lastUpdated>
   </versioning>
 </metadata>

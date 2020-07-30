@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudasset</artifactId>
   <versioning>
-    <latest>v1-rev20200619-1.30.10</latest>
-    <release>v1-rev20200619-1.30.10</release>
+    <latest>v1-rev20200724-1.30.10</latest>
+    <release>v1-rev20200724-1.30.10</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.22.0</version>
@@ -189,6 +189,7 @@
       <version>v1p4beta1-rev20200605-1.30.9</version>
       <version>v1p4beta1-rev20200613-1.30.9</version>
       <version>v1p4beta1-rev20200613-1.30.10</version>
+      <version>v1p4beta1-rev20200724-1.30.10</version>
       <version>v1p5beta1-rev20200717-1.30.10</version>
       <version>v1-rev2-1.23.0</version>
       <version>v1-rev2-1.24.1</version>
@@ -310,7 +311,8 @@
       <version>v1-rev20200613-1.30.9</version>
       <version>v1-rev20200619-1.30.9</version>
       <version>v1-rev20200619-1.30.10</version>
+      <version>v1-rev20200724-1.30.10</version>
     </versions>
-    <lastUpdated>20200724080759</lastUpdated>
+    <lastUpdated>20200729200511</lastUpdated>
   </versioning>
 </metadata>

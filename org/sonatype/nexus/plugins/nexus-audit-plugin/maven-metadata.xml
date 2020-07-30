@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-audit-plugin</artifactId>
   <versioning>
-    <latest>3.25.0-03</latest>
-    <release>3.25.0-03</release>
+    <latest>3.25.1-02</latest>
+    <release>3.25.1-02</release>
     <versions>
       <version>3.1.0-04</version>
       <version>3.2.0-01</version>
@@ -63,7 +63,9 @@
       <version>3.24.0-02</version>
       <version>3.25.0-02</version>
       <version>3.25.0-03</version>
+      <version>3.25.1-01</version>
+      <version>3.25.1-02</version>
     </versions>
-    <lastUpdated>20200713203626</lastUpdated>
+    <lastUpdated>20200729192628</lastUpdated>
   </versioning>
 </metadata>
