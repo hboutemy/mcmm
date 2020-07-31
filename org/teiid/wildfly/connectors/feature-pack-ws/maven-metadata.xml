@@ -3,8 +3,8 @@
   <groupId>org.teiid.wildfly.connectors</groupId>
   <artifactId>feature-pack-ws</artifactId>
   <versioning>
-    <latest>14.0.0</latest>
-    <release>14.0.0</release>
+    <latest>14.0.1</latest>
+    <release>14.0.1</release>
     <versions>
       <version>12.0.0</version>
       <version>12.0.1</version>
@@ -25,7 +25,8 @@
       <version>13.1.0</version>
       <version>13.1.1</version>
       <version>14.0.0</version>
+      <version>14.0.1</version>
     </versions>
-    <lastUpdated>20200521145539</lastUpdated>
+    <lastUpdated>20200730211506</lastUpdated>
   </versioning>
 </metadata>
