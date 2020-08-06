@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>vespa-maven-plugin</artifactId>
   <versioning>
-    <latest>7.261.8</latest>
-    <release>7.261.8</release>
+    <latest>7.263.4</latest>
+    <release>7.263.4</release>
     <versions>
       <version>7.50.19</version>
       <version>7.51.13</version>
@@ -135,7 +135,8 @@
       <version>7.258.11</version>
       <version>7.259.2</version>
       <version>7.261.8</version>
+      <version>7.263.4</version>
     </versions>
-    <lastUpdated>20200731084315</lastUpdated>
+    <lastUpdated>20200805191651</lastUpdated>
   </versioning>
 </metadata>

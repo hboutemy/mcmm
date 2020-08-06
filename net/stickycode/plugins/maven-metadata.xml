@@ -12,6 +12,11 @@
       <artifactId>bounds-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>frontmatter</prefix>
+      <artifactId>frontmatter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}-1</name>
       <prefix>happy</prefix>
       <artifactId>happy-maven-plugin</artifactId>
