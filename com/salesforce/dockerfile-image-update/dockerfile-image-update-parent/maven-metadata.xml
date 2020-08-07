@@ -3,8 +3,8 @@
   <groupId>com.salesforce.dockerfile-image-update</groupId>
   <artifactId>dockerfile-image-update-parent</artifactId>
   <versioning>
-    <latest>1.0.85</latest>
-    <release>1.0.85</release>
+    <latest>1.0.89</latest>
+    <release>1.0.89</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -63,7 +63,11 @@
       <version>1.0.83</version>
       <version>1.0.84</version>
       <version>1.0.85</version>
+      <version>1.0.86</version>
+      <version>1.0.87</version>
+      <version>1.0.88</version>
+      <version>1.0.89</version>
     </versions>
-    <lastUpdated>20200803144827</lastUpdated>
+    <lastUpdated>20200806165757</lastUpdated>
   </versioning>
 </metadata>

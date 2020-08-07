@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-mongodb</artifactId>
   <versioning>
-    <latest>1.2.1.Final</latest>
-    <release>1.2.1.Final</release>
+    <latest>1.3.0.Alpha1</latest>
+    <release>1.3.0.Alpha1</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -75,7 +75,8 @@
       <version>1.2.0.CR2</version>
       <version>1.2.0.Final</version>
       <version>1.2.1.Final</version>
+      <version>1.3.0.Alpha1</version>
     </versions>
-    <lastUpdated>20200716085412</lastUpdated>
+    <lastUpdated>20200806051159</lastUpdated>
   </versioning>
 </metadata>
