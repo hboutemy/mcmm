@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-orc</artifactId>
   <versioning>
-    <latest>0.238.2</latest>
-    <release>0.238.2</release>
+    <latest>0.239</latest>
+    <release>0.239</release>
     <versions>
       <version>0.80</version>
       <version>0.81</version>
@@ -185,7 +185,8 @@
       <version>0.238</version>
       <version>0.238.1</version>
       <version>0.238.2</version>
+      <version>0.239</version>
     </versions>
-    <lastUpdated>20200730183304</lastUpdated>
+    <lastUpdated>20200807222105</lastUpdated>
   </versioning>
 </metadata>

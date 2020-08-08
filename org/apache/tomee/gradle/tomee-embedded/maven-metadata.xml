@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee.gradle</groupId>
   <artifactId>tomee-embedded</artifactId>
   <versioning>
-    <latest>8.0.3</latest>
-    <release>8.0.3</release>
+    <latest>8.0.4</latest>
+    <release>8.0.4</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -26,7 +26,8 @@
       <version>8.0.1</version>
       <version>8.0.2</version>
       <version>8.0.3</version>
+      <version>8.0.4</version>
     </versions>
-    <lastUpdated>20200622135057</lastUpdated>
+    <lastUpdated>20200807155839</lastUpdated>
   </versioning>
 </metadata>
