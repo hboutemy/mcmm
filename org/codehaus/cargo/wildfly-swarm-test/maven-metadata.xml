@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>wildfly-swarm-test</artifactId>
   <versioning>
-    <latest>1.7.15</latest>
-    <release>1.7.15</release>
+    <latest>1.7.16</latest>
+    <release>1.7.16</release>
     <versions>
       <version>1.6.5</version>
       <version>1.6.6</version>
@@ -29,7 +29,8 @@
       <version>1.7.13</version>
       <version>1.7.14</version>
       <version>1.7.15</version>
+      <version>1.7.16</version>
     </versions>
-    <lastUpdated>20200710160641</lastUpdated>
+    <lastUpdated>20200808224339</lastUpdated>
   </versioning>
 </metadata>
