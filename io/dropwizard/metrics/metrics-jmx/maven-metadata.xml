@@ -3,8 +3,8 @@
   <groupId>io.dropwizard.metrics</groupId>
   <artifactId>metrics-jmx</artifactId>
   <versioning>
-    <latest>4.1.12</latest>
-    <release>4.1.12</release>
+    <latest>4.1.12.1</latest>
+    <release>4.1.12.1</release>
     <versions>
       <version>4.0.0-alpha1</version>
       <version>4.0.0-alpha2</version>
@@ -36,7 +36,8 @@
       <version>4.1.10.1</version>
       <version>4.1.11</version>
       <version>4.1.12</version>
+      <version>4.1.12.1</version>
     </versions>
-    <lastUpdated>20200808135956</lastUpdated>
+    <lastUpdated>20200809101854</lastUpdated>
   </versioning>
 </metadata>

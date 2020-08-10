@@ -3,8 +3,8 @@
   <groupId>com.strapdata.cassandra</groupId>
   <artifactId>cassandra-all</artifactId>
   <versioning>
-    <latest>3.11.6.1</latest>
-    <release>3.11.6.1</release>
+    <latest>3.11.7.1</latest>
+    <release>3.11.7.1</release>
     <versions>
       <version>3.0.10</version>
       <version>3.0.11</version>
@@ -33,8 +33,9 @@
       <version>3.11.5.2</version>
       <version>3.11.5.3</version>
       <version>3.11.6.1</version>
+      <version>3.11.7.1</version>
       <version>3.11.1.0</version>
     </versions>
-    <lastUpdated>20200412232231</lastUpdated>
+    <lastUpdated>20200809215422</lastUpdated>
   </versioning>
 </metadata>
