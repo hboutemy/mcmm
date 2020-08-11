@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>sal-rest-docgen</artifactId>
   <versioning>
-    <latest>1.11.1</latest>
-    <release>1.11.1</release>
+    <latest>1.11.2</latest>
+    <release>1.11.2</release>
     <versions>
       <version>1.3.0-Beryllium</version>
       <version>1.3.1-Beryllium-SR1</version>
@@ -44,7 +44,8 @@
       <version>1.10.3</version>
       <version>1.11.0</version>
       <version>1.11.1</version>
+      <version>1.11.2</version>
     </versions>
-    <lastUpdated>20200529024947</lastUpdated>
+    <lastUpdated>20200810104458</lastUpdated>
   </versioning>
 </metadata>

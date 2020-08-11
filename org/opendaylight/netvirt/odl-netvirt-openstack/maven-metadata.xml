@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netvirt</groupId>
   <artifactId>odl-netvirt-openstack</artifactId>
   <versioning>
-    <latest>0.10.1</latest>
-    <release>0.10.1</release>
+    <latest>0.10.2</latest>
+    <release>0.10.2</release>
     <versions>
       <version>0.4.0-Carbon</version>
       <version>0.4.1-Carbon</version>
@@ -34,7 +34,8 @@
       <version>0.9.3</version>
       <version>0.10.0</version>
       <version>0.10.1</version>
+      <version>0.10.2</version>
     </versions>
-    <lastUpdated>20200529031255</lastUpdated>
+    <lastUpdated>20200810110608</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.openflowplugin.applications</groupId>
   <artifactId>notification-supplier</artifactId>
   <versioning>
-    <latest>0.10.1</latest>
-    <release>0.10.1</release>
+    <latest>0.10.2</latest>
+    <release>0.10.2</release>
     <versions>
       <version>0.3.0-Boron</version>
       <version>0.3.1-Boron-SR1</version>
@@ -39,7 +39,8 @@
       <version>0.9.3</version>
       <version>0.10.0</version>
       <version>0.10.1</version>
+      <version>0.10.2</version>
     </versions>
-    <lastUpdated>20200529033158</lastUpdated>
+    <lastUpdated>20200810112352</lastUpdated>
   </versioning>
 </metadata>

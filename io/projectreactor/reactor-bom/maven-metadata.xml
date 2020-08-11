@@ -3,8 +3,8 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-bom</artifactId>
   <versioning>
-    <latest>Dysprosium-SR10</latest>
-    <release>Dysprosium-SR10</release>
+    <latest>Dysprosium-SR11</latest>
+    <release>Dysprosium-SR11</release>
     <versions>
       <version>Aluminium-RELEASE</version>
       <version>Aluminium-SR1</version>
@@ -60,7 +60,8 @@
       <version>Dysprosium-SR8</version>
       <version>Dysprosium-SR9</version>
       <version>Dysprosium-SR10</version>
+      <version>Dysprosium-SR11</version>
     </versions>
-    <lastUpdated>20200720094938</lastUpdated>
+    <lastUpdated>20200810110107</lastUpdated>
   </versioning>
 </metadata>
