@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>entitlement</artifactId>
   <versioning>
-    <latest>5.18.45</latest>
-    <release>5.18.45</release>
+    <latest>5.18.49</latest>
+    <release>5.18.49</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1384,7 +1384,11 @@
       <version>5.18.43</version>
       <version>5.18.44</version>
       <version>5.18.45</version>
+      <version>5.18.46</version>
+      <version>5.18.47</version>
+      <version>5.18.48</version>
+      <version>5.18.49</version>
     </versions>
-    <lastUpdated>20200810103059</lastUpdated>
+    <lastUpdated>20200811183046</lastUpdated>
   </versioning>
 </metadata>

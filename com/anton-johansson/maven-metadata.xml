@@ -7,6 +7,11 @@
       <artifactId>build-markdown-generator-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Anton Johansson :: Conventional changelog :: Maven plugin</name>
+      <prefix>conventional-changelog</prefix>
+      <artifactId>conventional-changelog-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Version lifecycle plugin</name>
       <prefix>version-lifecycle</prefix>
       <artifactId>version-lifecycle-maven-plugin</artifactId>
