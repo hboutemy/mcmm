@@ -3,8 +3,8 @@
   <groupId>com.alibaba.blink</groupId>
   <artifactId>flink-connectors-common</artifactId>
   <versioning>
-    <latest>blink-3.6.4</latest>
-    <release>blink-3.6.4</release>
+    <latest>blink-3.7.0</latest>
+    <release>blink-3.7.0</release>
     <versions>
       <version>blink-3.2.0</version>
       <version>blink-3.2.1</version>
@@ -14,7 +14,8 @@
       <version>blink-3.3.0</version>
       <version>blink-3.4.0</version>
       <version>blink-3.6.4</version>
+      <version>blink-3.7.0</version>
     </versions>
-    <lastUpdated>20200613080358</lastUpdated>
+    <lastUpdated>20200812091453</lastUpdated>
   </versioning>
 </metadata>

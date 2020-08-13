@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-restore-raw</artifactId>
   <versioning>
-    <latest>3.26.0-04</latest>
-    <release>3.26.0-04</release>
+    <latest>3.26.1-02</latest>
+    <release>3.26.1-02</release>
     <versions>
       <version>3.15.0-01</version>
       <version>3.15.1-01</version>
@@ -48,7 +48,8 @@
       <version>3.26.0-02</version>
       <version>3.26.0-03</version>
       <version>3.26.0-04</version>
+      <version>3.26.1-02</version>
     </versions>
-    <lastUpdated>20200810154623</lastUpdated>
+    <lastUpdated>20200812215232</lastUpdated>
   </versioning>
 </metadata>

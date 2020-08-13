@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-cassandra-parent</artifactId>
   <versioning>
-    <latest>3.0.2.RELEASE</latest>
-    <release>3.0.2.RELEASE</release>
+    <latest>3.0.3.RELEASE</latest>
+    <release>3.0.3.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -109,7 +109,8 @@
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
       <version>3.0.2.RELEASE</version>
+      <version>3.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20200722084202</lastUpdated>
+    <lastUpdated>20200812113241</lastUpdated>
   </versioning>
 </metadata>
