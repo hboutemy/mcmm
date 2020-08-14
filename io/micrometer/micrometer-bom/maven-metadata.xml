@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-bom</artifactId>
   <versioning>
-    <latest>1.5.3</latest>
-    <release>1.5.3</release>
+    <latest>1.5.4</latest>
+    <release>1.5.4</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -18,6 +18,7 @@
       <version>1.3.9</version>
       <version>1.3.10</version>
       <version>1.3.11</version>
+      <version>1.3.12</version>
       <version>1.4.0</version>
       <version>1.4.1</version>
       <version>1.4.2</version>
@@ -25,7 +26,8 @@
       <version>1.5.1</version>
       <version>1.5.2</version>
       <version>1.5.3</version>
+      <version>1.5.4</version>
     </versions>
-    <lastUpdated>20200724133510</lastUpdated>
+    <lastUpdated>20200813105001</lastUpdated>
   </versioning>
 </metadata>

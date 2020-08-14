@@ -3,8 +3,8 @@
   <groupId>com.klaytn.caver</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <latest>1.5.2-rc.1-android</latest>
-    <release>1.5.2-rc.1-android</release>
+    <latest>1.5.2-android</latest>
+    <release>1.5.2-android</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.2</version>
@@ -43,7 +43,9 @@
       <version>1.5.1-android</version>
       <version>1.5.2-rc.1</version>
       <version>1.5.2-rc.1-android</version>
+      <version>1.5.2</version>
+      <version>1.5.2-android</version>
     </versions>
-    <lastUpdated>20200811083931</lastUpdated>
+    <lastUpdated>20200813063947</lastUpdated>
   </versioning>
 </metadata>
