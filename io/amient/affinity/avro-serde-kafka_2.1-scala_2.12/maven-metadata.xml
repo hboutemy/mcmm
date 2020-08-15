@@ -3,8 +3,8 @@
   <groupId>io.amient.affinity</groupId>
   <artifactId>avro-serde-kafka_2.1-scala_2.12</artifactId>
   <versioning>
-    <latest>0.14.1</latest>
-    <release>0.14.1</release>
+    <latest>0.15.0</latest>
+    <release>0.15.0</release>
     <versions>
       <version>0.11.0</version>
       <version>0.12.2</version>
@@ -17,7 +17,8 @@
       <version>0.13.6</version>
       <version>0.14.0</version>
       <version>0.14.1</version>
+      <version>0.15.0</version>
     </versions>
-    <lastUpdated>20200813173420</lastUpdated>
+    <lastUpdated>20200814075243</lastUpdated>
   </versioning>
 </metadata>

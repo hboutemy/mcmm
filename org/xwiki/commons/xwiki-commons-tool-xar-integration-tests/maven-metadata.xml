@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-tool-xar-integration-tests</artifactId>
   <versioning>
-    <latest>12.6</latest>
-    <release>12.6</release>
+    <latest>12.6.1</latest>
+    <release>12.6.1</release>
     <versions>
       <version>4.0-milestone-2</version>
       <version>4.0-rc-1</version>
@@ -286,8 +286,9 @@
       <version>12.5</version>
       <version>12.5.1</version>
       <version>12.6</version>
+      <version>12.6.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20200731133138</lastUpdated>
+    <lastUpdated>20200814162846</lastUpdated>
   </versioning>
 </metadata>
