@@ -32,7 +32,7 @@
       <artifactId>tmpl-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Versionin Maven Plugin</name>
+      <name>Snapshot Check</name>
       <prefix>versioning</prefix>
       <artifactId>versioning-maven-plugin</artifactId>
     </plugin>
