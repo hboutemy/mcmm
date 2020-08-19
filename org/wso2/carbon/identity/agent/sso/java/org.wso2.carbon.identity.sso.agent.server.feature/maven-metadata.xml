@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.agent.sso.java</groupId>
   <artifactId>org.wso2.carbon.identity.sso.agent.server.feature</artifactId>
   <versioning>
-    <latest>5.5.5</latest>
-    <release>5.5.5</release>
+    <latest>5.5.7</latest>
+    <release>5.5.7</release>
     <versions>
       <version>5.1.3</version>
       <version>5.1.4</version>
@@ -34,7 +34,9 @@
       <version>5.5.3</version>
       <version>5.5.4</version>
       <version>5.5.5</version>
+      <version>5.5.6</version>
+      <version>5.5.7</version>
     </versions>
-    <lastUpdated>20200817035740</lastUpdated>
+    <lastUpdated>20200818044356</lastUpdated>
   </versioning>
 </metadata>

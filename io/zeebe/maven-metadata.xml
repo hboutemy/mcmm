@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>flaky-test-extractor Maven Plugin</name>
+      <prefix>flaky-test-extractor</prefix>
+      <artifactId>flaky-test-extractor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Zeebe Git Hooks Maven Plugin</name>
       <prefix>zb-githooks</prefix>
       <artifactId>zb-githooks-plugin</artifactId>

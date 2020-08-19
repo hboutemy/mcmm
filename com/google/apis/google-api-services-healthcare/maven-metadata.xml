@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-healthcare</artifactId>
   <versioning>
-    <latest>v1-rev20200723-1.30.10</latest>
-    <release>v1-rev20200723-1.30.10</release>
+    <latest>v1-rev20200813-1.30.10</latest>
+    <release>v1-rev20200813-1.30.10</release>
     <versions>
       <version>v1alpha2-rev11-1.18.0-rc</version>
       <version>v1alpha2-rev11-1.22.0</version>
@@ -219,6 +219,7 @@
       <version>v1beta1-rev20200612-1.30.10</version>
       <version>v1beta1-rev20200713-1.30.10</version>
       <version>v1beta1-rev20200723-1.30.10</version>
+      <version>v1beta1-rev20200813-1.30.10</version>
       <version>v1-rev20200327-1.30.9</version>
       <version>v1-rev20200414-1.30.9</version>
       <version>v1-rev20200501-1.30.9</version>
@@ -229,7 +230,8 @@
       <version>v1-rev20200612-1.30.10</version>
       <version>v1-rev20200713-1.30.10</version>
       <version>v1-rev20200723-1.30.10</version>
+      <version>v1-rev20200813-1.30.10</version>
     </versions>
-    <lastUpdated>20200801200558</lastUpdated>
+    <lastUpdated>20200818202739</lastUpdated>
   </versioning>
 </metadata>
