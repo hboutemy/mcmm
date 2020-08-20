@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.governance</groupId>
   <artifactId>org.wso2.carbon.identity.recovery.server.feature</artifactId>
   <versioning>
-    <latest>1.4.29</latest>
-    <release>1.4.29</release>
+    <latest>1.4.31</latest>
+    <release>1.4.31</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -206,7 +206,9 @@
       <version>1.4.27</version>
       <version>1.4.28</version>
       <version>1.4.29</version>
+      <version>1.4.30</version>
+      <version>1.4.31</version>
     </versions>
-    <lastUpdated>20200817082100</lastUpdated>
+    <lastUpdated>20200819082454</lastUpdated>
   </versioning>
 </metadata>
