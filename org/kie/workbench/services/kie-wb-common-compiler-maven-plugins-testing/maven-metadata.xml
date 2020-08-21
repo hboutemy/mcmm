@@ -3,8 +3,8 @@
   <groupId>org.kie.workbench.services</groupId>
   <artifactId>kie-wb-common-compiler-maven-plugins-testing</artifactId>
   <versioning>
-    <latest>7.41.0.t20200723</latest>
-    <release>7.41.0.t20200723</release>
+    <latest>7.42.0.Final</latest>
+    <release>7.42.0.Final</release>
     <versions>
       <version>7.10.0.Final</version>
       <version>7.11.0.Final</version>
@@ -41,7 +41,8 @@
       <version>7.40.0.20200703</version>
       <version>7.41.0.Final</version>
       <version>7.41.0.t20200723</version>
+      <version>7.42.0.Final</version>
     </versions>
-    <lastUpdated>20200731083555</lastUpdated>
+    <lastUpdated>20200820073359</lastUpdated>
   </versioning>
 </metadata>

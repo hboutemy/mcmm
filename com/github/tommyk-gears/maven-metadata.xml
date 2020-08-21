@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven BOM Plugin</name>
+      <prefix>bom</prefix>
+      <artifactId>bom-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
