@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-adapter-core</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>11.0.1</latest>
+    <release>11.0.1</release>
     <versions>
       <version>1.0-alpha-1</version>
       <version>1.0-alpha-2</version>
@@ -117,8 +117,9 @@
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>11.0.0</version>
+      <version>11.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20200722102048</lastUpdated>
+    <lastUpdated>20200821083203</lastUpdated>
   </versioning>
 </metadata>

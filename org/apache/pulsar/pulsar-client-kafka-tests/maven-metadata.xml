@@ -3,8 +3,8 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-client-kafka-tests</artifactId>
   <versioning>
-    <latest>2.6.0</latest>
-    <release>2.6.0</release>
+    <latest>2.6.1</latest>
+    <release>2.6.1</release>
     <versions>
       <version>1.20.0-incubating</version>
       <version>1.21.0-incubating</version>
@@ -26,7 +26,8 @@
       <version>2.5.1</version>
       <version>2.5.2</version>
       <version>2.6.0</version>
+      <version>2.6.1</version>
     </versions>
-    <lastUpdated>20200617065053</lastUpdated>
+    <lastUpdated>20200821040755</lastUpdated>
   </versioning>
 </metadata>

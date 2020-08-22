@@ -27,7 +27,7 @@
       <artifactId>decorator-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>facelogservice-maven-plugin</name>
+      <name>maven plugin for run facelog service</name>
       <prefix>facelogservice</prefix>
       <artifactId>facelogservice-maven-plugin</artifactId>
     </plugin>

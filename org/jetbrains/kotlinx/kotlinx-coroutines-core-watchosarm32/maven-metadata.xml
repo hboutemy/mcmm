@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-core-watchosarm32</artifactId>
   <versioning>
-    <latest>1.3.9</latest>
-    <release>1.3.9</release>
+    <latest>1.3.9-native-mt</latest>
+    <release>1.3.9-native-mt</release>
     <versions>
       <version>1.3.2-1.3.60</version>
       <version>1.3.3</version>
@@ -20,7 +20,8 @@
       <version>1.3.8-native-mt-1.4.0-rc</version>
       <version>1.3.8-1.4.0-rc</version>
       <version>1.3.9</version>
+      <version>1.3.9-native-mt</version>
     </versions>
-    <lastUpdated>20200819084041</lastUpdated>
+    <lastUpdated>20200821205803</lastUpdated>
   </versioning>
 </metadata>
