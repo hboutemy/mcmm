@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.certificate</groupId>
   <artifactId>gravitee-am-certificate-pkcs12</artifactId>
   <versioning>
-    <latest>3.1.1</latest>
-    <release>3.1.1</release>
+    <latest>3.1.2</latest>
+    <release>3.1.2</release>
     <versions>
       <version>2.3.0</version>
       <version>2.4.0</version>
@@ -47,9 +47,11 @@
       <version>3.0.2</version>
       <version>3.0.3</version>
       <version>3.0.4</version>
+      <version>3.0.5</version>
       <version>3.1.0</version>
       <version>3.1.1</version>
+      <version>3.1.2</version>
     </versions>
-    <lastUpdated>20200818115002</lastUpdated>
+    <lastUpdated>20200824141422</lastUpdated>
   </versioning>
 </metadata>

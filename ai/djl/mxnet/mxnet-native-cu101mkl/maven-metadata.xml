@@ -3,15 +3,16 @@
   <groupId>ai.djl.mxnet</groupId>
   <artifactId>mxnet-native-cu101mkl</artifactId>
   <versioning>
-    <latest>1.7.0-b</latest>
-    <release>1.7.0-b</release>
+    <latest>1.7.0-backport</latest>
+    <release>1.7.0-backport</release>
     <versions>
       <version>1.6.0</version>
       <version>1.6.0-a</version>
       <version>1.6.0-b</version>
       <version>1.7.0-a</version>
       <version>1.7.0-b</version>
+      <version>1.7.0-backport</version>
     </versions>
-    <lastUpdated>20200710045033</lastUpdated>
+    <lastUpdated>20200824185428</lastUpdated>
   </versioning>
 </metadata>
