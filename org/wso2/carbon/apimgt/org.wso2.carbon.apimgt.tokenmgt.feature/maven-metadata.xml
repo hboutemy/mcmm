@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.tokenmgt.feature</artifactId>
   <versioning>
-    <latest>6.8.8</latest>
-    <release>6.8.8</release>
+    <latest>6.8.10</latest>
+    <release>6.8.10</release>
     <versions>
       <version>6.7.7</version>
       <version>6.7.8</version>
@@ -216,7 +216,9 @@
       <version>6.8.6</version>
       <version>6.8.7</version>
       <version>6.8.8</version>
+      <version>6.8.9</version>
+      <version>6.8.10</version>
     </versions>
-    <lastUpdated>20200824171837</lastUpdated>
+    <lastUpdated>20200825122852</lastUpdated>
   </versioning>
 </metadata>

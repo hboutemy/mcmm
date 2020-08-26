@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-testing-docker</artifactId>
   <versioning>
-    <latest>0.239.1</latest>
-    <release>0.239.1</release>
+    <latest>0.239.2</latest>
+    <release>0.239.2</release>
     <versions>
       <version>0.225</version>
       <version>0.226</version>
@@ -33,7 +33,8 @@
       <version>0.238.2</version>
       <version>0.239</version>
       <version>0.239.1</version>
+      <version>0.239.2</version>
     </versions>
-    <lastUpdated>20200818220740</lastUpdated>
+    <lastUpdated>20200825215600</lastUpdated>
   </versioning>
 </metadata>
