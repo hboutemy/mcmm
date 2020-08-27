@@ -11,5 +11,10 @@
       <prefix>smallrye</prefix>
       <artifactId>smallrye-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>SmallRye: OpenAPI Tools :: Maven</name>
+      <prefix>smallrye-open-api</prefix>
+      <artifactId>smallrye-open-api-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

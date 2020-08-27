@@ -3,8 +3,8 @@
   <groupId>com.twitter</groupId>
   <artifactId>finagle-exp_2.11</artifactId>
   <versioning>
-    <latest>20.8.0</latest>
-    <release>20.8.0</release>
+    <latest>20.8.1</latest>
+    <release>20.8.1</release>
     <versions>
       <version>6.24.0</version>
       <version>6.24.1-MONOCACHE</version>
@@ -67,7 +67,8 @@
       <version>20.6.0</version>
       <version>20.7.0</version>
       <version>20.8.0</version>
+      <version>20.8.1</version>
     </versions>
-    <lastUpdated>20200811202842</lastUpdated>
+    <lastUpdated>20200826174156</lastUpdated>
   </versioning>
 </metadata>
