@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway</groupId>
   <artifactId>gravitee-gateway-reporting</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.3</latest>
+    <release>3.1.3</release>
     <versions>
       <version>0.10.0</version>
       <version>0.11.0</version>
@@ -194,6 +194,7 @@
       <version>1.30.17</version>
       <version>1.30.18</version>
       <version>1.30.19</version>
+      <version>1.30.20</version>
       <version>3.0.0-alpha</version>
       <version>3.0.0-beta</version>
       <version>3.0.0</version>
@@ -207,7 +208,8 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
     </versions>
-    <lastUpdated>20200819125442</lastUpdated>
+    <lastUpdated>20200828131125</lastUpdated>
   </versioning>
 </metadata>

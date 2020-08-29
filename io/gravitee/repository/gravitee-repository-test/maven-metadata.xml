@@ -3,8 +3,8 @@
   <groupId>io.gravitee.repository</groupId>
   <artifactId>gravitee-repository-test</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.3</latest>
+    <release>3.1.3</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -65,6 +65,7 @@
       <version>1.30.4</version>
       <version>1.30.5</version>
       <version>1.30.6</version>
+      <version>1.30.7</version>
       <version>3.0.0</version>
       <version>3.0.2</version>
       <version>3.0.3</version>
@@ -73,7 +74,8 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
     </versions>
-    <lastUpdated>20200819121720</lastUpdated>
+    <lastUpdated>20200828123343</lastUpdated>
   </versioning>
 </metadata>

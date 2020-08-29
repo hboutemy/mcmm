@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JMH Maven Plugin</name>
+      <prefix>jmh</prefix>
+      <artifactId>jmh-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Multi Release JAR Maven Plugin</name>
       <prefix>multi-release-jar</prefix>
       <artifactId>multi-release-jar-maven-plugin</artifactId>
