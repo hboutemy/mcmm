@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>integrationtests-security-manager</artifactId>
   <versioning>
-    <latest>12.0.0.Dev02</latest>
-    <release>12.0.0.Dev02</release>
+    <latest>12.0.0.Dev03</latest>
+    <release>12.0.0.Dev03</release>
     <versions>
       <version>7.0.0.Alpha3</version>
       <version>7.0.0.Alpha4</version>
@@ -185,6 +185,6 @@
       <version>12.0.0.Dev01</version>
       <version>12.0.0.Dev02</version>
     </versions>
-    <lastUpdated>20200817112434</lastUpdated>
+    <lastUpdated>20200913073646</lastUpdated>
   </versioning>
 </metadata>

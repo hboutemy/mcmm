@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-redis-lock</artifactId>
   <versioning>
-    <latest>2.28.4-alpha</latest>
-    <release>2.28.4-alpha</release>
+    <latest>2.29.0</latest>
+    <release>2.29.0</release>
     <versions>
       <version>2.16.6-alpha</version>
       <version>2.16.6-alpha.1</version>
@@ -71,6 +71,6 @@
       <version>2.28.3</version>
       <version>2.28.4-alpha</version>
     </versions>
-    <lastUpdated>20200817115128</lastUpdated>
+    <lastUpdated>20200911083601</lastUpdated>
   </versioning>
 </metadata>

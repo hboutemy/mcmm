@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>h2spec-maven-plugin Maven Mojo</name>
+      <prefix>h2spec</prefix>
+      <artifactId>h2spec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Jetty :: Jetty JSPC Maven Plugin</name>
       <prefix>jetty-jspc</prefix>
       <artifactId>jetty-jspc-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-httpasyncclient</artifactId>
   <versioning>
-    <latest>5.12.5</latest>
-    <release>5.12.5</release>
+    <latest>5.12.6</latest>
+    <release>5.12.6</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -107,6 +107,6 @@
       <version>5.12.4</version>
       <version>5.12.5</version>
     </versions>
-    <lastUpdated>20200821130045</lastUpdated>
+    <lastUpdated>20200912013214</lastUpdated>
   </versioning>
 </metadata>

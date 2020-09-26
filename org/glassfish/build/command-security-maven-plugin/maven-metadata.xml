@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.glassfish.build</groupId>
   <artifactId>command-security-maven-plugin</artifactId>
   <versioning>
-    <latest>1.0.10</latest>
-    <release>1.0.10</release>
+    <latest>1.0.11</latest>
+    <release>1.0.11</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1</version>
+      <version>1.0.10</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -16,8 +17,7 @@
       <version>1.0.7</version>
       <version>1.0.8</version>
       <version>1.0.9</version>
-      <version>1.0.10</version>
     </versions>
-    <lastUpdated>20190125202831</lastUpdated>
+    <lastUpdated>20200914192607</lastUpdated>
   </versioning>
 </metadata>

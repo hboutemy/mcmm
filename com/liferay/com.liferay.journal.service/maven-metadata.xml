@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.journal.service</artifactId>
   <versioning>
-    <latest>6.0.5</latest>
-    <release>4.0.105</release>
+    <latest>6.0.25</latest>
+    <release>6.0.36</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -177,6 +177,22 @@
       <version>3.32.4</version>
       <version>3.33.0</version>
       <version>3.33.1</version>
+      <version>3.33.2</version>
+      <version>3.33.3</version>
+      <version>3.33.4</version>
+      <version>3.33.5</version>
+      <version>3.34.0</version>
+      <version>3.34.1</version>
+      <version>3.34.2</version>
+      <version>3.34.3</version>
+      <version>3.34.4</version>
+      <version>3.34.5</version>
+      <version>3.34.6</version>
+      <version>3.34.7</version>
+      <version>3.34.8</version>
+      <version>3.34.9</version>
+      <version>3.34.10</version>
+      <version>3.34.11</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -271,6 +287,18 @@
       <version>4.0.91</version>
       <version>4.0.92</version>
       <version>4.0.93</version>
+      <version>4.0.94</version>
+      <version>4.0.95</version>
+      <version>4.0.96</version>
+      <version>4.0.97</version>
+      <version>4.0.98</version>
+      <version>4.0.99</version>
+      <version>4.0.100</version>
+      <version>4.0.101</version>
+      <version>4.0.102</version>
+      <version>4.0.103</version>
+      <version>4.0.104</version>
+      <version>4.0.105</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -327,21 +355,28 @@
       <version>5.0.53</version>
       <version>5.0.54</version>
       <version>5.0.55</version>
+      <version>5.0.56</version>
+      <version>5.0.57</version>
+      <version>5.0.58</version>
+      <version>5.0.59</version>
+      <version>5.0.60</version>
+      <version>5.0.61</version>
+      <version>5.0.62</version>
+      <version>5.0.63</version>
+      <version>5.0.64</version>
+      <version>5.0.65</version>
+      <version>5.0.66</version>
+      <version>5.0.67</version>
+      <version>5.0.68</version>
+      <version>5.0.69</version>
+      <version>5.0.70</version>
+      <version>5.0.71</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
       <version>6.0.5</version>
-      <version>3.33.2</version>
-      <version>5.0.56</version>
-      <version>4.0.94</version>
-      <version>5.0.57</version>
-      <version>4.0.95</version>
-      <version>3.33.3</version>
-      <version>5.0.58</version>
-      <version>3.33.4</version>
       <version>6.0.6</version>
-      <version>3.33.5</version>
       <version>6.0.7</version>
       <version>6.0.8</version>
       <version>6.0.9</version>
@@ -351,52 +386,17 @@
       <version>6.0.13</version>
       <version>6.0.14</version>
       <version>6.0.15</version>
-      <version>3.34.0</version>
-      <version>4.0.96</version>
-      <version>5.0.59</version>
       <version>6.0.16</version>
-      <version>5.0.60</version>
-      <version>3.34.1</version>
-      <version>5.0.61</version>
-      <version>4.0.97</version>
-      <version>5.0.62</version>
-      <version>4.0.98</version>
-      <version>4.0.99</version>
-      <version>5.0.63</version>
-      <version>5.0.64</version>
-      <version>4.0.100</version>
-      <version>5.0.66</version>
+      <version>6.0.17</version>
       <version>6.0.18</version>
-      <version>5.0.67</version>
       <version>6.0.19</version>
-      <version>3.34.4</version>
       <version>6.0.20</version>
       <version>6.0.21</version>
-      <version>5.0.68</version>
-      <version>3.34.5</version>
-      <version>5.0.69</version>
-      <version>5.0.70</version>
-      <version>3.34.6</version>
-      <version>4.0.102</version>
-      <version>4.0.103</version>
-      <version>3.34.8</version>
-      <version>5.0.71</version>
       <version>6.0.22</version>
       <version>6.0.23</version>
       <version>6.0.24</version>
       <version>6.0.25</version>
-      <version>3.34.9</version>
-      <version>4.0.104</version>
-      <version>3.34.10</version>
-      <version>4.0.105</version>
-      <version>3.34.11</version>
-      <version>3.34.2</version>
-      <version>3.34.3</version>
-      <version>3.34.7</version>
-      <version>4.0.101</version>
-      <version>5.0.65</version>
-      <version>6.0.17</version>
     </versions>
-    <lastUpdated>20200715191322</lastUpdated>
+    <lastUpdated>20200914202023</lastUpdated>
   </versioning>
 </metadata>

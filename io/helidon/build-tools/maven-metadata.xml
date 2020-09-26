@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Helidon CLI Maven Plugin</name>
+      <prefix>helidon-cli</prefix>
+      <artifactId>helidon-cli-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Helidon Maven Plugin</name>
       <prefix>helidon</prefix>
       <artifactId>helidon-maven-plugin</artifactId>

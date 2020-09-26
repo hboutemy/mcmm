@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-engine-spring-compatibility-test-spring4</artifactId>
   <versioning>
-    <latest>7.14.0-alpha2</latest>
-    <release>7.14.0-alpha2</release>
+    <latest>7.14.0-alpha3</latest>
+    <release>7.14.0-alpha3</release>
     <versions>
       <version>7.11.0-alpha4</version>
       <version>7.11.0-alpha5</version>
@@ -25,6 +25,6 @@
       <version>7.14.0-alpha1</version>
       <version>7.14.0-alpha2</version>
     </versions>
-    <lastUpdated>20200810112123</lastUpdated>
+    <lastUpdated>20200907115459</lastUpdated>
   </versioning>
 </metadata>

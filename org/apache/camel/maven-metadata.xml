@@ -32,6 +32,11 @@
       <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: Maven Plugins :: Enhanced Formatter Plugin</name>
+      <prefix>camel-format</prefix>
+      <artifactId>camel-format-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Maven Plugins :: Enhanced javadoc plugin</name>
       <prefix>camel-javadoc</prefix>
       <artifactId>camel-javadoc-plugin</artifactId>
