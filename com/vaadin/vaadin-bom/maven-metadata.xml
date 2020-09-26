@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-bom</artifactId>
   <versioning>
-    <latest>17.0.2</latest>
-    <release>17.0.2</release>
+    <latest>17.0.0</latest>
+    <release>17.0.0</release>
     <versions>
       <version>7.4.0</version>
       <version>7.4.1</version>
@@ -219,10 +219,11 @@
       <version>16.0.1</version>
       <version>16.0.2</version>
       <version>16.0.3</version>
+      <version>17.0.0</version>
       <version>7.4.8</version>
       <version>7.5.0.rc1</version>
       <version>7.5.0.rc2</version>
     </versions>
-    <lastUpdated>20200914080512</lastUpdated>
+    <lastUpdated>20200901064628</lastUpdated>
   </versioning>
 </metadata>
