@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-filter-api</artifactId>
   <versioning>
-    <latest>12.7</latest>
-    <release>12.7</release>
+    <latest>12.7.1</latest>
+    <release>12.7.1</release>
     <versions>
       <version>5.2-milestone-1</version>
       <version>5.2-milestone-2</version>
@@ -252,9 +252,10 @@
       <version>12.6.1</version>
       <version>12.7-rc-1</version>
       <version>12.7</version>
+      <version>12.7.1</version>
       <version>7.1</version>
       <version>7.1.1</version>
     </versions>
-    <lastUpdated>20200831100759</lastUpdated>
+    <lastUpdated>20200904075912</lastUpdated>
   </versioning>
 </metadata>

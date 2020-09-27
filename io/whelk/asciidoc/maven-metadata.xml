@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Asciidoc Template Plugin</name>
+      <prefix>asciidoc-template</prefix>
+      <artifactId>asciidoc-template-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

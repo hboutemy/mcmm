@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Artifact reference checker and unifier</name>
+      <prefix>artifact-reference-checker</prefix>
+      <artifactId>artifact-reference-checker-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
