@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Protoc Code Generation Plugin</name>
+      <prefix>protoc-codegen</prefix>
+      <artifactId>protoc-codegen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
