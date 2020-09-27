@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OpenDJ Doc Helper Maven Plugin</name>
+      <prefix>opendj-doc</prefix>
+      <artifactId>opendj-doc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenDJ Maven Plugin</name>
+      <prefix>opendj</prefix>
+      <artifactId>opendj-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

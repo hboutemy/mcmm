@@ -10,4 +10,11 @@
     </versions>
     <lastUpdated>20200910205026</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>Convention Commit Changelog Generator for Maven</name>
+      <prefix>cocochagen</prefix>
+      <artifactId>cocochagen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>

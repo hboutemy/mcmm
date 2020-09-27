@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}.${project.artifactId}</name>
+      <prefix>doc</prefix>
+      <artifactId>doc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}.${project.artifactId}</name>
+      <prefix>external-dependency</prefix>
+      <artifactId>maven-external-dependency-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}.${project.artifactId}</name>
+      <prefix>xcite</prefix>
+      <artifactId>xcite-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
