@@ -17,6 +17,11 @@
       <artifactId>quarkus-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Quarkus - Platform BOM Tools - Maven plugin</name>
+      <prefix>quarkus-platform-bom</prefix>
+      <artifactId>quarkus-platform-bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Quarkus - Dev tools - Platform Descriptor - JSON Maven Plugin</name>
       <prefix>quarkus-platform-descriptor-json</prefix>
       <artifactId>quarkus-platform-descriptor-json-plugin</artifactId>

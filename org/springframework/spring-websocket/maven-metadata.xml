@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-websocket</artifactId>
   <versioning>
-    <latest>5.2.8.RELEASE</latest>
-    <release>5.2.8.RELEASE</release>
+    <latest>5.2.9.RELEASE</latest>
+    <release>5.2.9.RELEASE</release>
     <versions>
       <version>4.0.0.RELEASE</version>
       <version>4.0.1.RELEASE</version>
@@ -65,6 +65,7 @@
       <version>4.3.26.RELEASE</version>
       <version>4.3.27.RELEASE</version>
       <version>4.3.28.RELEASE</version>
+      <version>4.3.29.RELEASE</version>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
@@ -84,6 +85,7 @@
       <version>5.0.16.RELEASE</version>
       <version>5.0.17.RELEASE</version>
       <version>5.0.18.RELEASE</version>
+      <version>5.0.19.RELEASE</version>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
       <version>5.1.2.RELEASE</version>
@@ -102,6 +104,7 @@
       <version>5.1.15.RELEASE</version>
       <version>5.1.16.RELEASE</version>
       <version>5.1.17.RELEASE</version>
+      <version>5.1.18.RELEASE</version>
       <version>5.2.0.RELEASE</version>
       <version>5.2.1.RELEASE</version>
       <version>5.2.2.RELEASE</version>
@@ -111,7 +114,8 @@
       <version>5.2.6.RELEASE</version>
       <version>5.2.7.RELEASE</version>
       <version>5.2.8.RELEASE</version>
+      <version>5.2.9.RELEASE</version>
     </versions>
-    <lastUpdated>20200721090215</lastUpdated>
+    <lastUpdated>20200915114235</lastUpdated>
   </versioning>
 </metadata>

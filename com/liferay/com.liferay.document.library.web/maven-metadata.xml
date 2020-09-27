@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.web</artifactId>
   <versioning>
-    <latest>5.0.35</latest>
+    <latest>5.0.46</latest>
     <release>5.0.46</release>
     <versions>
       <version>1.0.0</version>
@@ -169,6 +169,11 @@
       <version>2.0.84</version>
       <version>2.0.85</version>
       <version>2.0.86</version>
+      <version>2.0.87</version>
+      <version>2.0.88</version>
+      <version>2.0.89</version>
+      <version>2.0.90</version>
+      <version>2.0.91</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -259,6 +264,13 @@
       <version>3.0.87</version>
       <version>3.0.88</version>
       <version>3.0.89</version>
+      <version>3.0.90</version>
+      <version>3.0.91</version>
+      <version>3.0.92</version>
+      <version>3.0.93</version>
+      <version>3.0.94</version>
+      <version>3.0.95</version>
+      <version>3.0.96</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -340,6 +352,14 @@
       <version>4.0.78</version>
       <version>4.0.79</version>
       <version>4.0.80</version>
+      <version>4.0.81</version>
+      <version>4.0.82</version>
+      <version>4.0.83</version>
+      <version>4.0.84</version>
+      <version>4.0.85</version>
+      <version>4.0.86</version>
+      <version>4.0.87</version>
+      <version>4.0.88</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -376,38 +396,18 @@
       <version>5.0.33</version>
       <version>5.0.34</version>
       <version>5.0.35</version>
-      <version>4.0.81</version>
       <version>5.0.36</version>
       <version>5.0.37</version>
       <version>5.0.38</version>
-      <version>4.0.82</version>
-      <version>2.0.87</version>
-      <version>3.0.90</version>
-      <version>3.0.91</version>
-      <version>4.0.83</version>
-      <version>3.0.92</version>
-      <version>4.0.84</version>
-      <version>2.0.88</version>
-      <version>3.0.93</version>
-      <version>4.0.85</version>
-      <version>4.0.86</version>
-      <version>2.0.89</version>
-      <version>3.0.94</version>
       <version>5.0.39</version>
-      <version>2.0.90</version>
-      <version>3.0.95</version>
       <version>5.0.40</version>
       <version>5.0.41</version>
       <version>5.0.42</version>
-      <version>2.0.91</version>
-      <version>3.0.96</version>
-      <version>4.0.87</version>
       <version>5.0.43</version>
       <version>5.0.44</version>
-      <version>4.0.88</version>
       <version>5.0.45</version>
       <version>5.0.46</version>
     </versions>
-    <lastUpdated>20200914203723</lastUpdated>
+    <lastUpdated>20200915224452</lastUpdated>
   </versioning>
 </metadata>

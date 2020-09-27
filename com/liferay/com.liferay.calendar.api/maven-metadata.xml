@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.calendar.api</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.3.0</release>
+    <latest>5.4.3</latest>
+    <release>5.4.3</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -45,6 +45,9 @@
       <version>2.3.23</version>
       <version>2.3.24</version>
       <version>2.3.25</version>
+      <version>2.3.26</version>
+      <version>2.3.27</version>
+      <version>2.3.28</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -67,6 +70,10 @@
       <version>3.0.19</version>
       <version>3.0.20</version>
       <version>3.0.21</version>
+      <version>3.0.22</version>
+      <version>3.0.23</version>
+      <version>3.0.24</version>
+      <version>3.0.25</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -82,32 +89,25 @@
       <version>4.1.4</version>
       <version>4.1.5</version>
       <version>4.1.6</version>
+      <version>4.1.7</version>
+      <version>4.1.8</version>
+      <version>4.1.9</version>
+      <version>4.1.10</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
       <version>5.1.2</version>
       <version>5.1.3</version>
-      <version>4.1.7</version>
-      <version>4.1.8</version>
-      <version>3.0.22</version>
       <version>5.2.0</version>
       <version>5.2.1</version>
-      <version>3.0.23</version>
-      <version>2.3.26</version>
       <version>5.2.2</version>
       <version>5.3.0</version>
-      <version>2.3.27</version>
-      <version>2.3.28</version>
-      <version>3.0.24</version>
-      <version>3.0.25</version>
-      <version>4.1.10</version>
-      <version>4.1.9</version>
       <version>5.4.0</version>
       <version>5.4.1</version>
       <version>5.4.2</version>
       <version>5.4.3</version>
     </versions>
-    <lastUpdated>20200629212917</lastUpdated>
+    <lastUpdated>20200915170640</lastUpdated>
   </versioning>
 </metadata>
