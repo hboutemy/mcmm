@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudbuild</artifactId>
   <versioning>
-    <latest>v1-rev20200831-1.30.10</latest>
-    <release>v1-rev20200831-1.30.10</release>
+    <latest>v1-rev20200905-1.30.10</latest>
+    <release>v1-rev20200905-1.30.10</release>
     <versions>
       <version>v1alpha1-rev5-1.18.0-rc</version>
       <version>v1alpha1-rev22-1.18.0-rc</version>
@@ -1941,7 +1941,8 @@
       <version>v1-rev20200801-1.30.10</version>
       <version>v1-rev20200817-1.30.10</version>
       <version>v1-rev20200831-1.30.10</version>
+      <version>v1-rev20200905-1.30.10</version>
     </versions>
-    <lastUpdated>20200902201300</lastUpdated>
+    <lastUpdated>20200909201613</lastUpdated>
   </versioning>
 </metadata>

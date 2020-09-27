@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-orm-rest-data-panache-deployment</artifactId>
   <versioning>
-    <latest>1.8.0.CR1</latest>
-    <release>1.8.0.CR1</release>
+    <latest>1.8.0.Final</latest>
+    <release>1.8.0.Final</release>
     <versions>
       <version>1.5.0.CR1</version>
       <version>1.5.0.Final</version>
@@ -18,8 +18,10 @@
       <version>1.7.0.Final</version>
       <version>1.7.1.Final</version>
       <version>1.7.2.Final</version>
+      <version>1.7.3.Final</version>
       <version>1.8.0.CR1</version>
+      <version>1.8.0.Final</version>
     </versions>
-    <lastUpdated>20200903122919</lastUpdated>
+    <lastUpdated>20200909111955</lastUpdated>
   </versioning>
 </metadata>
