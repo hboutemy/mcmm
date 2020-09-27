@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-opentelemetry-otlp-http-exporter_2.13</artifactId>
   <versioning>
-    <latest>0.3.0+73-ed591f18</latest>
-    <release>0.3.0+73-ed591f18</release>
+    <latest>0.4.0</latest>
+    <release>0.4.0</release>
     <versions>
       <version>0.1.0+43-e6dc014f</version>
       <version>0.1.0+45-447c4e91</version>
@@ -46,7 +46,10 @@
       <version>0.3.0+63-fb0b2dfb</version>
       <version>0.3.0+71-4ec5fa86</version>
       <version>0.3.0+73-ed591f18</version>
+      <version>0.3.0+75-c9154492</version>
+      <version>0.3.0+77-05ded381</version>
+      <version>0.4.0</version>
     </versions>
-    <lastUpdated>20200912182006</lastUpdated>
+    <lastUpdated>20200913114724</lastUpdated>
   </versioning>
 </metadata>
