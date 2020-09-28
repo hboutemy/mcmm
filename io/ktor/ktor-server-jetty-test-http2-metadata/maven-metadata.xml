@@ -3,8 +3,8 @@
   <groupId>io.ktor</groupId>
   <artifactId>ktor-server-jetty-test-http2-metadata</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.4.1</latest>
+    <release>1.4.1</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -26,7 +26,8 @@
       <version>1.3.1</version>
       <version>1.3.2-1.4.0-rc</version>
       <version>1.4.0</version>
+      <version>1.4.1</version>
     </versions>
-    <lastUpdated>20200818180830</lastUpdated>
+    <lastUpdated>20200924180930</lastUpdated>
   </versioning>
 </metadata>
