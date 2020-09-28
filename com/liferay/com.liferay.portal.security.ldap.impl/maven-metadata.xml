@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.ldap.impl</artifactId>
   <versioning>
     <latest>3.0.14</latest>
-    <release>1.0.46</release>
+    <release>3.0.14</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -52,6 +52,7 @@
       <version>1.0.43</version>
       <version>1.0.44</version>
       <version>1.0.45</version>
+      <version>1.0.46</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -97,8 +98,7 @@
       <version>3.0.12</version>
       <version>3.0.13</version>
       <version>3.0.14</version>
-      <version>1.0.46</version>
     </versions>
-    <lastUpdated>20200916203149</lastUpdated>
+    <lastUpdated>20200922212322</lastUpdated>
   </versioning>
 </metadata>

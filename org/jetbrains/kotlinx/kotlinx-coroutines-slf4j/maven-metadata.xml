@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-slf4j</artifactId>
   <versioning>
-    <latest>1.3.9-native-mt</latest>
-    <release>1.3.9-native-mt</release>
+    <latest>1.3.9-native-mt-2</latest>
+    <release>1.3.9-native-mt-2</release>
     <versions>
       <version>0.25.0</version>
       <version>0.25.0-eap13</version>
@@ -55,7 +55,8 @@
       <version>1.3.8-1.4.0-rc</version>
       <version>1.3.9</version>
       <version>1.3.9-native-mt</version>
+      <version>1.3.9-native-mt-2</version>
     </versions>
-    <lastUpdated>20200821205823</lastUpdated>
+    <lastUpdated>20200922101929</lastUpdated>
   </versioning>
 </metadata>
