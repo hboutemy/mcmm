@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-mongodb</artifactId>
   <versioning>
-    <latest>3.0.3.RELEASE</latest>
-    <release>3.0.3.RELEASE</release>
+    <latest>3.0.4.RELEASE</latest>
+    <release>3.0.4.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -119,6 +119,7 @@
       <version>2.1.17.RELEASE</version>
       <version>2.1.18.RELEASE</version>
       <version>2.1.19.RELEASE</version>
+      <version>2.1.20.RELEASE</version>
       <version>2.2.0.RELEASE</version>
       <version>2.2.1.RELEASE</version>
       <version>2.2.2.RELEASE</version>
@@ -129,11 +130,13 @@
       <version>2.2.7.RELEASE</version>
       <version>2.2.8.RELEASE</version>
       <version>2.2.9.RELEASE</version>
+      <version>2.2.10.RELEASE</version>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
       <version>3.0.2.RELEASE</version>
       <version>3.0.3.RELEASE</version>
+      <version>3.0.4.RELEASE</version>
     </versions>
-    <lastUpdated>20200812113439</lastUpdated>
+    <lastUpdated>20200916103009</lastUpdated>
   </versioning>
 </metadata>
