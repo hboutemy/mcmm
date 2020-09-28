@@ -3,8 +3,8 @@
   <groupId>de.mklinger.tomcat</groupId>
   <artifactId>tomcat-juli-slf4j</artifactId>
   <versioning>
-    <latest>9.0.36</latest>
-    <release>9.0.36</release>
+    <latest>9.0.38</latest>
+    <release>9.0.38</release>
     <versions>
       <version>7.0.69</version>
       <version>7.0.70</version>
@@ -32,6 +32,7 @@
       <version>7.0.103</version>
       <version>7.0.104</version>
       <version>7.0.105</version>
+      <version>7.0.106</version>
       <version>8.0.41</version>
       <version>8.0.42</version>
       <version>8.0.43</version>
@@ -84,6 +85,7 @@
       <version>8.5.55</version>
       <version>8.5.56</version>
       <version>8.5.57</version>
+      <version>8.5.58</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
       <version>9.0.4</version>
@@ -112,7 +114,8 @@
       <version>9.0.34</version>
       <version>9.0.35</version>
       <version>9.0.36</version>
+      <version>9.0.38</version>
     </versions>
-    <lastUpdated>20200708143917</lastUpdated>
+    <lastUpdated>20200921104610</lastUpdated>
   </versioning>
 </metadata>
