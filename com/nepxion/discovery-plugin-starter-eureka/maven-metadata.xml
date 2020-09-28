@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-starter-eureka</artifactId>
   <versioning>
-    <latest>6.0.7</latest>
-    <release>6.0.7</release>
+    <latest>6.1.0</latest>
+    <release>6.1.0</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -176,6 +176,7 @@
       <version>3.16.6</version>
       <version>3.16.7</version>
       <version>3.17.0</version>
+      <version>3.18.0</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -366,7 +367,8 @@
       <version>6.0.5</version>
       <version>6.0.6</version>
       <version>6.0.7</version>
+      <version>6.1.0</version>
     </versions>
-    <lastUpdated>20200915052642</lastUpdated>
+    <lastUpdated>20200918130815</lastUpdated>
   </versioning>
 </metadata>

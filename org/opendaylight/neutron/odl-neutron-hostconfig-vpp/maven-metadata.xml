@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.neutron</groupId>
   <artifactId>odl-neutron-hostconfig-vpp</artifactId>
   <versioning>
-    <latest>0.14.2</latest>
-    <release>0.14.2</release>
+    <latest>0.15.0</latest>
+    <release>0.15.0</release>
     <versions>
       <version>0.8.0-Carbon</version>
       <version>0.8.1-Carbon</version>
@@ -36,7 +36,8 @@
       <version>0.14.0</version>
       <version>0.14.1</version>
       <version>0.14.2</version>
+      <version>0.15.0</version>
     </versions>
-    <lastUpdated>20200821111024</lastUpdated>
+    <lastUpdated>20200918060322</lastUpdated>
   </versioning>
 </metadata>

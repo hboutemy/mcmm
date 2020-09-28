@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jdbc-mysql-deployment</artifactId>
   <versioning>
-    <latest>1.8.0.Final</latest>
-    <release>1.8.0.Final</release>
+    <latest>1.8.1.Final</latest>
+    <release>1.8.1.Final</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -54,7 +54,8 @@
       <version>1.7.3.Final</version>
       <version>1.8.0.CR1</version>
       <version>1.8.0.Final</version>
+      <version>1.8.1.Final</version>
     </versions>
-    <lastUpdated>20200909112046</lastUpdated>
+    <lastUpdated>20200918093740</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.qpid</groupId>
   <artifactId>qpid-broker-plugins-jdbc-provider-bone</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>0.24</version>
       <version>0.26</version>
@@ -47,8 +47,10 @@
       <version>7.1.6</version>
       <version>7.1.7</version>
       <version>7.1.8</version>
+      <version>7.1.9</version>
       <version>8.0.0</version>
+      <version>8.0.1</version>
     </versions>
-    <lastUpdated>20200408163137</lastUpdated>
+    <lastUpdated>20200918084519</lastUpdated>
   </versioning>
 </metadata>
