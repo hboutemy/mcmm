@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>[HeliORM] Model Generation Plugin</name>
+      <prefix>generate-model</prefix>
+      <artifactId>generate-model-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>[HeliORM] SQL Generation Plugin</name>
+      <prefix>generate-sql</prefix>
+      <artifactId>generate-sql-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
