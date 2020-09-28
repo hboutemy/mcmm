@@ -3,8 +3,8 @@
   <groupId>org.springframework.session</groupId>
   <artifactId>spring-session-bom</artifactId>
   <versioning>
-    <latest>Dragonfruit-RELEASE</latest>
-    <release>Dragonfruit-RELEASE</release>
+    <latest>Dragonfruit-SR1</latest>
+    <release>Dragonfruit-SR1</release>
     <versions>
       <version>Apple-RELEASE</version>
       <version>Apple-SR1</version>
@@ -28,12 +28,15 @@
       <version>Bean-SR9</version>
       <version>Bean-SR10</version>
       <version>Bean-SR11</version>
+      <version>Bean-SR12</version>
       <version>Corn-RELEASE</version>
       <version>Corn-SR1</version>
       <version>Corn-SR2</version>
       <version>Corn-SR3</version>
+      <version>Corn-SR4</version>
       <version>Dragonfruit-RELEASE</version>
+      <version>Dragonfruit-SR1</version>
     </versions>
-    <lastUpdated>20200626131926</lastUpdated>
+    <lastUpdated>20200917060820</lastUpdated>
   </versioning>
 </metadata>
