@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.hybrid.gateway.configurator</artifactId>
   <versioning>
-    <latest>6.8.31</latest>
-    <release>6.8.31</release>
+    <latest>6.8.33</latest>
+    <release>6.8.33</release>
     <versions>
       <version>6.4.140</version>
       <version>6.4.141</version>
@@ -798,7 +798,9 @@
       <version>6.8.29</version>
       <version>6.8.30</version>
       <version>6.8.31</version>
+      <version>6.8.32</version>
+      <version>6.8.33</version>
     </versions>
-    <lastUpdated>20200924093124</lastUpdated>
+    <lastUpdated>20200925125528</lastUpdated>
   </versioning>
 </metadata>

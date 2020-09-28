@@ -7,6 +7,11 @@
       <artifactId>events-gatling-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Events JMeter Maven Plugin</name>
+      <prefix>events-jmeter</prefix>
+      <artifactId>events-jmeter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>targetsio-gatling-maven-plugin</name>
       <prefix>targetsio-gatling</prefix>
       <artifactId>targetsio-gatling-maven-plugin</artifactId>

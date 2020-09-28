@@ -3,15 +3,16 @@
   <groupId>com.hazelcast</groupId>
   <artifactId>quarkus-hazelcast-client-bom</artifactId>
   <versioning>
-    <latest>1.0.0</latest>
-    <release>1.0.0</release>
+    <latest>1.1.0</latest>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0-RC2</version>
       <version>1.0.0-RC3</version>
       <version>1.0.0-RC4</version>
       <version>1.0.0-RC5</version>
       <version>1.0.0</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20200720080801</lastUpdated>
+    <lastUpdated>20200925051602</lastUpdated>
   </versioning>
 </metadata>

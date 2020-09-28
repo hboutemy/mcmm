@@ -3,13 +3,14 @@
   <groupId>com.aliyun.calcite.avatica</groupId>
   <artifactId>ali-avatica-parent</artifactId>
   <versioning>
-    <latest>1.13.0</latest>
-    <release>1.13.0</release>
+    <latest>1.13.0-qtp</latest>
+    <release>1.13.0-qtp</release>
     <versions>
       <version>1.12.0</version>
       <version>1.12.1</version>
       <version>1.13.0</version>
+      <version>1.13.0-qtp</version>
     </versions>
-    <lastUpdated>20190710024136</lastUpdated>
+    <lastUpdated>20200925081339</lastUpdated>
   </versioning>
 </metadata>

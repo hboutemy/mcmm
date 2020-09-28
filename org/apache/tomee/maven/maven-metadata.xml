@@ -2,27 +2,27 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>TomEE :: Maven Plugins :: ApplicationComposer Maven Plugin</name>
+      <name>OpenEJB :: Maven Plugins :: ApplicationComposer Maven Plugin</name>
       <prefix>applicationcomposer</prefix>
       <artifactId>applicationcomposer-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>TomEE :: Maven Plugins :: jars.txt Maven Plugin</name>
+      <name>OpenEJB :: Maven Plugins :: jars.txt Maven Plugin</name>
       <prefix>jarstxt</prefix>
       <artifactId>jarstxt-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>TomEE :: Maven Plugins :: OpenEJB Embedded Maven Plugin</name>
+      <name>OpenEJB :: Maven Plugins :: OpenEJB Embedded Maven Plugin</name>
       <prefix>openejb-embedded</prefix>
       <artifactId>openejb-embedded-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>TomEE :: Maven Plugins :: TomEE Embedded Maven Plugin</name>
+      <name>OpenEJB :: Maven Plugins :: TomEE Embedded Maven Plugin</name>
       <prefix>tomee-embedded</prefix>
       <artifactId>tomee-embedded-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>TomEE :: Maven Plugins :: TomEE Maven Plugin</name>
+      <name>OpenEJB :: Maven Plugins :: TomEE Maven Plugin</name>
       <prefix>tomee</prefix>
       <artifactId>tomee-maven-plugin</artifactId>
     </plugin>
