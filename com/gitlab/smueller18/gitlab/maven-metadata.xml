@@ -7,7 +7,7 @@
       <artifactId>gitlab-codeclimate-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>com.gitlab.smueller18.gitlab:gitlab-dependency-maven-plugin</name>
       <prefix>gitlab-dependency</prefix>
       <artifactId>gitlab-dependency-maven-plugin</artifactId>
     </plugin>
