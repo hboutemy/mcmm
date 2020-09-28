@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.asset.publisher.web</artifactId>
   <versioning>
-    <latest>4.0.36</latest>
-    <release>3.0.92</release>
+    <latest>4.0.39</latest>
+    <release>4.0.39</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -154,6 +154,7 @@
       <version>1.10.4</version>
       <version>1.10.5</version>
       <version>1.10.6</version>
+      <version>1.10.7</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -253,6 +254,8 @@
       <version>2.0.96</version>
       <version>2.0.97</version>
       <version>2.0.98</version>
+      <version>2.0.99</version>
+      <version>2.0.100</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -345,6 +348,7 @@
       <version>3.0.89</version>
       <version>3.0.90</version>
       <version>3.0.91</version>
+      <version>3.0.92</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -382,14 +386,10 @@
       <version>4.0.34</version>
       <version>4.0.35</version>
       <version>4.0.36</version>
-      <version>1.10.7</version>
-      <version>2.0.99</version>
       <version>4.0.37</version>
-      <version>2.0.100</version>
       <version>4.0.38</version>
       <version>4.0.39</version>
-      <version>3.0.92</version>
     </versions>
-    <lastUpdated>20200922163746</lastUpdated>
+    <lastUpdated>20200923022113</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>org.wso2.identity.apps.authentication.portal.server.feature</artifactId>
   <versioning>
-    <latest>1.0.420</latest>
-    <release>1.0.420</release>
+    <latest>1.0.422</latest>
+    <release>1.0.422</release>
     <versions>
       <version>0.1.125</version>
       <version>0.1.126</version>
@@ -463,7 +463,9 @@
       <version>1.0.418</version>
       <version>1.0.419</version>
       <version>1.0.420</version>
+      <version>1.0.421</version>
+      <version>1.0.422</version>
     </versions>
-    <lastUpdated>20200922081037</lastUpdated>
+    <lastUpdated>20200923173805</lastUpdated>
   </versioning>
 </metadata>

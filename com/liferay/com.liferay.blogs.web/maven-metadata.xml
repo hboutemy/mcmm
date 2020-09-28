@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.blogs.web</artifactId>
   <versioning>
-    <latest>5.0.30</latest>
-    <release>4.0.68</release>
+    <latest>5.0.32</latest>
+    <release>5.0.33</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -195,6 +195,8 @@
       <version>3.0.69</version>
       <version>3.0.70</version>
       <version>3.0.71</version>
+      <version>3.0.72</version>
+      <version>3.0.73</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -261,6 +263,9 @@
       <version>4.0.63</version>
       <version>4.0.64</version>
       <version>4.0.65</version>
+      <version>4.0.66</version>
+      <version>4.0.67</version>
+      <version>4.0.68</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -293,13 +298,8 @@
       <version>5.0.29</version>
       <version>5.0.30</version>
       <version>5.0.31</version>
-      <version>3.0.72</version>
-      <version>4.0.66</version>
-      <version>4.0.67</version>
       <version>5.0.32</version>
-      <version>3.0.73</version>
-      <version>4.0.68</version>
     </versions>
-    <lastUpdated>20200922163812</lastUpdated>
+    <lastUpdated>20200923170504</lastUpdated>
   </versioning>
 </metadata>
