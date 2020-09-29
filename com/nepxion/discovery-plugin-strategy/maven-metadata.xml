@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-strategy</artifactId>
   <versioning>
-    <latest>6.2.0</latest>
-    <release>6.2.0</release>
+    <latest>6.3.0</latest>
+    <release>6.3.0</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -130,6 +130,7 @@
       <version>3.17.0</version>
       <version>3.18.0</version>
       <version>3.19.0</version>
+      <version>3.20.0</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
       <version>4.2.2</version>
@@ -302,7 +303,8 @@
       <version>6.0.7</version>
       <version>6.1.0</version>
       <version>6.2.0</version>
+      <version>6.3.0</version>
     </versions>
-    <lastUpdated>20200920070042</lastUpdated>
+    <lastUpdated>20200928182901</lastUpdated>
   </versioning>
 </metadata>

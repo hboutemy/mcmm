@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-couchbase-services-api</artifactId>
   <versioning>
-    <latest>1.12.0</latest>
-    <release>1.12.0</release>
+    <latest>1.12.1</latest>
+    <release>1.12.1</release>
     <versions>
       <version>1.5.0</version>
       <version>1.6.0</version>
@@ -21,7 +21,8 @@
       <version>1.11.3</version>
       <version>1.11.4</version>
       <version>1.12.0</version>
+      <version>1.12.1</version>
     </versions>
-    <lastUpdated>20200818210005</lastUpdated>
+    <lastUpdated>20200928174001</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-hbase-bundle</artifactId>
   <versioning>
-    <latest>1.12.0</latest>
-    <release>1.12.0</release>
+    <latest>1.12.1</latest>
+    <release>1.12.1</release>
     <versions>
       <version>0.4.0</version>
       <version>0.4.1</version>
@@ -41,7 +41,8 @@
       <version>1.11.3</version>
       <version>1.11.4</version>
       <version>1.12.0</version>
+      <version>1.12.1</version>
     </versions>
-    <lastUpdated>20200818211004</lastUpdated>
+    <lastUpdated>20200928174916</lastUpdated>
   </versioning>
 </metadata>
