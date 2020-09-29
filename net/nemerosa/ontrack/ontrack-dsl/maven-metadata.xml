@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-dsl</artifactId>
   <versioning>
-    <latest>4.0-alpha.0-dirty</latest>
-    <release>4.0-alpha.0-dirty</release>
+    <latest>4.0-alpha.1</latest>
+    <release>4.0-alpha.1</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -435,6 +435,7 @@
       <version>3.43.1</version>
       <version>4.0-alpha.0</version>
       <version>4.0-alpha.0-dirty</version>
+      <version>4.0-alpha.1</version>
       <version>2.10.0</version>
       <version>feature-275-page-link-87c04df</version>
       <version>feature-275-page-link-aab1758</version>
@@ -443,6 +444,6 @@
       <version>master-4d3a951</version>
       <version>master-762890b</version>
     </versions>
-    <lastUpdated>20200918081857</lastUpdated>
+    <lastUpdated>20200927112516</lastUpdated>
   </versioning>
 </metadata>

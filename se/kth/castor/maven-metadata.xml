@@ -6,5 +6,10 @@
       <prefix>depclean</prefix>
       <artifactId>depclean-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jdbl-maven-plugin</name>
+      <prefix>jdbl</prefix>
+      <artifactId>jdbl-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
