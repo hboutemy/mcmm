@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.stream.app.plugin</groupId>
   <artifactId>spring-cloud-stream-app-maven-plugin</artifactId>
   <versioning>
-    <latest>1.2.13.RELEASE</latest>
-    <release>1.2.13.RELEASE</release>
+    <latest>1.2.14.RELEASE</latest>
+    <release>1.2.14.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -24,7 +24,8 @@
       <version>1.2.11.RELEASE</version>
       <version>1.2.12.RELEASE</version>
       <version>1.2.13.RELEASE</version>
+      <version>1.2.14.RELEASE</version>
     </versions>
-    <lastUpdated>20200327200338</lastUpdated>
+    <lastUpdated>20200930171237</lastUpdated>
   </versioning>
 </metadata>

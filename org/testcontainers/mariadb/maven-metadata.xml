@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>mariadb</artifactId>
   <versioning>
-    <latest>1.15.0-rc1</latest>
-    <release>1.15.0-rc1</release>
+    <latest>1.15.0-rc2</latest>
+    <release>1.15.0-rc2</release>
     <versions>
       <version>1.1.6</version>
       <version>1.1.7</version>
@@ -51,7 +51,8 @@
       <version>1.14.2</version>
       <version>1.14.3</version>
       <version>1.15.0-rc1</version>
+      <version>1.15.0-rc2</version>
     </versions>
-    <lastUpdated>20200720071501</lastUpdated>
+    <lastUpdated>20200930123844</lastUpdated>
   </versioning>
 </metadata>

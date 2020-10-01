@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>cockroachdb</artifactId>
   <versioning>
-    <latest>1.15.0-rc1</latest>
-    <release>1.15.0-rc1</release>
+    <latest>1.15.0-rc2</latest>
+    <release>1.15.0-rc2</release>
     <versions>
       <version>1.12.3</version>
       <version>1.12.4</version>
@@ -15,7 +15,8 @@
       <version>1.14.2</version>
       <version>1.14.3</version>
       <version>1.15.0-rc1</version>
+      <version>1.15.0-rc2</version>
     </versions>
-    <lastUpdated>20200720071452</lastUpdated>
+    <lastUpdated>20200930123832</lastUpdated>
   </versioning>
 </metadata>
