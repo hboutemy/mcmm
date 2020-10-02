@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>app-starters-release-train-build</artifactId>
   <versioning>
-    <latest>Einstein.SR8</latest>
-    <release>Einstein.SR8</release>
+    <latest>Einstein.SR9</latest>
+    <release>Einstein.SR9</release>
     <versions>
       <version>Avogadro.RELEASE</version>
       <version>Avogadro.SR1</version>
@@ -26,7 +26,8 @@
       <version>Einstein.SR6</version>
       <version>Einstein.SR7</version>
       <version>Einstein.SR8</version>
+      <version>Einstein.SR9</version>
     </versions>
-    <lastUpdated>20200806143528</lastUpdated>
+    <lastUpdated>20201001204834</lastUpdated>
   </versioning>
 </metadata>

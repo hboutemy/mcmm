@@ -6,5 +6,10 @@
       <prefix>artifact-reference-checker</prefix>
       <artifactId>artifact-reference-checker-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Project keeper maven plugin</name>
+      <prefix>project-keeper</prefix>
+      <artifactId>project-keeper-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
