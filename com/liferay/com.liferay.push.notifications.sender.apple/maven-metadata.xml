@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.push.notifications.sender.apple</artifactId>
   <versioning>
     <latest>4.0.12</latest>
-    <release>4.0.12</release>
+    <release>1.0.29</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -92,7 +92,8 @@
       <version>4.0.10</version>
       <version>4.0.11</version>
       <version>4.0.12</version>
+      <version>1.0.29</version>
     </versions>
-    <lastUpdated>20200922212138</lastUpdated>
+    <lastUpdated>20201002163919</lastUpdated>
   </versioning>
 </metadata>

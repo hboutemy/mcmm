@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-throttle-hazelcast</artifactId>
   <versioning>
-    <latest>6.3.0-RC2</latest>
-    <release>6.3.0-RC2</release>
+    <latest>6.3.0-RC3</latest>
+    <release>6.3.0-RC3</release>
     <versions>
       <version>5.3.4</version>
       <version>5.3.5</version>
@@ -59,7 +59,8 @@
       <version>6.2.3</version>
       <version>6.3.0-RC1</version>
       <version>6.3.0-RC2</version>
+      <version>6.3.0-RC3</version>
     </versions>
-    <lastUpdated>20200925115906</lastUpdated>
+    <lastUpdated>20201002122209</lastUpdated>
   </versioning>
 </metadata>

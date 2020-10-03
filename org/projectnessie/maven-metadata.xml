@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Nessie Quarkus Application Runner Maven Plugin</name>
+      <prefix>nessie-apprunner</prefix>
+      <artifactId>nessie-apprunner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
