@@ -3,8 +3,8 @@
   <groupId>org.apache.servicemix.bundles</groupId>
   <artifactId>org.apache.servicemix.bundles.spring-messaging</artifactId>
   <versioning>
-    <latest>5.2.8.RELEASE_1</latest>
-    <release>5.2.8.RELEASE_1</release>
+    <latest>5.2.9.RELEASE_1</latest>
+    <release>5.2.9.RELEASE_1</release>
     <versions>
       <version>4.0.1.RELEASE_1</version>
       <version>4.0.1.RELEASE_2</version>
@@ -81,6 +81,7 @@
       <version>4.3.26.RELEASE_1</version>
       <version>4.3.27.RELEASE_1</version>
       <version>4.3.28.RELEASE_1</version>
+      <version>4.3.29.RELEASE_1</version>
       <version>5.0.0.RELEASE_1</version>
       <version>5.0.2.RELEASE_1</version>
       <version>5.0.3.RELEASE_1</version>
@@ -107,6 +108,7 @@
       <version>5.1.9.RELEASE_1</version>
       <version>5.1.14.RELEASE_1</version>
       <version>5.1.16.RELEASE_1</version>
+      <version>5.1.18.RELEASE_1</version>
       <version>5.2.0.RELEASE_1</version>
       <version>5.2.1.RELEASE_1</version>
       <version>5.2.2.RELEASE_1</version>
@@ -116,7 +118,8 @@
       <version>5.2.6.RELEASE_1</version>
       <version>5.2.7.RELEASE_1</version>
       <version>5.2.8.RELEASE_1</version>
+      <version>5.2.9.RELEASE_1</version>
     </versions>
-    <lastUpdated>20200813051630</lastUpdated>
+    <lastUpdated>20201003034142</lastUpdated>
   </versioning>
 </metadata>
