@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.apimgt.keymanager.category.feature</artifactId>
   <versioning>
-    <latest>6.8.40</latest>
-    <release>6.8.40</release>
+    <latest>6.8.42</latest>
+    <release>6.8.42</release>
     <versions>
       <version>5.0.5</version>
       <version>6.0.0</version>
@@ -1506,7 +1506,9 @@
       <version>6.8.38</version>
       <version>6.8.39</version>
       <version>6.8.40</version>
+      <version>6.8.41</version>
+      <version>6.8.42</version>
     </versions>
-    <lastUpdated>20201002120416</lastUpdated>
+    <lastUpdated>20201005130704</lastUpdated>
   </versioning>
 </metadata>

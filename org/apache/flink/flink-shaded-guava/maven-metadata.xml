@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-shaded-guava</artifactId>
   <versioning>
-    <latest>18.0-11.0</latest>
-    <release>18.0-11.0</release>
+    <latest>18.0-12.0</latest>
+    <release>18.0-12.0</release>
     <versions>
       <version>18.0-1.0</version>
       <version>18.0-2.0</version>
@@ -17,7 +17,8 @@
       <version>18.0-9.0</version>
       <version>18.0-10.0</version>
       <version>18.0-11.0</version>
+      <version>18.0-12.0</version>
     </versions>
-    <lastUpdated>20200529081515</lastUpdated>
+    <lastUpdated>20201005142842</lastUpdated>
   </versioning>
 </metadata>

@@ -20,7 +20,7 @@
       <artifactId>wildfly-extension-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>WildFly Bootable Jar Maven Plugin</name>
+      <name>WildFly Bootable JAR Maven Plugin</name>
       <prefix>wildfly-jar</prefix>
       <artifactId>wildfly-jar-maven-plugin</artifactId>
     </plugin>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>org.eclipse.transformer:org.eclipse.transformer.maven</name>
+      <prefix>org.eclipse.transformer.</prefix>
+      <artifactId>org.eclipse.transformer.maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
