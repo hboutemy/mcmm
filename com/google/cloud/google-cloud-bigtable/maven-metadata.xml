@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigtable</artifactId>
   <versioning>
-    <latest>1.15.0</latest>
-    <release>1.15.0</release>
+    <latest>1.16.0</latest>
+    <release>1.16.0</release>
     <versions>
       <version>0.27.0-beta</version>
       <version>0.28.0-beta</version>
@@ -111,7 +111,8 @@
       <version>1.13.1</version>
       <version>1.14.0</version>
       <version>1.15.0</version>
+      <version>1.16.0</version>
     </versions>
-    <lastUpdated>20200902175450</lastUpdated>
+    <lastUpdated>20201006204500</lastUpdated>
   </versioning>
 </metadata>

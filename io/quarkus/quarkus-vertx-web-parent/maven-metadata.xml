@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-vertx-web-parent</artifactId>
   <versioning>
-    <latest>1.8.1.Final</latest>
-    <release>1.8.1.Final</release>
+    <latest>1.8.2.Final</latest>
+    <release>1.8.2.Final</release>
     <versions>
       <version>0.12.0</version>
       <version>0.13.0</version>
@@ -75,7 +75,8 @@
       <version>1.8.0.CR1</version>
       <version>1.8.0.Final</version>
       <version>1.8.1.Final</version>
+      <version>1.8.2.Final</version>
     </versions>
-    <lastUpdated>20200929001905</lastUpdated>
+    <lastUpdated>20201006152925</lastUpdated>
   </versioning>
 </metadata>
