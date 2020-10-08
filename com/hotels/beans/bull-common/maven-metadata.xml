@@ -3,8 +3,8 @@
   <groupId>com.hotels.beans</groupId>
   <artifactId>bull-common</artifactId>
   <versioning>
-    <latest>1.7.3</latest>
-    <release>1.7.3</release>
+    <latest>1.7.4</latest>
+    <release>1.7.4</release>
     <versions>
       <version>1.1.19</version>
       <version>1.1.20</version>
@@ -61,7 +61,9 @@
       <version>1.7.2</version>
       <version>1.7.2-jdk8</version>
       <version>1.7.3</version>
+      <version>1.7.3-jdk8</version>
+      <version>1.7.4</version>
     </versions>
-    <lastUpdated>20200609074230</lastUpdated>
+    <lastUpdated>20201007075241</lastUpdated>
   </versioning>
 </metadata>
