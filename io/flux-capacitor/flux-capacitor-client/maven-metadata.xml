@@ -3,9 +3,10 @@
   <groupId>io.flux-capacitor</groupId>
   <artifactId>flux-capacitor-client</artifactId>
   <versioning>
-    <latest>0.223</latest>
-    <release>0.223</release>
+    <latest>0.224</latest>
+    <release>0.224</release>
     <versions>
+      <version>apply-by-entity</version>
       <version>v0.1</version>
       <version>0.0.6</version>
       <version>0.0.8</version>
@@ -220,7 +221,8 @@
       <version>0.221</version>
       <version>0.222</version>
       <version>0.223</version>
+      <version>0.224</version>
     </versions>
-    <lastUpdated>20200904155013</lastUpdated>
+    <lastUpdated>20201008083730</lastUpdated>
   </versioning>
 </metadata>

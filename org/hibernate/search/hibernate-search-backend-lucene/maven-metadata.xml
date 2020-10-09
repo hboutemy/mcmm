@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-backend-lucene</artifactId>
   <versioning>
-    <latest>6.0.0.Beta10</latest>
-    <release>6.0.0.Beta10</release>
+    <latest>6.0.0.Beta11</latest>
+    <release>6.0.0.Beta11</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -25,7 +25,8 @@
       <version>6.0.0.Beta8</version>
       <version>6.0.0.Beta9</version>
       <version>6.0.0.Beta10</version>
+      <version>6.0.0.Beta11</version>
     </versions>
-    <lastUpdated>20200904132759</lastUpdated>
+    <lastUpdated>20201008131414</lastUpdated>
   </versioning>
 </metadata>

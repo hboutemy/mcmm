@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-event-logger</artifactId>
   <versioning>
-    <latest>13.0.0.Final</latest>
-    <release>13.0.0.Final</release>
+    <latest>13.0.1.Final</latest>
+    <release>13.0.1.Final</release>
     <versions>
       <version>9.0.0.Beta5</version>
       <version>9.0.0.Beta6</version>
@@ -52,7 +52,8 @@
       <version>13.0.0.Beta5</version>
       <version>13.0.0.Beta6</version>
       <version>13.0.0.Final</version>
+      <version>13.0.1.Final</version>
     </versions>
-    <lastUpdated>20201006115349</lastUpdated>
+    <lastUpdated>20201008091108</lastUpdated>
   </versioning>
 </metadata>

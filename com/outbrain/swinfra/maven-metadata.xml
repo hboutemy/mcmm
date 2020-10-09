@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Ci Friendly Maven Plugin</name>
+      <prefix>ci-friendly</prefix>
+      <artifactId>ci-friendly-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
