@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>wavemaker-app-build-maven-plugin</name>
+      <prefix>wavemaker-app-build</prefix>
+      <artifactId>wavemaker-app-build-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wavemaker-app-package-maven-plugin</name>
+      <prefix>wavemaker-app-package</prefix>
+      <artifactId>wavemaker-app-package-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

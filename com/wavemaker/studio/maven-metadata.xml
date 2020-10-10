@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>wavemaker-studio-maven-plugin</name>
+      <prefix>wavemaker-studio</prefix>
+      <artifactId>wavemaker-studio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>wavemaker-workspace-sync-plugin</name>
+      <prefix>wavemaker-workspace-sync</prefix>
+      <artifactId>wavemaker-workspace-sync-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
