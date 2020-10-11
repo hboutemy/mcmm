@@ -3,12 +3,13 @@
   <groupId>io.prestosql</groupId>
   <artifactId>presto-test-jdbc-compatibility-old-driver</artifactId>
   <versioning>
-    <latest>343</latest>
-    <release>343</release>
+    <latest>344</latest>
+    <release>344</release>
     <versions>
       <version>342</version>
       <version>343</version>
+      <version>344</version>
     </versions>
-    <lastUpdated>20200926001941</lastUpdated>
+    <lastUpdated>20201010025445</lastUpdated>
   </versioning>
 </metadata>
