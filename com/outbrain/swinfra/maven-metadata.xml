@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Ci Friendly Flatten Maven Plugin</name>
+      <prefix>ci-friendly-flatten</prefix>
+      <artifactId>ci-friendly-flatten-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Ci Friendly Maven Plugin</name>
       <prefix>ci-friendly</prefix>
       <artifactId>ci-friendly-maven-plugin</artifactId>
