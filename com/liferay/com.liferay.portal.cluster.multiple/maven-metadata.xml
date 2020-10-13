@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.cluster.multiple</artifactId>
   <versioning>
     <latest>4.0.16</latest>
-    <release>4.0.16</release>
+    <release>4.0.17</release>
     <versions>
       <version>1.0.13</version>
       <version>1.0.14</version>
@@ -129,7 +129,8 @@
       <version>4.0.14</version>
       <version>4.0.15</version>
       <version>4.0.16</version>
+      <version>4.0.17</version>
     </versions>
-    <lastUpdated>20200915173348</lastUpdated>
+    <lastUpdated>20201012203901</lastUpdated>
   </versioning>
 </metadata>
