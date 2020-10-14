@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-feature-pack</artifactId>
   <versioning>
-    <latest>21.0.0.Beta1</latest>
-    <release>21.0.0.Beta1</release>
+    <latest>21.0.0.Final</latest>
+    <release>21.0.0.Final</release>
     <versions>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Beta1</version>
@@ -63,7 +63,8 @@
       <version>20.0.0.Final</version>
       <version>20.0.1.Final</version>
       <version>21.0.0.Beta1</version>
+      <version>21.0.0.Final</version>
     </versions>
-    <lastUpdated>20200918195727</lastUpdated>
+    <lastUpdated>20201013003533</lastUpdated>
   </versioning>
 </metadata>

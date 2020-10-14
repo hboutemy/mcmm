@@ -3,8 +3,8 @@
   <groupId>com.azure</groupId>
   <artifactId>azure-messaging-eventhubs-checkpointstore-blob</artifactId>
   <versioning>
-    <latest>1.3.0-beta.1</latest>
-    <release>1.3.0-beta.1</release>
+    <latest>1.3.0</latest>
+    <release>1.3.0</release>
     <versions>
       <version>1.0.0-beta.4</version>
       <version>1.0.0-preview.1</version>
@@ -21,7 +21,8 @@
       <version>1.2.0-beta.2</version>
       <version>1.2.0</version>
       <version>1.3.0-beta.1</version>
+      <version>1.3.0</version>
     </versions>
-    <lastUpdated>20200929013341</lastUpdated>
+    <lastUpdated>20201013050321</lastUpdated>
   </versioning>
 </metadata>
