@@ -3,8 +3,8 @@
   <groupId>io.pivotal.spring.cloud</groupId>
   <artifactId>spring-cloud-services-starter-circuit-breaker</artifactId>
   <versioning>
-    <latest>2.2.4.RELEASE</latest>
-    <release>2.2.4.RELEASE</release>
+    <latest>2.2.5.RELEASE</latest>
+    <release>2.2.5.RELEASE</release>
     <versions>
       <version>1.0.1.RELEASE</version>
       <version>1.0.2.RELEASE</version>
@@ -40,7 +40,8 @@
       <version>2.2.1.RELEASE</version>
       <version>2.2.3.RELEASE</version>
       <version>2.2.4.RELEASE</version>
+      <version>2.2.5.RELEASE</version>
     </versions>
-    <lastUpdated>20200630195205</lastUpdated>
+    <lastUpdated>20201014175625</lastUpdated>
   </versioning>
 </metadata>

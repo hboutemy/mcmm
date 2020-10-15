@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>org.elasticsearch7.painless</artifactId>
   <versioning>
     <latest>7.3.0.LIFERAY-PATCHED-2</latest>
-    <release>7.3.0.LIFERAY-PATCHED-2</release>
+    <release>7.9.0.LIFERAY-PATCHED-1</release>
     <versions>
       <version>7.3.0.LIFERAY-PATCHED-2</version>
+      <version>7.9.0.LIFERAY-PATCHED-1</version>
     </versions>
-    <lastUpdated>20200113201339</lastUpdated>
+    <lastUpdated>20201014184232</lastUpdated>
   </versioning>
 </metadata>

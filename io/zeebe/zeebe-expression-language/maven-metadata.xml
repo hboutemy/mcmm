@@ -3,8 +3,8 @@
   <groupId>io.zeebe</groupId>
   <artifactId>zeebe-expression-language</artifactId>
   <versioning>
-    <latest>0.25.0-alpha2</latest>
-    <release>0.25.0-alpha2</release>
+    <latest>0.25.0-rc1</latest>
+    <release>0.25.0-rc1</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -21,7 +21,8 @@
       <version>0.24.3</version>
       <version>0.25.0-alpha1</version>
       <version>0.25.0-alpha2</version>
+      <version>0.25.0-rc1</version>
     </versions>
-    <lastUpdated>20200911115701</lastUpdated>
+    <lastUpdated>20201014151351</lastUpdated>
   </versioning>
 </metadata>
