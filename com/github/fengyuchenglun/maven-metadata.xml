@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>apidoc-maven-plugin</name>
+      <prefix>apidoc</prefix>
+      <artifactId>apidoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>apiggs-maven-plugin</name>
       <prefix>apiggs</prefix>
       <artifactId>apiggs-maven-plugin</artifactId>
