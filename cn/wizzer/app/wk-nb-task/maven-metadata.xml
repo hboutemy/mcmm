@@ -3,8 +3,8 @@
   <groupId>cn.wizzer.app</groupId>
   <artifactId>wk-nb-task</artifactId>
   <versioning>
-    <latest>5.2.7-zookeeper</latest>
-    <release>5.2.7-zookeeper</release>
+    <latest>5.2.8-zookeeper</latest>
+    <release>5.2.8-zookeeper</release>
     <versions>
       <version>5.0.5</version>
       <version>5.0.6</version>
@@ -23,7 +23,9 @@
       <version>5.2.6</version>
       <version>5.2.7-nacos</version>
       <version>5.2.7-zookeeper</version>
+      <version>5.2.8-nacos</version>
+      <version>5.2.8-zookeeper</version>
     </versions>
-    <lastUpdated>20200912105545</lastUpdated>
+    <lastUpdated>20201016100920</lastUpdated>
   </versioning>
 </metadata>
