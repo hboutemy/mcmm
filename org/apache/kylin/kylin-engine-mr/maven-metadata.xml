@@ -3,8 +3,8 @@
   <groupId>org.apache.kylin</groupId>
   <artifactId>kylin-engine-mr</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>1.5.0</version>
       <version>1.5.1</version>
@@ -38,7 +38,8 @@
       <version>3.0.1</version>
       <version>3.0.2</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20200702081649</lastUpdated>
+    <lastUpdated>20201018105643</lastUpdated>
   </versioning>
 </metadata>
