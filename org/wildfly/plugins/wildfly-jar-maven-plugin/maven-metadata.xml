@@ -3,8 +3,8 @@
   <groupId>org.wildfly.plugins</groupId>
   <artifactId>wildfly-jar-maven-plugin</artifactId>
   <versioning>
-    <latest>2.0.0.Final</latest>
-    <release>2.0.0.Final</release>
+    <latest>2.0.1.Final</latest>
+    <release>2.0.1.Final</release>
     <versions>
       <version>1.0.0.Alpha3</version>
       <version>1.0.0.Alpha4</version>
@@ -24,7 +24,8 @@
       <version>2.0.0.Beta8</version>
       <version>2.0.0.Beta9</version>
       <version>2.0.0.Final</version>
+      <version>2.0.1.Final</version>
     </versions>
-    <lastUpdated>20201013092139</lastUpdated>
+    <lastUpdated>20201019170356</lastUpdated>
   </versioning>
 </metadata>

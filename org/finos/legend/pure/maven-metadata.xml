@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Legend Pure - Maven - Plugin PAR</name>
+      <prefix>legend-purecompilation-par</prefix>
+      <artifactId>legend-pure-maven-compilation-par</artifactId>
+    </plugin>
+    <plugin>
+      <name>Legend Pure - Maven - Plugin Compiled JAR</name>
+      <prefix>legend-purejava-compiled</prefix>
+      <artifactId>legend-pure-maven-java-compiled</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

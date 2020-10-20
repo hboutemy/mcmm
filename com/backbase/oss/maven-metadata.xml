@@ -11,5 +11,10 @@
       <prefix>boat</prefix>
       <artifactId>boat-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>SCDF Maven Plugin</name>
+      <prefix>scdf</prefix>
+      <artifactId>scdf-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

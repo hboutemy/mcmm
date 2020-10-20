@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Database Backwards Compatibility Maven Mojo</name>
+      <prefix>dblock</prefix>
+      <artifactId>dblock-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

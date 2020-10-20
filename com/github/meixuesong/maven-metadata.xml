@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>merge-cpd-pmd-report-maven-plugin</name>
+      <prefix>merge-cpd-pmd-report</prefix>
+      <artifactId>merge-cpd-pmd-report-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

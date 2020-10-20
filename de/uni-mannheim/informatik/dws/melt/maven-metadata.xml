@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>MELT - Matching EvaLuation Toolkit | HOBBIT Maven Plugin</name>
       <prefix>hobbit</prefix>
       <artifactId>hobbit-maven-plugin</artifactId>
     </plugin>
