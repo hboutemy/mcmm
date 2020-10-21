@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>camunda-schema-maven-plugin Maven Mojo</name>
+      <prefix>camunda-schema</prefix>
+      <artifactId>camunda-schema-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jenkinsfile-maven-plugin Maven Mojo</name>
       <prefix>jenkinsfile</prefix>
       <artifactId>jenkinsfile-maven-plugin</artifactId>
