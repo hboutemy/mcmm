@@ -3,8 +3,8 @@
   <groupId>io.opencensus</groupId>
   <artifactId>opencensus-exporter-trace-zipkin</artifactId>
   <versioning>
-    <latest>0.28.1</latest>
-    <release>0.28.1</release>
+    <latest>0.28.2</latest>
+    <release>0.28.2</release>
     <versions>
       <version>0.8.0</version>
       <version>0.9.0</version>
@@ -42,7 +42,8 @@
       <version>0.27.1</version>
       <version>0.28.0</version>
       <version>0.28.1</version>
+      <version>0.28.2</version>
     </versions>
-    <lastUpdated>20201021085717</lastUpdated>
+    <lastUpdated>20201022121744</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.lightbend.cloudflow</groupId>
   <artifactId>cloudflow-flink-testkit_2.12</artifactId>
   <versioning>
-    <latest>2.0.11</latest>
-    <release>2.0.11</release>
+    <latest>2.0.11-10222020</latest>
+    <release>2.0.11-10222020</release>
     <versions>
       <version>0.0.0.1-release</version>
       <version>0.0.1-RC-TEST-RELEASE</version>
@@ -110,7 +110,8 @@
       <version>2.0.11-RC10</version>
       <version>2.0.11-RC11</version>
       <version>2.0.11</version>
+      <version>2.0.11-10222020</version>
     </versions>
-    <lastUpdated>20201015151706</lastUpdated>
+    <lastUpdated>20201022011446</lastUpdated>
   </versioning>
 </metadata>
