@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.headless.commerce.admin.site.setting.api</artifactId>
   <versioning>
     <latest>5.0.5</latest>
-    <release>5.0.5</release>
+    <release>4.2.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -47,7 +47,10 @@
       <version>5.0.3</version>
       <version>5.0.4</version>
       <version>5.0.5</version>
+      <version>3.2.0</version>
+      <version>5.1.0</version>
+      <version>4.2.0</version>
     </versions>
-    <lastUpdated>20200915160929</lastUpdated>
+    <lastUpdated>20201023220937</lastUpdated>
   </versioning>
 </metadata>

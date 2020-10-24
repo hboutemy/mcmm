@@ -3,8 +3,8 @@
   <groupId>com.typesafe.akka</groupId>
   <artifactId>akka-stream-kafka_2.12</artifactId>
   <versioning>
-    <latest>2.0.5</latest>
-    <release>2.0.5</release>
+    <latest>2.1.0-M1</latest>
+    <release>2.1.0-M1</release>
     <versions>
       <version>0.13</version>
       <version>0.14</version>
@@ -37,7 +37,8 @@
       <version>2.0.3</version>
       <version>2.0.4</version>
       <version>2.0.5</version>
+      <version>2.1.0-M1</version>
     </versions>
-    <lastUpdated>20200909072813</lastUpdated>
+    <lastUpdated>20201023083725</lastUpdated>
   </versioning>
 </metadata>
