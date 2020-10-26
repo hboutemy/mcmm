@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>o11n-deploy</prefix>
+      <artifactId>o11n-deploy-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
