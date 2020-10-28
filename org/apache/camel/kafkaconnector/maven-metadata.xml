@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel-Kafka-Connector :: Tooling :: Catalog Descriptor Maven Plugin</name>
+      <prefix>camel-kafka-connector-catalog-descriptor</prefix>
+      <artifactId>camel-kafka-connector-catalog-descriptor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel-Kafka-Connector :: Tooling :: Docs Maven Plugin</name>
       <prefix>camel-kafka-connector-docs</prefix>
       <artifactId>camel-kafka-connector-docs-maven-plugin</artifactId>
