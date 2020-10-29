@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jdbc-derby-deployment</artifactId>
   <versioning>
-    <latest>1.9.0.Final</latest>
-    <release>1.9.0.Final</release>
+    <latest>1.9.1.Final</latest>
+    <release>1.9.1.Final</release>
     <versions>
       <version>0.25.0</version>
       <version>0.26.0</version>
@@ -57,7 +57,8 @@
       <version>1.8.3.Final</version>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
+      <version>1.9.1.Final</version>
     </versions>
-    <lastUpdated>20201014141126</lastUpdated>
+    <lastUpdated>20201028172133</lastUpdated>
   </versioning>
 </metadata>

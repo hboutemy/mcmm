@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.multiuser</groupId>
   <artifactId>che-multiuser-permission-devfile</artifactId>
   <versioning>
-    <latest>7.20.0</latest>
-    <release>7.20.0</release>
+    <latest>7.20.1</latest>
+    <release>7.20.1</release>
     <versions>
       <version>6.16.0</version>
       <version>6.17.0</version>
@@ -76,7 +76,8 @@
       <version>7.19.1</version>
       <version>7.19.2</version>
       <version>7.20.0</version>
+      <version>7.20.1</version>
     </versions>
-    <lastUpdated>20201009073158</lastUpdated>
+    <lastUpdated>20201028002252</lastUpdated>
   </versioning>
 </metadata>

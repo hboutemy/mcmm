@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.apimgt.gateway-worker.category.feature</artifactId>
   <versioning>
-    <latest>6.8.64</latest>
-    <release>6.8.64</release>
+    <latest>6.8.66</latest>
+    <release>6.8.66</release>
     <versions>
       <version>5.0.5</version>
       <version>6.0.0</version>
@@ -1530,7 +1530,9 @@
       <version>6.8.62</version>
       <version>6.8.63</version>
       <version>6.8.64</version>
+      <version>6.8.65</version>
+      <version>6.8.66</version>
     </versions>
-    <lastUpdated>20201027052627</lastUpdated>
+    <lastUpdated>20201028134244</lastUpdated>
   </versioning>
 </metadata>
