@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Adobe Content Package Maven Plugin</name>
+      <prefix>content-package</prefix>
+      <artifactId>content-package-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Day File Vault Maven Plugin</name>
+      <prefix>vault</prefix>
+      <artifactId>maven-vault-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>File Vault Maven Plugin</name>
+      <prefix>vault</prefix>
+      <artifactId>vault-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-cloud-connectors</artifactId>
   <versioning>
-    <latest>2.2.10.RELEASE</latest>
-    <release>2.2.10.RELEASE</release>
+    <latest>2.2.11.RELEASE</latest>
+    <release>2.2.11.RELEASE</release>
     <versions>
       <version>1.2.0.RELEASE</version>
       <version>1.2.1.RELEASE</version>
@@ -83,6 +83,7 @@
       <version>2.1.15.RELEASE</version>
       <version>2.1.16.RELEASE</version>
       <version>2.1.17.RELEASE</version>
+      <version>2.1.18.RELEASE</version>
       <version>2.2.0.RELEASE</version>
       <version>2.2.1.RELEASE</version>
       <version>2.2.2.RELEASE</version>
@@ -94,7 +95,8 @@
       <version>2.2.8.RELEASE</version>
       <version>2.2.9.RELEASE</version>
       <version>2.2.10.RELEASE</version>
+      <version>2.2.11.RELEASE</version>
     </versions>
-    <lastUpdated>20200917115706</lastUpdated>
+    <lastUpdated>20201029152029</lastUpdated>
   </versioning>
 </metadata>
