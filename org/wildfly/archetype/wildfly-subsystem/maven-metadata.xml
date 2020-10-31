@@ -3,14 +3,15 @@
   <groupId>org.wildfly.archetype</groupId>
   <artifactId>wildfly-subsystem</artifactId>
   <versioning>
-    <latest>20.0.0.Final</latest>
-    <release>20.0.0.Final</release>
+    <latest>21.0.0.Final</latest>
+    <release>21.0.0.Final</release>
     <versions>
       <version>18.0.0.Final</version>
       <version>19.0.0.Final</version>
       <version>19.1.0.Final</version>
       <version>20.0.0.Final</version>
+      <version>21.0.0.Final</version>
     </versions>
-    <lastUpdated>20200608110139</lastUpdated>
+    <lastUpdated>20201030101630</lastUpdated>
   </versioning>
 </metadata>
