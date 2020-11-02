@@ -11,5 +11,10 @@
       <prefix>jcpp</prefix>
       <artifactId>jcpp-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>remove-unused-imports</prefix>
+      <artifactId>remove-unused-imports-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
