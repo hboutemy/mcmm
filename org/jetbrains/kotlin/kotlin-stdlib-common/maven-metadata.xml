@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-stdlib-common</artifactId>
   <versioning>
-    <latest>1.4.20-M1</latest>
-    <release>1.4.20-M1</release>
+    <latest>1.4.20-RC</latest>
+    <release>1.4.20-RC</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -59,7 +59,9 @@
       <version>1.4.0</version>
       <version>1.4.10</version>
       <version>1.4.20-M1</version>
+      <version>1.4.20-M2</version>
+      <version>1.4.20-RC</version>
     </versions>
-    <lastUpdated>20201030183940</lastUpdated>
+    <lastUpdated>20201102160514</lastUpdated>
   </versioning>
 </metadata>
