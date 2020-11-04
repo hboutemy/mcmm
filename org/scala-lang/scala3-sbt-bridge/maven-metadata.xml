@@ -3,9 +3,10 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-sbt-bridge</artifactId>
   <versioning>
-    <latest>3.0.0-M2-bin-20201031-1ab76c1-NIGHTLY</latest>
-    <release>3.0.0-M2-bin-20201031-1ab76c1-NIGHTLY</release>
+    <latest>3.0.0-M2-bin-20201102-0bd50d3-NIGHTLY</latest>
+    <release>3.0.0-M2-bin-20201102-0bd50d3-NIGHTLY</release>
     <versions>
+      <version>3.0.0-M1</version>
       <version>3.0.0-M1-bin-20201015-8c56525-NIGHTLY</version>
       <version>3.0.0-M1-bin-20201016-e56ecae-NIGHTLY</version>
       <version>3.0.0-M1-bin-20201017-c76800d-NIGHTLY</version>
@@ -20,7 +21,8 @@
       <version>3.0.0-M1-bin-20201029-1f433d5-NIGHTLY</version>
       <version>3.0.0-M2-bin-20201030-300e9a2-NIGHTLY</version>
       <version>3.0.0-M2-bin-20201031-1ab76c1-NIGHTLY</version>
+      <version>3.0.0-M2-bin-20201102-0bd50d3-NIGHTLY</version>
     </versions>
-    <lastUpdated>20201101035349</lastUpdated>
+    <lastUpdated>20201103121727</lastUpdated>
   </versioning>
 </metadata>

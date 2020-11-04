@@ -6,5 +6,10 @@
       <prefix>securecq</prefix>
       <artifactId>securecq-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Adobe Granite XGettext Maven Plugin</name>
+      <prefix>xgettext</prefix>
+      <artifactId>xgettext-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

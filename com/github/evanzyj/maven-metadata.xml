@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>S3 storage maven plugin</name>
+      <prefix>s3-storage</prefix>
+      <artifactId>s3-storage-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
