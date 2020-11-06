@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Netty/Build/GlibcCheck</name>
+      <prefix>netty-build-glibccheck</prefix>
+      <artifactId>netty-build-glibccheck-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
