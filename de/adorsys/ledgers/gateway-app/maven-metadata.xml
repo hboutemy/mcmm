@@ -3,8 +3,8 @@
   <groupId>de.adorsys.ledgers</groupId>
   <artifactId>gateway-app</artifactId>
   <versioning>
-    <latest>9.0</latest>
-    <release>9.0</release>
+    <latest>9.1</latest>
+    <release>9.1</release>
     <versions>
       <version>3.1.1</version>
       <version>3.2</version>
@@ -80,8 +80,10 @@
       <version>7.9</version>
       <version>8.0</version>
       <version>8.1</version>
+      <version>8.2</version>
       <version>9.0</version>
+      <version>9.1</version>
     </versions>
-    <lastUpdated>20201104102833</lastUpdated>
+    <lastUpdated>20201106165334</lastUpdated>
   </versioning>
 </metadata>

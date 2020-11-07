@@ -3,8 +3,8 @@
   <groupId>de.adorsys.psd2</groupId>
   <artifactId>cms-db-schema</artifactId>
   <versioning>
-    <latest>9.0</latest>
-    <release>9.0</release>
+    <latest>9.1</latest>
+    <release>9.1</release>
     <versions>
       <version>1.9</version>
       <version>1.10-RC1</version>
@@ -125,8 +125,10 @@
       <version>8.0</version>
       <version>8.0.1</version>
       <version>8.1</version>
+      <version>8.2</version>
       <version>9.0</version>
+      <version>9.1</version>
     </versions>
-    <lastUpdated>20201023102525</lastUpdated>
+    <lastUpdated>20201106160518</lastUpdated>
   </versioning>
 </metadata>
