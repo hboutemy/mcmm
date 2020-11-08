@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-run</artifactId>
   <versioning>
-    <latest>v1-rev20201012-1.30.10</latest>
-    <release>v1-rev20201012-1.30.10</release>
+    <latest>v1-rev20201030-1.30.10</latest>
+    <release>v1-rev20201030-1.30.10</release>
     <versions>
       <version>v1alpha1-rev1-1.18.0-rc</version>
       <version>v1alpha1-rev1-1.22.0</version>
@@ -135,6 +135,7 @@
       <version>v1alpha1-rev20200706-1.30.10</version>
       <version>v1alpha1-rev20200720-1.30.10</version>
       <version>v1alpha1-rev20200814-1.30.10</version>
+      <version>v1alpha1-rev20201030-1.30.10</version>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.25.0</version>
       <version>v1beta1-rev12-1.18.0-rc</version>
@@ -272,7 +273,8 @@
       <version>v1-rev20200918-1.30.10</version>
       <version>v1-rev20201002-1.30.10</version>
       <version>v1-rev20201012-1.30.10</version>
+      <version>v1-rev20201030-1.30.10</version>
     </versions>
-    <lastUpdated>20201017200717</lastUpdated>
+    <lastUpdated>20201107211805</lastUpdated>
   </versioning>
 </metadata>
