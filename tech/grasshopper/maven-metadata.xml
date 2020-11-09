@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>cucumber-pdf-plugin</name>
+      <prefix>cucumber-pdf</prefix>
+      <artifactId>cucumber-pdf-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>extentreports-cucumberjson-plugin</name>
       <prefix>extentreports-cucumberjson</prefix>
       <artifactId>extentreports-cucumberjson-plugin</artifactId>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Installer Maven Plugin</name>
+      <prefix>installer</prefix>
+      <artifactId>installer-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

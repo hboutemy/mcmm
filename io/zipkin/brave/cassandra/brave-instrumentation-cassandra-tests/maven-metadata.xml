@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave.cassandra</groupId>
   <artifactId>brave-instrumentation-cassandra-tests</artifactId>
   <versioning>
-    <latest>0.10.3</latest>
-    <release>0.10.3</release>
+    <latest>0.10.5</latest>
+    <release>0.10.5</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -21,7 +21,8 @@
       <version>0.10.1</version>
       <version>0.10.2</version>
       <version>0.10.3</version>
+      <version>0.10.5</version>
     </versions>
-    <lastUpdated>20190616022259</lastUpdated>
+    <lastUpdated>20201108105930</lastUpdated>
   </versioning>
 </metadata>
