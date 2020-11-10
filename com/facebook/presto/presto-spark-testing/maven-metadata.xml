@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-spark-testing</artifactId>
   <versioning>
-    <latest>0.243</latest>
-    <release>0.243</release>
+    <latest>0.243.1</latest>
+    <release>0.243.1</release>
     <versions>
       <version>0.232</version>
       <version>0.233</version>
@@ -33,7 +33,8 @@
       <version>0.242</version>
       <version>0.242.1</version>
       <version>0.243</version>
+      <version>0.243.1</version>
     </versions>
-    <lastUpdated>20201104224933</lastUpdated>
+    <lastUpdated>20201109233407</lastUpdated>
   </versioning>
 </metadata>

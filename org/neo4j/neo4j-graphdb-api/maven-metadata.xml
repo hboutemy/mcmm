@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-graphdb-api</artifactId>
   <versioning>
-    <latest>4.1.3</latest>
-    <release>4.1.3</release>
+    <latest>4.1.4</latest>
+    <release>4.1.4</release>
     <versions>
       <version>3.0.0-M03</version>
       <version>3.0.0-M04</version>
@@ -176,7 +176,8 @@
       <version>4.1.1</version>
       <version>4.1.2</version>
       <version>4.1.3</version>
+      <version>4.1.4</version>
     </versions>
-    <lastUpdated>20201029120822</lastUpdated>
+    <lastUpdated>20201109161921</lastUpdated>
   </versioning>
 </metadata>

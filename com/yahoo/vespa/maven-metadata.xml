@@ -16,7 +16,7 @@
       <artifactId>bundle-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Vespa ConfigGen Plugin</name>
+      <name>config-class-plugin (Vespa ConfigGen Plugin)</name>
       <prefix>config-class</prefix>
       <artifactId>config-class-plugin</artifactId>
     </plugin>
