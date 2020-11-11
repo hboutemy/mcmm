@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>ehcache</artifactId>
   <versioning>
-    <latest>1.0.20.1-jre15</latest>
-    <release>1.0.20.1-jre15</release>
+    <latest>1.0.20.2-jre15</latest>
+    <release>1.0.20.2-jre15</release>
     <versions>
       <version>1.0.13.3</version>
       <version>1.0.13.3-jre14</version>
@@ -119,7 +119,11 @@
       <version>1.0.20.1-jre8</version>
       <version>1.0.20.1-jre14</version>
       <version>1.0.20.1-jre15</version>
+      <version>1.0.20.2</version>
+      <version>1.0.20.2-jre8</version>
+      <version>1.0.20.2-jre14</version>
+      <version>1.0.20.2-jre15</version>
     </versions>
-    <lastUpdated>20201106012210</lastUpdated>
+    <lastUpdated>20201110072618</lastUpdated>
   </versioning>
 </metadata>

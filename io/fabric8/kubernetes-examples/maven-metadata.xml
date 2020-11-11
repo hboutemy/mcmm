@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-examples</artifactId>
   <versioning>
-    <latest>4.12.0</latest>
-    <release>4.12.0</release>
+    <latest>4.13.0</latest>
+    <release>4.13.0</release>
     <versions>
       <version>1.0.81</version>
       <version>1.0.82</version>
@@ -203,7 +203,8 @@
       <version>4.11.0</version>
       <version>4.11.1</version>
       <version>4.12.0</version>
+      <version>4.13.0</version>
     </versions>
-    <lastUpdated>20201002093055</lastUpdated>
+    <lastUpdated>20201110124010</lastUpdated>
   </versioning>
 </metadata>
