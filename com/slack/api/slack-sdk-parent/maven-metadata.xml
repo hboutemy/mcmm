@@ -3,8 +3,8 @@
   <groupId>com.slack.api</groupId>
   <artifactId>slack-sdk-parent</artifactId>
   <versioning>
-    <latest>1.2.1</latest>
-    <release>1.2.1</release>
+    <latest>1.3.0-RC3</latest>
+    <release>1.3.0-RC3</release>
     <versions>
       <version>0.99.0</version>
       <version>0.99.1</version>
@@ -41,7 +41,10 @@
       <version>1.2.0-RC2</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
+      <version>1.3.0-RC1</version>
+      <version>1.3.0-RC2</version>
+      <version>1.3.0-RC3</version>
     </versions>
-    <lastUpdated>20201009091920</lastUpdated>
+    <lastUpdated>20201113060210</lastUpdated>
   </versioning>
 </metadata>
