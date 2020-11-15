@@ -22,6 +22,11 @@
       <artifactId>git-tag-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>License Compliance Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Process execution maven plugin</name>
       <prefix>process-exec</prefix>
       <artifactId>process-exec-maven-plugin</artifactId>
