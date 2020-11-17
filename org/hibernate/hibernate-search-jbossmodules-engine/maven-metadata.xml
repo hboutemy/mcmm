@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-jbossmodules-engine</artifactId>
   <versioning>
-    <latest>5.11.5.Final</latest>
-    <release>5.11.5.Final</release>
+    <latest>5.11.6.Final</latest>
+    <release>5.11.6.Final</release>
     <versions>
       <version>5.9.0.Final</version>
       <version>5.9.1.Final</version>
@@ -30,7 +30,8 @@
       <version>5.11.3.Final</version>
       <version>5.11.4.Final</version>
       <version>5.11.5.Final</version>
+      <version>5.11.6.Final</version>
     </versions>
-    <lastUpdated>20200218134639</lastUpdated>
+    <lastUpdated>20201116134852</lastUpdated>
   </versioning>
 </metadata>
