@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>guice-persist</artifactId>
   <versioning>
-    <latest>1.1.0.3-jre15</latest>
-    <release>1.1.0.3-jre15</release>
+    <latest>1.1.0.4-jre8</latest>
+    <release>1.1.0.4-jre8</release>
     <versions>
       <version>1.0.14.0-RC1-jre8</version>
       <version>1.0.14.0-RC1-jre14</version>
@@ -120,8 +120,12 @@
       <version>1.1.0.2</version>
       <version>1.1.0.2-jre14</version>
       <version>1.1.0.2-jre15</version>
+      <version>1.1.0.3</version>
+      <version>1.1.0.3-jre8</version>
+      <version>1.1.0.3-jre14</version>
       <version>1.1.0.3-jre15</version>
+      <version>1.1.0.4-jre8</version>
     </versions>
-    <lastUpdated>20201116215239</lastUpdated>
+    <lastUpdated>20201117200444</lastUpdated>
   </versioning>
 </metadata>
