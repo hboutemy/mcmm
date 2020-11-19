@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-infinispan</artifactId>
   <versioning>
-    <latest>5.11.6.Final</latest>
-    <release>5.11.6.Final</release>
+    <latest>5.11.7.Final</latest>
+    <release>5.11.7.Final</release>
     <versions>
       <version>3.3.0.Final</version>
       <version>3.4.0.CR1</version>
@@ -140,6 +140,7 @@
       <version>5.10.7.Final</version>
       <version>5.10.8.Final</version>
       <version>5.10.9.Final</version>
+      <version>5.10.10.Final</version>
       <version>5.11.0.CR1</version>
       <version>5.11.0.Final</version>
       <version>5.11.1.Final</version>
@@ -148,7 +149,8 @@
       <version>5.11.4.Final</version>
       <version>5.11.5.Final</version>
       <version>5.11.6.Final</version>
+      <version>5.11.7.Final</version>
     </versions>
-    <lastUpdated>20201116134849</lastUpdated>
+    <lastUpdated>20201118175506</lastUpdated>
   </versioning>
 </metadata>

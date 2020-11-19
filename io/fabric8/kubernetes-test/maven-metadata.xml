@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-test</artifactId>
   <versioning>
-    <latest>4.13.0</latest>
-    <release>4.13.0</release>
+    <latest>5.0.0-alpha-1</latest>
+    <release>5.0.0-alpha-1</release>
     <versions>
       <version>1.0.81</version>
       <version>1.0.82</version>
@@ -139,7 +139,8 @@
       <version>4.11.1</version>
       <version>4.12.0</version>
       <version>4.13.0</version>
+      <version>5.0.0-alpha-1</version>
     </versions>
-    <lastUpdated>20201110124046</lastUpdated>
+    <lastUpdated>20201118073242</lastUpdated>
   </versioning>
 </metadata>

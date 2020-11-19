@@ -3,12 +3,13 @@
   <groupId>com.lightbend.cloudflow</groupId>
   <artifactId>cloudflow-akka_2.12</artifactId>
   <versioning>
-    <latest>2.0.15-NIGHTLY-01</latest>
-    <release>2.0.15-NIGHTLY-01</release>
+    <latest>2.0.18</latest>
+    <release>2.0.18</release>
     <versions>
       <version>0.0.0-NIGHTLY12112020</version>
       <version>0.0.0-NIGHTLY13112020</version>
       <version>0.0.0-NIGHTLY17112020</version>
+      <version>0.0.0-NIGHTLY18112020</version>
       <version>0.0.0.1-release</version>
       <version>0.0.1-RC-TEST-RELEASE</version>
       <version>0.0.1-RC-TEST-RELEASE2</version>
@@ -148,7 +149,9 @@
       <version>2.0.15-CF-5</version>
       <version>2.0.15-CF-7</version>
       <version>2.0.15-NIGHTLY-01</version>
+      <version>2.0.16</version>
+      <version>2.0.18</version>
     </versions>
-    <lastUpdated>20201117190507</lastUpdated>
+    <lastUpdated>20201118144200</lastUpdated>
   </versioning>
 </metadata>
