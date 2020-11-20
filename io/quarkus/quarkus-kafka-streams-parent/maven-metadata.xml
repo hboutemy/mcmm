@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-kafka-streams-parent</artifactId>
   <versioning>
-    <latest>1.10.0.CR1</latest>
-    <release>1.10.0.CR1</release>
+    <latest>1.10.0.Final</latest>
+    <release>1.10.0.Final</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -73,7 +73,8 @@
       <version>1.9.1.Final</version>
       <version>1.9.2.Final</version>
       <version>1.10.0.CR1</version>
+      <version>1.10.0.Final</version>
     </versions>
-    <lastUpdated>20201111000211</lastUpdated>
+    <lastUpdated>20201119102856</lastUpdated>
   </versioning>
 </metadata>

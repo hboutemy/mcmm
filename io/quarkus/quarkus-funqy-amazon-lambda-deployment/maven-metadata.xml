@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-funqy-amazon-lambda-deployment</artifactId>
   <versioning>
-    <latest>1.10.0.CR1</latest>
-    <release>1.10.0.CR1</release>
+    <latest>1.10.0.Final</latest>
+    <release>1.10.0.Final</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -35,7 +35,8 @@
       <version>1.9.1.Final</version>
       <version>1.9.2.Final</version>
       <version>1.10.0.CR1</version>
+      <version>1.10.0.Final</version>
     </versions>
-    <lastUpdated>20201110235926</lastUpdated>
+    <lastUpdated>20201119102626</lastUpdated>
   </versioning>
 </metadata>

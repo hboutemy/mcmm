@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>integration-test-rabbitmq Maven Plugin</name>
+      <prefix>integration-test-rabbitmq</prefix>
+      <artifactId>integration-test-rabbitmq</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
