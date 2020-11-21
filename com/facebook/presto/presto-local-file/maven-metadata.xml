@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-local-file</artifactId>
   <versioning>
-    <latest>0.243.2</latest>
-    <release>0.243.2</release>
+    <latest>0.243.3</latest>
+    <release>0.243.3</release>
     <versions>
       <version>0.147</version>
       <version>0.148</version>
@@ -126,7 +126,8 @@
       <version>0.243</version>
       <version>0.243.1</version>
       <version>0.243.2</version>
+      <version>0.243.3</version>
     </versions>
-    <lastUpdated>20201111230634</lastUpdated>
+    <lastUpdated>20201120070422</lastUpdated>
   </versioning>
 </metadata>

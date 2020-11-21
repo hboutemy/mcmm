@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-binaryauthorization</artifactId>
   <versioning>
-    <latest>v1-rev20201030-1.30.10</latest>
-    <release>v1-rev20201030-1.30.10</release>
+    <latest>v1-rev20201113-1.30.10</latest>
+    <release>v1-rev20201113-1.30.10</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.22.0</version>
@@ -229,6 +229,7 @@
       <version>v1beta1-rev20200918-1.30.10</version>
       <version>v1beta1-rev20201016-1.30.10</version>
       <version>v1beta1-rev20201030-1.30.10</version>
+      <version>v1beta1-rev20201113-1.30.10</version>
       <version>v1-rev8-1.18.0-rc</version>
       <version>v1-rev8-1.25.0</version>
       <version>v1-rev9-1.18.0-rc</version>
@@ -284,7 +285,8 @@
       <version>v1-rev20200918-1.30.10</version>
       <version>v1-rev20201016-1.30.10</version>
       <version>v1-rev20201030-1.30.10</version>
+      <version>v1-rev20201113-1.30.10</version>
     </versions>
-    <lastUpdated>20201106210918</lastUpdated>
+    <lastUpdated>20201120211225</lastUpdated>
   </versioning>
 </metadata>
