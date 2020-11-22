@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo-core_2.13</artifactId>
   <versioning>
-    <latest>1.0.0-noshaded</latest>
-    <release>1.0.0-noshaded</release>
+    <latest>1.0.1-noshaded</latest>
+    <release>1.0.1-noshaded</release>
     <versions>
       <version>0.19.0</version>
       <version>0.19.1</version>
@@ -44,7 +44,9 @@
       <version>1.0.0-noshaded-rc.2</version>
       <version>1.0.0-noshaded-rc.3</version>
       <version>1.0.0-noshaded</version>
+      <version>1.0.1</version>
+      <version>1.0.1-noshaded</version>
     </versions>
-    <lastUpdated>20201101174513</lastUpdated>
+    <lastUpdated>20201121140516</lastUpdated>
   </versioning>
 </metadata>
