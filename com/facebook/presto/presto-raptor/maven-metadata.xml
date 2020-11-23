@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-raptor</artifactId>
   <versioning>
-    <latest>0.243.3</latest>
-    <release>0.243.3</release>
+    <latest>0.244</latest>
+    <release>0.244</release>
     <versions>
       <version>0.69</version>
       <version>0.70</version>
@@ -210,7 +210,8 @@
       <version>0.243.1</version>
       <version>0.243.2</version>
       <version>0.243.3</version>
+      <version>0.244</version>
     </versions>
-    <lastUpdated>20201120070503</lastUpdated>
+    <lastUpdated>20201122060623</lastUpdated>
   </versioning>
 </metadata>
