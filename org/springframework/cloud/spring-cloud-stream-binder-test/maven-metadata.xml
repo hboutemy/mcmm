@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-binder-test</artifactId>
   <versioning>
-    <latest>3.0.9.RELEASE</latest>
-    <release>3.0.9.RELEASE</release>
+    <latest>3.0.10.RELEASE</latest>
+    <release>3.0.10.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -42,7 +42,8 @@
       <version>3.0.7.RELEASE</version>
       <version>3.0.8.RELEASE</version>
       <version>3.0.9.RELEASE</version>
+      <version>3.0.10.RELEASE</version>
     </versions>
-    <lastUpdated>20201106142638</lastUpdated>
+    <lastUpdated>20201123141940</lastUpdated>
   </versioning>
 </metadata>

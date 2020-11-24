@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-parent-public</artifactId>
   <versioning>
-    <latest>6.0.0.CR1</latest>
-    <release>6.0.0.CR1</release>
+    <latest>6.0.0.CR2</latest>
+    <release>6.0.0.CR2</release>
     <versions>
       <version>6.0.0.Beta5</version>
       <version>6.0.0.Beta6</version>
@@ -14,7 +14,8 @@
       <version>6.0.0.Beta10</version>
       <version>6.0.0.Beta11</version>
       <version>6.0.0.CR1</version>
+      <version>6.0.0.CR2</version>
     </versions>
-    <lastUpdated>20201103105809</lastUpdated>
+    <lastUpdated>20201123142015</lastUpdated>
   </versioning>
 </metadata>

@@ -17,6 +17,11 @@
       <artifactId>maven-woof-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>OfficeFloor AppEngine Maven Plugin</name>
+      <prefix>officefloor-appengine</prefix>
+      <artifactId>officefloor-appengine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven OfficeFloor Plugin</name>
       <prefix>officefloor</prefix>
       <artifactId>officefloor-maven-plugin</artifactId>
