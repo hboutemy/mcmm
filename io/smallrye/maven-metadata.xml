@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>power-jandex</prefix>
+      <artifactId>power-jandex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>SmallRye: GraphQL Tools :: Maven</name>
       <prefix>smallrye-graphql</prefix>
       <artifactId>smallrye-graphql-maven-plugin</artifactId>

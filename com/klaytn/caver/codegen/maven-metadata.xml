@@ -3,8 +3,8 @@
   <groupId>com.klaytn.caver</groupId>
   <artifactId>codegen</artifactId>
   <versioning>
-    <latest>1.5.5-rc.3-android</latest>
-    <release>1.5.5-rc.3-android</release>
+    <latest>1.5.5-android</latest>
+    <release>1.5.5-android</release>
     <versions>
       <version>0.9.5</version>
       <version>1.0.0</version>
@@ -65,7 +65,9 @@
       <version>1.5.5-rc.1-android</version>
       <version>1.5.5-rc.3</version>
       <version>1.5.5-rc.3-android</version>
+      <version>1.5.5</version>
+      <version>1.5.5-android</version>
     </versions>
-    <lastUpdated>20201124001532</lastUpdated>
+    <lastUpdated>20201125000742</lastUpdated>
   </versioning>
 </metadata>

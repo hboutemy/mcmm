@@ -3,8 +3,8 @@
   <groupId>com.atlassian.oai</groupId>
   <artifactId>swagger-request-validator-springmvc</artifactId>
   <versioning>
-    <latest>2.11.0</latest>
-    <release>2.11.0</release>
+    <latest>2.11.1</latest>
+    <release>2.11.1</release>
     <versions>
       <version>1.3.3</version>
       <version>1.3.7</version>
@@ -57,6 +57,7 @@
       <version>2.10.2</version>
       <version>2.10.3</version>
       <version>2.11.0</version>
+      <version>2.11.1</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
       <version>1.2.3</version>
@@ -65,6 +66,6 @@
       <version>1.3.1</version>
       <version>1.3.2</version>
     </versions>
-    <lastUpdated>20200802235430</lastUpdated>
+    <lastUpdated>20201125224916</lastUpdated>
   </versioning>
 </metadata>

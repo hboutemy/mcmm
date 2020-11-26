@@ -22,6 +22,11 @@
       <artifactId>happy-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>kuuty-maven-plugin</name>
+      <prefix>kuuty</prefix>
+      <artifactId>kuuty-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>shifty-maven-plugin-1</name>
       <prefix>shifty</prefix>
       <artifactId>shifty-maven-plugin</artifactId>

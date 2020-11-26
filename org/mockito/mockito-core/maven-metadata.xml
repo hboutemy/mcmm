@@ -3,8 +3,8 @@
   <groupId>org.mockito</groupId>
   <artifactId>mockito-core</artifactId>
   <versioning>
-    <latest>3.6.0</latest>
-    <release>3.6.0</release>
+    <latest>3.6.28</latest>
+    <release>3.6.28</release>
     <versions>
       <version>1.3</version>
       <version>1.5</version>
@@ -289,6 +289,7 @@
       <version>3.5.13</version>
       <version>3.5.15</version>
       <version>3.6.0</version>
+      <version>3.6.28</version>
       <version>2.0.14-beta</version>
       <version>2.0.15-beta</version>
       <version>2.0.16-beta</version>
@@ -297,6 +298,6 @@
       <version>2.0.19-beta</version>
       <version>2.0.20-beta</version>
     </versions>
-    <lastUpdated>20201027022919</lastUpdated>
+    <lastUpdated>20201125043359</lastUpdated>
   </versioning>
 </metadata>
