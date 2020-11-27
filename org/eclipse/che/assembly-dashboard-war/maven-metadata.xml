@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che</groupId>
   <artifactId>assembly-dashboard-war</artifactId>
   <versioning>
-    <latest>7.22.0</latest>
-    <release>7.22.0</release>
+    <latest>7.22.1</latest>
+    <release>7.22.1</release>
     <versions>
       <version>7.11.0</version>
       <version>7.12.0</version>
@@ -38,7 +38,8 @@
       <version>7.21.1</version>
       <version>7.21.2</version>
       <version>7.22.0</version>
+      <version>7.22.1</version>
     </versions>
-    <lastUpdated>20201119192813</lastUpdated>
+    <lastUpdated>20201126161550</lastUpdated>
   </versioning>
 </metadata>

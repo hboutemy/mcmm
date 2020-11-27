@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.handlers.security.stub</artifactId>
   <versioning>
-    <latest>6.8.100</latest>
-    <release>6.8.100</release>
+    <latest>6.8.102</latest>
+    <release>6.8.102</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -1582,7 +1582,9 @@
       <version>6.8.98</version>
       <version>6.8.99</version>
       <version>6.8.100</version>
+      <version>6.8.101</version>
+      <version>6.8.102</version>
     </versions>
-    <lastUpdated>20201125130142</lastUpdated>
+    <lastUpdated>20201126133949</lastUpdated>
   </versioning>
 </metadata>
