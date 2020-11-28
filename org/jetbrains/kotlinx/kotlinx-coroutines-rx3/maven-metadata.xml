@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-rx3</artifactId>
   <versioning>
-    <latest>1.4.2</latest>
-    <release>1.4.2</release>
+    <latest>1.4.2-native-mt</latest>
+    <release>1.4.2-native-mt</release>
     <versions>
       <version>1.3.6</version>
       <version>1.3.7</version>
@@ -20,7 +20,8 @@
       <version>1.4.1</version>
       <version>1.4.1-native-mt</version>
       <version>1.4.2</version>
+      <version>1.4.2-native-mt</version>
     </versions>
-    <lastUpdated>20201126172310</lastUpdated>
+    <lastUpdated>20201127135542</lastUpdated>
   </versioning>
 </metadata>
