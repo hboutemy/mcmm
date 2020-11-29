@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Binary Compatibility Enforcer Plugin</name>
+      <prefix>binary-compatibility-enforcer</prefix>
+      <artifactId>binary-compatibility-enforcer-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JPSG Maven plugin</name>
       <prefix>jpsg</prefix>
       <artifactId>jpsg-maven-plugin</artifactId>
