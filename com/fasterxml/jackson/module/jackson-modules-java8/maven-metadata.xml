@@ -3,8 +3,8 @@
   <groupId>com.fasterxml.jackson.module</groupId>
   <artifactId>jackson-modules-java8</artifactId>
   <versioning>
-    <latest>2.12.0-rc2</latest>
-    <release>2.12.0-rc2</release>
+    <latest>2.12.0</latest>
+    <release>2.12.0</release>
     <versions>
       <version>2.8.5</version>
       <version>2.8.6</version>
@@ -44,7 +44,8 @@
       <version>2.11.3</version>
       <version>2.12.0-rc1</version>
       <version>2.12.0-rc2</version>
+      <version>2.12.0</version>
     </versions>
-    <lastUpdated>20201115034220</lastUpdated>
+    <lastUpdated>20201129013555</lastUpdated>
   </versioning>
 </metadata>
