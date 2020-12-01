@@ -22,6 +22,11 @@
       <artifactId>bill-of-materials-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Dockerbuild Plugin</name>
+      <prefix>dockerbuild</prefix>
+      <artifactId>dockerbuild</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Prerelease Plugin</name>
       <prefix>prerelease</prefix>
       <artifactId>prerelease</artifactId>

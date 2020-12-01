@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-marshaller-kryo</artifactId>
   <versioning>
-    <latest>12.0.0.Dev06</latest>
-    <release>12.0.0.Dev06</release>
+    <latest>12.0.0.Dev07</latest>
+    <release>12.0.0.Dev07</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -116,14 +116,17 @@
       <version>11.0.3.Final</version>
       <version>11.0.4.Final</version>
       <version>11.0.5.Final</version>
+      <version>11.0.6.Final</version>
+      <version>11.0.7.Final</version>
       <version>12.0.0.Dev01</version>
       <version>12.0.0.Dev02</version>
       <version>12.0.0.Dev03</version>
       <version>12.0.0.Dev04</version>
       <version>12.0.0.Dev05</version>
       <version>12.0.0.Dev06</version>
+      <version>12.0.0.Dev07</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20201124180821</lastUpdated>
+    <lastUpdated>20201130104359</lastUpdated>
   </versioning>
 </metadata>
