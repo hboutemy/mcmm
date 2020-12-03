@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-cloud-bigtable-v2</artifactId>
   <versioning>
-    <latest>1.18.0</latest>
-    <release>1.18.0</release>
+    <latest>1.18.1</latest>
+    <release>1.18.1</release>
     <versions>
       <version>0.1.20</version>
       <version>0.1.22</version>
@@ -119,7 +119,8 @@
       <version>1.17.2</version>
       <version>1.17.3</version>
       <version>1.18.0</version>
+      <version>1.18.1</version>
     </versions>
-    <lastUpdated>20201116181908</lastUpdated>
+    <lastUpdated>20201202193406</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>diameter</prefix>
       <artifactId>diameter-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Gtp Codegen</name>
+      <prefix>gtp</prefix>
+      <artifactId>gtp-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
