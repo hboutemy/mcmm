@@ -11,5 +11,10 @@
       <prefix>odata-v4-generator</prefix>
       <artifactId>odata-v4-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Data Model - REST Services - Generator Maven Plugin (Beta)</name>
+      <prefix>rest-generator</prefix>
+      <artifactId>rest-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

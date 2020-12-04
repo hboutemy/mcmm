@@ -3,8 +3,8 @@
   <groupId>org.jbehave</groupId>
   <artifactId>jbehave-pico-archetype</artifactId>
   <versioning>
-    <latest>4.7</latest>
-    <release>4.7</release>
+    <latest>4.8</latest>
+    <release>4.8</release>
     <versions>
       <version>3.10</version>
       <version>4.0</version>
@@ -41,6 +41,7 @@
       <version>4.6.2</version>
       <version>4.6.3</version>
       <version>4.7</version>
+      <version>4.8</version>
       <version>3.4</version>
       <version>3.4-beta-4</version>
       <version>3.4.1</version>
@@ -99,6 +100,6 @@
       <version>4.0-beta-8</version>
       <version>4.0-beta-9</version>
     </versions>
-    <lastUpdated>20200827103456</lastUpdated>
+    <lastUpdated>20201203132023</lastUpdated>
   </versioning>
 </metadata>
