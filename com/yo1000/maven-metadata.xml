@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>newrelic-instrumentation-maven-plugin</name>
+      <prefix>newrelic-instrumentation</prefix>
+      <artifactId>newrelic-instrumentation-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

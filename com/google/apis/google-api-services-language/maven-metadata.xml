@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-language</artifactId>
   <versioning>
-    <latest>v1-rev20200801-1.30.10</latest>
-    <release>v1-rev20200801-1.30.10</release>
+    <latest>v1-rev20200801-1.31.0</latest>
+    <release>v1-rev20200801-1.31.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -519,6 +519,7 @@
       <version>v1beta1-rev20200406-1.30.9</version>
       <version>v1beta1-rev20200406-1.30.10</version>
       <version>v1beta1-rev20200801-1.30.10</version>
+      <version>v1beta1-rev20200801-1.31.0</version>
       <version>v1beta2-rev1-1.18.0-rc</version>
       <version>v1beta2-rev1-1.20.0</version>
       <version>v1beta2-rev1-1.21.0</version>
@@ -925,6 +926,7 @@
       <version>v1beta2-rev20200406-1.30.9</version>
       <version>v1beta2-rev20200406-1.30.10</version>
       <version>v1beta2-rev20200801-1.30.10</version>
+      <version>v1beta2-rev20200801-1.31.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -1384,7 +1386,8 @@
       <version>v1-rev20200406-1.30.9</version>
       <version>v1-rev20200406-1.30.10</version>
       <version>v1-rev20200801-1.30.10</version>
+      <version>v1-rev20200801-1.31.0</version>
     </versions>
-    <lastUpdated>20200804203522</lastUpdated>
+    <lastUpdated>20201204004046</lastUpdated>
   </versioning>
 </metadata>
