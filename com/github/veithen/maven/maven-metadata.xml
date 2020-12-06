@@ -14,6 +14,10 @@
       <artifactId>jacoco-report-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>resolver-proxy</prefix>
+      <artifactId>resolver-proxy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>wsimport</prefix>
       <artifactId>wsimport-maven-plugin</artifactId>
     </plugin>

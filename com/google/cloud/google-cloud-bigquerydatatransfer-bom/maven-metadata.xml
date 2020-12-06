@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigquerydatatransfer-bom</artifactId>
   <versioning>
-    <latest>1.0.20</latest>
-    <release>1.0.20</release>
+    <latest>1.0.21</latest>
+    <release>1.0.21</release>
     <versions>
       <version>0.121.0-beta</version>
       <version>0.122.0-beta</version>
@@ -38,7 +38,8 @@
       <version>1.0.18</version>
       <version>1.0.19</version>
       <version>1.0.20</version>
+      <version>1.0.21</version>
     </versions>
-    <lastUpdated>20201120164215</lastUpdated>
+    <lastUpdated>20201205012453</lastUpdated>
   </versioning>
 </metadata>
