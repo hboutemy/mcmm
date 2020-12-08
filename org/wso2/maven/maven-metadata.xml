@@ -211,6 +211,11 @@
       <artifactId>wso2-esb-messagestore-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Metadata Plugin</name>
+      <prefix>wso2-esb-metadata</prefix>
+      <artifactId>wso2-esb-metadata-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Proxy Plugin</name>
       <prefix>wso2-esb-proxy</prefix>
       <artifactId>wso2-esb-proxy-plugin</artifactId>
