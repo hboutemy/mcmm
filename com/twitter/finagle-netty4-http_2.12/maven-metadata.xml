@@ -3,8 +3,8 @@
   <groupId>com.twitter</groupId>
   <artifactId>finagle-netty4-http_2.12</artifactId>
   <versioning>
-    <latest>20.10.0</latest>
-    <release>20.10.0</release>
+    <latest>20.12.0</latest>
+    <release>20.12.0</release>
     <versions>
       <version>6.41.0</version>
       <version>6.42.0</version>
@@ -53,7 +53,8 @@
       <version>20.8.1</version>
       <version>20.9.0</version>
       <version>20.10.0</version>
+      <version>20.12.0</version>
     </versions>
-    <lastUpdated>20201027202034</lastUpdated>
+    <lastUpdated>20201210205648</lastUpdated>
   </versioning>
 </metadata>

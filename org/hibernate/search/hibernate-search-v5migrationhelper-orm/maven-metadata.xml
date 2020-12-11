@@ -3,13 +3,14 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-v5migrationhelper-orm</artifactId>
   <versioning>
-    <latest>6.0.0.CR2</latest>
-    <release>6.0.0.CR2</release>
+    <latest>6.0.0.Final</latest>
+    <release>6.0.0.Final</release>
     <versions>
       <version>6.0.0.Beta11</version>
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
+      <version>6.0.0.Final</version>
     </versions>
-    <lastUpdated>20201123142017</lastUpdated>
+    <lastUpdated>20201210084133</lastUpdated>
   </versioning>
 </metadata>
