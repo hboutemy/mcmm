@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Spring Boot Maven Plugin</name>
+      <name>spring-boot-maven-plugin</name>
       <prefix>spring-boot</prefix>
       <artifactId>spring-boot-maven-plugin</artifactId>
     </plugin>
