@@ -4,7 +4,7 @@
     <plugin>
       <name>Localizer generator</name>
       <prefix>localizer</prefix>
-      <artifactId>maven-localizer-plugin</artifactId>
+      <artifactId>localizer-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
