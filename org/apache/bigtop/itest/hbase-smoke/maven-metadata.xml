@@ -3,8 +3,8 @@
   <groupId>org.apache.bigtop.itest</groupId>
   <artifactId>hbase-smoke</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.5.0</latest>
+    <release>1.5.0</release>
     <versions>
       <version>0.2.0-incubating</version>
       <version>0.3.0-incubating</version>
@@ -19,7 +19,8 @@
       <version>1.2.1</version>
       <version>1.3.0</version>
       <version>1.4.0</version>
+      <version>1.5.0</version>
     </versions>
-    <lastUpdated>20190615041748</lastUpdated>
+    <lastUpdated>20201215085434</lastUpdated>
   </versioning>
 </metadata>

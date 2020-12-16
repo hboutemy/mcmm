@@ -14,5 +14,18 @@
       <prefix>spring-cloud-contract</prefix>
       <artifactId>spring-cloud-contract-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>spring-cloud-dataflow-apps-docs</prefix>
+      <artifactId>spring-cloud-dataflow-apps-docs-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>spring-cloud-dataflow-apps-generator-plugin</name>
+      <prefix>spring-cloud-dataflow-apps-generator</prefix>
+      <artifactId>spring-cloud-dataflow-apps-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>spring-cloud-dataflow-apps-metadata</prefix>
+      <artifactId>spring-cloud-dataflow-apps-metadata-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

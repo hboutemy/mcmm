@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-amazon-dynamodb</artifactId>
   <versioning>
-    <latest>1.10.3.Final</latest>
-    <release>1.10.3.Final</release>
+    <latest>1.10.4.Final</latest>
+    <release>1.10.4.Final</release>
     <versions>
       <version>0.19.0</version>
       <version>0.19.1</version>
@@ -75,7 +75,8 @@
       <version>1.10.1.Final</version>
       <version>1.10.2.Final</version>
       <version>1.10.3.Final</version>
+      <version>1.10.4.Final</version>
     </versions>
-    <lastUpdated>20201207235733</lastUpdated>
+    <lastUpdated>20201215195220</lastUpdated>
   </versioning>
 </metadata>

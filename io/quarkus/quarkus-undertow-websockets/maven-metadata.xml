@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-undertow-websockets</artifactId>
   <versioning>
-    <latest>1.10.3.Final</latest>
-    <release>1.10.3.Final</release>
+    <latest>1.10.4.Final</latest>
+    <release>1.10.4.Final</release>
     <versions>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -87,7 +87,8 @@
       <version>1.10.1.Final</version>
       <version>1.10.2.Final</version>
       <version>1.10.3.Final</version>
+      <version>1.10.4.Final</version>
     </versions>
-    <lastUpdated>20201208000651</lastUpdated>
+    <lastUpdated>20201215200033</lastUpdated>
   </versioning>
 </metadata>

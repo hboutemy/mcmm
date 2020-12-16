@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-legacy-classloader-api</artifactId>
   <versioning>
-    <latest>12.10</latest>
-    <release>12.10</release>
+    <latest>12.10.1</latest>
+    <release>12.10.1</release>
     <versions>
       <version>12.5-rc-1</version>
       <version>12.5</version>
@@ -15,6 +15,7 @@
       <version>12.6.3</version>
       <version>12.6.4</version>
       <version>12.6.5</version>
+      <version>12.6.6</version>
       <version>12.7-rc-1</version>
       <version>12.7</version>
       <version>12.7.1</version>
@@ -23,7 +24,8 @@
       <version>12.9-rc-1</version>
       <version>12.9</version>
       <version>12.10</version>
+      <version>12.10.1</version>
     </versions>
-    <lastUpdated>20201124223605</lastUpdated>
+    <lastUpdated>20201215134900</lastUpdated>
   </versioning>
 </metadata>
