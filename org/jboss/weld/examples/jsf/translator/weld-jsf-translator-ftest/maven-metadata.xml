@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.examples.jsf.translator</groupId>
   <artifactId>weld-jsf-translator-ftest</artifactId>
   <versioning>
-    <latest>4.0.0.CR1</latest>
-    <release>4.0.0.CR1</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.1.5.AS71.Final</version>
       <version>1.1.6.Final</version>
@@ -161,7 +161,8 @@
       <version>4.0.0.Beta4</version>
       <version>4.0.0.Beta5</version>
       <version>4.0.0.CR1</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20201204191402</lastUpdated>
+    <lastUpdated>20201216150406</lastUpdated>
   </versioning>
 </metadata>

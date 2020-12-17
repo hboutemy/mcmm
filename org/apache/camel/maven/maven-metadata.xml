@@ -16,5 +16,10 @@
       <prefix>camel-servicenow</prefix>
       <artifactId>camel-servicenow-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Camel :: Vert.x :: Kafka :: Maven plugin</name>
+      <prefix>camel-vertx-kafka</prefix>
+      <artifactId>camel-vertx-kafka-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

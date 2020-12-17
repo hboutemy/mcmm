@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>spark-hpcc</artifactId>
   <versioning>
-    <latest>7.12.12-1</latest>
-    <release>7.12.12-1</release>
+    <latest>7.12.14-1</latest>
+    <release>7.12.14-1</release>
     <versions>
       <version>7.0.0-beta-1</version>
       <version>7.0.0-rc1</version>
@@ -135,7 +135,8 @@
       <version>7.12.8-1</version>
       <version>7.12.10-1</version>
       <version>7.12.12-1</version>
+      <version>7.12.14-1</version>
     </versions>
-    <lastUpdated>20201210131454</lastUpdated>
+    <lastUpdated>20201216132234</lastUpdated>
   </versioning>
 </metadata>

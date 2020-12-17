@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.mediation</groupId>
   <artifactId>org.wso2.carbon.mediation.clustering.feature</artifactId>
   <versioning>
-    <latest>4.7.61</latest>
-    <release>4.7.61</release>
+    <latest>4.7.63</latest>
+    <release>4.7.63</release>
     <versions>
       <version>4.6.26</version>
       <version>4.6.27</version>
@@ -145,7 +145,9 @@
       <version>4.7.59</version>
       <version>4.7.60</version>
       <version>4.7.61</version>
+      <version>4.7.62</version>
+      <version>4.7.63</version>
     </versions>
-    <lastUpdated>20200814123712</lastUpdated>
+    <lastUpdated>20201216210224</lastUpdated>
   </versioning>
 </metadata>

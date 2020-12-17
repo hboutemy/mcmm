@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-undertow-adapter</artifactId>
   <versioning>
-    <latest>11.0.3</latest>
-    <release>11.0.3</release>
+    <latest>12.0.0</latest>
+    <release>12.0.0</release>
     <versions>
       <version>1.0-alpha-1</version>
       <version>1.0-alpha-1-12062013</version>
@@ -121,8 +121,9 @@
       <version>11.0.1</version>
       <version>11.0.2</version>
       <version>11.0.3</version>
+      <version>12.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20201105140121</lastUpdated>
+    <lastUpdated>20201216150956</lastUpdated>
   </versioning>
 </metadata>

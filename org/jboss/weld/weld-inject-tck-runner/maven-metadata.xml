@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-inject-tck-runner</artifactId>
   <versioning>
-    <latest>4.0.0.CR1</latest>
-    <release>4.0.0.CR1</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.0.0-CR1</version>
       <version>1.0.0-CR1-SP1</version>
@@ -182,7 +182,8 @@
       <version>4.0.0.Beta4</version>
       <version>4.0.0.Beta5</version>
       <version>4.0.0.CR1</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20201204191442</lastUpdated>
+    <lastUpdated>20201216150431</lastUpdated>
   </versioning>
 </metadata>

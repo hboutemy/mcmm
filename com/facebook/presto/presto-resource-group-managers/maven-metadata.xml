@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-resource-group-managers</artifactId>
   <versioning>
-    <latest>0.244.1</latest>
-    <release>0.244.1</release>
+    <latest>0.245</latest>
+    <release>0.245</release>
     <versions>
       <version>0.153</version>
       <version>0.154</version>
@@ -121,7 +121,8 @@
       <version>0.243.4</version>
       <version>0.244</version>
       <version>0.244.1</version>
+      <version>0.245</version>
     </versions>
-    <lastUpdated>20201202060356</lastUpdated>
+    <lastUpdated>20201216024322</lastUpdated>
   </versioning>
 </metadata>

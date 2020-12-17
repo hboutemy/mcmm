@@ -27,6 +27,11 @@
       <artifactId>camel-connector-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: Catalog :: Camel Compiled Simple Maven Plugin</name>
+      <prefix>camel-csimple</prefix>
+      <artifactId>camel-csimple-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Maven Plugins :: Camel EIP Documentation Enricher Plugin</name>
       <prefix>camel-eip-documentation-enricher</prefix>
       <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
