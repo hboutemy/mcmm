@@ -7,6 +7,11 @@
       <artifactId>bulk-maven-repository-deploy-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>jenkins-dependency-plugin Maven Plugin</name>
+      <prefix>jenkins-dependency</prefix>
+      <artifactId>jenkins-dependency-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>springmvc-rest-docs</prefix>
       <artifactId>springmvc-rest-docs-maven-plugin</artifactId>
     </plugin>
