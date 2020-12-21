@@ -7,6 +7,11 @@
       <artifactId>jmeter-lightning-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Truststore Maven Plugin</name>
+      <prefix>truststore</prefix>
+      <artifactId>truststore-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>WireMock Maven Plugin</name>
       <prefix>wiremock</prefix>
       <artifactId>wiremock-maven-plugin</artifactId>
