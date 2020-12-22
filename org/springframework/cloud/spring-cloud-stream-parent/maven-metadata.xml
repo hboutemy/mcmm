@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-stream-parent</artifactId>
   <versioning>
-    <latest>3.0.10.RELEASE</latest>
-    <release>3.0.10.RELEASE</release>
+    <latest>3.1.0</latest>
+    <release>3.1.0</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -43,7 +43,8 @@
       <version>3.0.8.RELEASE</version>
       <version>3.0.9.RELEASE</version>
       <version>3.0.10.RELEASE</version>
+      <version>3.1.0</version>
     </versions>
-    <lastUpdated>20201123141942</lastUpdated>
+    <lastUpdated>20201221133858</lastUpdated>
   </versioning>
 </metadata>

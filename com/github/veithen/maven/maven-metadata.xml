@@ -6,12 +6,20 @@
       <artifactId>eclipse-settings-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>emf</prefix>
+      <artifactId>emf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>hermetic</prefix>
       <artifactId>hermetic-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <prefix>jacoco-report</prefix>
       <artifactId>jacoco-report-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>p2-publisher</prefix>
+      <artifactId>p2-publisher-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <prefix>resolver-proxy</prefix>
