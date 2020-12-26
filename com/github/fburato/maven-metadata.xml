@@ -17,7 +17,7 @@
       <artifactId>highwheel-modules-maven</artifactId>
     </plugin>
     <plugin>
-      <name>maven-plugin</name>
+      <name>parent</name>
       <prefix>highwheel-modules</prefix>
       <artifactId>highwheel-modules-maven-plugin</artifactId>
     </plugin>
