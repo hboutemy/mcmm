@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>primo-generator-mock-test</prefix>
+      <artifactId>primo-generator-mock-test-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>primo-generator-mybatis-plus</prefix>
+      <artifactId>primo-generator-mybatis-plus-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
