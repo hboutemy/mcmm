@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>cargo-core-container-glassfish</artifactId>
   <versioning>
-    <latest>1.8.3</latest>
-    <release>1.8.3</release>
+    <latest>1.8.4</latest>
+    <release>1.8.4</release>
     <versions>
       <version>1.4.14</version>
       <version>1.4.15</version>
@@ -47,6 +47,7 @@
       <version>1.8.1</version>
       <version>1.8.2</version>
       <version>1.8.3</version>
+      <version>1.8.4</version>
       <version>1.0</version>
       <version>1.0-alpha-6</version>
       <version>1.0.1</version>
@@ -86,6 +87,6 @@
       <version>1.4.8</version>
       <version>1.4.9</version>
     </versions>
-    <lastUpdated>20201215103444</lastUpdated>
+    <lastUpdated>20210102110739</lastUpdated>
   </versioning>
 </metadata>
