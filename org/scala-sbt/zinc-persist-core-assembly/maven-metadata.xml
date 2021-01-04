@@ -3,8 +3,8 @@
   <groupId>org.scala-sbt</groupId>
   <artifactId>zinc-persist-core-assembly</artifactId>
   <versioning>
-    <latest>1.5.0-M1</latest>
-    <release>1.5.0-M1</release>
+    <latest>1.5.0-M2</latest>
+    <release>1.5.0-M2</release>
     <versions>
       <version>1.4.0-M7</version>
       <version>1.4.0-M8</version>
@@ -19,7 +19,8 @@
       <version>1.4.3</version>
       <version>1.4.4</version>
       <version>1.5.0-M1</version>
+      <version>1.5.0-M2</version>
     </versions>
-    <lastUpdated>20201223175953</lastUpdated>
+    <lastUpdated>20210103070421</lastUpdated>
   </versioning>
 </metadata>
