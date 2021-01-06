@@ -4,7 +4,7 @@
   <artifactId>com.liferay.portal.search.solr</artifactId>
   <versioning>
     <latest>3.0.26</latest>
-    <release>2.0.77</release>
+    <release>2.0.81</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -83,6 +83,9 @@
       <version>2.0.73</version>
       <version>2.0.74</version>
       <version>2.0.75</version>
+      <version>2.0.76</version>
+      <version>2.0.77</version>
+      <version>2.0.78</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -110,12 +113,10 @@
       <version>3.0.24</version>
       <version>3.0.25</version>
       <version>3.0.26</version>
-      <version>2.0.76</version>
-      <version>2.0.77</version>
-      <version>2.0.78</version>
       <version>2.0.79</version>
       <version>2.0.80</version>
+      <version>2.0.81</version>
     </versions>
-    <lastUpdated>20201029013546</lastUpdated>
+    <lastUpdated>20201214073314</lastUpdated>
   </versioning>
 </metadata>

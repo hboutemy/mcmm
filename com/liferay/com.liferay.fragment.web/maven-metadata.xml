@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.fragment.web</artifactId>
   <versioning>
-    <latest>3.0.35</latest>
-    <release>3.0.37</release>
+    <latest>3.0.38</latest>
+    <release>3.0.42</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -74,6 +74,9 @@
       <version>1.0.65</version>
       <version>1.0.66</version>
       <version>1.0.67</version>
+      <version>1.0.68</version>
+      <version>1.0.69</version>
+      <version>1.0.70</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -132,6 +135,11 @@
       <version>2.0.55</version>
       <version>2.0.56</version>
       <version>2.0.57</version>
+      <version>2.0.58</version>
+      <version>2.0.59</version>
+      <version>2.0.60</version>
+      <version>2.0.61</version>
+      <version>2.0.62</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -168,23 +176,20 @@
       <version>3.0.33</version>
       <version>3.0.34</version>
       <version>3.0.35</version>
-      <version>2.0.58</version>
       <version>3.0.36</version>
-      <version>2.0.59</version>
-      <version>1.0.68</version>
-      <version>1.0.69</version>
-      <version>2.0.60</version>
       <version>3.0.37</version>
-      <version>1.0.70</version>
-      <version>1.0.71</version>
-      <version>2.0.61</version>
-      <version>2.0.62</version>
-      <version>2.0.63</version>
-      <version>2.0.64</version>
       <version>3.0.38</version>
+      <version>2.0.63</version>
       <version>3.0.39</version>
+      <version>1.0.71</version>
+      <version>2.0.64</version>
       <version>3.0.40</version>
+      <version>1.0.72</version>
+      <version>2.0.65</version>
+      <version>3.0.41</version>
+      <version>1.0.73</version>
+      <version>3.0.42</version>
     </versions>
-    <lastUpdated>20201022100420</lastUpdated>
+    <lastUpdated>20201226065441</lastUpdated>
   </versioning>
 </metadata>

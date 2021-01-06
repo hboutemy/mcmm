@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-backend-jms</artifactId>
   <versioning>
-    <latest>5.11.7.Final</latest>
-    <release>5.11.7.Final</release>
+    <latest>5.11.8.Final</latest>
+    <release>5.11.8.Final</release>
     <versions>
       <version>5.0.0.Alpha1</version>
       <version>5.0.0.Alpha2</version>
@@ -104,7 +104,8 @@
       <version>5.11.5.Final</version>
       <version>5.11.6.Final</version>
       <version>5.11.7.Final</version>
+      <version>5.11.8.Final</version>
     </versions>
-    <lastUpdated>20201118175505</lastUpdated>
+    <lastUpdated>20210105080724</lastUpdated>
   </versioning>
 </metadata>

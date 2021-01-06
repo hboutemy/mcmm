@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.template.soy.impl</artifactId>
   <versioning>
-    <latest>3.0.13</latest>
-    <release>3.0.16</release>
+    <latest>3.0.16</latest>
+    <release>1.0.35</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -37,6 +37,9 @@
       <version>1.0.28</version>
       <version>1.0.29</version>
       <version>1.0.30</version>
+      <version>1.0.31</version>
+      <version>1.0.32</version>
+      <version>1.0.33</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -74,6 +77,8 @@
       <version>2.0.34</version>
       <version>2.0.35</version>
       <version>2.0.36</version>
+      <version>2.0.37</version>
+      <version>2.0.38</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -90,13 +95,12 @@
       <version>3.0.13</version>
       <version>3.0.14</version>
       <version>3.0.15</version>
-      <version>1.0.31</version>
-      <version>2.0.37</version>
-      <version>1.0.32</version>
-      <version>2.0.38</version>
       <version>3.0.16</version>
-      <version>1.0.33</version>
+      <version>1.0.34</version>
+      <version>2.0.39</version>
+      <version>3.0.17</version>
+      <version>1.0.35</version>
     </versions>
-    <lastUpdated>20201022070510</lastUpdated>
+    <lastUpdated>20201225234257</lastUpdated>
   </versioning>
 </metadata>
