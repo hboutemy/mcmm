@@ -3,8 +3,8 @@
   <groupId>com.landawn</groupId>
   <artifactId>abacus-jdbc</artifactId>
   <versioning>
-    <latest>2.6.12</latest>
-    <release>2.6.12</release>
+    <latest>2.7.0</latest>
+    <release>2.7.0</release>
     <versions>
       <version>0.9</version>
       <version>0.9.1</version>
@@ -90,6 +90,7 @@
       <version>1.21.10</version>
       <version>1.21.11</version>
       <version>1.21.12</version>
+      <version>1.22.0</version>
       <version>2.0</version>
       <version>2.1</version>
       <version>2.2</version>
@@ -121,8 +122,9 @@
       <version>2.6.10</version>
       <version>2.6.11</version>
       <version>2.6.12</version>
+      <version>2.7.0</version>
       <version>1.10.0</version>
     </versions>
-    <lastUpdated>20201019090443</lastUpdated>
+    <lastUpdated>20210106043406</lastUpdated>
   </versioning>
 </metadata>
