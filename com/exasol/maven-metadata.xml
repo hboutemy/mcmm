@@ -7,6 +7,11 @@
       <artifactId>artifact-reference-checker-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>error-code-crawler-maven-plugin</name>
+      <prefix>error-code-crawler</prefix>
+      <artifactId>error-code-crawler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Project keeper maven plugin</name>
       <prefix>project-keeper</prefix>
       <artifactId>project-keeper-maven-plugin</artifactId>

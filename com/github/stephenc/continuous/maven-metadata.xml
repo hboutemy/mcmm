@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Dependency Version Maven Plugin</name>
+      <prefix>dependency-version</prefix>
+      <artifactId>dependency-version-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Git Timestamp Maven Plugin</name>
       <prefix>git-timestamp</prefix>
       <artifactId>git-timestamp-maven-plugin</artifactId>
