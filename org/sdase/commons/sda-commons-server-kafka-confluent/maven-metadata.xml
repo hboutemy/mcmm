@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-server-kafka-confluent</artifactId>
   <versioning>
-    <latest>1.1.1</latest>
-    <release>1.1.1</release>
+    <latest>1.1.3</latest>
+    <release>1.1.3</release>
     <versions>
       <version>0.80.6</version>
       <version>0.80.7</version>
@@ -49,7 +49,9 @@
       <version>1.0.1</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
+      <version>1.1.2</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20201102104016</lastUpdated>
+    <lastUpdated>20210107102842</lastUpdated>
   </versioning>
 </metadata>

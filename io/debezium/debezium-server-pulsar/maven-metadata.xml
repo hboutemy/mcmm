@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-pulsar</artifactId>
   <versioning>
-    <latest>1.4.0.CR1</latest>
-    <release>1.4.0.CR1</release>
+    <latest>1.4.0.Final</latest>
+    <release>1.4.0.Final</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.CR2</version>
@@ -24,7 +24,8 @@
       <version>1.4.0.Alpha2</version>
       <version>1.4.0.Beta1</version>
       <version>1.4.0.CR1</version>
+      <version>1.4.0.Final</version>
     </versions>
-    <lastUpdated>20201216194454</lastUpdated>
+    <lastUpdated>20210107091117</lastUpdated>
   </versioning>
 </metadata>

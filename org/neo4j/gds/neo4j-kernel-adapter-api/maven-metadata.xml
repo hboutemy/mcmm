@@ -3,8 +3,8 @@
   <groupId>org.neo4j.gds</groupId>
   <artifactId>neo4j-kernel-adapter-api</artifactId>
   <versioning>
-    <latest>1.5.0-alpha01</latest>
-    <release>1.5.0-alpha01</release>
+    <latest>1.5.0-alpha02</latest>
+    <release>1.5.0-alpha02</release>
     <versions>
       <version>1.3.0-alpha01</version>
       <version>1.3.0-alpha02</version>
@@ -27,7 +27,8 @@
       <version>1.4.0</version>
       <version>1.4.1</version>
       <version>1.5.0-alpha01</version>
+      <version>1.5.0-alpha02</version>
     </versions>
-    <lastUpdated>20201211161106</lastUpdated>
+    <lastUpdated>20210107154911</lastUpdated>
   </versioning>
 </metadata>
