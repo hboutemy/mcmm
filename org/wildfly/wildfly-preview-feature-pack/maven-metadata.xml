@@ -3,12 +3,13 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-preview-feature-pack</artifactId>
   <versioning>
-    <latest>22.0.0.Beta1</latest>
-    <release>22.0.0.Beta1</release>
+    <latest>22.0.0.Final</latest>
+    <release>22.0.0.Final</release>
     <versions>
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
+      <version>22.0.0.Final</version>
     </versions>
-    <lastUpdated>20201216212139</lastUpdated>
+    <lastUpdated>20210113150223</lastUpdated>
   </versioning>
 </metadata>

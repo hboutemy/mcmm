@@ -3,8 +3,8 @@
   <groupId>org.apache.qpid</groupId>
   <artifactId>qpid-broker-plugins-amqp-0-10-protocol</artifactId>
   <versioning>
-    <latest>8.0.2</latest>
-    <release>8.0.2</release>
+    <latest>8.0.3</latest>
+    <release>8.0.3</release>
     <versions>
       <version>0.24</version>
       <version>0.26</version>
@@ -49,10 +49,12 @@
       <version>7.1.8</version>
       <version>7.1.9</version>
       <version>7.1.10</version>
+      <version>7.1.11</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.0.2</version>
+      <version>8.0.3</version>
     </versions>
-    <lastUpdated>20201021211702</lastUpdated>
+    <lastUpdated>20210113004531</lastUpdated>
   </versioning>
 </metadata>

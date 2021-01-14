@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>db-maven-plugin</name>
+      <prefix>db</prefix>
+      <artifactId>db-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>mapway-maven-plugin Maven Plugin</name>
       <prefix>mapway</prefix>
       <artifactId>mapway-maven-plugin</artifactId>

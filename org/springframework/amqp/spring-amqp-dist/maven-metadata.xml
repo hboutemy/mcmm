@@ -3,14 +3,16 @@
   <groupId>org.springframework.amqp</groupId>
   <artifactId>spring-amqp-dist</artifactId>
   <versioning>
-    <latest>2.3.2</latest>
-    <release>2.3.2</release>
+    <latest>2.3.4</latest>
+    <release>2.3.4</release>
     <versions>
       <version>2.3.0</version>
       <version>2.3.1</version>
       <version>2.3.2</version>
+      <version>2.3.3</version>
+      <version>2.3.4</version>
       <version>1.6.1.RELEASE</version>
     </versions>
-    <lastUpdated>20201209180427</lastUpdated>
+    <lastUpdated>20210113193210</lastUpdated>
   </versioning>
 </metadata>
