@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elytron-security-ldap-parent</artifactId>
   <versioning>
-    <latest>1.11.0.CR1</latest>
-    <release>1.11.0.CR1</release>
+    <latest>1.11.0.Final</latest>
+    <release>1.11.0.Final</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -45,7 +45,8 @@
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
       <version>1.11.0.CR1</version>
+      <version>1.11.0.Final</version>
     </versions>
-    <lastUpdated>20210107071426</lastUpdated>
+    <lastUpdated>20210114071220</lastUpdated>
   </versioning>
 </metadata>

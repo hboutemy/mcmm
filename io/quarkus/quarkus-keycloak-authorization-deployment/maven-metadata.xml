@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-keycloak-authorization-deployment</artifactId>
   <versioning>
-    <latest>1.11.0.CR1</latest>
-    <release>1.11.0.CR1</release>
+    <latest>1.11.0.Final</latest>
+    <release>1.11.0.Final</release>
     <versions>
       <version>0.27.0</version>
       <version>0.28.0</version>
@@ -67,7 +67,8 @@
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
       <version>1.11.0.CR1</version>
+      <version>1.11.0.Final</version>
     </versions>
-    <lastUpdated>20210107071639</lastUpdated>
+    <lastUpdated>20210114071548</lastUpdated>
   </versioning>
 </metadata>

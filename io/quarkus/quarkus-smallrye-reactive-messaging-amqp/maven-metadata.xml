@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-reactive-messaging-amqp</artifactId>
   <versioning>
-    <latest>1.11.0.CR1</latest>
-    <release>1.11.0.CR1</release>
+    <latest>1.11.0.Final</latest>
+    <release>1.11.0.Final</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -83,7 +83,8 @@
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
       <version>1.11.0.CR1</version>
+      <version>1.11.0.Final</version>
     </versions>
-    <lastUpdated>20210107072058</lastUpdated>
+    <lastUpdated>20210114072110</lastUpdated>
   </versioning>
 </metadata>

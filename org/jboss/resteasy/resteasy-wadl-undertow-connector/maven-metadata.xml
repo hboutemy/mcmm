@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-wadl-undertow-connector</artifactId>
   <versioning>
-    <latest>4.5.8.SP1</latest>
-    <release>4.5.8.SP1</release>
+    <latest>4.6.0.Final</latest>
+    <release>4.6.0.Final</release>
     <versions>
       <version>3.0.20.Final</version>
       <version>3.0.21.Final</version>
@@ -92,7 +92,8 @@
       <version>4.5.7.Final</version>
       <version>4.5.8.Final</version>
       <version>4.5.8.SP1</version>
+      <version>4.6.0.Final</version>
     </versions>
-    <lastUpdated>20210107163737</lastUpdated>
+    <lastUpdated>20210113220952</lastUpdated>
   </versioning>
 </metadata>

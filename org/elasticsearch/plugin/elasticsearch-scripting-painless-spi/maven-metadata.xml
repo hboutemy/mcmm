@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>elasticsearch-scripting-painless-spi</artifactId>
   <versioning>
-    <latest>7.10.1</latest>
-    <release>7.10.1</release>
+    <latest>7.10.2</latest>
+    <release>7.10.2</release>
     <versions>
       <version>6.2.0</version>
       <version>6.2.1</version>
@@ -76,7 +76,8 @@
       <version>7.9.3</version>
       <version>7.10.0</version>
       <version>7.10.1</version>
+      <version>7.10.2</version>
     </versions>
-    <lastUpdated>20201209142650</lastUpdated>
+    <lastUpdated>20210114185356</lastUpdated>
   </versioning>
 </metadata>
