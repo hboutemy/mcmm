@@ -3,8 +3,8 @@
   <groupId>com.avast</groupId>
   <artifactId>sst-grpc-server-micrometer_2.13</artifactId>
   <versioning>
-    <latest>0.5.1</latest>
-    <release>0.5.1</release>
+    <latest>0.5.5</latest>
+    <release>0.5.5</release>
     <versions>
       <version>0.1.30</version>
       <version>0.1.31</version>
@@ -33,7 +33,9 @@
       <version>0.4.3</version>
       <version>0.5.0</version>
       <version>0.5.1</version>
+      <version>0.5.4</version>
+      <version>0.5.5</version>
     </versions>
-    <lastUpdated>20210113221949</lastUpdated>
+    <lastUpdated>20210115132116</lastUpdated>
   </versioning>
 </metadata>

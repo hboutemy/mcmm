@@ -3,8 +3,8 @@
   <groupId>io.smallrye</groupId>
   <artifactId>smallrye-fault-tolerance-parent</artifactId>
   <versioning>
-    <latest>5.0.0-RC3</latest>
-    <release>5.0.0-RC3</release>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -37,7 +37,8 @@
       <version>5.0.0-RC1</version>
       <version>5.0.0-RC2</version>
       <version>5.0.0-RC3</version>
+      <version>5.0.0</version>
     </versions>
-    <lastUpdated>20210113170644</lastUpdated>
+    <lastUpdated>20210115195122</lastUpdated>
   </versioning>
 </metadata>
