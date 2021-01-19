@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-annotation-processing-gradle</artifactId>
   <versioning>
-    <latest>1.4.30-M1</latest>
-    <release>1.4.30-M1</release>
+    <latest>1.4.30-RC</latest>
+    <release>1.4.30-RC</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -51,7 +51,8 @@
       <version>1.4.21</version>
       <version>1.4.21-2</version>
       <version>1.4.30-M1</version>
+      <version>1.4.30-RC</version>
     </versions>
-    <lastUpdated>20201229112751</lastUpdated>
+    <lastUpdated>20210118120224</lastUpdated>
   </versioning>
 </metadata>

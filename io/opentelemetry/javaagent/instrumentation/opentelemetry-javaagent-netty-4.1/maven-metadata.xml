@@ -3,14 +3,15 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-netty-4.1</artifactId>
   <versioning>
-    <latest>0.13.1</latest>
-    <release>0.13.1</release>
+    <latest>0.14.0</latest>
+    <release>0.14.0</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
       <version>0.13.0</version>
       <version>0.13.1</version>
+      <version>0.14.0</version>
     </versions>
-    <lastUpdated>20201225060625</lastUpdated>
+    <lastUpdated>20210118094521</lastUpdated>
   </versioning>
 </metadata>
