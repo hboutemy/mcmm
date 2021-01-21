@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.weather.web</artifactId>
   <versioning>
-    <latest>4.0.9</latest>
-    <release>3.0.16</release>
+    <latest>4.0.12</latest>
+    <release>3.0.18</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -30,6 +30,10 @@
       <version>1.0.21</version>
       <version>1.0.22</version>
       <version>1.0.23</version>
+      <version>1.0.24</version>
+      <version>1.0.25</version>
+      <version>1.0.26</version>
+      <version>1.0.27</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -43,6 +47,10 @@
       <version>2.0.10</version>
       <version>2.0.11</version>
       <version>2.0.12</version>
+      <version>2.0.13</version>
+      <version>2.0.14</version>
+      <version>2.0.15</version>
+      <version>2.0.16</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -58,6 +66,9 @@
       <version>3.0.12</version>
       <version>3.0.13</version>
       <version>3.0.14</version>
+      <version>3.0.15</version>
+      <version>3.0.16</version>
+      <version>3.0.17</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -68,21 +79,11 @@
       <version>4.0.7</version>
       <version>4.0.8</version>
       <version>4.0.9</version>
-      <version>1.0.24</version>
-      <version>2.0.13</version>
-      <version>3.0.15</version>
       <version>4.0.10</version>
-      <version>1.0.25</version>
-      <version>2.0.14</version>
-      <version>3.0.16</version>
-      <version>1.0.26</version>
-      <version>1.0.27</version>
-      <version>2.0.15</version>
-      <version>2.0.16</version>
-      <version>3.0.17</version>
       <version>4.0.11</version>
       <version>4.0.12</version>
+      <version>3.0.18</version>
     </versions>
-    <lastUpdated>20201029231611</lastUpdated>
+    <lastUpdated>20210120193312</lastUpdated>
   </versioning>
 </metadata>
