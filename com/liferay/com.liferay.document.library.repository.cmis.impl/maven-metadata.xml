@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.repository.cmis.impl</artifactId>
   <versioning>
-    <latest>5.0.13</latest>
-    <release>3.0.31</release>
+    <latest>5.0.17</latest>
+    <release>5.0.18</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -55,6 +55,9 @@
       <version>2.0.46</version>
       <version>2.0.47</version>
       <version>2.0.48</version>
+      <version>2.0.49</version>
+      <version>2.0.50</version>
+      <version>2.0.51</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -85,6 +88,9 @@
       <version>3.0.27</version>
       <version>3.0.28</version>
       <version>3.0.29</version>
+      <version>3.0.30</version>
+      <version>3.0.31</version>
+      <version>3.0.32</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -111,6 +117,11 @@
       <version>4.0.23</version>
       <version>4.0.24</version>
       <version>4.0.25</version>
+      <version>4.0.26</version>
+      <version>4.0.27</version>
+      <version>4.0.28</version>
+      <version>4.0.29</version>
+      <version>4.0.30</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -126,21 +137,11 @@
       <version>5.0.12</version>
       <version>5.0.13</version>
       <version>5.0.14</version>
-      <version>3.0.30</version>
-      <version>4.0.26</version>
       <version>5.0.15</version>
-      <version>2.0.49</version>
-      <version>4.0.27</version>
-      <version>2.0.50</version>
-      <version>3.0.31</version>
-      <version>2.0.51</version>
-      <version>3.0.32</version>
-      <version>4.0.28</version>
-      <version>4.0.29</version>
-      <version>4.0.30</version>
       <version>5.0.16</version>
       <version>5.0.17</version>
+      <version>5.0.18</version>
     </versions>
-    <lastUpdated>20201029232517</lastUpdated>
+    <lastUpdated>20210121143411</lastUpdated>
   </versioning>
 </metadata>

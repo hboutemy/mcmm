@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-spring-security</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.7.1</latest>
+    <release>3.7.1</release>
     <versions>
       <version>2.3.0</version>
       <version>2.4.0</version>
@@ -146,7 +146,8 @@
       <version>3.5.0</version>
       <version>3.6.0</version>
       <version>3.7.0</version>
+      <version>3.7.1</version>
     </versions>
-    <lastUpdated>20201224100450</lastUpdated>
+    <lastUpdated>20210121162808</lastUpdated>
   </versioning>
 </metadata>
