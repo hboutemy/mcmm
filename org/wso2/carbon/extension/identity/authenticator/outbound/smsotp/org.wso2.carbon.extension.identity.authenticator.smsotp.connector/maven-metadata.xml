@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.extension.identity.authenticator.outbound.smsotp</groupId>
   <artifactId>org.wso2.carbon.extension.identity.authenticator.smsotp.connector</artifactId>
   <versioning>
-    <latest>3.0.12</latest>
-    <release>3.0.12</release>
+    <latest>3.0.13</latest>
+    <release>3.0.13</release>
     <versions>
       <version>2.0.5</version>
       <version>2.0.6</version>
@@ -54,7 +54,8 @@
       <version>3.0.10</version>
       <version>3.0.11</version>
       <version>3.0.12</version>
+      <version>3.0.13</version>
     </versions>
-    <lastUpdated>20210107093135</lastUpdated>
+    <lastUpdated>20210122065351</lastUpdated>
   </versioning>
 </metadata>

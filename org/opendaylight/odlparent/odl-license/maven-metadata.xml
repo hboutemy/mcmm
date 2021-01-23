@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>odl-license</artifactId>
   <versioning>
-    <latest>8.0.3</latest>
-    <release>8.0.3</release>
+    <latest>8.1.0</latest>
+    <release>8.1.0</release>
     <versions>
       <version>0.0.1-Beryllium</version>
       <version>0.0.2-Beryllium-SR1</version>
@@ -99,7 +99,8 @@
       <version>8.0.1</version>
       <version>8.0.2</version>
       <version>8.0.3</version>
+      <version>8.1.0</version>
     </versions>
-    <lastUpdated>20210107132410</lastUpdated>
+    <lastUpdated>20210122190030</lastUpdated>
   </versioning>
 </metadata>

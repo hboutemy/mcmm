@@ -3,8 +3,8 @@
   <groupId>io.gravitee.rest.api.standalone</groupId>
   <artifactId>gravitee-rest-api-standalone-bootstrap</artifactId>
   <versioning>
-    <latest>3.5.1</latest>
-    <release>3.5.1</release>
+    <latest>3.5.2</latest>
+    <release>3.5.2</release>
     <versions>
       <version>3.0.0-beta</version>
       <version>3.0.0</version>
@@ -42,7 +42,8 @@
       <version>3.4.2</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
+      <version>3.5.2</version>
     </versions>
-    <lastUpdated>20210118212541</lastUpdated>
+    <lastUpdated>20210122215024</lastUpdated>
   </versioning>
 </metadata>

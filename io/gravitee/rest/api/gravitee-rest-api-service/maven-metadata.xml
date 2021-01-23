@@ -3,8 +3,8 @@
   <groupId>io.gravitee.rest.api</groupId>
   <artifactId>gravitee-rest-api-service</artifactId>
   <versioning>
-    <latest>3.5.1</latest>
-    <release>3.5.1</release>
+    <latest>3.5.2</latest>
+    <release>3.5.2</release>
     <versions>
       <version>3.0.0-alpha</version>
       <version>3.0.0-beta</version>
@@ -43,7 +43,8 @@
       <version>3.4.2</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
+      <version>3.5.2</version>
     </versions>
-    <lastUpdated>20210118212514</lastUpdated>
+    <lastUpdated>20210122214955</lastUpdated>
   </versioning>
 </metadata>

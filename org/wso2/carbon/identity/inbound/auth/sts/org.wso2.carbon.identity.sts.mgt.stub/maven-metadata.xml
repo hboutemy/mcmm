@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.sts</groupId>
   <artifactId>org.wso2.carbon.identity.sts.mgt.stub</artifactId>
   <versioning>
-    <latest>5.6.6</latest>
-    <release>5.6.6</release>
+    <latest>5.6.7</latest>
+    <release>5.6.7</release>
     <versions>
       <version>5.2.6</version>
       <version>5.2.7</version>
@@ -33,7 +33,8 @@
       <version>5.6.4</version>
       <version>5.6.5</version>
       <version>5.6.6</version>
+      <version>5.6.7</version>
     </versions>
-    <lastUpdated>20210121104059</lastUpdated>
+    <lastUpdated>20210122210021</lastUpdated>
   </versioning>
 </metadata>
