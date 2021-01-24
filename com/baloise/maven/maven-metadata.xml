@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jenkins-maven-plugin Maven Plugin</name>
+      <prefix>jenkins</prefix>
+      <artifactId>jenkins-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>orchestra-maven-plugin</name>
+      <prefix>orchestra</prefix>
+      <artifactId>orchestra-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>solr-maven-plugin Maven Plugin</name>
       <prefix>solr</prefix>
       <artifactId>solr-maven-plugin</artifactId>
