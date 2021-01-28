@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-google-cloud-functions-deployment</artifactId>
   <versioning>
-    <latest>1.11.0.Final</latest>
-    <release>1.11.0.Final</release>
+    <latest>1.11.1.Final</latest>
+    <release>1.11.1.Final</release>
     <versions>
       <version>1.6.0.CR1</version>
       <version>1.6.0.Final</version>
@@ -38,7 +38,8 @@
       <version>1.11.0.Beta2</version>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
+      <version>1.11.1.Final</version>
     </versions>
-    <lastUpdated>20210114071256</lastUpdated>
+    <lastUpdated>20210127132721</lastUpdated>
   </versioning>
 </metadata>

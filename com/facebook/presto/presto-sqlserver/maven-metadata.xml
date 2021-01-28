@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-sqlserver</artifactId>
   <versioning>
-    <latest>0.245.1</latest>
-    <release>0.245.1</release>
+    <latest>0.246</latest>
+    <release>0.246</release>
     <versions>
       <version>0.174</version>
       <version>0.175</version>
@@ -101,7 +101,8 @@
       <version>0.244.1</version>
       <version>0.245</version>
       <version>0.245.1</version>
+      <version>0.246</version>
     </versions>
-    <lastUpdated>20210105080432</lastUpdated>
+    <lastUpdated>20210127033908</lastUpdated>
   </versioning>
 </metadata>
