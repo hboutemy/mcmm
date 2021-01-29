@@ -3,8 +3,8 @@
   <groupId>org.apache.jackrabbit</groupId>
   <artifactId>oak-blob-cloud-azure</artifactId>
   <versioning>
-    <latest>1.36</latest>
-    <release>1.36</release>
+    <latest>1.38.0</latest>
+    <release>1.38.0</release>
     <versions>
       <version>1.6.2</version>
       <version>1.6.3</version>
@@ -105,7 +105,8 @@
       <version>1.32.0</version>
       <version>1.34.0</version>
       <version>1.36</version>
+      <version>1.38.0</version>
     </versions>
-    <lastUpdated>20210119075749</lastUpdated>
+    <lastUpdated>20210128105342</lastUpdated>
   </versioning>
 </metadata>

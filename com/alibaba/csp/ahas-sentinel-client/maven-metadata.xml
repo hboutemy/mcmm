@@ -3,8 +3,8 @@
   <groupId>com.alibaba.csp</groupId>
   <artifactId>ahas-sentinel-client</artifactId>
   <versioning>
-    <latest>1.8.3</latest>
-    <release>1.8.3</release>
+    <latest>1.8.4</latest>
+    <release>1.8.4</release>
     <versions>
       <version>1.0.0-paas</version>
       <version>1.0.1</version>
@@ -70,9 +70,10 @@
       <version>1.8.1</version>
       <version>1.8.2</version>
       <version>1.8.3</version>
+      <version>1.8.4</version>
       <version>1.0.5</version>
       <version>1.3.7-edas-hsf</version>
     </versions>
-    <lastUpdated>20210113082543</lastUpdated>
+    <lastUpdated>20210128153940</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>cargo2</prefix>
       <artifactId>cargo-maven2-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Cargo Maven 3 Plugin</name>
+      <prefix>cargo3</prefix>
+      <artifactId>cargo-maven3-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

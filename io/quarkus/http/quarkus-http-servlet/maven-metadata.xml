@@ -3,8 +3,8 @@
   <groupId>io.quarkus.http</groupId>
   <artifactId>quarkus-http-servlet</artifactId>
   <versioning>
-    <latest>3.0.18.Final</latest>
-    <release>3.0.18.Final</release>
+    <latest>4.0.0.Alpha2</latest>
+    <release>4.0.0.Alpha2</release>
     <versions>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
@@ -35,7 +35,8 @@
       <version>3.0.16.Final</version>
       <version>3.0.17.Final</version>
       <version>3.0.18.Final</version>
+      <version>4.0.0.Alpha2</version>
     </versions>
-    <lastUpdated>20210111151706</lastUpdated>
+    <lastUpdated>20210128083813</lastUpdated>
   </versioning>
 </metadata>

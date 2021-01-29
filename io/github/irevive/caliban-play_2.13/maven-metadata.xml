@@ -3,12 +3,14 @@
   <groupId>io.github.irevive</groupId>
   <artifactId>caliban-play_2.13</artifactId>
   <versioning>
-    <latest>0.9.5-pre-release</latest>
-    <release>0.9.5-pre-release</release>
+    <latest>0.9.5-view-generator</latest>
+    <release>0.9.5-view-generator</release>
     <versions>
       <version>0.9.3-derivation</version>
+      <version>0.9.5-generate-view</version>
       <version>0.9.5-pre-release</version>
+      <version>0.9.5-view-generator</version>
     </versions>
-    <lastUpdated>20210125173825</lastUpdated>
+    <lastUpdated>20210128161346</lastUpdated>
   </versioning>
 </metadata>
