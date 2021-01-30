@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>schema-generator</prefix>
+      <artifactId>schema-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>swagger-maven-plugin</name>
       <prefix>swagger</prefix>
       <artifactId>swagger-maven-plugin</artifactId>
