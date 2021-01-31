@@ -15,4 +15,11 @@
     </versions>
     <lastUpdated>20171211121523</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>ObServe Toolkit :: Maven plugin</name>
+      <prefix>toolkit</prefix>
+      <artifactId>toolkit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>

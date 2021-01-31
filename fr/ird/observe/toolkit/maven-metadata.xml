@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
+  <groupId>fr.ird.observe</groupId>
+  <artifactId>toolkit</artifactId>
+  <versioning>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
+    <versions>
+      <version>5.0.0</version>
+    </versions>
+    <lastUpdated>20210130191430</lastUpdated>
+  </versioning>
   <plugins>
     <plugin>
       <name>ObServe Toolkit :: Maven plugin</name>
