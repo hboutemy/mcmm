@@ -16,5 +16,10 @@
       <prefix>tycho-tp-refresh</prefix>
       <artifactId>tycho-tp-refresh-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Tycho Versions Plugin</name>
+      <prefix>tycho-versions</prefix>
+      <artifactId>tycho-versions-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
