@@ -3,8 +3,8 @@
   <groupId>com.hazelcast.jet</groupId>
   <artifactId>hazelcast-jet-kafka</artifactId>
   <versioning>
-    <latest>4.3</latest>
-    <release>4.3</release>
+    <latest>4.4</latest>
+    <release>4.4</release>
     <versions>
       <version>0.3</version>
       <version>0.3.1</version>
@@ -26,7 +26,8 @@
       <version>4.1.1</version>
       <version>4.2</version>
       <version>4.3</version>
+      <version>4.4</version>
     </versions>
-    <lastUpdated>20201020100106</lastUpdated>
+    <lastUpdated>20210202095104</lastUpdated>
   </versioning>
 </metadata>

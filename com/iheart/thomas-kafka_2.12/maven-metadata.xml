@@ -3,8 +3,8 @@
   <groupId>com.iheart</groupId>
   <artifactId>thomas-kafka_2.12</artifactId>
   <versioning>
-    <latest>1.0.0-RC2</latest>
-    <release>1.0.0-RC2</release>
+    <latest>1.1.0-M1</latest>
+    <release>1.1.0-M1</release>
     <versions>
       <version>0.39</version>
       <version>0.40</version>
@@ -47,7 +47,9 @@
       <version>1.0.0-M6</version>
       <version>1.0.0-RC1</version>
       <version>1.0.0-RC2</version>
+      <version>1.0.0</version>
+      <version>1.1.0-M1</version>
     </versions>
-    <lastUpdated>20201203213751</lastUpdated>
+    <lastUpdated>20210202172243</lastUpdated>
   </versioning>
 </metadata>
