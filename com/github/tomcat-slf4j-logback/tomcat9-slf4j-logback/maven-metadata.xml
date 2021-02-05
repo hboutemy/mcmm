@@ -3,8 +3,8 @@
   <groupId>com.github.tomcat-slf4j-logback</groupId>
   <artifactId>tomcat9-slf4j-logback</artifactId>
   <versioning>
-    <latest>9.0.41.SP2</latest>
-    <release>9.0.41.SP2</release>
+    <latest>9.0.43</latest>
+    <release>9.0.43</release>
     <versions>
       <version>9.0.0.M15</version>
       <version>9.0.0.M17</version>
@@ -51,7 +51,8 @@
       <version>9.0.41</version>
       <version>9.0.41.SP1</version>
       <version>9.0.41.SP2</version>
+      <version>9.0.43</version>
     </versions>
-    <lastUpdated>20201209204009</lastUpdated>
+    <lastUpdated>20210204045148</lastUpdated>
   </versioning>
 </metadata>

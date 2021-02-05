@@ -3,13 +3,14 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>configuration-k8s-configmap</artifactId>
   <versioning>
-    <latest>8.3.0</latest>
-    <release>8.3.0</release>
+    <latest>8.4.0</latest>
+    <release>8.4.0</release>
     <versions>
       <version>8.1.0</version>
       <version>8.2.0</version>
       <version>8.3.0</version>
+      <version>8.4.0</version>
     </versions>
-    <lastUpdated>20201202015752</lastUpdated>
+    <lastUpdated>20210204091321</lastUpdated>
   </versioning>
 </metadata>

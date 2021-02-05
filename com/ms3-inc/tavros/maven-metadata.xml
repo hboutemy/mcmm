@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Camel REST DSL OpenAPI Plugin</name>
+      <prefix>camel-restdsl-openapi</prefix>
+      <artifactId>camel-restdsl-openapi-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
