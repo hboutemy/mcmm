@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-apache-httpclient-2.0</artifactId>
   <versioning>
-    <latest>0.15.0</latest>
-    <release>0.15.0</release>
+    <latest>0.15.1</latest>
+    <release>0.15.1</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -12,7 +12,8 @@
       <version>0.13.1</version>
       <version>0.14.0</version>
       <version>0.15.0</version>
+      <version>0.15.1</version>
     </versions>
-    <lastUpdated>20210201092940</lastUpdated>
+    <lastUpdated>20210205134758</lastUpdated>
   </versioning>
 </metadata>

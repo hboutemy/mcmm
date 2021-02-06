@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure</groupId>
   <artifactId>azure-mgmt-monitor</artifactId>
   <versioning>
-    <latest>1.38.1</latest>
-    <release>1.38.1</release>
+    <latest>1.39.1</latest>
+    <release>1.39.1</release>
     <versions>
       <version>1.2.0-beta</version>
       <version>1.2.1-beta</version>
@@ -62,7 +62,9 @@
       <version>1.37.1</version>
       <version>1.38.0</version>
       <version>1.38.1</version>
+      <version>1.39.0</version>
+      <version>1.39.1</version>
     </versions>
-    <lastUpdated>20210107073223</lastUpdated>
+    <lastUpdated>20210205165354</lastUpdated>
   </versioning>
 </metadata>

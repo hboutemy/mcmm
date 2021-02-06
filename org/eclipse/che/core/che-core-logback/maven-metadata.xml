@@ -3,8 +3,8 @@
   <groupId>org.eclipse.che.core</groupId>
   <artifactId>che-core-logback</artifactId>
   <versioning>
-    <latest>7.25.1</latest>
-    <release>7.25.1</release>
+    <latest>7.25.2</latest>
+    <release>7.25.2</release>
     <versions>
       <version>7.13.0</version>
       <version>7.13.1</version>
@@ -44,7 +44,8 @@
       <version>7.24.2</version>
       <version>7.25.0</version>
       <version>7.25.1</version>
+      <version>7.25.2</version>
     </versions>
-    <lastUpdated>20210128151457</lastUpdated>
+    <lastUpdated>20210205111032</lastUpdated>
   </versioning>
 </metadata>
