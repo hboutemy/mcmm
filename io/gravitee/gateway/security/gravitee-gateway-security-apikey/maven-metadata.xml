@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.security</groupId>
   <artifactId>gravitee-gateway-security-apikey</artifactId>
   <versioning>
-    <latest>3.5.2</latest>
-    <release>3.5.2</release>
+    <latest>3.5.3</latest>
+    <release>3.5.3</release>
     <versions>
       <version>1.2.0</version>
       <version>1.3.0</version>
@@ -227,7 +227,8 @@
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
+      <version>3.5.3</version>
     </versions>
-    <lastUpdated>20210202185219</lastUpdated>
+    <lastUpdated>20210206222044</lastUpdated>
   </versioning>
 </metadata>

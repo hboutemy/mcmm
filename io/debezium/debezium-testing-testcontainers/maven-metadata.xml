@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-testing-testcontainers</artifactId>
   <versioning>
-    <latest>1.4.1.Final</latest>
-    <release>1.4.1.Final</release>
+    <latest>1.5.0.Alpha1</latest>
+    <release>1.5.0.Alpha1</release>
     <versions>
       <version>1.0.2.Final</version>
       <version>1.0.3.Final</version>
@@ -36,7 +36,8 @@
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
       <version>1.4.1.Final</version>
+      <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20210128130658</lastUpdated>
+    <lastUpdated>20210206070421</lastUpdated>
   </versioning>
 </metadata>
