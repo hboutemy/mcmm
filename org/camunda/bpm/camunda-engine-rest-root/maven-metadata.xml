@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-engine-rest-root</artifactId>
   <versioning>
-    <latest>7.15.0-alpha2</latest>
-    <release>7.15.0-alpha2</release>
+    <latest>7.15.0-alpha3</latest>
+    <release>7.15.0-alpha3</release>
     <versions>
       <version>7.5.0-alpha1</version>
       <version>7.5.0-alpha2</version>
@@ -68,7 +68,8 @@
       <version>7.14.0</version>
       <version>7.15.0-alpha1</version>
       <version>7.15.0-alpha2</version>
+      <version>7.15.0-alpha3</version>
     </versions>
-    <lastUpdated>20201207135723</lastUpdated>
+    <lastUpdated>20210208155251</lastUpdated>
   </versioning>
 </metadata>
