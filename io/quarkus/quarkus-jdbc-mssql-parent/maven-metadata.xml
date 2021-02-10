@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jdbc-mssql-parent</artifactId>
   <versioning>
-    <latest>1.11.1.Final</latest>
-    <release>1.11.1.Final</release>
+    <latest>1.11.2.Final</latest>
+    <release>1.11.2.Final</release>
     <versions>
       <version>0.12.0</version>
       <version>0.13.0</version>
@@ -94,7 +94,8 @@
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
       <version>1.11.1.Final</version>
+      <version>1.11.2.Final</version>
     </versions>
-    <lastUpdated>20210127132729</lastUpdated>
+    <lastUpdated>20210209103235</lastUpdated>
   </versioning>
 </metadata>

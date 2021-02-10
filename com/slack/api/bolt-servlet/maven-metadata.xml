@@ -3,8 +3,8 @@
   <groupId>com.slack.api</groupId>
   <artifactId>bolt-servlet</artifactId>
   <versioning>
-    <latest>1.6.0</latest>
-    <release>1.6.0</release>
+    <latest>1.6.1-RC1</latest>
+    <release>1.6.1-RC1</release>
     <versions>
       <version>1.0.0-RC2</version>
       <version>1.0.0-RC3</version>
@@ -51,7 +51,8 @@
       <version>1.5.2</version>
       <version>1.5.3</version>
       <version>1.6.0</version>
+      <version>1.6.1-RC1</version>
     </versions>
-    <lastUpdated>20210205033508</lastUpdated>
+    <lastUpdated>20210209114649</lastUpdated>
   </versioning>
 </metadata>
