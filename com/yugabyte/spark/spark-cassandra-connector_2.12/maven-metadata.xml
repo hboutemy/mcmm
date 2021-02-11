@@ -3,12 +3,13 @@
   <groupId>com.yugabyte.spark</groupId>
   <artifactId>spark-cassandra-connector_2.12</artifactId>
   <versioning>
-    <latest>3.0-yb-beta-1</latest>
-    <release>3.0-yb-beta-1</release>
+    <latest>3.0-yb-ga</latest>
+    <release>3.0-yb-ga</release>
     <versions>
       <version>3.0-yb-alpha-1</version>
       <version>3.0-yb-beta-1</version>
+      <version>3.0-yb-ga</version>
     </versions>
-    <lastUpdated>20201219041100</lastUpdated>
+    <lastUpdated>20210210175039</lastUpdated>
   </versioning>
 </metadata>

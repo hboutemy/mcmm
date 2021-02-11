@@ -3,8 +3,8 @@
   <groupId>org.apache.phoenix</groupId>
   <artifactId>phoenix-assembly</artifactId>
   <versioning>
-    <latest>4.7.0-HBase-1.1</latest>
-    <release>4.7.0-HBase-1.1</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>4.4.0-HBase-0.98</version>
       <version>4.4.0-HBase-1.0</version>
@@ -24,7 +24,8 @@
       <version>4.7.0-HBase-0.98</version>
       <version>4.7.0-HBase-1.0</version>
       <version>4.7.0-HBase-1.1</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20160302000352</lastUpdated>
+    <lastUpdated>20210210073436</lastUpdated>
   </versioning>
 </metadata>
