@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-fault-tolerance-smallrye-executor</artifactId>
   <versioning>
-    <latest>22.0.0.Final</latest>
-    <release>22.0.0.Final</release>
+    <latest>22.0.1.Final</latest>
+    <release>22.0.1.Final</release>
     <versions>
       <version>19.0.0.Beta3</version>
       <version>19.0.0.Final</version>
@@ -19,7 +19,8 @@
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
+      <version>22.0.1.Final</version>
     </versions>
-    <lastUpdated>20210113150137</lastUpdated>
+    <lastUpdated>20210211182239</lastUpdated>
   </versioning>
 </metadata>

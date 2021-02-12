@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-ejb-client-legacy-bom</artifactId>
   <versioning>
-    <latest>22.0.0.Final</latest>
-    <release>22.0.0.Final</release>
+    <latest>22.0.1.Final</latest>
+    <release>22.0.1.Final</release>
     <versions>
       <version>11.0.0.Beta1</version>
       <version>11.0.0.CR1</version>
@@ -42,7 +42,8 @@
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
+      <version>22.0.1.Final</version>
     </versions>
-    <lastUpdated>20210113154214</lastUpdated>
+    <lastUpdated>20210211200215</lastUpdated>
   </versioning>
 </metadata>

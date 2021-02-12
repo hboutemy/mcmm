@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-security-parent</artifactId>
   <versioning>
-    <latest>22.0.0.Final</latest>
-    <release>22.0.0.Final</release>
+    <latest>22.0.1.Final</latest>
+    <release>22.0.1.Final</release>
     <versions>
       <version>8.1.0.CR1</version>
       <version>8.1.0.CR2</version>
@@ -74,7 +74,8 @@
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
+      <version>22.0.1.Final</version>
     </versions>
-    <lastUpdated>20210113150232</lastUpdated>
+    <lastUpdated>20210211182301</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-servlet-feature-pack</artifactId>
   <versioning>
-    <latest>22.0.0.Final</latest>
-    <release>22.0.0.Final</release>
+    <latest>22.0.1.Final</latest>
+    <release>22.0.1.Final</release>
     <versions>
       <version>9.0.0.CR2</version>
       <version>9.0.0.Final</version>
@@ -64,7 +64,8 @@
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
+      <version>22.0.1.Final</version>
     </versions>
-    <lastUpdated>20210113150248</lastUpdated>
+    <lastUpdated>20210211182308</lastUpdated>
   </versioning>
 </metadata>
