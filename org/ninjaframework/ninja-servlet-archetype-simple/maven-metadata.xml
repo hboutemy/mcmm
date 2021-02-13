@@ -3,8 +3,8 @@
   <groupId>org.ninjaframework</groupId>
   <artifactId>ninja-servlet-archetype-simple</artifactId>
   <versioning>
-    <latest>6.6.1</latest>
-    <release>6.6.1</release>
+    <latest>6.8.1</latest>
+    <release>6.8.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -58,8 +58,11 @@
       <version>6.4.2</version>
       <version>6.5.0</version>
       <version>6.6.1</version>
+      <version>6.7.0</version>
+      <version>6.8.0</version>
+      <version>6.8.1</version>
       <version>5.1.3</version>
     </versions>
-    <lastUpdated>20200122202015</lastUpdated>
+    <lastUpdated>20210212125803</lastUpdated>
   </versioning>
 </metadata>

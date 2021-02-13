@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-persistence-soft-index</artifactId>
   <versioning>
-    <latest>12.0.0.Dev07</latest>
-    <release>12.0.0.Dev07</release>
+    <latest>12.0.1.Final</latest>
+    <release>12.0.1.Final</release>
     <versions>
       <version>7.0.0.CR1</version>
       <version>7.0.0.CR2</version>
@@ -193,8 +193,9 @@
       <version>12.0.0.Dev05</version>
       <version>12.0.0.Dev06</version>
       <version>12.0.0.Dev07</version>
+      <version>12.0.1.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20210124201246</lastUpdated>
+    <lastUpdated>20210212105423</lastUpdated>
   </versioning>
 </metadata>
