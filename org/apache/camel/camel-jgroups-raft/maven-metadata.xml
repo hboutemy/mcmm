@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-jgroups-raft</artifactId>
   <versioning>
-    <latest>3.7.2</latest>
-    <release>3.7.2</release>
+    <latest>3.8.0</latest>
+    <release>3.8.0</release>
     <versions>
       <version>2.24.0</version>
       <version>2.24.1</version>
@@ -37,7 +37,8 @@
       <version>3.7.0</version>
       <version>3.7.1</version>
       <version>3.7.2</version>
+      <version>3.8.0</version>
     </versions>
-    <lastUpdated>20210208084320</lastUpdated>
+    <lastUpdated>20210213085602</lastUpdated>
   </versioning>
 </metadata>
