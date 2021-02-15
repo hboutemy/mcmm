@@ -27,6 +27,11 @@
       <artifactId>officefloor-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>OfficeFloor SAM Maven Plugin</name>
+      <prefix>officefloor-sam</prefix>
+      <artifactId>officefloor-sam-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Site Aggregate Plugin</name>
       <prefix>site-aggregate</prefix>
       <artifactId>site-aggregate-maven-plugin</artifactId>
