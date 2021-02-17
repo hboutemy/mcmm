@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>config-application-package</artifactId>
   <versioning>
-    <latest>7.356.23</latest>
-    <release>7.356.23</release>
+    <latest>7.359.24</latest>
+    <release>7.359.24</release>
     <versions>
       <version>6.143.177</version>
       <version>6.143.255</version>
@@ -371,7 +371,9 @@
       <version>7.354.14</version>
       <version>7.355.22</version>
       <version>7.356.23</version>
+      <version>7.358.44</version>
+      <version>7.359.24</version>
     </versions>
-    <lastUpdated>20210211013632</lastUpdated>
+    <lastUpdated>20210216194311</lastUpdated>
   </versioning>
 </metadata>
