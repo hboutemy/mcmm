@@ -3,8 +3,8 @@
   <groupId>io.fabric8.kubernetes</groupId>
   <artifactId>kubernetes-karaf-itests</artifactId>
   <versioning>
-    <latest>5.0.2</latest>
-    <release>5.0.2</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>1.0.81</version>
       <version>1.0.82</version>
@@ -185,7 +185,8 @@
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20210209172622</lastUpdated>
+    <lastUpdated>20210217150459</lastUpdated>
   </versioning>
 </metadata>

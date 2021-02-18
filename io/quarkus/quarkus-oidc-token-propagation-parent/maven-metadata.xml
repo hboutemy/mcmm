@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-oidc-token-propagation-parent</artifactId>
   <versioning>
-    <latest>1.12.0.CR1</latest>
-    <release>1.12.0.CR1</release>
+    <latest>1.12.0.Final</latest>
+    <release>1.12.0.Final</release>
     <versions>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
@@ -12,7 +12,8 @@
       <version>1.11.2.Final</version>
       <version>1.11.3.Final</version>
       <version>1.12.0.CR1</version>
+      <version>1.12.0.Final</version>
     </versions>
-    <lastUpdated>20210211164905</lastUpdated>
+    <lastUpdated>20210217125053</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jackson-deployment</artifactId>
   <versioning>
-    <latest>1.12.0.CR1</latest>
-    <release>1.12.0.CR1</release>
+    <latest>1.12.0.Final</latest>
+    <release>1.12.0.Final</release>
     <versions>
       <version>0.20.0</version>
       <version>0.21.0</version>
@@ -84,7 +84,8 @@
       <version>1.11.2.Final</version>
       <version>1.11.3.Final</version>
       <version>1.12.0.CR1</version>
+      <version>1.12.0.Final</version>
     </versions>
-    <lastUpdated>20210211164852</lastUpdated>
+    <lastUpdated>20210217125039</lastUpdated>
   </versioning>
 </metadata>
