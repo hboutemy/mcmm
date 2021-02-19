@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudresourcemanager</artifactId>
   <versioning>
-    <latest>v2-rev20210114-1.31.0</latest>
-    <release>v2-rev20210114-1.31.0</release>
+    <latest>v3-rev20210205-1.31.0</latest>
+    <release>v3-rev20210205-1.31.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.19.0</version>
@@ -1969,7 +1969,8 @@
       <version>v2-rev20201207-1.31.0</version>
       <version>v2-rev20210111-1.31.0</version>
       <version>v2-rev20210114-1.31.0</version>
+      <version>v3-rev20210205-1.31.0</version>
     </versions>
-    <lastUpdated>20210217212555</lastUpdated>
+    <lastUpdated>20210218210543</lastUpdated>
   </versioning>
 </metadata>

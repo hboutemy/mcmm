@@ -2,9 +2,19 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>swagger-eclipse-transformer-maven-plugin</name>
+      <prefix>swagger-eclipse-transformer</prefix>
+      <artifactId>swagger-eclipse-transformer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>swagger-maven-plugin</name>
       <prefix>swagger</prefix>
       <artifactId>swagger-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>swagger-maven-plugin-jakarta</name>
+      <prefix>swaggerjakarta</prefix>
+      <artifactId>swagger-maven-plugin-jakarta</artifactId>
     </plugin>
   </plugins>
 </metadata>
