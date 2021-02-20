@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-exporter-otlp-metrics</artifactId>
   <versioning>
-    <latest>0.17.0-alpha</latest>
-    <release>0.17.0-alpha</release>
+    <latest>0.17.1-alpha</latest>
+    <release>0.17.1-alpha</release>
     <versions>
       <version>0.13.0-alpha</version>
       <version>0.13.1-alpha</version>
@@ -13,7 +13,8 @@
       <version>0.15.0-alpha</version>
       <version>0.16.0-alpha</version>
       <version>0.17.0-alpha</version>
+      <version>0.17.1-alpha</version>
     </versions>
-    <lastUpdated>20210218045852</lastUpdated>
+    <lastUpdated>20210219064113</lastUpdated>
   </versioning>
 </metadata>

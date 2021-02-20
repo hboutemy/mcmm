@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AWS Device farm tractor maven plugin</name>
+      <prefix>devicefarm-tractor</prefix>
+      <artifactId>devicefarm-tractor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

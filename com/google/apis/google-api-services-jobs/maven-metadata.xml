@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-jobs</artifactId>
   <versioning>
-    <latest>v4-rev20201124-1.31.0</latest>
-    <release>v4-rev20201124-1.31.0</release>
+    <latest>v4-rev20210217-1.31.0</latest>
+    <release>v4-rev20210217-1.31.0</release>
     <versions>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.21.0</version>
@@ -429,6 +429,7 @@
       <version>v3p1beta1-rev20200828-1.30.10</version>
       <version>v3p1beta1-rev20200929-1.30.10</version>
       <version>v3p1beta1-rev20201124-1.31.0</version>
+      <version>v3p1beta1-rev20210217-1.31.0</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.22.0</version>
       <version>v3-rev1-1.23.0</version>
@@ -632,7 +633,8 @@
       <version>v3-rev20201124-1.31.0</version>
       <version>v3-rev20210211-1.31.0</version>
       <version>v4-rev20201124-1.31.0</version>
+      <version>v4-rev20210217-1.31.0</version>
     </versions>
-    <lastUpdated>20210218212138</lastUpdated>
+    <lastUpdated>20210219212521</lastUpdated>
   </versioning>
 </metadata>
