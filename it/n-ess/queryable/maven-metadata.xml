@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Queryable Maven Plugin</name>
+      <prefix>queryable</prefix>
+      <artifactId>queryable-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

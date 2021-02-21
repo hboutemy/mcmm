@@ -27,6 +27,11 @@
       <artifactId>maven-archetype-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven Artifact Plugin</name>
+      <prefix>artifact</prefix>
+      <artifactId>maven-artifact-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven Assembly Plugin</name>
       <prefix>assembly</prefix>
       <artifactId>maven-assembly-plugin</artifactId>

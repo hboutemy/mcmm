@@ -3,8 +3,8 @@
   <groupId>it.vige</groupId>
   <artifactId>alfresco-tests</artifactId>
   <versioning>
-    <latest>6.2.0-ea.8</latest>
-    <release>6.2.0-ea.8</release>
+    <latest>6.2.0-ea.9</latest>
+    <release>6.2.0-ea.9</release>
     <versions>
       <version>4.2.6.6.0</version>
       <version>4.2.6.6.1</version>
@@ -17,18 +17,21 @@
       <version>4.2.6.6.8</version>
       <version>4.2.6.6.9</version>
       <version>4.2.6.6.10</version>
+      <version>4.2.6.6.11</version>
       <version>5.0.d.0</version>
       <version>5.0.d.1</version>
       <version>5.0.d.2</version>
       <version>5.0.d.3</version>
       <version>5.0.d.4</version>
       <version>5.0.d.5</version>
+      <version>5.0.d.6</version>
       <version>5.1.g.0</version>
       <version>5.1.g.1</version>
       <version>5.1.g.2</version>
       <version>5.1.g.3</version>
       <version>5.1.g.4</version>
       <version>5.1.g.5</version>
+      <version>5.1.g.6</version>
       <version>5.2.f.0</version>
       <version>5.2.f.1</version>
       <version>5.2.f.2</version>
@@ -36,6 +39,7 @@
       <version>5.2.f.4</version>
       <version>5.2.f.5</version>
       <version>5.2.f.6</version>
+      <version>5.2.f.7</version>
       <version>6.0.0-ea.0</version>
       <version>6.0.0-ea.1</version>
       <version>6.0.0-ea.2</version>
@@ -45,6 +49,7 @@
       <version>6.0.0-ea.6</version>
       <version>6.0.0-ea.7</version>
       <version>6.0.0-ea.8</version>
+      <version>6.0.0-ea.9</version>
       <version>6.1.0-ea.0</version>
       <version>6.1.0-ea.1</version>
       <version>6.1.0-ea.2</version>
@@ -52,6 +57,7 @@
       <version>6.1.0-ea.4</version>
       <version>6.1.0-ea.5</version>
       <version>6.1.0-ea.6</version>
+      <version>6.1.0-ea.7</version>
       <version>6.2.0-ea.0</version>
       <version>6.2.0-ea.1</version>
       <version>6.2.0-ea.2</version>
@@ -61,7 +67,8 @@
       <version>6.2.0-ea.6</version>
       <version>6.2.0-ea.7</version>
       <version>6.2.0-ea.8</version>
+      <version>6.2.0-ea.9</version>
     </versions>
-    <lastUpdated>20210215173118</lastUpdated>
+    <lastUpdated>20210220215955</lastUpdated>
   </versioning>
 </metadata>
