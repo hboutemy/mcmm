@@ -6,5 +6,10 @@
       <prefix>kie-wb-common-compilers</prefix>
       <artifactId>kie-wb-common-compiler-maven-plugins</artifactId>
     </plugin>
+    <plugin>
+      <name>Kie Workbench - Common - Compiler - Maven Plugins</name>
+      <prefix>kie</prefix>
+      <artifactId>kie-wb-common-compiler-maven-plugins</artifactId>
+    </plugin>
   </plugins>
 </metadata>

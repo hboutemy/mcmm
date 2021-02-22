@@ -2,7 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>serenity-maven-plugin</name>
       <prefix>serenity</prefix>
       <artifactId>serenity-maven-plugin</artifactId>
     </plugin>
