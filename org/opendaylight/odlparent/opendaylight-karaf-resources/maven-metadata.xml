@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>opendaylight-karaf-resources</artifactId>
   <versioning>
-    <latest>8.1.0</latest>
-    <release>8.1.0</release>
+    <latest>8.1.1</latest>
+    <release>8.1.1</release>
     <versions>
       <version>1.7.0-Boron</version>
       <version>1.7.1-Boron-SR1</version>
@@ -95,7 +95,8 @@
       <version>8.0.2</version>
       <version>8.0.3</version>
       <version>8.1.0</version>
+      <version>8.1.1</version>
     </versions>
-    <lastUpdated>20210122190044</lastUpdated>
+    <lastUpdated>20210223134225</lastUpdated>
   </versioning>
 </metadata>

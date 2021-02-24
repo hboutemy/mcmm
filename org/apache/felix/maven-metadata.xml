@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>atomos-maven-plugin</name>
+      <prefix>atomos</prefix>
+      <artifactId>atomos-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Bundle Plugin</name>
       <prefix>bundle</prefix>
       <artifactId>maven-bundle-plugin</artifactId>
