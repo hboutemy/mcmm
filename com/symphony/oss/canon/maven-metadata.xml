@@ -5,5 +5,9 @@
       <prefix>canon</prefix>
       <artifactId>canon-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>canon2</prefix>
+      <artifactId>canon2-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
