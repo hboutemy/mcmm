@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-containeranalysis-bom</artifactId>
   <versioning>
-    <latest>1.2.29</latest>
-    <release>1.2.29</release>
+    <latest>1.2.31</latest>
+    <release>1.2.31</release>
     <versions>
       <version>0.118.0-beta</version>
       <version>0.119.0-beta</version>
@@ -26,8 +26,10 @@
       <version>1.2.9</version>
       <version>1.2.10</version>
       <version>1.2.11</version>
+      <version>1.2.30</version>
+      <version>1.2.31</version>
       <version>1.2.29</version>
     </versions>
-    <lastUpdated>20210223071231</lastUpdated>
+    <lastUpdated>20210225221818</lastUpdated>
   </versioning>
 </metadata>

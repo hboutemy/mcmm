@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-singleton-api</artifactId>
   <versioning>
-    <latest>22.0.1.Final</latest>
-    <release>22.0.1.Final</release>
+    <latest>23.0.0.Beta1</latest>
+    <release>23.0.0.Beta1</release>
     <versions>
       <version>10.0.0.Beta1</version>
       <version>10.0.0.Beta2</version>
@@ -56,7 +56,8 @@
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
       <version>22.0.1.Final</version>
+      <version>23.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20210211182153</lastUpdated>
+    <lastUpdated>20210225022809</lastUpdated>
   </versioning>
 </metadata>
