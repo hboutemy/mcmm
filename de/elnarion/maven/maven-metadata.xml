@@ -9,5 +9,9 @@
       <prefix>plantuml-generator</prefix>
       <artifactId>plantuml-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>xwiki-rest</prefix>
+      <artifactId>xwiki-rest-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

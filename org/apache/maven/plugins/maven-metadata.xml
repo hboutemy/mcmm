@@ -362,6 +362,11 @@
       <artifactId>maven-scm-publish-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Apache Maven Scripting Plugin</name>
+      <prefix>scripting</prefix>
+      <artifactId>maven-scripting-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven Shade Plugin</name>
       <prefix>shade</prefix>
       <artifactId>maven-shade-plugin</artifactId>

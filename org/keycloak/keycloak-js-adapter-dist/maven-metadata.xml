@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-js-adapter-dist</artifactId>
   <versioning>
-    <latest>12.0.3</latest>
-    <release>12.0.3</release>
+    <latest>12.0.4</latest>
+    <release>12.0.4</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -105,8 +105,9 @@
       <version>12.0.1</version>
       <version>12.0.2</version>
       <version>12.0.3</version>
+      <version>12.0.4</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20210216080838</lastUpdated>
+    <lastUpdated>20210301080322</lastUpdated>
   </versioning>
 </metadata>

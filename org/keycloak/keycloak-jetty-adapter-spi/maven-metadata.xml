@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-jetty-adapter-spi</artifactId>
   <versioning>
-    <latest>12.0.3</latest>
-    <release>12.0.3</release>
+    <latest>12.0.4</latest>
+    <release>12.0.4</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -94,7 +94,8 @@
       <version>12.0.1</version>
       <version>12.0.2</version>
       <version>12.0.3</version>
+      <version>12.0.4</version>
     </versions>
-    <lastUpdated>20210216080828</lastUpdated>
+    <lastUpdated>20210301080312</lastUpdated>
   </versioning>
 </metadata>
