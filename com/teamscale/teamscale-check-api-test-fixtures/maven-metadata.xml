@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-check-api-test-fixtures</artifactId>
   <versioning>
-    <latest>6.6.2</latest>
-    <release>6.6.2</release>
+    <latest>6.7.0-rc1</latest>
+    <release>6.7.0-rc1</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -97,13 +97,15 @@
       <version>6.5.5</version>
       <version>6.5.6</version>
       <version>6.5.7</version>
+      <version>6.5.8</version>
       <version>6.6.0-rc1</version>
       <version>6.6.0-rc2</version>
       <version>6.6.0-rc3</version>
       <version>6.6.0</version>
       <version>6.6.1</version>
       <version>6.6.2</version>
+      <version>6.7.0-rc1</version>
     </versions>
-    <lastUpdated>20210223161003</lastUpdated>
+    <lastUpdated>20210302165337</lastUpdated>
   </versioning>
 </metadata>

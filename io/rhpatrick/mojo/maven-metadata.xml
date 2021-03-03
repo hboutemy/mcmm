@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>github-maven-plugin</name>
+      <prefix>github</prefix>
+      <artifactId>github-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>WLST Test Maven Plugin</name>
       <prefix>wlst-test</prefix>
       <artifactId>wlst-test-maven-plugin</artifactId>

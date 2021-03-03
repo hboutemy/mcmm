@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-test-utils-junit</artifactId>
   <versioning>
-    <latest>1.12.1</latest>
-    <release>1.12.1</release>
+    <latest>1.12.2</latest>
+    <release>1.12.2</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -59,7 +59,8 @@
       <version>1.11.3</version>
       <version>1.12.0</version>
       <version>1.12.1</version>
+      <version>1.12.2</version>
     </versions>
-    <lastUpdated>20210128093223</lastUpdated>
+    <lastUpdated>20210302183732</lastUpdated>
   </versioning>
 </metadata>
