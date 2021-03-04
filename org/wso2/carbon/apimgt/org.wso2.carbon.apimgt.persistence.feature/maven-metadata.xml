@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.persistence.feature</artifactId>
   <versioning>
-    <latest>9.0.16</latest>
-    <release>9.0.16</release>
+    <latest>9.0.20</latest>
+    <release>9.0.20</release>
     <versions>
       <version>6.8.143</version>
       <version>6.8.144</version>
@@ -134,7 +134,11 @@
       <version>9.0.14</version>
       <version>9.0.15</version>
       <version>9.0.16</version>
+      <version>9.0.17</version>
+      <version>9.0.18</version>
+      <version>9.0.19</version>
+      <version>9.0.20</version>
     </versions>
-    <lastUpdated>20210302203541</lastUpdated>
+    <lastUpdated>20210303164554</lastUpdated>
   </versioning>
 </metadata>

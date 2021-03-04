@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Legend SDLC Entity Maven Plugin</name>
+      <prefix>legend-sdlc-entity</prefix>
+      <artifactId>legend-sdlc-entity-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Legend SDLC File Generation Maven Plugin</name>
+      <prefix>legend-sdlc-generation-file</prefix>
+      <artifactId>legend-sdlc-generation-file-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Legend SDLC Version Package Maven Plugin</name>
       <prefix>legend-sdlc-version-package</prefix>
       <artifactId>legend-sdlc-version-package-maven-plugin</artifactId>

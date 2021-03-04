@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elytron-security-oauth2-deployment</artifactId>
   <versioning>
-    <latest>1.12.0.Final</latest>
-    <release>1.12.0.Final</release>
+    <latest>1.12.1.Final</latest>
+    <release>1.12.1.Final</release>
     <versions>
       <version>0.20.0</version>
       <version>0.21.0</version>
@@ -87,7 +87,8 @@
       <version>1.11.5.Final</version>
       <version>1.12.0.CR1</version>
       <version>1.12.0.Final</version>
+      <version>1.12.1.Final</version>
     </versions>
-    <lastUpdated>20210226143518</lastUpdated>
+    <lastUpdated>20210303124852</lastUpdated>
   </versioning>
 </metadata>

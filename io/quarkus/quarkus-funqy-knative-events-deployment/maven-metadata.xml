@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-funqy-knative-events-deployment</artifactId>
   <versioning>
-    <latest>1.12.0.Final</latest>
-    <release>1.12.0.Final</release>
+    <latest>1.12.1.Final</latest>
+    <release>1.12.1.Final</release>
     <versions>
       <version>1.5.0.CR1</version>
       <version>1.5.0.Final</version>
@@ -49,7 +49,8 @@
       <version>1.11.5.Final</version>
       <version>1.12.0.CR1</version>
       <version>1.12.0.Final</version>
+      <version>1.12.1.Final</version>
     </versions>
-    <lastUpdated>20210226143521</lastUpdated>
+    <lastUpdated>20210303124854</lastUpdated>
   </versioning>
 </metadata>
