@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-drive</artifactId>
   <versioning>
-    <latest>v3-rev20210207-1.31.0</latest>
-    <release>v3-rev20210207-1.31.0</release>
+    <latest>v3-rev20210228-1.31.0</latest>
+    <release>v3-rev20210228-1.31.0</release>
     <versions>
       <version>v1-rev45-1.13.2-beta</version>
       <version>v1-rev45-1.14.1-beta</version>
@@ -1587,6 +1587,7 @@
       <version>v2-rev20201130-1.31.0</version>
       <version>v2-rev20210201-1.31.0</version>
       <version>v2-rev20210207-1.31.0</version>
+      <version>v2-rev20210228-1.31.0</version>
       <version>v3-rev1-1.18.0-rc</version>
       <version>v3-rev1-1.19.1</version>
       <version>v3-rev1-1.20.0</version>
@@ -2215,6 +2216,7 @@
       <version>v3-rev20201130-1.31.0</version>
       <version>v3-rev20210201-1.31.0</version>
       <version>v3-rev20210207-1.31.0</version>
+      <version>v3-rev20210228-1.31.0</version>
       <version>v1-rev126-1.18.0-rc</version>
       <version>v1-rev126-1.19.0</version>
       <version>v1-rev126-1.19.1</version>
@@ -2224,6 +2226,6 @@
       <version>v2-rev174-1.19.1</version>
       <version>v2-rev174-1.20.0</version>
     </versions>
-    <lastUpdated>20210211213053</lastUpdated>
+    <lastUpdated>20210304211018</lastUpdated>
   </versioning>
 </metadata>
