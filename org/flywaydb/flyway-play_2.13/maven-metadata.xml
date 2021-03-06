@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-play_2.13</artifactId>
   <versioning>
-    <latest>7.2.0</latest>
-    <release>7.2.0</release>
+    <latest>7.6.0</latest>
+    <release>7.6.0</release>
     <versions>
       <version>5.3.3</version>
       <version>5.4.0</version>
@@ -12,7 +12,9 @@
       <version>6.2.0</version>
       <version>6.5.0</version>
       <version>7.2.0</version>
+      <version>7.5.0</version>
+      <version>7.6.0</version>
     </versions>
-    <lastUpdated>20210112062244</lastUpdated>
+    <lastUpdated>20210305120613</lastUpdated>
   </versioning>
 </metadata>

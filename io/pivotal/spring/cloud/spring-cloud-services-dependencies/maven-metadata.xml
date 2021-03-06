@@ -3,8 +3,8 @@
   <groupId>io.pivotal.spring.cloud</groupId>
   <artifactId>spring-cloud-services-dependencies</artifactId>
   <versioning>
-    <latest>3.2.0.RELEASE</latest>
-    <release>3.2.0.RELEASE</release>
+    <latest>3.2.1.RELEASE</latest>
+    <release>3.2.1.RELEASE</release>
     <versions>
       <version>1.1.0.RELEASE</version>
       <version>1.1.1.RELEASE</version>
@@ -53,7 +53,8 @@
       <version>3.1.5.RELEASE</version>
       <version>3.1.6.RELEASE</version>
       <version>3.2.0.RELEASE</version>
+      <version>3.2.1.RELEASE</version>
     </versions>
-    <lastUpdated>20210127220348</lastUpdated>
+    <lastUpdated>20210305222503</lastUpdated>
   </versioning>
 </metadata>
