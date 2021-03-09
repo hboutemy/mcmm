@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-dist-legacy</artifactId>
   <versioning>
-    <latest>15.0.0.Beta1</latest>
-    <release>15.0.0.Beta1</release>
+    <latest>15.0.0.Final</latest>
+    <release>15.0.0.Final</release>
     <versions>
       <version>5.0.0.Alpha6</version>
       <version>5.0.0.Alpha7</version>
@@ -104,7 +104,8 @@
       <version>14.0.0.Final</version>
       <version>14.0.1.Final</version>
       <version>15.0.0.Beta1</version>
+      <version>15.0.0.Final</version>
     </versions>
-    <lastUpdated>20210222131938</lastUpdated>
+    <lastUpdated>20210308124439</lastUpdated>
   </versioning>
 </metadata>

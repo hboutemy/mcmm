@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>sms-otp-authentication-portal</artifactId>
   <versioning>
-    <latest>1.2.54</latest>
-    <release>1.2.54</release>
+    <latest>1.2.59</latest>
+    <release>1.2.59</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -877,7 +877,12 @@
       <version>1.2.52</version>
       <version>1.2.53</version>
       <version>1.2.54</version>
+      <version>1.2.55</version>
+      <version>1.2.56</version>
+      <version>1.2.57</version>
+      <version>1.2.58</version>
+      <version>1.2.59</version>
     </versions>
-    <lastUpdated>20210305055911</lastUpdated>
+    <lastUpdated>20210308185556</lastUpdated>
   </versioning>
 </metadata>
