@@ -3,8 +3,8 @@
   <groupId>io.netty</groupId>
   <artifactId>netty-transport-native-kqueue</artifactId>
   <versioning>
-    <latest>4.1.59.Final</latest>
-    <release>4.1.59.Final</release>
+    <latest>4.1.60.Final</latest>
+    <release>4.1.60.Final</release>
     <versions>
       <version>4.1.11.Final</version>
       <version>4.1.12.Final</version>
@@ -55,7 +55,8 @@
       <version>4.1.57.Final</version>
       <version>4.1.58.Final</version>
       <version>4.1.59.Final</version>
+      <version>4.1.60.Final</version>
     </versions>
-    <lastUpdated>20210208132619</lastUpdated>
+    <lastUpdated>20210309090008</lastUpdated>
   </versioning>
 </metadata>
