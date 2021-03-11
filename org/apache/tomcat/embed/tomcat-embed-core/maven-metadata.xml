@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
   <versioning>
-    <latest>10.0.2</latest>
-    <release>10.0.2</release>
+    <latest>10.0.4</latest>
+    <release>10.0.4</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -177,6 +177,7 @@
       <version>8.5.60</version>
       <version>8.5.61</version>
       <version>8.5.63</version>
+      <version>8.5.64</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -230,6 +231,7 @@
       <version>9.0.40</version>
       <version>9.0.41</version>
       <version>9.0.43</version>
+      <version>9.0.44</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -241,7 +243,8 @@
       <version>10.0.0-M10</version>
       <version>10.0.0</version>
       <version>10.0.2</version>
+      <version>10.0.4</version>
     </versions>
-    <lastUpdated>20210205065309</lastUpdated>
+    <lastUpdated>20210310114823</lastUpdated>
   </versioning>
 </metadata>

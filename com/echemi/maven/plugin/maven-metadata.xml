@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>static-file-add-version-maven-plugin</name>
+      <prefix>static-file-add-version</prefix>
+      <artifactId>static-file-add-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

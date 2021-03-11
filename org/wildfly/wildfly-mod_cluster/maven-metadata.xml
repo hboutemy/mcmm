@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-mod_cluster</artifactId>
   <versioning>
-    <latest>23.0.0.Beta1</latest>
-    <release>23.0.0.Beta1</release>
+    <latest>23.0.0.Final</latest>
+    <release>23.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha3</version>
       <version>8.0.0.Alpha4</version>
@@ -81,7 +81,8 @@
       <version>22.0.0.Final</version>
       <version>22.0.1.Final</version>
       <version>23.0.0.Beta1</version>
+      <version>23.0.0.Final</version>
     </versions>
-    <lastUpdated>20210225022900</lastUpdated>
+    <lastUpdated>20210310222444</lastUpdated>
   </versioning>
 </metadata>

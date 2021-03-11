@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-marshalling-protostream</artifactId>
   <versioning>
-    <latest>23.0.0.Beta1</latest>
-    <release>23.0.0.Beta1</release>
+    <latest>23.0.0.Final</latest>
+    <release>23.0.0.Final</release>
     <versions>
       <version>21.0.0.Beta1</version>
       <version>21.0.0.Final</version>
@@ -15,7 +15,8 @@
       <version>22.0.0.Final</version>
       <version>22.0.1.Final</version>
       <version>23.0.0.Beta1</version>
+      <version>23.0.0.Final</version>
     </versions>
-    <lastUpdated>20210225022807</lastUpdated>
+    <lastUpdated>20210310222354</lastUpdated>
   </versioning>
 </metadata>
