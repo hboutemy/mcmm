@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-build</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -60,8 +60,9 @@
       <version>2.3.2.RELEASE</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
       <version>2.1.0.RELEASE</version>
     </versions>
-    <lastUpdated>20210208210127</lastUpdated>
+    <lastUpdated>20210311164506</lastUpdated>
   </versioning>
 </metadata>

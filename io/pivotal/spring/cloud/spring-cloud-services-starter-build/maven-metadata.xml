@@ -3,8 +3,8 @@
   <groupId>io.pivotal.spring.cloud</groupId>
   <artifactId>spring-cloud-services-starter-build</artifactId>
   <versioning>
-    <latest>2.3.1.RELEASE</latest>
-    <release>2.3.1.RELEASE</release>
+    <latest>2.4.1</latest>
+    <release>2.4.1</release>
     <versions>
       <version>1.0.1.RELEASE</version>
       <version>1.0.2.RELEASE</version>
@@ -45,7 +45,8 @@
       <version>2.2.6.RELEASE</version>
       <version>2.3.0.RELEASE</version>
       <version>2.3.1.RELEASE</version>
+      <version>2.4.1</version>
     </versions>
-    <lastUpdated>20201112195840</lastUpdated>
+    <lastUpdated>20210311164631</lastUpdated>
   </versioning>
 </metadata>
