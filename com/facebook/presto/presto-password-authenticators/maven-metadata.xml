@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-password-authenticators</artifactId>
   <versioning>
-    <latest>0.248</latest>
-    <release>0.248</release>
+    <latest>0.248.1</latest>
+    <release>0.248.1</release>
     <versions>
       <version>0.195</version>
       <version>0.196</version>
@@ -83,7 +83,8 @@
       <version>0.246</version>
       <version>0.247</version>
       <version>0.248</version>
+      <version>0.248.1</version>
     </versions>
-    <lastUpdated>20210304190953</lastUpdated>
+    <lastUpdated>20210312205822</lastUpdated>
   </versioning>
 </metadata>

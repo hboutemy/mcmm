@@ -3,8 +3,8 @@
   <groupId>org.bitbucket.bradleysmithllc.etlunit</groupId>
   <artifactId>etlunit-sql-server-database</artifactId>
   <versioning>
-    <latest>4.3.8-eu</latest>
-    <release>4.3.8-eu</release>
+    <latest>4.4.2-eu</latest>
+    <release>4.4.2-eu</release>
     <versions>
       <version>etlunit-4.2.1</version>
       <version>etlunit-4.2.2</version>
@@ -174,7 +174,10 @@
       <version>4.3.6-eu</version>
       <version>4.3.7-eu</version>
       <version>4.3.8-eu</version>
+      <version>4.4.0-eu</version>
+      <version>4.4.1-eu</version>
+      <version>4.4.2-eu</version>
     </versions>
-    <lastUpdated>20210309205351</lastUpdated>
+    <lastUpdated>20210312182612</lastUpdated>
   </versioning>
 </metadata>

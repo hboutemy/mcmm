@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-hive-hadoop2</artifactId>
   <versioning>
-    <latest>0.248</latest>
-    <release>0.248</release>
+    <latest>0.248.1</latest>
+    <release>0.248.1</release>
     <versions>
       <version>0.57</version>
       <version>0.58</version>
@@ -231,7 +231,8 @@
       <version>0.246</version>
       <version>0.247</version>
       <version>0.248</version>
+      <version>0.248.1</version>
     </versions>
-    <lastUpdated>20210304190927</lastUpdated>
+    <lastUpdated>20210312205753</lastUpdated>
   </versioning>
 </metadata>
