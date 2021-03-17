@@ -3,8 +3,8 @@
   <groupId>org.eclipse.platform</groupId>
   <artifactId>org.eclipse.equinox.p2.updatesite</artifactId>
   <versioning>
-    <latest>1.1.400</latest>
-    <release>1.1.400</release>
+    <latest>1.1.500</latest>
+    <release>1.1.500</release>
     <versions>
       <version>1.0.600</version>
       <version>1.0.601</version>
@@ -13,7 +13,8 @@
       <version>1.1.200</version>
       <version>1.1.300</version>
       <version>1.1.400</version>
+      <version>1.1.500</version>
     </versions>
-    <lastUpdated>20200617115622</lastUpdated>
+    <lastUpdated>20210316130519</lastUpdated>
   </versioning>
 </metadata>

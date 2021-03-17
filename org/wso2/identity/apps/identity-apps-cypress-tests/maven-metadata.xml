@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>identity-apps-cypress-tests</artifactId>
   <versioning>
-    <latest>1.2.75</latest>
-    <release>1.2.75</release>
+    <latest>1.2.80</latest>
+    <release>1.2.80</release>
     <versions>
       <version>1.0.475</version>
       <version>1.0.476</version>
@@ -425,7 +425,12 @@
       <version>1.2.73</version>
       <version>1.2.74</version>
       <version>1.2.75</version>
+      <version>1.2.76</version>
+      <version>1.2.77</version>
+      <version>1.2.78</version>
+      <version>1.2.79</version>
+      <version>1.2.80</version>
     </versions>
-    <lastUpdated>20210315164643</lastUpdated>
+    <lastUpdated>20210316191110</lastUpdated>
   </versioning>
 </metadata>
