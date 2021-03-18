@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-provisioning-parent</artifactId>
   <versioning>
-    <latest>5.1.0.Final</latest>
-    <release>5.1.0.Final</release>
+    <latest>5.1.1.Final</latest>
+    <release>5.1.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -98,7 +98,8 @@
       <version>5.0.0.Final</version>
       <version>5.0.1.Final</version>
       <version>5.1.0.Final</version>
+      <version>5.1.1.Final</version>
     </versions>
-    <lastUpdated>20210219130312</lastUpdated>
+    <lastUpdated>20210317083451</lastUpdated>
   </versioning>
 </metadata>
