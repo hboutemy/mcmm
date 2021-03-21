@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>dependency-versions-check</prefix>
+      <artifactId>dependency-versions-check-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>duplicate-finder-maven-plugin Maven Mojo</name>
       <prefix>duplicate-finder</prefix>
       <artifactId>duplicate-finder-maven-plugin</artifactId>
