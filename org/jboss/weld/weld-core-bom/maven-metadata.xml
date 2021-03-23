@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-core-bom</artifactId>
   <versioning>
-    <latest>4.0.0.Final</latest>
-    <release>4.0.0.Final</release>
+    <latest>4.0.1.Final</latest>
+    <release>4.0.1.Final</release>
     <versions>
       <version>1.0.0-CR1</version>
       <version>1.0.0-CR1-SP1</version>
@@ -191,7 +191,8 @@
       <version>4.0.0.Beta5</version>
       <version>4.0.0.CR1</version>
       <version>4.0.0.Final</version>
+      <version>4.0.1.Final</version>
     </versions>
-    <lastUpdated>20210318140511</lastUpdated>
+    <lastUpdated>20210322141750</lastUpdated>
   </versioning>
 </metadata>

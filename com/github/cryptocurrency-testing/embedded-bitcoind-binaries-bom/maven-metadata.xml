@@ -3,12 +3,15 @@
   <groupId>com.github.cryptocurrency-testing</groupId>
   <artifactId>embedded-bitcoind-binaries-bom</artifactId>
   <versioning>
-    <latest>0.19.1-fromsrc</latest>
-    <release>0.19.1-fromsrc</release>
+    <latest>0.21.0-fromsrc</latest>
+    <release>0.21.0-fromsrc</release>
     <versions>
       <version>0.19.0.1-fromsrc</version>
       <version>0.19.1-fromsrc</version>
+      <version>0.20.0-fromsrc</version>
+      <version>0.20.1-fromsrc</version>
+      <version>0.21.0-fromsrc</version>
     </versions>
-    <lastUpdated>20210316174620</lastUpdated>
+    <lastUpdated>20210322171215</lastUpdated>
   </versioning>
 </metadata>

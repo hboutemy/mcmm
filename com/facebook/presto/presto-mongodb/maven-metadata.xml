@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-mongodb</artifactId>
   <versioning>
-    <latest>0.249</latest>
-    <release>0.249</release>
+    <latest>0.249.1</latest>
+    <release>0.249.1</release>
     <versions>
       <version>0.146</version>
       <version>0.147</version>
@@ -138,7 +138,8 @@
       <version>0.248</version>
       <version>0.248.1</version>
       <version>0.249</version>
+      <version>0.249.1</version>
     </versions>
-    <lastUpdated>20210315234240</lastUpdated>
+    <lastUpdated>20210322181329</lastUpdated>
   </versioning>
 </metadata>
