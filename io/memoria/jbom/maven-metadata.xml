@@ -3,9 +3,10 @@
   <groupId>io.memoria</groupId>
   <artifactId>jbom</artifactId>
   <versioning>
-    <latest>0.26.0</latest>
-    <release>0.26.0</release>
+    <latest>0.32.0</latest>
+    <release>0.32.0</release>
     <versions>
+      <version>v0.31.0</version>
       <version>0.6.3</version>
       <version>0.6.7</version>
       <version>0.7.0</version>
@@ -28,7 +29,10 @@
       <version>0.24.0</version>
       <version>0.25.0</version>
       <version>0.26.0</version>
+      <version>0.29.0</version>
+      <version>0.30.0</version>
+      <version>0.32.0</version>
     </versions>
-    <lastUpdated>20210321163206</lastUpdated>
+    <lastUpdated>20210323204354</lastUpdated>
   </versioning>
 </metadata>

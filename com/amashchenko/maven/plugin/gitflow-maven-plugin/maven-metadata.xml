@@ -3,8 +3,8 @@
   <groupId>com.amashchenko.maven.plugin</groupId>
   <artifactId>gitflow-maven-plugin</artifactId>
   <versioning>
-    <latest>1.15.1</latest>
-    <release>1.15.1</release>
+    <latest>1.16.0</latest>
+    <release>1.16.0</release>
     <versions>
       <version>1.0.1-alpha1</version>
       <version>1.0.1-alpha2</version>
@@ -35,7 +35,8 @@
       <version>1.14.0</version>
       <version>1.15.0</version>
       <version>1.15.1</version>
+      <version>1.16.0</version>
     </versions>
-    <lastUpdated>20210114165446</lastUpdated>
+    <lastUpdated>20210323105145</lastUpdated>
   </versioning>
 </metadata>

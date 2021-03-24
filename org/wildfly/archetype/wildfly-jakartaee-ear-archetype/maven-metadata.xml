@@ -3,8 +3,8 @@
   <groupId>org.wildfly.archetype</groupId>
   <artifactId>wildfly-jakartaee-ear-archetype</artifactId>
   <versioning>
-    <latest>22.0.0.Final</latest>
-    <release>22.0.0.Final</release>
+    <latest>23.0.0.Final</latest>
+    <release>23.0.0.Final</release>
     <versions>
       <version>18.0.0.Final</version>
       <version>19.0.0.Final</version>
@@ -12,7 +12,8 @@
       <version>20.0.0.Final</version>
       <version>21.0.0.Final</version>
       <version>22.0.0.Final</version>
+      <version>23.0.0.Final</version>
     </versions>
-    <lastUpdated>20210208124742</lastUpdated>
+    <lastUpdated>20210323200302</lastUpdated>
   </versioning>
 </metadata>

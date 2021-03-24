@@ -3,8 +3,8 @@
   <groupId>org.jboss.ws.cxf</groupId>
   <artifactId>jbossws-cxf-transports-undertow</artifactId>
   <versioning>
-    <latest>5.4.2.Final</latest>
-    <release>5.4.2.Final</release>
+    <latest>5.4.3.Final</latest>
+    <release>5.4.3.Final</release>
     <versions>
       <version>4.3.0.Beta1</version>
       <version>4.3.0.Beta2</version>
@@ -47,7 +47,8 @@
       <version>5.4.0.Final</version>
       <version>5.4.1.Final</version>
       <version>5.4.2.Final</version>
+      <version>5.4.3.Final</version>
     </versions>
-    <lastUpdated>20200911042641</lastUpdated>
+    <lastUpdated>20210323082755</lastUpdated>
   </versioning>
 </metadata>
