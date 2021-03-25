@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Terratest Maven plugin</name>
+      <prefix>terratest</prefix>
+      <artifactId>terratest-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.client3</groupId>
   <artifactId>async-http-client-backend-zio_2.13</artifactId>
   <versioning>
-    <latest>3.1.9</latest>
-    <release>3.1.9</release>
+    <latest>3.2.0</latest>
+    <release>3.2.0</release>
     <versions>
       <version>3.0.0-RC4</version>
       <version>3.0.0-RC5</version>
@@ -26,7 +26,8 @@
       <version>3.1.6</version>
       <version>3.1.7</version>
       <version>3.1.9</version>
+      <version>3.2.0</version>
     </versions>
-    <lastUpdated>20210318123950</lastUpdated>
+    <lastUpdated>20210324140619</lastUpdated>
   </versioning>
 </metadata>

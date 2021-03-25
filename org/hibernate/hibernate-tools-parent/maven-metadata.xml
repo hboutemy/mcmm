@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-tools-parent</artifactId>
   <versioning>
-    <latest>5.4.29a.Final</latest>
-    <release>5.4.29a.Final</release>
+    <latest>5.4.30.Final</latest>
+    <release>5.4.30.Final</release>
     <versions>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
@@ -65,7 +65,8 @@
       <version>5.4.28.Final</version>
       <version>5.4.29.Final</version>
       <version>5.4.29a.Final</version>
+      <version>5.4.30.Final</version>
     </versions>
-    <lastUpdated>20210309122912</lastUpdated>
+    <lastUpdated>20210324174116</lastUpdated>
   </versioning>
 </metadata>

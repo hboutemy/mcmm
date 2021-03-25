@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud</groupId>
   <artifactId>neo-java-web-api</artifactId>
   <versioning>
-    <latest>3.125.9</latest>
-    <release>3.125.9</release>
+    <latest>3.126.7</latest>
+    <release>3.126.7</release>
     <versions>
       <version>1.43.20</version>
       <version>1.43.20.3</version>
@@ -289,6 +289,7 @@
       <version>2.168.5.2</version>
       <version>2.169.8.2</version>
       <version>2.170.7</version>
+      <version>2.171.7</version>
       <version>3.2.14</version>
       <version>3.3.9</version>
       <version>3.4.7</version>
@@ -412,7 +413,8 @@
       <version>3.123.6.2</version>
       <version>3.124.9.2</version>
       <version>3.125.9</version>
+      <version>3.126.7</version>
     </versions>
-    <lastUpdated>20210310153237</lastUpdated>
+    <lastUpdated>20210324153328</lastUpdated>
   </versioning>
 </metadata>

@@ -2,17 +2,17 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven plugin for the SDK for SAP BTP, Neo environment (Java Web Tomcat 8)</name>
+      <name>Maven plugin for the SAP BTP SDK for the Neo environment (Java Web Tomcat 8)</name>
       <prefix>neo-java-web</prefix>
       <artifactId>neo-java-web-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven plugin for the SDK for SAP BTP, Neo environment (Java EE 6 Web Profile)</name>
+      <name>Maven plugin for the SAP BTP SDK for the Neo environment (Java EE 6 Web Profile)</name>
       <prefix>neo-javaee6-wp</prefix>
       <artifactId>neo-javaee6-wp-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven plugin for the SDK for SAP BTP, Neo environment (Java EE 7 Web Profile TomEE 7)</name>
+      <name>Maven plugin for the SAP BTP SDK for the Neo environment (Java EE 7 Web Profile TomEE 7)</name>
       <prefix>neo-javaee7-wp</prefix>
       <artifactId>neo-javaee7-wp-maven-plugin</artifactId>
     </plugin>

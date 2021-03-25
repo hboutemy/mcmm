@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>live-document-maven-plugin Maven Plugin</name>
+      <prefix>live-document</prefix>
+      <artifactId>live-document-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>merge-cpd-pmd-report-maven-plugin</name>
       <prefix>merge-cpd-pmd-report</prefix>
       <artifactId>merge-cpd-pmd-report-maven-plugin</artifactId>

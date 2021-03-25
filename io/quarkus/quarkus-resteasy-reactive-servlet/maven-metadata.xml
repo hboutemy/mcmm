@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-reactive-servlet</artifactId>
   <versioning>
-    <latest>1.13.0.CR1</latest>
-    <release>1.13.0.CR1</release>
+    <latest>1.13.0.Final</latest>
+    <release>1.13.0.Final</release>
     <versions>
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
@@ -21,7 +21,8 @@
       <version>1.12.1.Final</version>
       <version>1.12.2.Final</version>
       <version>1.13.0.CR1</version>
+      <version>1.13.0.Final</version>
     </versions>
-    <lastUpdated>20210317151253</lastUpdated>
+    <lastUpdated>20210324140543</lastUpdated>
   </versioning>
 </metadata>
