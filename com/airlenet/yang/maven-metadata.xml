@@ -2,7 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>JNC yang maven plugin</name>
       <prefix>yang</prefix>
       <artifactId>yang-maven-plugin</artifactId>
     </plugin>

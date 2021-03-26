@@ -22,6 +22,11 @@
       <artifactId>nodejs-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Sling-Initial-Content Transformation Maven Plugin</name>
+      <prefix>sling-initial-content-transform</prefix>
+      <artifactId>sling-initial-content-transform-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Content Package Maven Plugin</name>
       <prefix>wcmio-content-package</prefix>
       <artifactId>wcmio-content-package-maven-plugin</artifactId>
