@@ -3,11 +3,16 @@
   <groupId>io.eventuate.plugins.gradle</groupId>
   <artifactId>eventuate-plugins-gradle-publish</artifactId>
   <versioning>
-    <latest>0.5.0.TEST.RELEASE</latest>
-    <release>0.5.0.TEST.RELEASE</release>
+    <latest>0.6.4.RELEASE</latest>
+    <release>0.6.4.RELEASE</release>
     <versions>
       <version>0.5.0.TEST.RELEASE</version>
+      <version>0.6.0.RELEASE</version>
+      <version>0.6.1.RELEASE</version>
+      <version>0.6.2.RELEASE</version>
+      <version>0.6.3.RELEASE</version>
+      <version>0.6.4.RELEASE</version>
     </versions>
-    <lastUpdated>20210316170338</lastUpdated>
+    <lastUpdated>20210328203835</lastUpdated>
   </versioning>
 </metadata>

@@ -92,6 +92,11 @@
       <artifactId>camel-restdsl-swagger-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: YAML DSL :: Maven Plugins</name>
+      <prefix>camel-yaml-dsl</prefix>
+      <artifactId>camel-yaml-dsl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Maven Plugins :: Camel Maven Guice (deprecated)</name>
       <prefix>guice</prefix>
       <artifactId>guice-maven-plugin</artifactId>
