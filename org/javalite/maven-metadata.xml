@@ -17,6 +17,11 @@
       <artifactId>activeweb-lessc-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JavaLite - ActiveWeb SASS Maven Plugin</name>
+      <prefix>activeweb-sass</prefix>
+      <artifactId>activeweb-sass-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JavaLite - DB-Migrator Maven Plugin</name>
       <prefix>db-migrator</prefix>
       <artifactId>db-migrator-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-nosql</artifactId>
   <versioning>
-    <latest>11.0.1</latest>
-    <release>11.0.1</release>
+    <latest>11.0.2</latest>
+    <release>11.0.2</release>
     <versions>
       <version>7.5.0.RC0</version>
       <version>7.5.0.RC1</version>
@@ -246,6 +246,7 @@
       <version>9.4.36.v20210114</version>
       <version>9.4.37.v20210219</version>
       <version>9.4.38.v20210224</version>
+      <version>9.4.39.v20210325</version>
       <version>10.0.0-alpha0</version>
       <version>10.0.0.alpha1</version>
       <version>10.0.0.alpha2</version>
@@ -255,13 +256,15 @@
       <version>10.0.0.beta3</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
+      <version>10.0.2</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
       <version>11.0.0.beta3</version>
       <version>11.0.0</version>
       <version>11.0.1</version>
+      <version>11.0.2</version>
     </versions>
-    <lastUpdated>20210226190204</lastUpdated>
+    <lastUpdated>20210329024606</lastUpdated>
   </versioning>
 </metadata>
