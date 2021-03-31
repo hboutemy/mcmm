@@ -3,8 +3,8 @@
   <groupId>io.undertow</groupId>
   <artifactId>undertow-parser-generator</artifactId>
   <versioning>
-    <latest>2.2.5.Final</latest>
-    <release>2.2.5.Final</release>
+    <latest>2.2.7.Final</latest>
+    <release>2.2.7.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -257,6 +257,8 @@
       <version>2.0.32.Final</version>
       <version>2.0.33.Final</version>
       <version>2.0.34.Final</version>
+      <version>2.0.35.Final</version>
+      <version>2.0.36.Final</version>
       <version>2.1.0.Final</version>
       <version>2.1.1.Final</version>
       <version>2.1.2.Final</version>
@@ -264,13 +266,16 @@
       <version>2.1.4.Final</version>
       <version>2.1.5.Final</version>
       <version>2.1.6.Final</version>
+      <version>2.1.7.Final</version>
       <version>2.2.0.Final</version>
       <version>2.2.1.Final</version>
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
       <version>2.2.4.Final</version>
       <version>2.2.5.Final</version>
+      <version>2.2.6.Final</version>
+      <version>2.2.7.Final</version>
     </versions>
-    <lastUpdated>20210305004449</lastUpdated>
+    <lastUpdated>20210330121016</lastUpdated>
   </versioning>
 </metadata>

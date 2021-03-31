@@ -3,8 +3,8 @@
   <groupId>io.zeebe</groupId>
   <artifactId>zeebe-protocol-impl</artifactId>
   <versioning>
-    <latest>1.0.0-alpha3</latest>
-    <release>1.0.0-alpha3</release>
+    <latest>1.0.0-alpha4</latest>
+    <release>1.0.0-alpha4</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -65,10 +65,12 @@
       <version>0.26.0-rc1</version>
       <version>0.26.0</version>
       <version>0.26.1</version>
+      <version>0.26.2</version>
       <version>1.0.0-alpha1</version>
       <version>1.0.0-alpha2</version>
       <version>1.0.0-alpha3</version>
+      <version>1.0.0-alpha4</version>
     </versions>
-    <lastUpdated>20210317103815</lastUpdated>
+    <lastUpdated>20210330142614</lastUpdated>
   </versioning>
 </metadata>

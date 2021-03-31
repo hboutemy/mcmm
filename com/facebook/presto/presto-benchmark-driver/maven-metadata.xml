@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-benchmark-driver</artifactId>
   <versioning>
-    <latest>0.249.1</latest>
-    <release>0.249.1</release>
+    <latest>0.250</latest>
+    <release>0.250</release>
     <versions>
       <version>0.89</version>
       <version>0.90</version>
@@ -204,7 +204,8 @@
       <version>0.248.1</version>
       <version>0.249</version>
       <version>0.249.1</version>
+      <version>0.250</version>
     </versions>
-    <lastUpdated>20210322181238</lastUpdated>
+    <lastUpdated>20210330182427</lastUpdated>
   </versioning>
 </metadata>

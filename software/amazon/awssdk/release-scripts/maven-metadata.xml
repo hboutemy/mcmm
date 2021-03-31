@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>release-scripts</artifactId>
   <versioning>
-    <latest>2.16.30</latest>
-    <release>2.16.30</release>
+    <latest>2.16.31</latest>
+    <release>2.16.31</release>
     <versions>
       <version>2.1.4</version>
       <version>2.2.0</version>
@@ -513,7 +513,8 @@
       <version>2.16.28</version>
       <version>2.16.29</version>
       <version>2.16.30</version>
+      <version>2.16.31</version>
     </versions>
-    <lastUpdated>20210329191247</lastUpdated>
+    <lastUpdated>20210330191513</lastUpdated>
   </versioning>
 </metadata>

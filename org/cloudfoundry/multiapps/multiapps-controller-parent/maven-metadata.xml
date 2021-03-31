@@ -3,8 +3,8 @@
   <groupId>org.cloudfoundry.multiapps</groupId>
   <artifactId>multiapps-controller-parent</artifactId>
   <versioning>
-    <latest>1.120.0</latest>
-    <release>1.120.0</release>
+    <latest>1.120.1</latest>
+    <release>1.120.1</release>
     <versions>
       <version>1.107.0</version>
       <version>1.107.1</version>
@@ -35,7 +35,8 @@
       <version>1.119.1</version>
       <version>1.119.2</version>
       <version>1.120.0</version>
+      <version>1.120.1</version>
     </versions>
-    <lastUpdated>20210310143737</lastUpdated>
+    <lastUpdated>20210330124326</lastUpdated>
   </versioning>
 </metadata>
