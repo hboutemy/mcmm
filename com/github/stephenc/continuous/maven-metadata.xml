@@ -11,5 +11,10 @@
       <prefix>git-timestamp</prefix>
       <artifactId>git-timestamp-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Kubernetes To Properties Maven Plugin</name>
+      <prefix>k2p</prefix>
+      <artifactId>k2p-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

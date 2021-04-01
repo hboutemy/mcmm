@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-neo4j</artifactId>
   <versioning>
-    <latest>6.0.6</latest>
-    <release>6.0.6</release>
+    <latest>6.0.7</latest>
+    <release>6.0.7</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.1.0.RELEASE</version>
@@ -145,11 +145,12 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.6</version>
+      <version>6.0.7</version>
       <version>5.2.13.RELEASE</version>
       <version>5.3.7.RELEASE</version>
       <version>6.0.4</version>
       <version>6.0.5</version>
     </versions>
-    <lastUpdated>20210317100719</lastUpdated>
+    <lastUpdated>20210331163448</lastUpdated>
   </versioning>
 </metadata>
