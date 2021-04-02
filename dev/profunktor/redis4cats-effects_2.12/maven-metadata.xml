@@ -3,8 +3,8 @@
   <groupId>dev.profunktor</groupId>
   <artifactId>redis4cats-effects_2.12</artifactId>
   <versioning>
-    <latest>1.0.0RC1</latest>
-    <release>1.0.0RC1</release>
+    <latest>1.0.0-RC2</latest>
+    <release>1.0.0-RC2</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -29,8 +29,11 @@
       <version>0.11.0</version>
       <version>0.11.1</version>
       <version>0.12.0</version>
+      <version>0.12.1</version>
+      <version>0.13.1</version>
       <version>1.0.0RC1</version>
+      <version>1.0.0-RC2</version>
     </versions>
-    <lastUpdated>20210313174259</lastUpdated>
+    <lastUpdated>20210401105450</lastUpdated>
   </versioning>
 </metadata>
