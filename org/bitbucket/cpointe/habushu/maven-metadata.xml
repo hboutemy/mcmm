@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>habushu::Maven Plugin for Conda</name>
+      <name>habushu::Maven Plugin for Venv</name>
       <prefix>habushu</prefix>
       <artifactId>habushu-maven-plugin</artifactId>
     </plugin>

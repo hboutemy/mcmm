@@ -3,8 +3,8 @@
   <groupId>com.lightbend.cloudflow</groupId>
   <artifactId>cloudflow-flink_2.12</artifactId>
   <versioning>
-    <latest>2.0.26-SNAP3</latest>
-    <release>2.0.26-SNAP3</release>
+    <latest>2.0.26-SNAP11</latest>
+    <release>2.0.26-SNAP11</release>
     <versions>
       <version>0.0.0-NIGHTLY01122020</version>
       <version>0.0.0-NIGHTLY02122020</version>
@@ -303,6 +303,7 @@
       <version>2.0.25-NIGHTLY20210402</version>
       <version>2.0.25-NIGHTLY20210403</version>
       <version>2.0.25-NIGHTLY20210404</version>
+      <version>2.0.25-NIGHTLY20210405</version>
       <version>2.0.25-SNAP1</version>
       <version>2.0.25-SNAP2</version>
       <version>2.0.25-SNAP3</version>
@@ -311,7 +312,14 @@
       <version>2.0.26-SNAP1</version>
       <version>2.0.26-SNAP2</version>
       <version>2.0.26-SNAP3</version>
+      <version>2.0.26-SNAP4</version>
+      <version>2.0.26-SNAP6</version>
+      <version>2.0.26-SNAP7</version>
+      <version>2.0.26-SNAP8</version>
+      <version>2.0.26-SNAP9</version>
+      <version>2.0.26-SNAP10</version>
+      <version>2.0.26-SNAP11</version>
     </versions>
-    <lastUpdated>20210404002850</lastUpdated>
+    <lastUpdated>20210405130956</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Spell check Maven Plugin</name>
+      <prefix>spell-check</prefix>
+      <artifactId>spell-check-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
