@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-tribes</artifactId>
   <versioning>
-    <latest>10.0.4</latest>
-    <release>10.0.4</release>
+    <latest>10.0.5</latest>
+    <release>10.0.5</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -178,6 +178,7 @@
       <version>8.5.61</version>
       <version>8.5.63</version>
       <version>8.5.64</version>
+      <version>8.5.65</version>
       <version>9.0.0.M1</version>
       <version>9.0.0.M3</version>
       <version>9.0.0.M4</version>
@@ -232,6 +233,7 @@
       <version>9.0.41</version>
       <version>9.0.43</version>
       <version>9.0.44</version>
+      <version>9.0.45</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -244,7 +246,8 @@
       <version>10.0.0</version>
       <version>10.0.2</version>
       <version>10.0.4</version>
+      <version>10.0.5</version>
     </versions>
-    <lastUpdated>20210310114828</lastUpdated>
+    <lastUpdated>20210406111438</lastUpdated>
   </versioning>
 </metadata>
