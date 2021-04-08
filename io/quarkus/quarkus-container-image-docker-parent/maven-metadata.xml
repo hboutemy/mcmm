@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image-docker-parent</artifactId>
   <versioning>
-    <latest>1.13.0.Final</latest>
-    <release>1.13.0.Final</release>
+    <latest>1.13.1.Final</latest>
+    <release>1.13.1.Final</release>
     <versions>
       <version>1.3.0.CR1</version>
       <version>1.3.0.CR2</version>
@@ -65,7 +65,8 @@
       <version>1.12.2.Final</version>
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
+      <version>1.13.1.Final</version>
     </versions>
-    <lastUpdated>20210324140501</lastUpdated>
+    <lastUpdated>20210407152558</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.aerospike</groupId>
   <artifactId>aerospike-client</artifactId>
   <versioning>
-    <latest>5.0.6</latest>
-    <release>5.0.6</release>
+    <latest>5.0.6.dbg</latest>
+    <release>5.0.6.dbg</release>
     <versions>
       <version>3.0.20</version>
       <version>3.0.22</version>
@@ -95,7 +95,8 @@
       <version>5.0.4</version>
       <version>5.0.5</version>
       <version>5.0.6</version>
+      <version>5.0.6.dbg</version>
     </versions>
-    <lastUpdated>20210331234127</lastUpdated>
+    <lastUpdated>20210407022455</lastUpdated>
   </versioning>
 </metadata>
