@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-common-nacos</artifactId>
   <versioning>
-    <latest>6.8.0</latest>
-    <release>6.8.0</release>
+    <latest>6.9.0</latest>
+    <release>6.9.0</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -141,6 +141,7 @@
       <version>3.22.0</version>
       <version>3.23.0</version>
       <version>3.24.0</version>
+      <version>3.25.0</version>
       <version>4.1.7</version>
       <version>4.1.8</version>
       <version>4.1.9</version>
@@ -324,7 +325,8 @@
       <version>6.6.0</version>
       <version>6.7.0</version>
       <version>6.8.0</version>
+      <version>6.9.0</version>
     </versions>
-    <lastUpdated>20210331165831</lastUpdated>
+    <lastUpdated>20210408054552</lastUpdated>
   </versioning>
 </metadata>
