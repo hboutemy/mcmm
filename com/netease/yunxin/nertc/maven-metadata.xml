@@ -3,12 +3,14 @@
   <groupId>com.netease.yunxin</groupId>
   <artifactId>nertc</artifactId>
   <versioning>
-    <latest>4.1.0</latest>
-    <release>4.1.0</release>
+    <latest>4.1.0-maven</latest>
+    <release>4.1.0-maven</release>
     <versions>
+      <version>1.1.0-maven</version>
       <version>1.1.0-test</version>
       <version>4.1.0</version>
+      <version>4.1.0-maven</version>
     </versions>
-    <lastUpdated>20210408031452</lastUpdated>
+    <lastUpdated>20210409110628</lastUpdated>
   </versioning>
 </metadata>

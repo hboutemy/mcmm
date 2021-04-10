@@ -3,8 +3,8 @@
   <groupId>io.joynr.java.messaging.mqtt</groupId>
   <artifactId>hivemq-mqtt-client</artifactId>
   <versioning>
-    <latest>1.15.11</latest>
-    <release>1.15.11</release>
+    <latest>1.15.12</latest>
+    <release>1.15.12</release>
     <versions>
       <version>1.8.3</version>
       <version>1.8.4</version>
@@ -40,7 +40,8 @@
       <version>1.15.9</version>
       <version>1.15.10</version>
       <version>1.15.11</version>
+      <version>1.15.12</version>
     </versions>
-    <lastUpdated>20210331160046</lastUpdated>
+    <lastUpdated>20210409092705</lastUpdated>
   </versioning>
 </metadata>

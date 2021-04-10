@@ -3,8 +3,8 @@
   <groupId>com.lightbend.lagom</groupId>
   <artifactId>lagom-javadsl-akka-discovery-service-locator_2.12</artifactId>
   <versioning>
-    <latest>1.6.5-RC1</latest>
-    <release>1.6.5-RC1</release>
+    <latest>1.6.5</latest>
+    <release>1.6.5</release>
     <versions>
       <version>0.0.12</version>
       <version>0.1.0</version>
@@ -33,7 +33,9 @@
       <version>1.6.3</version>
       <version>1.6.4</version>
       <version>1.6.5-RC1</version>
+      <version>1.6.5-RC2</version>
+      <version>1.6.5</version>
     </versions>
-    <lastUpdated>20201106112910</lastUpdated>
+    <lastUpdated>20210409164722</lastUpdated>
   </versioning>
 </metadata>
