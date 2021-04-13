@@ -3,8 +3,8 @@
   <groupId>org.apache.solr</groupId>
   <artifactId>solr-dataimporthandler-extras</artifactId>
   <versioning>
-    <latest>8.8.1</latest>
-    <release>8.8.1</release>
+    <latest>8.8.2</latest>
+    <release>8.8.2</release>
     <versions>
       <version>1.4.0</version>
       <version>1.4.1</version>
@@ -106,7 +106,8 @@
       <version>8.7.0</version>
       <version>8.8.0</version>
       <version>8.8.1</version>
+      <version>8.8.2</version>
     </versions>
-    <lastUpdated>20210222150905</lastUpdated>
+    <lastUpdated>20210412160208</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,15 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>apm-influxdb-2.x-plugin</artifactId>
   <versioning>
-    <latest>8.4.0</latest>
-    <release>8.4.0</release>
+    <latest>8.5.0</latest>
+    <release>8.5.0</release>
     <versions>
       <version>8.1.0</version>
       <version>8.2.0</version>
       <version>8.3.0</version>
       <version>8.4.0</version>
+      <version>8.5.0</version>
     </versions>
-    <lastUpdated>20210204091226</lastUpdated>
+    <lastUpdated>20210412133838</lastUpdated>
   </versioning>
 </metadata>
