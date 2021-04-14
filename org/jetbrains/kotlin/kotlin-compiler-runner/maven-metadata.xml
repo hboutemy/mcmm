@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-compiler-runner</artifactId>
   <versioning>
-    <latest>1.5.0-M2</latest>
-    <release>1.5.0-M2</release>
+    <latest>1.5.0-RC</latest>
+    <release>1.5.0-RC</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -72,7 +72,8 @@
       <version>1.4.32</version>
       <version>1.5.0-M1</version>
       <version>1.5.0-M2</version>
+      <version>1.5.0-RC</version>
     </versions>
-    <lastUpdated>20210329073415</lastUpdated>
+    <lastUpdated>20210413174001</lastUpdated>
   </versioning>
 </metadata>

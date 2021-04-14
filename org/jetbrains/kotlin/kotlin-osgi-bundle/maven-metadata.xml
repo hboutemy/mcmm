@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-osgi-bundle</artifactId>
   <versioning>
-    <latest>1.5.0-M2</latest>
-    <release>1.5.0-M2</release>
+    <latest>1.5.0-RC</latest>
+    <release>1.5.0-RC</release>
     <versions>
       <version>1.0.0-beta-1038</version>
       <version>1.0.0-beta-1103</version>
@@ -94,7 +94,8 @@
       <version>1.4.32</version>
       <version>1.5.0-M1</version>
       <version>1.5.0-M2</version>
+      <version>1.5.0-RC</version>
     </versions>
-    <lastUpdated>20210329073434</lastUpdated>
+    <lastUpdated>20210413174024</lastUpdated>
   </versioning>
 </metadata>
