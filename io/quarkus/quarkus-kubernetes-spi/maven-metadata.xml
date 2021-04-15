@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-kubernetes-spi</artifactId>
   <versioning>
-    <latest>1.13.1.Final</latest>
-    <release>1.13.1.Final</release>
+    <latest>1.13.2.Final</latest>
+    <release>1.13.2.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -105,7 +105,8 @@
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
       <version>1.13.1.Final</version>
+      <version>1.13.2.Final</version>
     </versions>
-    <lastUpdated>20210407152624</lastUpdated>
+    <lastUpdated>20210414130629</lastUpdated>
   </versioning>
 </metadata>

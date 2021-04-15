@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jsonb-spi</artifactId>
   <versioning>
-    <latest>1.13.1.Final</latest>
-    <release>1.13.1.Final</release>
+    <latest>1.13.2.Final</latest>
+    <release>1.13.2.Final</release>
     <versions>
       <version>0.24.0</version>
       <version>0.25.0</version>
@@ -85,7 +85,8 @@
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
       <version>1.13.1.Final</version>
+      <version>1.13.2.Final</version>
     </versions>
-    <lastUpdated>20210407152620</lastUpdated>
+    <lastUpdated>20210414130624</lastUpdated>
   </versioning>
 </metadata>

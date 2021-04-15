@@ -3,8 +3,8 @@
   <groupId>org.springframework.session</groupId>
   <artifactId>spring-session-data-gemfire</artifactId>
   <versioning>
-    <latest>2.3.4.RELEASE</latest>
-    <release>2.3.4.RELEASE</release>
+    <latest>2.3.5.RELEASE</latest>
+    <release>2.3.5.RELEASE</release>
     <versions>
       <version>1.1.0.RC1</version>
       <version>1.1.0.RELEASE</version>
@@ -51,12 +51,14 @@
       <version>2.2.5.RELEASE</version>
       <version>2.2.6.RELEASE</version>
       <version>2.2.7.RELEASE</version>
+      <version>2.2.8.RELEASE</version>
       <version>2.3.0.RELEASE</version>
       <version>2.3.1.RELEASE</version>
       <version>2.3.2.RELEASE</version>
       <version>2.3.3.RELEASE</version>
       <version>2.3.4.RELEASE</version>
+      <version>2.3.5.RELEASE</version>
     </versions>
-    <lastUpdated>20210222223423</lastUpdated>
+    <lastUpdated>20210414210320</lastUpdated>
   </versioning>
 </metadata>
