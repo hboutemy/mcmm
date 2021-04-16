@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-jepsen-tests</artifactId>
   <versioning>
-    <latest>0.322.2</latest>
-    <release>0.322.2</release>
+    <latest>0.322.3</latest>
+    <release>0.322.3</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.314.0</version>
@@ -25,7 +25,8 @@
       <version>0.322.0</version>
       <version>0.322.1</version>
       <version>0.322.2</version>
+      <version>0.322.3</version>
     </versions>
-    <lastUpdated>20210414181134</lastUpdated>
+    <lastUpdated>20210415121541</lastUpdated>
   </versioning>
 </metadata>
