@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-remotebuildexecution</artifactId>
   <versioning>
-    <latest>v2-rev20210406-1.31.0</latest>
-    <release>v2-rev20210406-1.31.0</release>
+    <latest>v2-rev20210412-1.31.0</latest>
+    <release>v2-rev20210412-1.31.0</release>
     <versions>
       <version>v1alpha-rev7-1.18.0-rc</version>
       <version>v1alpha-rev7-1.22.0</version>
@@ -171,6 +171,7 @@
       <version>v1alpha-rev20210316-1.31.0</version>
       <version>v1alpha-rev20210322-1.31.0</version>
       <version>v1alpha-rev20210406-1.31.0</version>
+      <version>v1alpha-rev20210412-1.31.0</version>
       <version>v1-rev7-1.18.0-rc</version>
       <version>v1-rev7-1.22.0</version>
       <version>v1-rev7-1.23.0</version>
@@ -334,6 +335,7 @@
       <version>v1-rev20210316-1.31.0</version>
       <version>v1-rev20210322-1.31.0</version>
       <version>v1-rev20210406-1.31.0</version>
+      <version>v1-rev20210412-1.31.0</version>
       <version>v2-rev7-1.18.0-rc</version>
       <version>v2-rev7-1.22.0</version>
       <version>v2-rev7-1.23.0</version>
@@ -495,7 +497,8 @@
       <version>v2-rev20210316-1.31.0</version>
       <version>v2-rev20210322-1.31.0</version>
       <version>v2-rev20210406-1.31.0</version>
+      <version>v2-rev20210412-1.31.0</version>
     </versions>
-    <lastUpdated>20210408204453</lastUpdated>
+    <lastUpdated>20210416221510</lastUpdated>
   </versioning>
 </metadata>
