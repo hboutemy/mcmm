@@ -3,8 +3,8 @@
   <groupId>com.yahoo.elide</groupId>
   <artifactId>elide-datastore-parent-pom</artifactId>
   <versioning>
-    <latest>5.0.0-pr32</latest>
-    <release>5.0.0-pr32</release>
+    <latest>5.0.0-pr34</latest>
+    <release>5.0.0-pr34</release>
     <versions>
       <version>1.0.0.6</version>
       <version>1.0.0.7</version>
@@ -161,7 +161,8 @@
       <version>5.0.0-pr30</version>
       <version>5.0.0-pr31</version>
       <version>5.0.0-pr32</version>
+      <version>5.0.0-pr34</version>
     </versions>
-    <lastUpdated>20210312171547</lastUpdated>
+    <lastUpdated>20210419215238</lastUpdated>
   </versioning>
 </metadata>

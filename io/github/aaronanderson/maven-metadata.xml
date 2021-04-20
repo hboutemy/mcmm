@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Plugin for Workday OpenAPI Generator</name>
+      <prefix>wdjrs</prefix>
+      <artifactId>wdjrs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for Workday WSDL JAX-WS Import</name>
       <prefix>wdjws</prefix>
       <artifactId>wdjws-maven-plugin</artifactId>

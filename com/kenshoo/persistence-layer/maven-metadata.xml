@@ -3,12 +3,15 @@
   <groupId>com.kenshoo</groupId>
   <artifactId>persistence-layer</artifactId>
   <versioning>
-    <latest>0.1.68-jooq-3.11.12</latest>
-    <release>0.1.68-jooq-3.11.12</release>
+    <latest>0.1.70-jooq-3.11.12</latest>
+    <release>0.1.70-jooq-3.11.12</release>
     <versions>
       <version>0.1.0.1.69-jooq-3.9.3</version>
       <version>0.1.0.1.69-jooq-3.10.4</version>
       <version>0.1.0.1.69-jooq-3.11.12</version>
+      <version>0.1.0.1.70-jooq-3.9.3</version>
+      <version>0.1.0.1.70-jooq-3.10.4</version>
+      <version>0.1.0.1.70-jooq-3.11.12</version>
       <version>0.1.40-jooq-3.10.4</version>
       <version>0.1.41-jooq-3.9.3</version>
       <version>0.1.41-jooq-3.10.4</version>
@@ -59,7 +62,10 @@
       <version>0.1.68-jooq-3.9.3</version>
       <version>0.1.68-jooq-3.10.4</version>
       <version>0.1.68-jooq-3.11.12</version>
+      <version>0.1.70-jooq-3.9.3</version>
+      <version>0.1.70-jooq-3.10.4</version>
+      <version>0.1.70-jooq-3.11.12</version>
     </versions>
-    <lastUpdated>20210413124920</lastUpdated>
+    <lastUpdated>20210419151146</lastUpdated>
   </versioning>
 </metadata>
