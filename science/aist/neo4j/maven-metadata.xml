@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>neo4j-preprocessor Maven Plugin</name>
+      <prefix>neo4j-preprocessor</prefix>
+      <artifactId>neo4j-preprocessor</artifactId>
+    </plugin>
+    <plugin>
+      <name>neo4j-service-preprocessor Maven Plugin</name>
+      <prefix>neo4j-service-preprocessor</prefix>
+      <artifactId>neo4j-service-preprocessor</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

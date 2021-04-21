@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-planner-spi-3.5</artifactId>
   <versioning>
-    <latest>3.5.27</latest>
-    <release>3.5.27</release>
+    <latest>3.5.28</latest>
+    <release>3.5.28</release>
     <versions>
       <version>3.5.0-alpha01</version>
       <version>3.5.0-alpha02</version>
@@ -47,7 +47,8 @@
       <version>3.5.25</version>
       <version>3.5.26</version>
       <version>3.5.27</version>
+      <version>3.5.28</version>
     </versions>
-    <lastUpdated>20210325110516</lastUpdated>
+    <lastUpdated>20210420120831</lastUpdated>
   </versioning>
 </metadata>

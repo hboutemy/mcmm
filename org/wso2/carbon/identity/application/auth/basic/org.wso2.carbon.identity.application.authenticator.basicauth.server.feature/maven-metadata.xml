@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.application.auth.basic</groupId>
   <artifactId>org.wso2.carbon.identity.application.authenticator.basicauth.server.feature</artifactId>
   <versioning>
-    <latest>6.3.28</latest>
-    <release>6.3.28</release>
+    <latest>6.3.29</latest>
+    <release>6.3.29</release>
     <versions>
       <version>5.2.0</version>
       <version>5.2.1</version>
@@ -61,7 +61,8 @@
       <version>6.3.26</version>
       <version>6.3.27</version>
       <version>6.3.28</version>
+      <version>6.3.29</version>
     </versions>
-    <lastUpdated>20210325133845</lastUpdated>
+    <lastUpdated>20210420052206</lastUpdated>
   </versioning>
 </metadata>
