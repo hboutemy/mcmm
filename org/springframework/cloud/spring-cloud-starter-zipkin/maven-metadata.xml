@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-zipkin</artifactId>
   <versioning>
-    <latest>2.2.7.RELEASE</latest>
-    <release>2.2.7.RELEASE</release>
+    <latest>2.2.8.RELEASE</latest>
+    <release>2.2.8.RELEASE</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -59,7 +59,8 @@
       <version>2.2.5.RELEASE</version>
       <version>2.2.6.RELEASE</version>
       <version>2.2.7.RELEASE</version>
+      <version>2.2.8.RELEASE</version>
     </versions>
-    <lastUpdated>20210211155451</lastUpdated>
+    <lastUpdated>20210421202001</lastUpdated>
   </versioning>
 </metadata>

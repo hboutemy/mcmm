@@ -3,8 +3,8 @@
   <groupId>com.amazon.deequ</groupId>
   <artifactId>deequ</artifactId>
   <versioning>
-    <latest>1.1.0_spark-3.0-scala-2.12</latest>
-    <release>1.1.0_spark-3.0-scala-2.12</release>
+    <latest>1.2.1-spark-3.0</latest>
+    <release>1.2.1-spark-3.0</release>
     <versions>
       <version>1.0.3-RC1</version>
       <version>1.0.3-rc2</version>
@@ -17,6 +17,11 @@
       <version>1.1.0_spark-2.3-scala-2.11</version>
       <version>1.1.0_spark-2.4-scala-2.11</version>
       <version>1.1.0_spark-3.0-scala-2.12</version>
+      <version>1.2.0-spark-2.4</version>
+      <version>1.2.1-spark-2.2</version>
+      <version>1.2.1-spark-2.3</version>
+      <version>1.2.1-spark-2.4</version>
+      <version>1.2.1-spark-3.0</version>
       <version>1.0-alpha-1</version>
       <version>1.0.0</version>
       <version>1.0.0-rc0</version>
@@ -28,6 +33,6 @@
       <version>1.0.1</version>
       <version>1.0.2</version>
     </versions>
-    <lastUpdated>20201217155401</lastUpdated>
+    <lastUpdated>20210421124027</lastUpdated>
   </versioning>
 </metadata>
