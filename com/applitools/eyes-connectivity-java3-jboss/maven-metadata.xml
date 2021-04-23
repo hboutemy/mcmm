@@ -3,8 +3,8 @@
   <groupId>com.applitools</groupId>
   <artifactId>eyes-connectivity-java3-jboss</artifactId>
   <versioning>
-    <latest>3.199.1</latest>
-    <release>3.199.1</release>
+    <latest>3.200.0-beta</latest>
+    <release>3.200.0-beta</release>
     <versions>
       <version>3.12</version>
       <version>3.13</version>
@@ -104,6 +104,7 @@
       <version>3.165.187_0</version>
       <version>3.165.192_0</version>
       <version>3.165.198_0</version>
+      <version>3.165.199_1</version>
       <version>3.166.0</version>
       <version>3.167.0</version>
       <version>3.168.0</version>
@@ -151,7 +152,8 @@
       <version>3.198.0</version>
       <version>3.199.0</version>
       <version>3.199.1</version>
+      <version>3.200.0-beta</version>
     </versions>
-    <lastUpdated>20210412183454</lastUpdated>
+    <lastUpdated>20210422184357</lastUpdated>
   </versioning>
 </metadata>

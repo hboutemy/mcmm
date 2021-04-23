@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-repository-conda</artifactId>
   <versioning>
-    <latest>3.30.0-01</latest>
-    <release>3.30.0-01</release>
+    <latest>3.30.1-01</latest>
+    <release>3.30.1-01</release>
     <versions>
       <version>0.0.4</version>
       <version>0.0.6</version>
@@ -55,7 +55,8 @@
       <version>3.29.1-01</version>
       <version>3.29.2-02</version>
       <version>3.30.0-01</version>
+      <version>3.30.1-01</version>
     </versions>
-    <lastUpdated>20210303015955</lastUpdated>
+    <lastUpdated>20210422132428</lastUpdated>
   </versioning>
 </metadata>

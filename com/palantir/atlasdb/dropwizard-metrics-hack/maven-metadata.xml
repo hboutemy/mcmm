@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>dropwizard-metrics-hack</artifactId>
   <versioning>
-    <latest>0.324.0</latest>
-    <release>0.324.0</release>
+    <latest>0.324.2-rc2</latest>
+    <release>0.324.2-rc2</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -29,7 +29,8 @@
       <version>0.322.3</version>
       <version>0.323.0</version>
       <version>0.324.0</version>
+      <version>0.324.2-rc2</version>
     </versions>
-    <lastUpdated>20210420122059</lastUpdated>
+    <lastUpdated>20210422095254</lastUpdated>
   </versioning>
 </metadata>
