@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-api</artifactId>
   <versioning>
-    <latest>4.0-beta.26</latest>
-    <release>4.0-beta.26</release>
+    <latest>4.0-beta.27</latest>
+    <release>4.0-beta.27</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -382,6 +382,7 @@
       <version>3.43.9</version>
       <version>3.43.10</version>
       <version>3.43.11</version>
+      <version>3.43.12</version>
       <version>4.0-alpha.0</version>
       <version>4.0-alpha.0-dirty</version>
       <version>4.0-alpha.1</version>
@@ -413,7 +414,8 @@
       <version>4.0-beta.24</version>
       <version>4.0-beta.25</version>
       <version>4.0-beta.26</version>
+      <version>4.0-beta.27</version>
     </versions>
-    <lastUpdated>20210422201010</lastUpdated>
+    <lastUpdated>20210423151242</lastUpdated>
   </versioning>
 </metadata>

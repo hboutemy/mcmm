@@ -6,5 +6,10 @@
       <prefix>cq</prefix>
       <artifactId>cq-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>CQ Prod Maven Plugin</name>
+      <prefix>cq-prod</prefix>
+      <artifactId>cq-prod-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

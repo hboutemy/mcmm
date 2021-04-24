@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>curseforge-release</prefix>
+      <artifactId>curseforge-release-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>github-release</prefix>
       <artifactId>github-release-maven-plugin</artifactId>
     </plugin>
