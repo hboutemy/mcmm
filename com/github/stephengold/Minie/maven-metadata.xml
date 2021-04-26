@@ -3,8 +3,8 @@
   <groupId>com.github.stephengold</groupId>
   <artifactId>Minie</artifactId>
   <versioning>
-    <latest>4.0.2+dp</latest>
-    <release>4.0.2+dp</release>
+    <latest>4.1.0+for34</latest>
+    <release>4.1.0+for34</release>
     <versions>
       <version>1.6.0+debugfor32</version>
       <version>1.6.0+for32</version>
@@ -32,7 +32,19 @@
       <version>4.0.2+debug</version>
       <version>4.0.2+debugdp</version>
       <version>4.0.2+dp</version>
+      <version>4.1.0+bare+for33</version>
+      <version>4.1.0+bare+for34</version>
+      <version>4.1.0+big3+for33</version>
+      <version>4.1.0+big3+for34</version>
+      <version>4.1.0+debug+for33</version>
+      <version>4.1.0+debug+for34</version>
+      <version>4.1.0+debugdp+for33</version>
+      <version>4.1.0+debugdp+for34</version>
+      <version>4.1.0+dp+for33</version>
+      <version>4.1.0+dp+for34</version>
+      <version>4.1.0+for33</version>
+      <version>4.1.0+for34</version>
     </versions>
-    <lastUpdated>20210223233931</lastUpdated>
+    <lastUpdated>20210425170945</lastUpdated>
   </versioning>
 </metadata>
