@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-bom</artifactId>
   <versioning>
-    <latest>7.52.0.t20210322</latest>
-    <release>7.52.0.t20210322</release>
+    <latest>7.53.0.Final</latest>
+    <release>7.53.0.Final</release>
     <versions>
       <version>6.0.0.CR2</version>
       <version>6.0.0.CR3</version>
@@ -132,7 +132,8 @@
       <version>7.52.0.Beta1</version>
       <version>7.52.0.Final</version>
       <version>7.52.0.t20210322</version>
+      <version>7.53.0.Final</version>
     </versions>
-    <lastUpdated>20210401160941</lastUpdated>
+    <lastUpdated>20210426121345</lastUpdated>
   </versioning>
 </metadata>

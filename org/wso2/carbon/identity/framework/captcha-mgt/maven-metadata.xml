@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>captcha-mgt</artifactId>
   <versioning>
-    <latest>5.20.32</latest>
-    <release>5.20.32</release>
+    <latest>5.20.34</latest>
+    <release>5.20.34</release>
     <versions>
       <version>5.14.78</version>
       <version>5.14.79</version>
@@ -573,7 +573,9 @@
       <version>5.20.30</version>
       <version>5.20.31</version>
       <version>5.20.32</version>
+      <version>5.20.33</version>
+      <version>5.20.34</version>
     </versions>
-    <lastUpdated>20210423184423</lastUpdated>
+    <lastUpdated>20210426220525</lastUpdated>
   </versioning>
 </metadata>
