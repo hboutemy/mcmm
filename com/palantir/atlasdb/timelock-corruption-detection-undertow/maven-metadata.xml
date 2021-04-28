@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-corruption-detection-undertow</artifactId>
   <versioning>
-    <latest>0.327.0</latest>
-    <release>0.327.0</release>
+    <latest>0.328.0</latest>
+    <release>0.328.0</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -33,7 +33,8 @@
       <version>0.325.0</version>
       <version>0.326.0</version>
       <version>0.327.0</version>
+      <version>0.328.0</version>
     </versions>
-    <lastUpdated>20210426100405</lastUpdated>
+    <lastUpdated>20210427100709</lastUpdated>
   </versioning>
 </metadata>

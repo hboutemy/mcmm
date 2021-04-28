@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Bonita Project Maven Plugin</name>
+      <prefix>bonita-project</prefix>
+      <artifactId>bonita-project-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Image Overlay Plugin</name>
       <prefix>image-overlay</prefix>
       <artifactId>image-overlay-plugin</artifactId>
