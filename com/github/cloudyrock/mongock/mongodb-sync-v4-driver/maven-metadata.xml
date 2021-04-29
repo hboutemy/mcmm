@@ -3,8 +3,8 @@
   <groupId>com.github.cloudyrock.mongock</groupId>
   <artifactId>mongodb-sync-v4-driver</artifactId>
   <versioning>
-    <latest>4.3.8</latest>
-    <release>4.3.8</release>
+    <latest>5.0.2.BETA</latest>
+    <release>5.0.2.BETA</release>
     <versions>
       <version>4.0.1.alpha</version>
       <version>4.0.2.alpha</version>
@@ -48,7 +48,9 @@
       <version>4.3.5</version>
       <version>4.3.7</version>
       <version>4.3.8</version>
+      <version>5.0.1.BETA</version>
+      <version>5.0.2.BETA</version>
     </versions>
-    <lastUpdated>20210404095002</lastUpdated>
+    <lastUpdated>20210428173150</lastUpdated>
   </versioning>
 </metadata>

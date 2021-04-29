@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-api-parent</artifactId>
   <versioning>
-    <latest>7.53.0.Final</latest>
-    <release>7.53.0.Final</release>
+    <latest>7.53.1.Final</latest>
+    <release>7.53.1.Final</release>
     <versions>
       <version>6.0.0.Alpha4</version>
       <version>6.0.0.Alpha5</version>
@@ -143,9 +143,10 @@
       <version>7.52.0.Final</version>
       <version>7.52.0.t20210322</version>
       <version>7.53.0.Final</version>
+      <version>7.53.1.Final</version>
       <version>6.0.0.Alpha7</version>
       <version>6.0.0.Alpha8</version>
     </versions>
-    <lastUpdated>20210426121341</lastUpdated>
+    <lastUpdated>20210428135311</lastUpdated>
   </versioning>
 </metadata>

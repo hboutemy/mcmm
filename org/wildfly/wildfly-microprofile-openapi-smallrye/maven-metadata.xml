@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-openapi-smallrye</artifactId>
   <versioning>
-    <latest>23.0.1.Final</latest>
-    <release>23.0.1.Final</release>
+    <latest>23.0.2.Final</latest>
+    <release>23.0.2.Final</release>
     <versions>
       <version>19.0.0.Beta1</version>
       <version>19.0.0.Beta2</version>
@@ -25,7 +25,8 @@
       <version>23.0.0.Beta1</version>
       <version>23.0.0.Final</version>
       <version>23.0.1.Final</version>
+      <version>23.0.2.Final</version>
     </versions>
-    <lastUpdated>20210413173315</lastUpdated>
+    <lastUpdated>20210428100440</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.github.cloudyrock.mongock</groupId>
   <artifactId>mongodb-driver-test-template</artifactId>
   <versioning>
-    <latest>4.3.8</latest>
-    <release>4.3.8</release>
+    <latest>5.0.2.BETA</latest>
+    <release>5.0.2.BETA</release>
     <versions>
       <version>4.0.5.alpha</version>
       <version>4.0.6.alpha</version>
@@ -44,7 +44,9 @@
       <version>4.3.5</version>
       <version>4.3.7</version>
       <version>4.3.8</version>
+      <version>5.0.1.BETA</version>
+      <version>5.0.2.BETA</version>
     </versions>
-    <lastUpdated>20210404095000</lastUpdated>
+    <lastUpdated>20210428173146</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-universe-parent</artifactId>
   <versioning>
-    <latest>1.13.2.Final</latest>
-    <release>1.13.2.Final</release>
+    <latest>1.13.3.Final</latest>
+    <release>1.13.3.Final</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -51,6 +51,7 @@
       <version>1.10.2.Final</version>
       <version>1.10.3.Final</version>
       <version>1.10.5.Final</version>
+      <version>1.13.3.Final</version>
       <version>1.11.0.Final</version>
       <version>1.11.1.Final</version>
       <version>1.11.2.Final</version>
@@ -64,6 +65,6 @@
       <version>1.13.1.Final</version>
       <version>1.13.2.Final</version>
     </versions>
-    <lastUpdated>20210414164644</lastUpdated>
+    <lastUpdated>20210428124917</lastUpdated>
   </versioning>
 </metadata>
