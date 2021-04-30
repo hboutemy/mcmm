@@ -3,8 +3,8 @@
   <groupId>pl.allegro.tech.hermes</groupId>
   <artifactId>hermes-benchmark</artifactId>
   <versioning>
-    <latest>1.8.6</latest>
-    <release>1.8.6</release>
+    <latest>1.8.6-batch-exceptions-logging</latest>
+    <release>1.8.6-batch-exceptions-logging</release>
     <versions>
       <version>0.10.0</version>
       <version>0.10.1</version>
@@ -103,7 +103,8 @@
       <version>1.8.4</version>
       <version>1.8.5</version>
       <version>1.8.6</version>
+      <version>1.8.6-batch-exceptions-logging</version>
     </versions>
-    <lastUpdated>20210413102249</lastUpdated>
+    <lastUpdated>20210429091054</lastUpdated>
   </versioning>
 </metadata>

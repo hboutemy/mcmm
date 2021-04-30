@@ -3,8 +3,8 @@
   <groupId>pl.allegro.tech.hermes</groupId>
   <artifactId>hermes-mock</artifactId>
   <versioning>
-    <latest>1.8.6</latest>
-    <release>1.8.6</release>
+    <latest>1.8.6-batch-exceptions-logging</latest>
+    <release>1.8.6-batch-exceptions-logging</release>
     <versions>
       <version>0.12.7</version>
       <version>0.12.8</version>
@@ -84,7 +84,8 @@
       <version>1.8.4</version>
       <version>1.8.5</version>
       <version>1.8.6</version>
+      <version>1.8.6-batch-exceptions-logging</version>
     </versions>
-    <lastUpdated>20210413102305</lastUpdated>
+    <lastUpdated>20210429091108</lastUpdated>
   </versioning>
 </metadata>

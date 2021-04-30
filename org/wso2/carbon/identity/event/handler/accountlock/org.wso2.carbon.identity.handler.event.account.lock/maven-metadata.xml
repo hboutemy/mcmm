@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.event.handler.accountlock</groupId>
   <artifactId>org.wso2.carbon.identity.handler.event.account.lock</artifactId>
   <versioning>
-    <latest>1.4.19</latest>
-    <release>1.4.19</release>
+    <latest>1.4.20</latest>
+    <release>1.4.20</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -52,7 +52,8 @@
       <version>1.4.17</version>
       <version>1.4.18</version>
       <version>1.4.19</version>
+      <version>1.4.20</version>
     </versions>
-    <lastUpdated>20210302041713</lastUpdated>
+    <lastUpdated>20210429111752</lastUpdated>
   </versioning>
 </metadata>

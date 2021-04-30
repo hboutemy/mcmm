@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-s3-fs-presto</artifactId>
   <versioning>
-    <latest>1.12.3</latest>
-    <release>1.12.3</release>
+    <latest>1.13.0</latest>
+    <release>1.13.0</release>
     <versions>
       <version>1.4.0</version>
       <version>1.4.1</version>
@@ -44,7 +44,8 @@
       <version>1.12.1</version>
       <version>1.12.2</version>
       <version>1.12.3</version>
+      <version>1.13.0</version>
     </versions>
-    <lastUpdated>20210428142724</lastUpdated>
+    <lastUpdated>20210429134556</lastUpdated>
   </versioning>
 </metadata>
