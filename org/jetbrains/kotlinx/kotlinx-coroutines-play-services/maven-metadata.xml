@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-play-services</artifactId>
   <versioning>
-    <latest>1.5.0-RC</latest>
-    <release>1.5.0-RC</release>
+    <latest>1.5.0-RC-native-mt</latest>
+    <release>1.5.0-RC-native-mt</release>
     <versions>
       <version>0.27.0</version>
       <version>0.27.0-eap13</version>
@@ -57,7 +57,8 @@
       <version>1.4.3</version>
       <version>1.4.3-native-mt</version>
       <version>1.5.0-RC</version>
+      <version>1.5.0-RC-native-mt</version>
     </versions>
-    <lastUpdated>20210426200350</lastUpdated>
+    <lastUpdated>20210430172731</lastUpdated>
   </versioning>
 </metadata>

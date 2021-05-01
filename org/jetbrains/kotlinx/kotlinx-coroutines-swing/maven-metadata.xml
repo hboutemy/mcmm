@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-swing</artifactId>
   <versioning>
-    <latest>1.5.0-RC</latest>
-    <release>1.5.0-RC</release>
+    <latest>1.5.0-RC-native-mt</latest>
+    <release>1.5.0-RC-native-mt</release>
     <versions>
       <version>0.19-alpha-4</version>
       <version>0.19</version>
@@ -86,7 +86,8 @@
       <version>1.4.3</version>
       <version>1.4.3-native-mt</version>
       <version>1.5.0-RC</version>
+      <version>1.5.0-RC-native-mt</version>
     </versions>
-    <lastUpdated>20210426200405</lastUpdated>
+    <lastUpdated>20210430172744</lastUpdated>
   </versioning>
 </metadata>
