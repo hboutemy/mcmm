@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway</groupId>
   <artifactId>gravitee-gateway-resource</artifactId>
   <versioning>
-    <latest>3.8.0</latest>
-    <release>3.8.0</release>
+    <latest>3.8.1</latest>
+    <release>3.8.1</release>
     <versions>
       <version>0.14.0</version>
       <version>0.14.1</version>
@@ -259,7 +259,8 @@
       <version>3.7.1</version>
       <version>3.7.2</version>
       <version>3.8.0</version>
+      <version>3.8.1</version>
     </versions>
-    <lastUpdated>20210423161635</lastUpdated>
+    <lastUpdated>20210501150141</lastUpdated>
   </versioning>
 </metadata>
