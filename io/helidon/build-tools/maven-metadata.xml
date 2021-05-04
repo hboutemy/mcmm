@@ -7,9 +7,19 @@
       <artifactId>helidon-cli-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Helidon Enforcer Plugin</name>
+      <prefix>helidon-enforcer</prefix>
+      <artifactId>helidon-enforcer-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Helidon Maven Plugin</name>
       <prefix>helidon</prefix>
       <artifactId>helidon-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Helidon Services Plugin</name>
+      <prefix>helidon-services</prefix>
+      <artifactId>helidon-services-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Helidon Stager Maven Plugin</name>
