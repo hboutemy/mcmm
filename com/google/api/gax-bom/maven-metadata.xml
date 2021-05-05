@@ -3,8 +3,8 @@
   <groupId>com.google.api</groupId>
   <artifactId>gax-bom</artifactId>
   <versioning>
-    <latest>1.63.0</latest>
-    <release>1.63.0</release>
+    <latest>1.63.3</latest>
+    <release>1.63.3</release>
     <versions>
       <version>1.34.0</version>
       <version>1.35.0</version>
@@ -48,7 +48,8 @@
       <version>1.61.0</version>
       <version>1.62.0</version>
       <version>1.63.0</version>
+      <version>1.63.3</version>
     </versions>
-    <lastUpdated>20210407162610</lastUpdated>
+    <lastUpdated>20210504203919</lastUpdated>
   </versioning>
 </metadata>

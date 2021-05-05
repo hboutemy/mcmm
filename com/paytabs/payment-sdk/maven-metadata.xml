@@ -3,8 +3,8 @@
   <groupId>com.paytabs</groupId>
   <artifactId>payment-sdk</artifactId>
   <versioning>
-    <latest>6.0.5-na2</latest>
-    <release>6.0.5-na2</release>
+    <latest>6.0.5-nfc</latest>
+    <release>6.0.5-nfc</release>
     <versions>
       <version>1.0.1</version>
       <version>6.0.2-rc14</version>
@@ -15,7 +15,10 @@
       <version>6.0.5</version>
       <version>6.0.5-na</version>
       <version>6.0.5-na2</version>
+      <version>6.0.5-na3</version>
+      <version>6.0.5-na4</version>
+      <version>6.0.5-nfc</version>
     </versions>
-    <lastUpdated>20210503214809</lastUpdated>
+    <lastUpdated>20210504184800</lastUpdated>
   </versioning>
 </metadata>
