@@ -3,16 +3,23 @@
   <groupId>com.growingio.android</groupId>
   <artifactId>vds-android-agent</artifactId>
   <versioning>
-    <latest>track-2.9.0</latest>
-    <release>track-2.9.0</release>
+    <latest>track-2.9.1</latest>
+    <release>track-2.9.1</release>
     <versions>
       <version>autotrack-2.9.0</version>
+      <version>autotrack-2.9.1</version>
+      <version>cdp-1.2.7</version>
       <version>game-autotrack-2.9.0</version>
+      <version>game-autotrack-2.9.1</version>
       <version>game-track-2.9.0</version>
+      <version>game-track-2.9.1</version>
       <version>RN-autotrack-2.9.0</version>
+      <version>RN-autotrack-2.9.1</version>
       <version>RN-track-2.9.0</version>
+      <version>RN-track-2.9.1</version>
       <version>track-2.9.0</version>
+      <version>track-2.9.1</version>
     </versions>
-    <lastUpdated>20210423062512</lastUpdated>
+    <lastUpdated>20210508081617</lastUpdated>
   </versioning>
 </metadata>
