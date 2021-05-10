@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>bundle-parent</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>2.1.2</version>
       <version>2.1.3</version>
@@ -75,7 +75,8 @@
       <version>6.0.5</version>
       <version>6.0.6</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
     </versions>
-    <lastUpdated>20210506055749</lastUpdated>
+    <lastUpdated>20210509052156</lastUpdated>
   </versioning>
 </metadata>
