@@ -3,8 +3,8 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-client-1x-base</artifactId>
   <versioning>
-    <latest>2.7.1</latest>
-    <release>2.7.1</release>
+    <latest>2.7.2</latest>
+    <release>2.7.2</release>
     <versions>
       <version>2.3.0</version>
       <version>2.3.1</version>
@@ -21,7 +21,8 @@
       <version>2.6.3</version>
       <version>2.7.0</version>
       <version>2.7.1</version>
+      <version>2.7.2</version>
     </versions>
-    <lastUpdated>20210318100320</lastUpdated>
+    <lastUpdated>20210510102658</lastUpdated>
   </versioning>
 </metadata>

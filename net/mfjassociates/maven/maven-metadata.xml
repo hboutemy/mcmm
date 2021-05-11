@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>enforce-rules-maven-plugin Maven Plugin</name>
+      <prefix>enforce-rules</prefix>
+      <artifactId>enforce-rules-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>scminfo-maven-plugin</name>
       <prefix>scminfo</prefix>
       <artifactId>scminfo-maven-plugin</artifactId>

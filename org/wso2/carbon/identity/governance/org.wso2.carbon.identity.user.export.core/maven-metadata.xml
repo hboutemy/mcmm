@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.governance</groupId>
   <artifactId>org.wso2.carbon.identity.user.export.core</artifactId>
   <versioning>
-    <latest>1.5.7</latest>
-    <release>1.5.7</release>
+    <latest>1.5.9</latest>
+    <release>1.5.9</release>
     <versions>
       <version>1.0.39</version>
       <version>1.0.40</version>
@@ -206,7 +206,9 @@
       <version>1.5.5</version>
       <version>1.5.6</version>
       <version>1.5.7</version>
+      <version>1.5.8</version>
+      <version>1.5.9</version>
     </versions>
-    <lastUpdated>20210505041259</lastUpdated>
+    <lastUpdated>20210510072515</lastUpdated>
   </versioning>
 </metadata>
