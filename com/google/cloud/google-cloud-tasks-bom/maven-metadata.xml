@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-tasks-bom</artifactId>
   <versioning>
-    <latest>1.32.3</latest>
-    <release>1.32.3</release>
+    <latest>1.32.4</latest>
+    <release>1.32.4</release>
     <versions>
       <version>1.26.0</version>
       <version>1.27.0</version>
@@ -30,9 +30,10 @@
       <version>1.32.1</version>
       <version>1.32.2</version>
       <version>1.32.3</version>
+      <version>1.32.4</version>
       <version>1.30.13</version>
       <version>1.31.0</version>
     </versions>
-    <lastUpdated>20210426204253</lastUpdated>
+    <lastUpdated>20210511020231</lastUpdated>
   </versioning>
 </metadata>

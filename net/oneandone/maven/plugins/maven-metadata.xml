@@ -27,6 +27,11 @@
       <artifactId>dockerbuild</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Lavender Plugin</name>
+      <prefix>lavender</prefix>
+      <artifactId>lavender</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Prerelease Plugin</name>
       <prefix>prerelease</prefix>
       <artifactId>prerelease</artifactId>
