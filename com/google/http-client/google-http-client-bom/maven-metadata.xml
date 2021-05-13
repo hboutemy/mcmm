@@ -3,8 +3,8 @@
   <groupId>com.google.http-client</groupId>
   <artifactId>google-http-client-bom</artifactId>
   <versioning>
-    <latest>1.39.2</latest>
-    <release>1.39.2</release>
+    <latest>1.39.2-sp.1</latest>
+    <release>1.39.2-sp.1</release>
     <versions>
       <version>1.27.0</version>
       <version>1.28.0</version>
@@ -29,7 +29,8 @@
       <version>1.39.0</version>
       <version>1.39.1</version>
       <version>1.39.2</version>
+      <version>1.39.2-sp.1</version>
     </versions>
-    <lastUpdated>20210409052732</lastUpdated>
+    <lastUpdated>20210512184253</lastUpdated>
   </versioning>
 </metadata>
