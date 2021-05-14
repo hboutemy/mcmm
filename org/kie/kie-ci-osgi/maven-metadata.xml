@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-ci-osgi</artifactId>
   <versioning>
-    <latest>7.54.0.Beta1</latest>
-    <release>7.54.0.Beta1</release>
+    <latest>7.54.0.Final</latest>
+    <release>7.54.0.Final</release>
     <versions>
       <version>6.1.0.Beta1</version>
       <version>6.1.0.Beta2</version>
@@ -129,7 +129,8 @@
       <version>7.53.0.Final</version>
       <version>7.53.1.Final</version>
       <version>7.54.0.Beta1</version>
+      <version>7.54.0.Final</version>
     </versions>
-    <lastUpdated>20210504091407</lastUpdated>
+    <lastUpdated>20210513081315</lastUpdated>
   </versioning>
 </metadata>

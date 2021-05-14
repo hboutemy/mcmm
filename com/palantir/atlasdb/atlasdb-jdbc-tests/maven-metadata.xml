@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-jdbc-tests</artifactId>
   <versioning>
-    <latest>0.336.4</latest>
-    <release>0.336.4</release>
+    <latest>0.337.0</latest>
+    <release>0.337.0</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -53,7 +53,8 @@
       <version>0.336.3</version>
       <version>0.336.4-rc1</version>
       <version>0.336.4</version>
+      <version>0.337.0</version>
     </versions>
-    <lastUpdated>20210512150255</lastUpdated>
+    <lastUpdated>20210513152356</lastUpdated>
   </versioning>
 </metadata>
