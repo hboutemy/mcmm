@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-checkstyle</artifactId>
   <versioning>
-    <latest>12.1.2.Final</latest>
-    <release>12.1.2.Final</release>
+    <latest>12.1.3.Final</latest>
+    <release>12.1.3.Final</release>
     <versions>
       <version>8.2.1.Final</version>
       <version>8.2.2.Final</version>
@@ -94,6 +94,7 @@
       <version>9.4.20.Final</version>
       <version>9.4.21.Final</version>
       <version>9.4.22.Final</version>
+      <version>9.4.23.Final</version>
       <version>10.0.0.Alpha1</version>
       <version>10.0.0.Alpha2</version>
       <version>10.0.0.Alpha3</version>
@@ -136,6 +137,7 @@
       <version>11.0.8.Final</version>
       <version>11.0.9.Final</version>
       <version>11.0.10.Final</version>
+      <version>11.0.11.Final</version>
       <version>12.0.0.CR1</version>
       <version>12.0.0.Final</version>
       <version>12.0.0.Dev01</version>
@@ -153,8 +155,9 @@
       <version>12.1.0.Dev01</version>
       <version>12.1.1.Final</version>
       <version>12.1.2.Final</version>
+      <version>12.1.3.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20210504170018</lastUpdated>
+    <lastUpdated>20210514143133</lastUpdated>
   </versioning>
 </metadata>
