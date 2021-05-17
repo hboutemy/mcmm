@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-rx2</artifactId>
   <versioning>
-    <latest>1.5.0</latest>
-    <release>1.5.0</release>
+    <latest>1.5.0-native-mt</latest>
+    <release>1.5.0-native-mt</release>
     <versions>
       <version>0.19-alpha-4</version>
       <version>0.19</version>
@@ -88,7 +88,8 @@
       <version>1.5.0-RC</version>
       <version>1.5.0-RC-native-mt</version>
       <version>1.5.0</version>
+      <version>1.5.0-native-mt</version>
     </versions>
-    <lastUpdated>20210514144959</lastUpdated>
+    <lastUpdated>20210516205055</lastUpdated>
   </versioning>
 </metadata>
