@@ -9,5 +9,9 @@
       <prefix>bw-utildeploy</prefix>
       <artifactId>bw-util-maven-deploy</artifactId>
     </plugin>
+    <plugin>
+      <prefix>bw-utildeploy-wfmodule</prefix>
+      <artifactId>bw-util-maven-deploy-wfmodule</artifactId>
+    </plugin>
   </plugins>
 </metadata>

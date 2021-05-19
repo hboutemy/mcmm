@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-ldap</artifactId>
   <versioning>
-    <latest>3.8.2</latest>
-    <release>3.8.2</release>
+    <latest>3.8.3</latest>
+    <release>3.8.3</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0</version>
@@ -120,7 +120,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.8.2</version>
+      <version>3.8.3</version>
     </versions>
-    <lastUpdated>20210505225610</lastUpdated>
+    <lastUpdated>20210518220401</lastUpdated>
   </versioning>
 </metadata>

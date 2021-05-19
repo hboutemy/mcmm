@@ -3,8 +3,8 @@
   <groupId>org.cloudfoundry</groupId>
   <artifactId>cloudfoundry-client-reactor</artifactId>
   <versioning>
-    <latest>5.4.0.RELEASE</latest>
-    <release>5.4.0.RELEASE</release>
+    <latest>5.5.0.RELEASE</latest>
+    <release>5.5.0.RELEASE</release>
     <versions>
       <version>2.0.0.M9</version>
       <version>2.0.0.M10</version>
@@ -100,7 +100,8 @@
       <version>5.2.0.RELEASE</version>
       <version>5.3.0.RELEASE</version>
       <version>5.4.0.RELEASE</version>
+      <version>5.5.0.RELEASE</version>
     </versions>
-    <lastUpdated>20210514175402</lastUpdated>
+    <lastUpdated>20210518190902</lastUpdated>
   </versioning>
 </metadata>
