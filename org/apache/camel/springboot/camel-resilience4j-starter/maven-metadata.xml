@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-resilience4j-starter</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.10.0</latest>
+    <release>3.10.0</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -26,7 +26,8 @@
       <version>3.7.4</version>
       <version>3.8.0</version>
       <version>3.9.0</version>
+      <version>3.10.0</version>
     </versions>
-    <lastUpdated>20210503071145</lastUpdated>
+    <lastUpdated>20210520074942</lastUpdated>
   </versioning>
 </metadata>
