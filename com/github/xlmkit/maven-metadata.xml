@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Action控制器接口类生成器</name>
+      <prefix>action-interface-generator</prefix>
+      <artifactId>maven-plugin-action-interface-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Model抽象数据类生成器</name>
+      <prefix>abstract-model-generator</prefix>
+      <artifactId>maven-plugin-abstract-model-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

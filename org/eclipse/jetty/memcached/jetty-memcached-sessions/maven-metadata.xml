@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.memcached</groupId>
   <artifactId>jetty-memcached-sessions</artifactId>
   <versioning>
-    <latest>11.0.2</latest>
-    <release>11.0.2</release>
+    <latest>11.0.3</latest>
+    <release>11.0.3</release>
     <versions>
       <version>9.4.0.M0</version>
       <version>9.4.0.M1</version>
@@ -79,6 +79,7 @@
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
+      <version>10.0.3</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
@@ -86,7 +87,8 @@
       <version>11.0.0</version>
       <version>11.0.1</version>
       <version>11.0.2</version>
+      <version>11.0.3</version>
     </versions>
-    <lastUpdated>20210517154806</lastUpdated>
+    <lastUpdated>20210521150104</lastUpdated>
   </versioning>
 </metadata>
