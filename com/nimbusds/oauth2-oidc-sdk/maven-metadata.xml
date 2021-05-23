@@ -3,8 +3,8 @@
   <groupId>com.nimbusds</groupId>
   <artifactId>oauth2-oidc-sdk</artifactId>
   <versioning>
-    <latest>9.5.3</latest>
-    <release>9.5.3</release>
+    <latest>9.7</latest>
+    <release>9.7</release>
     <versions>
       <version>2.0</version>
       <version>2.1</version>
@@ -296,7 +296,9 @@
       <version>9.5.1</version>
       <version>9.5.2</version>
       <version>9.5.3</version>
+      <version>9.6</version>
+      <version>9.7</version>
     </versions>
-    <lastUpdated>20210521085137</lastUpdated>
+    <lastUpdated>20210522181017</lastUpdated>
   </versioning>
 </metadata>
