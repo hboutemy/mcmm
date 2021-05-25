@@ -3,8 +3,8 @@
   <groupId>com.exactpro.th2</groupId>
   <artifactId>infra-repo</artifactId>
   <versioning>
-    <latest>1.0.12-validation</latest>
-    <release>1.0.12-validation</release>
+    <latest>1.0.13-keyspace</latest>
+    <release>1.0.13-keyspace</release>
     <versions>
       <version>1.0.5</version>
       <version>1.0.6</version>
@@ -21,7 +21,9 @@
       <version>1.0.11</version>
       <version>1.0.12</version>
       <version>1.0.12-validation</version>
+      <version>1.0.13</version>
+      <version>1.0.13-keyspace</version>
     </versions>
-    <lastUpdated>20210520144656</lastUpdated>
+    <lastUpdated>20210524102422</lastUpdated>
   </versioning>
 </metadata>

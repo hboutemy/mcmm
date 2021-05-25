@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-orm-jbossmodules</artifactId>
   <versioning>
-    <latest>5.4.31.Final</latest>
-    <release>5.4.31.Final</release>
+    <latest>5.4.32.Final</latest>
+    <release>5.4.32.Final</release>
     <versions>
       <version>5.3.0.CR2</version>
       <version>5.3.0.Final</version>
@@ -63,7 +63,8 @@
       <version>5.4.29.Final</version>
       <version>5.4.30.Final</version>
       <version>5.4.31.Final</version>
+      <version>5.4.32.Final</version>
     </versions>
-    <lastUpdated>20210429183242</lastUpdated>
+    <lastUpdated>20210524120801</lastUpdated>
   </versioning>
 </metadata>

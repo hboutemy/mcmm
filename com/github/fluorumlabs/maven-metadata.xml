@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>dtrack-maven-plugin</name>
+      <prefix>dtrack</prefix>
+      <artifactId>dtrack-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>reaper-maven-plugin</name>
       <prefix>reaper</prefix>
       <artifactId>reaper-maven-plugin</artifactId>
