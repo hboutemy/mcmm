@@ -3,10 +3,13 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-artifactregistry</artifactId>
   <versioning>
-    <latest>v1-rev20210509-1.31.0</latest>
-    <release>v1-rev20210509-1.31.0</release>
+    <latest>v1-rev20210517-1.31.0</latest>
+    <release>v1-rev20210517-1.31.0</release>
     <versions>
+      <version>v1beta1-rev20210517-1.31.0</version>
+      <version>v1beta2-rev20210517-1.31.0</version>
       <version>v1-rev20210509-1.31.0</version>
+      <version>v1-rev20210517-1.31.0</version>
       <version>v1-rev20201203-1.31.0</version>
       <version>v1-rev20201215-1.31.0</version>
       <version>v1-rev20210302-1.31.0</version>
@@ -37,6 +40,6 @@
       <version>v1beta2-rev20210402-1.31.0</version>
       <version>v1beta2-rev20210415-1.31.0</version>
     </versions>
-    <lastUpdated>20210515195953</lastUpdated>
+    <lastUpdated>20210525200253</lastUpdated>
   </versioning>
 </metadata>

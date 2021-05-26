@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.rest.api.dcr.feature</artifactId>
   <versioning>
-    <latest>9.0.196</latest>
-    <release>9.0.196</release>
+    <latest>9.0.197</latest>
+    <release>9.0.197</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -1745,6 +1745,7 @@
       <version>8.2.20</version>
       <version>8.2.21</version>
       <version>8.2.22</version>
+      <version>8.2.23</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -1941,7 +1942,8 @@
       <version>9.0.194</version>
       <version>9.0.195</version>
       <version>9.0.196</version>
+      <version>9.0.197</version>
     </versions>
-    <lastUpdated>20210524061052</lastUpdated>
+    <lastUpdated>20210525142405</lastUpdated>
   </versioning>
 </metadata>
