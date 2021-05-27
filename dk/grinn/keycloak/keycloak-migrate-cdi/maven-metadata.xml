@@ -3,8 +3,8 @@
   <groupId>dk.grinn.keycloak</groupId>
   <artifactId>keycloak-migrate-cdi</artifactId>
   <versioning>
-    <latest>12.0.4.1</latest>
-    <release>12.0.4.1</release>
+    <latest>13.0.0.0</latest>
+    <release>13.0.0.0</release>
     <versions>
       <version>11.0.0</version>
       <version>11.0.1</version>
@@ -16,8 +16,9 @@
       <version>12.0.3.0</version>
       <version>12.0.4.0</version>
       <version>12.0.4.1</version>
+      <version>13.0.0.0</version>
       <version>11.0.3.0</version>
     </versions>
-    <lastUpdated>20210525064028</lastUpdated>
+    <lastUpdated>20210526132233</lastUpdated>
   </versioning>
 </metadata>
