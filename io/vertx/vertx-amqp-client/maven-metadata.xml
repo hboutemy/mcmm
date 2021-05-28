@@ -3,8 +3,8 @@
   <groupId>io.vertx</groupId>
   <artifactId>vertx-amqp-client</artifactId>
   <versioning>
-    <latest>4.1.0.CR1</latest>
-    <release>4.1.0.CR1</release>
+    <latest>4.1.0.CR2</latest>
+    <release>4.1.0.CR2</release>
     <versions>
       <version>3.7.0</version>
       <version>3.7.1</version>
@@ -39,7 +39,8 @@
       <version>4.0.3</version>
       <version>4.1.0.Beta1</version>
       <version>4.1.0.CR1</version>
+      <version>4.1.0.CR2</version>
     </versions>
-    <lastUpdated>20210520141154</lastUpdated>
+    <lastUpdated>20210527134806</lastUpdated>
   </versioning>
 </metadata>
