@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.sdlc</groupId>
   <artifactId>legend-sdlc-version-package-maven-plugin</artifactId>
   <versioning>
-    <latest>0.31.0</latest>
-    <release>0.31.0</release>
+    <latest>0.32.1</latest>
+    <release>0.32.1</release>
     <versions>
       <version>0.15.0</version>
       <version>0.16.0</version>
@@ -24,7 +24,9 @@
       <version>0.29.0</version>
       <version>0.30.0</version>
       <version>0.31.0</version>
+      <version>0.32.0</version>
+      <version>0.32.1</version>
     </versions>
-    <lastUpdated>20210527033950</lastUpdated>
+    <lastUpdated>20210528160446</lastUpdated>
   </versioning>
 </metadata>

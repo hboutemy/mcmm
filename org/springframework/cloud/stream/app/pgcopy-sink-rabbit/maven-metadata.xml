@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud.stream.app</groupId>
   <artifactId>pgcopy-sink-rabbit</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>1.2.0.RELEASE</version>
       <version>1.3.0.RELEASE</version>
@@ -22,7 +22,8 @@
       <version>2.1.7.RELEASE</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
     </versions>
-    <lastUpdated>20210226180541</lastUpdated>
+    <lastUpdated>20210528144904</lastUpdated>
   </versioning>
 </metadata>

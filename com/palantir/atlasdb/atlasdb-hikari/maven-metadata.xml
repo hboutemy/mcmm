@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-hikari</artifactId>
   <versioning>
-    <latest>0.340.2</latest>
-    <release>0.340.2</release>
+    <latest>0.342.0</latest>
+    <release>0.342.0</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -64,7 +64,8 @@
       <version>0.339.2</version>
       <version>0.339.3</version>
       <version>0.340.2</version>
+      <version>0.342.0</version>
     </versions>
-    <lastUpdated>20210525101249</lastUpdated>
+    <lastUpdated>20210528140924</lastUpdated>
   </versioning>
 </metadata>

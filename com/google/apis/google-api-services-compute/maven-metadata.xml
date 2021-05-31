@@ -3,12 +3,15 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-compute</artifactId>
   <versioning>
-    <latest>v1-rev20210505-1.31.0</latest>
-    <release>v1-rev20210505-1.31.0</release>
+    <latest>v1-rev20210518-1.31.0</latest>
+    <release>v1-rev20210518-1.31.0</release>
     <versions>
       <version>alpha-rev20210505-1.31.0</version>
+      <version>alpha-rev20210518-1.31.0</version>
       <version>beta-rev20210505-1.31.0</version>
+      <version>beta-rev20210518-1.31.0</version>
       <version>v1-rev20210505-1.31.0</version>
+      <version>v1-rev20210518-1.31.0</version>
       <version>alpha-rev100-1.22.0</version>
       <version>alpha-rev100-1.23.0</version>
       <version>alpha-rev100-1.24.1</version>
@@ -1613,6 +1616,6 @@
       <version>v1beta16-rev9-1.16.0-rc</version>
       <version>v1beta16-rev9-1.17.0-rc</version>
     </versions>
-    <lastUpdated>20210520200645</lastUpdated>
+    <lastUpdated>20210528200805</lastUpdated>
   </versioning>
 </metadata>
