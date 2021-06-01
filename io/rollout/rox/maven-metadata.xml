@@ -11,4 +11,11 @@
     </versions>
     <lastUpdated>20170615083802</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>Rollout Embedded Configuration Maven Plugin</name>
+      <prefix>rox-configuration</prefix>
+      <artifactId>rox-configuration-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>
