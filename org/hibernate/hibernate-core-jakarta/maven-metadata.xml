@@ -3,13 +3,14 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-core-jakarta</artifactId>
   <versioning>
-    <latest>5.5.0.CR1</latest>
-    <release>5.5.0.CR1</release>
+    <latest>5.5.0.Final</latest>
+    <release>5.5.0.Final</release>
     <versions>
       <version>5.5.0.Alpha1</version>
       <version>5.5.0.Beta1</version>
       <version>5.5.0.CR1</version>
+      <version>5.5.0.Final</version>
     </versions>
-    <lastUpdated>20210524113355</lastUpdated>
+    <lastUpdated>20210601150638</lastUpdated>
   </versioning>
 </metadata>

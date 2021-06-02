@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>smallrye-mutiny-vertx-cassandra-client</artifactId>
   <versioning>
-    <latest>2.5.1</latest>
-    <release>2.5.1</release>
+    <latest>2.6.0</latest>
+    <release>2.6.0</release>
     <versions>
       <version>0.0.11</version>
       <version>0.0.12</version>
@@ -32,7 +32,8 @@
       <version>2.4.0</version>
       <version>2.5.0</version>
       <version>2.5.1</version>
+      <version>2.6.0</version>
     </versions>
-    <lastUpdated>20210511164621</lastUpdated>
+    <lastUpdated>20210601155620</lastUpdated>
   </versioning>
 </metadata>

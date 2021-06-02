@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>flow-maven-plugin</artifactId>
   <versioning>
-    <latest>6.0.9</latest>
-    <release>6.0.9</release>
+    <latest>7.0.0</latest>
+    <release>7.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -139,7 +139,8 @@
       <version>6.0.7</version>
       <version>6.0.8</version>
       <version>6.0.9</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20210519075855</lastUpdated>
+    <lastUpdated>20210601112615</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>YAML to Properties Maven Plugin</name>
+      <prefix>yml2props</prefix>
+      <artifactId>yml2props-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
