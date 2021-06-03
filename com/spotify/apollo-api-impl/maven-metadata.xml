@@ -3,8 +3,8 @@
   <groupId>com.spotify</groupId>
   <artifactId>apollo-api-impl</artifactId>
   <versioning>
-    <latest>1.18.0</latest>
-    <release>1.18.0</release>
+    <latest>1.19.0-RC</latest>
+    <release>1.19.0-RC</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -58,7 +58,9 @@
       <version>1.17.7</version>
       <version>1.17.11</version>
       <version>1.18.0</version>
+      <version>1.18.1</version>
+      <version>1.19.0-RC</version>
     </versions>
-    <lastUpdated>20210506135514</lastUpdated>
+    <lastUpdated>20210602143259</lastUpdated>
   </versioning>
 </metadata>

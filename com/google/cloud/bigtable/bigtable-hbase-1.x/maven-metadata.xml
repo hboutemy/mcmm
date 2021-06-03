@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.bigtable</groupId>
   <artifactId>bigtable-hbase-1.x</artifactId>
   <versioning>
-    <latest>1.20.0</latest>
-    <release>1.20.0</release>
+    <latest>1.20.1</latest>
+    <release>1.20.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-pre1</version>
@@ -40,7 +40,8 @@
       <version>1.19.1</version>
       <version>1.19.2</version>
       <version>1.20.0</version>
+      <version>1.20.1</version>
     </versions>
-    <lastUpdated>20210511180007</lastUpdated>
+    <lastUpdated>20210602142951</lastUpdated>
   </versioning>
 </metadata>

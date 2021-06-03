@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.runtime.v2</groupId>
   <artifactId>concord-runtime-sdk-v2</artifactId>
   <versioning>
-    <latest>1.85.0</latest>
-    <release>1.85.0</release>
+    <latest>1.86.2</latest>
+    <release>1.86.2</release>
     <versions>
       <version>1.42.0</version>
       <version>1.43.0</version>
@@ -65,7 +65,10 @@
       <version>1.83.0</version>
       <version>1.84.0</version>
       <version>1.85.0</version>
+      <version>1.86.0</version>
+      <version>1.86.1</version>
+      <version>1.86.2</version>
     </versions>
-    <lastUpdated>20210428021123</lastUpdated>
+    <lastUpdated>20210602213358</lastUpdated>
   </versioning>
 </metadata>

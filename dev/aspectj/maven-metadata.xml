@@ -6,5 +6,10 @@
       <prefix>aspectj</prefix>
       <artifactId>aspectj-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven PlantUML plugin</name>
+      <prefix>plantuml</prefix>
+      <artifactId>plantuml-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

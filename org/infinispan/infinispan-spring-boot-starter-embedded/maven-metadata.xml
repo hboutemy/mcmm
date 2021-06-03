@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring-boot-starter-embedded</artifactId>
   <versioning>
-    <latest>12.1.3.Final</latest>
-    <release>12.1.3.Final</release>
+    <latest>12.1.4.Final</latest>
+    <release>12.1.4.Final</release>
     <versions>
       <version>1.0.1.Final</version>
       <version>1.0.2.Final</version>
@@ -58,8 +58,9 @@
       <version>12.1.1.Final</version>
       <version>12.1.2.Final</version>
       <version>12.1.3.Final</version>
+      <version>12.1.4.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20210514111933</lastUpdated>
+    <lastUpdated>20210601195955</lastUpdated>
   </versioning>
 </metadata>

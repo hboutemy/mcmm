@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring5-remote</artifactId>
   <versioning>
-    <latest>12.1.3.Final</latest>
-    <release>12.1.3.Final</release>
+    <latest>12.1.4.Final</latest>
+    <release>12.1.4.Final</release>
     <versions>
       <version>9.4.4.Final</version>
       <version>9.4.5.Final</version>
@@ -86,8 +86,9 @@
       <version>12.1.1.Final</version>
       <version>12.1.2.Final</version>
       <version>12.1.3.Final</version>
+      <version>12.1.4.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20210514143203</lastUpdated>
+    <lastUpdated>20210601195957</lastUpdated>
   </versioning>
 </metadata>
