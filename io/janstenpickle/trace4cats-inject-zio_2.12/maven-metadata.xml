@@ -3,10 +3,13 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-inject-zio_2.12</artifactId>
   <versioning>
-    <latest>0.12.0-RC1+128-9e36e321</latest>
-    <release>0.12.0-RC1+128-9e36e321</release>
+    <latest>0.12.0-RC1+150-44d78e6d</latest>
+    <release>0.12.0-RC1+150-44d78e6d</release>
     <versions>
+      <version>0.0.0+1-d1075341</version>
       <version>0.0.0+1-7a9df181</version>
+      <version>0.0.0+2-f00aa650</version>
+      <version>0.0.0+3-598c41b9</version>
       <version>0.4.0+26-5dfd44a5</version>
       <version>0.4.0+41-2c78899a</version>
       <version>0.4.0+47-80ce121f</version>
@@ -328,7 +331,11 @@
       <version>0.12.0-RC1+104-bbf8a8bd</version>
       <version>0.12.0-RC1+125-f68e01bd</version>
       <version>0.12.0-RC1+128-9e36e321</version>
+      <version>0.12.0-RC1+144-2e5fe5eb</version>
+      <version>0.12.0-RC1+146-d193db1e</version>
+      <version>0.12.0-RC1+148-ffc89c33</version>
+      <version>0.12.0-RC1+150-44d78e6d</version>
     </versions>
-    <lastUpdated>20210529125446</lastUpdated>
+    <lastUpdated>20210603173516</lastUpdated>
   </versioning>
 </metadata>

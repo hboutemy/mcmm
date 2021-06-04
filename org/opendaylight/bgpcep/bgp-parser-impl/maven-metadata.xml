@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>bgp-parser-impl</artifactId>
   <versioning>
-    <latest>0.15.0</latest>
-    <release>0.15.0</release>
+    <latest>0.15.1</latest>
+    <release>0.15.1</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1-Helium</version>
@@ -64,7 +64,8 @@
       <version>0.14.2</version>
       <version>0.14.3</version>
       <version>0.15.0</version>
+      <version>0.15.1</version>
     </versions>
-    <lastUpdated>20210330032717</lastUpdated>
+    <lastUpdated>20210603040308</lastUpdated>
   </versioning>
 </metadata>

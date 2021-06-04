@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PL/SQL Connector Builder Maven-Plugin</name>
+      <prefix>connectorbuilder</prefix>
+      <artifactId>connectorbuilder-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
