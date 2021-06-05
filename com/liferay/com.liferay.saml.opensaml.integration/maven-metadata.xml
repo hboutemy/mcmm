@@ -4,7 +4,7 @@
   <artifactId>com.liferay.saml.opensaml.integration</artifactId>
   <versioning>
     <latest>4.0.25</latest>
-    <release>5.1.1</release>
+    <release>5.1.3</release>
     <versions>
       <version>1.1.38</version>
       <version>1.1.39</version>
@@ -71,7 +71,9 @@
       <version>2.0.56</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.1.2</version>
+      <version>5.1.3</version>
     </versions>
-    <lastUpdated>20210531180550</lastUpdated>
+    <lastUpdated>20210604171933</lastUpdated>
   </versioning>
 </metadata>
