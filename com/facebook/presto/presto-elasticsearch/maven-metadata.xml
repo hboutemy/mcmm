@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-elasticsearch</artifactId>
   <versioning>
-    <latest>0.254</latest>
-    <release>0.254</release>
+    <latest>0.254.1</latest>
+    <release>0.254.1</release>
     <versions>
       <version>0.217</version>
       <version>0.218</version>
@@ -71,7 +71,8 @@
       <version>0.253</version>
       <version>0.253.1</version>
       <version>0.254</version>
+      <version>0.254.1</version>
     </versions>
-    <lastUpdated>20210602130335</lastUpdated>
+    <lastUpdated>20210606220111</lastUpdated>
   </versioning>
 </metadata>
