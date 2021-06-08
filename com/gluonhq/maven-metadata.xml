@@ -6,5 +6,10 @@
       <prefix>client</prefix>
       <artifactId>client-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>GluonFX plugin for Maven</name>
+      <prefix>gluonfx</prefix>
+      <artifactId>gluonfx-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
