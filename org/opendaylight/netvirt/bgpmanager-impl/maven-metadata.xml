@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netvirt</groupId>
   <artifactId>bgpmanager-impl</artifactId>
   <versioning>
-    <latest>0.11.3</latest>
-    <release>0.11.3</release>
+    <latest>0.11.4</latest>
+    <release>0.11.4</release>
     <versions>
       <version>0.3.0-Boron</version>
       <version>0.3.1-Boron-SR1</version>
@@ -46,7 +46,8 @@
       <version>0.11.1</version>
       <version>0.11.2</version>
       <version>0.11.3</version>
+      <version>0.11.4</version>
     </versions>
-    <lastUpdated>20210308033003</lastUpdated>
+    <lastUpdated>20210608195524</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-ldap</artifactId>
   <versioning>
-    <latest>4.0.5</latest>
-    <release>4.0.5</release>
+    <latest>4.0.6</latest>
+    <release>4.0.6</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -388,6 +388,7 @@
       <version>3.43.15</version>
       <version>3.43.16</version>
       <version>3.43.17</version>
+      <version>3.43.18</version>
       <version>4.0-alpha.0</version>
       <version>4.0-alpha.0-dirty</version>
       <version>4.0-alpha.1</version>
@@ -433,7 +434,8 @@
       <version>4.0.3</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
+      <version>4.0.6</version>
     </versions>
-    <lastUpdated>20210607193844</lastUpdated>
+    <lastUpdated>20210608145840</lastUpdated>
   </versioning>
 </metadata>
