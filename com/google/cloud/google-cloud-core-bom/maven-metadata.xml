@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-core-bom</artifactId>
   <versioning>
-    <latest>1.95.0</latest>
-    <release>1.95.0</release>
+    <latest>1.95.2</latest>
+    <release>1.95.2</release>
     <versions>
       <version>1.91.0</version>
       <version>1.91.1</version>
@@ -37,7 +37,9 @@
       <version>1.94.7</version>
       <version>1.94.8</version>
       <version>1.95.0</version>
+      <version>1.95.1</version>
+      <version>1.95.2</version>
     </versions>
-    <lastUpdated>20210603220004</lastUpdated>
+    <lastUpdated>20210609202249</lastUpdated>
   </versioning>
 </metadata>

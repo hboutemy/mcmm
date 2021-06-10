@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>tools/freemarker codegen tooling</name>
+      <name>Drill : Tools : Freemarker codegen</name>
       <prefix>drill-fmpp</prefix>
       <artifactId>drill-fmpp-maven-plugin</artifactId>
     </plugin>

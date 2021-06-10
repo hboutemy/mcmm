@@ -3,8 +3,8 @@
   <groupId>io.github.altimedia-cloud</groupId>
   <artifactId>clientSDK</artifactId>
   <versioning>
-    <latest>99.26-uhdRelease</latest>
-    <release>99.26-uhdRelease</release>
+    <latest>99.29-tvgRelease</latest>
+    <release>99.29-tvgRelease</release>
     <versions>
       <version>1.26-tvgRelease</version>
       <version>1.26-uhdRelease</version>
@@ -24,6 +24,10 @@
       <version>1.30-tvgRelease</version>
       <version>1.30-uhdDebug</version>
       <version>1.30-uhdRelease</version>
+      <version>1.31-tvgDebug</version>
+      <version>1.31-tvgRelease</version>
+      <version>1.31-uhdDebug</version>
+      <version>1.31-uhdRelease</version>
       <version>99.21-tvgDebug</version>
       <version>99.21-tvgRelease</version>
       <version>99.22-tvgRelease</version>
@@ -34,7 +38,17 @@
       <version>99.25-uhdRelease</version>
       <version>99.26-tvgRelease</version>
       <version>99.26-uhdRelease</version>
+      <version>99.27-tvgDebug</version>
+      <version>99.27-tvgRelease</version>
+      <version>99.27-uhdDebug</version>
+      <version>99.27-uhdRelease</version>
+      <version>99.28-tvgDebug</version>
+      <version>99.28-tvgRelease</version>
+      <version>99.28-uhdDebug</version>
+      <version>99.28-uhdRelease</version>
+      <version>99.29-tvgDebug</version>
+      <version>99.29-tvgRelease</version>
     </versions>
-    <lastUpdated>20210608114700</lastUpdated>
+    <lastUpdated>20210609080134</lastUpdated>
   </versioning>
 </metadata>
