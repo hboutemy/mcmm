@@ -3,8 +3,8 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>drools-kie-ci-without-domain-tests</artifactId>
   <versioning>
-    <latest>7.55.0.Beta1</latest>
-    <release>7.55.0.Beta1</release>
+    <latest>7.55.0.Final</latest>
+    <release>7.55.0.Final</release>
     <versions>
       <version>7.0.0.Beta1</version>
       <version>7.0.0.Beta2</version>
@@ -102,7 +102,8 @@
       <version>7.54.0.Beta1</version>
       <version>7.54.0.Final</version>
       <version>7.55.0.Beta1</version>
+      <version>7.55.0.Final</version>
     </versions>
-    <lastUpdated>20210520110637</lastUpdated>
+    <lastUpdated>20210609062318</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-annotation-processing-embeddable</artifactId>
   <versioning>
-    <latest>1.5.20-M1</latest>
-    <release>1.5.20-M1</release>
+    <latest>1.5.20-RC</latest>
+    <release>1.5.20-RC</release>
     <versions>
       <version>1.1.61</version>
       <version>1.2.0</version>
@@ -58,7 +58,8 @@
       <version>1.5.0</version>
       <version>1.5.10</version>
       <version>1.5.20-M1</version>
+      <version>1.5.20-RC</version>
     </versions>
-    <lastUpdated>20210526104149</lastUpdated>
+    <lastUpdated>20210610125450</lastUpdated>
   </versioning>
 </metadata>

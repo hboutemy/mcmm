@@ -3,8 +3,8 @@
   <groupId>it.vige</groupId>
   <artifactId>alfresco-tests</artifactId>
   <versioning>
-    <latest>7.0.0-A20.4</latest>
-    <release>7.0.0-A20.4</release>
+    <latest>7.0.0-A20.5</latest>
+    <release>7.0.0-A20.5</release>
     <versions>
       <version>4.2.6.6.0</version>
       <version>4.2.6.6.1</version>
@@ -22,6 +22,7 @@
       <version>4.2.6.6.13</version>
       <version>4.2.6.6.14</version>
       <version>4.2.6.6.15</version>
+      <version>4.2.6.6.16</version>
       <version>5.0.d.0</version>
       <version>5.0.d.1</version>
       <version>5.0.d.2</version>
@@ -33,6 +34,7 @@
       <version>5.0.d.8</version>
       <version>5.0.d.9</version>
       <version>5.0.d.10</version>
+      <version>5.0.d.11</version>
       <version>5.1.g.0</version>
       <version>5.1.g.1</version>
       <version>5.1.g.2</version>
@@ -44,6 +46,7 @@
       <version>5.1.g.8</version>
       <version>5.1.g.9</version>
       <version>5.1.g.10</version>
+      <version>5.1.g.11</version>
       <version>5.2.f.0</version>
       <version>5.2.f.1</version>
       <version>5.2.f.2</version>
@@ -56,11 +59,13 @@
       <version>5.2.f.9</version>
       <version>5.2.f.10</version>
       <version>5.2.f.11</version>
+      <version>5.2.f.12</version>
       <version>5.2.7.0</version>
       <version>5.2.7.1</version>
       <version>5.2.7.2</version>
       <version>5.2.7.3</version>
       <version>5.2.7.4</version>
+      <version>5.2.7.5</version>
       <version>6.0.0-ea.0</version>
       <version>6.0.0-ea.1</version>
       <version>6.0.0-ea.2</version>
@@ -75,7 +80,9 @@
       <version>6.0.0-ea.11</version>
       <version>6.0.0-ea.12</version>
       <version>6.0.0-ea.13</version>
+      <version>6.0.0-ea.14</version>
       <version>6.0.2-ea.0</version>
+      <version>6.0.2-ea.1</version>
       <version>6.1.0-ea.0</version>
       <version>6.1.0-ea.1</version>
       <version>6.1.0-ea.2</version>
@@ -88,6 +95,7 @@
       <version>6.1.0-ea.9</version>
       <version>6.1.0-ea.10</version>
       <version>6.1.0-ea.11</version>
+      <version>6.1.0-ea.12</version>
       <version>6.2.0-ea.0</version>
       <version>6.2.0-ea.1</version>
       <version>6.2.0-ea.2</version>
@@ -102,12 +110,14 @@
       <version>6.2.0-ea.11</version>
       <version>6.2.0-ea.12</version>
       <version>6.2.0-ea.13</version>
+      <version>6.2.0-ea.14</version>
       <version>7.0.0-A20.0</version>
       <version>7.0.0-A20.1</version>
       <version>7.0.0-A20.2</version>
       <version>7.0.0-A20.3</version>
       <version>7.0.0-A20.4</version>
+      <version>7.0.0-A20.5</version>
     </versions>
-    <lastUpdated>20210526140732</lastUpdated>
+    <lastUpdated>20210610104215</lastUpdated>
   </versioning>
 </metadata>

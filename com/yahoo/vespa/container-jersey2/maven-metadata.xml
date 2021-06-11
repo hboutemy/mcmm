@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>container-jersey2</artifactId>
   <versioning>
-    <latest>7.416.18</latest>
-    <release>7.416.18</release>
+    <latest>7.418.23</latest>
+    <release>7.418.23</release>
     <versions>
       <version>6.143.177</version>
       <version>6.143.255</version>
@@ -418,7 +418,9 @@
       <version>7.413.25</version>
       <version>7.414.19</version>
       <version>7.416.18</version>
+      <version>7.417.20</version>
+      <version>7.418.23</version>
     </versions>
-    <lastUpdated>20210608181416</lastUpdated>
+    <lastUpdated>20210610181730</lastUpdated>
   </versioning>
 </metadata>

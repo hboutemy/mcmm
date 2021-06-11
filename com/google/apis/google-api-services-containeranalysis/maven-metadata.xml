@@ -3,24 +3,10 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-containeranalysis</artifactId>
   <versioning>
-    <latest>v1beta1-rev20210326-1.31.0</latest>
-    <release>v1beta1-rev20210326-1.31.0</release>
+    <latest>v1alpha1-rev20210604-1.31.0</latest>
+    <release>v1alpha1-rev20210604-1.31.0</release>
     <versions>
-      <version>v1alpha1-rev7-1.18.0-rc</version>
-      <version>v1alpha1-rev7-1.22.0</version>
-      <version>v1alpha1-rev7-1.23.0</version>
-      <version>v1alpha1-rev7-1.24.1</version>
-      <version>v1alpha1-rev7-1.25.0</version>
-      <version>v1alpha1-rev8-1.18.0-rc</version>
-      <version>v1alpha1-rev8-1.22.0</version>
-      <version>v1alpha1-rev8-1.23.0</version>
-      <version>v1alpha1-rev8-1.24.1</version>
-      <version>v1alpha1-rev8-1.25.0</version>
-      <version>v1alpha1-rev9-1.18.0-rc</version>
-      <version>v1alpha1-rev9-1.22.0</version>
-      <version>v1alpha1-rev9-1.23.0</version>
-      <version>v1alpha1-rev9-1.24.1</version>
-      <version>v1alpha1-rev9-1.25.0</version>
+      <version>v1alpha1-rev20210604-1.31.0</version>
       <version>v1alpha1-rev10-1.18.0-rc</version>
       <version>v1alpha1-rev10-1.22.0</version>
       <version>v1alpha1-rev10-1.23.0</version>
@@ -57,26 +43,6 @@
       <version>v1alpha1-rev18-1.25.0</version>
       <version>v1alpha1-rev19-1.18.0-rc</version>
       <version>v1alpha1-rev19-1.25.0</version>
-      <version>v1alpha1-rev34-1.18.0-rc</version>
-      <version>v1alpha1-rev34-1.25.0</version>
-      <version>v1alpha1-rev35-1.18.0-rc</version>
-      <version>v1alpha1-rev35-1.25.0</version>
-      <version>v1alpha1-rev36-1.18.0-rc</version>
-      <version>v1alpha1-rev36-1.25.0</version>
-      <version>v1alpha1-rev37-1.18.0-rc</version>
-      <version>v1alpha1-rev37-1.25.0</version>
-      <version>v1alpha1-rev38-1.18.0-rc</version>
-      <version>v1alpha1-rev38-1.25.0</version>
-      <version>v1alpha1-rev39-1.18.0-rc</version>
-      <version>v1alpha1-rev39-1.25.0</version>
-      <version>v1alpha1-rev40-1.18.0-rc</version>
-      <version>v1alpha1-rev40-1.25.0</version>
-      <version>v1alpha1-rev41-1.18.0-rc</version>
-      <version>v1alpha1-rev41-1.25.0</version>
-      <version>v1alpha1-rev42-1.18.0-rc</version>
-      <version>v1alpha1-rev42-1.25.0</version>
-      <version>v1alpha1-rev43-1.18.0-rc</version>
-      <version>v1alpha1-rev43-1.25.0</version>
       <version>v1alpha1-rev20181207-1.26.0</version>
       <version>v1alpha1-rev20181207-1.27.0</version>
       <version>v1alpha1-rev20181207-1.28.0</version>
@@ -132,8 +98,8 @@
       <version>v1alpha1-rev20200221-1.30.8</version>
       <version>v1alpha1-rev20200221-1.30.9</version>
       <version>v1alpha1-rev20200417-1.30.9</version>
-      <version>v1alpha1-rev20200501-1.30.9</version>
       <version>v1alpha1-rev20200501-1.30.10</version>
+      <version>v1alpha1-rev20200501-1.30.9</version>
       <version>v1alpha1-rev20200807-1.30.10</version>
       <version>v1alpha1-rev20200828-1.30.10</version>
       <version>v1alpha1-rev20201030-1.30.10</version>
@@ -142,21 +108,41 @@
       <version>v1alpha1-rev20210122-1.31.0</version>
       <version>v1alpha1-rev20210326-1.31.0</version>
       <version>v1alpha1-rev20210409-1.31.0</version>
-      <version>v1beta1-rev7-1.18.0-rc</version>
-      <version>v1beta1-rev7-1.22.0</version>
-      <version>v1beta1-rev7-1.23.0</version>
-      <version>v1beta1-rev7-1.24.1</version>
-      <version>v1beta1-rev7-1.25.0</version>
-      <version>v1beta1-rev8-1.18.0-rc</version>
-      <version>v1beta1-rev8-1.22.0</version>
-      <version>v1beta1-rev8-1.23.0</version>
-      <version>v1beta1-rev8-1.24.1</version>
-      <version>v1beta1-rev8-1.25.0</version>
-      <version>v1beta1-rev9-1.18.0-rc</version>
-      <version>v1beta1-rev9-1.22.0</version>
-      <version>v1beta1-rev9-1.23.0</version>
-      <version>v1beta1-rev9-1.24.1</version>
-      <version>v1beta1-rev9-1.25.0</version>
+      <version>v1alpha1-rev34-1.18.0-rc</version>
+      <version>v1alpha1-rev34-1.25.0</version>
+      <version>v1alpha1-rev35-1.18.0-rc</version>
+      <version>v1alpha1-rev35-1.25.0</version>
+      <version>v1alpha1-rev36-1.18.0-rc</version>
+      <version>v1alpha1-rev36-1.25.0</version>
+      <version>v1alpha1-rev37-1.18.0-rc</version>
+      <version>v1alpha1-rev37-1.25.0</version>
+      <version>v1alpha1-rev38-1.18.0-rc</version>
+      <version>v1alpha1-rev38-1.25.0</version>
+      <version>v1alpha1-rev39-1.18.0-rc</version>
+      <version>v1alpha1-rev39-1.25.0</version>
+      <version>v1alpha1-rev40-1.18.0-rc</version>
+      <version>v1alpha1-rev40-1.25.0</version>
+      <version>v1alpha1-rev41-1.18.0-rc</version>
+      <version>v1alpha1-rev41-1.25.0</version>
+      <version>v1alpha1-rev42-1.18.0-rc</version>
+      <version>v1alpha1-rev42-1.25.0</version>
+      <version>v1alpha1-rev43-1.18.0-rc</version>
+      <version>v1alpha1-rev43-1.25.0</version>
+      <version>v1alpha1-rev7-1.18.0-rc</version>
+      <version>v1alpha1-rev7-1.22.0</version>
+      <version>v1alpha1-rev7-1.23.0</version>
+      <version>v1alpha1-rev7-1.24.1</version>
+      <version>v1alpha1-rev7-1.25.0</version>
+      <version>v1alpha1-rev8-1.18.0-rc</version>
+      <version>v1alpha1-rev8-1.22.0</version>
+      <version>v1alpha1-rev8-1.23.0</version>
+      <version>v1alpha1-rev8-1.24.1</version>
+      <version>v1alpha1-rev8-1.25.0</version>
+      <version>v1alpha1-rev9-1.18.0-rc</version>
+      <version>v1alpha1-rev9-1.22.0</version>
+      <version>v1alpha1-rev9-1.23.0</version>
+      <version>v1alpha1-rev9-1.24.1</version>
+      <version>v1alpha1-rev9-1.25.0</version>
       <version>v1beta1-rev10-1.18.0-rc</version>
       <version>v1beta1-rev10-1.22.0</version>
       <version>v1beta1-rev10-1.23.0</version>
@@ -192,26 +178,6 @@
       <version>v1beta1-rev18-1.25.0</version>
       <version>v1beta1-rev19-1.18.0-rc</version>
       <version>v1beta1-rev19-1.25.0</version>
-      <version>v1beta1-rev34-1.18.0-rc</version>
-      <version>v1beta1-rev34-1.25.0</version>
-      <version>v1beta1-rev35-1.18.0-rc</version>
-      <version>v1beta1-rev35-1.25.0</version>
-      <version>v1beta1-rev36-1.18.0-rc</version>
-      <version>v1beta1-rev36-1.25.0</version>
-      <version>v1beta1-rev37-1.18.0-rc</version>
-      <version>v1beta1-rev37-1.25.0</version>
-      <version>v1beta1-rev38-1.18.0-rc</version>
-      <version>v1beta1-rev38-1.25.0</version>
-      <version>v1beta1-rev39-1.18.0-rc</version>
-      <version>v1beta1-rev39-1.25.0</version>
-      <version>v1beta1-rev40-1.18.0-rc</version>
-      <version>v1beta1-rev40-1.25.0</version>
-      <version>v1beta1-rev41-1.18.0-rc</version>
-      <version>v1beta1-rev41-1.25.0</version>
-      <version>v1beta1-rev42-1.18.0-rc</version>
-      <version>v1beta1-rev42-1.25.0</version>
-      <version>v1beta1-rev43-1.18.0-rc</version>
-      <version>v1beta1-rev43-1.25.0</version>
       <version>v1beta1-rev20181207-1.26.0</version>
       <version>v1beta1-rev20181207-1.27.0</version>
       <version>v1beta1-rev20181207-1.28.0</version>
@@ -269,8 +235,8 @@
       <version>v1beta1-rev20200221-1.30.9</version>
       <version>v1beta1-rev20200417-1.30.9</version>
       <version>v1beta1-rev20200501-1.30.9</version>
-      <version>v1beta1-rev20200619-1.30.9</version>
       <version>v1beta1-rev20200619-1.30.10</version>
+      <version>v1beta1-rev20200619-1.30.9</version>
       <version>v1beta1-rev20200807-1.30.10</version>
       <version>v1beta1-rev20200828-1.30.10</version>
       <version>v1beta1-rev20201030-1.30.10</version>
@@ -278,7 +244,42 @@
       <version>v1beta1-rev20201112-1.31.0</version>
       <version>v1beta1-rev20210122-1.31.0</version>
       <version>v1beta1-rev20210326-1.31.0</version>
+      <version>v1beta1-rev34-1.18.0-rc</version>
+      <version>v1beta1-rev34-1.25.0</version>
+      <version>v1beta1-rev35-1.18.0-rc</version>
+      <version>v1beta1-rev35-1.25.0</version>
+      <version>v1beta1-rev36-1.18.0-rc</version>
+      <version>v1beta1-rev36-1.25.0</version>
+      <version>v1beta1-rev37-1.18.0-rc</version>
+      <version>v1beta1-rev37-1.25.0</version>
+      <version>v1beta1-rev38-1.18.0-rc</version>
+      <version>v1beta1-rev38-1.25.0</version>
+      <version>v1beta1-rev39-1.18.0-rc</version>
+      <version>v1beta1-rev39-1.25.0</version>
+      <version>v1beta1-rev40-1.18.0-rc</version>
+      <version>v1beta1-rev40-1.25.0</version>
+      <version>v1beta1-rev41-1.18.0-rc</version>
+      <version>v1beta1-rev41-1.25.0</version>
+      <version>v1beta1-rev42-1.18.0-rc</version>
+      <version>v1beta1-rev42-1.25.0</version>
+      <version>v1beta1-rev43-1.18.0-rc</version>
+      <version>v1beta1-rev43-1.25.0</version>
+      <version>v1beta1-rev7-1.18.0-rc</version>
+      <version>v1beta1-rev7-1.22.0</version>
+      <version>v1beta1-rev7-1.23.0</version>
+      <version>v1beta1-rev7-1.24.1</version>
+      <version>v1beta1-rev7-1.25.0</version>
+      <version>v1beta1-rev8-1.18.0-rc</version>
+      <version>v1beta1-rev8-1.22.0</version>
+      <version>v1beta1-rev8-1.23.0</version>
+      <version>v1beta1-rev8-1.24.1</version>
+      <version>v1beta1-rev8-1.25.0</version>
+      <version>v1beta1-rev9-1.18.0-rc</version>
+      <version>v1beta1-rev9-1.22.0</version>
+      <version>v1beta1-rev9-1.23.0</version>
+      <version>v1beta1-rev9-1.24.1</version>
+      <version>v1beta1-rev9-1.25.0</version>
     </versions>
-    <lastUpdated>20210416205057</lastUpdated>
+    <lastUpdated>20210610200548</lastUpdated>
   </versioning>
 </metadata>

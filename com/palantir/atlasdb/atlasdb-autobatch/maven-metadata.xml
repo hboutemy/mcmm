@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-autobatch</artifactId>
   <versioning>
-    <latest>0.350.0</latest>
-    <release>0.350.0</release>
+    <latest>0.351.0</latest>
+    <release>0.351.0</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -79,8 +79,11 @@
       <version>0.347.0</version>
       <version>0.348.0-rc1</version>
       <version>0.348.0</version>
+      <version>0.349.0-rc1</version>
+      <version>0.349.0-rc4</version>
       <version>0.350.0</version>
+      <version>0.351.0</version>
     </versions>
-    <lastUpdated>20210609165703</lastUpdated>
+    <lastUpdated>20210610175751</lastUpdated>
   </versioning>
 </metadata>
