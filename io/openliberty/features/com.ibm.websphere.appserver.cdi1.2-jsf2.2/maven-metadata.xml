@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>com.ibm.websphere.appserver.cdi1.2-jsf2.2</artifactId>
   <versioning>
-    <latest>21.0.0.5</latest>
-    <release>21.0.0.5</release>
+    <latest>21.0.0.6</latest>
+    <release>21.0.0.6</release>
     <versions>
       <version>18.0.0.2</version>
       <version>18.0.0.3</version>
@@ -38,7 +38,8 @@
       <version>21.0.0.3</version>
       <version>21.0.0.4</version>
       <version>21.0.0.5</version>
+      <version>21.0.0.6</version>
     </versions>
-    <lastUpdated>20210514110737</lastUpdated>
+    <lastUpdated>20210611034644</lastUpdated>
   </versioning>
 </metadata>

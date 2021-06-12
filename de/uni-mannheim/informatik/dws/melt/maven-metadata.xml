@@ -6,5 +6,10 @@
       <prefix>hobbit</prefix>
       <artifactId>hobbit-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>MELT - Matching EvaLuation Toolkit | Matching Maven Plugin</name>
+      <prefix>matching</prefix>
+      <artifactId>matching-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

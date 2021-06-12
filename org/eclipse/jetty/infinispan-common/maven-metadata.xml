@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>infinispan-common</artifactId>
   <versioning>
-    <latest>11.0.4</latest>
-    <release>11.0.4</release>
+    <latest>11.0.5</latest>
+    <release>11.0.5</release>
     <versions>
       <version>9.4.17.v20190418</version>
       <version>9.4.18.v20190429</version>
@@ -44,6 +44,7 @@
       <version>10.0.2</version>
       <version>10.0.3</version>
       <version>10.0.4</version>
+      <version>10.0.5</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
@@ -53,7 +54,8 @@
       <version>11.0.2</version>
       <version>11.0.3</version>
       <version>11.0.4</version>
+      <version>11.0.5</version>
     </versions>
-    <lastUpdated>20210608224205</lastUpdated>
+    <lastUpdated>20210611182909</lastUpdated>
   </versioning>
 </metadata>

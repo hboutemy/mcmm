@@ -6,5 +6,10 @@
       <prefix>ibversions</prefix>
       <artifactId>ibversions-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>randomid</prefix>
+      <artifactId>randomid-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

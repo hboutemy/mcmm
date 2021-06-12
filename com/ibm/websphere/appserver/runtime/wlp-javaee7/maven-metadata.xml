@@ -3,8 +3,8 @@
   <groupId>com.ibm.websphere.appserver.runtime</groupId>
   <artifactId>wlp-javaee7</artifactId>
   <versioning>
-    <latest>21.0.0.5</latest>
-    <release>21.0.0.5</release>
+    <latest>21.0.0.6</latest>
+    <release>21.0.0.6</release>
     <versions>
       <version>8.5.5.6</version>
       <version>8.5.5.7</version>
@@ -50,7 +50,8 @@
       <version>21.0.0.3</version>
       <version>21.0.0.4</version>
       <version>21.0.0.5</version>
+      <version>21.0.0.6</version>
     </versions>
-    <lastUpdated>20210514110507</lastUpdated>
+    <lastUpdated>20210611034305</lastUpdated>
   </versioning>
 </metadata>
