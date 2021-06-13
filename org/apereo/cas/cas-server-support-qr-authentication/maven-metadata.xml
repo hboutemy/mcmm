@@ -3,9 +3,10 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-qr-authentication</artifactId>
   <versioning>
-    <latest>6.4.0-RC4</latest>
-    <release>6.4.0-RC4</release>
+    <latest>6.4.0-RC5</latest>
+    <release>6.4.0-RC5</release>
     <versions>
+      <version>v6.4.0-RC5</version>
       <version>6.3.0-RC5</version>
       <version>6.3.0</version>
       <version>6.3.1</version>
@@ -16,7 +17,8 @@
       <version>6.4.0-RC2</version>
       <version>6.4.0-RC3</version>
       <version>6.4.0-RC4</version>
+      <version>6.4.0-RC5</version>
     </versions>
-    <lastUpdated>20210509103428</lastUpdated>
+    <lastUpdated>20210612173130</lastUpdated>
   </versioning>
 </metadata>
