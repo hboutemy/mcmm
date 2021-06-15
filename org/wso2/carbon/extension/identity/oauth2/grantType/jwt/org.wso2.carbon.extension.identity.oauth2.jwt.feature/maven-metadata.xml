@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.extension.identity.oauth2.grantType.jwt</groupId>
   <artifactId>org.wso2.carbon.extension.identity.oauth2.jwt.feature</artifactId>
   <versioning>
-    <latest>2.0.2</latest>
-    <release>2.0.2</release>
+    <latest>2.0.3</latest>
+    <release>2.0.3</release>
     <versions>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -37,7 +37,8 @@
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
+      <version>2.0.3</version>
     </versions>
-    <lastUpdated>20210608113723</lastUpdated>
+    <lastUpdated>20210614055932</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-http-adapter-pom</artifactId>
   <versioning>
-    <latest>4.6.1.Beta3</latest>
-    <release>4.6.1.Beta3</release>
+    <latest>4.6.1.Beta5</latest>
+    <release>4.6.1.Beta5</release>
     <versions>
       <version>3.0.20.Final</version>
       <version>3.0.21.Final</version>
@@ -105,7 +105,8 @@
       <version>4.6.1.Beta1</version>
       <version>4.6.1.Beta2</version>
       <version>4.6.1.Beta3</version>
+      <version>4.6.1.Beta5</version>
     </versions>
-    <lastUpdated>20210611011948</lastUpdated>
+    <lastUpdated>20210612155759</lastUpdated>
   </versioning>
 </metadata>

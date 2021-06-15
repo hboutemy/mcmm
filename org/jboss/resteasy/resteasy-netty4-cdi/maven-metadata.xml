@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-netty4-cdi</artifactId>
   <versioning>
-    <latest>4.6.1.Beta3</latest>
-    <release>4.6.1.Beta3</release>
+    <latest>4.6.1.Beta5</latest>
+    <release>4.6.1.Beta5</release>
     <versions>
       <version>3.0.7.Final</version>
       <version>3.0.8.Final</version>
@@ -119,7 +119,8 @@
       <version>4.6.1.Beta1</version>
       <version>4.6.1.Beta2</version>
       <version>4.6.1.Beta3</version>
+      <version>4.6.1.Beta5</version>
     </versions>
-    <lastUpdated>20210611011952</lastUpdated>
+    <lastUpdated>20210612155809</lastUpdated>
   </versioning>
 </metadata>
