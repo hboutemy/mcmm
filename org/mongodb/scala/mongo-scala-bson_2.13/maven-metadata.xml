@@ -3,8 +3,8 @@
   <groupId>org.mongodb.scala</groupId>
   <artifactId>mongo-scala-bson_2.13</artifactId>
   <versioning>
-    <latest>4.3.0-beta2</latest>
-    <release>4.3.0-beta2</release>
+    <latest>4.3.0-beta3</latest>
+    <release>4.3.0-beta3</release>
     <versions>
       <version>2.7.0</version>
       <version>2.8.0</version>
@@ -31,7 +31,8 @@
       <version>4.2.3</version>
       <version>4.3.0-beta1</version>
       <version>4.3.0-beta2</version>
+      <version>4.3.0-beta3</version>
     </versions>
-    <lastUpdated>20210528185242</lastUpdated>
+    <lastUpdated>20210615100004</lastUpdated>
   </versioning>
 </metadata>
