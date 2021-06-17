@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-datastore-parent</artifactId>
   <versioning>
-    <latest>1.106.5-sp.1</latest>
-    <release>1.106.5-sp.1</release>
+    <latest>1.107.0</latest>
+    <release>1.107.0</release>
     <versions>
       <version>1.102.1</version>
       <version>1.102.2</version>
@@ -27,8 +27,9 @@
       <version>1.106.4</version>
       <version>1.106.5</version>
       <version>1.106.5-sp.1</version>
+      <version>1.107.0</version>
       <version>1.105.8</version>
     </versions>
-    <lastUpdated>20210524132311</lastUpdated>
+    <lastUpdated>20210616181958</lastUpdated>
   </versioning>
 </metadata>

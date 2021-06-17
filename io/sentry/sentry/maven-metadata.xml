@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.0.1</release>
+    <latest>5.1.0-beta.1</latest>
+    <release>5.1.0-beta.1</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.0-beta2</version>
@@ -91,7 +91,8 @@
       <version>5.0.0-beta.7</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
+      <version>5.1.0-beta.1</version>
     </versions>
-    <lastUpdated>20210607095040</lastUpdated>
+    <lastUpdated>20210616083107</lastUpdated>
   </versioning>
 </metadata>
