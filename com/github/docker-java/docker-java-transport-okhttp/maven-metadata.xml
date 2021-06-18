@@ -3,8 +3,8 @@
   <groupId>com.github.docker-java</groupId>
   <artifactId>docker-java-transport-okhttp</artifactId>
   <versioning>
-    <latest>3.2.8</latest>
-    <release>3.2.8</release>
+    <latest>3.2.10</latest>
+    <release>3.2.10</release>
     <versions>
       <version>3.2.0-rc3</version>
       <version>3.2.0-rc4</version>
@@ -19,7 +19,9 @@
       <version>3.2.6</version>
       <version>3.2.7</version>
       <version>3.2.8</version>
+      <version>3.2.9</version>
+      <version>3.2.10</version>
     </versions>
-    <lastUpdated>20210411182011</lastUpdated>
+    <lastUpdated>20210617183038</lastUpdated>
   </versioning>
 </metadata>

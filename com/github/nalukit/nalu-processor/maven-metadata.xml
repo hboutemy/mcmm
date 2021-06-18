@@ -3,9 +3,10 @@
   <groupId>com.github.nalukit</groupId>
   <artifactId>nalu-processor</artifactId>
   <versioning>
-    <latest>2.4.2-gwt-2.8.2</latest>
-    <release>2.4.2-gwt-2.8.2</release>
+    <latest>2.5.0-gwt-2.8.2</latest>
+    <release>2.5.0-gwt-2.8.2</release>
     <versions>
+      <version>HEAD-SNAPSHOT-gwt-2.8.2</version>
       <version>1.0.0-RC-1</version>
       <version>1.0.0-rc-4</version>
       <version>1.0.0-rc-5</version>
@@ -44,7 +45,9 @@
       <version>2.4.1-gwt-2.8.2</version>
       <version>2.4.2</version>
       <version>2.4.2-gwt-2.8.2</version>
+      <version>2.5.0</version>
+      <version>2.5.0-gwt-2.8.2</version>
     </versions>
-    <lastUpdated>20210518162750</lastUpdated>
+    <lastUpdated>20210617191314</lastUpdated>
   </versioning>
 </metadata>

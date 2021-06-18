@@ -3,8 +3,8 @@
   <groupId>ru.mail</groupId>
   <artifactId>libnotify</artifactId>
   <versioning>
-    <latest>0.2.1-firebase</latest>
-    <release>0.2.1-firebase</release>
+    <latest>0.2.1-firebase-debug</latest>
+    <release>0.2.1-firebase-debug</release>
     <versions>
       <version>0.1.163-firebase-support-notify-support-v81</version>
       <version>0.1.163-firebase-support-notify-support-v92</version>
@@ -256,7 +256,8 @@
       <version>0.1.186-huawei-notify-support-v185-sdk-26</version>
       <version>0.2.0-firebase</version>
       <version>0.2.1-firebase</version>
+      <version>0.2.1-firebase-debug</version>
     </versions>
-    <lastUpdated>20210610163759</lastUpdated>
+    <lastUpdated>20210617084400</lastUpdated>
   </versioning>
 </metadata>

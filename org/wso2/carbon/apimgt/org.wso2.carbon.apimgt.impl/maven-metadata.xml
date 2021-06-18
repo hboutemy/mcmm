@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.impl</artifactId>
   <versioning>
-    <latest>9.0.215</latest>
-    <release>9.0.215</release>
+    <latest>9.0.218</latest>
+    <release>9.0.218</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -1763,6 +1763,7 @@
       <version>8.2.27</version>
       <version>8.2.28</version>
       <version>8.2.29</version>
+      <version>8.2.30</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -1978,7 +1979,10 @@
       <version>9.0.213</version>
       <version>9.0.214</version>
       <version>9.0.215</version>
+      <version>9.0.216</version>
+      <version>9.0.217</version>
+      <version>9.0.218</version>
     </versions>
-    <lastUpdated>20210616105328</lastUpdated>
+    <lastUpdated>20210617171317</lastUpdated>
   </versioning>
 </metadata>
