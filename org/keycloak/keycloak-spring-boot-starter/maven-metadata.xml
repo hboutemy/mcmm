@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-spring-boot-starter</artifactId>
   <versioning>
-    <latest>13.0.1</latest>
-    <release>13.0.1</release>
+    <latest>14.0.0</latest>
+    <release>14.0.0</release>
     <versions>
       <version>3.1.0.CR1</version>
       <version>3.1.0.Final</version>
@@ -60,7 +60,8 @@
       <version>12.0.4</version>
       <version>13.0.0</version>
       <version>13.0.1</version>
+      <version>14.0.0</version>
     </versions>
-    <lastUpdated>20210525094614</lastUpdated>
+    <lastUpdated>20210618082928</lastUpdated>
   </versioning>
 </metadata>

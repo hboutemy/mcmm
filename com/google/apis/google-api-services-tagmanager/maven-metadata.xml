@@ -3,10 +3,12 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-tagmanager</artifactId>
   <versioning>
-    <latest>v2-rev20210602-1.31.0</latest>
-    <release>v2-rev20210602-1.31.0</release>
+    <latest>v2-rev20210602-1.31.5</latest>
+    <release>v2-rev20210602-1.31.5</release>
     <versions>
+      <version>v1-rev20200826-1.31.5</version>
       <version>v2-rev20210602-1.31.0</version>
+      <version>v2-rev20210602-1.31.5</version>
       <version>v1-rev1-1.15.0-rc</version>
       <version>v1-rev1-1.16.0-rc</version>
       <version>v1-rev1-1.17.0-rc</version>
@@ -317,6 +319,6 @@
       <version>v2-rev9-1.22.0</version>
       <version>v2-rev9-1.23.0</version>
     </versions>
-    <lastUpdated>20210604200708</lastUpdated>
+    <lastUpdated>20210618225939</lastUpdated>
   </versioning>
 </metadata>

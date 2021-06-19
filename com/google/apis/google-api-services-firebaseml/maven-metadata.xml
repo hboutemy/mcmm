@@ -3,20 +3,24 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-firebaseml</artifactId>
   <versioning>
-    <latest>v1-rev20210322-1.31.0</latest>
-    <release>v1-rev20210322-1.31.0</release>
+    <latest>v1-rev20210322-1.31.5</latest>
+    <release>v1-rev20210322-1.31.5</release>
     <versions>
-      <version>v1beta2-rev2-1.18.0-rc</version>
-      <version>v1beta2-rev2-1.25.0</version>
-      <version>v1beta2-rev4-1.25.0</version>
+      <version>v1beta2-rev20210322-1.31.5</version>
+      <version>v1-rev20210322-1.31.5</version>
+      <version>v1-rev20200519-1.30.10</version>
+      <version>v1-rev20200519-1.30.9</version>
+      <version>v1-rev20200803-1.30.10</version>
+      <version>v1-rev20200803-1.31.0</version>
+      <version>v1-rev20210322-1.31.0</version>
       <version>v1beta2-rev11-1.18.0-rc</version>
       <version>v1beta2-rev11-1.25.0</version>
       <version>v1beta2-rev16-1.18.0-rc</version>
       <version>v1beta2-rev16-1.25.0</version>
-      <version>v1beta2-rev21-1.18.0-rc</version>
-      <version>v1beta2-rev21-1.25.0</version>
-      <version>v1beta2-rev20200415-1.30.9</version>
+      <version>v1beta2-rev2-1.18.0-rc</version>
+      <version>v1beta2-rev2-1.25.0</version>
       <version>v1beta2-rev20200415-1.30.10</version>
+      <version>v1beta2-rev20200415-1.30.9</version>
       <version>v1beta2-rev20200722-1.30.10</version>
       <version>v1beta2-rev20200803-1.30.10</version>
       <version>v1beta2-rev20200814-1.30.10</version>
@@ -24,12 +28,10 @@
       <version>v1beta2-rev20200905-1.31.0</version>
       <version>v1beta2-rev20210203-1.31.0</version>
       <version>v1beta2-rev20210322-1.31.0</version>
-      <version>v1-rev20200519-1.30.9</version>
-      <version>v1-rev20200519-1.30.10</version>
-      <version>v1-rev20200803-1.30.10</version>
-      <version>v1-rev20200803-1.31.0</version>
-      <version>v1-rev20210322-1.31.0</version>
+      <version>v1beta2-rev21-1.18.0-rc</version>
+      <version>v1beta2-rev21-1.25.0</version>
+      <version>v1beta2-rev4-1.25.0</version>
     </versions>
-    <lastUpdated>20210324203943</lastUpdated>
+    <lastUpdated>20210618214251</lastUpdated>
   </versioning>
 </metadata>

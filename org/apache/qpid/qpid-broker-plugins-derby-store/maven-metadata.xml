@@ -3,8 +3,8 @@
   <groupId>org.apache.qpid</groupId>
   <artifactId>qpid-broker-plugins-derby-store</artifactId>
   <versioning>
-    <latest>8.0.4</latest>
-    <release>8.0.4</release>
+    <latest>8.0.5</latest>
+    <release>8.0.5</release>
     <versions>
       <version>0.24</version>
       <version>0.26</version>
@@ -56,7 +56,8 @@
       <version>8.0.2</version>
       <version>8.0.3</version>
       <version>8.0.4</version>
+      <version>8.0.5</version>
     </versions>
-    <lastUpdated>20210218011411</lastUpdated>
+    <lastUpdated>20210618153103</lastUpdated>
   </versioning>
 </metadata>

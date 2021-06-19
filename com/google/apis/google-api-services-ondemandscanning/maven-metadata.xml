@@ -3,11 +3,13 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-ondemandscanning</artifactId>
   <versioning>
-    <latest>v1-rev20210524-1.31.0</latest>
-    <release>v1-rev20210524-1.31.0</release>
+    <latest>v1-rev20210524-1.31.5</latest>
+    <release>v1-rev20210524-1.31.5</release>
     <versions>
       <version>v1beta1-rev20210524-1.31.0</version>
+      <version>v1beta1-rev20210524-1.31.5</version>
       <version>v1-rev20210524-1.31.0</version>
+      <version>v1-rev20210524-1.31.5</version>
       <version>v1-rev20210329-1.31.0</version>
       <version>v1-rev20210403-1.31.0</version>
       <version>v1-rev20210410-1.31.0</version>
@@ -17,6 +19,6 @@
       <version>v1beta1-rev20210403-1.31.0</version>
       <version>v1beta1-rev20210410-1.31.0</version>
     </versions>
-    <lastUpdated>20210527200508</lastUpdated>
+    <lastUpdated>20210618221657</lastUpdated>
   </versioning>
 </metadata>

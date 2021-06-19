@@ -3,13 +3,14 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-testbom</artifactId>
   <versioning>
-    <latest>16.0.0.Final</latest>
-    <release>16.0.0.Final</release>
+    <latest>17.0.0.Beta1</latest>
+    <release>17.0.0.Beta1</release>
     <versions>
       <version>16.0.0.Beta4</version>
       <version>16.0.0.Beta5</version>
       <version>16.0.0.Final</version>
+      <version>17.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20210611102834</lastUpdated>
+    <lastUpdated>20210618130840</lastUpdated>
   </versioning>
 </metadata>

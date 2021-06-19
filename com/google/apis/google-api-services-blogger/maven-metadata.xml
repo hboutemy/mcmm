@@ -3,9 +3,11 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-blogger</artifactId>
   <versioning>
-    <latest>v3-rev20210227-1.31.0</latest>
-    <release>v3-rev20210227-1.31.0</release>
+    <latest>v3-rev20210227-1.31.5</latest>
+    <release>v3-rev20210227-1.31.5</release>
     <versions>
+      <version>v2-rev20200801-1.31.5</version>
+      <version>v3-rev20210227-1.31.5</version>
       <version>v2-rev16-1.13.2-beta</version>
       <version>v2-rev16-1.14.1-beta</version>
       <version>v2-rev18-1.13.2-beta</version>
@@ -16,6 +18,18 @@
       <version>v2-rev20-1.13.2-beta</version>
       <version>v2-rev20-1.14.2-beta</version>
       <version>v2-rev20-1.15.0-rc</version>
+      <version>v2-rev20150422-1.26.0</version>
+      <version>v2-rev20150422-1.27.0</version>
+      <version>v2-rev20150422-1.28.0</version>
+      <version>v2-rev20150422-1.29.2</version>
+      <version>v2-rev20150422-1.30.1</version>
+      <version>v2-rev20150422-1.30.3</version>
+      <version>v2-rev20150422-1.30.8</version>
+      <version>v2-rev20150422-1.30.9</version>
+      <version>v2-rev20200405-1.30.10</version>
+      <version>v2-rev20200405-1.30.9</version>
+      <version>v2-rev20200801-1.30.10</version>
+      <version>v2-rev20200801-1.31.0</version>
       <version>v2-rev21-1.13.2-beta</version>
       <version>v2-rev21-1.14.2-beta</version>
       <version>v2-rev21-1.15.0-rc</version>
@@ -214,20 +228,6 @@
       <version>v2-rev86-1.18.0-rc</version>
       <version>v2-rev86-1.25.0</version>
       <version>v2-rev89-1.18.0-rc</version>
-      <version>v2-rev20150422-1.26.0</version>
-      <version>v2-rev20150422-1.27.0</version>
-      <version>v2-rev20150422-1.28.0</version>
-      <version>v2-rev20150422-1.29.2</version>
-      <version>v2-rev20150422-1.30.1</version>
-      <version>v2-rev20150422-1.30.3</version>
-      <version>v2-rev20150422-1.30.8</version>
-      <version>v2-rev20150422-1.30.9</version>
-      <version>v2-rev20200405-1.30.9</version>
-      <version>v2-rev20200405-1.30.10</version>
-      <version>v2-rev20200801-1.30.10</version>
-      <version>v2-rev20200801-1.31.0</version>
-      <version>v3-rev9-1.13.2-beta</version>
-      <version>v3-rev9-1.14.1-beta</version>
       <version>v3-rev10-1.13.2-beta</version>
       <version>v3-rev10-1.14.1-beta</version>
       <version>v3-rev11-1.13.2-beta</version>
@@ -261,6 +261,22 @@
       <version>v3-rev19-1.15.0-rc</version>
       <version>v3-rev19-1.16.0-rc</version>
       <version>v3-rev19-1.17.0-rc</version>
+      <version>v3-rev20150422-1.26.0</version>
+      <version>v3-rev20150422-1.27.0</version>
+      <version>v3-rev20150422-1.28.0</version>
+      <version>v3-rev20150422-1.29.2</version>
+      <version>v3-rev20150422-1.30.1</version>
+      <version>v3-rev20190917-1.28.0</version>
+      <version>v3-rev20190917-1.29.2</version>
+      <version>v3-rev20190917-1.30.3</version>
+      <version>v3-rev20190917-1.30.8</version>
+      <version>v3-rev20190917-1.30.9</version>
+      <version>v3-rev20200409-1.30.10</version>
+      <version>v3-rev20200409-1.30.9</version>
+      <version>v3-rev20200711-1.30.10</version>
+      <version>v3-rev20200801-1.30.10</version>
+      <version>v3-rev20200801-1.31.0</version>
+      <version>v3-rev20210227-1.31.0</version>
       <version>v3-rev21-1.14.2-beta</version>
       <version>v3-rev21-1.15.0-rc</version>
       <version>v3-rev21-1.16.0-rc</version>
@@ -437,23 +453,9 @@
       <version>v3-rev69-1.18.0-rc</version>
       <version>v3-rev73-1.25.0</version>
       <version>v3-rev82-1.25.0</version>
-      <version>v3-rev20150422-1.26.0</version>
-      <version>v3-rev20150422-1.27.0</version>
-      <version>v3-rev20150422-1.28.0</version>
-      <version>v3-rev20150422-1.29.2</version>
-      <version>v3-rev20150422-1.30.1</version>
-      <version>v3-rev20190917-1.28.0</version>
-      <version>v3-rev20190917-1.29.2</version>
-      <version>v3-rev20190917-1.30.3</version>
-      <version>v3-rev20190917-1.30.8</version>
-      <version>v3-rev20190917-1.30.9</version>
-      <version>v3-rev20200409-1.30.9</version>
-      <version>v3-rev20200409-1.30.10</version>
-      <version>v3-rev20200711-1.30.10</version>
-      <version>v3-rev20200801-1.30.10</version>
-      <version>v3-rev20200801-1.31.0</version>
-      <version>v3-rev20210227-1.31.0</version>
+      <version>v3-rev9-1.13.2-beta</version>
+      <version>v3-rev9-1.14.1-beta</version>
     </versions>
-    <lastUpdated>20210301210106</lastUpdated>
+    <lastUpdated>20210618203408</lastUpdated>
   </versioning>
 </metadata>
