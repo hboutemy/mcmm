@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-context-propagation</artifactId>
   <versioning>
-    <latest>4.6.1.Beta8</latest>
-    <release>4.6.1.Beta8</release>
+    <latest>4.6.1.Final</latest>
+    <release>4.6.1.Final</release>
     <versions>
       <version>4.0.0.CR3</version>
       <version>4.0.0.Final</version>
@@ -42,7 +42,9 @@
       <version>4.6.1.Beta6</version>
       <version>4.6.1.Beta7</version>
       <version>4.6.1.Beta8</version>
+      <version>4.6.1.Beta9</version>
+      <version>4.6.1.Final</version>
     </versions>
-    <lastUpdated>20210616221413</lastUpdated>
+    <lastUpdated>20210619025322</lastUpdated>
   </versioning>
 </metadata>
