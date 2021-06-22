@@ -3,8 +3,8 @@
   <groupId>org.apache.felix</groupId>
   <artifactId>org.apache.felix.framework</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -64,10 +64,12 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
+      <version>6.0.5</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
       <version>1.7.0-private</version>
       <version>1.8.1-RC</version>
     </versions>
-    <lastUpdated>20201225220604</lastUpdated>
+    <lastUpdated>20210621212141</lastUpdated>
   </versioning>
 </metadata>
