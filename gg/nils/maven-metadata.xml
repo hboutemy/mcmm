@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>semantic-release-maven-plugin</name>
       <prefix>semantic-release</prefix>
       <artifactId>semantic-release-maven-plugin</artifactId>
     </plugin>

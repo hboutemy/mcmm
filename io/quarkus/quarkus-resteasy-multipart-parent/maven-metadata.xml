@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-multipart-parent</artifactId>
   <versioning>
-    <latest>2.0.0.CR3</latest>
-    <release>2.0.0.CR3</release>
+    <latest>2.0.0.Final</latest>
+    <release>2.0.0.Final</release>
     <versions>
       <version>1.8.1.Final</version>
       <version>1.8.2.Final</version>
@@ -50,7 +50,8 @@
       <version>2.0.0.CR1</version>
       <version>2.0.0.CR2</version>
       <version>2.0.0.CR3</version>
+      <version>2.0.0.Final</version>
     </versions>
-    <lastUpdated>20210609103155</lastUpdated>
+    <lastUpdated>20210623110553</lastUpdated>
   </versioning>
 </metadata>

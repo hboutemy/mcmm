@@ -3,11 +3,12 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-datacatalog</artifactId>
   <versioning>
-    <latest>v1-rev20210601-1.31.5</latest>
-    <release>v1-rev20210601-1.31.5</release>
+    <latest>v1-rev20210618-1.31.5</latest>
+    <release>v1-rev20210618-1.31.5</release>
     <versions>
       <version>v1beta1-rev20210429-1.31.5</version>
       <version>v1-rev20210601-1.31.5</version>
+      <version>v1-rev20210618-1.31.5</version>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.25.0</version>
       <version>v1beta1-rev10-1.18.0-rc</version>
@@ -77,6 +78,6 @@
       <version>v1beta1-rev9-1.18.0-rc</version>
       <version>v1beta1-rev9-1.25.0</version>
     </versions>
-    <lastUpdated>20210622200214</lastUpdated>
+    <lastUpdated>20210623200443</lastUpdated>
   </versioning>
 </metadata>

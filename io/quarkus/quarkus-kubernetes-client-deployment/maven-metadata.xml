@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-kubernetes-client-deployment</artifactId>
   <versioning>
-    <latest>2.0.0.CR3</latest>
-    <release>2.0.0.CR3</release>
+    <latest>2.0.0.Final</latest>
+    <release>2.0.0.Final</release>
     <versions>
       <version>0.18.0</version>
       <version>0.19.0</version>
@@ -109,7 +109,8 @@
       <version>2.0.0.CR1</version>
       <version>2.0.0.CR2</version>
       <version>2.0.0.CR3</version>
+      <version>2.0.0.Final</version>
     </versions>
-    <lastUpdated>20210609103119</lastUpdated>
+    <lastUpdated>20210623110525</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>podman-maven-plugin Maven Mojo</name>
+      <prefix>podman</prefix>
+      <artifactId>podman-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
