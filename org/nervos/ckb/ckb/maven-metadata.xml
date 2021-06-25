@@ -3,8 +3,8 @@
   <groupId>org.nervos.ckb</groupId>
   <artifactId>ckb</artifactId>
   <versioning>
-    <latest>0.41.1</latest>
-    <release>0.41.1</release>
+    <latest>0.42.1-snapshot</latest>
+    <release>0.42.1-snapshot</release>
     <versions>
       <version>0.24.1</version>
       <version>0.24.5</version>
@@ -39,7 +39,9 @@
       <version>0.41.0</version>
       <version>0.41.1-snapshot</version>
       <version>0.41.1</version>
+      <version>0.42.0-snapshot</version>
+      <version>0.42.1-snapshot</version>
     </versions>
-    <lastUpdated>20210621024910</lastUpdated>
+    <lastUpdated>20210624185840</lastUpdated>
   </versioning>
 </metadata>

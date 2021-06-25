@@ -11,5 +11,10 @@
       <prefix>bloop_2.12</prefix>
       <artifactId>maven-bloop_2.12</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-bloop</name>
+      <prefix>bloop_2.13</prefix>
+      <artifactId>maven-bloop_2.13</artifactId>
+    </plugin>
   </plugins>
 </metadata>
