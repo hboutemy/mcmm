@@ -3,14 +3,17 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-appengine</artifactId>
   <versioning>
-    <latest>v1-rev20210613-1.31.5</latest>
-    <release>v1-rev20210613-1.31.5</release>
+    <latest>v1-rev20210618-1.31.5</latest>
+    <release>v1-rev20210618-1.31.5</release>
     <versions>
       <version>v1alpha-rev20210613-1.31.5</version>
+      <version>v1alpha-rev20210618-1.31.5</version>
       <version>v1beta-rev20210608-1.31.0</version>
       <version>v1beta-rev20210613-1.31.5</version>
+      <version>v1beta-rev20210618-1.31.5</version>
       <version>v1-rev20210608-1.31.0</version>
       <version>v1-rev20210613-1.31.5</version>
+      <version>v1-rev20210618-1.31.5</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -2075,6 +2078,6 @@
       <version>v1beta5-rev95-1.24.1</version>
       <version>v1beta5-rev95-1.25.0</version>
     </versions>
-    <lastUpdated>20210618202626</lastUpdated>
+    <lastUpdated>20210625200151</lastUpdated>
   </versioning>
 </metadata>
