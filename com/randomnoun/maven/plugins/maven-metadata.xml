@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Swagger combiner maven plugin</name>
+      <prefix>swagger-combine</prefix>
+      <artifactId>swagger-combine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Bamboo label maven plugin</name>
       <prefix>vmaint</prefix>
       <artifactId>vmaint-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-support-httpclient-parent</artifactId>
   <versioning>
-    <latest>2.0.0-M2</latest>
-    <release>2.0.0-M2</release>
+    <latest>2.0.0</latest>
+    <release>2.0.0</release>
     <versions>
       <version>1.0.0-M3</version>
       <version>1.0.0-M4</version>
@@ -26,7 +26,8 @@
       <version>1.8.1</version>
       <version>2.0.0-M1</version>
       <version>2.0.0-M2</version>
+      <version>2.0.0</version>
     </versions>
-    <lastUpdated>20210614080943</lastUpdated>
+    <lastUpdated>20210628144252</lastUpdated>
   </versioning>
 </metadata>

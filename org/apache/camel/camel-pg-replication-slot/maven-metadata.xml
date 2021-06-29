@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-pg-replication-slot</artifactId>
   <versioning>
-    <latest>3.10.0</latest>
-    <release>3.10.0</release>
+    <latest>3.11.0</latest>
+    <release>3.11.0</release>
     <versions>
       <version>3.0.0-M4</version>
       <version>3.0.0-RC1</version>
@@ -32,7 +32,8 @@
       <version>3.8.0</version>
       <version>3.9.0</version>
       <version>3.10.0</version>
+      <version>3.11.0</version>
     </versions>
-    <lastUpdated>20210621094116</lastUpdated>
+    <lastUpdated>20210628061023</lastUpdated>
   </versioning>
 </metadata>

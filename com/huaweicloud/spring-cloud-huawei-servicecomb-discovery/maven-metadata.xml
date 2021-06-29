@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-huawei-servicecomb-discovery</artifactId>
   <versioning>
-    <latest>1.5.9-Hoxton</latest>
-    <release>1.5.9-Hoxton</release>
+    <latest>1.6.0-Hoxton</latest>
+    <release>1.6.0-Hoxton</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -44,7 +44,9 @@
       <version>1.5.7-Hoxton</version>
       <version>1.5.8-Hoxton</version>
       <version>1.5.9-Hoxton</version>
+      <version>1.6.0-Finchley</version>
+      <version>1.6.0-Hoxton</version>
     </versions>
-    <lastUpdated>20210621123810</lastUpdated>
+    <lastUpdated>20210628113531</lastUpdated>
   </versioning>
 </metadata>

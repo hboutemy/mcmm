@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-huawei-bom</artifactId>
   <versioning>
-    <latest>1.5.9-Hoxton</latest>
-    <release>1.5.9-Hoxton</release>
+    <latest>1.6.0-Hoxton</latest>
+    <release>1.6.0-Hoxton</release>
     <versions>
       <version>1.5.0-Greenwich</version>
       <version>1.5.0-Hoxton</version>
@@ -19,7 +19,9 @@
       <version>1.5.7-Hoxton</version>
       <version>1.5.8-Hoxton</version>
       <version>1.5.9-Hoxton</version>
+      <version>1.6.0-Finchley</version>
+      <version>1.6.0-Hoxton</version>
     </versions>
-    <lastUpdated>20210621123804</lastUpdated>
+    <lastUpdated>20210628113526</lastUpdated>
   </versioning>
 </metadata>

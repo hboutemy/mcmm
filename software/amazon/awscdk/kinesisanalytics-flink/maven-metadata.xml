@@ -3,8 +3,8 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>kinesisanalytics-flink</artifactId>
   <versioning>
-    <latest>1.110.0</latest>
-    <release>1.110.0</release>
+    <latest>1.110.1</latest>
+    <release>1.110.1</release>
     <versions>
       <version>1.90.0</version>
       <version>1.90.1</version>
@@ -33,7 +33,8 @@
       <version>1.108.1</version>
       <version>1.109.0</version>
       <version>1.110.0</version>
+      <version>1.110.1</version>
     </versions>
-    <lastUpdated>20210624121007</lastUpdated>
+    <lastUpdated>20210628225430</lastUpdated>
   </versioning>
 </metadata>

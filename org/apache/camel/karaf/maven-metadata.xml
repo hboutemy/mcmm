@@ -159,5 +159,10 @@
       <prefix>camel-karaf-docs</prefix>
       <artifactId>camel-karaf-docs-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Camel Karaf :: Tooling :: Camel Karaf Maven Plugin</name>
+      <prefix>camel-karaf</prefix>
+      <artifactId>camel-karaf-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
