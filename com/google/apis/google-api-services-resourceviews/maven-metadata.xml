@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-resourceviews</artifactId>
   <versioning>
@@ -151,7 +151,6 @@
       <version>v1beta2-rev3-1.17.0-rc</version>
       <version>v1beta2-rev3-1.18.0-rc</version>
       <version>v1beta2-rev3-1.19.0</version>
-      <version>v1beta2-rev4-1.15.0-rc</version>
       <version>v1beta2-rev4-1.16.0-rc</version>
       <version>v1beta2-rev4-1.17.0-rc</version>
       <version>v1beta2-rev4-1.18.0-rc</version>
@@ -225,7 +224,8 @@
       <version>v1beta2-rev21-1.21.0</version>
       <version>v1beta2-rev21-1.22.0</version>
       <version>v1beta2-rev21-1.23.0</version>
+      <version>v1beta2-rev4-1.15.0-rc</version>
     </versions>
-    <lastUpdated>20180503231230</lastUpdated>
+    <lastUpdated>20210629190026</lastUpdated>
   </versioning>
 </metadata>

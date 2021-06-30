@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>seat-service-client-akka-http_2.11</artifactId>
   <versioning>
-    <latest>0.21.1_akka25Circe08</latest>
-    <release>0.21.1_akka25Circe08</release>
+    <latest>0.21.2_akka25Circe08</latest>
+    <release>0.21.2_akka25Circe08</release>
     <versions>
       <version>0.1.2_akka24Circe08</version>
       <version>0.1.2_akka25Circe08</version>
@@ -87,7 +87,9 @@
       <version>0.21.0_akka25Circe08</version>
       <version>0.21.1_akka24Circe08</version>
       <version>0.21.1_akka25Circe08</version>
+      <version>0.21.2_akka24Circe08</version>
+      <version>0.21.2_akka25Circe08</version>
     </versions>
-    <lastUpdated>20210427080025</lastUpdated>
+    <lastUpdated>20210629152303</lastUpdated>
   </versioning>
 </metadata>

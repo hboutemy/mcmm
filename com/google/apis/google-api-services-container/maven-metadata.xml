@@ -3,17 +3,19 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-container</artifactId>
   <versioning>
-    <latest>v1-rev20210607-1.31.5</latest>
-    <release>v1-rev20210607-1.31.5</release>
+    <latest>v1-rev20210617-1.31.5</latest>
+    <release>v1-rev20210617-1.31.5</release>
     <versions>
       <version>v1beta1-rev20210517-1.31.0</version>
       <version>v1beta1-rev20210521-1.31.0</version>
       <version>v1beta1-rev20210607-1.31.0</version>
       <version>v1beta1-rev20210607-1.31.5</version>
+      <version>v1beta1-rev20210617-1.31.5</version>
       <version>v1-rev20210517-1.31.0</version>
       <version>v1-rev20210521-1.31.0</version>
       <version>v1-rev20210607-1.31.0</version>
       <version>v1-rev20210607-1.31.5</version>
+      <version>v1-rev20210617-1.31.5</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
       <version>v1-rev1-1.19.1</version>
@@ -785,6 +787,6 @@
       <version>v1beta1-rev99-1.18.0-rc</version>
       <version>v1beta1-rev99-1.25.0</version>
     </versions>
-    <lastUpdated>20210618210558</lastUpdated>
+    <lastUpdated>20210629200420</lastUpdated>
   </versioning>
 </metadata>

@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-kgsearch</artifactId>
   <versioning>
     <latest>v1-rev20200809-1.31.5</latest>
     <release>v1-rev20200809-1.31.5</release>
     <versions>
-      <version>v1-rev20200809-1.31.5</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.1</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
+      <version>v1-rev2-1.18.0-rc</version>
+      <version>v1-rev2-1.19.1</version>
+      <version>v1-rev2-1.20.0</version>
+      <version>v1-rev2-1.21.0</version>
+      <version>v1-rev3-1.18.0-rc</version>
+      <version>v1-rev3-1.19.1</version>
+      <version>v1-rev3-1.20.0</version>
+      <version>v1-rev3-1.21.0</version>
+      <version>v1-rev4-1.18.0-rc</version>
+      <version>v1-rev4-1.19.1</version>
+      <version>v1-rev4-1.20.0</version>
+      <version>v1-rev4-1.21.0</version>
+      <version>v1-rev4-1.22.0</version>
+      <version>v1-rev5-1.18.0-rc</version>
+      <version>v1-rev5-1.20.0</version>
+      <version>v1-rev5-1.21.0</version>
+      <version>v1-rev5-1.22.0</version>
+      <version>v1-rev6-1.18.0-rc</version>
+      <version>v1-rev6-1.20.0</version>
+      <version>v1-rev6-1.21.0</version>
+      <version>v1-rev6-1.22.0</version>
+      <version>v1-rev7-1.18.0-rc</version>
+      <version>v1-rev7-1.20.0</version>
+      <version>v1-rev7-1.21.0</version>
+      <version>v1-rev7-1.22.0</version>
       <version>v1-rev126-1.18.0-rc</version>
       <version>v1-rev126-1.20.0</version>
       <version>v1-rev126-1.21.0</version>
@@ -19,21 +43,6 @@
       <version>v1-rev130-1.20.0</version>
       <version>v1-rev130-1.21.0</version>
       <version>v1-rev130-1.22.0</version>
-      <version>v1-rev2-1.18.0-rc</version>
-      <version>v1-rev2-1.19.1</version>
-      <version>v1-rev2-1.20.0</version>
-      <version>v1-rev2-1.21.0</version>
-      <version>v1-rev20180809-1.26.0</version>
-      <version>v1-rev20180809-1.27.0</version>
-      <version>v1-rev20180809-1.28.0</version>
-      <version>v1-rev20180809-1.29.2</version>
-      <version>v1-rev20180809-1.30.1</version>
-      <version>v1-rev20180809-1.30.8</version>
-      <version>v1-rev20200210-1.30.10</version>
-      <version>v1-rev20200210-1.30.8</version>
-      <version>v1-rev20200210-1.30.9</version>
-      <version>v1-rev20200809-1.30.10</version>
-      <version>v1-rev20200809-1.31.0</version>
       <version>v1-rev226-1.18.0-rc</version>
       <version>v1-rev226-1.20.0</version>
       <version>v1-rev226-1.21.0</version>
@@ -67,28 +76,19 @@
       <version>v1-rev253-1.25.0</version>
       <version>v1-rev254-1.18.0-rc</version>
       <version>v1-rev254-1.25.0</version>
-      <version>v1-rev3-1.18.0-rc</version>
-      <version>v1-rev3-1.19.1</version>
-      <version>v1-rev3-1.20.0</version>
-      <version>v1-rev3-1.21.0</version>
-      <version>v1-rev4-1.18.0-rc</version>
-      <version>v1-rev4-1.19.1</version>
-      <version>v1-rev4-1.20.0</version>
-      <version>v1-rev4-1.21.0</version>
-      <version>v1-rev4-1.22.0</version>
-      <version>v1-rev5-1.18.0-rc</version>
-      <version>v1-rev5-1.20.0</version>
-      <version>v1-rev5-1.21.0</version>
-      <version>v1-rev5-1.22.0</version>
-      <version>v1-rev6-1.18.0-rc</version>
-      <version>v1-rev6-1.20.0</version>
-      <version>v1-rev6-1.21.0</version>
-      <version>v1-rev6-1.22.0</version>
-      <version>v1-rev7-1.18.0-rc</version>
-      <version>v1-rev7-1.20.0</version>
-      <version>v1-rev7-1.21.0</version>
-      <version>v1-rev7-1.22.0</version>
+      <version>v1-rev20180809-1.26.0</version>
+      <version>v1-rev20180809-1.27.0</version>
+      <version>v1-rev20180809-1.28.0</version>
+      <version>v1-rev20180809-1.29.2</version>
+      <version>v1-rev20180809-1.30.1</version>
+      <version>v1-rev20180809-1.30.8</version>
+      <version>v1-rev20200210-1.30.8</version>
+      <version>v1-rev20200210-1.30.9</version>
+      <version>v1-rev20200210-1.30.10</version>
+      <version>v1-rev20200809-1.30.10</version>
+      <version>v1-rev20200809-1.31.0</version>
+      <version>v1-rev20200809-1.31.5</version>
     </versions>
-    <lastUpdated>20210618220328</lastUpdated>
+    <lastUpdated>20210629193022</lastUpdated>
   </versioning>
 </metadata>

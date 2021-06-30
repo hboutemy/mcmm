@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-freebase</artifactId>
   <versioning>
@@ -404,7 +404,6 @@
       <version>v1sandbox-rev60-1.18.0-rc</version>
       <version>v1sandbox-rev60-1.19.0</version>
       <version>v1sandbox-rev60-1.19.1</version>
-      <version>v1sandbox-rev60-1.20.0</version>
       <version>v1sandbox-rev61-1.18.0-rc</version>
       <version>v1sandbox-rev61-1.19.0</version>
       <version>v1sandbox-rev61-1.19.1</version>
@@ -417,7 +416,8 @@
       <version>v1sandbox-rev63-1.19.0</version>
       <version>v1sandbox-rev63-1.19.1</version>
       <version>v1sandbox-rev63-1.20.0</version>
+      <version>v1sandbox-rev60-1.20.0</version>
     </versions>
-    <lastUpdated>20160518070758</lastUpdated>
+    <lastUpdated>20210629184942</lastUpdated>
   </versioning>
 </metadata>
