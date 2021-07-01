@@ -3,8 +3,8 @@
   <groupId>org.openingo.spring</groupId>
   <artifactId>spring-boot-x</artifactId>
   <versioning>
-    <latest>3.1.2.RELEASE</latest>
-    <release>3.1.2.RELEASE</release>
+    <latest>4.0.2.RELEASE</latest>
+    <release>4.0.2.RELEASE</release>
     <versions>
       <version>1.0-RELEASE</version>
       <version>1.0.1-RELEASE</version>
@@ -46,7 +46,11 @@
       <version>3.1.0.RELEASE</version>
       <version>3.1.1.RELEASE</version>
       <version>3.1.2.RELEASE</version>
+      <version>3.2.0.RELEASE</version>
+      <version>4.0.0.RELEASE</version>
+      <version>4.0.1.RELEASE</version>
+      <version>4.0.2.RELEASE</version>
     </versions>
-    <lastUpdated>20210629061730</lastUpdated>
+    <lastUpdated>20210630152805</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>dev.profunktor</groupId>
   <artifactId>redis4cats-streams_2.12</artifactId>
   <versioning>
-    <latest>1.0.0-RC3</latest>
-    <release>1.0.0-RC3</release>
+    <latest>1.0.0</latest>
+    <release>1.0.0</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -31,10 +31,12 @@
       <version>0.12.0</version>
       <version>0.12.1</version>
       <version>0.13.1</version>
+      <version>0.14.0</version>
       <version>1.0.0RC1</version>
       <version>1.0.0-RC2</version>
       <version>1.0.0-RC3</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20210426104557</lastUpdated>
+    <lastUpdated>20210630144018</lastUpdated>
   </versioning>
 </metadata>

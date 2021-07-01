@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.cache.invalidation</artifactId>
   <versioning>
-    <latest>9.0.225</latest>
-    <release>9.0.225</release>
+    <latest>9.0.229</latest>
+    <release>9.0.229</release>
     <versions>
       <version>6.8.76</version>
       <version>6.8.77</version>
@@ -442,7 +442,11 @@
       <version>9.0.223</version>
       <version>9.0.224</version>
       <version>9.0.225</version>
+      <version>9.0.226</version>
+      <version>9.0.227</version>
+      <version>9.0.228</version>
+      <version>9.0.229</version>
     </versions>
-    <lastUpdated>20210629053823</lastUpdated>
+    <lastUpdated>20210630143604</lastUpdated>
   </versioning>
 </metadata>

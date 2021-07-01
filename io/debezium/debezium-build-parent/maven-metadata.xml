@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-build-parent</artifactId>
   <versioning>
-    <latest>1.6.0.CR1</latest>
-    <release>1.6.0.CR1</release>
+    <latest>1.6.0.Final</latest>
+    <release>1.6.0.Final</release>
     <versions>
       <version>1.5.0.Beta2</version>
       <version>1.5.0.CR1</version>
@@ -16,7 +16,8 @@
       <version>1.6.0.Beta1</version>
       <version>1.6.0.Beta2</version>
       <version>1.6.0.CR1</version>
+      <version>1.6.0.Final</version>
     </versions>
-    <lastUpdated>20210624062116</lastUpdated>
+    <lastUpdated>20210630080319</lastUpdated>
   </versioning>
 </metadata>
