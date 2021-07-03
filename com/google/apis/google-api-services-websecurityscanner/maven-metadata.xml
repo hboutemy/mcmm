@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-websecurityscanner</artifactId>
   <versioning>
-    <latest>v1-rev20210417-1.31.5</latest>
-    <release>v1-rev20210417-1.31.5</release>
+    <latest>v1-rev20210417-1.32.1</latest>
+    <release>v1-rev20210417-1.32.1</release>
     <versions>
       <version>v1alpha-rev2-1.18.0-rc</version>
       <version>v1alpha-rev2-1.21.0</version>
@@ -535,6 +535,7 @@
       <version>v1alpha-rev20200826-1.31.0</version>
       <version>v1alpha-rev20210324-1.31.0</version>
       <version>v1alpha-rev20210324-1.31.5</version>
+      <version>v1alpha-rev20210324-1.32.1</version>
       <version>v1beta-rev1-1.18.0-rc</version>
       <version>v1beta-rev1-1.22.0</version>
       <version>v1beta-rev1-1.23.0</version>
@@ -626,6 +627,7 @@
       <version>v1beta-rev20210324-1.31.0</version>
       <version>v1beta-rev20210417-1.31.0</version>
       <version>v1beta-rev20210417-1.31.5</version>
+      <version>v1beta-rev20210417-1.32.1</version>
       <version>v1-rev3-1.18.0-rc</version>
       <version>v1-rev3-1.25.0</version>
       <version>v1-rev4-1.18.0-rc</version>
@@ -673,7 +675,8 @@
       <version>v1-rev20210324-1.31.0</version>
       <version>v1-rev20210417-1.31.0</version>
       <version>v1-rev20210417-1.31.5</version>
+      <version>v1-rev20210417-1.32.1</version>
     </versions>
-    <lastUpdated>20210629194547</lastUpdated>
+    <lastUpdated>20210702225603</lastUpdated>
   </versioning>
 </metadata>

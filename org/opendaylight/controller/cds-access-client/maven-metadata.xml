@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>cds-access-client</artifactId>
   <versioning>
-    <latest>3.0.8</latest>
-    <release>3.0.8</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>1.0.1-Boron-SR1</version>
       <version>1.0.2-Boron-SR2</version>
@@ -59,7 +59,8 @@
       <version>3.0.6</version>
       <version>3.0.7</version>
       <version>3.0.8</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20210518195656</lastUpdated>
+    <lastUpdated>20210702145436</lastUpdated>
   </versioning>
 </metadata>
