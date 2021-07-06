@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-container-bom</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.5.0</latest>
+    <release>1.5.0</release>
     <versions>
       <version>0.118.0-beta</version>
       <version>0.119.0-beta</version>
@@ -28,8 +28,9 @@
       <version>1.3.3</version>
       <version>1.3.4</version>
       <version>1.4.0</version>
+      <version>1.5.0</version>
       <version>1.2.5</version>
     </versions>
-    <lastUpdated>20210615230100</lastUpdated>
+    <lastUpdated>20210705210057</lastUpdated>
   </versioning>
 </metadata>
