@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-structures-dstu3</artifactId>
   <versioning>
-    <latest>5.4.1</latest>
-    <release>5.4.1</release>
+    <latest>5.4.2</latest>
+    <release>5.4.2</release>
     <versions>
       <version>1.4</version>
       <version>1.5</version>
@@ -41,7 +41,8 @@
       <version>5.3.3</version>
       <version>5.4.0</version>
       <version>5.4.1</version>
+      <version>5.4.2</version>
     </versions>
-    <lastUpdated>20210614184507</lastUpdated>
+    <lastUpdated>20210706222250</lastUpdated>
   </versioning>
 </metadata>

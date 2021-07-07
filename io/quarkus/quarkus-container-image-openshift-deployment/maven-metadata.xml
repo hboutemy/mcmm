@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image-openshift-deployment</artifactId>
   <versioning>
-    <latest>2.0.0.Final</latest>
-    <release>2.0.0.Final</release>
+    <latest>2.0.1.Final</latest>
+    <release>2.0.1.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -48,7 +48,8 @@
       <version>2.0.0.CR2</version>
       <version>2.0.0.CR3</version>
       <version>2.0.0.Final</version>
+      <version>2.0.1.Final</version>
     </versions>
-    <lastUpdated>20210623110448</lastUpdated>
+    <lastUpdated>20210706122624</lastUpdated>
   </versioning>
 </metadata>

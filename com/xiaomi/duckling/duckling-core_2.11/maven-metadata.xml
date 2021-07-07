@@ -3,13 +3,15 @@
   <groupId>com.xiaomi.duckling</groupId>
   <artifactId>duckling-core_2.11</artifactId>
   <versioning>
-    <latest>1.2.2D</latest>
-    <release>1.2.2D</release>
+    <latest>1.2.3D</latest>
+    <release>1.2.3D</release>
     <versions>
+      <version>schema-1.0D</version>
       <version>1.2D</version>
       <version>1.2.1D</version>
       <version>1.2.2D</version>
+      <version>1.2.3D</version>
     </versions>
-    <lastUpdated>20210628114313</lastUpdated>
+    <lastUpdated>20210706113449</lastUpdated>
   </versioning>
 </metadata>
