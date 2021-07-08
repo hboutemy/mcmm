@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
   <versioning>
-    <latest>2.2.8.RELEASE</latest>
-    <release>2.2.8.RELEASE</release>
+    <latest>2.2.9.RELEASE</latest>
+    <release>2.2.9.RELEASE</release>
     <versions>
       <version>1.4.0.RELEASE</version>
       <version>1.4.1.RELEASE</version>
@@ -35,7 +35,8 @@
       <version>2.2.6.RELEASE</version>
       <version>2.2.7.RELEASE</version>
       <version>2.2.8.RELEASE</version>
+      <version>2.2.9.RELEASE</version>
     </versions>
-    <lastUpdated>20210421202143</lastUpdated>
+    <lastUpdated>20210707101850</lastUpdated>
   </versioning>
 </metadata>

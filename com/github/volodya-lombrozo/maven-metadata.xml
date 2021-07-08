@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>conventional-commit-linter</prefix>
+      <artifactId>conventional-commit-linter</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>hg-revision</prefix>
       <artifactId>hg-revision-plugin</artifactId>
     </plugin>

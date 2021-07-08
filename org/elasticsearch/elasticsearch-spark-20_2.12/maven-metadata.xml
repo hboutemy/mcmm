@@ -3,15 +3,16 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-spark-20_2.12</artifactId>
   <versioning>
-    <latest>7.13.2</latest>
-    <release>7.13.2</release>
+    <latest>7.13.3</latest>
+    <release>7.13.3</release>
     <versions>
       <version>7.12.0</version>
       <version>7.12.1</version>
       <version>7.13.0</version>
       <version>7.13.1</version>
       <version>7.13.2</version>
+      <version>7.13.3</version>
     </versions>
-    <lastUpdated>20210614184540</lastUpdated>
+    <lastUpdated>20210707134300</lastUpdated>
   </versioning>
 </metadata>
