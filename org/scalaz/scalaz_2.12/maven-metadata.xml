@@ -3,8 +3,8 @@
   <groupId>org.scalaz</groupId>
   <artifactId>scalaz_2.12</artifactId>
   <versioning>
-    <latest>7.3.3</latest>
-    <release>7.3.3</release>
+    <latest>7.3.4</latest>
+    <release>7.3.4</release>
     <versions>
       <version>7.0.9</version>
       <version>7.1.11</version>
@@ -40,6 +40,7 @@
       <version>7.2.30</version>
       <version>7.2.31</version>
       <version>7.2.32</version>
+      <version>7.2.33</version>
       <version>7.3.0-M6</version>
       <version>7.3.0-M7</version>
       <version>7.3.0-M8</version>
@@ -71,7 +72,8 @@
       <version>7.3.1</version>
       <version>7.3.2</version>
       <version>7.3.3</version>
+      <version>7.3.4</version>
     </versions>
-    <lastUpdated>20210519102219</lastUpdated>
+    <lastUpdated>20210708131643</lastUpdated>
   </versioning>
 </metadata>

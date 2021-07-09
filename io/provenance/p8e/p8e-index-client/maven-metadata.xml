@@ -3,8 +3,8 @@
   <groupId>io.provenance.p8e</groupId>
   <artifactId>p8e-index-client</artifactId>
   <versioning>
-    <latest>0.8.0-smartkey-7</latest>
-    <release>0.8.0-smartkey-7</release>
+    <latest>0.8.2-npe-2</latest>
+    <release>0.8.2-npe-2</release>
     <versions>
       <version>0.7.3</version>
       <version>0.7.4</version>
@@ -12,7 +12,11 @@
       <version>0.8.0-smartkey-5</version>
       <version>0.8.0-smartkey-6</version>
       <version>0.8.0-smartkey-7</version>
+      <version>0.8.1</version>
+      <version>0.8.1-temp-heartbeat-logging</version>
+      <version>0.8.2-npe</version>
+      <version>0.8.2-npe-2</version>
     </versions>
-    <lastUpdated>20210630230103</lastUpdated>
+    <lastUpdated>20210708170950</lastUpdated>
   </versioning>
 </metadata>
