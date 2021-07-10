@@ -3,11 +3,12 @@
   <groupId>com.yugabyte</groupId>
   <artifactId>jdbc-yugabytedb</artifactId>
   <versioning>
-    <latest>42.2.7-yb-3</latest>
-    <release>42.2.7-yb-3</release>
+    <latest>42.2.7-yb-5-beta</latest>
+    <release>42.2.7-yb-5-beta</release>
     <versions>
       <version>42.2.7-yb-3</version>
+      <version>42.2.7-yb-5-beta</version>
     </versions>
-    <lastUpdated>20191028030205</lastUpdated>
+    <lastUpdated>20210709112750</lastUpdated>
   </versioning>
 </metadata>

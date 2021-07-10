@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>buildutils</prefix>
+      <artifactId>buildutils-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>javadoc-postprocessor</prefix>
       <artifactId>javadoc-postprocessor-plugin</artifactId>
     </plugin>
