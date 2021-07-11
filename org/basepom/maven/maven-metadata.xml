@@ -15,5 +15,9 @@
       <prefix>property-helper</prefix>
       <artifactId>property-helper-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>repack</prefix>
+      <artifactId>repack-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
