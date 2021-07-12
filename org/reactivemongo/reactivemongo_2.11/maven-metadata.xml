@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>reactivemongo_2.11</artifactId>
   <versioning>
-    <latest>1.0.4-noshaded</latest>
-    <release>1.0.4-noshaded</release>
+    <latest>1.0.5-noshaded</latest>
+    <release>1.0.5-noshaded</release>
     <versions>
       <version>0.10.5.0.akka23</version>
       <version>0.11.0-M2</version>
@@ -107,8 +107,10 @@
       <version>1.0.3-noshaded</version>
       <version>1.0.4</version>
       <version>1.0.4-noshaded</version>
+      <version>1.0.5</version>
+      <version>1.0.5-noshaded</version>
       <version>0.11.0-M1</version>
     </versions>
-    <lastUpdated>20210515160927</lastUpdated>
+    <lastUpdated>20210711172825</lastUpdated>
   </versioning>
 </metadata>
