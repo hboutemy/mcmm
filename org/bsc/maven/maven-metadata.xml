@@ -22,7 +22,7 @@
       <artifactId>maven-mvnver-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>MAVEN PROCESSOR PLUGIN</name>
+      <name>MAVEN PROCESSOR PLUGIN (JDK8)</name>
       <prefix>processor</prefix>
       <artifactId>maven-processor-plugin</artifactId>
     </plugin>

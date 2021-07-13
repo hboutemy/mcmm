@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-core-iosarm64</artifactId>
   <versioning>
-    <latest>1.5.1</latest>
-    <release>1.5.1</release>
+    <latest>1.5.1-native-mt</latest>
+    <release>1.5.1-native-mt</release>
     <versions>
       <version>1.2.0-alpha</version>
       <version>1.2.0-alpha-2</version>
@@ -47,7 +47,8 @@
       <version>1.5.0</version>
       <version>1.5.0-native-mt</version>
       <version>1.5.1</version>
+      <version>1.5.1-native-mt</version>
     </versions>
-    <lastUpdated>20210709131220</lastUpdated>
+    <lastUpdated>20210712145113</lastUpdated>
   </versioning>
 </metadata>
