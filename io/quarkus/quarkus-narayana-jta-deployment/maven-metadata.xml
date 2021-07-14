@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-narayana-jta-deployment</artifactId>
   <versioning>
-    <latest>2.0.1.Final</latest>
-    <release>2.0.1.Final</release>
+    <latest>2.0.2.Final</latest>
+    <release>2.0.2.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -120,7 +120,8 @@
       <version>2.0.0.CR3</version>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
+      <version>2.0.2.Final</version>
     </versions>
-    <lastUpdated>20210706122708</lastUpdated>
+    <lastUpdated>20210713145339</lastUpdated>
   </versioning>
 </metadata>
