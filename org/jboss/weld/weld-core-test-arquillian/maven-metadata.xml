@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-core-test-arquillian</artifactId>
   <versioning>
-    <latest>4.0.1.SP1</latest>
-    <release>4.0.1.SP1</release>
+    <latest>4.0.2.Final</latest>
+    <release>4.0.2.Final</release>
     <versions>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Beta2</version>
@@ -169,6 +169,7 @@
       <version>3.1.6.Final</version>
       <version>3.1.7.Final</version>
       <version>3.1.7.SP1</version>
+      <version>3.1.8.Final</version>
       <version>4.0.0.Alpha2</version>
       <version>4.0.0.Alpha3</version>
       <version>4.0.0.Beta1</version>
@@ -180,7 +181,8 @@
       <version>4.0.0.Final</version>
       <version>4.0.1.Final</version>
       <version>4.0.1.SP1</version>
+      <version>4.0.2.Final</version>
     </versions>
-    <lastUpdated>20210414113351</lastUpdated>
+    <lastUpdated>20210714142336</lastUpdated>
   </versioning>
 </metadata>

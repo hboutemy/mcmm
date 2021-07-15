@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.module</groupId>
   <artifactId>weld-jta</artifactId>
   <versioning>
-    <latest>4.0.1.SP1</latest>
-    <release>4.0.1.SP1</release>
+    <latest>4.0.2.Final</latest>
+    <release>4.0.2.Final</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Alpha7</version>
@@ -39,6 +39,7 @@
       <version>3.1.6.Final</version>
       <version>3.1.7.Final</version>
       <version>3.1.7.SP1</version>
+      <version>3.1.8.Final</version>
       <version>4.0.0.Alpha1</version>
       <version>4.0.0.Alpha2</version>
       <version>4.0.0.Alpha3</version>
@@ -51,7 +52,8 @@
       <version>4.0.0.Final</version>
       <version>4.0.1.Final</version>
       <version>4.0.1.SP1</version>
+      <version>4.0.2.Final</version>
     </versions>
-    <lastUpdated>20210414113336</lastUpdated>
+    <lastUpdated>20210714142324</lastUpdated>
   </versioning>
 </metadata>

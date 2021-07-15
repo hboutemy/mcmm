@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-registry-cloudwatch</artifactId>
   <versioning>
-    <latest>1.7.1</latest>
-    <release>1.7.1</release>
+    <latest>1.7.2</latest>
+    <release>1.7.2</release>
     <versions>
       <version>1.0.0-rc.5</version>
       <version>1.0.0-rc.6</version>
@@ -83,6 +83,7 @@
       <version>1.5.13</version>
       <version>1.5.14</version>
       <version>1.5.15</version>
+      <version>1.5.16</version>
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
@@ -91,12 +92,14 @@
       <version>1.6.6</version>
       <version>1.6.7</version>
       <version>1.6.8</version>
+      <version>1.6.9</version>
       <version>1.7.0</version>
       <version>1.7.1</version>
+      <version>1.7.2</version>
       <version>1.3.17</version>
       <version>1.5.11</version>
       <version>1.6.4</version>
     </versions>
-    <lastUpdated>20210623135938</lastUpdated>
+    <lastUpdated>20210714194534</lastUpdated>
   </versioning>
 </metadata>
