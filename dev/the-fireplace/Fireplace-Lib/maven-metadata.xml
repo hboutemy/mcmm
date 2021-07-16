@@ -3,8 +3,8 @@
   <groupId>dev.the-fireplace</groupId>
   <artifactId>Fireplace-Lib</artifactId>
   <versioning>
-    <latest>5.0.0+1.17.1</latest>
-    <release>5.0.0+1.17.1</release>
+    <latest>5.0.1+1.17.1</latest>
+    <release>5.0.1+1.17.1</release>
     <versions>
       <version>2.1.2+1.16.5</version>
       <version>3.0.0+1.14.4</version>
@@ -48,7 +48,11 @@
       <version>5.0.0+1.15.2</version>
       <version>5.0.0+1.16.5</version>
       <version>5.0.0+1.17.1</version>
+      <version>5.0.1+1.14.4</version>
+      <version>5.0.1+1.15.2</version>
+      <version>5.0.1+1.16.5</version>
+      <version>5.0.1+1.17.1</version>
     </versions>
-    <lastUpdated>20210713034900</lastUpdated>
+    <lastUpdated>20210715183046</lastUpdated>
   </versioning>
 </metadata>
