@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId>
   <artifactId>org.wso2.carbon.identity.oauth2.dcr.endpoint</artifactId>
   <versioning>
-    <latest>6.7.5</latest>
-    <release>6.7.5</release>
+    <latest>6.7.6</latest>
+    <release>6.7.6</release>
     <versions>
       <version>5.4.32</version>
       <version>5.4.33</version>
@@ -746,7 +746,8 @@
       <version>6.7.3</version>
       <version>6.7.4</version>
       <version>6.7.5</version>
+      <version>6.7.6</version>
     </versions>
-    <lastUpdated>20210715115840</lastUpdated>
+    <lastUpdated>20210719033757</lastUpdated>
   </versioning>
 </metadata>

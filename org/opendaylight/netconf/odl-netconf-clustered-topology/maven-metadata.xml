@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>odl-netconf-clustered-topology</artifactId>
   <versioning>
-    <latest>2.0.0</latest>
-    <release>2.0.0</release>
+    <latest>2.0.1</latest>
+    <release>2.0.1</release>
     <versions>
       <version>1.2.0-Carbon</version>
       <version>1.2.1-Carbon</version>
@@ -49,7 +49,8 @@
       <version>1.13.2</version>
       <version>1.13.3</version>
       <version>2.0.0</version>
+      <version>2.0.1</version>
     </versions>
-    <lastUpdated>20210708115855</lastUpdated>
+    <lastUpdated>20210719133048</lastUpdated>
   </versioning>
 </metadata>

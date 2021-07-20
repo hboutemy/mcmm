@@ -3,8 +3,8 @@
   <groupId>org.bsc.maven</groupId>
   <artifactId>confluence-markdown-processor-commonmark</artifactId>
   <versioning>
-    <latest>7.2</latest>
-    <release>7.2</release>
+    <latest>7.2.1</latest>
+    <release>7.2.1</release>
     <versions>
       <version>6.8</version>
       <version>6.9-beta1</version>
@@ -22,7 +22,8 @@
       <version>7.0</version>
       <version>7.1</version>
       <version>7.2</version>
+      <version>7.2.1</version>
     </versions>
-    <lastUpdated>20210610095448</lastUpdated>
+    <lastUpdated>20210719153255</lastUpdated>
   </versioning>
 </metadata>
