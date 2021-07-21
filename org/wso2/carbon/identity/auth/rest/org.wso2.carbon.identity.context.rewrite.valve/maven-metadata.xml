@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.auth.rest</groupId>
   <artifactId>org.wso2.carbon.identity.context.rewrite.valve</artifactId>
   <versioning>
-    <latest>1.4.41</latest>
-    <release>1.4.41</release>
+    <latest>1.4.42</latest>
+    <release>1.4.42</release>
     <versions>
       <version>0.1.5</version>
       <version>0.1.6</version>
@@ -94,7 +94,8 @@
       <version>1.4.39</version>
       <version>1.4.40</version>
       <version>1.4.41</version>
+      <version>1.4.42</version>
     </versions>
-    <lastUpdated>20210622183118</lastUpdated>
+    <lastUpdated>20210720113350</lastUpdated>
   </versioning>
 </metadata>

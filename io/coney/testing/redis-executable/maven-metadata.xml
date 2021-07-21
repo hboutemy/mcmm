@@ -3,11 +3,13 @@
   <groupId>io.coney.testing</groupId>
   <artifactId>redis-executable</artifactId>
   <versioning>
-    <latest>5.0.10</latest>
-    <release>5.0.10</release>
+    <latest>5.0.10.1</latest>
+    <release>5.0.10.1</release>
     <versions>
       <version>5.0.10</version>
+      <version>5.0.10-libc-2.17</version>
+      <version>5.0.10.1</version>
     </versions>
-    <lastUpdated>20210711061701</lastUpdated>
+    <lastUpdated>20210720163907</lastUpdated>
   </versioning>
 </metadata>

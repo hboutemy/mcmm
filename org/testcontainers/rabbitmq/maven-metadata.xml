@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>rabbitmq</artifactId>
   <versioning>
-    <latest>1.15.3</latest>
-    <release>1.15.3</release>
+    <latest>1.16.0</latest>
+    <release>1.16.0</release>
     <versions>
       <version>1.12.0</version>
       <version>1.12.1</version>
@@ -23,7 +23,8 @@
       <version>1.15.1</version>
       <version>1.15.2</version>
       <version>1.15.3</version>
+      <version>1.16.0</version>
     </versions>
-    <lastUpdated>20210415074319</lastUpdated>
+    <lastUpdated>20210720154700</lastUpdated>
   </versioning>
 </metadata>
