@@ -3,8 +3,8 @@
   <groupId>org.nd4j</groupId>
   <artifactId>nd4j-parameter-server-rocksdb-storage</artifactId>
   <versioning>
-    <latest>1.0.0-M1</latest>
-    <release>1.0.0-M1</release>
+    <latest>1.0.0-M1.1</latest>
+    <release>1.0.0-M1.1</release>
     <versions>
       <version>0.7.2</version>
       <version>0.8.0</version>
@@ -19,7 +19,8 @@
       <version>1.0.0-beta6</version>
       <version>1.0.0-beta7</version>
       <version>1.0.0-M1</version>
+      <version>1.0.0-M1.1</version>
     </versions>
-    <lastUpdated>20210526223549</lastUpdated>
+    <lastUpdated>20210721131351</lastUpdated>
   </versioning>
 </metadata>
