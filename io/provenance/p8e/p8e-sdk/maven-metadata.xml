@@ -3,8 +3,8 @@
   <groupId>io.provenance.p8e</groupId>
   <artifactId>p8e-sdk</artifactId>
   <versioning>
-    <latest>0.8.3</latest>
-    <release>0.8.3</release>
+    <latest>0.9.0-grpc</latest>
+    <release>0.9.0-grpc</release>
     <versions>
       <version>maven-local-try-1</version>
       <version>maven-local-try-2</version>
@@ -19,7 +19,8 @@
       <version>0.8.2-npe</version>
       <version>0.8.2-npe-2</version>
       <version>0.8.3</version>
+      <version>0.9.0-grpc</version>
     </versions>
-    <lastUpdated>20210715183509</lastUpdated>
+    <lastUpdated>20210722150107</lastUpdated>
   </versioning>
 </metadata>

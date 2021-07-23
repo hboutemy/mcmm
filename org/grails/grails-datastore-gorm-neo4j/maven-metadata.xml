@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm-neo4j</artifactId>
   <versioning>
-    <latest>7.1.0.M3</latest>
-    <release>7.1.0.M3</release>
+    <latest>7.1.0.RC1</latest>
+    <release>7.1.0.RC1</release>
     <versions>
       <version>1.0.0.M13</version>
       <version>1.0.0.M14</version>
@@ -77,10 +77,11 @@
       <version>7.1.0.M1</version>
       <version>7.1.0.M2</version>
       <version>7.1.0.M3</version>
+      <version>7.1.0.RC1</version>
       <version>1.1.3</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20200916223335</lastUpdated>
+    <lastUpdated>20210722180119</lastUpdated>
   </versioning>
 </metadata>

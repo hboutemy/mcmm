@@ -5,5 +5,13 @@
       <prefix>ae-artifact-analysis</prefix>
       <artifactId>ae-artifact-analysis-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>ae-inventory-enrichment</prefix>
+      <artifactId>ae-inventory-enrichment-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>ae-mirror</prefix>
+      <artifactId>ae-mirror-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

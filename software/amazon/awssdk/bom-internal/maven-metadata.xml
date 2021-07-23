@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>bom-internal</artifactId>
   <versioning>
-    <latest>2.17.2</latest>
-    <release>2.17.2</release>
+    <latest>2.17.3</latest>
+    <release>2.17.3</release>
     <versions>
       <version>2.4.4</version>
       <version>2.4.5</version>
@@ -574,7 +574,8 @@
       <version>2.17.0</version>
       <version>2.17.1</version>
       <version>2.17.2</version>
+      <version>2.17.3</version>
     </versions>
-    <lastUpdated>20210721191702</lastUpdated>
+    <lastUpdated>20210722201727</lastUpdated>
   </versioning>
 </metadata>

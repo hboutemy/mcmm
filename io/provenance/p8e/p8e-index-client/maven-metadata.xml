@@ -3,8 +3,8 @@
   <groupId>io.provenance.p8e</groupId>
   <artifactId>p8e-index-client</artifactId>
   <versioning>
-    <latest>0.8.3</latest>
-    <release>0.8.3</release>
+    <latest>0.9.0-grpc</latest>
+    <release>0.9.0-grpc</release>
     <versions>
       <version>0.7.3</version>
       <version>0.7.4</version>
@@ -17,7 +17,8 @@
       <version>0.8.2-npe</version>
       <version>0.8.2-npe-2</version>
       <version>0.8.3</version>
+      <version>0.9.0-grpc</version>
     </versions>
-    <lastUpdated>20210715183508</lastUpdated>
+    <lastUpdated>20210722150106</lastUpdated>
   </versioning>
 </metadata>

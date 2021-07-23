@@ -3,12 +3,13 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudfunctions</artifactId>
   <versioning>
-    <latest>v1-rev20210708-1.32.1</latest>
-    <release>v1-rev20210708-1.32.1</release>
+    <latest>v1-rev20210715-1.32.1</latest>
+    <release>v1-rev20210715-1.32.1</release>
     <versions>
       <version>v1-rev20210409-1.31.5</version>
       <version>v1-rev20210409-1.32.1</version>
       <version>v1-rev20210708-1.32.1</version>
+      <version>v1-rev20210715-1.32.1</version>
       <version>v1-rev10-1.18.0-rc</version>
       <version>v1-rev10-1.20.0</version>
       <version>v1-rev10-1.21.0</version>
@@ -637,6 +638,6 @@
       <version>v1beta2-rev95-1.18.0-rc</version>
       <version>v1beta2-rev95-1.25.0</version>
     </versions>
-    <lastUpdated>20210715195949</lastUpdated>
+    <lastUpdated>20210722200035</lastUpdated>
   </versioning>
 </metadata>
