@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-guice</artifactId>
   <versioning>
-    <latest>4.7.0.Final</latest>
-    <release>4.7.0.Final</release>
+    <latest>4.7.1.Final</latest>
+    <release>4.7.1.Final</release>
     <versions>
       <version>1.1.GA</version>
       <version>1.2.RC1</version>
@@ -176,7 +176,8 @@
       <version>4.7.0.Beta6</version>
       <version>4.7.0.Beta7</version>
       <version>4.7.0.Final</version>
+      <version>4.7.1.Final</version>
     </versions>
-    <lastUpdated>20210708224528</lastUpdated>
+    <lastUpdated>20210724001409</lastUpdated>
   </versioning>
 </metadata>
