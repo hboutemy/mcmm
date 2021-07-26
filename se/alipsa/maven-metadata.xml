@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>exec-renjin-maven-plugin Maven Mojo</name>
+      <prefix>exec-renjin</prefix>
+      <artifactId>exec-renjin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>renjin-hamcrest-maven-plugin Maven Mojo</name>
       <prefix>renjin-hamcrest</prefix>
       <artifactId>renjin-hamcrest-maven-plugin</artifactId>
