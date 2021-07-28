@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-trusty-service-quarkus</artifactId>
   <versioning>
-    <latest>1.8.0.Final</latest>
-    <release>1.8.0.Final</release>
+    <latest>1.9.0.Final</latest>
+    <release>1.9.0.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.1.0.Final</version>
@@ -16,7 +16,8 @@
       <version>1.6.0.Final</version>
       <version>1.7.0.Final</version>
       <version>1.8.0.Final</version>
+      <version>1.9.0.Final</version>
     </versions>
-    <lastUpdated>20210628153915</lastUpdated>
+    <lastUpdated>20210727083221</lastUpdated>
   </versioning>
 </metadata>

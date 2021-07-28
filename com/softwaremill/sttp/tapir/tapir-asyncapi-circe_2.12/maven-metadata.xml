@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-asyncapi-circe_2.12</artifactId>
   <versioning>
-    <latest>0.19.0-M2</latest>
-    <release>0.19.0-M2</release>
+    <latest>0.19.0-M3</latest>
+    <release>0.19.0-M3</release>
     <versions>
       <version>0.17.0-M3</version>
       <version>0.17.0-M4</version>
@@ -51,7 +51,8 @@
       <version>0.18.1</version>
       <version>0.19.0-M1</version>
       <version>0.19.0-M2</version>
+      <version>0.19.0-M3</version>
     </versions>
-    <lastUpdated>20210721205138</lastUpdated>
+    <lastUpdated>20210727072304</lastUpdated>
   </versioning>
 </metadata>

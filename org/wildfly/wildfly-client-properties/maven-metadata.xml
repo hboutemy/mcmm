@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-client-properties</artifactId>
   <versioning>
-    <latest>24.0.0.Final</latest>
-    <release>24.0.0.Final</release>
+    <latest>24.0.1.Final</latest>
+    <release>24.0.1.Final</release>
     <versions>
       <version>15.0.0.Final</version>
       <version>15.0.1.Final</version>
@@ -39,7 +39,8 @@
       <version>23.0.2.Final</version>
       <version>24.0.0.Beta1</version>
       <version>24.0.0.Final</version>
+      <version>24.0.1.Final</version>
     </versions>
-    <lastUpdated>20210616232836</lastUpdated>
+    <lastUpdated>20210727150754</lastUpdated>
   </versioning>
 </metadata>
