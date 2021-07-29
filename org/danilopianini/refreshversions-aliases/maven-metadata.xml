@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.danilopianini</groupId>
   <artifactId>refreshversions-aliases</artifactId>
   <versioning>
-    <latest>0.1.5-dev18+de18194</latest>
-    <release>0.1.5-dev18+de18194</release>
+    <latest>0.1.7</latest>
+    <release>0.1.7</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.0-archeo+04ab03c</version>
@@ -24,11 +24,13 @@
       <version>0.1.5-dev1c+b786a93</version>
       <version>0.1.5-dev1d+7b8d4a6</version>
       <version>0.1.5-dev1d+cb7eb5f</version>
-      <version>0.1.5-dev18+4b80f3e</version>
-      <version>0.1.5-dev18+de18194</version>
       <version>0.1.5-dev1o+b70a5f2</version>
       <version>0.1.5-dev1p+3cc88b8</version>
+      <version>0.1.5-dev18+4b80f3e</version>
+      <version>0.1.5-dev18+de18194</version>
+      <version>0.1.6</version>
+      <version>0.1.7</version>
     </versions>
-    <lastUpdated>20201208161208</lastUpdated>
+    <lastUpdated>20210728103443</lastUpdated>
   </versioning>
 </metadata>

@@ -3,13 +3,15 @@
   <groupId>org.fisco-bcos</groupId>
   <artifactId>netty-sm-ssl-context</artifactId>
   <versioning>
-    <latest>1.2.0</latest>
-    <release>1.2.0</release>
+    <latest>1.3.0-hsm</latest>
+    <release>1.3.0-hsm</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.2.0</version>
+      <version>1.3.0</version>
+      <version>1.3.0-hsm</version>
     </versions>
-    <lastUpdated>20201020130643</lastUpdated>
+    <lastUpdated>20210728162653</lastUpdated>
   </versioning>
 </metadata>
