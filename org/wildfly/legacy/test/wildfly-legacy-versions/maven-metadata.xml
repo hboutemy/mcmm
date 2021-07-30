@@ -3,8 +3,8 @@
   <groupId>org.wildfly.legacy.test</groupId>
   <artifactId>wildfly-legacy-versions</artifactId>
   <versioning>
-    <latest>6.0.0.Final</latest>
-    <release>6.0.0.Final</release>
+    <latest>6.0.1.Final</latest>
+    <release>6.0.1.Final</release>
     <versions>
       <version>2.0.3.Final</version>
       <version>3.0.0.Final</version>
@@ -12,7 +12,8 @@
       <version>4.0.1.Final</version>
       <version>5.0.0.Final</version>
       <version>6.0.0.Final</version>
+      <version>6.0.1.Final</version>
     </versions>
-    <lastUpdated>20210318180611</lastUpdated>
+    <lastUpdated>20210729142905</lastUpdated>
   </versioning>
 </metadata>

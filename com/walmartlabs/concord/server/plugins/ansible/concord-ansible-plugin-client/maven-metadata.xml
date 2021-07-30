@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.server.plugins.ansible</groupId>
   <artifactId>concord-ansible-plugin-client</artifactId>
   <versioning>
-    <latest>1.87.0</latest>
-    <release>1.87.0</release>
+    <latest>1.88.0</latest>
+    <release>1.88.0</release>
     <versions>
       <version>1.18.0</version>
       <version>1.18.1</version>
@@ -111,7 +111,8 @@
       <version>1.86.2</version>
       <version>1.86.3</version>
       <version>1.87.0</version>
+      <version>1.88.0</version>
     </versions>
-    <lastUpdated>20210713000801</lastUpdated>
+    <lastUpdated>20210729182010</lastUpdated>
   </versioning>
 </metadata>
