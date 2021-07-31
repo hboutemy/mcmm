@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-datadog-http-exporter_2.12</artifactId>
   <versioning>
-    <latest>0.12.0-RC2</latest>
-    <release>0.12.0-RC2</release>
+    <latest>0.12.0-RC2+4-56d72faa</latest>
+    <release>0.12.0-RC2+4-56d72faa</release>
     <versions>
       <version>0.0.0+1-7a9df181</version>
       <version>0.0.0+1-05156797</version>
@@ -364,6 +364,8 @@
       <version>0.10.1+138-1fb11d87</version>
       <version>0.11.0</version>
       <version>0.11.0+79-d21ea0df</version>
+      <version>0.11.0+80-21dd59d7</version>
+      <version>0.11.1</version>
       <version>0.12.0-RC1</version>
       <version>0.12.0-RC1+2-7529693c</version>
       <version>0.12.0-RC1+4-3678a569</version>
@@ -391,7 +393,8 @@
       <version>0.12.0-RC1+150-44d78e6d</version>
       <version>0.12.0-RC1+152-e3a578e1</version>
       <version>0.12.0-RC2</version>
+      <version>0.12.0-RC2+4-56d72faa</version>
     </versions>
-    <lastUpdated>20210729123238</lastUpdated>
+    <lastUpdated>20210730123505</lastUpdated>
   </versioning>
 </metadata>

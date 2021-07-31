@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>java-driver-mapper-runtime</artifactId>
   <versioning>
-    <latest>4.12.0</latest>
-    <release>4.12.0</release>
+    <latest>4.13.0</latest>
+    <release>4.13.0</release>
     <versions>
       <version>4.1.0</version>
       <version>4.2.0</version>
@@ -26,8 +26,11 @@
       <version>4.11.0</version>
       <version>4.11.1</version>
       <version>4.11.2</version>
+      <version>4.11.3</version>
       <version>4.12.0</version>
+      <version>4.12.1</version>
+      <version>4.13.0</version>
     </versions>
-    <lastUpdated>20210614135706</lastUpdated>
+    <lastUpdated>20210730150900</lastUpdated>
   </versioning>
 </metadata>

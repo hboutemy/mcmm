@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-dependencies-server-all</artifactId>
   <versioning>
-    <latest>14.0.0</latest>
-    <release>14.0.0</release>
+    <latest>15.0.0</latest>
+    <release>15.0.0</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -119,8 +119,9 @@
       <version>13.0.0</version>
       <version>13.0.1</version>
       <version>14.0.0</version>
+      <version>15.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20210618082758</lastUpdated>
+    <lastUpdated>20210730120010</lastUpdated>
   </versioning>
 </metadata>

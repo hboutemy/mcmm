@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>pitest-bitbucket-maven</name>
+      <prefix>pitest-bitbucket</prefix>
+      <artifactId>pitest-bitbucket-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>pitest-git-maven</name>
       <prefix>pitest-git</prefix>
       <artifactId>pitest-git-maven-plugin</artifactId>

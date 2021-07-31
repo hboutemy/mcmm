@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-osgi-pom</artifactId>
   <versioning>
-    <latest>14.0.0</latest>
-    <release>14.0.0</release>
+    <latest>15.0.0</latest>
+    <release>15.0.0</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -109,8 +109,9 @@
       <version>13.0.0</version>
       <version>13.0.1</version>
       <version>14.0.0</version>
+      <version>15.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20210618082827</lastUpdated>
+    <lastUpdated>20210730120032</lastUpdated>
   </versioning>
 </metadata>

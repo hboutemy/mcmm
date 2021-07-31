@@ -3,8 +3,8 @@
   <groupId>de.monochromata.contract</groupId>
   <artifactId>java-contract-p2repo</artifactId>
   <versioning>
-    <latest>4.3.1</latest>
-    <release>4.3.1</release>
+    <latest>6.1.3</latest>
+    <release>6.1.3</release>
     <versions>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -118,7 +118,13 @@
       <version>4.2.1</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
+      <version>5.0.0</version>
+      <version>6.0.0</version>
+      <version>6.1.0</version>
+      <version>6.1.1</version>
+      <version>6.1.2</version>
+      <version>6.1.3</version>
     </versions>
-    <lastUpdated>20210729130104</lastUpdated>
+    <lastUpdated>20210730211151</lastUpdated>
   </versioning>
 </metadata>
