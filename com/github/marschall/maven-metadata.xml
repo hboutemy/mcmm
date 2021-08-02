@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Duplicate Dependencies Maven Plugin</name>
+      <prefix>duplicate-dependencies</prefix>
+      <artifactId>duplicate-dependencies-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven Eclipse Plugin</name>
       <prefix>eclipse</prefix>
       <artifactId>eclipse-maven-plugin</artifactId>
