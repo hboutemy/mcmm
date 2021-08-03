@@ -3,8 +3,8 @@
   <groupId>com.snowplowanalytics</groupId>
   <artifactId>schema-ddl_2.12</artifactId>
   <versioning>
-    <latest>0.14.0-M2</latest>
-    <release>0.14.0-M2</release>
+    <latest>0.14.0</latest>
+    <release>0.14.0</release>
     <versions>
       <version>0.6.0-M1</version>
       <version>0.6.0-M5</version>
@@ -44,7 +44,9 @@
       <version>0.13.1-M1</version>
       <version>0.14.0-M1</version>
       <version>0.14.0-M2</version>
+      <version>0.14.0-M3</version>
+      <version>0.14.0</version>
     </versions>
-    <lastUpdated>20210714155759</lastUpdated>
+    <lastUpdated>20210802141618</lastUpdated>
   </versioning>
 </metadata>

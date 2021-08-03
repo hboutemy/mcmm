@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.auth.rest</groupId>
   <artifactId>org.wso2.carbon.identity.cors.server.feature</artifactId>
   <versioning>
-    <latest>1.4.43</latest>
-    <release>1.4.43</release>
+    <latest>1.4.44</latest>
+    <release>1.4.44</release>
     <versions>
       <version>1.4.7</version>
       <version>1.4.8</version>
@@ -43,7 +43,8 @@
       <version>1.4.41</version>
       <version>1.4.42</version>
       <version>1.4.43</version>
+      <version>1.4.44</version>
     </versions>
-    <lastUpdated>20210727054213</lastUpdated>
+    <lastUpdated>20210802203308</lastUpdated>
   </versioning>
 </metadata>
