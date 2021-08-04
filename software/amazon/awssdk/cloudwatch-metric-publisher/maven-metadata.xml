@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>cloudwatch-metric-publisher</artifactId>
   <versioning>
-    <latest>2.17.10</latest>
-    <release>2.17.10</release>
+    <latest>2.17.11</latest>
+    <release>2.17.11</release>
     <versions>
       <version>2.13.52-PREVIEW</version>
       <version>2.13.53-PREVIEW</version>
@@ -259,7 +259,8 @@
       <version>2.17.8</version>
       <version>2.17.9</version>
       <version>2.17.10</version>
+      <version>2.17.11</version>
     </versions>
-    <lastUpdated>20210802192013</lastUpdated>
+    <lastUpdated>20210803192255</lastUpdated>
   </versioning>
 </metadata>

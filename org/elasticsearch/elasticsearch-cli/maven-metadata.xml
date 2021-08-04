@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-cli</artifactId>
   <versioning>
-    <latest>7.13.4</latest>
-    <release>7.13.4</release>
+    <latest>7.14.0</latest>
+    <release>7.14.0</release>
     <versions>
       <version>6.1.0</version>
       <version>6.1.1</version>
@@ -52,6 +52,7 @@
       <version>6.8.15</version>
       <version>6.8.16</version>
       <version>6.8.17</version>
+      <version>6.8.18</version>
       <version>7.0.0-alpha1</version>
       <version>7.0.0-alpha2</version>
       <version>7.0.0-beta1</version>
@@ -96,7 +97,8 @@
       <version>7.13.2</version>
       <version>7.13.3</version>
       <version>7.13.4</version>
+      <version>7.14.0</version>
     </versions>
-    <lastUpdated>20210720125722</lastUpdated>
+    <lastUpdated>20210803132120</lastUpdated>
   </versioning>
 </metadata>
