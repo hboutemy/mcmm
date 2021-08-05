@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-artemis-core</artifactId>
   <versioning>
-    <latest>2.1.0.Final</latest>
-    <release>2.1.0.Final</release>
+    <latest>2.1.1.Final</latest>
+    <release>2.1.1.Final</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -107,7 +107,8 @@
       <version>2.0.3.Final</version>
       <version>2.1.0.CR1</version>
       <version>2.1.0.Final</version>
+      <version>2.1.1.Final</version>
     </versions>
-    <lastUpdated>20210722131631</lastUpdated>
+    <lastUpdated>20210804102907</lastUpdated>
   </versioning>
 </metadata>

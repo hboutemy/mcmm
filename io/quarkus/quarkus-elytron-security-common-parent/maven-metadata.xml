@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elytron-security-common-parent</artifactId>
   <versioning>
-    <latest>2.1.0.Final</latest>
-    <release>2.1.0.Final</release>
+    <latest>2.1.1.Final</latest>
+    <release>2.1.1.Final</release>
     <versions>
       <version>1.1.0.Final</version>
       <version>1.1.1.Final</version>
@@ -92,7 +92,8 @@
       <version>2.0.3.Final</version>
       <version>2.1.0.CR1</version>
       <version>2.1.0.Final</version>
+      <version>2.1.1.Final</version>
     </versions>
-    <lastUpdated>20210722131650</lastUpdated>
+    <lastUpdated>20210804102930</lastUpdated>
   </versioning>
 </metadata>
