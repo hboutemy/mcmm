@@ -3,8 +3,8 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-persist-s3</artifactId>
   <versioning>
-    <latest>3.32.1.4</latest>
-    <release>3.32.1.4</release>
+    <latest>3.32.1.5</latest>
+    <release>3.32.1.5</release>
     <versions>
       <version>3.8.3.1</version>
       <version>3.8.3.2</version>
@@ -138,7 +138,8 @@
       <version>3.32.1.2</version>
       <version>3.32.1.3</version>
       <version>3.32.1.4</version>
+      <version>3.32.1.5</version>
     </versions>
-    <lastUpdated>20210708193444</lastUpdated>
+    <lastUpdated>20210805114939</lastUpdated>
   </versioning>
 </metadata>

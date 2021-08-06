@@ -3,8 +3,8 @@
   <groupId>org.jboss.windup</groupId>
   <artifactId>windup-web-openshift-templates</artifactId>
   <versioning>
-    <latest>5.2.0.Alpha1</latest>
-    <release>5.2.0.Alpha1</release>
+    <latest>5.2.0.Final</latest>
+    <release>5.2.0.Final</release>
     <versions>
       <version>4.1.0.Alpha5</version>
       <version>4.1.0.Final</version>
@@ -38,7 +38,8 @@
       <version>5.1.4.Alpha1</version>
       <version>5.1.4.Final</version>
       <version>5.2.0.Alpha1</version>
+      <version>5.2.0.Final</version>
     </versions>
-    <lastUpdated>20210721094812</lastUpdated>
+    <lastUpdated>20210805094355</lastUpdated>
   </versioning>
 </metadata>

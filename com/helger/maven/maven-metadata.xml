@@ -52,6 +52,11 @@
       <artifactId>ph-jscompress-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>ph-merge-jab-episodes-maven-plugin</name>
+      <prefix>ph-merge-jaxb-episodes</prefix>
+      <artifactId>ph-merge-jaxb-episodes-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ph-sch2xslt-maven-plugin</name>
       <prefix>ph-sch2xslt</prefix>
       <artifactId>ph-sch2xslt-maven-plugin</artifactId>
