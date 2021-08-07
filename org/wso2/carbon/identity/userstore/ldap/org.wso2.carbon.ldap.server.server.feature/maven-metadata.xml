@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.userstore.ldap</groupId>
   <artifactId>org.wso2.carbon.ldap.server.server.feature</artifactId>
   <versioning>
-    <latest>6.2.10</latest>
-    <release>6.2.10</release>
+    <latest>6.2.11</latest>
+    <release>6.2.11</release>
     <versions>
       <version>5.1.3</version>
       <version>5.1.4</version>
@@ -22,7 +22,8 @@
       <version>6.2.8</version>
       <version>6.2.9</version>
       <version>6.2.10</version>
+      <version>6.2.11</version>
     </versions>
-    <lastUpdated>20210610174241</lastUpdated>
+    <lastUpdated>20210806041359</lastUpdated>
   </versioning>
 </metadata>

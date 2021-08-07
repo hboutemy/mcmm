@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-collector-common_2.13</artifactId>
   <versioning>
-    <latest>0.12.0-RC2</latest>
-    <release>0.12.0-RC2</release>
+    <latest>0.12.0+1-d8356e7f</latest>
+    <release>0.12.0+1-d8356e7f</release>
     <versions>
       <version>0.0.0+1-7a9df181</version>
       <version>0.1.0+43-e6dc014f</version>
@@ -390,7 +390,9 @@
       <version>0.12.0-RC1+125-f68e01bd</version>
       <version>0.12.0-RC1+128-9e36e321</version>
       <version>0.12.0-RC2</version>
+      <version>0.12.0</version>
+      <version>0.12.0+1-d8356e7f</version>
     </versions>
-    <lastUpdated>20210730123502</lastUpdated>
+    <lastUpdated>20210806111649</lastUpdated>
   </versioning>
 </metadata>

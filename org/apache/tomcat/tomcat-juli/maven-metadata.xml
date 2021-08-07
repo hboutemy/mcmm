@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-juli</artifactId>
   <versioning>
-    <latest>10.1.0-M2</latest>
-    <release>10.1.0-M2</release>
+    <latest>10.1.0-M4</latest>
+    <release>10.1.0-M4</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -241,6 +241,7 @@
       <version>9.0.46</version>
       <version>9.0.48</version>
       <version>9.0.50</version>
+      <version>9.0.52</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -260,8 +261,9 @@
       <version>10.0.10</version>
       <version>10.1.0-M1</version>
       <version>10.1.0-M2</version>
+      <version>10.1.0-M4</version>
       <version>7.0.1</version>
     </versions>
-    <lastUpdated>20210805080840</lastUpdated>
+    <lastUpdated>20210806194030</lastUpdated>
   </versioning>
 </metadata>

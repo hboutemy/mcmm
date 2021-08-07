@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-stackdriver-http-exporter_2.12</artifactId>
   <versioning>
-    <latest>0.12.0-RC2+10-bef51d81</latest>
-    <release>0.12.0-RC2+10-bef51d81</release>
+    <latest>0.12.0</latest>
+    <release>0.12.0</release>
     <versions>
       <version>0.0.0+1-7a9df181</version>
       <version>0.0.0+2-30d846cc</version>
@@ -395,7 +395,8 @@
       <version>0.12.0-RC1+152-e3a578e1</version>
       <version>0.12.0-RC2</version>
       <version>0.12.0-RC2+10-bef51d81</version>
+      <version>0.12.0</version>
     </versions>
-    <lastUpdated>20210730123559</lastUpdated>
+    <lastUpdated>20210806091054</lastUpdated>
   </versioning>
 </metadata>
