@@ -3,8 +3,8 @@
   <groupId>com.puppycrawl.tools</groupId>
   <artifactId>checkstyle</artifactId>
   <versioning>
-    <latest>8.45</latest>
-    <release>8.45</release>
+    <latest>8.45.1</latest>
+    <release>8.45.1</release>
     <versions>
       <version>5.2</version>
       <version>5.3</version>
@@ -109,7 +109,8 @@
       <version>8.43</version>
       <version>8.44</version>
       <version>8.45</version>
+      <version>8.45.1</version>
     </versions>
-    <lastUpdated>20210731144944</lastUpdated>
+    <lastUpdated>20210808222439</lastUpdated>
   </versioning>
 </metadata>

@@ -37,6 +37,10 @@
       <artifactId>axis2-wsdl2code-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>axis2-xsd2java</prefix>
+      <artifactId>axis2-xsd2java-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Axis2 - tool - Eclipse Codegen Plugin</name>
       <prefix>axis2.eclipse.codegen.</prefix>
       <artifactId>axis2.eclipse.codegen.plugin</artifactId>
