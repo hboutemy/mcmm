@@ -3,14 +3,16 @@
   <groupId>org.zkoss.zk</groupId>
   <artifactId>zk-parent</artifactId>
   <versioning>
-    <latest>9.5.0.3</latest>
-    <release>9.5.0.3</release>
+    <latest>9.6.0-jakarta</latest>
+    <release>9.6.0-jakarta</release>
     <versions>
       <version>9.5.0</version>
       <version>9.5.0.1</version>
       <version>9.5.0.2</version>
       <version>9.5.0.3</version>
+      <version>9.6.0</version>
+      <version>9.6.0-jakarta</version>
     </versions>
-    <lastUpdated>20210326171430</lastUpdated>
+    <lastUpdated>20210810074625</lastUpdated>
   </versioning>
 </metadata>

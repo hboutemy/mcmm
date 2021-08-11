@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.runtime.connector</groupId>
   <artifactId>wavemaker-app-runtime-connector-impl</artifactId>
   <versioning>
-    <latest>10.7.5</latest>
-    <release>10.7.5</release>
+    <latest>10.8.0.ee</latest>
+    <release>10.8.0.ee</release>
     <versions>
       <version>9.9.9-20201009170109</version>
       <version>9.9.9-20201011200802</version>
@@ -27,7 +27,9 @@
       <version>10.7.3</version>
       <version>10.7.4</version>
       <version>10.7.5</version>
+      <version>10.8.0</version>
+      <version>10.8.0.ee</version>
     </versions>
-    <lastUpdated>20210802102206</lastUpdated>
+    <lastUpdated>20210810155648</lastUpdated>
   </versioning>
 </metadata>
