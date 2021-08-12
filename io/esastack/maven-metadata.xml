@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>cabin</prefix>
+      <artifactId>cabin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>cabin-module</prefix>
+      <artifactId>cabin-module-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

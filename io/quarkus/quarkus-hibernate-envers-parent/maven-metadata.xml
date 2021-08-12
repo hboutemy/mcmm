@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-envers-parent</artifactId>
   <versioning>
-    <latest>2.1.1.Final</latest>
-    <release>2.1.1.Final</release>
+    <latest>2.1.2.Final</latest>
+    <release>2.1.2.Final</release>
     <versions>
       <version>1.7.0.CR1</version>
       <version>1.7.0.CR2</version>
@@ -68,7 +68,8 @@
       <version>2.1.0.CR1</version>
       <version>2.1.0.Final</version>
       <version>2.1.1.Final</version>
+      <version>2.1.2.Final</version>
     </versions>
-    <lastUpdated>20210804102939</lastUpdated>
+    <lastUpdated>20210811103212</lastUpdated>
   </versioning>
 </metadata>

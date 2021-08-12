@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure</groupId>
   <artifactId>azure-cosmosdb-spark_2.4.0_2.11</artifactId>
   <versioning>
-    <latest>3.6.14</latest>
-    <release>3.6.14</release>
+    <latest>3.7.0</latest>
+    <release>3.7.0</release>
     <versions>
       <version>1.3.4</version>
       <version>1.3.5</version>
@@ -51,7 +51,8 @@
       <version>3.6.12</version>
       <version>3.6.13</version>
       <version>3.6.14</version>
+      <version>3.7.0</version>
     </versions>
-    <lastUpdated>20210617185708</lastUpdated>
+    <lastUpdated>20210811140731</lastUpdated>
   </versioning>
 </metadata>
