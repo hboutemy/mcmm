@@ -3,8 +3,8 @@
   <groupId>com.kasisto</groupId>
   <artifactId>packaging-maven-plugin</artifactId>
   <versioning>
-    <latest>4.1.5</latest>
-    <release>4.1.5</release>
+    <latest>4.1.8</latest>
+    <release>4.1.8</release>
     <versions>
       <version>SNAPSHOT-3.1.2.2</version>
       <version>SNAPSHOT-3.1.2.3</version>
@@ -19,10 +19,12 @@
       <version>SNAPSHOT-4.1.7</version>
       <version>SNAPSHOT-4.2.0</version>
       <version>SNAPSHOT-4.2.1</version>
+      <version>SNAPSHOT-4.2.2</version>
       <version>3.1.2.2</version>
       <version>4.0.7</version>
       <version>4.1.5</version>
+      <version>4.1.8</version>
     </versions>
-    <lastUpdated>20210810204032</lastUpdated>
+    <lastUpdated>20210812194417</lastUpdated>
   </versioning>
 </metadata>

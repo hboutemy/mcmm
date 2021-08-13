@@ -3,8 +3,8 @@
   <groupId>org.eclipse.hono</groupId>
   <artifactId>hono-service-device-registry-file</artifactId>
   <versioning>
-    <latest>1.9.0</latest>
-    <release>1.9.0</release>
+    <latest>1.9.1</latest>
+    <release>1.9.1</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -35,8 +35,10 @@
       <version>1.8.0</version>
       <version>1.8.1</version>
       <version>1.8.2</version>
+      <version>1.8.3</version>
       <version>1.9.0</version>
+      <version>1.9.1</version>
     </versions>
-    <lastUpdated>20210714075815</lastUpdated>
+    <lastUpdated>20210812151413</lastUpdated>
   </versioning>
 </metadata>
