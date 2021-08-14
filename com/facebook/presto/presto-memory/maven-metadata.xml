@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-memory</artifactId>
   <versioning>
-    <latest>0.259</latest>
-    <release>0.259</release>
+    <latest>0.259.1</latest>
+    <release>0.259.1</release>
     <versions>
       <version>0.168</version>
       <version>0.169</version>
@@ -126,7 +126,8 @@
       <version>0.257</version>
       <version>0.258</version>
       <version>0.259</version>
+      <version>0.259.1</version>
     </versions>
-    <lastUpdated>20210806201743</lastUpdated>
+    <lastUpdated>20210813180538</lastUpdated>
   </versioning>
 </metadata>

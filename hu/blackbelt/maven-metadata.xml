@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>flutter-maven-plugin</name>
+      <prefix>flutter</prefix>
+      <artifactId>flutter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Unpack artifact maven plugin</name>
       <prefix>unpack-artifact</prefix>
       <artifactId>unpack-artifact-maven-plugin</artifactId>

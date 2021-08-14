@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-postgresql</artifactId>
   <versioning>
-    <latest>0.259</latest>
-    <release>0.259</release>
+    <latest>0.259.1</latest>
+    <release>0.259.1</release>
     <versions>
       <version>0.76</version>
       <version>0.77</version>
@@ -227,7 +227,8 @@
       <version>0.257</version>
       <version>0.258</version>
       <version>0.259</version>
+      <version>0.259.1</version>
     </versions>
-    <lastUpdated>20210806201801</lastUpdated>
+    <lastUpdated>20210813180556</lastUpdated>
   </versioning>
 </metadata>
