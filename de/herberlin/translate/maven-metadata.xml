@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>translate-maven-plugin</name>
+      <prefix>translate</prefix>
+      <artifactId>translate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
