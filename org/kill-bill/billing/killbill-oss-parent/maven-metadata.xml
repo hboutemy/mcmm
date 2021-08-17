@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-oss-parent</artifactId>
   <versioning>
-    <latest>0.144.58</latest>
-    <release>0.144.58</release>
+    <latest>0.144.59</latest>
+    <release>0.144.59</release>
     <versions>
       <version>0.5.26</version>
       <version>0.5.27</version>
@@ -488,11 +488,12 @@
       <version>0.144.56</version>
       <version>0.144.57</version>
       <version>0.144.58</version>
+      <version>0.144.59</version>
       <version>0.13</version>
       <version>0.14</version>
       <version>0.15</version>
       <version>0.16</version>
     </versions>
-    <lastUpdated>20210728084006</lastUpdated>
+    <lastUpdated>20210816175846</lastUpdated>
   </versioning>
 </metadata>
