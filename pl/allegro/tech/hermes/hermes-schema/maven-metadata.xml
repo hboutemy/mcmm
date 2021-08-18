@@ -3,8 +3,8 @@
   <groupId>pl.allegro.tech.hermes</groupId>
   <artifactId>hermes-schema</artifactId>
   <versioning>
-    <latest>1.9.4</latest>
-    <release>1.9.4</release>
+    <latest>1.9.5-management-restTemplate-bean-for-EventAuditor</latest>
+    <release>1.9.5-management-restTemplate-bean-for-EventAuditor</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.1</version>
@@ -116,7 +116,8 @@
       <version>1.9.2</version>
       <version>1.9.3</version>
       <version>1.9.4</version>
+      <version>1.9.5-management-restTemplate-bean-for-EventAuditor</version>
     </versions>
-    <lastUpdated>20210809092314</lastUpdated>
+    <lastUpdated>20210817121905</lastUpdated>
   </versioning>
 </metadata>
