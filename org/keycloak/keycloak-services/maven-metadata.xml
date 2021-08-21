@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-services</artifactId>
   <versioning>
-    <latest>15.0.1</latest>
-    <release>15.0.1</release>
+    <latest>15.0.2</latest>
+    <release>15.0.2</release>
     <versions>
       <version>1.0-alpha-1</version>
       <version>1.0-alpha-1-12062013</version>
@@ -131,8 +131,9 @@
       <version>14.0.0</version>
       <version>15.0.0</version>
       <version>15.0.1</version>
+      <version>15.0.2</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20210806125923</lastUpdated>
+    <lastUpdated>20210820083554</lastUpdated>
   </versioning>
 </metadata>
