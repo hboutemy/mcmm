@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jib Maven Plugin</name>
+      <prefix>jib</prefix>
+      <artifactId>jib</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
