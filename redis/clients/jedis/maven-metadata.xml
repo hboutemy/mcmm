@@ -3,8 +3,8 @@
   <groupId>redis.clients</groupId>
   <artifactId>jedis</artifactId>
   <versioning>
-    <latest>3.6.3</latest>
-    <release>3.6.3</release>
+    <latest>3.7.0-RC1</latest>
+    <release>3.7.0-RC1</release>
     <versions>
       <version>jedis-3.6.2</version>
       <version>1.3.0</version>
@@ -71,7 +71,8 @@
       <version>3.6.1</version>
       <version>3.6.2</version>
       <version>3.6.3</version>
+      <version>3.7.0-RC1</version>
     </versions>
-    <lastUpdated>20210720161025</lastUpdated>
+    <lastUpdated>20210825151321</lastUpdated>
   </versioning>
 </metadata>

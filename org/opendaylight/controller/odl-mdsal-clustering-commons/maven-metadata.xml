@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>odl-mdsal-clustering-commons</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>4.0.2</latest>
+    <release>4.0.2</release>
     <versions>
       <version>1.5.0-Carbon</version>
       <version>1.5.1-Carbon</version>
@@ -60,7 +60,8 @@
       <version>3.0.10</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
+      <version>4.0.2</version>
     </versions>
-    <lastUpdated>20210813105522</lastUpdated>
+    <lastUpdated>20210825100713</lastUpdated>
   </versioning>
 </metadata>

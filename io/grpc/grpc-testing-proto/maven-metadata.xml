@@ -3,8 +3,8 @@
   <groupId>io.grpc</groupId>
   <artifactId>grpc-testing-proto</artifactId>
   <versioning>
-    <latest>1.40.0</latest>
-    <release>1.40.0</release>
+    <latest>1.40.1</latest>
+    <release>1.40.1</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -81,7 +81,8 @@
       <version>1.38.1</version>
       <version>1.39.0</version>
       <version>1.40.0</version>
+      <version>1.40.1</version>
     </versions>
-    <lastUpdated>20210817011644</lastUpdated>
+    <lastUpdated>20210825014820</lastUpdated>
   </versioning>
 </metadata>
