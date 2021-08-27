@@ -3,8 +3,8 @@
   <groupId>org.apache.beam</groupId>
   <artifactId>beam-runners-local-java-core</artifactId>
   <versioning>
-    <latest>2.31.0</latest>
-    <release>2.31.0</release>
+    <latest>2.32.0</latest>
+    <release>2.32.0</release>
     <versions>
       <version>2.3.0</version>
       <version>2.4.0</version>
@@ -35,7 +35,8 @@
       <version>2.29.0</version>
       <version>2.30.0</version>
       <version>2.31.0</version>
+      <version>2.32.0</version>
     </versions>
-    <lastUpdated>20210708170856</lastUpdated>
+    <lastUpdated>20210826054659</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>de.adorsys.psd2</groupId>
   <artifactId>consent-aspsp-web</artifactId>
   <versioning>
-    <latest>11.10</latest>
-    <release>11.10</release>
+    <latest>11.11</latest>
+    <release>11.11</release>
     <versions>
       <version>1.12</version>
       <version>1.13</version>
@@ -162,6 +162,7 @@
       <version>10.8</version>
       <version>10.9</version>
       <version>10.10</version>
+      <version>10.11</version>
       <version>11.0</version>
       <version>11.1</version>
       <version>11.2</version>
@@ -173,7 +174,8 @@
       <version>11.8</version>
       <version>11.9</version>
       <version>11.10</version>
+      <version>11.11</version>
     </versions>
-    <lastUpdated>20210812160257</lastUpdated>
+    <lastUpdated>20210826091103</lastUpdated>
   </versioning>
 </metadata>
