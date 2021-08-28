@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>flake-rule</artifactId>
   <versioning>
-    <latest>0.402.0-rc1</latest>
-    <release>0.402.0-rc1</release>
+    <latest>0.403.0</latest>
+    <release>0.403.0</release>
     <versions>
       <version>0.312.2-rc2</version>
       <version>0.312.2-rc3</version>
@@ -131,7 +131,8 @@
       <version>0.400.0</version>
       <version>0.401.0</version>
       <version>0.402.0-rc1</version>
+      <version>0.403.0</version>
     </versions>
-    <lastUpdated>20210824134515</lastUpdated>
+    <lastUpdated>20210827141541</lastUpdated>
   </versioning>
 </metadata>

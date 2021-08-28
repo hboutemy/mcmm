@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-jackson2-provider</artifactId>
   <versioning>
-    <latest>4.7.1.Final</latest>
-    <release>4.7.1.Final</release>
+    <latest>5.0.0.Alpha1</latest>
+    <release>5.0.0.Alpha1</release>
     <versions>
       <version>3.0-beta-5</version>
       <version>3.0-beta-6</version>
@@ -143,7 +143,8 @@
       <version>4.7.0.Beta7</version>
       <version>4.7.0.Final</version>
       <version>4.7.1.Final</version>
+      <version>5.0.0.Alpha1</version>
     </versions>
-    <lastUpdated>20210724001412</lastUpdated>
+    <lastUpdated>20210827015317</lastUpdated>
   </versioning>
 </metadata>
