@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-gkehub</artifactId>
   <versioning>
-    <latest>v1-rev20210813-1.32.1</latest>
-    <release>v1-rev20210813-1.32.1</release>
+    <latest>v1-rev20210820-1.32.1</latest>
+    <release>v1-rev20210820-1.32.1</release>
     <versions>
       <version>v1alpha2-rev20210305-1.31.0</version>
       <version>v1alpha2-rev20210315-1.31.0</version>
@@ -15,6 +15,7 @@
       <version>v1alpha2-rev20210709-1.32.1</version>
       <version>v1alpha2-rev20210729-1.32.1</version>
       <version>v1alpha2-rev20210813-1.32.1</version>
+      <version>v1alpha2-rev20210820-1.32.1</version>
       <version>v1alpha-rev20210305-1.31.0</version>
       <version>v1alpha-rev20210315-1.31.0</version>
       <version>v1alpha-rev20210322-1.31.0</version>
@@ -38,6 +39,7 @@
       <version>v1beta1-rev20210709-1.32.1</version>
       <version>v1beta1-rev20210729-1.32.1</version>
       <version>v1beta1-rev20210813-1.32.1</version>
+      <version>v1beta1-rev20210820-1.32.1</version>
       <version>v1beta-rev20210315-1.31.0</version>
       <version>v1beta-rev20210322-1.31.0</version>
       <version>v1beta-rev20210409-1.31.0</version>
@@ -64,7 +66,8 @@
       <version>v1-rev20210709-1.32.1</version>
       <version>v1-rev20210729-1.32.1</version>
       <version>v1-rev20210813-1.32.1</version>
+      <version>v1-rev20210820-1.32.1</version>
     </versions>
-    <lastUpdated>20210821201116</lastUpdated>
+    <lastUpdated>20210828200705</lastUpdated>
   </versioning>
 </metadata>
