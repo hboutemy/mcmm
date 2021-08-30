@@ -3,8 +3,8 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-serverless-lambda</artifactId>
   <versioning>
-    <latest>4.12.0.0</latest>
-    <release>4.12.0.0</release>
+    <latest>4.12.0.1</latest>
+    <release>4.12.0.1</release>
     <versions>
       <version>2.38.1</version>
       <version>3.0.0</version>
@@ -321,7 +321,8 @@
       <version>4.11.0.0</version>
       <version>4.11.0.1</version>
       <version>4.12.0.0</version>
+      <version>4.12.0.1</version>
     </versions>
-    <lastUpdated>20210826192214</lastUpdated>
+    <lastUpdated>20210829171158</lastUpdated>
   </versioning>
 </metadata>
