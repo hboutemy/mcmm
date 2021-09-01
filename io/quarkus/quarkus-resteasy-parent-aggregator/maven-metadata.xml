@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-parent-aggregator</artifactId>
   <versioning>
-    <latest>2.2.0.Final</latest>
-    <release>2.2.0.Final</release>
+    <latest>2.2.1.Final</latest>
+    <release>2.2.1.Final</release>
     <versions>
       <version>2.0.0.Alpha1</version>
       <version>2.0.0.Alpha2</version>
@@ -24,7 +24,8 @@
       <version>2.1.4.Final</version>
       <version>2.2.0.CR1</version>
       <version>2.2.0.Final</version>
+      <version>2.2.1.Final</version>
     </versions>
-    <lastUpdated>20210826105202</lastUpdated>
+    <lastUpdated>20210831093644</lastUpdated>
   </versioning>
 </metadata>

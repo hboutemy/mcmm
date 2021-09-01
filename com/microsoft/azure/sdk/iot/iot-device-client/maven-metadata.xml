@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure.sdk.iot</groupId>
   <artifactId>iot-device-client</artifactId>
   <versioning>
-    <latest>1.32.1</latest>
-    <release>1.32.1</release>
+    <latest>2.0.0-preview-001</latest>
+    <release>2.0.0-preview-001</release>
     <versions>
       <version>1.0.17</version>
       <version>1.0.18</version>
@@ -83,7 +83,8 @@
       <version>1.31.0</version>
       <version>1.32.0</version>
       <version>1.32.1</version>
+      <version>2.0.0-preview-001</version>
     </versions>
-    <lastUpdated>20210809213853</lastUpdated>
+    <lastUpdated>20210831015133</lastUpdated>
   </versioning>
 </metadata>

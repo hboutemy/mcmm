@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-apache-dubbo-2.7</artifactId>
   <versioning>
-    <latest>1.5.2-alpha</latest>
-    <release>1.5.2-alpha</release>
+    <latest>1.5.3-alpha</latest>
+    <release>1.5.3-alpha</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1</version>
@@ -20,7 +20,8 @@
       <version>1.5.0-alpha</version>
       <version>1.5.1-alpha</version>
       <version>1.5.2-alpha</version>
+      <version>1.5.3-alpha</version>
     </versions>
-    <lastUpdated>20210827093239</lastUpdated>
+    <lastUpdated>20210831213715</lastUpdated>
   </versioning>
 </metadata>

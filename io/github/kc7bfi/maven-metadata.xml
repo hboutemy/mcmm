@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>hjson Maven Plugin</name>
+      <prefix>hjson</prefix>
+      <artifactId>hjson-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JMS MapMessage Maven Plugin</name>
+      <prefix>jmsmapmsg</prefix>
+      <artifactId>jmsmapmsg-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
