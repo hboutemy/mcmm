@@ -3,8 +3,8 @@
   <groupId>ru.mail</groupId>
   <artifactId>libnotify</artifactId>
   <versioning>
-    <latest>0.2.2-huawei-debug</latest>
-    <release>0.2.2-huawei-debug</release>
+    <latest>0.2.3-huawei</latest>
+    <release>0.2.3-huawei</release>
     <versions>
       <version>0.1.163-firebase-support-notify-support-v81</version>
       <version>0.1.163-firebase-support-notify-support-v92</version>
@@ -262,7 +262,9 @@
       <version>0.2.2-firebase-debug</version>
       <version>0.2.2-huawei</version>
       <version>0.2.2-huawei-debug</version>
+      <version>0.2.3-firebase</version>
+      <version>0.2.3-huawei</version>
     </versions>
-    <lastUpdated>20210621135021</lastUpdated>
+    <lastUpdated>20210902124624</lastUpdated>
   </versioning>
 </metadata>
