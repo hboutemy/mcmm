@@ -6,5 +6,10 @@
       <prefix>apikana</prefix>
       <artifactId>apikana-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jsons2xsd Maven Mojo</name>
+      <prefix>jsons2xsd</prefix>
+      <artifactId>jsons2xsd-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

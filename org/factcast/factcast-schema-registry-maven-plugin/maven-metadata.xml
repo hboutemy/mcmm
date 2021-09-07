@@ -3,8 +3,8 @@
   <groupId>org.factcast</groupId>
   <artifactId>factcast-schema-registry-maven-plugin</artifactId>
   <versioning>
-    <latest>0.4.0-RC4</latest>
-    <release>0.4.0-RC4</release>
+    <latest>0.4.0</latest>
+    <release>0.4.0</release>
     <versions>
       <version>0.2.0-M10</version>
       <version>0.2.0-RC</version>
@@ -29,7 +29,9 @@
       <version>0.3.13</version>
       <version>0.4.0-RC1</version>
       <version>0.4.0-RC4</version>
+      <version>0.4.0-RC5</version>
+      <version>0.4.0</version>
     </versions>
-    <lastUpdated>20210903123216</lastUpdated>
+    <lastUpdated>20210906160343</lastUpdated>
   </versioning>
 </metadata>
