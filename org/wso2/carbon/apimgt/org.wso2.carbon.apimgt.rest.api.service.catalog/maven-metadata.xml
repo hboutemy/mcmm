@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.rest.api.service.catalog</artifactId>
   <versioning>
-    <latest>9.0.322</latest>
-    <release>9.0.322</release>
+    <latest>9.0.324</latest>
+    <release>9.0.324</release>
     <versions>
       <version>6.8.159</version>
       <version>6.8.160</version>
@@ -459,7 +459,9 @@
       <version>9.0.320</version>
       <version>9.0.321</version>
       <version>9.0.322</version>
+      <version>9.0.323</version>
+      <version>9.0.324</version>
     </versions>
-    <lastUpdated>20210906161456</lastUpdated>
+    <lastUpdated>20210907095307</lastUpdated>
   </versioning>
 </metadata>
