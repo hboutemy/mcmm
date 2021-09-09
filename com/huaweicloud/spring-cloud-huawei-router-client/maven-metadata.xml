@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-huawei-router-client</artifactId>
   <versioning>
-    <latest>1.6.1-2020.0.x</latest>
-    <release>1.6.1-2020.0.x</release>
+    <latest>1.7.0-2020.0.x</latest>
+    <release>1.7.0-2020.0.x</release>
     <versions>
       <version>1.0.0</version>
       <version>1.2.0</version>
@@ -46,9 +46,12 @@
       <version>1.6.0-Finchley</version>
       <version>1.6.0-Greenwich</version>
       <version>1.6.0-Hoxton</version>
+      <version>1.6.1-Finchley</version>
+      <version>1.6.1-Greenwich</version>
       <version>1.6.1-Hoxton</version>
       <version>1.6.1-2020.0.x</version>
+      <version>1.7.0-2020.0.x</version>
     </versions>
-    <lastUpdated>20210819132347</lastUpdated>
+    <lastUpdated>20210908092111</lastUpdated>
   </versioning>
 </metadata>

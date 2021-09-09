@@ -3,8 +3,8 @@
   <groupId>org.ocpsoft.rewrite</groupId>
   <artifactId>rewrite-security-integration-shiro</artifactId>
   <versioning>
-    <latest>3.5.0.Final</latest>
-    <release>3.5.0.Final</release>
+    <latest>3.5.1.Final</latest>
+    <release>3.5.1.Final</release>
     <versions>
       <version>2.0.0.Alpha2</version>
       <version>2.0.0.Alpha3</version>
@@ -41,8 +41,9 @@
       <version>3.4.3.Final</version>
       <version>3.4.4.Final</version>
       <version>3.5.0.Final</version>
+      <version>3.5.1.Final</version>
       <version>3.0.0.Alpha8-jboss</version>
     </versions>
-    <lastUpdated>20210227152727</lastUpdated>
+    <lastUpdated>20210908194316</lastUpdated>
   </versioning>
 </metadata>
