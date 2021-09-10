@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.assemblies</groupId>
   <artifactId>nexus-startup-feature</artifactId>
   <versioning>
-    <latest>3.33.1-01</latest>
-    <release>3.33.1-01</release>
+    <latest>3.34.0-01</latest>
+    <release>3.34.0-01</release>
     <versions>
       <version>3.2.1-01</version>
       <version>3.3.0-01</version>
@@ -84,7 +84,8 @@
       <version>3.32.0-03</version>
       <version>3.33.0-01</version>
       <version>3.33.1-01</version>
+      <version>3.34.0-01</version>
     </versions>
-    <lastUpdated>20210817153303</lastUpdated>
+    <lastUpdated>20210909120118</lastUpdated>
   </versioning>
 </metadata>
