@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>swagger-to-retrofit</name>
+      <prefix>swagger-to-retrofit</prefix>
+      <artifactId>swagger-to-retrofit</artifactId>
+    </plugin>
+    <plugin>
+      <name>json-schema-generator</name>
+      <prefix>json-schema-generator</prefix>
+      <artifactId>json-schema-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

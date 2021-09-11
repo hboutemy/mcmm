@@ -3,8 +3,8 @@
   <groupId>com.palantir.dialogue</groupId>
   <artifactId>dialogue-apache-hc5-client</artifactId>
   <versioning>
-    <latest>3.13.0</latest>
-    <release>3.13.0</release>
+    <latest>3.16.0</latest>
+    <release>3.16.0</release>
     <versions>
       <version>1.60.1</version>
       <version>1.60.2</version>
@@ -130,7 +130,10 @@
       <version>3.11.0</version>
       <version>3.12.0</version>
       <version>3.13.0</version>
+      <version>3.14.0</version>
+      <version>3.15.0</version>
+      <version>3.16.0</version>
     </versions>
-    <lastUpdated>20210909142934</lastUpdated>
+    <lastUpdated>20210910151907</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-bigquery</artifactId>
   <versioning>
-    <latest>v2-rev20210828-1.32.1</latest>
-    <release>v2-rev20210828-1.32.1</release>
+    <latest>v2-rev20210904-1.32.1</latest>
+    <release>v2-rev20210904-1.32.1</release>
     <versions>
       <version>v2-rev75-1.13.2-beta</version>
       <version>v2-rev75-1.14.1-beta</version>
@@ -1123,7 +1123,8 @@
       <version>v2-rev20210813-1.32.1</version>
       <version>v2-rev20210819-1.32.1</version>
       <version>v2-rev20210828-1.32.1</version>
+      <version>v2-rev20210904-1.32.1</version>
     </versions>
-    <lastUpdated>20210902200107</lastUpdated>
+    <lastUpdated>20210910200056</lastUpdated>
   </versioning>
 </metadata>
