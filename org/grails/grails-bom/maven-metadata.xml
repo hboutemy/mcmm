@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-bom</artifactId>
   <versioning>
-    <latest>5.0.0.RC2</latest>
-    <release>5.0.0.RC2</release>
+    <latest>5.0.0-RC3</latest>
+    <release>5.0.0-RC3</release>
     <versions>
       <version>3.0.0.M1</version>
       <version>3.0.0.M2</version>
@@ -78,7 +78,8 @@
       <version>5.0.0.M2</version>
       <version>5.0.0.RC1</version>
       <version>5.0.0.RC2</version>
+      <version>5.0.0-RC3</version>
     </versions>
-    <lastUpdated>20210902145019</lastUpdated>
+    <lastUpdated>20210911183909</lastUpdated>
   </versioning>
 </metadata>
