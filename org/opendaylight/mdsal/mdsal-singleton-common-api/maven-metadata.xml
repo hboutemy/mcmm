@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-singleton-common-api</artifactId>
   <versioning>
-    <latest>8.0.4</latest>
-    <release>8.0.4</release>
+    <latest>8.0.5</latest>
+    <release>8.0.5</release>
     <versions>
       <version>2.1.0-Boron</version>
       <version>2.1.1-Boron-SR1</version>
@@ -109,7 +109,8 @@
       <version>8.0.2</version>
       <version>8.0.3</version>
       <version>8.0.4</version>
+      <version>8.0.5</version>
     </versions>
-    <lastUpdated>20210824164604</lastUpdated>
+    <lastUpdated>20210912130133</lastUpdated>
   </versioning>
 </metadata>
