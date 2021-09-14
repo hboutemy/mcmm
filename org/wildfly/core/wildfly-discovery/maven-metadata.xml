@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-discovery</artifactId>
   <versioning>
-    <latest>17.0.0.Beta6</latest>
-    <release>17.0.0.Beta6</release>
+    <latest>17.0.0.Beta7</latest>
+    <release>17.0.0.Beta7</release>
     <versions>
       <version>3.0.0.Alpha12</version>
       <version>3.0.0.Alpha13</version>
@@ -196,7 +196,8 @@
       <version>17.0.0.Beta4</version>
       <version>17.0.0.Beta5</version>
       <version>17.0.0.Beta6</version>
+      <version>17.0.0.Beta7</version>
     </versions>
-    <lastUpdated>20210903075923</lastUpdated>
+    <lastUpdated>20210913110308</lastUpdated>
   </versioning>
 </metadata>

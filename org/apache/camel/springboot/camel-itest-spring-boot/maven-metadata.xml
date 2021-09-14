@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-itest-spring-boot</artifactId>
   <versioning>
-    <latest>3.11.1</latest>
-    <release>3.11.1</release>
+    <latest>3.11.2</latest>
+    <release>3.11.2</release>
     <versions>
       <version>3.1.0</version>
       <version>3.2.0</version>
@@ -29,7 +29,8 @@
       <version>3.10.0</version>
       <version>3.11.0</version>
       <version>3.11.1</version>
+      <version>3.11.2</version>
     </versions>
-    <lastUpdated>20210805091753</lastUpdated>
+    <lastUpdated>20210913104108</lastUpdated>
   </versioning>
 </metadata>
