@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.jta</groupId>
   <artifactId>cdi</artifactId>
   <versioning>
-    <latest>5.12.0.Final</latest>
-    <release>5.12.0.Final</release>
+    <latest>5.12.1.Final</latest>
+    <release>5.12.1.Final</release>
     <versions>
       <version>5.9.2.Final</version>
       <version>5.9.3.Final</version>
@@ -27,7 +27,8 @@
       <version>5.11.2.Final</version>
       <version>5.11.3.Final</version>
       <version>5.12.0.Final</version>
+      <version>5.12.1.Final</version>
     </versions>
-    <lastUpdated>20210623074814</lastUpdated>
+    <lastUpdated>20210914102216</lastUpdated>
   </versioning>
 </metadata>

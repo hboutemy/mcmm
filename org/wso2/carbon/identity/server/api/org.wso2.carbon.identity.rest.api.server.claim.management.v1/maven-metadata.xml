@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.rest.api.server.claim.management.v1</artifactId>
   <versioning>
-    <latest>1.0.251</latest>
-    <release>1.0.251</release>
+    <latest>1.0.253</latest>
+    <release>1.0.253</release>
     <versions>
       <version>1.0.26</version>
       <version>1.0.27</version>
@@ -208,7 +208,9 @@
       <version>1.0.249</version>
       <version>1.0.250</version>
       <version>1.0.251</version>
+      <version>1.0.252</version>
+      <version>1.0.253</version>
     </versions>
-    <lastUpdated>20210906190559</lastUpdated>
+    <lastUpdated>20210914152311</lastUpdated>
   </versioning>
 </metadata>
