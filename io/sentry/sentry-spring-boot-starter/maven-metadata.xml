@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-spring-boot-starter</artifactId>
   <versioning>
-    <latest>5.2.0-beta.2</latest>
-    <release>5.2.0-beta.2</release>
+    <latest>5.2.0-beta.3</latest>
+    <release>5.2.0-beta.3</release>
     <versions>
       <version>1.7.16</version>
       <version>1.7.17</version>
@@ -62,7 +62,8 @@
       <version>5.1.2</version>
       <version>5.2.0-beta.1</version>
       <version>5.2.0-beta.2</version>
+      <version>5.2.0-beta.3</version>
     </versions>
-    <lastUpdated>20210914132609</lastUpdated>
+    <lastUpdated>20210915152159</lastUpdated>
   </versioning>
 </metadata>

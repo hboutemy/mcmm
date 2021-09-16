@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-api-facade-kafka</artifactId>
   <versioning>
-    <latest>5.12.16</latest>
-    <release>5.12.16</release>
+    <latest>5.12.17</latest>
+    <release>5.12.17</release>
     <versions>
       <version>5.3.0</version>
       <version>5.4.0</version>
@@ -51,7 +51,8 @@
       <version>5.12.14</version>
       <version>5.12.15</version>
       <version>5.12.16</version>
+      <version>5.12.17</version>
     </versions>
-    <lastUpdated>20210829065653</lastUpdated>
+    <lastUpdated>20210915174840</lastUpdated>
   </versioning>
 </metadata>
