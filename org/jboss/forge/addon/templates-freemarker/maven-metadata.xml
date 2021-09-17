@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.forge.addon</groupId>
   <artifactId>templates-freemarker</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha3</latest>
-    <release>3.0.0.Alpha3</release>
+    <latest>3.9.8.Final</latest>
+    <release>3.9.8.Final</release>
     <versions>
       <version>2.3.0.Final</version>
       <version>2.4.1.Final</version>
@@ -87,6 +87,6 @@
       <version>3.9.7.Final</version>
       <version>3.9.8.Final</version>
     </versions>
-    <lastUpdated>20160126161657</lastUpdated>
+    <lastUpdated>20210916190604</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.forge.furnace.test</groupId>
   <artifactId>arquillian-furnace-core</artifactId>
   <versioning>
-    <latest>2.22.10.Final</latest>
-    <release>2.22.10.Final</release>
+    <latest>2.29.0.Final</latest>
+    <release>2.29.0.Final</release>
     <versions>
       <version>2.15.0.Final</version>
       <version>2.15.1.Final</version>
@@ -65,6 +65,6 @@
       <version>2.28.6.Final</version>
       <version>2.29.0.Final</version>
     </versions>
-    <lastUpdated>20151223141826</lastUpdated>
+    <lastUpdated>20210916192723</lastUpdated>
   </versioning>
 </metadata>

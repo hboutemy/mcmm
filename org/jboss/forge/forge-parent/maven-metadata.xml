@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.jboss.forge</groupId>
   <artifactId>forge-parent</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha3</latest>
-    <release>3.0.0.Alpha3</release>
+    <latest>3.9.8.Final</latest>
+    <release>3.9.8.Final</release>
     <versions>
       <version>1.0.0.Alpha4</version>
       <version>1.0.0.Beta1</version>
@@ -143,6 +143,6 @@
       <version>3.9.7.Final</version>
       <version>3.9.8.Final</version>
     </versions>
-    <lastUpdated>20160126161712</lastUpdated>
+    <lastUpdated>20210916192252</lastUpdated>
   </versioning>
 </metadata>

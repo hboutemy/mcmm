@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-dist</artifactId>
   <versioning>
-    <latest>1.7.0.Beta1</latest>
-    <release>1.7.0.Beta1</release>
+    <latest>1.7.0.CR1</latest>
+    <release>1.7.0.CR1</release>
     <versions>
       <version>1.2.0.CR2</version>
       <version>1.2.0.Final</version>
@@ -43,8 +43,9 @@
       <version>1.6.2.Final</version>
       <version>1.7.0.Alpha1</version>
       <version>1.7.0.Beta1</version>
+      <version>1.7.0.CR1</version>
       <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20210902104219</lastUpdated>
+    <lastUpdated>20210916091339</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.mariadb.jdbc</groupId>
   <artifactId>mariadb-java-client</artifactId>
   <versioning>
-    <latest>3.0.1-beta</latest>
-    <release>3.0.1-beta</release>
+    <latest>3.0.2-rc</latest>
+    <release>3.0.2-rc</release>
     <versions>
       <version>1.1.7</version>
       <version>1.1.8</version>
@@ -90,8 +90,9 @@
       <version>2.7.4</version>
       <version>3.0.0-alpha</version>
       <version>3.0.1-beta</version>
+      <version>3.0.2-rc</version>
       <version>1.1.9</version>
     </versions>
-    <lastUpdated>20210811174148</lastUpdated>
+    <lastUpdated>20210916202343</lastUpdated>
   </versioning>
 </metadata>

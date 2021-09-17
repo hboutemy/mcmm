@@ -3,8 +3,8 @@
   <groupId>org.apache.rocketmq</groupId>
   <artifactId>rocketmq-remoting</artifactId>
   <versioning>
-    <latest>4.9.1</latest>
-    <release>4.9.1</release>
+    <latest>5.0.0-PREVIEW</latest>
+    <release>5.0.0-PREVIEW</release>
     <versions>
       <version>4.0.0-incubating</version>
       <version>4.1.0-incubating</version>
@@ -23,7 +23,8 @@
       <version>4.8.0</version>
       <version>4.9.0</version>
       <version>4.9.1</version>
+      <version>5.0.0-PREVIEW</version>
     </versions>
-    <lastUpdated>20210822122622</lastUpdated>
+    <lastUpdated>20210916061712</lastUpdated>
   </versioning>
 </metadata>
