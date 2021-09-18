@@ -3,8 +3,8 @@
   <groupId>com.guicedee.services</groupId>
   <artifactId>jakarta.mail</artifactId>
   <versioning>
-    <latest>1.2.0.2-jre16</latest>
-    <release>1.2.0.2-jre16</release>
+    <latest>1.2.0.3-jre17-rc1</latest>
+    <release>1.2.0.3-jre17-rc1</release>
     <versions>
       <version>1.0.1.0</version>
       <version>1.0.1.0-jre8</version>
@@ -430,7 +430,8 @@
       <version>1.2.0.1-jre15</version>
       <version>1.2.0.1-jre16</version>
       <version>1.2.0.2-jre16</version>
+      <version>1.2.0.3-jre17-rc1</version>
     </versions>
-    <lastUpdated>20210908102131</lastUpdated>
+    <lastUpdated>20210917014442</lastUpdated>
   </versioning>
 </metadata>
