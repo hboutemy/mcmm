@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-storage</artifactId>
   <versioning>
-    <latest>v1-rev20210127-1.32.1</latest>
-    <release>v1-rev20210127-1.32.1</release>
+    <latest>v1-rev20210914-1.32.1</latest>
+    <release>v1-rev20210914-1.32.1</release>
     <versions>
       <version>v1beta1-rev21-1.13.2-beta</version>
       <version>v1beta1-rev21-1.14.1-beta</version>
@@ -2054,8 +2054,9 @@
       <version>v1-rev20210127-1.31.0</version>
       <version>v1-rev20210127-1.31.5</version>
       <version>v1-rev20210127-1.32.1</version>
+      <version>v1-rev20210914-1.32.1</version>
       <version>v1beta2-rev18-1.15.0-rc</version>
     </versions>
-    <lastUpdated>20210702224156</lastUpdated>
+    <lastUpdated>20210919200428</lastUpdated>
   </versioning>
 </metadata>
