@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>lang-mustache-client</artifactId>
   <versioning>
-    <latest>7.14.1</latest>
-    <release>7.14.1</release>
+    <latest>7.14.2</latest>
+    <release>7.14.2</release>
     <versions>
       <version>5.0.0-alpha5</version>
       <version>5.0.0-beta1</version>
@@ -101,6 +101,7 @@
       <version>6.8.16</version>
       <version>6.8.17</version>
       <version>6.8.18</version>
+      <version>6.8.19</version>
       <version>7.0.0-alpha1</version>
       <version>7.0.0-alpha2</version>
       <version>7.0.0-beta1</version>
@@ -147,7 +148,8 @@
       <version>7.13.4</version>
       <version>7.14.0</version>
       <version>7.14.1</version>
+      <version>7.14.2</version>
     </versions>
-    <lastUpdated>20210901150430</lastUpdated>
+    <lastUpdated>20210921132903</lastUpdated>
   </versioning>
 </metadata>
