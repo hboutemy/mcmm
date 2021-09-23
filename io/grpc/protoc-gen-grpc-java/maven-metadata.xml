@@ -3,8 +3,8 @@
   <groupId>io.grpc</groupId>
   <artifactId>protoc-gen-grpc-java</artifactId>
   <versioning>
-    <latest>1.40.1</latest>
-    <release>1.40.1</release>
+    <latest>1.41.0</latest>
+    <release>1.41.0</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -94,6 +94,7 @@
       <version>1.39.0</version>
       <version>1.40.0</version>
       <version>1.40.1</version>
+      <version>1.41.0</version>
       <version>0.12.0</version>
       <version>0.7.0</version>
       <version>0.7.1</version>
@@ -102,6 +103,6 @@
       <version>0.9.0</version>
       <version>0.9.1</version>
     </versions>
-    <lastUpdated>20210825014822</lastUpdated>
+    <lastUpdated>20210922200813</lastUpdated>
   </versioning>
 </metadata>

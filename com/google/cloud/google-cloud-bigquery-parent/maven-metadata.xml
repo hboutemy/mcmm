@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigquery-parent</artifactId>
   <versioning>
-    <latest>2.1.9</latest>
-    <release>2.1.9</release>
+    <latest>2.1.11</latest>
+    <release>2.1.11</release>
     <versions>
       <version>1.103.0</version>
       <version>1.104.0</version>
@@ -111,8 +111,10 @@
       <version>2.1.7</version>
       <version>2.1.8</version>
       <version>2.1.9</version>
+      <version>2.1.10</version>
+      <version>2.1.11</version>
       <version>1.127.4</version>
     </versions>
-    <lastUpdated>20210921203430</lastUpdated>
+    <lastUpdated>20210922194603</lastUpdated>
   </versioning>
 </metadata>
