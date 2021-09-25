@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudidentity</artifactId>
   <versioning>
-    <latest>v1-rev20210906-1.32.1</latest>
-    <release>v1-rev20210906-1.32.1</release>
+    <latest>v1-rev20210920-1.32.1</latest>
+    <release>v1-rev20210920-1.32.1</release>
     <versions>
       <version>v1beta1-rev2-1.24.1</version>
       <version>v1beta1-rev14-1.18.0-rc</version>
@@ -256,6 +256,7 @@
       <version>v1beta1-rev20210824-1.32.1</version>
       <version>v1beta1-rev20210831-1.32.1</version>
       <version>v1beta1-rev20210906-1.32.1</version>
+      <version>v1beta1-rev20210920-1.32.1</version>
       <version>v1-rev12-1.18.0-rc</version>
       <version>v1-rev12-1.22.0</version>
       <version>v1-rev12-1.23.0</version>
@@ -486,7 +487,8 @@
       <version>v1-rev20210706-1.32.1</version>
       <version>v1-rev20210824-1.32.1</version>
       <version>v1-rev20210906-1.32.1</version>
+      <version>v1-rev20210920-1.32.1</version>
     </versions>
-    <lastUpdated>20210908200222</lastUpdated>
+    <lastUpdated>20210924200336</lastUpdated>
   </versioning>
 </metadata>

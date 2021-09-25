@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-undertow-spring</artifactId>
   <versioning>
-    <latest>4.7.1.Final</latest>
-    <release>4.7.1.Final</release>
+    <latest>4.7.2.Final</latest>
+    <release>4.7.2.Final</release>
     <versions>
       <version>4.0.0.CR1</version>
       <version>4.0.0.CR2</version>
@@ -54,7 +54,8 @@
       <version>4.7.0.Beta7</version>
       <version>4.7.0.Final</version>
       <version>4.7.1.Final</version>
+      <version>4.7.2.Final</version>
     </versions>
-    <lastUpdated>20210724001421</lastUpdated>
+    <lastUpdated>20210924000632</lastUpdated>
   </versioning>
 </metadata>

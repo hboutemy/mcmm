@@ -3,8 +3,8 @@
   <groupId>io.smallrye.config</groupId>
   <artifactId>smallrye-config-source-zookeeper</artifactId>
   <versioning>
-    <latest>2.5.0</latest>
-    <release>2.5.0</release>
+    <latest>2.5.1</latest>
+    <release>2.5.1</release>
     <versions>
       <version>1.3.9</version>
       <version>1.3.10</version>
@@ -53,7 +53,8 @@
       <version>2.4.3</version>
       <version>2.4.4</version>
       <version>2.5.0</version>
+      <version>2.5.1</version>
     </versions>
-    <lastUpdated>20210914210915</lastUpdated>
+    <lastUpdated>20210924155210</lastUpdated>
   </versioning>
 </metadata>
