@@ -37,6 +37,11 @@
       <artifactId>hibernate54-ddl-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven DDL generator plugin for Hibernate 5.5</name>
+      <prefix>hibernate55-ddl</prefix>
+      <artifactId>hibernate55-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven plugin for OWLAPI Simplex</name>
       <prefix>owlapi-simplex</prefix>
       <artifactId>owlapi-simplex-maven-plugin</artifactId>

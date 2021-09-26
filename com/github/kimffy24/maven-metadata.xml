@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>UoW Codegen Maven Plugin</name>
+      <prefix>uowgen</prefix>
+      <artifactId>uowgen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
