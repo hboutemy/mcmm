@@ -7,6 +7,11 @@
       <artifactId>jlink-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JPackage Maven Plug-In</name>
+      <prefix>jpackage</prefix>
+      <artifactId>jpackage-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Protoc Plugin for Protoc and Prettypb</name>
       <prefix>protoc</prefix>
       <artifactId>maven-protoc-plugin</artifactId>
