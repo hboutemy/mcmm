@@ -3,8 +3,8 @@
   <groupId>com.yugabyte</groupId>
   <artifactId>cassandra-driver-core</artifactId>
   <versioning>
-    <latest>3.10.3-yb-1-RC1</latest>
-    <release>3.10.3-yb-1-RC1</release>
+    <latest>3.10.3-yb-1</latest>
+    <release>3.10.3-yb-1</release>
     <versions>
       <version>3.2.0-yb-8</version>
       <version>3.2.0-yb-9</version>
@@ -25,7 +25,8 @@
       <version>3.8.0-yb-6</version>
       <version>3.8.0-yb-7</version>
       <version>3.10.3-yb-1-RC1</version>
+      <version>3.10.3-yb-1</version>
     </versions>
-    <lastUpdated>20210826090110</lastUpdated>
+    <lastUpdated>20210927070047</lastUpdated>
   </versioning>
 </metadata>

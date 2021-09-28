@@ -3,8 +3,8 @@
   <groupId>org.mariadb</groupId>
   <artifactId>r2dbc-mariadb</artifactId>
   <versioning>
-    <latest>1.1.0-beta</latest>
-    <release>1.1.0-beta</release>
+    <latest>1.1.1-rc</latest>
+    <release>1.1.1-rc</release>
     <versions>
       <version>0.8.1-alpha1</version>
       <version>0.8.2-alpha2</version>
@@ -13,8 +13,10 @@
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
+      <version>1.0.3</version>
       <version>1.1.0-beta</version>
+      <version>1.1.1-rc</version>
     </versions>
-    <lastUpdated>20210716133037</lastUpdated>
+    <lastUpdated>20210927193804</lastUpdated>
   </versioning>
 </metadata>
