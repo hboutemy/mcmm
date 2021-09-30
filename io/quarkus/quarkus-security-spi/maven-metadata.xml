@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-security-spi</artifactId>
   <versioning>
-    <latest>2.3.0.CR1</latest>
-    <release>2.3.0.CR1</release>
+    <latest>2.3.0.Final</latest>
+    <release>2.3.0.Final</release>
     <versions>
       <version>1.0.0.CR2</version>
       <version>1.0.0.Final</version>
@@ -106,7 +106,8 @@
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
       <version>2.3.0.CR1</version>
+      <version>2.3.0.Final</version>
     </versions>
-    <lastUpdated>20210922095954</lastUpdated>
+    <lastUpdated>20210929160100</lastUpdated>
   </versioning>
 </metadata>

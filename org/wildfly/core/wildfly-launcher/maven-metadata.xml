@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-launcher</artifactId>
   <versioning>
-    <latest>17.0.0.Beta7</latest>
-    <release>17.0.0.Beta7</release>
+    <latest>17.0.0.Final</latest>
+    <release>17.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -296,7 +296,8 @@
       <version>17.0.0.Beta5</version>
       <version>17.0.0.Beta6</version>
       <version>17.0.0.Beta7</version>
+      <version>17.0.0.Final</version>
     </versions>
-    <lastUpdated>20210913110403</lastUpdated>
+    <lastUpdated>20210929092235</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.flux-capacitor</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <latest>0.357</latest>
-    <release>0.357</release>
+    <latest>0.363.0</latest>
+    <release>0.363.0</release>
     <versions>
       <version>add-index-to-aggregate</version>
       <version>add-previous-aggregate</version>
@@ -352,7 +352,12 @@
       <version>0.355</version>
       <version>0.356</version>
       <version>0.357</version>
+      <version>0.358</version>
+      <version>0.359</version>
+      <version>0.360.0</version>
+      <version>0.361</version>
+      <version>0.363.0</version>
     </versions>
-    <lastUpdated>20210928134249</lastUpdated>
+    <lastUpdated>20210929173520</lastUpdated>
   </versioning>
 </metadata>

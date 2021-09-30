@@ -3,8 +3,8 @@
   <groupId>io.nosqlbench</groupId>
   <artifactId>driver-kafka</artifactId>
   <versioning>
-    <latest>4.15.55</latest>
-    <release>4.15.55</release>
+    <latest>4.15.56</latest>
+    <release>4.15.56</release>
     <versions>
       <version>3.12.116</version>
       <version>3.12.117</version>
@@ -70,7 +70,8 @@
       <version>4.15.53</version>
       <version>4.15.54</version>
       <version>4.15.55</version>
+      <version>4.15.56</version>
     </versions>
-    <lastUpdated>20210924212126</lastUpdated>
+    <lastUpdated>20210929213306</lastUpdated>
   </versioning>
 </metadata>

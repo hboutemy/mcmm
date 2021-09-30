@@ -3,15 +3,16 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-apache-httpclient-4.3</artifactId>
   <versioning>
-    <latest>1.6.0-alpha</latest>
-    <release>1.6.0-alpha</release>
+    <latest>1.6.1-alpha</latest>
+    <release>1.6.1-alpha</release>
     <versions>
       <version>1.5.0-alpha</version>
       <version>1.5.1-alpha</version>
       <version>1.5.2-alpha</version>
       <version>1.5.3-alpha</version>
       <version>1.6.0-alpha</version>
+      <version>1.6.1-alpha</version>
     </versions>
-    <lastUpdated>20210918184132</lastUpdated>
+    <lastUpdated>20210929050811</lastUpdated>
   </versioning>
 </metadata>

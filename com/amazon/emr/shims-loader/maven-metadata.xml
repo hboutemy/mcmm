@@ -3,11 +3,13 @@
   <groupId>com.amazon.emr</groupId>
   <artifactId>shims-loader</artifactId>
   <versioning>
-    <latest>4.14.0</latest>
-    <release>4.14.0</release>
+    <latest>4.16.0</latest>
+    <release>4.16.0</release>
     <versions>
       <version>4.13.0</version>
       <version>4.14.0</version>
+      <version>4.15.0</version>
+      <version>4.16.0</version>
       <version>4.10.0</version>
       <version>4.11.0</version>
       <version>4.12.0</version>
@@ -20,6 +22,6 @@
       <version>4.8.0</version>
       <version>4.9.0</version>
     </versions>
-    <lastUpdated>20200715192729</lastUpdated>
+    <lastUpdated>20210928235337</lastUpdated>
   </versioning>
 </metadata>
