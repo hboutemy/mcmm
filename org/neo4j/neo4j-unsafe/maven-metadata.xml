@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-unsafe</artifactId>
   <versioning>
-    <latest>4.3.4</latest>
-    <release>4.3.4</release>
+    <latest>4.3.5</latest>
+    <release>4.3.5</release>
     <versions>
       <version>2.2.1</version>
       <version>2.2.2</version>
@@ -239,7 +239,8 @@
       <version>4.3.2</version>
       <version>4.3.3</version>
       <version>4.3.4</version>
+      <version>4.3.5</version>
     </versions>
-    <lastUpdated>20210922134700</lastUpdated>
+    <lastUpdated>20210930112953</lastUpdated>
   </versioning>
 </metadata>

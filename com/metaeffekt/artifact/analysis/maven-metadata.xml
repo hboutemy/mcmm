@@ -6,6 +6,10 @@
       <artifactId>ae-artifact-analysis-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>ae-dependency-track</prefix>
+      <artifactId>ae-dependency-track-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>ae-inventory-enrichment</prefix>
       <artifactId>ae-inventory-enrichment-plugin</artifactId>
     </plugin>

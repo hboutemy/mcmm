@@ -3,8 +3,8 @@
   <groupId>com.swissborg</groupId>
   <artifactId>akka-persistence-postgres-migration_2.12</artifactId>
   <versioning>
-    <latest>0.5.0-M1</latest>
-    <release>0.5.0-M1</release>
+    <latest>0.5.0-M3</latest>
+    <release>0.5.0-M3</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -15,7 +15,9 @@
       <version>0.4.0</version>
       <version>0.4.1</version>
       <version>0.5.0-M1</version>
+      <version>0.5.0-M2</version>
+      <version>0.5.0-M3</version>
     </versions>
-    <lastUpdated>20210225105437</lastUpdated>
+    <lastUpdated>20210930085450</lastUpdated>
   </versioning>
 </metadata>
