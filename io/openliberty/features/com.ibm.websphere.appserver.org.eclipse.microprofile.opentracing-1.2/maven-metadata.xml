@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>com.ibm.websphere.appserver.org.eclipse.microprofile.opentracing-1.2</artifactId>
   <versioning>
-    <latest>21.0.0.9</latest>
-    <release>21.0.0.9</release>
+    <latest>21.0.0.10</latest>
+    <release>21.0.0.10</release>
     <versions>
       <version>18.0.0.4</version>
       <version>19.0.0.1</version>
@@ -40,7 +40,8 @@
       <version>21.0.0.7</version>
       <version>21.0.0.8</version>
       <version>21.0.0.9</version>
+      <version>21.0.0.10</version>
     </versions>
-    <lastUpdated>20210903101256</lastUpdated>
+    <lastUpdated>20211001095112</lastUpdated>
   </versioning>
 </metadata>

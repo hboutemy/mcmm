@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Neo4j GraphQL augmented schema generator Maven Plugin</name>
+      <prefix>neo4j-graphql-augmented-schema-generator</prefix>
+      <artifactId>neo4j-graphql-augmented-schema-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Scalastyle Maven Plugin</name>
       <prefix>scalastyle</prefix>
       <artifactId>scalastyle-maven-plugin</artifactId>
