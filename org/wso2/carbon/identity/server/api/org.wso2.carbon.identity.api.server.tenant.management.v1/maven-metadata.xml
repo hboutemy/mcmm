@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.tenant.management.v1</artifactId>
   <versioning>
-    <latest>1.0.264</latest>
-    <release>1.0.264</release>
+    <latest>1.0.266</latest>
+    <release>1.0.266</release>
     <versions>
       <version>1.0.109</version>
       <version>1.0.110</version>
@@ -159,7 +159,9 @@
       <version>1.0.262</version>
       <version>1.0.263</version>
       <version>1.0.264</version>
+      <version>1.0.265</version>
+      <version>1.0.266</version>
     </versions>
-    <lastUpdated>20210930120012</lastUpdated>
+    <lastUpdated>20211004123511</lastUpdated>
   </versioning>
 </metadata>

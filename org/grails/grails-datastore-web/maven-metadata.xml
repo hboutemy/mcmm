@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-web</artifactId>
   <versioning>
-    <latest>7.1.0.RC3</latest>
-    <release>7.1.0.RC3</release>
+    <latest>7.1.0-RC4</latest>
+    <release>7.1.0-RC4</release>
     <versions>
       <version>1.0.2.RELEASE</version>
       <version>1.0.3.RELEASE</version>
@@ -120,9 +120,10 @@
       <version>7.1.0.RC1</version>
       <version>7.1.0.RC2</version>
       <version>7.1.0.RC3</version>
+      <version>7.1.0-RC4</version>
       <version>4.0.1.RELEASE</version>
       <version>4.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20210901015057</lastUpdated>
+    <lastUpdated>20211004123333</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-embedded</artifactId>
   <versioning>
-    <latest>17.0.0.Final</latest>
-    <release>17.0.0.Final</release>
+    <latest>17.0.1.Final</latest>
+    <release>17.0.1.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -282,7 +282,8 @@
       <version>17.0.0.Beta6</version>
       <version>17.0.0.Beta7</version>
       <version>17.0.0.Final</version>
+      <version>17.0.1.Final</version>
     </versions>
-    <lastUpdated>20210929092225</lastUpdated>
+    <lastUpdated>20211004091748</lastUpdated>
   </versioning>
 </metadata>

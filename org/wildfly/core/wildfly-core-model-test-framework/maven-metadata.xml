@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-model-test-framework</artifactId>
   <versioning>
-    <latest>17.0.0.Final</latest>
-    <release>17.0.0.Final</release>
+    <latest>17.0.1.Final</latest>
+    <release>17.0.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -301,7 +301,8 @@
       <version>17.0.0.Beta6</version>
       <version>17.0.0.Beta7</version>
       <version>17.0.0.Final</version>
+      <version>17.0.1.Final</version>
     </versions>
-    <lastUpdated>20210929092212</lastUpdated>
+    <lastUpdated>20211004091739</lastUpdated>
   </versioning>
 </metadata>

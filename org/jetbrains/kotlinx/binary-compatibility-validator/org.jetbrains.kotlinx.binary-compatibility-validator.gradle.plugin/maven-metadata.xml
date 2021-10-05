@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx.binary-compatibility-validator</groupId>
   <artifactId>org.jetbrains.kotlinx.binary-compatibility-validator.gradle.plugin</artifactId>
   <versioning>
-    <latest>0.7.1</latest>
-    <release>0.7.1</release>
+    <latest>0.8.0-RC</latest>
+    <release>0.8.0-RC</release>
     <versions>
       <version>0.2.1</version>
       <version>0.2.2</version>
@@ -15,7 +15,8 @@
       <version>0.6.0</version>
       <version>0.7.0</version>
       <version>0.7.1</version>
+      <version>0.8.0-RC</version>
     </versions>
-    <lastUpdated>20210826092206</lastUpdated>
+    <lastUpdated>20211004155246</lastUpdated>
   </versioning>
 </metadata>

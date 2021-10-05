@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-log4j2</artifactId>
   <versioning>
-    <latest>5.2.0</latest>
-    <release>5.2.0</release>
+    <latest>5.2.1</latest>
+    <release>5.2.1</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.0-beta2</version>
@@ -107,7 +107,8 @@
       <version>5.2.0-beta.2</version>
       <version>5.2.0-beta.3</version>
       <version>5.2.0</version>
+      <version>5.2.1</version>
     </versions>
-    <lastUpdated>20210921131041</lastUpdated>
+    <lastUpdated>20211004133103</lastUpdated>
   </versioning>
 </metadata>
