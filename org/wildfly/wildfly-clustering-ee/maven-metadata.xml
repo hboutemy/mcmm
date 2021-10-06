@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ee</artifactId>
   <versioning>
-    <latest>25.0.0.Beta1</latest>
-    <release>25.0.0.Beta1</release>
+    <latest>25.0.0.Final</latest>
+    <release>25.0.0.Final</release>
     <versions>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Beta1</version>
@@ -78,7 +78,8 @@
       <version>24.0.0.Final</version>
       <version>24.0.1.Final</version>
       <version>25.0.0.Beta1</version>
+      <version>25.0.0.Final</version>
     </versions>
-    <lastUpdated>20210917063101</lastUpdated>
+    <lastUpdated>20211004171404</lastUpdated>
   </versioning>
 </metadata>

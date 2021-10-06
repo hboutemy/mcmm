@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-ejb-client-bom-builder</artifactId>
   <versioning>
-    <latest>25.0.0.Beta1</latest>
-    <release>25.0.0.Beta1</release>
+    <latest>25.0.0.Final</latest>
+    <release>25.0.0.Final</release>
     <versions>
       <version>17.0.0.Beta1</version>
       <version>17.0.0.Final</version>
@@ -38,7 +38,8 @@
       <version>24.0.0.SP1</version>
       <version>24.0.1.Final</version>
       <version>25.0.0.Beta1</version>
+      <version>25.0.0.Final</version>
     </versions>
-    <lastUpdated>20210920135756</lastUpdated>
+    <lastUpdated>20211004190658</lastUpdated>
   </versioning>
 </metadata>

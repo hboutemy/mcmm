@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>controller-api</artifactId>
   <versioning>
-    <latest>7.475.17</latest>
-    <release>7.475.17</release>
+    <latest>7.477.12</latest>
+    <release>7.477.12</release>
     <versions>
       <version>6.143.177</version>
       <version>6.143.255</version>
@@ -460,7 +460,9 @@
       <version>7.472.1</version>
       <version>7.473.17</version>
       <version>7.475.17</version>
+      <version>7.476.1</version>
+      <version>7.477.12</version>
     </versions>
-    <lastUpdated>20210930183653</lastUpdated>
+    <lastUpdated>20211005191730</lastUpdated>
   </versioning>
 </metadata>
