@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-commandline</artifactId>
   <versioning>
-    <latest>8.0.0-beta3</latest>
-    <release>8.0.0-beta3</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>3.0</version>
       <version>3.1</version>
@@ -118,7 +118,8 @@
       <version>8.0.0-beta1</version>
       <version>8.0.0-beta2</version>
       <version>8.0.0-beta3</version>
+      <version>8.0.0</version>
     </versions>
-    <lastUpdated>20210929143221</lastUpdated>
+    <lastUpdated>20211006125950</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Migrate Mongo Maven Plugin</name>
+      <prefix>migrate-mongo</prefix>
+      <artifactId>migrate-mongo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
