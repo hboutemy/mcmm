@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jersey-doc-modulelist-maven-plugin</name>
+      <prefix>jersey-doc-modulelist</prefix>
+      <artifactId>jersey-doc-modulelist-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jersey-release-notes-maven-plugin</name>
       <prefix>jersey-release-notes</prefix>
       <artifactId>jersey-release-notes-maven-plugin</artifactId>

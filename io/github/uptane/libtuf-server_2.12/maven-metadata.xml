@@ -3,8 +3,8 @@
   <groupId>io.github.uptane</groupId>
   <artifactId>libtuf-server_2.12</artifactId>
   <versioning>
-    <latest>0.8.1</latest>
-    <release>0.8.1</release>
+    <latest>0.9.0</latest>
+    <release>0.9.0</release>
     <versions>
       <version>reposerver</version>
       <version>0.7.2-67-g37ba5d7</version>
@@ -36,7 +36,8 @@
       <version>0.7.3-59-g3cb1430</version>
       <version>0.8.0</version>
       <version>0.8.1</version>
+      <version>0.9.0</version>
     </versions>
-    <lastUpdated>20210816144805</lastUpdated>
+    <lastUpdated>20211007153838</lastUpdated>
   </versioning>
 </metadata>
