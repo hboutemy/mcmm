@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.jms.listener</artifactId>
   <versioning>
-    <latest>9.0.363</latest>
-    <release>9.0.363</release>
+    <latest>9.0.365</latest>
+    <release>9.0.365</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -2118,7 +2118,9 @@
       <version>9.0.361</version>
       <version>9.0.362</version>
       <version>9.0.363</version>
+      <version>9.0.364</version>
+      <version>9.0.365</version>
     </versions>
-    <lastUpdated>20211007105516</lastUpdated>
+    <lastUpdated>20211008151033</lastUpdated>
   </versioning>
 </metadata>

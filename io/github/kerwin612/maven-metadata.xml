@@ -4,6 +4,11 @@
     <plugin>
       <name>Maven Find Class Plugin</name>
       <prefix>findclass</prefix>
+      <artifactId>findclass-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Find Class Plugin</name>
+      <prefix>findclass</prefix>
       <artifactId>maven-findclass-plugin</artifactId>
     </plugin>
   </plugins>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>transformer</artifactId>
   <versioning>
-    <latest>5.2.2.Final</latest>
-    <release>5.2.2.Final</release>
+    <latest>5.2.4.Final</latest>
+    <release>5.2.4.Final</release>
     <versions>
       <version>5.0.0.Alpha1</version>
       <version>5.0.0.Alpha2</version>
@@ -27,7 +27,9 @@
       <version>5.2.2.Beta1</version>
       <version>5.2.2.Beta2</version>
       <version>5.2.2.Final</version>
+      <version>5.2.3.Final</version>
+      <version>5.2.4.Final</version>
     </versions>
-    <lastUpdated>20210920171222</lastUpdated>
+    <lastUpdated>20211008131425</lastUpdated>
   </versioning>
 </metadata>
