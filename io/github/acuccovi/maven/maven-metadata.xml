@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CreateDirs Maven Plugin</name>
+      <prefix>createdirs</prefix>
+      <artifactId>createdirs-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
