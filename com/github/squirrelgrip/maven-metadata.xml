@@ -6,5 +6,9 @@
       <prefix>travis</prefix>
       <artifactId>travis-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>update</prefix>
+      <artifactId>update-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
