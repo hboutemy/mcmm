@@ -3,8 +3,8 @@
   <groupId>com.javiersc.gradle-plugins</groupId>
   <artifactId>publish-version-catalog</artifactId>
   <versioning>
-    <latest>0.1.0-alpha.62</latest>
-    <release>0.1.0-alpha.62</release>
+    <latest>0.1.0-alpha.65</latest>
+    <release>0.1.0-alpha.65</release>
     <versions>
       <version>0.1.0-alpha.8</version>
       <version>0.1.0-alpha.9</version>
@@ -61,7 +61,10 @@
       <version>0.1.0-alpha.60</version>
       <version>0.1.0-alpha.61</version>
       <version>0.1.0-alpha.62</version>
+      <version>0.1.0-alpha.63</version>
+      <version>0.1.0-alpha.64</version>
+      <version>0.1.0-alpha.65</version>
     </versions>
-    <lastUpdated>20211010160920</lastUpdated>
+    <lastUpdated>20211012210805</lastUpdated>
   </versioning>
 </metadata>
