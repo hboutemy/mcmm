@@ -3,8 +3,8 @@
   <groupId>io.fabric8.kubernetes</groupId>
   <artifactId>karaf</artifactId>
   <versioning>
-    <latest>5.8.0</latest>
-    <release>5.8.0</release>
+    <latest>5.9.0</latest>
+    <release>5.9.0</release>
     <versions>
       <version>1.0.81</version>
       <version>1.0.82</version>
@@ -216,7 +216,8 @@
       <version>5.7.2</version>
       <version>5.7.3</version>
       <version>5.8.0</version>
+      <version>5.9.0</version>
     </versions>
-    <lastUpdated>20210923171419</lastUpdated>
+    <lastUpdated>20211014055319</lastUpdated>
   </versioning>
 </metadata>
