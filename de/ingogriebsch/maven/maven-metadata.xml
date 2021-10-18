@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sync package.json version Maven plugin</name>
+      <prefix>sync-packagejson-version</prefix>
+      <artifactId>sync-packagejson-version-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

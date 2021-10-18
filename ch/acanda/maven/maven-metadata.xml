@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>code-analysis-maven-plugin</name>
+      <prefix>code-analysis</prefix>
+      <artifactId>code-analysis-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Spring Banner Plugin</name>
       <prefix>spring-banner</prefix>
       <artifactId>spring-banner-plugin</artifactId>
