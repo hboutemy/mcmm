@@ -3,11 +3,14 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>odl-jackson-2.12</artifactId>
   <versioning>
-    <latest>9.0.6</latest>
-    <release>9.0.6</release>
+    <latest>9.0.8</latest>
+    <release>9.0.8</release>
     <versions>
+      <version>8.1.4</version>
       <version>9.0.6</version>
+      <version>9.0.7</version>
+      <version>9.0.8</version>
     </versions>
-    <lastUpdated>20210908141935</lastUpdated>
+    <lastUpdated>20211019190923</lastUpdated>
   </versioning>
 </metadata>

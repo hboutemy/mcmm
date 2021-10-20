@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>untested-single-feature-parent</artifactId>
   <versioning>
-    <latest>9.0.6</latest>
-    <release>9.0.6</release>
+    <latest>9.0.8</latest>
+    <release>9.0.8</release>
     <versions>
       <version>1.8.0-Carbon</version>
       <version>1.8.1-Carbon</version>
@@ -96,6 +96,7 @@
       <version>8.1.1</version>
       <version>8.1.2</version>
       <version>8.1.3</version>
+      <version>8.1.4</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -103,7 +104,9 @@
       <version>9.0.4</version>
       <version>9.0.5</version>
       <version>9.0.6</version>
+      <version>9.0.7</version>
+      <version>9.0.8</version>
     </versions>
-    <lastUpdated>20210908141959</lastUpdated>
+    <lastUpdated>20211019190941</lastUpdated>
   </versioning>
 </metadata>
