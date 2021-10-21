@@ -6,5 +6,10 @@
       <prefix>herd-swaggergen</prefix>
       <artifactId>herd-swaggergen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>herd swaggergen maven plugin new</name>
+      <prefix>herd-swaggergennew</prefix>
+      <artifactId>herd-swaggergen-maven-plugin-new</artifactId>
+    </plugin>
   </plugins>
 </metadata>

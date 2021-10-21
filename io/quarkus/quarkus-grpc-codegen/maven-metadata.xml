@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-grpc-codegen</artifactId>
   <versioning>
-    <latest>2.4.0.CR1</latest>
-    <release>2.4.0.CR1</release>
+    <latest>2.4.0.Final</latest>
+    <release>2.4.0.Final</release>
     <versions>
       <version>1.7.0.CR1</version>
       <version>1.7.0.CR2</version>
@@ -80,7 +80,8 @@
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
       <version>2.4.0.CR1</version>
+      <version>2.4.0.Final</version>
     </versions>
-    <lastUpdated>20211019190904</lastUpdated>
+    <lastUpdated>20211020092237</lastUpdated>
   </versioning>
 </metadata>

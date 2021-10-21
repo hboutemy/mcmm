@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-parent</artifactId>
   <versioning>
-    <latest>8.0.1</latest>
-    <release>8.0.1</release>
+    <latest>8.0.2</latest>
+    <release>8.0.2</release>
     <versions>
       <version>3.0</version>
       <version>3.1</version>
@@ -120,7 +120,8 @@
       <version>8.0.0-beta3</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
+      <version>8.0.2</version>
     </versions>
-    <lastUpdated>20211013095011</lastUpdated>
+    <lastUpdated>20211020155300</lastUpdated>
   </versioning>
 </metadata>
