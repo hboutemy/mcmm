@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>com.nginflow:features-builder</name>
+      <prefix>features-builder</prefix>
+      <artifactId>features-builder</artifactId>
+    </plugin>
+    <plugin>
       <name>com.nginflow:microservice-builder</name>
       <prefix>microservice-builder</prefix>
       <artifactId>microservice-builder</artifactId>
