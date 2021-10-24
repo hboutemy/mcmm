@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-osconfig</artifactId>
   <versioning>
-    <latest>v1-rev20211002-1.32.1</latest>
-    <release>v1-rev20211002-1.32.1</release>
+    <latest>v1-rev20211018-1.32.1</latest>
+    <release>v1-rev20211018-1.32.1</release>
     <versions>
       <version>v1alpha-rev20210430-1.31.0</version>
       <version>v1alpha-rev20210507-1.31.0</version>
@@ -18,6 +18,7 @@
       <version>v1alpha-rev20210821-1.32.1</version>
       <version>v1alpha-rev20210914-1.32.1</version>
       <version>v1alpha-rev20210925-1.32.1</version>
+      <version>v1alpha-rev20211018-1.32.1</version>
       <version>v1beta-rev2-1.18.0-rc</version>
       <version>v1beta-rev2-1.25.0</version>
       <version>v1beta-rev3-1.18.0-rc</version>
@@ -88,7 +89,8 @@
       <version>v1-rev20210914-1.32.1</version>
       <version>v1-rev20210925-1.32.1</version>
       <version>v1-rev20211002-1.32.1</version>
+      <version>v1-rev20211018-1.32.1</version>
     </versions>
-    <lastUpdated>20211009200559</lastUpdated>
+    <lastUpdated>20211023200835</lastUpdated>
   </versioning>
 </metadata>
