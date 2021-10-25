@@ -3,14 +3,16 @@
   <groupId>pl.morgwai.base</groupId>
   <artifactId>servlet-utils</artifactId>
   <versioning>
-    <latest>1.0</latest>
-    <release>1.0</release>
+    <latest>1.1-javax</latest>
+    <release>1.1-javax</release>
     <versions>
       <version>1.0-alpha2</version>
       <version>1.0-alpha3</version>
       <version>1.0-alpha4</version>
       <version>1.0</version>
+      <version>1.1-jakarta</version>
+      <version>1.1-javax</version>
     </versions>
-    <lastUpdated>20210920084357</lastUpdated>
+    <lastUpdated>20211024134134</lastUpdated>
   </versioning>
 </metadata>
