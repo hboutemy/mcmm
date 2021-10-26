@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.standalone</groupId>
   <artifactId>gravitee-gateway-standalone-bootstrap</artifactId>
   <versioning>
-    <latest>3.12.0</latest>
-    <release>3.12.0</release>
+    <latest>3.12.1</latest>
+    <release>3.12.1</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -300,8 +300,10 @@
       <version>3.10.3</version>
       <version>3.11.0</version>
       <version>3.11.1</version>
+      <version>3.11.2</version>
       <version>3.12.0</version>
+      <version>3.12.1</version>
     </versions>
-    <lastUpdated>20211015095630</lastUpdated>
+    <lastUpdated>20211025180826</lastUpdated>
   </versioning>
 </metadata>
