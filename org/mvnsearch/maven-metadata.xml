@@ -6,5 +6,10 @@
       <prefix>proto-rsocket</prefix>
       <artifactId>proto-rsocket-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Maven Toolchains Plugin with JDK auto download</name>
+      <prefix>toolchains</prefix>
+      <artifactId>toolchains-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

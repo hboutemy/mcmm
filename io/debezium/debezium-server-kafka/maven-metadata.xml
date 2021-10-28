@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-kafka</artifactId>
   <versioning>
-    <latest>1.7.0.Final</latest>
-    <release>1.7.0.Final</release>
+    <latest>1.8.0.Alpha1</latest>
+    <release>1.8.0.Alpha1</release>
     <versions>
       <version>1.6.0.Alpha1</version>
       <version>1.6.0.Beta1</version>
@@ -19,7 +19,8 @@
       <version>1.7.0.CR1</version>
       <version>1.7.0.CR2</version>
       <version>1.7.0.Final</version>
+      <version>1.8.0.Alpha1</version>
     </versions>
-    <lastUpdated>20211021142314</lastUpdated>
+    <lastUpdated>20211027071051</lastUpdated>
   </versioning>
 </metadata>

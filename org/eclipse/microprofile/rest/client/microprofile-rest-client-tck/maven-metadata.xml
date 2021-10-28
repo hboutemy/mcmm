@@ -3,8 +3,8 @@
   <groupId>org.eclipse.microprofile.rest.client</groupId>
   <artifactId>microprofile-rest-client-tck</artifactId>
   <versioning>
-    <latest>3.0-RC4</latest>
-    <release>3.0-RC4</release>
+    <latest>3.0-RC5</latest>
+    <release>3.0-RC5</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1</version>
@@ -37,8 +37,9 @@
       <version>3.0-RC2</version>
       <version>3.0-RC3</version>
       <version>3.0-RC4</version>
+      <version>3.0-RC5</version>
       <version>1.2.0</version>
     </versions>
-    <lastUpdated>20211026144806</lastUpdated>
+    <lastUpdated>20211027213505</lastUpdated>
   </versioning>
 </metadata>
