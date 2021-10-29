@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-jpaserver-migrate</artifactId>
   <versioning>
-    <latest>5.5.1</latest>
-    <release>5.5.1</release>
+    <latest>5.5.3</latest>
+    <release>5.5.3</release>
     <versions>
       <version>3.5.0</version>
       <version>3.6.0</version>
@@ -30,7 +30,9 @@
       <version>5.4.2</version>
       <version>5.5.0</version>
       <version>5.5.1</version>
+      <version>5.5.2</version>
+      <version>5.5.3</version>
     </versions>
-    <lastUpdated>20210901183440</lastUpdated>
+    <lastUpdated>20211028231204</lastUpdated>
   </versioning>
 </metadata>
