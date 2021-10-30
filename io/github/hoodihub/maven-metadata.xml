@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Null-Check Instrumenter</name>
+      <prefix>null-check-instrumenter</prefix>
+      <artifactId>null-check-instrumenter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

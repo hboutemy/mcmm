@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>CQ Camel Prod Maven Plugin</name>
+      <prefix>cq-camel-prod</prefix>
+      <artifactId>cq-camel-prod-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>CQ Maven Plugin</name>
       <prefix>cq</prefix>
       <artifactId>cq-maven-plugin</artifactId>

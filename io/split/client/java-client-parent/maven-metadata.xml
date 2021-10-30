@@ -3,8 +3,8 @@
   <groupId>io.split.client</groupId>
   <artifactId>java-client-parent</artifactId>
   <versioning>
-    <latest>4.4.0-alpha</latest>
-    <release>4.4.0-alpha</release>
+    <latest>4.4.0-beta</latest>
+    <release>4.4.0-beta</release>
     <versions>
       <version>1.1.5</version>
       <version>1.1.6</version>
@@ -90,7 +90,8 @@
       <version>4.2.1</version>
       <version>4.3.0</version>
       <version>4.4.0-alpha</version>
+      <version>4.4.0-beta</version>
     </versions>
-    <lastUpdated>20211028205404</lastUpdated>
+    <lastUpdated>20211029231712</lastUpdated>
   </versioning>
 </metadata>
