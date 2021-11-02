@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-cassandra</artifactId>
   <versioning>
-    <latest>0.456.0</latest>
-    <release>0.456.0</release>
+    <latest>0.458.0</latest>
+    <release>0.458.0</release>
     <versions>
       <version>0.311.7</version>
       <version>0.312.2-rc2</version>
@@ -174,7 +174,8 @@
       <version>0.456.0-rc1</version>
       <version>0.456.0-rc2</version>
       <version>0.456.0</version>
+      <version>0.458.0</version>
     </versions>
-    <lastUpdated>20211028142150</lastUpdated>
+    <lastUpdated>20211101111357</lastUpdated>
   </versioning>
 </metadata>
