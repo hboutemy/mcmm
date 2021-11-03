@@ -3,8 +3,8 @@
   <groupId>io.cdap.cdap</groupId>
   <artifactId>cdap-runtime-ext-emr</artifactId>
   <versioning>
-    <latest>6.5.0</latest>
-    <release>6.5.0</release>
+    <latest>6.5.1</latest>
+    <release>6.5.1</release>
     <versions>
       <version>6.0.0</version>
       <version>6.1.1</version>
@@ -19,7 +19,8 @@
       <version>6.4.0</version>
       <version>6.4.1</version>
       <version>6.5.0</version>
+      <version>6.5.1</version>
     </versions>
-    <lastUpdated>20210831205454</lastUpdated>
+    <lastUpdated>20211102213714</lastUpdated>
   </versioning>
 </metadata>

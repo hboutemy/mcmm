@@ -5,5 +5,9 @@
       <prefix>tiger-aforeporter</prefix>
       <artifactId>tiger-aforeporter-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>tiger-bdd-driver-generator</prefix>
+      <artifactId>tiger-bdd-driver-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

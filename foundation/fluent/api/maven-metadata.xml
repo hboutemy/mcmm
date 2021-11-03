@@ -5,5 +5,10 @@
       <prefix>fluent-xml-writer-tests</prefix>
       <artifactId>fluent-xml-writer-tests</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven standalone runner plugin</name>
+      <prefix>run</prefix>
+      <artifactId>run</artifactId>
+    </plugin>
   </plugins>
 </metadata>

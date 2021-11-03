@@ -3,8 +3,8 @@
   <groupId>org.eclipse.microprofile.opentracing</groupId>
   <artifactId>microprofile-opentracing-tck-rest-client</artifactId>
   <versioning>
-    <latest>3.0-RC3</latest>
-    <release>3.0-RC3</release>
+    <latest>3.0-RC4</latest>
+    <release>3.0-RC4</release>
     <versions>
       <version>1.3</version>
       <version>1.3.1</version>
@@ -15,7 +15,8 @@
       <version>2.0</version>
       <version>3.0-RC2</version>
       <version>3.0-RC3</version>
+      <version>3.0-RC4</version>
     </versions>
-    <lastUpdated>20210927153730</lastUpdated>
+    <lastUpdated>20211102185559</lastUpdated>
   </versioning>
 </metadata>

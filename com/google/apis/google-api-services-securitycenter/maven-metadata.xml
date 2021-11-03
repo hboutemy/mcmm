@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-securitycenter</artifactId>
   <versioning>
-    <latest>v1-rev20211015-1.32.1</latest>
-    <release>v1-rev20211015-1.32.1</release>
+    <latest>v1-rev20211029-1.32.1</latest>
+    <release>v1-rev20211029-1.32.1</release>
     <versions>
       <version>v1beta1-rev3-1.18.0-rc</version>
       <version>v1beta1-rev3-1.22.0</version>
@@ -204,6 +204,7 @@
       <version>v1beta1-rev20210930-1.32.1</version>
       <version>v1beta1-rev20211007-1.32.1</version>
       <version>v1beta1-rev20211015-1.32.1</version>
+      <version>v1beta1-rev20211029-1.32.1</version>
       <version>v1beta2-rev20200820-1.30.10</version>
       <version>v1beta2-rev20200918-1.30.10</version>
       <version>v1beta2-rev20201112-1.30.10</version>
@@ -218,6 +219,7 @@
       <version>v1beta2-rev20210812-1.32.1</version>
       <version>v1beta2-rev20210820-1.32.1</version>
       <version>v1beta2-rev20211015-1.32.1</version>
+      <version>v1beta2-rev20211029-1.32.1</version>
       <version>v1p1alpha1-rev1-1.18.0-rc</version>
       <version>v1p1alpha1-rev1-1.25.0</version>
       <version>v1p1alpha1-rev2-1.25.0</version>
@@ -522,7 +524,8 @@
       <version>v1-rev20210930-1.32.1</version>
       <version>v1-rev20211007-1.32.1</version>
       <version>v1-rev20211015-1.32.1</version>
+      <version>v1-rev20211029-1.32.1</version>
     </versions>
-    <lastUpdated>20211030201617</lastUpdated>
+    <lastUpdated>20211102201240</lastUpdated>
   </versioning>
 </metadata>

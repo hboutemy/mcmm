@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-servlet-feature-pack-ee-8-api</artifactId>
   <versioning>
-    <latest>25.0.0.Final</latest>
-    <release>25.0.0.Final</release>
+    <latest>25.0.1.Final</latest>
+    <release>25.0.1.Final</release>
     <versions>
       <version>21.0.0.Beta1</version>
       <version>21.0.0.Final</version>
@@ -23,7 +23,8 @@
       <version>24.0.1.Final</version>
       <version>25.0.0.Beta1</version>
       <version>25.0.0.Final</version>
+      <version>25.0.1.Final</version>
     </versions>
-    <lastUpdated>20211004171733</lastUpdated>
+    <lastUpdated>20211102170832</lastUpdated>
   </versioning>
 </metadata>
