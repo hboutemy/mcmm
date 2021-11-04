@@ -3,8 +3,8 @@
   <groupId>de.adorsys.psd2</groupId>
   <artifactId>cms-standalone-service</artifactId>
   <versioning>
-    <latest>13.0</latest>
-    <release>13.0</release>
+    <latest>13.1</latest>
+    <release>13.1</release>
     <versions>
       <version>1.12</version>
       <version>1.13</version>
@@ -182,8 +182,10 @@
       <version>11.10</version>
       <version>11.11</version>
       <version>12.0</version>
+      <version>12.1</version>
       <version>13.0</version>
+      <version>13.1</version>
     </versions>
-    <lastUpdated>20211006133604</lastUpdated>
+    <lastUpdated>20211103125209</lastUpdated>
   </versioning>
 </metadata>

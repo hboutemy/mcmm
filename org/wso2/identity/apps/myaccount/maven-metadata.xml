@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>myaccount</artifactId>
   <versioning>
-    <latest>1.2.703</latest>
-    <release>1.2.703</release>
+    <latest>1.2.704</latest>
+    <release>1.2.704</release>
     <versions>
       <version>0.0.55</version>
       <version>0.0.56</version>
@@ -1034,6 +1034,7 @@
       <version>0.0.1094</version>
       <version>0.0.1095</version>
       <version>0.0.1096</version>
+      <version>0.0.1097</version>
       <version>1.0.381</version>
       <version>1.0.382</version>
       <version>1.0.383</version>
@@ -2169,7 +2170,8 @@
       <version>1.2.700</version>
       <version>1.2.701</version>
       <version>1.2.703</version>
+      <version>1.2.704</version>
     </versions>
-    <lastUpdated>20211102110255</lastUpdated>
+    <lastUpdated>20211103065145</lastUpdated>
   </versioning>
 </metadata>
