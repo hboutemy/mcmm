@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-hibernate-procedure-call-4.3</artifactId>
   <versioning>
-    <latest>1.7.1-alpha</latest>
-    <release>1.7.1-alpha</release>
+    <latest>1.8.0-alpha</latest>
+    <release>1.8.0-alpha</release>
     <versions>
       <version>1.3.0-alpha</version>
       <version>1.3.1-alpha</version>
@@ -19,7 +19,9 @@
       <version>1.6.2-alpha</version>
       <version>1.7.0-alpha</version>
       <version>1.7.1-alpha</version>
+      <version>1.7.2-alpha</version>
+      <version>1.8.0-alpha</version>
     </versions>
-    <lastUpdated>20211027222605</lastUpdated>
+    <lastUpdated>20211104071922</lastUpdated>
   </versioning>
 </metadata>

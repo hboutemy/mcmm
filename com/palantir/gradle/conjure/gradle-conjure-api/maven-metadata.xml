@@ -3,8 +3,8 @@
   <groupId>com.palantir.gradle.conjure</groupId>
   <artifactId>gradle-conjure-api</artifactId>
   <versioning>
-    <latest>5.16.0</latest>
-    <release>5.16.0</release>
+    <latest>5.18.0</latest>
+    <release>5.18.0</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -95,7 +95,9 @@
       <version>5.14.0</version>
       <version>5.15.0</version>
       <version>5.16.0</version>
+      <version>5.17.0</version>
+      <version>5.18.0</version>
     </versions>
-    <lastUpdated>20211028191120</lastUpdated>
+    <lastUpdated>20211104032456</lastUpdated>
   </versioning>
 </metadata>
