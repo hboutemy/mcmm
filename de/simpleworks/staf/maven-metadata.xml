@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>msteams-maven-plugin</name>
+      <prefix>msteams</prefix>
+      <artifactId>msteams-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>stafutils-maven-plugin</name>
+      <prefix>stafutils</prefix>
+      <artifactId>stafutils-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>surefire-maven-plugin</name>
+      <prefix>surefire</prefix>
+      <artifactId>surefire-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>testflo-maven-plugin</name>
+      <prefix>testflo</prefix>
+      <artifactId>testflo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>xray-maven-plugin</name>
+      <prefix>xray</prefix>
+      <artifactId>xray-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

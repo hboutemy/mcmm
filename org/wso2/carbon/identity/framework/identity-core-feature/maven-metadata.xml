@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>identity-core-feature</artifactId>
   <versioning>
-    <latest>5.20.246</latest>
-    <release>5.20.246</release>
+    <latest>5.20.249</latest>
+    <release>5.20.249</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1878,7 +1878,10 @@
       <version>5.20.244</version>
       <version>5.20.245</version>
       <version>5.20.246</version>
+      <version>5.20.247</version>
+      <version>5.20.248</version>
+      <version>5.20.249</version>
     </versions>
-    <lastUpdated>20211104112233</lastUpdated>
+    <lastUpdated>20211105151601</lastUpdated>
   </versioning>
 </metadata>

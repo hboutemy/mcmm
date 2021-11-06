@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.server</groupId>
   <artifactId>liquibase-ext</artifactId>
   <versioning>
-    <latest>1.90.0</latest>
-    <release>1.90.0</release>
+    <latest>1.91.0</latest>
+    <release>1.91.0</release>
     <versions>
       <version>1.45.0</version>
       <version>1.46.0</version>
@@ -73,7 +73,8 @@
       <version>1.89.1</version>
       <version>1.89.2</version>
       <version>1.90.0</version>
+      <version>1.91.0</version>
     </versions>
-    <lastUpdated>20210916155945</lastUpdated>
+    <lastUpdated>20211105133204</lastUpdated>
   </versioning>
 </metadata>

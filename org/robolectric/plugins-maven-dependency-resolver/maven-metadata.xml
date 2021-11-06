@@ -3,8 +3,8 @@
   <groupId>org.robolectric</groupId>
   <artifactId>plugins-maven-dependency-resolver</artifactId>
   <versioning>
-    <latest>4.6.1</latest>
-    <release>4.6.1</release>
+    <latest>4.7-alpha-1</latest>
+    <release>4.7-alpha-1</release>
     <versions>
       <version>4.2-alpha-1</version>
       <version>4.2-alpha-2</version>
@@ -36,7 +36,8 @@
       <version>4.6-alpha-2</version>
       <version>4.6</version>
       <version>4.6.1</version>
+      <version>4.7-alpha-1</version>
     </versions>
-    <lastUpdated>20210704204639</lastUpdated>
+    <lastUpdated>20211105011008</lastUpdated>
   </versioning>
 </metadata>
