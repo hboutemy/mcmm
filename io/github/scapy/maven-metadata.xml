@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Proxy Authentication Settings</name>
+      <prefix>proxy-settings</prefix>
+      <artifactId>proxy-settings-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
