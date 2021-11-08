@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.extension.identity.authenticator.outbound.totp</groupId>
   <artifactId>org.wso2.carbon.extension.identity.authenticator.totp.feature</artifactId>
   <versioning>
-    <latest>3.0.21</latest>
-    <release>3.0.21</release>
+    <latest>3.0.22</latest>
+    <release>3.0.22</release>
     <versions>
       <version>2.0.2</version>
       <version>2.0.3</version>
@@ -62,7 +62,8 @@
       <version>3.0.19</version>
       <version>3.0.20</version>
       <version>3.0.21</version>
+      <version>3.0.22</version>
     </versions>
-    <lastUpdated>20211103033307</lastUpdated>
+    <lastUpdated>20211107135052</lastUpdated>
   </versioning>
 </metadata>
