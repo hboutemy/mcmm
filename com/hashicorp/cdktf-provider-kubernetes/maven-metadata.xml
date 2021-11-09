@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-kubernetes</artifactId>
   <versioning>
-    <latest>0.3.90</latest>
-    <release>0.3.90</release>
+    <latest>0.3.97</latest>
+    <release>0.3.97</release>
     <versions>
       <version>0.3.12</version>
       <version>0.3.13</version>
@@ -81,7 +81,14 @@
       <version>0.3.88</version>
       <version>0.3.89</version>
       <version>0.3.90</version>
+      <version>0.3.91</version>
+      <version>0.3.92</version>
+      <version>0.3.93</version>
+      <version>0.3.94</version>
+      <version>0.3.95</version>
+      <version>0.3.96</version>
+      <version>0.3.97</version>
     </versions>
-    <lastUpdated>20211107202403</lastUpdated>
+    <lastUpdated>20211108202322</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.javaee</groupId>
   <artifactId>camunda-ejb-client</artifactId>
   <versioning>
-    <latest>7.16.0</latest>
-    <release>7.16.0</release>
+    <latest>7.17.0-alpha1</latest>
+    <release>7.17.0-alpha1</release>
     <versions>
       <version>7.1.0-alpha4</version>
       <version>7.1.0-Final</version>
@@ -95,7 +95,8 @@
       <version>7.16.0-alpha4</version>
       <version>7.16.0-alpha5</version>
       <version>7.16.0</version>
+      <version>7.17.0-alpha1</version>
     </versions>
-    <lastUpdated>20211012063635</lastUpdated>
+    <lastUpdated>20211108152725</lastUpdated>
   </versioning>
 </metadata>

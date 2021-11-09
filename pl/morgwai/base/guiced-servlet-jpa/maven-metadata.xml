@@ -3,8 +3,8 @@
   <groupId>pl.morgwai.base</groupId>
   <artifactId>guiced-servlet-jpa</artifactId>
   <versioning>
-    <latest>4.0-javax</latest>
-    <release>4.0-javax</release>
+    <latest>5.0-javax</latest>
+    <release>5.0-javax</release>
     <versions>
       <version>1.0-alpha2</version>
       <version>1.0-alpha3</version>
@@ -17,7 +17,9 @@
       <version>3.0</version>
       <version>4.0-jakarta-experimental</version>
       <version>4.0-javax</version>
+      <version>5.0-jakarta-experimental</version>
+      <version>5.0-javax</version>
     </versions>
-    <lastUpdated>20211104173529</lastUpdated>
+    <lastUpdated>20211108115254</lastUpdated>
   </versioning>
 </metadata>

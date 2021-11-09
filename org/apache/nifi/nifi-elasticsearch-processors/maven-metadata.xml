@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-elasticsearch-processors</artifactId>
   <versioning>
-    <latest>1.14.0</latest>
-    <release>1.14.0</release>
+    <latest>1.15.0</latest>
+    <release>1.15.0</release>
     <versions>
       <version>0.5.0</version>
       <version>0.5.1</version>
@@ -44,7 +44,8 @@
       <version>1.13.1</version>
       <version>1.13.2</version>
       <version>1.14.0</version>
+      <version>1.15.0</version>
     </versions>
-    <lastUpdated>20210714134226</lastUpdated>
+    <lastUpdated>20211108134902</lastUpdated>
   </versioning>
 </metadata>

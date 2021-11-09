@@ -6,5 +6,10 @@
       <prefix>swak-api</prefix>
       <artifactId>swak-api</artifactId>
     </plugin>
+    <plugin>
+      <name>swak-generate</name>
+      <prefix>swak-generate</prefix>
+      <artifactId>swak-generate</artifactId>
+    </plugin>
   </plugins>
 </metadata>
