@@ -3,8 +3,8 @@
   <groupId>org.kie.server</groupId>
   <artifactId>kie-server-controller-openshift</artifactId>
   <versioning>
-    <latest>7.60.0.Final</latest>
-    <release>7.60.0.Final</release>
+    <latest>7.61.0.Final</latest>
+    <release>7.61.0.Final</release>
     <versions>
       <version>7.18.0.Final</version>
       <version>7.19.0.Final</version>
@@ -57,7 +57,8 @@
       <version>7.58.0.Final</version>
       <version>7.59.0.Final</version>
       <version>7.60.0.Final</version>
+      <version>7.61.0.Final</version>
     </versions>
-    <lastUpdated>20211018080505</lastUpdated>
+    <lastUpdated>20211104075526</lastUpdated>
   </versioning>
 </metadata>

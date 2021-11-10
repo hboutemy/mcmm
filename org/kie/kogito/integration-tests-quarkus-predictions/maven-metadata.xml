@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-quarkus-predictions</artifactId>
   <versioning>
-    <latest>1.12.0.Final</latest>
-    <release>1.12.0.Final</release>
+    <latest>1.13.0.Final</latest>
+    <release>1.13.0.Final</release>
     <versions>
       <version>0.16.0</version>
       <version>0.17.0</version>
@@ -24,7 +24,8 @@
       <version>1.11.0.Final</version>
       <version>1.11.1.Final</version>
       <version>1.12.0.Final</version>
+      <version>1.13.0.Final</version>
     </versions>
-    <lastUpdated>20211013090403</lastUpdated>
+    <lastUpdated>20211105083859</lastUpdated>
   </versioning>
 </metadata>

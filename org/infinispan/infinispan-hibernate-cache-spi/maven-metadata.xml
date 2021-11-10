@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-hibernate-cache-spi</artifactId>
   <versioning>
-    <latest>13.0.1.Final</latest>
-    <release>13.0.1.Final</release>
+    <latest>13.0.2.Final</latest>
+    <release>13.0.2.Final</release>
     <versions>
       <version>9.2.2.Final</version>
       <version>9.2.3.Final</version>
@@ -123,8 +123,9 @@
       <version>13.0.0.Dev03</version>
       <version>13.0.0.Dev04</version>
       <version>13.0.1.Final</version>
+      <version>13.0.2.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20211028101213</lastUpdated>
+    <lastUpdated>20211108154410</lastUpdated>
   </versioning>
 </metadata>
