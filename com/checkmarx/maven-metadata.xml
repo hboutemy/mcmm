@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ast-cli-maven-plugin Maven Mojo</name>
+      <prefix>ast-cli</prefix>
+      <artifactId>ast-cli-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

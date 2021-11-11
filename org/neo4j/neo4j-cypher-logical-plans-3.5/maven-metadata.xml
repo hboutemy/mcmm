@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-logical-plans-3.5</artifactId>
   <versioning>
-    <latest>3.5.29</latest>
-    <release>3.5.29</release>
+    <latest>3.5.30</latest>
+    <release>3.5.30</release>
     <versions>
       <version>3.5.0-alpha01</version>
       <version>3.5.0-alpha02</version>
@@ -49,7 +49,8 @@
       <version>3.5.27</version>
       <version>3.5.28</version>
       <version>3.5.29</version>
+      <version>3.5.30</version>
     </versions>
-    <lastUpdated>20210706124635</lastUpdated>
+    <lastUpdated>20211110164514</lastUpdated>
   </versioning>
 </metadata>

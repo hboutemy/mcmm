@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>metrics_2.12</artifactId>
   <versioning>
-    <latest>1.18.0-snapshot.20211102.8257.0.7391a3cd</latest>
-    <release>1.18.0-snapshot.20211102.8257.0.7391a3cd</release>
+    <latest>1.18.0-snapshot.20211109.8328.0.92181161</latest>
+    <release>1.18.0-snapshot.20211109.8328.0.92181161</release>
     <versions>
       <version>1.1.0-snapshot.20200422.3991.0.6391ee9f</version>
       <version>1.1.0-snapshot.20200430.4057.0.681c862d</version>
@@ -101,6 +101,7 @@
       <version>1.11.2-snapshot.20210610.6433.0.a08f6ea2</version>
       <version>1.11.2-snapshot.20210610.6433.1.a08f6ea2</version>
       <version>1.11.2</version>
+      <version>1.11.3-snapshot.20211110.6439.0.632ba5a7</version>
       <version>1.12.0-snapshot.20210309.6463.0.f7abca91</version>
       <version>1.12.0-snapshot.20210311.6483.0.5cb857d9</version>
       <version>1.12.0-snapshot.20210311.6490.0.8e25227c</version>
@@ -170,7 +171,8 @@
       <version>1.18.0-snapshot.20211019.8113.0.8ff347d8</version>
       <version>1.18.0-snapshot.20211026.8179.0.e474b2d1</version>
       <version>1.18.0-snapshot.20211102.8257.0.7391a3cd</version>
+      <version>1.18.0-snapshot.20211109.8328.0.92181161</version>
     </versions>
-    <lastUpdated>20211103111531</lastUpdated>
+    <lastUpdated>20211110231451</lastUpdated>
   </versioning>
 </metadata>
