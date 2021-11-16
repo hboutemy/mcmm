@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>bgp-flowspec</artifactId>
   <versioning>
-    <latest>0.16.9</latest>
-    <release>0.16.9</release>
+    <latest>0.16.10</latest>
+    <release>0.16.10</release>
     <versions>
       <version>0.4.0-Lithium</version>
       <version>0.4.1-Lithium-SR1</version>
@@ -71,7 +71,8 @@
       <version>0.16.7</version>
       <version>0.16.8</version>
       <version>0.16.9</version>
+      <version>0.16.10</version>
     </versions>
-    <lastUpdated>20211108065108</lastUpdated>
+    <lastUpdated>20211115203314</lastUpdated>
   </versioning>
 </metadata>
