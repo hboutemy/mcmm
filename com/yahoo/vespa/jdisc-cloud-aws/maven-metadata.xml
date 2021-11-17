@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>jdisc-cloud-aws</artifactId>
   <versioning>
-    <latest>7.499.15</latest>
-    <release>7.499.15</release>
+    <latest>7.501.17</latest>
+    <release>7.501.17</release>
     <versions>
       <version>7.350.53</version>
       <version>7.351.32</version>
@@ -119,7 +119,9 @@
       <version>7.495.22</version>
       <version>7.496.44</version>
       <version>7.499.15</version>
+      <version>7.500.40</version>
+      <version>7.501.17</version>
     </versions>
-    <lastUpdated>20211111191406</lastUpdated>
+    <lastUpdated>20211116192120</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-spanner-parent</artifactId>
   <versioning>
-    <latest>6.15.2</latest>
-    <release>6.15.2</release>
+    <latest>6.16.0</latest>
+    <release>6.16.0</release>
     <versions>
       <version>1.48.0</version>
       <version>1.49.0</version>
@@ -84,12 +84,13 @@
       <version>6.15.0</version>
       <version>6.15.1</version>
       <version>6.15.2</version>
+      <version>6.16.0</version>
       <version>3.3.3</version>
       <version>3.3.3-sp.1</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
     </versions>
-    <lastUpdated>20211111232114</lastUpdated>
+    <lastUpdated>20211115231326</lastUpdated>
   </versioning>
 </metadata>
