@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-devmode-test-utils</artifactId>
   <versioning>
-    <latest>2.5.0.CR1</latest>
-    <release>2.5.0.CR1</release>
+    <latest>2.5.0.Final</latest>
+    <release>2.5.0.Final</release>
     <versions>
       <version>1.5.0.CR1</version>
       <version>1.5.0.Final</version>
@@ -91,7 +91,8 @@
       <version>2.4.1.Final</version>
       <version>2.4.2.Final</version>
       <version>2.5.0.CR1</version>
+      <version>2.5.0.Final</version>
     </versions>
-    <lastUpdated>20211112044630</lastUpdated>
+    <lastUpdated>20211117094208</lastUpdated>
   </versioning>
 </metadata>

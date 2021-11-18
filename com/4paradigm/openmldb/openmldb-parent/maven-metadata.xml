@@ -3,8 +3,8 @@
   <groupId>com.4paradigm.openmldb</groupId>
   <artifactId>openmldb-parent</artifactId>
   <versioning>
-    <latest>0.3.0-macos</latest>
-    <release>0.3.0-macos</release>
+    <latest>0.3.1-macos</latest>
+    <release>0.3.1-macos</release>
     <versions>
       <version>0.1.5-pre</version>
       <version>0.1.5-pre-1</version>
@@ -24,7 +24,10 @@
       <version>0.2.3-macos</version>
       <version>0.3.0</version>
       <version>0.3.0-macos</version>
+      <version>0.3.1</version>
+      <version>0.3.1-allinone</version>
+      <version>0.3.1-macos</version>
     </versions>
-    <lastUpdated>20211106033042</lastUpdated>
+    <lastUpdated>20211117112609</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>grpc-google-cloud-bigquerystorage-v1beta1</artifactId>
   <versioning>
-    <latest>0.130.0</latest>
-    <release>0.130.0</release>
+    <latest>0.130.2</latest>
+    <release>0.130.2</release>
     <versions>
       <version>0.36.0</version>
       <version>0.37.0</version>
@@ -163,7 +163,9 @@
       <version>0.129.0</version>
       <version>0.129.1</version>
       <version>0.130.0</version>
+      <version>0.130.1</version>
+      <version>0.130.2</version>
     </versions>
-    <lastUpdated>20211115180041</lastUpdated>
+    <lastUpdated>20211117221100</lastUpdated>
   </versioning>
 </metadata>
