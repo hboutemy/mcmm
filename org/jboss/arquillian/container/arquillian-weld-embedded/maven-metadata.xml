@@ -3,8 +3,8 @@
   <groupId>org.jboss.arquillian.container</groupId>
   <artifactId>arquillian-weld-embedded</artifactId>
   <versioning>
-    <latest>3.0.0.Final</latest>
-    <release>3.0.0.Final</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -19,7 +19,8 @@
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Final</version>
+      <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20210809220818</lastUpdated>
+    <lastUpdated>20211118131055</lastUpdated>
   </versioning>
 </metadata>
