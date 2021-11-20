@@ -3,8 +3,8 @@
   <groupId>io.gravitee.gateway.services</groupId>
   <artifactId>gravitee-gateway-services-sync</artifactId>
   <versioning>
-    <latest>3.12.2</latest>
-    <release>3.12.2</release>
+    <latest>3.13.0</latest>
+    <release>3.13.0</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -309,7 +309,9 @@
       <version>3.12.0</version>
       <version>3.12.1</version>
       <version>3.12.2</version>
+      <version>3.12.3</version>
+      <version>3.13.0</version>
     </versions>
-    <lastUpdated>20211118210418</lastUpdated>
+    <lastUpdated>20211119170325</lastUpdated>
   </versioning>
 </metadata>

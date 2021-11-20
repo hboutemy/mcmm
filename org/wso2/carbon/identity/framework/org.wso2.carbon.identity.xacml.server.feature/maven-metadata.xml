@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.xacml.server.feature</artifactId>
   <versioning>
-    <latest>5.20.255</latest>
-    <release>5.20.255</release>
+    <latest>5.20.256</latest>
+    <release>5.20.256</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1886,7 +1886,8 @@
       <version>5.20.253</version>
       <version>5.20.254</version>
       <version>5.20.255</version>
+      <version>5.20.256</version>
     </versions>
-    <lastUpdated>20211118071159</lastUpdated>
+    <lastUpdated>20211119071556</lastUpdated>
   </versioning>
 </metadata>

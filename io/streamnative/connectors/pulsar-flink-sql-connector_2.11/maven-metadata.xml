@@ -3,8 +3,8 @@
   <groupId>io.streamnative.connectors</groupId>
   <artifactId>pulsar-flink-sql-connector_2.11</artifactId>
   <versioning>
-    <latest>1.13.1.4</latest>
-    <release>1.13.1.4</release>
+    <latest>1.13.1.5-rc1</latest>
+    <release>1.13.1.5-rc1</release>
     <versions>
       <version>1.9.3.1</version>
       <version>1.11.1.2</version>
@@ -35,7 +35,8 @@
       <version>1.13.1.2</version>
       <version>1.13.1.3</version>
       <version>1.13.1.4</version>
+      <version>1.13.1.5-rc1</version>
     </versions>
-    <lastUpdated>20211103034404</lastUpdated>
+    <lastUpdated>20211119221205</lastUpdated>
   </versioning>
 </metadata>
