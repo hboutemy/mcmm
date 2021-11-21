@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven ANTLR Plugin</name>
+      <prefix>antlr</prefix>
+      <artifactId>antlr-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>renderkitdoc-maven-plugin</name>
       <prefix>renderkitdoc</prefix>
       <artifactId>renderkitdoc-maven-plugin</artifactId>
