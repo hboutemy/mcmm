@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Qbicc Build Tools Maven Plugin</name>
+      <prefix>qbicc-rt-openjdk-build-tools</prefix>
+      <artifactId>qbicc-rt-openjdk-build-tools-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
