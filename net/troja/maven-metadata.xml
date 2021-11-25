@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Trojan Source Maven Plugin</name>
+      <prefix>trojan-source</prefix>
+      <artifactId>trojan-source-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

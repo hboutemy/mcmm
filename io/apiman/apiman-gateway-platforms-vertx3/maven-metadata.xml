@@ -3,8 +3,8 @@
   <groupId>io.apiman</groupId>
   <artifactId>apiman-gateway-platforms-vertx3</artifactId>
   <versioning>
-    <latest>2.1.0.Final</latest>
-    <release>2.1.0.Final</release>
+    <latest>2.1.2.Final</latest>
+    <release>2.1.2.Final</release>
     <versions>
       <version>1.2.2.Final</version>
       <version>1.2.3.CR1</version>
@@ -38,7 +38,9 @@
       <version>1.5.7.Final</version>
       <version>2.0.0.Final</version>
       <version>2.1.0.Final</version>
+      <version>2.1.1.Final</version>
+      <version>2.1.2.Final</version>
     </versions>
-    <lastUpdated>20210723102039</lastUpdated>
+    <lastUpdated>20211124205048</lastUpdated>
   </versioning>
 </metadata>

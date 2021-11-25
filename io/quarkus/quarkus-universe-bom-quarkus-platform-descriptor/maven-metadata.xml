@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-universe-bom-quarkus-platform-descriptor</artifactId>
   <versioning>
-    <latest>2.5.0.CR1</latest>
-    <release>2.5.0.CR1</release>
+    <latest>2.5.0.Final</latest>
+    <release>2.5.0.Final</release>
     <versions>
       <version>1.10.1.Final</version>
       <version>1.10.2.Final</version>
@@ -38,6 +38,7 @@
       <version>2.4.1.Final</version>
       <version>2.4.2.Final</version>
       <version>2.5.0.CR1</version>
+      <version>2.5.0.Final</version>
       <version>1.11.0.Final</version>
       <version>1.11.1.Final</version>
       <version>1.11.2.Final</version>
@@ -51,6 +52,6 @@
       <version>1.13.1.Final</version>
       <version>1.13.2.Final</version>
     </versions>
-    <lastUpdated>20211112104726</lastUpdated>
+    <lastUpdated>20211124091552</lastUpdated>
   </versioning>
 </metadata>
