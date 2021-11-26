@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.inbound.authentication.category.feature</artifactId>
   <versioning>
-    <latest>5.20.259</latest>
-    <release>5.20.259</release>
+    <latest>5.20.261</latest>
+    <release>5.20.261</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1889,7 +1889,9 @@
       <version>5.20.257</version>
       <version>5.20.258</version>
       <version>5.20.259</version>
+      <version>5.20.260</version>
+      <version>5.20.261</version>
     </versions>
-    <lastUpdated>20211123041819</lastUpdated>
+    <lastUpdated>20211125111438</lastUpdated>
   </versioning>
 </metadata>
