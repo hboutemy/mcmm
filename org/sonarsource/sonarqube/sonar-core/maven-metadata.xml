@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.sonarqube</groupId>
   <artifactId>sonar-core</artifactId>
   <versioning>
-    <latest>9.2.0.49834</latest>
-    <release>9.2.0.49834</release>
+    <latest>9.2.1.49989</latest>
+    <release>9.2.1.49989</release>
     <versions>
       <version>5.2-RC2</version>
       <version>5.2-RC3</version>
@@ -104,7 +104,8 @@
       <version>9.1.0.47736</version>
       <version>9.2.0.49796</version>
       <version>9.2.0.49834</version>
+      <version>9.2.1.49989</version>
     </versions>
-    <lastUpdated>20211119143337</lastUpdated>
+    <lastUpdated>20211126095947</lastUpdated>
   </versioning>
 </metadata>
