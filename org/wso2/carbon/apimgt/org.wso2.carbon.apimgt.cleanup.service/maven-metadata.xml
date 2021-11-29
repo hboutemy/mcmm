@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.cleanup.service</artifactId>
   <versioning>
-    <latest>9.5.1</latest>
-    <release>9.5.1</release>
+    <latest>9.5.3</latest>
+    <release>9.5.3</release>
     <versions>
       <version>9.0.303</version>
       <version>9.0.304</version>
@@ -119,7 +119,9 @@
       <version>9.4.2</version>
       <version>9.5.0</version>
       <version>9.5.1</version>
+      <version>9.5.2</version>
+      <version>9.5.3</version>
     </versions>
-    <lastUpdated>20211127203524</lastUpdated>
+    <lastUpdated>20211128170250</lastUpdated>
   </versioning>
 </metadata>
