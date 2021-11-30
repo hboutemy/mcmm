@@ -352,7 +352,7 @@
       <artifactId>minijar-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Mock Repository Manager: Maven Plugin</name>
+      <name>Mock Repository Manager :: Maven Plugin</name>
       <prefix>mrm</prefix>
       <artifactId>mrm-maven-plugin</artifactId>
     </plugin>

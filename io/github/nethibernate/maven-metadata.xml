@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Protocol Buffers Plugin</name>
+      <prefix>protobuf</prefix>
+      <artifactId>protobuf-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Protostuff Compiler - Maven Plugin</name>
       <prefix>protostuff</prefix>
       <artifactId>protostuff-maven-plugin</artifactId>

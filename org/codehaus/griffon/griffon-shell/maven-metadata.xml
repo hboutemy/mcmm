@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.codehaus.griffon</groupId>
   <artifactId>griffon-shell</artifactId>
-  <version>0.9.5-rc1</version>
   <versioning>
+    <latest>1.4.0</latest>
+    <release>1.4.0</release>
     <versions>
       <version>0.9.5-rc1</version>
       <version>0.9.5-rc2</version>
@@ -16,6 +17,6 @@
       <version>1.3.0</version>
       <version>1.4.0</version>
     </versions>
-    <lastUpdated>20130910064535</lastUpdated>
+    <lastUpdated>20211129225317</lastUpdated>
   </versioning>
 </metadata>

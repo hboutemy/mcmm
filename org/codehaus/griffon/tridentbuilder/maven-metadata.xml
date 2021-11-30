@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.codehaus.griffon</groupId>
   <artifactId>tridentbuilder</artifactId>
-  <version>0.4</version>
   <versioning>
+    <latest>0.6</latest>
+    <release>0.6</release>
     <versions>
       <version>0.4</version>
       <version>0.5</version>
       <version>0.6</version>
     </versions>
-    <lastUpdated>20120213223150</lastUpdated>
+    <lastUpdated>20211129225315</lastUpdated>
   </versioning>
 </metadata>
