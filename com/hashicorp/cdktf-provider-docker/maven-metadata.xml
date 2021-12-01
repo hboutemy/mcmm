@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-docker</artifactId>
   <versioning>
-    <latest>0.3.248</latest>
-    <release>0.3.248</release>
+    <latest>0.3.255</latest>
+    <release>0.3.255</release>
     <versions>
       <version>0.3.11</version>
       <version>0.3.12</version>
@@ -237,7 +237,13 @@
       <version>0.3.246</version>
       <version>0.3.247</version>
       <version>0.3.248</version>
+      <version>0.3.249</version>
+      <version>0.3.250</version>
+      <version>0.3.251</version>
+      <version>0.3.253</version>
+      <version>0.3.254</version>
+      <version>0.3.255</version>
     </versions>
-    <lastUpdated>20211129202302</lastUpdated>
+    <lastUpdated>20211130202320</lastUpdated>
   </versioning>
 </metadata>
