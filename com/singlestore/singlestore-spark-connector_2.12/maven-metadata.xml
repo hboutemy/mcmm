@@ -3,15 +3,17 @@
   <groupId>com.singlestore</groupId>
   <artifactId>singlestore-spark-connector_2.12</artifactId>
   <versioning>
-    <latest>3.1.3-spark-3.1.0</latest>
-    <release>3.1.3-spark-3.1.0</release>
+    <latest>3.2.0-spark-3.1.0</latest>
+    <release>3.2.0-spark-3.1.0</release>
     <versions>
       <version>3.1.0-spark-3.0.0</version>
       <version>3.1.1-spark-3.0.0</version>
       <version>3.1.2-spark-3.0.0</version>
       <version>3.1.3-spark-3.0.0</version>
       <version>3.1.3-spark-3.1.0</version>
+      <version>3.2.0-spark-3.0.0</version>
+      <version>3.2.0-spark-3.1.0</version>
     </versions>
-    <lastUpdated>20210916182156</lastUpdated>
+    <lastUpdated>20211201084223</lastUpdated>
   </versioning>
 </metadata>

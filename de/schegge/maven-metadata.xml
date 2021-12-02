@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>REST Markdown Maven Plugin</name>
+      <prefix>rest-markdown</prefix>
+      <artifactId>rest-markdown-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

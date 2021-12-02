@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-okhttp-3.0</artifactId>
   <versioning>
-    <latest>1.9.0-alpha</latest>
-    <release>1.9.0-alpha</release>
+    <latest>1.9.1-alpha</latest>
+    <release>1.9.1-alpha</release>
     <versions>
       <version>1.0.0-alpha</version>
       <version>1.0.1-alpha</version>
@@ -26,7 +26,8 @@
       <version>1.7.2-alpha</version>
       <version>1.8.0-alpha</version>
       <version>1.9.0-alpha</version>
+      <version>1.9.1-alpha</version>
     </versions>
-    <lastUpdated>20211125080901</lastUpdated>
+    <lastUpdated>20211201084310</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.onosproject</groupId>
   <artifactId>onos-build-conf</artifactId>
   <versioning>
-    <latest>2.6.0</latest>
-    <release>2.6.0</release>
+    <latest>2.7.0-rc1</latest>
+    <release>2.7.0-rc1</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -155,8 +155,9 @@
       <version>2.6.0-rc4</version>
       <version>2.6.0-rc5</version>
       <version>2.6.0</version>
+      <version>2.7.0-rc1</version>
       <version>1.10.3-onf</version>
     </versions>
-    <lastUpdated>20211008000042</lastUpdated>
+    <lastUpdated>20211201182815</lastUpdated>
   </versioning>
 </metadata>
