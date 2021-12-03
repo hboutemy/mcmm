@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-transactions</artifactId>
   <versioning>
-    <latest>25.0.1.Final</latest>
-    <release>25.0.1.Final</release>
+    <latest>26.0.0.Beta1</latest>
+    <release>26.0.0.Beta1</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -92,7 +92,8 @@
       <version>25.0.0.Beta1</version>
       <version>25.0.0.Final</version>
       <version>25.0.1.Final</version>
+      <version>26.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20211102170838</lastUpdated>
+    <lastUpdated>20211202191328</lastUpdated>
   </versioning>
 </metadata>

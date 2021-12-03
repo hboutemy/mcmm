@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dependencies</artifactId>
   <versioning>
-    <latest>2020.0.4</latest>
-    <release>2020.0.4</release>
+    <latest>2021.0.0</latest>
+    <release>2021.0.0</release>
     <versions>
       <version>Angel.SR5</version>
       <version>Angel.SR6</version>
@@ -60,14 +60,15 @@
       <version>Hoxton.SR8</version>
       <version>Hoxton.SR9</version>
       <version>Hoxton.SR10</version>
-      <version>Hoxton.SR11</version>
-      <version>Hoxton.SR12</version>
       <version>2020.0.0</version>
       <version>2020.0.1</version>
+      <version>2021.0.0</version>
       <version>2020.0.2</version>
       <version>2020.0.3</version>
       <version>2020.0.4</version>
+      <version>Hoxton.SR11</version>
+      <version>Hoxton.SR12</version>
     </versions>
-    <lastUpdated>20210922082953</lastUpdated>
+    <lastUpdated>20211202000115</lastUpdated>
   </versioning>
 </metadata>

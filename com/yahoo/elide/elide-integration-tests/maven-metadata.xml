@@ -3,8 +3,8 @@
   <groupId>com.yahoo.elide</groupId>
   <artifactId>elide-integration-tests</artifactId>
   <versioning>
-    <latest>6.0.2</latest>
-    <release>6.0.2</release>
+    <latest>6.0.3</latest>
+    <release>6.0.3</release>
     <versions>
       <version>4.7.2</version>
       <version>4.8.0</version>
@@ -23,6 +23,7 @@
       <version>5.0.12</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.1.2</version>
       <version>6.0.0</version>
       <version>6.0.0-pr3</version>
       <version>6.0.0-pr4</version>
@@ -31,7 +32,8 @@
       <version>6.0.0-pr7</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
+      <version>6.0.3</version>
     </versions>
-    <lastUpdated>20211118152546</lastUpdated>
+    <lastUpdated>20211202223427</lastUpdated>
   </versioning>
 </metadata>

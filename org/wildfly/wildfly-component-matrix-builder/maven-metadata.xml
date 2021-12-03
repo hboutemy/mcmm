@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-component-matrix-builder</artifactId>
   <versioning>
-    <latest>25.0.1.Final</latest>
-    <release>25.0.1.Final</release>
+    <latest>26.0.0.Beta1</latest>
+    <release>26.0.0.Beta1</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
@@ -49,7 +49,8 @@
       <version>25.0.0.Beta1</version>
       <version>25.0.0.Final</version>
       <version>25.0.1.Final</version>
+      <version>26.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20211102170634</lastUpdated>
+    <lastUpdated>20211202191207</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-cloudinit</artifactId>
   <versioning>
-    <latest>0.1.1</latest>
-    <release>0.1.1</release>
+    <latest>0.1.7</latest>
+    <release>0.1.7</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -243,7 +243,13 @@
       <version>0.0.239</version>
       <version>0.1.0</version>
       <version>0.1.1</version>
+      <version>0.1.2</version>
+      <version>0.1.3</version>
+      <version>0.1.4</version>
+      <version>0.1.5</version>
+      <version>0.1.6</version>
+      <version>0.1.7</version>
     </versions>
-    <lastUpdated>20211201201828</lastUpdated>
+    <lastUpdated>20211202202216</lastUpdated>
   </versioning>
 </metadata>
