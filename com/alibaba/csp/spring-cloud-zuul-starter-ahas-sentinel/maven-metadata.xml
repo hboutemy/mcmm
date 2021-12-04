@@ -3,8 +3,8 @@
   <groupId>com.alibaba.csp</groupId>
   <artifactId>spring-cloud-zuul-starter-ahas-sentinel</artifactId>
   <versioning>
-    <latest>1.5.1</latest>
-    <release>1.5.1</release>
+    <latest>1.5.2</latest>
+    <release>1.5.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-pass</version>
@@ -47,7 +47,8 @@
       <version>1.4.7</version>
       <version>1.5.0</version>
       <version>1.5.1</version>
+      <version>1.5.2</version>
     </versions>
-    <lastUpdated>20211102060159</lastUpdated>
+    <lastUpdated>20211203062941</lastUpdated>
   </versioning>
 </metadata>

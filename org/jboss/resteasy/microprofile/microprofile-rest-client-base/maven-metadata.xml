@@ -3,13 +3,14 @@
   <groupId>org.jboss.resteasy.microprofile</groupId>
   <artifactId>microprofile-rest-client-base</artifactId>
   <versioning>
-    <latest>1.0.0.Beta1</latest>
-    <release>1.0.0.Beta1</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
       <version>1.0.0.Beta1</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20211015231838</lastUpdated>
+    <lastUpdated>20211203190350</lastUpdated>
   </versioning>
 </metadata>
