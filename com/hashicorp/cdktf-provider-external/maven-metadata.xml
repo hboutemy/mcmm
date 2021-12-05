@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-external</artifactId>
   <versioning>
-    <latest>0.2.14</latest>
-    <release>0.2.14</release>
+    <latest>0.2.21</latest>
+    <release>0.2.21</release>
     <versions>
       <version>0.1.13</version>
       <version>0.1.14</version>
@@ -249,7 +249,14 @@
       <version>0.2.12</version>
       <version>0.2.13</version>
       <version>0.2.14</version>
+      <version>0.2.15</version>
+      <version>0.2.16</version>
+      <version>0.2.17</version>
+      <version>0.2.18</version>
+      <version>0.2.19</version>
+      <version>0.2.20</version>
+      <version>0.2.21</version>
     </versions>
-    <lastUpdated>20211203202121</lastUpdated>
+    <lastUpdated>20211204202023</lastUpdated>
   </versioning>
 </metadata>

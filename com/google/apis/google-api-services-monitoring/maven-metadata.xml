@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-monitoring</artifactId>
   <versioning>
-    <latest>v3-rev20211031-1.32.1</latest>
-    <release>v3-rev20211031-1.32.1</release>
+    <latest>v3-rev20211201-1.32.1</latest>
+    <release>v3-rev20211201-1.32.1</release>
     <versions>
       <version>v1-rev1-1.22.0</version>
       <version>v1-rev1-1.23.0</version>
@@ -731,7 +731,8 @@
       <version>v3-rev20210926-1.32.1</version>
       <version>v3-rev20211017-1.32.1</version>
       <version>v3-rev20211031-1.32.1</version>
+      <version>v3-rev20211201-1.32.1</version>
     </versions>
-    <lastUpdated>20211112210739</lastUpdated>
+    <lastUpdated>20211204210943</lastUpdated>
   </versioning>
 </metadata>
