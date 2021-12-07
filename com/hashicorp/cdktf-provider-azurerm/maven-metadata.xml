@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-azurerm</artifactId>
   <versioning>
-    <latest>0.3.25</latest>
-    <release>0.3.25</release>
+    <latest>0.3.31</latest>
+    <release>0.3.31</release>
     <versions>
       <version>0.2.12</version>
       <version>0.2.13</version>
@@ -252,7 +252,13 @@
       <version>0.3.23</version>
       <version>0.3.24</version>
       <version>0.3.25</version>
+      <version>0.3.26</version>
+      <version>0.3.27</version>
+      <version>0.3.28</version>
+      <version>0.3.29</version>
+      <version>0.3.30</version>
+      <version>0.3.31</version>
     </versions>
-    <lastUpdated>20211205203552</lastUpdated>
+    <lastUpdated>20211206203643</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>de.adorsys.psd2</groupId>
   <artifactId>aspsp-profile-server</artifactId>
   <versioning>
-    <latest>13.2</latest>
-    <release>13.2</release>
+    <latest>13.3</latest>
+    <release>13.3</release>
     <versions>
       <version>1.8</version>
       <version>1.9</version>
@@ -191,10 +191,12 @@
       <version>12.0</version>
       <version>12.1</version>
       <version>12.2</version>
+      <version>12.3</version>
       <version>13.0</version>
       <version>13.1</version>
       <version>13.2</version>
+      <version>13.3</version>
     </versions>
-    <lastUpdated>20211117115346</lastUpdated>
+    <lastUpdated>20211206152609</lastUpdated>
   </versioning>
 </metadata>
