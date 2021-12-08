@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.sql</groupId>
   <artifactId>cloud-sql-connector-r2dbc-mysql</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.4.1</latest>
+    <release>1.4.1</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0</version>
@@ -17,7 +17,8 @@
       <version>1.3.3</version>
       <version>1.3.4</version>
       <version>1.4.0</version>
+      <version>1.4.1</version>
     </versions>
-    <lastUpdated>20211102211645</lastUpdated>
+    <lastUpdated>20211207232607</lastUpdated>
   </versioning>
 </metadata>

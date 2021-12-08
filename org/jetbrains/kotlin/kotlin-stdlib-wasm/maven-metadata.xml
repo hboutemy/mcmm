@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-stdlib-wasm</artifactId>
   <versioning>
-    <latest>1.6.0</latest>
-    <release>1.6.0</release>
+    <latest>1.6.10-RC</latest>
+    <release>1.6.10-RC</release>
     <versions>
       <version>1.5.0-M1</version>
       <version>1.5.0-M2</version>
@@ -24,7 +24,8 @@
       <version>1.6.0-RC</version>
       <version>1.6.0-RC2</version>
       <version>1.6.0</version>
+      <version>1.6.10-RC</version>
     </versions>
-    <lastUpdated>20211129083543</lastUpdated>
+    <lastUpdated>20211207090110</lastUpdated>
   </versioning>
 </metadata>

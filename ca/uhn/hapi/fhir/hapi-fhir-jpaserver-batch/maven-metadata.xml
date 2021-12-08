@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-jpaserver-batch</artifactId>
   <versioning>
-    <latest>5.5.3</latest>
-    <release>5.5.3</release>
+    <latest>5.5.4</latest>
+    <release>5.5.4</release>
     <versions>
       <version>5.1.0</version>
       <version>5.2.0</version>
@@ -19,7 +19,8 @@
       <version>5.5.1</version>
       <version>5.5.2</version>
       <version>5.5.3</version>
+      <version>5.5.4</version>
     </versions>
-    <lastUpdated>20211028231202</lastUpdated>
+    <lastUpdated>20211207212237</lastUpdated>
   </versioning>
 </metadata>
