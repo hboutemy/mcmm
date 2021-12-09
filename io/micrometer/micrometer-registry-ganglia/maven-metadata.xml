@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-registry-ganglia</artifactId>
   <versioning>
-    <latest>1.8.0</latest>
-    <release>1.8.0</release>
+    <latest>1.8.1</latest>
+    <release>1.8.1</release>
     <versions>
       <version>0.12.0.RELEASE</version>
       <version>1.0.0-rc.1</version>
@@ -110,11 +110,13 @@
       <version>1.7.4</version>
       <version>1.7.5</version>
       <version>1.7.6</version>
+      <version>1.7.7</version>
       <version>1.8.0</version>
+      <version>1.8.1</version>
       <version>1.3.17</version>
       <version>1.5.11</version>
       <version>1.6.4</version>
     </versions>
-    <lastUpdated>20211111101359</lastUpdated>
+    <lastUpdated>20211208010010</lastUpdated>
   </versioning>
 </metadata>
