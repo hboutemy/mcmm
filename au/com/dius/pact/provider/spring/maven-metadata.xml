@@ -3,8 +3,8 @@
   <groupId>au.com.dius.pact.provider</groupId>
   <artifactId>spring</artifactId>
   <versioning>
-    <latest>4.3.1</latest>
-    <release>4.3.1</release>
+    <latest>4.3.2</latest>
+    <release>4.3.2</release>
     <versions>
       <version>4.1.0</version>
       <version>4.1.1</version>
@@ -37,6 +37,7 @@
       <version>4.1.28</version>
       <version>4.1.29</version>
       <version>4.1.30</version>
+      <version>4.1.31</version>
       <version>4.2.0-beta.0</version>
       <version>4.2.0-beta.1</version>
       <version>4.2.0-beta.2</version>
@@ -57,6 +58,8 @@
       <version>4.2.13</version>
       <version>4.2.14</version>
       <version>4.2.15</version>
+      <version>4.2.16</version>
+      <version>4.2.17</version>
       <version>4.3.0-beta.0</version>
       <version>4.3.0-beta.1</version>
       <version>4.3.0-beta.2</version>
@@ -66,7 +69,8 @@
       <version>4.3.0-beta.6</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
+      <version>4.3.2</version>
     </versions>
-    <lastUpdated>20211208061416</lastUpdated>
+    <lastUpdated>20211209062436</lastUpdated>
   </versioning>
 </metadata>
