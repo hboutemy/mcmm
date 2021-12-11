@@ -3,8 +3,8 @@
   <groupId>io.joynr.tools</groupId>
   <artifactId>generator</artifactId>
   <versioning>
-    <latest>1.19.2</latest>
-    <release>1.19.2</release>
+    <latest>1.19.3</latest>
+    <release>1.19.3</release>
     <versions>
       <version>0.5.0</version>
       <version>0.6.0</version>
@@ -181,8 +181,9 @@
       <version>1.19.0</version>
       <version>1.19.1</version>
       <version>1.19.2</version>
+      <version>1.19.3</version>
     </versions>
-    <lastUpdated>20211125192044</lastUpdated>
+    <lastUpdated>20211210084357</lastUpdated>
   </versioning>
   <plugins>
     <plugin>

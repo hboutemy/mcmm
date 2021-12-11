@@ -3,8 +3,8 @@
   <groupId>io.nats.bridge</groupId>
   <artifactId>nats-jms-bridge-message</artifactId>
   <versioning>
-    <latest>1.0.0</latest>
-    <release>1.0.0</release>
+    <latest>1.0.1</latest>
+    <release>1.0.1</release>
     <versions>
       <version>0.0.0-notforuse-01</version>
       <version>0.0.0-notforuse-02</version>
@@ -42,7 +42,8 @@
       <version>0.29.0-beta27</version>
       <version>0.29.0-beta-28</version>
       <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20210614172133</lastUpdated>
+    <lastUpdated>20211210223333</lastUpdated>
   </versioning>
 </metadata>

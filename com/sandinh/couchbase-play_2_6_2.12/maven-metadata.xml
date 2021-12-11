@@ -3,8 +3,8 @@
   <groupId>com.sandinh</groupId>
   <artifactId>couchbase-play_2_6_2.12</artifactId>
   <versioning>
-    <latest>10.0.0-M2</latest>
-    <release>10.0.0-M2</release>
+    <latest>10.0.0-M4</latest>
+    <release>10.0.0-M4</release>
     <versions>
       <version>9.0.0-RC1</version>
       <version>9.0.0-RC2</version>
@@ -12,9 +12,12 @@
       <version>9.1.0-RC1</version>
       <version>9.1.0-RC2</version>
       <version>9.1.0</version>
+      <version>9.2.0</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M2</version>
+      <version>10.0.0-M3</version>
+      <version>10.0.0-M4</version>
     </versions>
-    <lastUpdated>20211209122823</lastUpdated>
+    <lastUpdated>20211210152621</lastUpdated>
   </versioning>
 </metadata>
