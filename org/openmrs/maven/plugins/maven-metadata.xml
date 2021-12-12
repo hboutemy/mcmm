@@ -11,5 +11,15 @@
       <prefix>openmrs-sdk</prefix>
       <artifactId>openmrs-sdk-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>OpenMRS SDK Tomcat7 Maven Plugin</name>
+      <prefix>openmrs-sdk-tomcat7</prefix>
+      <artifactId>openmrs-sdk-tomcat7-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>OpenMRS SDK Tomcat9 Maven Plugin</name>
+      <prefix>openmrs-sdk-tomcat9</prefix>
+      <artifactId>openmrs-sdk-tomcat9-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
