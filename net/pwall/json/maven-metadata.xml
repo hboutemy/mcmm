@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JSON Schema code generation plugin</name>
+      <prefix>json-kotlin</prefix>
+      <artifactId>json-kotlin-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
