@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-bom</artifactId>
   <versioning>
-    <latest>7.5.1</latest>
-    <release>7.5.1</release>
+    <latest>7.5.2</latest>
+    <release>7.5.2</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -177,6 +177,7 @@
       <version>7.2.9</version>
       <version>7.2.10</version>
       <version>7.2.11</version>
+      <version>7.2.12</version>
       <version>7.3.0-rc1</version>
       <version>7.3.0-rc2</version>
       <version>7.3.0-rc3</version>
@@ -192,6 +193,7 @@
       <version>7.3.9</version>
       <version>7.3.10</version>
       <version>7.3.11</version>
+      <version>7.3.12</version>
       <version>7.4.0-rc1</version>
       <version>7.4.0-rc2</version>
       <version>7.4.0-rc3</version>
@@ -204,12 +206,14 @@
       <version>7.4.6</version>
       <version>7.4.7</version>
       <version>7.4.8</version>
+      <version>7.4.9</version>
       <version>7.5.0-rc1</version>
       <version>7.5.0-rc2</version>
       <version>7.5.0-rc3</version>
       <version>7.5.0</version>
       <version>7.5.1</version>
+      <version>7.5.2</version>
     </versions>
-    <lastUpdated>20211207212532</lastUpdated>
+    <lastUpdated>20211213132520</lastUpdated>
   </versioning>
 </metadata>

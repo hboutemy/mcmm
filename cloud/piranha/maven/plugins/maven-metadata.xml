@@ -2,9 +2,14 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Piranha Maven Plugins - Piranha Micro</name>
+      <name>Piranha Micro Maven Plugin</name>
       <prefix>piranha-micro</prefix>
       <artifactId>piranha-micro-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Piranha Server Maven Plugin</name>
+      <prefix>piranha-server</prefix>
+      <artifactId>piranha-server-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
