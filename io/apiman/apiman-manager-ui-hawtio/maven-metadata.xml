@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>io.apiman</groupId>
   <artifactId>apiman-manager-ui-hawtio</artifactId>
   <versioning>
     <latest>1.2.1.Final</latest>
     <release>1.2.1.Final</release>
     <versions>
-      <version>1.2.0.Beta2</version>
-      <version>1.2.1.Final</version>
-      <version>1.1.0.Final</version>
       <version>1.1.0.RC3</version>
+      <version>1.1.0.Final</version>
       <version>1.1.1.Final</version>
       <version>1.1.2.Final</version>
       <version>1.1.2.Preview1</version>
@@ -21,7 +19,11 @@
       <version>1.1.6.Final</version>
       <version>1.2.0.Alpha3</version>
       <version>1.2.0.Beta1</version>
+      <version>1.2.0.Beta2</version>
+      <version>1.2.0.Beta3</version>
+      <version>1.2.0.Final</version>
+      <version>1.2.1.Final</version>
     </versions>
-    <lastUpdated>20160121192704</lastUpdated>
+    <lastUpdated>20211215212027</lastUpdated>
   </versioning>
 </metadata>

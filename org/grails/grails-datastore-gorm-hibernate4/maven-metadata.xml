@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm-hibernate4</artifactId>
   <versioning>
@@ -39,6 +39,8 @@
       <version>4.0.0.M4</version>
       <version>4.0.0.RC1</version>
       <version>4.0.0.RELEASE</version>
+      <version>4.0.1.RELEASE</version>
+      <version>4.0.3.RELEASE</version>
       <version>4.0.4.RELEASE</version>
       <version>4.0.5.RELEASE</version>
       <version>4.0.6.RELEASE</version>
@@ -88,9 +90,7 @@
       <version>6.1.6.RELEASE</version>
       <version>6.1.7.RELEASE</version>
       <version>6.1.8.RELEASE</version>
-      <version>4.0.1.RELEASE</version>
-      <version>4.0.3.RELEASE</version>
     </versions>
-    <lastUpdated>20171102102240</lastUpdated>
+    <lastUpdated>20211215203345</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-vault-model</artifactId>
   <versioning>
-    <latest>2.5.2.Final</latest>
-    <release>2.5.2.Final</release>
+    <latest>2.5.3.Final</latest>
+    <release>2.5.3.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -62,6 +62,7 @@
       <version>2.2.1.Final</version>
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
+      <version>2.2.4.Final</version>
       <version>2.3.0.CR1</version>
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
@@ -73,7 +74,8 @@
       <version>2.5.0.Final</version>
       <version>2.5.1.Final</version>
       <version>2.5.2.Final</version>
+      <version>2.5.3.Final</version>
     </versions>
-    <lastUpdated>20211210122425</lastUpdated>
+    <lastUpdated>20211215150428</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-kubernetes-client-internal-deployment</artifactId>
   <versioning>
-    <latest>2.6.0.CR1</latest>
-    <release>2.6.0.CR1</release>
+    <latest>2.6.0.Final</latest>
+    <release>2.6.0.Final</release>
     <versions>
       <version>2.0.0.Alpha1</version>
       <version>2.0.0.Alpha2</version>
@@ -27,6 +27,7 @@
       <version>2.2.1.Final</version>
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
+      <version>2.2.4.Final</version>
       <version>2.3.0.CR1</version>
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
@@ -38,8 +39,10 @@
       <version>2.5.0.Final</version>
       <version>2.5.1.Final</version>
       <version>2.5.2.Final</version>
+      <version>2.5.3.Final</version>
       <version>2.6.0.CR1</version>
+      <version>2.6.0.Final</version>
     </versions>
-    <lastUpdated>20211210122152</lastUpdated>
+    <lastUpdated>20211215150220</lastUpdated>
   </versioning>
 </metadata>

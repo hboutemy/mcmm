@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-proxy</artifactId>
   <versioning>
-    <latest>0.266</latest>
-    <release>0.266</release>
+    <latest>0.266.1</latest>
+    <release>0.266.1</release>
     <versions>
       <version>0.205</version>
       <version>0.206</version>
@@ -101,7 +101,8 @@
       <version>0.265</version>
       <version>0.265.1</version>
       <version>0.266</version>
+      <version>0.266.1</version>
     </versions>
-    <lastUpdated>20211204013557</lastUpdated>
+    <lastUpdated>20211214234701</lastUpdated>
   </versioning>
 </metadata>

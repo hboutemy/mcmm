@@ -3,8 +3,8 @@
   <groupId>com.hazelcast</groupId>
   <artifactId>hazelcast-sql-core</artifactId>
   <versioning>
-    <latest>4.2.2</latest>
-    <release>4.2.2</release>
+    <latest>4.2.3</latest>
+    <release>4.2.3</release>
     <versions>
       <version>4.1.1</version>
       <version>4.1.2</version>
@@ -12,11 +12,13 @@
       <version>4.1.4</version>
       <version>4.1.5</version>
       <version>4.1.6</version>
+      <version>4.1.7</version>
       <version>4.2-BETA-1</version>
       <version>4.2</version>
       <version>4.2.1</version>
       <version>4.2.2</version>
+      <version>4.2.3</version>
     </versions>
-    <lastUpdated>20211026061159</lastUpdated>
+    <lastUpdated>20211215052829</lastUpdated>
   </versioning>
 </metadata>
