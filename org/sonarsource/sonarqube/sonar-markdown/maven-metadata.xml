@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.sonarqube</groupId>
   <artifactId>sonar-markdown</artifactId>
   <versioning>
-    <latest>9.2.2.50622</latest>
-    <release>9.2.2.50622</release>
+    <latest>9.2.3.50713</latest>
+    <release>9.2.3.50713</release>
     <versions>
       <version>5.2-RC2</version>
       <version>5.2-RC3</version>
@@ -104,6 +104,7 @@
       <version>8.9.2.46101</version>
       <version>8.9.3.48735</version>
       <version>8.9.4.50575</version>
+      <version>8.9.5.50698</version>
       <version>9.0.0.45539</version>
       <version>9.0.1.46107</version>
       <version>9.1.0.47736</version>
@@ -111,7 +112,8 @@
       <version>9.2.0.49834</version>
       <version>9.2.1.49989</version>
       <version>9.2.2.50622</version>
+      <version>9.2.3.50713</version>
     </versions>
-    <lastUpdated>20211214144721</lastUpdated>
+    <lastUpdated>20211216160525</lastUpdated>
   </versioning>
 </metadata>
