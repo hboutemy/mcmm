@@ -3,7 +3,7 @@
   <plugins>
     <plugin>
       <name>bbh-maven-plugin</name>
-      <prefix>bbh</prefix>
+      <prefix>basis-build-helper-plugin</prefix>
       <artifactId>bbh-maven-plugin</artifactId>
     </plugin>
     <plugin>

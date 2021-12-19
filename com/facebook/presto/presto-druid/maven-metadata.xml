@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-druid</artifactId>
   <versioning>
-    <latest>0.266.1</latest>
-    <release>0.266.1</release>
+    <latest>0.267</latest>
+    <release>0.267</release>
     <versions>
       <version>0.233</version>
       <version>0.233.1</version>
@@ -72,7 +72,8 @@
       <version>0.265.1</version>
       <version>0.266</version>
       <version>0.266.1</version>
+      <version>0.267</version>
     </versions>
-    <lastUpdated>20211214234553</lastUpdated>
+    <lastUpdated>20211217235707</lastUpdated>
   </versioning>
 </metadata>

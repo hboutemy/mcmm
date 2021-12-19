@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-filter-events</artifactId>
   <versioning>
@@ -42,6 +42,8 @@
       <version>7.1-milestone-1</version>
       <version>7.1-milestone-2</version>
       <version>7.1-rc-1</version>
+      <version>7.1</version>
+      <version>7.1.1</version>
       <version>7.1.2</version>
       <version>7.1.3</version>
       <version>7.1.4</version>
@@ -274,9 +276,7 @@
       <version>13.10-rc-1</version>
       <version>13.10</version>
       <version>13.10.1</version>
-      <version>7.1</version>
-      <version>7.1.1</version>
     </versions>
-    <lastUpdated>20211214190239</lastUpdated>
+    <lastUpdated>20211217213742</lastUpdated>
   </versioning>
 </metadata>
