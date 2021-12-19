@@ -2,13 +2,13 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>CobiGen - Maven Plug-in</name>
+      <name>CobiGen Maven Plugin</name>
       <prefix>cobigen</prefix>
       <artifactId>cobigen-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>CobiGen Maven Plugin</name>
-      <prefix></prefix>
+      <prefix>cobigen</prefix>
       <artifactId>maven-plugin</artifactId>
     </plugin>
   </plugins>

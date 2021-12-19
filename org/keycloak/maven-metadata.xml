@@ -6,5 +6,10 @@
       <prefix>keycloak-distribution-licenses</prefix>
       <artifactId>keycloak-distribution-licenses-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Keycloak Guides Maven Plugin</name>
+      <prefix>keycloak-guides</prefix>
+      <artifactId>keycloak-guides-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

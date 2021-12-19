@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Wire Protocol Buffer Maven Plugin</name>
       <prefix>wire</prefix>
       <artifactId>wire-maven-plugin</artifactId>
     </plugin>

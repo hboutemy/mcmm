@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.hibernate.javax.persistence</groupId>
   <artifactId>hibernate-jpa-2.1-api</artifactId>
   <versioning>
-    <latest>1.0.2</latest>
-    <release>1.0.2</release>
+    <latest>1.0.2.Final</latest>
+    <release>1.0.2.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.0.0.Draft-6</version>
@@ -13,9 +13,9 @@
       <version>1.0.0.Draft-10</version>
       <version>1.0.0.Draft-14</version>
       <version>1.0.0.Draft-16</version>
-      <version>1.0.2</version>
       <version>1.0.2.Final</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20180123165134</lastUpdated>
+    <lastUpdated>20211212044722</lastUpdated>
   </versioning>
 </metadata>

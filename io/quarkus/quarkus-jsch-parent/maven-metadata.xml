@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jsch-parent</artifactId>
   <versioning>
-    <latest>2.5.3.Final</latest>
-    <release>2.5.3.Final</release>
+    <latest>2.5.4.Final</latest>
+    <release>2.5.4.Final</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.Final</version>
@@ -112,7 +112,8 @@
       <version>2.5.1.Final</version>
       <version>2.5.2.Final</version>
       <version>2.5.3.Final</version>
+      <version>2.5.4.Final</version>
     </versions>
-    <lastUpdated>20211215150212</lastUpdated>
+    <lastUpdated>20211217195011</lastUpdated>
   </versioning>
 </metadata>

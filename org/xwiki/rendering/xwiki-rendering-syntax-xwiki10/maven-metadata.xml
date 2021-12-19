@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-syntax-xwiki10</artifactId>
   <versioning>
@@ -130,6 +130,8 @@
       <version>7.1-milestone-1</version>
       <version>7.1-milestone-2</version>
       <version>7.1-rc-1</version>
+      <version>7.1</version>
+      <version>7.1.1</version>
       <version>7.1.2</version>
       <version>7.1.3</version>
       <version>7.1.4</version>
@@ -150,9 +152,7 @@
       <version>7.4.4</version>
       <version>7.4.5</version>
       <version>7.4.6</version>
-      <version>7.1</version>
-      <version>7.1.1</version>
     </versions>
-    <lastUpdated>20170210160012</lastUpdated>
+    <lastUpdated>20211217201806</lastUpdated>
   </versioning>
 </metadata>

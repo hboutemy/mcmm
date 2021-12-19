@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.squareup.okio</groupId>
   <artifactId>benchmarks</artifactId>
   <versioning>
@@ -8,6 +8,7 @@
     <versions>
       <version>1.3.0</version>
       <version>1.4.0</version>
+      <version>1.5.0</version>
       <version>1.6.0</version>
       <version>1.7.0</version>
       <version>1.8.0</version>
@@ -26,8 +27,7 @@
       <version>1.17.3</version>
       <version>1.17.4</version>
       <version>1.17.5</version>
-      <version>1.5.0</version>
     </versions>
-    <lastUpdated>20191211142935</lastUpdated>
+    <lastUpdated>20211216232313</lastUpdated>
   </versioning>
 </metadata>

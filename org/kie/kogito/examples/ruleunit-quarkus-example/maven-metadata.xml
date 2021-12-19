@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito.examples</groupId>
   <artifactId>ruleunit-quarkus-example</artifactId>
   <versioning>
-    <latest>1.14.0.Final</latest>
-    <release>1.14.0.Final</release>
+    <latest>1.14.1.Final</latest>
+    <release>1.14.1.Final</release>
     <versions>
       <version>0.7.1</version>
       <version>0.8.0</version>
@@ -40,7 +40,8 @@
       <version>1.12.0.Final</version>
       <version>1.13.0.Final</version>
       <version>1.14.0.Final</version>
+      <version>1.14.1.Final</version>
     </versions>
-    <lastUpdated>20211126111411</lastUpdated>
+    <lastUpdated>20211208161615</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-dbkvs</artifactId>
   <versioning>
-    <latest>0.500.0</latest>
-    <release>0.500.0</release>
+    <latest>0.503.0</latest>
+    <release>0.503.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -214,7 +214,10 @@
       <version>0.497.0</version>
       <version>0.499.0</version>
       <version>0.500.0</version>
+      <version>0.501.0</version>
+      <version>0.502.0</version>
+      <version>0.503.0</version>
     </versions>
-    <lastUpdated>20211216212758</lastUpdated>
+    <lastUpdated>20211217204656</lastUpdated>
   </versioning>
 </metadata>

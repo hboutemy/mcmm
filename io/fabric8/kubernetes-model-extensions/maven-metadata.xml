@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-model-extensions</artifactId>
   <versioning>
-    <latest>5.10.1</latest>
-    <release>5.10.1</release>
+    <latest>5.11.0</latest>
+    <release>5.11.0</release>
     <versions>
       <version>4.10.0</version>
       <version>4.10.1</version>
@@ -43,7 +43,8 @@
       <version>5.9.0</version>
       <version>5.10.0</version>
       <version>5.10.1</version>
+      <version>5.11.0</version>
     </versions>
-    <lastUpdated>20211112111815</lastUpdated>
+    <lastUpdated>20211217051711</lastUpdated>
   </versioning>
 </metadata>

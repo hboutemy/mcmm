@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>net.imagej</groupId>
   <artifactId>ij</artifactId>
   <versioning>
@@ -29,6 +29,7 @@
       <version>1.49r</version>
       <version>1.49s</version>
       <version>1.49t</version>
+      <version>1.49u</version>
       <version>1.49v</version>
       <version>1.50a</version>
       <version>1.50b</version>
@@ -86,8 +87,7 @@
       <version>1.53h</version>
       <version>1.53i</version>
       <version>1.53j</version>
-      <version>1.49u</version>
     </versions>
-    <lastUpdated>20210514182016</lastUpdated>
+    <lastUpdated>20211216233807</lastUpdated>
   </versioning>
 </metadata>

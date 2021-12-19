@@ -3,8 +3,8 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-bom</artifactId>
   <versioning>
-    <latest>8.14.0.Beta</latest>
-    <release>8.14.0.Beta</release>
+    <latest>8.14.1.Beta</latest>
+    <release>8.14.1.Beta</release>
     <versions>
       <version>6.0.0.CR2</version>
       <version>6.0.0.CR3</version>
@@ -150,7 +150,8 @@
       <version>7.63.0.t20211129</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
+      <version>8.14.1.Beta</version>
     </versions>
-    <lastUpdated>20211129133320</lastUpdated>
+    <lastUpdated>20211208160849</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.noear</groupId>
   <artifactId>opentracing-solon-plugin</artifactId>
   <versioning>
-    <latest>1.6.7-m1</latest>
-    <release>1.6.7-m1</release>
+    <latest>1.6.8-m2</latest>
+    <release>1.6.8-m2</release>
     <versions>
       <version>1.4.12</version>
       <version>1.4.13</version>
@@ -93,7 +93,9 @@
       <version>1.6.6-m3</version>
       <version>1.6.6</version>
       <version>1.6.7-m1</version>
+      <version>1.6.8-m1</version>
+      <version>1.6.8-m2</version>
     </versions>
-    <lastUpdated>20211215052911</lastUpdated>
+    <lastUpdated>20211217050504</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.squareup.keywhiz</groupId>
   <artifactId>keywhiz-api</artifactId>
   <versioning>
@@ -11,6 +11,8 @@
       <version>0.7.2</version>
       <version>0.7.3</version>
       <version>0.7.4</version>
+      <version>0.7.5</version>
+      <version>0.7.6</version>
       <version>0.7.7</version>
       <version>0.7.7-2</version>
       <version>0.7.8</version>
@@ -21,9 +23,7 @@
       <version>0.7.10-mysql</version>
       <version>0.8.0</version>
       <version>0.10.1</version>
-      <version>0.7.5</version>
-      <version>0.7.6</version>
     </versions>
-    <lastUpdated>20190906233259</lastUpdated>
+    <lastUpdated>20211216233432</lastUpdated>
   </versioning>
 </metadata>
