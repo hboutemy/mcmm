@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-kafka-clients</artifactId>
   <versioning>
-    <latest>5.13.4</latest>
-    <release>5.13.4</release>
+    <latest>5.13.5</latest>
+    <release>5.13.5</release>
     <versions>
       <version>4.6.0</version>
       <version>4.7.0</version>
@@ -104,7 +104,8 @@
       <version>5.13.2</version>
       <version>5.13.3</version>
       <version>5.13.4</version>
+      <version>5.13.5</version>
     </versions>
-    <lastUpdated>20211217234607</lastUpdated>
+    <lastUpdated>20211219202121</lastUpdated>
   </versioning>
 </metadata>

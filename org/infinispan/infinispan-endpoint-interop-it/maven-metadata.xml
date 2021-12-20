@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-endpoint-interop-it</artifactId>
   <versioning>
-    <latest>13.0.4.Final</latest>
-    <release>13.0.4.Final</release>
+    <latest>13.0.5.Final</latest>
+    <release>13.0.5.Final</release>
     <versions>
       <version>9.4.0.CR3</version>
       <version>9.4.0.Final</version>
@@ -75,6 +75,7 @@
       <version>11.0.10.Final</version>
       <version>11.0.11.Final</version>
       <version>11.0.13.Final</version>
+      <version>11.0.14.Final</version>
       <version>12.0.0.CR1</version>
       <version>12.0.0.Final</version>
       <version>12.0.0.Dev01</version>
@@ -99,6 +100,7 @@
       <version>12.1.7.Final</version>
       <version>12.1.8.Final</version>
       <version>12.1.9.Final</version>
+      <version>12.1.10.Final</version>
       <version>13.0.0.CR1</version>
       <version>13.0.0.CR2</version>
       <version>13.0.0.Final</version>
@@ -110,8 +112,9 @@
       <version>13.0.2.Final</version>
       <version>13.0.3.Final</version>
       <version>13.0.4.Final</version>
+      <version>13.0.5.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20211217222332</lastUpdated>
+    <lastUpdated>20211219194231</lastUpdated>
   </versioning>
 </metadata>

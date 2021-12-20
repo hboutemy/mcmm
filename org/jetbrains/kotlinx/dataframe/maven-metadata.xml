@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>dataframe</artifactId>
   <versioning>
-    <latest>0.8.0-dev-808</latest>
-    <release>0.8.0-dev-808</release>
+    <latest>0.8.0-dev-816-0.11.0.40</latest>
+    <release>0.8.0-dev-816-0.11.0.40</release>
     <versions>
       <version>0.0.11-dev-3-0.9.1.2</version>
       <version>0.0.11-dev-3-0.9.1.3</version>
@@ -95,6 +95,7 @@
       <version>0.8.0-rc</version>
       <version>0.8.0-rc-1</version>
       <version>0.8.0-rc-2</version>
+      <version>0.8.0-rc-3</version>
       <version>0.8.0-dev-285-0.10.0.72</version>
       <version>0.8.0-dev-286-0.10.0.77</version>
       <version>0.8.0-dev-291-0.10.0.77</version>
@@ -269,7 +270,8 @@
       <version>0.8.0-dev-807</version>
       <version>0.8.0-dev-807-0.11.0.40</version>
       <version>0.8.0-dev-808</version>
+      <version>0.8.0-dev-816-0.11.0.40</version>
     </versions>
-    <lastUpdated>20211217231123</lastUpdated>
+    <lastUpdated>20211219182754</lastUpdated>
   </versioning>
 </metadata>
