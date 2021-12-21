@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-spring-boot-adapter</artifactId>
   <versioning>
-    <latest>16.0.0</latest>
-    <release>16.0.0</release>
+    <latest>16.1.0</latest>
+    <release>16.1.0</release>
     <versions>
       <version>1.2.0.Beta1</version>
       <version>1.2.0.CR1</version>
@@ -112,8 +112,9 @@
       <version>15.1.0</version>
       <version>15.1.1</version>
       <version>16.0.0</version>
+      <version>16.1.0</version>
       <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20211217154649</lastUpdated>
+    <lastUpdated>20211220155834</lastUpdated>
   </versioning>
 </metadata>

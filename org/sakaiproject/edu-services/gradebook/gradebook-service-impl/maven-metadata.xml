@@ -3,8 +3,8 @@
   <groupId>org.sakaiproject.edu-services.gradebook</groupId>
   <artifactId>gradebook-service-impl</artifactId>
   <versioning>
-    <latest>21.1</latest>
-    <release>21.1</release>
+    <latest>21.2</latest>
+    <release>21.2</release>
     <versions>
       <version>1.2.0-b03</version>
       <version>1.2.0-b04</version>
@@ -47,9 +47,11 @@
       <version>20.2</version>
       <version>20.3</version>
       <version>20.4</version>
+      <version>20.5</version>
       <version>21.0</version>
       <version>21.1</version>
+      <version>21.2</version>
     </versions>
-    <lastUpdated>20210802172921</lastUpdated>
+    <lastUpdated>20211220173739</lastUpdated>
   </versioning>
 </metadata>
