@@ -3,8 +3,8 @@
   <groupId>com.rickclephas.kmp.nativecoroutines</groupId>
   <artifactId>com.rickclephas.kmp.nativecoroutines.gradle.plugin</artifactId>
   <versioning>
-    <latest>0.10.1-new-mm</latest>
-    <release>0.10.1-new-mm</release>
+    <latest>0.11.1-new-mm</latest>
+    <release>0.11.1-new-mm</release>
     <versions>
       <version>0.4.0</version>
       <version>0.4.0-kotlin-1.5.10</version>
@@ -34,7 +34,13 @@
       <version>0.10.1</version>
       <version>0.10.1-kotlin-1.6.0</version>
       <version>0.10.1-new-mm</version>
+      <version>0.11.0</version>
+      <version>0.11.0-kotlin-1.6.0</version>
+      <version>0.11.0-new-mm</version>
+      <version>0.11.1</version>
+      <version>0.11.1-kotlin-1.6.0</version>
+      <version>0.11.1-new-mm</version>
     </versions>
-    <lastUpdated>20211220115906</lastUpdated>
+    <lastUpdated>20211222193414</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-javafx</artifactId>
   <versioning>
-    <latest>1.6.0-RC3</latest>
-    <release>1.6.0-RC3</release>
+    <latest>1.6.0-native-mt</latest>
+    <release>1.6.0-native-mt</release>
     <versions>
       <version>0.19-alpha-4</version>
       <version>0.19</version>
@@ -96,7 +96,9 @@
       <version>1.6.0-RC</version>
       <version>1.6.0-RC2</version>
       <version>1.6.0-RC3</version>
+      <version>1.6.0</version>
+      <version>1.6.0-native-mt</version>
     </versions>
-    <lastUpdated>20211217063057</lastUpdated>
+    <lastUpdated>20211222113055</lastUpdated>
   </versioning>
 </metadata>

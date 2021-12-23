@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-core-js</artifactId>
   <versioning>
-    <latest>1.6.0-RC3</latest>
-    <release>1.6.0-RC3</release>
+    <latest>1.6.0-native-mt</latest>
+    <release>1.6.0-native-mt</release>
     <versions>
       <version>0.21</version>
       <version>0.21.1</version>
@@ -90,7 +90,9 @@
       <version>1.6.0-RC</version>
       <version>1.6.0-RC2</version>
       <version>1.6.0-RC3</version>
+      <version>1.6.0</version>
+      <version>1.6.0-native-mt</version>
     </versions>
-    <lastUpdated>20211217063020</lastUpdated>
+    <lastUpdated>20211222113025</lastUpdated>
   </versioning>
 </metadata>

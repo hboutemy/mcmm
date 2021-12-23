@@ -3,15 +3,17 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-core-watchossimulatorarm64</artifactId>
   <versioning>
-    <latest>1.6.0-RC3</latest>
-    <release>1.6.0-RC3</release>
+    <latest>1.6.0-native-mt</latest>
+    <release>1.6.0-native-mt</release>
     <versions>
       <version>1.5.2</version>
       <version>1.5.2-native-mt</version>
       <version>1.6.0-RC</version>
       <version>1.6.0-RC2</version>
       <version>1.6.0-RC3</version>
+      <version>1.6.0</version>
+      <version>1.6.0-native-mt</version>
     </versions>
-    <lastUpdated>20211217063045</lastUpdated>
+    <lastUpdated>20211222113046</lastUpdated>
   </versioning>
 </metadata>
