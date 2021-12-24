@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>gorm-hibernate5-spring-boot</artifactId>
   <versioning>
-    <latest>7.2.0</latest>
-    <release>7.2.0</release>
+    <latest>7.2.1</latest>
+    <release>7.2.1</release>
     <versions>
       <version>6.0.0.RC1</version>
       <version>6.0.0.RC2</version>
@@ -50,7 +50,8 @@
       <version>7.1.0-RC4</version>
       <version>7.1.0</version>
       <version>7.2.0</version>
+      <version>7.2.1</version>
     </versions>
-    <lastUpdated>20211216202930</lastUpdated>
+    <lastUpdated>20211223072846</lastUpdated>
   </versioning>
 </metadata>
