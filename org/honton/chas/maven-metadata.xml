@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>BOM Creation Maven Plugin</name>
+      <prefix>bom</prefix>
+      <artifactId>bom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Checkstats Maven Plugin</name>
       <prefix>checkstats</prefix>
       <artifactId>checkstats-maven-plugin</artifactId>

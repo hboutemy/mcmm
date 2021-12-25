@@ -3,8 +3,8 @@
   <groupId>com.c4-soft.springaddons</groupId>
   <artifactId>spring-addons</artifactId>
   <versioning>
-    <latest>3.1.10-jdk17</latest>
-    <release>3.1.10-jdk17</release>
+    <latest>3.1.11-jdk17</latest>
+    <release>3.1.11-jdk17</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.11</version>
@@ -82,7 +82,10 @@
       <version>3.1.10-jdk1.8</version>
       <version>3.1.10-jdk11</version>
       <version>3.1.10-jdk17</version>
+      <version>3.1.11-jdk1.8</version>
+      <version>3.1.11-jdk11</version>
+      <version>3.1.11-jdk17</version>
     </versions>
-    <lastUpdated>20211223031618</lastUpdated>
+    <lastUpdated>20211224030220</lastUpdated>
   </versioning>
 </metadata>
