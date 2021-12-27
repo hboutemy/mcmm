@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>3rd Party Jandex Indexer for Maven</name>
+      <prefix>3rdpartyjandex</prefix>
+      <artifactId>3rdpartyjandex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Duplicate Dependencies Maven Plugin</name>
       <prefix>duplicate-dependencies</prefix>
       <artifactId>duplicate-dependencies-maven-plugin</artifactId>

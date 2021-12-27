@@ -13,6 +13,11 @@
     </plugin>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>krakatau</prefix>
+      <artifactId>krakatau-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>remove-unused-imports</prefix>
       <artifactId>remove-unused-imports-maven-plugin</artifactId>
     </plugin>
