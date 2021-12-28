@@ -11,5 +11,10 @@
       <prefix>extentreports-cucumberjson</prefix>
       <artifactId>extentreports-cucumberjson-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>rest-assured-extent-report-plugin</name>
+      <prefix>rest-assured-extent-report</prefix>
+      <artifactId>rest-assured-extent-report-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

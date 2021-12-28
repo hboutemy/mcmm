@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.certificate</groupId>
   <artifactId>gravitee-am-certificate-api</artifactId>
   <versioning>
-    <latest>3.14.1</latest>
-    <release>3.14.1</release>
+    <latest>3.14.2</latest>
+    <release>3.14.2</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -161,9 +161,11 @@
       <version>3.13.0</version>
       <version>3.13.1</version>
       <version>3.13.2</version>
+      <version>3.13.3</version>
       <version>3.14.0</version>
       <version>3.14.1</version>
+      <version>3.14.2</version>
     </versions>
-    <lastUpdated>20211223104051</lastUpdated>
+    <lastUpdated>20211227220739</lastUpdated>
   </versioning>
 </metadata>
