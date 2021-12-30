@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>copy-minify</prefix>
+      <artifactId>copy-minify-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>spring-data-generator</prefix>
       <artifactId>spring-data-generator</artifactId>
     </plugin>
