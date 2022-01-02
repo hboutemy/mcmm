@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Omni Coverage Reporter Maven Plugin</name>
+      <prefix>omni-coveragereporter</prefix>
+      <artifactId>omni-coveragereporter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
