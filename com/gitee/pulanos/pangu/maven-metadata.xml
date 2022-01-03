@@ -6,5 +6,10 @@
       <prefix>pangu-framework-generator</prefix>
       <artifactId>pangu-framework-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>pangu-generator-maven-plugin</name>
+      <prefix>pangu-generator</prefix>
+      <artifactId>pangu-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
