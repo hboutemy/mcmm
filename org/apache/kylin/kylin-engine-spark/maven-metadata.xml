@@ -3,8 +3,8 @@
   <groupId>org.apache.kylin</groupId>
   <artifactId>kylin-engine-spark</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.3</latest>
+    <release>3.1.3</release>
     <versions>
       <version>1.5.0</version>
       <version>1.5.1</version>
@@ -40,7 +40,8 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
     </versions>
-    <lastUpdated>20210427022813</lastUpdated>
+    <lastUpdated>20220105032821</lastUpdated>
   </versioning>
 </metadata>

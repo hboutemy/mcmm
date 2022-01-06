@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>jrunner</prefix>
+      <artifactId>jrunner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
