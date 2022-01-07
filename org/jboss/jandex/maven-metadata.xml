@@ -3,8 +3,8 @@
   <groupId>org.jboss</groupId>
   <artifactId>jandex</artifactId>
   <versioning>
-    <latest>2.4.1.Final</latest>
-    <release>2.4.1.Final</release>
+    <latest>2.4.2.Final</latest>
+    <release>2.4.2.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -54,8 +54,9 @@
       <version>2.3.1.Final</version>
       <version>2.4.0.Final</version>
       <version>2.4.1.Final</version>
+      <version>2.4.2.Final</version>
     </versions>
-    <lastUpdated>20211007074238</lastUpdated>
+    <lastUpdated>20220106163440</lastUpdated>
   </versioning>
   <plugins>
     <plugin>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-documentai</artifactId>
   <versioning>
-    <latest>v1-rev20211214-1.32.1</latest>
-    <release>v1-rev20211214-1.32.1</release>
+    <latest>v1-rev20211230-1.32.1</latest>
+    <release>v1-rev20211230-1.32.1</release>
     <versions>
       <version>v1beta2-rev20200612-1.30.9</version>
       <version>v1beta2-rev20200619-1.30.9</version>
@@ -84,6 +84,7 @@
       <version>v1beta3-rev20211105-1.32.1</version>
       <version>v1beta3-rev20211203-1.32.1</version>
       <version>v1beta3-rev20211214-1.32.1</version>
+      <version>v1beta3-rev20211230-1.32.1</version>
       <version>v1-rev20210329-1.31.0</version>
       <version>v1-rev20210413-1.31.0</version>
       <version>v1-rev20210430-1.31.0</version>
@@ -110,7 +111,8 @@
       <version>v1-rev20211105-1.32.1</version>
       <version>v1-rev20211203-1.32.1</version>
       <version>v1-rev20211214-1.32.1</version>
+      <version>v1-rev20211230-1.32.1</version>
     </versions>
-    <lastUpdated>20211216212054</lastUpdated>
+    <lastUpdated>20220106210557</lastUpdated>
   </versioning>
 </metadata>
