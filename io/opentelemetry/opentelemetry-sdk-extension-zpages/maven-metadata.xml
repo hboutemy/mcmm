@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-sdk-extension-zpages</artifactId>
   <versioning>
-    <latest>1.10.0-alpha-rc.2</latest>
-    <release>1.10.0-alpha-rc.2</release>
+    <latest>1.10.0-alpha</latest>
+    <release>1.10.0-alpha</release>
     <versions>
       <version>0.7.0</version>
       <version>0.7.1</version>
@@ -36,7 +36,8 @@
       <version>1.9.1-alpha</version>
       <version>1.10.0-alpha-rc.1</version>
       <version>1.10.0-alpha-rc.2</version>
+      <version>1.10.0-alpha</version>
     </versions>
-    <lastUpdated>20211223051024</lastUpdated>
+    <lastUpdated>20220107055324</lastUpdated>
   </versioning>
 </metadata>

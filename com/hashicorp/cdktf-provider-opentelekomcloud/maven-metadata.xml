@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-opentelekomcloud</artifactId>
   <versioning>
-    <latest>0.2.29</latest>
-    <release>0.2.29</release>
+    <latest>0.2.145</latest>
+    <release>0.2.145</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -192,7 +192,8 @@
       <version>0.2.27</version>
       <version>0.2.28</version>
       <version>0.2.29</version>
+      <version>0.2.145</version>
     </versions>
-    <lastUpdated>20211218202710</lastUpdated>
+    <lastUpdated>20220107204358</lastUpdated>
   </versioning>
 </metadata>
