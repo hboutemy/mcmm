@@ -3,11 +3,9 @@
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator-relocation</artifactId>
   <versioning>
-    <latest>7.0.2.Final</latest>
-    <release>7.0.2.Final</release>
+    <latest>7.0.1.Final</latest>
+    <release>7.0.1.Final</release>
     <versions>
-      <version>6.2.1.Final</version>
-      <version>7.0.2.Final</version>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
       <version>6.0.0.Beta1</version>
@@ -17,6 +15,14 @@
       <version>6.0.0.CR3</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
+      <version>6.0.2.Final</version>
+      <version>6.0.3.Final</version>
+      <version>6.0.4.Final</version>
+      <version>6.0.5.Final</version>
+      <version>6.0.6.Final</version>
+      <version>6.0.7.Final</version>
+      <version>6.0.8.Final</version>
+      <version>6.0.9.Final</version>
       <version>6.0.10.Final</version>
       <version>6.0.11.Final</version>
       <version>6.0.12.Final</version>
@@ -27,17 +33,9 @@
       <version>6.0.17.Final</version>
       <version>6.0.18.Final</version>
       <version>6.0.19.Final</version>
-      <version>6.0.2.Final</version>
       <version>6.0.20.Final</version>
       <version>6.0.21.Final</version>
       <version>6.0.22.Final</version>
-      <version>6.0.3.Final</version>
-      <version>6.0.4.Final</version>
-      <version>6.0.5.Final</version>
-      <version>6.0.6.Final</version>
-      <version>6.0.7.Final</version>
-      <version>6.0.8.Final</version>
-      <version>6.0.9.Final</version>
       <version>6.1.0.Alpha1</version>
       <version>6.1.0.Alpha2</version>
       <version>6.1.0.Alpha3</version>
@@ -63,7 +61,9 @@
       <version>7.0.0.CR1</version>
       <version>7.0.0.Final</version>
       <version>7.0.1.Final</version>
+      <version>6.2.1.Final</version>
+      <version>7.0.2.Final</version>
     </versions>
-    <lastUpdated>20211214144854</lastUpdated>
+    <lastUpdated>20210206183307</lastUpdated>
   </versioning>
 </metadata>
