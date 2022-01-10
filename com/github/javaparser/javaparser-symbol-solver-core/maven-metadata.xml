@@ -3,9 +3,10 @@
   <groupId>com.github.javaparser</groupId>
   <artifactId>javaparser-symbol-solver-core</artifactId>
   <versioning>
-    <latest>3.23.1</latest>
-    <release>3.23.1</release>
+    <latest>3.24.0</latest>
+    <release>3.24.0</release>
     <versions>
+      <version>2.24.0</version>
       <version>3.5.10</version>
       <version>3.5.11</version>
       <version>3.5.12</version>
@@ -115,7 +116,8 @@
       <version>3.22.1</version>
       <version>3.23.0</version>
       <version>3.23.1</version>
+      <version>3.24.0</version>
     </versions>
-    <lastUpdated>20211005195547</lastUpdated>
+    <lastUpdated>20220109201535</lastUpdated>
   </versioning>
 </metadata>
