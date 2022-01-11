@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-database-settings</artifactId>
   <versioning>
-    <latest>7.17.0-alpha2</latest>
-    <release>7.17.0-alpha2</release>
+    <latest>7.17.0-alpha3</latest>
+    <release>7.17.0-alpha3</release>
     <versions>
       <version>7.3.0-alpha1</version>
       <version>7.3.0-alpha2</version>
@@ -88,7 +88,8 @@
       <version>7.16.0</version>
       <version>7.17.0-alpha1</version>
       <version>7.17.0-alpha2</version>
+      <version>7.17.0-alpha3</version>
     </versions>
-    <lastUpdated>20211214213954</lastUpdated>
+    <lastUpdated>20220110133212</lastUpdated>
   </versioning>
 </metadata>
