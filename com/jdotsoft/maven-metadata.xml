@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SVN Latest Revision Maven Plugin</name>
+      <prefix>svn-latest-revision</prefix>
+      <artifactId>svn-latest-revision-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

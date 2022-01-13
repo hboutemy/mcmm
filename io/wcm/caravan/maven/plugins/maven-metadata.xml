@@ -6,5 +6,10 @@
       <prefix>hal-docs</prefix>
       <artifactId>hal-docs-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Rhyme - Documentation Maven Plugin</name>
+      <prefix>rhyme-docs</prefix>
+      <artifactId>rhyme-docs-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.lightbend.cloudflow</groupId>
   <artifactId>cloudflow-operator_2.13</artifactId>
   <versioning>
-    <latest>2.3.0-RC9</latest>
-    <release>2.3.0-RC9</release>
+    <latest>2.3.0-RC11</latest>
+    <release>2.3.0-RC11</release>
     <versions>
       <version>back-to-core-0.0.1</version>
       <version>0.0.1-back-to-core-20210504</version>
@@ -175,7 +175,9 @@
       <version>2.3.0-RC4</version>
       <version>2.3.0-RC8</version>
       <version>2.3.0-RC9</version>
+      <version>2.3.0-RC10</version>
+      <version>2.3.0-RC11</version>
     </versions>
-    <lastUpdated>20220110001841</lastUpdated>
+    <lastUpdated>20220112125345</lastUpdated>
   </versioning>
 </metadata>
