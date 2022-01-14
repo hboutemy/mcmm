@@ -24,6 +24,10 @@
       <artifactId>odata-client-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>ppk</prefix>
+      <artifactId>ppk-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>state-machine</prefix>
       <artifactId>state-machine-maven-plugin</artifactId>
