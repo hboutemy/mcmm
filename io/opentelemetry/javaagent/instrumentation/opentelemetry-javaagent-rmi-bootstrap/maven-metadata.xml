@@ -3,13 +3,14 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-rmi-bootstrap</artifactId>
   <versioning>
-    <latest>1.9.2-alpha</latest>
-    <release>1.9.2-alpha</release>
+    <latest>1.10.0-alpha</latest>
+    <release>1.10.0-alpha</release>
     <versions>
       <version>1.9.0-alpha</version>
       <version>1.9.1-alpha</version>
       <version>1.9.2-alpha</version>
+      <version>1.10.0-alpha</version>
     </versions>
-    <lastUpdated>20220107220247</lastUpdated>
+    <lastUpdated>20220114233005</lastUpdated>
   </versioning>
 </metadata>

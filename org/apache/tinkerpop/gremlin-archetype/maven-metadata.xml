@@ -3,8 +3,8 @@
   <groupId>org.apache.tinkerpop</groupId>
   <artifactId>gremlin-archetype</artifactId>
   <versioning>
-    <latest>3.5.1</latest>
-    <release>3.5.1</release>
+    <latest>3.5.2</latest>
+    <release>3.5.2</release>
     <versions>
       <version>3.1.2-incubating</version>
       <version>3.1.3</version>
@@ -50,9 +50,11 @@
       <version>3.4.10</version>
       <version>3.4.11</version>
       <version>3.4.12</version>
+      <version>3.4.13</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
+      <version>3.5.2</version>
     </versions>
-    <lastUpdated>20210726081901</lastUpdated>
+    <lastUpdated>20220114135859</lastUpdated>
   </versioning>
 </metadata>

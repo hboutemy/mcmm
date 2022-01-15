@@ -3,8 +3,8 @@
   <groupId>io.github.vigoo</groupId>
   <artifactId>zio-aws-redshiftdata_2.12</artifactId>
   <versioning>
-    <latest>3.17.104.2</latest>
-    <release>3.17.104.2</release>
+    <latest>3.17.104.4</latest>
+    <release>3.17.104.4</release>
     <versions>
       <version>3.17.100.3</version>
       <version>3.17.101.1</version>
@@ -14,6 +14,8 @@
       <version>3.17.103.1</version>
       <version>3.17.104.1</version>
       <version>3.17.104.2</version>
+      <version>3.17.104.3</version>
+      <version>3.17.104.4</version>
       <version>3.15.16.3</version>
       <version>3.15.16.5</version>
       <version>3.15.16.7</version>
@@ -295,6 +297,6 @@
       <version>4.0.4</version>
       <version>4.0.5</version>
     </versions>
-    <lastUpdated>20220106214319</lastUpdated>
+    <lastUpdated>20220114110601</lastUpdated>
   </versioning>
 </metadata>

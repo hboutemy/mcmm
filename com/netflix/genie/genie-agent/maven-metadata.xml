@@ -3,8 +3,8 @@
   <groupId>com.netflix.genie</groupId>
   <artifactId>genie-agent</artifactId>
   <versioning>
-    <latest>4.0.6</latest>
-    <release>4.0.6</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>4.0.0-rc.1</version>
       <version>4.0.0-rc.2</version>
@@ -101,8 +101,9 @@
       <version>4.0.4</version>
       <version>4.0.5</version>
       <version>4.0.6</version>
+      <version>4.1.0</version>
       <version>4.0.0-rc.6</version>
     </versions>
-    <lastUpdated>20220103215257</lastUpdated>
+    <lastUpdated>20220114203933</lastUpdated>
   </versioning>
 </metadata>

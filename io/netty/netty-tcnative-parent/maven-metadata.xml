@@ -3,8 +3,8 @@
   <groupId>io.netty</groupId>
   <artifactId>netty-tcnative-parent</artifactId>
   <versioning>
-    <latest>2.0.46.Final</latest>
-    <release>2.0.46.Final</release>
+    <latest>2.0.47.Final</latest>
+    <release>2.0.47.Final</release>
     <versions>
       <version>1.1.33.Fork13</version>
       <version>1.1.33.Fork14</version>
@@ -73,7 +73,8 @@
       <version>2.0.44.Final</version>
       <version>2.0.45.Final</version>
       <version>2.0.46.Final</version>
+      <version>2.0.47.Final</version>
     </versions>
-    <lastUpdated>20211117101537</lastUpdated>
+    <lastUpdated>20220114112938</lastUpdated>
   </versioning>
 </metadata>
