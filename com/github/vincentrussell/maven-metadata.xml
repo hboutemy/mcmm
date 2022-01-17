@@ -7,6 +7,11 @@
       <artifactId>bulk-maven-repository-deploy-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>extended-dependency-plugin Maven Plugin</name>
+      <prefix>extended-dependency</prefix>
+      <artifactId>extended-dependency-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jenkins-dependency-plugin Maven Plugin</name>
       <prefix>jenkins-dependency</prefix>
       <artifactId>jenkins-dependency-plugin</artifactId>
