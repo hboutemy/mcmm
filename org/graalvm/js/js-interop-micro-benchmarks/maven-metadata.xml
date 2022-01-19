@@ -3,8 +3,8 @@
   <groupId>org.graalvm.js</groupId>
   <artifactId>js-interop-micro-benchmarks</artifactId>
   <versioning>
-    <latest>21.3.0</latest>
-    <release>21.3.0</release>
+    <latest>22.0.0</latest>
+    <release>22.0.0</release>
     <versions>
       <version>20.1.0</version>
       <version>20.2.0</version>
@@ -14,12 +14,15 @@
       <version>20.3.2</version>
       <version>20.3.3</version>
       <version>20.3.4</version>
+      <version>20.3.5</version>
       <version>21.0.0</version>
       <version>21.0.0.2</version>
       <version>21.1.0</version>
       <version>21.2.0</version>
       <version>21.3.0</version>
+      <version>21.3.1</version>
+      <version>22.0.0</version>
     </versions>
-    <lastUpdated>20211019134427</lastUpdated>
+    <lastUpdated>20220118170359</lastUpdated>
   </versioning>
 </metadata>

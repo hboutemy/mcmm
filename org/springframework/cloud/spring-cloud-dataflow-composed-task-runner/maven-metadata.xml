@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dataflow-composed-task-runner</artifactId>
   <versioning>
-    <latest>2.9.1</latest>
-    <release>2.9.1</release>
+    <latest>2.9.2</latest>
+    <release>2.9.2</release>
     <versions>
       <version>2.6.0</version>
       <version>2.6.1</version>
@@ -22,7 +22,8 @@
       <version>2.8.4</version>
       <version>2.9.0</version>
       <version>2.9.1</version>
+      <version>2.9.2</version>
     </versions>
-    <lastUpdated>20211028124157</lastUpdated>
+    <lastUpdated>20220118193556</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-storage-api</artifactId>
   <versioning>
-    <latest>3.4.10-rc4-20220114</latest>
-    <release>3.4.10-rc4-20220114</release>
+    <latest>3.4.10-20220118</latest>
+    <release>3.4.10-20220118</release>
     <versions>
       <version>2.1.0</version>
       <version>2.1.1</version>
@@ -176,6 +176,7 @@
       <version>3.3.16-20211214</version>
       <version>3.3.17-rc1-20211220</version>
       <version>3.3.17-20211221</version>
+      <version>3.3.18-20220118</version>
       <version>3.4.0-alpha1-20210330</version>
       <version>3.4.0-rc1-20210510</version>
       <version>3.4.0-rc2-20210512</version>
@@ -217,7 +218,8 @@
       <version>3.4.10-rc2-20220107</version>
       <version>3.4.10-rc3-20220111</version>
       <version>3.4.10-rc4-20220114</version>
+      <version>3.4.10-20220118</version>
     </versions>
-    <lastUpdated>20220114181138</lastUpdated>
+    <lastUpdated>20220118203135</lastUpdated>
   </versioning>
 </metadata>

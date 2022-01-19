@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-google</artifactId>
   <versioning>
-    <latest>0.5.135</latest>
-    <release>0.5.135</release>
+    <latest>0.5.27</latest>
+    <release>0.5.27</release>
     <versions>
       <version>0.3.11</version>
       <version>0.3.12</version>
@@ -297,7 +297,8 @@
       <version>0.5.133</version>
       <version>0.5.134</version>
       <version>0.5.135</version>
+      <version>0.5.136</version>
     </versions>
-    <lastUpdated>20220117002623</lastUpdated>
+    <lastUpdated>20211218203229</lastUpdated>
   </versioning>
 </metadata>

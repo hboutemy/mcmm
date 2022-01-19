@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-runtime</artifactId>
   <versioning>
-    <latest>1.15.2</latest>
-    <release>1.15.2</release>
+    <latest>1.15.3</latest>
+    <release>1.15.3</release>
     <versions>
       <version>0.0.1-incubating</version>
       <version>0.0.2-incubating</version>
@@ -55,7 +55,8 @@
       <version>1.15.0</version>
       <version>1.15.1</version>
       <version>1.15.2</version>
+      <version>1.15.3</version>
     </versions>
-    <lastUpdated>20211222231315</lastUpdated>
+    <lastUpdated>20220118164719</lastUpdated>
   </versioning>
 </metadata>
