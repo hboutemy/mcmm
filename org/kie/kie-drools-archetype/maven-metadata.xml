@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-drools-archetype</artifactId>
   <versioning>
-    <latest>8.15.0.Beta</latest>
-    <release>8.15.0.Beta</release>
+    <latest>8.16.0.Beta</latest>
+    <release>8.16.0.Beta</release>
     <versions>
       <version>6.2.0.Beta3</version>
       <version>6.2.0.CR1</version>
@@ -138,7 +138,8 @@
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
       <version>8.15.0.Beta</version>
+      <version>8.16.0.Beta</version>
     </versions>
-    <lastUpdated>20220107075758</lastUpdated>
+    <lastUpdated>20220118210948</lastUpdated>
   </versioning>
 </metadata>
