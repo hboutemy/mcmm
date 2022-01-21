@@ -3,14 +3,15 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ejb-client</artifactId>
   <versioning>
-    <latest>26.0.0.Final</latest>
-    <release>26.0.0.Final</release>
+    <latest>26.0.1.Final</latest>
+    <release>26.0.1.Final</release>
     <versions>
       <version>25.0.0.Final</version>
       <version>25.0.1.Final</version>
       <version>26.0.0.Beta1</version>
       <version>26.0.0.Final</version>
+      <version>26.0.1.Final</version>
     </versions>
-    <lastUpdated>20211215144046</lastUpdated>
+    <lastUpdated>20220120130839</lastUpdated>
   </versioning>
 </metadata>

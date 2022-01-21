@@ -3,8 +3,8 @@
   <groupId>io.nosqlbench</groupId>
   <artifactId>driver-cql-shaded</artifactId>
   <versioning>
-    <latest>4.15.82</latest>
-    <release>4.15.82</release>
+    <latest>4.15.83</latest>
+    <release>4.15.83</release>
     <versions>
       <version>3.12.103</version>
       <version>3.12.104</version>
@@ -91,7 +91,8 @@
       <version>4.15.70</version>
       <version>4.15.72</version>
       <version>4.15.82</version>
+      <version>4.15.83</version>
     </versions>
-    <lastUpdated>20220114181727</lastUpdated>
+    <lastUpdated>20220120165642</lastUpdated>
   </versioning>
 </metadata>

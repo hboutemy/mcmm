@@ -3,8 +3,8 @@
   <groupId>org.cdk8s</groupId>
   <artifactId>cdk8s</artifactId>
   <versioning>
-    <latest>2.1.15</latest>
-    <release>2.1.15</release>
+    <latest>2.1.16</latest>
+    <release>2.1.16</release>
     <versions>
       <version>0.10.0</version>
       <version>0.11.0</version>
@@ -185,6 +185,7 @@
       <version>1.4.4</version>
       <version>1.4.5</version>
       <version>1.4.6</version>
+      <version>1.4.7</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -219,7 +220,8 @@
       <version>2.1.13</version>
       <version>2.1.14</version>
       <version>2.1.15</version>
+      <version>2.1.16</version>
     </versions>
-    <lastUpdated>20220119001838</lastUpdated>
+    <lastUpdated>20220120001934</lastUpdated>
   </versioning>
 </metadata>

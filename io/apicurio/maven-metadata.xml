@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>apicurio-common-app-components</prefix>
+      <artifactId>apicurio-common-app-components-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>apicurio-registry-maven-plugin</name>
       <prefix>apicurio-registry</prefix>
       <artifactId>apicurio-registry-maven-plugin</artifactId>

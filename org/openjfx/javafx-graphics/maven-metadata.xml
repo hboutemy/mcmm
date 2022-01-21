@@ -3,8 +3,8 @@
   <groupId>org.openjfx</groupId>
   <artifactId>javafx-graphics</artifactId>
   <versioning>
-    <latest>18-ea+9</latest>
-    <release>18-ea+9</release>
+    <latest>18-ea+10</latest>
+    <release>18-ea+10</release>
     <versions>
       <version>11</version>
       <version>11-ea+19</version>
@@ -95,6 +95,7 @@
       <version>17-ea+18</version>
       <version>17.0.0.1</version>
       <version>17.0.1</version>
+      <version>17.0.2</version>
       <version>17.0.2-ea+1</version>
       <version>17.0.2-ea+2</version>
       <version>18-ea+1</version>
@@ -106,7 +107,8 @@
       <version>18-ea+7</version>
       <version>18-ea+8</version>
       <version>18-ea+9</version>
+      <version>18-ea+10</version>
     </versions>
-    <lastUpdated>20220104145106</lastUpdated>
+    <lastUpdated>20220120161542</lastUpdated>
   </versioning>
 </metadata>

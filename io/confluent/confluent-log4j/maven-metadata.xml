@@ -3,16 +3,20 @@
   <groupId>io.confluent</groupId>
   <artifactId>confluent-log4j</artifactId>
   <versioning>
-    <latest>1.2.17-cp6</latest>
-    <release>1.2.17-cp6</release>
+    <latest>1.2.17-cp8</latest>
+    <release>1.2.17-cp8</release>
     <versions>
       <version>1.2.17-cp1</version>
       <version>1.2.17-cp2</version>
+      <version>1.2.17-cp2.1</version>
+      <version>1.2.17-cp2.2</version>
       <version>1.2.17-cp3</version>
       <version>1.2.17-cp4</version>
       <version>1.2.17-cp5</version>
       <version>1.2.17-cp6</version>
+      <version>1.2.17-cp7</version>
+      <version>1.2.17-cp8</version>
     </versions>
-    <lastUpdated>20211215024123</lastUpdated>
+    <lastUpdated>20220120231935</lastUpdated>
   </versioning>
 </metadata>

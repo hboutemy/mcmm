@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ee-cache</artifactId>
   <versioning>
-    <latest>26.0.0.Final</latest>
-    <release>26.0.0.Final</release>
+    <latest>26.0.1.Final</latest>
+    <release>26.0.1.Final</release>
     <versions>
       <version>17.0.0.Beta1</version>
       <version>17.0.0.Final</version>
@@ -40,7 +40,8 @@
       <version>25.0.1.Final</version>
       <version>26.0.0.Beta1</version>
       <version>26.0.0.Final</version>
+      <version>26.0.1.Final</version>
     </versions>
-    <lastUpdated>20211215144043</lastUpdated>
+    <lastUpdated>20220120130837</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-messaging-activemq</artifactId>
   <versioning>
-    <latest>26.0.0.Final</latest>
-    <release>26.0.0.Final</release>
+    <latest>26.0.1.Final</latest>
+    <release>26.0.1.Final</release>
     <versions>
       <version>10.0.0.Alpha4</version>
       <version>10.0.0.Alpha5</version>
@@ -71,7 +71,8 @@
       <version>25.0.1.Final</version>
       <version>26.0.0.Beta1</version>
       <version>26.0.0.Final</version>
+      <version>26.0.1.Final</version>
     </versions>
-    <lastUpdated>20211215144237</lastUpdated>
+    <lastUpdated>20220120131002</lastUpdated>
   </versioning>
 </metadata>

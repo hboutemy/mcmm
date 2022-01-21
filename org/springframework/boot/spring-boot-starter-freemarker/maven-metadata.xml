@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-freemarker</artifactId>
   <versioning>
-    <latest>2.6.2</latest>
-    <release>2.6.2</release>
+    <latest>2.6.3</latest>
+    <release>2.6.3</release>
     <versions>
       <version>1.1.0.RELEASE</version>
       <version>1.1.1.RELEASE</version>
@@ -147,10 +147,12 @@
       <version>2.5.6</version>
       <version>2.5.7</version>
       <version>2.5.8</version>
+      <version>2.5.9</version>
       <version>2.6.0</version>
       <version>2.6.1</version>
       <version>2.6.2</version>
+      <version>2.6.3</version>
     </versions>
-    <lastUpdated>20211221204417</lastUpdated>
+    <lastUpdated>20220120151053</lastUpdated>
   </versioning>
 </metadata>
