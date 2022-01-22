@@ -3,8 +3,8 @@
   <groupId>com.lightbend.akka.discovery</groupId>
   <artifactId>akka-discovery-consul_2.12</artifactId>
   <versioning>
-    <latest>1.1.2</latest>
-    <release>1.1.2</release>
+    <latest>1.1.3</latest>
+    <release>1.1.3</release>
     <versions>
       <version>0.15.0</version>
       <version>0.16.0</version>
@@ -30,7 +30,8 @@
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20220107104720</lastUpdated>
+    <lastUpdated>20220121153655</lastUpdated>
   </versioning>
 </metadata>

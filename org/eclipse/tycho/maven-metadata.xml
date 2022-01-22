@@ -22,6 +22,11 @@
       <artifactId>tycho-compiler-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho GPG plugin</name>
+      <prefix>tycho-gpg</prefix>
+      <artifactId>tycho-gpg-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho Maven Build Extension</name>
       <prefix>tycho</prefix>
       <artifactId>tycho-maven-plugin</artifactId>

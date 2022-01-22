@@ -3,8 +3,8 @@
   <groupId>io.arrow-kt</groupId>
   <artifactId>arrow-gradle-config-formatter</artifactId>
   <versioning>
-    <latest>0.8.6-alpha.5</latest>
-    <release>0.8.6-alpha.5</release>
+    <latest>0.9.0</latest>
+    <release>0.9.0</release>
     <versions>
       <version>0.3.3</version>
       <version>0.3.4</version>
@@ -36,12 +36,14 @@
       <version>0.7.0-alpha.1</version>
       <version>0.8.1-rc.2</version>
       <version>0.8.2-alpha.1</version>
+      <version>0.8.2</version>
       <version>0.8.3-alpha.2</version>
       <version>0.8.3-beta.1</version>
       <version>0.8.4-alpha.3</version>
       <version>0.8.5-alpha.4</version>
       <version>0.8.6-alpha.5</version>
+      <version>0.9.0</version>
     </versions>
-    <lastUpdated>20220119234717</lastUpdated>
+    <lastUpdated>20220121104042</lastUpdated>
   </versioning>
 </metadata>

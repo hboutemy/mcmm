@@ -3,12 +3,13 @@
   <groupId>com.google.http-client</groupId>
   <artifactId>google-http-client-parent</artifactId>
   <versioning>
-    <latest>1.41.0</latest>
-    <release>1.41.0</release>
+    <latest>1.41.1</latest>
+    <release>1.41.1</release>
     <versions>
       <version>1.40.0</version>
       <version>1.40.1</version>
       <version>1.41.0</version>
+      <version>1.41.1</version>
       <version>1.10.0-beta</version>
       <version>1.10.1-beta</version>
       <version>1.10.2-beta</version>
@@ -62,6 +63,6 @@
       <version>1.8.3-beta</version>
       <version>1.9.0-beta</version>
     </versions>
-    <lastUpdated>20220105223419</lastUpdated>
+    <lastUpdated>20220121201814</lastUpdated>
   </versioning>
 </metadata>
