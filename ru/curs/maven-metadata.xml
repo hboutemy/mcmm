@@ -6,5 +6,10 @@
       <prefix>celesta</prefix>
       <artifactId>celesta-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>OpenAPI codegen Maven Plugin</name>
+      <prefix>hurdy-gurdy</prefix>
+      <artifactId>hurdy-gurdy</artifactId>
+    </plugin>
   </plugins>
 </metadata>

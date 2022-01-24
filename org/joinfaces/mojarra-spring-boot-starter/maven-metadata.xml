@@ -3,8 +3,8 @@
   <groupId>org.joinfaces</groupId>
   <artifactId>mojarra-spring-boot-starter</artifactId>
   <versioning>
-    <latest>4.6.3</latest>
-    <release>4.6.3</release>
+    <latest>5.0.0-m1</latest>
+    <release>5.0.0-m1</release>
     <versions>
       <version>3.0.0.RC1</version>
       <version>3.0.0</version>
@@ -89,7 +89,9 @@
       <version>4.6.1</version>
       <version>4.6.2</version>
       <version>4.6.3</version>
+      <version>4.7.0-m1</version>
+      <version>5.0.0-m1</version>
     </versions>
-    <lastUpdated>20220122002242</lastUpdated>
+    <lastUpdated>20220123182817</lastUpdated>
   </versioning>
 </metadata>
