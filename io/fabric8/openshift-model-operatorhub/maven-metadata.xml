@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>openshift-model-operatorhub</artifactId>
   <versioning>
-    <latest>5.11.2</latest>
-    <release>5.11.2</release>
+    <latest>5.12.0</latest>
+    <release>5.12.0</release>
     <versions>
       <version>4.11.0</version>
       <version>4.11.1</version>
@@ -49,7 +49,8 @@
       <version>5.11.0</version>
       <version>5.11.1</version>
       <version>5.11.2</version>
+      <version>5.12.0</version>
     </versions>
-    <lastUpdated>20220107064419</lastUpdated>
+    <lastUpdated>20220124111253</lastUpdated>
   </versioning>
 </metadata>
