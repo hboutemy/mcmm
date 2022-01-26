@@ -3,13 +3,14 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-mapper-orm-coordination-outbox-polling-jakarta</artifactId>
   <versioning>
-    <latest>6.1.0.CR1</latest>
-    <release>6.1.0.CR1</release>
+    <latest>6.1.0.Final</latest>
+    <release>6.1.0.Final</release>
     <versions>
       <version>6.1.0.Beta1</version>
       <version>6.1.0.Beta2</version>
       <version>6.1.0.CR1</version>
+      <version>6.1.0.Final</version>
     </versions>
-    <lastUpdated>20220118092955</lastUpdated>
+    <lastUpdated>20220125134009</lastUpdated>
   </versioning>
 </metadata>

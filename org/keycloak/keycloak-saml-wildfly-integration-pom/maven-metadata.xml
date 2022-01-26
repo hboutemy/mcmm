@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-wildfly-integration-pom</artifactId>
   <versioning>
-    <latest>16.1.0</latest>
-    <release>16.1.0</release>
+    <latest>16.1.1</latest>
+    <release>16.1.1</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -105,7 +105,8 @@
       <version>15.1.1</version>
       <version>16.0.0</version>
       <version>16.1.0</version>
+      <version>16.1.1</version>
     </versions>
-    <lastUpdated>20211220155755</lastUpdated>
+    <lastUpdated>20220125100941</lastUpdated>
   </versioning>
 </metadata>

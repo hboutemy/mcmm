@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Thrift Plugin</name>
+      <prefix>thrift</prefix>
+      <artifactId>thrift-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

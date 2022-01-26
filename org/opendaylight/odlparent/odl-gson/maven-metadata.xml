@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>odl-gson</artifactId>
   <versioning>
-    <latest>9.0.12</latest>
-    <release>9.0.12</release>
+    <latest>9.0.13</latest>
+    <release>9.0.13</release>
     <versions>
       <version>4.0.3</version>
       <version>4.0.4</version>
@@ -70,6 +70,7 @@
       <version>8.1.6</version>
       <version>8.1.7</version>
       <version>8.1.8</version>
+      <version>8.1.9</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -83,7 +84,8 @@
       <version>9.0.10</version>
       <version>9.0.11</version>
       <version>9.0.12</version>
+      <version>9.0.13</version>
     </versions>
-    <lastUpdated>20220118181256</lastUpdated>
+    <lastUpdated>20220125214527</lastUpdated>
   </versioning>
 </metadata>
