@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
   <versioning>
-    <latest>2.7.0.CR1</latest>
-    <release>2.7.0.CR1</release>
+    <latest>2.7.0.Final</latest>
+    <release>2.7.0.Final</release>
     <versions>
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
@@ -57,7 +57,8 @@
       <version>2.6.2.Final</version>
       <version>2.6.3.Final</version>
       <version>2.7.0.CR1</version>
+      <version>2.7.0.Final</version>
     </versions>
-    <lastUpdated>20220120103516</lastUpdated>
+    <lastUpdated>20220126141104</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-test-derby</artifactId>
   <versioning>
-    <latest>2.7.0.CR1</latest>
-    <release>2.7.0.CR1</release>
+    <latest>2.7.0.Final</latest>
+    <release>2.7.0.Final</release>
     <versions>
       <version>0.25.0</version>
       <version>0.26.0</version>
@@ -133,7 +133,8 @@
       <version>2.6.2.Final</version>
       <version>2.6.3.Final</version>
       <version>2.7.0.CR1</version>
+      <version>2.7.0.Final</version>
     </versions>
-    <lastUpdated>20220120103818</lastUpdated>
+    <lastUpdated>20220126141423</lastUpdated>
   </versioning>
 </metadata>

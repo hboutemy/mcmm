@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-testdriver-junit4</artifactId>
   <versioning>
-    <latest>13.0.5.Final</latest>
-    <release>13.0.5.Final</release>
+    <latest>13.0.6.Final</latest>
+    <release>13.0.6.Final</release>
     <versions>
       <version>10.1.4.Final</version>
       <version>10.1.5.Final</version>
@@ -66,9 +66,10 @@
       <version>13.0.3.Final</version>
       <version>13.0.4.Final</version>
       <version>13.0.5.Final</version>
+      <version>13.0.6.Final</version>
       <version>11.0.13.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20220110105255</lastUpdated>
+    <lastUpdated>20220126113652</lastUpdated>
   </versioning>
 </metadata>

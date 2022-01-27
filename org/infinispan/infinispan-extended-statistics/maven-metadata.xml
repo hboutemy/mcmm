@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-extended-statistics</artifactId>
   <versioning>
-    <latest>13.0.5.Final</latest>
-    <release>13.0.5.Final</release>
+    <latest>13.0.6.Final</latest>
+    <release>13.0.6.Final</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -162,6 +162,7 @@
       <version>9.4.21.Final</version>
       <version>9.4.22.Final</version>
       <version>9.4.23.Final</version>
+      <version>9.4.24.Final</version>
       <version>10.0.0.Alpha1</version>
       <version>10.0.0.Alpha2</version>
       <version>10.0.0.Alpha3</version>
@@ -245,8 +246,9 @@
       <version>13.0.3.Final</version>
       <version>13.0.4.Final</version>
       <version>13.0.5.Final</version>
+      <version>13.0.6.Final</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20220110105236</lastUpdated>
+    <lastUpdated>20220126113555</lastUpdated>
   </versioning>
 </metadata>

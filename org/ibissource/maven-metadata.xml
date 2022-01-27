@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Frank!Doc Plugin</name>
+      <prefix>frank-doc</prefix>
+      <artifactId>frank-doc-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Ibis War Plugin</name>
       <prefix>ibis-war</prefix>
       <artifactId>ibis-war-plugin</artifactId>
