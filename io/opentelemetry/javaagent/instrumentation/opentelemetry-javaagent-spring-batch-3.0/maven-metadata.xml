@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-spring-batch-3.0</artifactId>
   <versioning>
-    <latest>1.10.0-alpha</latest>
-    <release>1.10.0-alpha</release>
+    <latest>1.10.1-alpha</latest>
+    <release>1.10.1-alpha</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -37,7 +37,8 @@
       <version>1.9.1-alpha</version>
       <version>1.9.2-alpha</version>
       <version>1.10.0-alpha</version>
+      <version>1.10.1-alpha</version>
     </versions>
-    <lastUpdated>20220114233030</lastUpdated>
+    <lastUpdated>20220127004804</lastUpdated>
   </versioning>
 </metadata>

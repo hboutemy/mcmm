@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-liberty-dispatcher</artifactId>
   <versioning>
-    <latest>1.10.0-alpha</latest>
-    <release>1.10.0-alpha</release>
+    <latest>1.10.1-alpha</latest>
+    <release>1.10.1-alpha</release>
     <versions>
       <version>0.14.0</version>
       <version>0.15.0</version>
@@ -35,7 +35,8 @@
       <version>1.9.1-alpha</version>
       <version>1.9.2-alpha</version>
       <version>1.10.0-alpha</version>
+      <version>1.10.1-alpha</version>
     </versions>
-    <lastUpdated>20220114232849</lastUpdated>
+    <lastUpdated>20220127004548</lastUpdated>
   </versioning>
 </metadata>

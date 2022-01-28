@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jaxws-jws-api-1.1</artifactId>
   <versioning>
-    <latest>1.10.0-alpha</latest>
-    <release>1.10.0-alpha</release>
+    <latest>1.10.1-alpha</latest>
+    <release>1.10.1-alpha</release>
     <versions>
       <version>1.5.0-alpha</version>
       <version>1.5.1-alpha</version>
@@ -21,7 +21,8 @@
       <version>1.9.1-alpha</version>
       <version>1.9.2-alpha</version>
       <version>1.10.0-alpha</version>
+      <version>1.10.1-alpha</version>
     </versions>
-    <lastUpdated>20220114232809</lastUpdated>
+    <lastUpdated>20220127004506</lastUpdated>
   </versioning>
 </metadata>

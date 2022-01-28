@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-agroal</artifactId>
   <versioning>
-    <latest>6.0.0.Beta3</latest>
-    <release>6.0.0.Beta3</release>
+    <latest>6.0.0.CR1</latest>
+    <release>6.0.0.CR1</release>
     <versions>
       <version>5.3.0.Beta2</version>
       <version>5.3.0.CR1</version>
@@ -104,9 +104,10 @@
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Beta2</version>
       <version>6.0.0.Beta3</version>
+      <version>6.0.0.CR1</version>
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20220125155214</lastUpdated>
+    <lastUpdated>20220127152502</lastUpdated>
   </versioning>
 </metadata>

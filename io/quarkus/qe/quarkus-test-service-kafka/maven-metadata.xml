@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-service-kafka</artifactId>
   <versioning>
-    <latest>1.0.1.Final</latest>
-    <release>1.0.1.Final</release>
+    <latest>1.0.2.Final</latest>
+    <release>1.0.2.Final</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -24,7 +24,8 @@
       <version>0.0.16</version>
       <version>1.0.0.Final</version>
       <version>1.0.1.Final</version>
+      <version>1.0.2.Final</version>
     </versions>
-    <lastUpdated>20220117144200</lastUpdated>
+    <lastUpdated>20220127110917</lastUpdated>
   </versioning>
 </metadata>
