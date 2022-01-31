@@ -3,8 +3,8 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>apm-okhttp-3.x-plugin</artifactId>
   <versioning>
-    <latest>8.8.0</latest>
-    <release>8.8.0</release>
+    <latest>8.9.0</latest>
+    <release>8.9.0</release>
     <versions>
       <version>5.0.0-alpha</version>
       <version>5.0.0-beta</version>
@@ -31,7 +31,8 @@
       <version>8.6.0</version>
       <version>8.7.0</version>
       <version>8.8.0</version>
+      <version>8.9.0</version>
     </versions>
-    <lastUpdated>20211031013015</lastUpdated>
+    <lastUpdated>20220130022033</lastUpdated>
   </versioning>
 </metadata>

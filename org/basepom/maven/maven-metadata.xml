@@ -11,6 +11,10 @@
       <artifactId>duplicate-finder-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>inline</prefix>
+      <artifactId>inline-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Property Helper Maven Plugin root</name>
       <prefix>property-helper</prefix>
       <artifactId>property-helper-maven-plugin</artifactId>
