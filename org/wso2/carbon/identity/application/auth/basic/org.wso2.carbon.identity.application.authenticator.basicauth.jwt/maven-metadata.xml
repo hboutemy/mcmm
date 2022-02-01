@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.application.auth.basic</groupId>
   <artifactId>org.wso2.carbon.identity.application.authenticator.basicauth.jwt</artifactId>
   <versioning>
-    <latest>6.4.0</latest>
-    <release>6.4.0</release>
+    <latest>6.4.1</latest>
+    <release>6.4.1</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -72,7 +72,8 @@
       <version>6.3.53</version>
       <version>6.3.54</version>
       <version>6.4.0</version>
+      <version>6.4.1</version>
     </versions>
-    <lastUpdated>20220120073737</lastUpdated>
+    <lastUpdated>20220131110230</lastUpdated>
   </versioning>
 </metadata>
