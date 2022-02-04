@@ -3,8 +3,8 @@
   <groupId>org.eclipse.hono</groupId>
   <artifactId>hono-adapter-sigfox-vertx</artifactId>
   <versioning>
-    <latest>1.10.1</latest>
-    <release>1.10.1</release>
+    <latest>1.11.1</latest>
+    <release>1.11.1</release>
     <versions>
       <version>1.0-M5</version>
       <version>1.0-M6</version>
@@ -53,7 +53,9 @@
       <version>1.9.1</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
+      <version>1.11.0</version>
+      <version>1.11.1</version>
     </versions>
-    <lastUpdated>20220118073515</lastUpdated>
+    <lastUpdated>20220203141524</lastUpdated>
   </versioning>
 </metadata>

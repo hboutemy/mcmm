@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.samples.pizzashack</artifactId>
   <versioning>
-    <latest>9.14.2</latest>
-    <release>9.14.2</release>
+    <latest>9.14.3</latest>
+    <release>9.14.3</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -2174,6 +2174,8 @@
       <version>9.2.20</version>
       <version>9.2.21</version>
       <version>9.2.22</version>
+      <version>9.2.23</version>
+      <version>9.2.24</version>
       <version>9.3.0</version>
       <version>9.4.0</version>
       <version>9.4.1</version>
@@ -2217,7 +2219,8 @@
       <version>9.14.0</version>
       <version>9.14.1</version>
       <version>9.14.2</version>
+      <version>9.14.3</version>
     </versions>
-    <lastUpdated>20220202122803</lastUpdated>
+    <lastUpdated>20220203100253</lastUpdated>
   </versioning>
 </metadata>

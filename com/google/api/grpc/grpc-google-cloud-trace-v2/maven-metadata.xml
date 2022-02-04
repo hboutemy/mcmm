@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>grpc-google-cloud-trace-v2</artifactId>
   <versioning>
-    <latest>2.1.1</latest>
-    <release>2.1.1</release>
+    <latest>2.1.2</latest>
+    <release>2.1.2</release>
     <versions>
       <version>0.1.24</version>
       <version>0.1.25</version>
@@ -127,8 +127,9 @@
       <version>2.0.6</version>
       <version>2.1.0</version>
       <version>2.1.1</version>
+      <version>2.1.2</version>
       <version>1.2.12</version>
     </versions>
-    <lastUpdated>20220107035316</lastUpdated>
+    <lastUpdated>20220203212942</lastUpdated>
   </versioning>
 </metadata>

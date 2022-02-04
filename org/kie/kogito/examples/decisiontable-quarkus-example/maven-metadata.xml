@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito.examples</groupId>
   <artifactId>decisiontable-quarkus-example</artifactId>
   <versioning>
-    <latest>1.16.0.Final</latest>
-    <release>1.16.0.Final</release>
+    <latest>1.16.1.Final</latest>
+    <release>1.16.1.Final</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -42,7 +42,8 @@
       <version>1.14.1.Final</version>
       <version>1.15.0.Final</version>
       <version>1.16.0.Final</version>
+      <version>1.16.1.Final</version>
     </versions>
-    <lastUpdated>20220118210214</lastUpdated>
+    <lastUpdated>20220202145843</lastUpdated>
   </versioning>
 </metadata>

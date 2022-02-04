@@ -6,5 +6,10 @@
       <prefix>helm</prefix>
       <artifactId>helm-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>k3s Maven Plugin</name>
+      <prefix>k3s</prefix>
+      <artifactId>k3s-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

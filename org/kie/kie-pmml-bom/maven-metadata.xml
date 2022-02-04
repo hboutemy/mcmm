@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-pmml-bom</artifactId>
   <versioning>
-    <latest>8.16.0.Beta</latest>
-    <release>8.16.0.Beta</release>
+    <latest>8.16.1.Beta</latest>
+    <release>8.16.1.Beta</release>
     <versions>
       <version>7.38.0.Final</version>
       <version>7.39.0.CR1</version>
@@ -59,7 +59,8 @@
       <version>8.14.1.Beta</version>
       <version>8.15.0.Beta</version>
       <version>8.16.0.Beta</version>
+      <version>8.16.1.Beta</version>
     </versions>
-    <lastUpdated>20220119163901</lastUpdated>
+    <lastUpdated>20220202145232</lastUpdated>
   </versioning>
 </metadata>

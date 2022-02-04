@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>quarkus-postgresql-inmemory-integration-tests</artifactId>
   <versioning>
-    <latest>1.16.0.Final</latest>
-    <release>1.16.0.Final</release>
+    <latest>1.16.1.Final</latest>
+    <release>1.16.1.Final</release>
     <versions>
       <version>1.10.0.Final</version>
       <version>1.11.0.Final</version>
@@ -15,7 +15,8 @@
       <version>1.14.1.Final</version>
       <version>1.15.0.Final</version>
       <version>1.16.0.Final</version>
+      <version>1.16.1.Final</version>
     </versions>
-    <lastUpdated>20220118210540</lastUpdated>
+    <lastUpdated>20220202151913</lastUpdated>
   </versioning>
 </metadata>
