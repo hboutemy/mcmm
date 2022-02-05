@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.wso2.orbit.com.nimbusds</groupId>
   <artifactId>nimbus-jose-jwt</artifactId>
   <versioning>
-    <latest>5.8.0.wso2v1</latest>
-    <release>5.8.0.wso2v1</release>
+    <latest>7.3.0.wso2v1</latest>
+    <release>9.18.0.wso2v1</release>
     <versions>
       <version>5.4.0.wso2v1</version>
       <version>5.8.0.wso2v1</version>
+      <version>9.18.0.wso2v1</version>
     </versions>
-    <lastUpdated>20180911203328</lastUpdated>
+    <lastUpdated>20220204052121</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.r2dbc</groupId>
   <artifactId>r2dbc-bom</artifactId>
   <versioning>
-    <latest>Borca-M2</latest>
-    <release>Borca-M2</release>
+    <latest>Borca-RELEASE</latest>
+    <release>Borca-RELEASE</release>
     <versions>
       <version>Arabba-RELEASE</version>
       <version>Arabba-SR1</version>
@@ -20,7 +20,8 @@
       <version>Arabba-SR11</version>
       <version>Arabba-SR12</version>
       <version>Borca-M2</version>
+      <version>Borca-RELEASE</version>
     </versions>
-    <lastUpdated>20220113152808</lastUpdated>
+    <lastUpdated>20220204080230</lastUpdated>
   </versioning>
 </metadata>
