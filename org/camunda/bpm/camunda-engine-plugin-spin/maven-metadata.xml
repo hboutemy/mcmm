@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-engine-plugin-spin</artifactId>
   <versioning>
-    <latest>7.17.0-alpha3</latest>
-    <release>7.17.0-alpha3</release>
+    <latest>7.17.0-alpha4</latest>
+    <release>7.17.0-alpha4</release>
     <versions>
       <version>7.2.0-alpha6</version>
       <version>7.2.0</version>
@@ -91,7 +91,8 @@
       <version>7.17.0-alpha1</version>
       <version>7.17.0-alpha2</version>
       <version>7.17.0-alpha3</version>
+      <version>7.17.0-alpha4</version>
     </versions>
-    <lastUpdated>20220110133216</lastUpdated>
+    <lastUpdated>20220207150449</lastUpdated>
   </versioning>
 </metadata>
