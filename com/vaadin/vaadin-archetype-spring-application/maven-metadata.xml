@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-archetype-spring-application</artifactId>
   <versioning>
-    <latest>22.0.4</latest>
-    <release>22.0.4</release>
+    <latest>22.0.5</latest>
+    <release>22.0.5</release>
     <versions>
       <version>14.6.9</version>
       <version>14.7.0</version>
@@ -20,6 +20,7 @@
       <version>14.8.1</version>
       <version>14.8.2</version>
       <version>14.8.3</version>
+      <version>14.8.4</version>
       <version>21.0.0</version>
       <version>21.0.1</version>
       <version>21.0.2</version>
@@ -35,7 +36,8 @@
       <version>22.0.2</version>
       <version>22.0.3</version>
       <version>22.0.4</version>
+      <version>22.0.5</version>
     </versions>
-    <lastUpdated>20220124124632</lastUpdated>
+    <lastUpdated>20220208104938</lastUpdated>
   </versioning>
 </metadata>

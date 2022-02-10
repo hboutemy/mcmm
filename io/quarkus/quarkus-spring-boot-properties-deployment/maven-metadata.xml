@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-boot-properties-deployment</artifactId>
   <versioning>
-    <latest>2.7.0.Final</latest>
-    <release>2.7.0.Final</release>
+    <latest>2.7.1.Final</latest>
+    <release>2.7.1.Final</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.Final</version>
@@ -121,7 +121,8 @@
       <version>2.6.3.Final</version>
       <version>2.7.0.CR1</version>
       <version>2.7.0.Final</version>
+      <version>2.7.1.Final</version>
     </versions>
-    <lastUpdated>20220126141413</lastUpdated>
+    <lastUpdated>20220208113947</lastUpdated>
   </versioning>
 </metadata>

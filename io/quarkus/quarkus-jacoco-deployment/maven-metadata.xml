@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jacoco-deployment</artifactId>
   <versioning>
-    <latest>2.7.0.Final</latest>
-    <release>2.7.0.Final</release>
+    <latest>2.7.1.Final</latest>
+    <release>2.7.1.Final</release>
     <versions>
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
@@ -58,7 +58,8 @@
       <version>2.6.3.Final</version>
       <version>2.7.0.CR1</version>
       <version>2.7.0.Final</version>
+      <version>2.7.1.Final</version>
     </versions>
-    <lastUpdated>20220126141208</lastUpdated>
+    <lastUpdated>20220208113728</lastUpdated>
   </versioning>
 </metadata>
