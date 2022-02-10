@@ -3,16 +3,18 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connect-rest-extension</artifactId>
   <versioning>
-    <latest>1.9.0.Alpha1</latest>
-    <release>1.9.0.Alpha1</release>
+    <latest>1.9.0.Alpha2</latest>
+    <release>1.9.0.Alpha2</release>
     <versions>
       <version>1.8.0.Alpha1</version>
       <version>1.8.0.Alpha2</version>
       <version>1.8.0.Beta1</version>
       <version>1.8.0.CR1</version>
       <version>1.8.0.Final</version>
+      <version>1.8.1.Final</version>
       <version>1.9.0.Alpha1</version>
+      <version>1.9.0.Alpha2</version>
     </versions>
-    <lastUpdated>20220126193319</lastUpdated>
+    <lastUpdated>20220209172600</lastUpdated>
   </versioning>
 </metadata>

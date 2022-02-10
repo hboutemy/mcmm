@@ -3,7 +3,7 @@
   <groupId>org.drools</groupId>
   <artifactId>droolsjbpm-bpms-distribution</artifactId>
   <versioning>
-    <latest>7.64.0.Final</latest>
+    <latest>7.65.0-SNAPSHOT</latest>
     <release>7.64.0.Final</release>
     <versions>
       <version>6.0.0.Beta5</version>
@@ -132,7 +132,8 @@
       <version>7.62.0.Final</version>
       <version>7.63.0.Final</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220119163003</lastUpdated>
+    <lastUpdated>20220119203623</lastUpdated>
   </versioning>
 </metadata>

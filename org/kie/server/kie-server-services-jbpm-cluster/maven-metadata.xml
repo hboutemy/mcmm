@@ -3,8 +3,8 @@
   <groupId>org.kie.server</groupId>
   <artifactId>kie-server-services-jbpm-cluster</artifactId>
   <versioning>
-    <latest>7.64.0.Final</latest>
-    <release>7.64.0.Final</release>
+    <latest>7.66.0-SNAPSHOT</latest>
+    <release>7.65.0.Final</release>
     <versions>
       <version>7.48.0.Final</version>
       <version>7.49.0.Final</version>
@@ -23,7 +23,8 @@
       <version>7.62.0.Final</version>
       <version>7.63.0.Final</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220119164112</lastUpdated>
+    <lastUpdated>20220209073422</lastUpdated>
   </versioning>
 </metadata>

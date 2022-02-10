@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-cloud-pubsublite-v1</artifactId>
   <versioning>
-    <latest>1.4.9</latest>
-    <release>1.4.9</release>
+    <latest>1.4.11</latest>
+    <release>1.4.11</release>
     <versions>
       <version>0.1.1</version>
       <version>0.1.2</version>
@@ -63,8 +63,10 @@
       <version>1.4.7</version>
       <version>1.4.8</version>
       <version>1.4.9</version>
+      <version>1.4.10</version>
+      <version>1.4.11</version>
       <version>0.11.0</version>
     </versions>
-    <lastUpdated>20220204190821</lastUpdated>
+    <lastUpdated>20220209203027</lastUpdated>
   </versioning>
 </metadata>

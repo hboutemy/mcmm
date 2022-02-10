@@ -3,7 +3,7 @@
   <groupId>org.jbpm</groupId>
   <artifactId>jbpm-services</artifactId>
   <versioning>
-    <latest>7.64.0.Final</latest>
+    <latest>7.65.0-SNAPSHOT</latest>
     <release>7.64.0.Final</release>
     <versions>
       <version>6.0.0.Alpha4</version>
@@ -143,7 +143,8 @@
       <version>7.63.0.Final</version>
       <version>7.64.0.Final</version>
       <version>6.0.0.Alpha7</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220119163151</lastUpdated>
+    <lastUpdated>20220128165324</lastUpdated>
   </versioning>
 </metadata>

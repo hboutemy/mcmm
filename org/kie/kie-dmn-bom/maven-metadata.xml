@@ -3,7 +3,7 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-dmn-bom</artifactId>
   <versioning>
-    <latest>8.16.1.Beta</latest>
+    <latest>8.17.0-SNAPSHOT</latest>
     <release>8.16.1.Beta</release>
     <versions>
       <version>7.0.0.Beta7</version>
@@ -115,7 +115,8 @@
       <version>8.15.0.Beta</version>
       <version>8.16.0.Beta</version>
       <version>8.16.1.Beta</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220202145025</lastUpdated>
+    <lastUpdated>20220204095702</lastUpdated>
   </versioning>
 </metadata>

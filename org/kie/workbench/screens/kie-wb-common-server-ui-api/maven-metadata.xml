@@ -3,8 +3,8 @@
   <groupId>org.kie.workbench.screens</groupId>
   <artifactId>kie-wb-common-server-ui-api</artifactId>
   <versioning>
-    <latest>7.64.0.Final</latest>
-    <release>7.64.0.Final</release>
+    <latest>8.0.0-SNAPSHOT</latest>
+    <release>7.65.0.Final</release>
     <versions>
       <version>6.2.0.Beta1</version>
       <version>6.2.0.Beta2</version>
@@ -112,7 +112,8 @@
       <version>7.62.0.Final</version>
       <version>7.63.0.Final</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220119164301</lastUpdated>
+    <lastUpdated>20220209074240</lastUpdated>
   </versioning>
 </metadata>
