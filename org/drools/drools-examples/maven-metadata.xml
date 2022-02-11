@@ -3,7 +3,7 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-examples</artifactId>
   <versioning>
-    <latest>8.17.0-SNAPSHOT</latest>
+    <latest>8.16.1.Beta</latest>
     <release>8.16.1.Beta</release>
     <versions>
       <version>5.0.0.CR1</version>
@@ -184,6 +184,7 @@
       <version>7.63.0.Final</version>
       <version>7.63.0.t20211129</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -192,6 +193,6 @@
       <version>8.16.1.Beta</version>
       <version>6.0.0.Alpha7</version>
     </versions>
-    <lastUpdated>20220208191515</lastUpdated>
+    <lastUpdated>20220209070808</lastUpdated>
   </versioning>
 </metadata>

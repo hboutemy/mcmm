@@ -3,13 +3,14 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>test-integration-nomvel</artifactId>
   <versioning>
-    <latest>8.17.0-SNAPSHOT</latest>
+    <latest>8.16.1.Beta</latest>
     <release>8.16.1.Beta</release>
     <versions>
       <version>7.62.0.Final</version>
       <version>7.63.0.Final</version>
       <version>7.63.0.t20211129</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -17,6 +18,6 @@
       <version>8.16.0.Beta</version>
       <version>8.16.1.Beta</version>
     </versions>
-    <lastUpdated>20220202153933</lastUpdated>
+    <lastUpdated>20220209071245</lastUpdated>
   </versioning>
 </metadata>

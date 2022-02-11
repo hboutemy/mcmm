@@ -3,8 +3,8 @@
   <groupId>org.kie.workbench.services</groupId>
   <artifactId>kie-wb-common-refactoring-backend</artifactId>
   <versioning>
-    <latest>8.0.0-SNAPSHOT</latest>
-    <release>7.64.0.Final</release>
+    <latest>7.65.0.Final</latest>
+    <release>7.65.0.Final</release>
     <versions>
       <version>6.1.0.Beta4</version>
       <version>6.1.0.CR1</version>
@@ -116,7 +116,8 @@
       <version>7.62.0.Final</version>
       <version>7.63.0.Final</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
     </versions>
-    <lastUpdated>20220207081802</lastUpdated>
+    <lastUpdated>20220209074329</lastUpdated>
   </versioning>
 </metadata>

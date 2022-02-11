@@ -3,7 +3,7 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-service-spring-boot-archetype</artifactId>
   <versioning>
-    <latest>8.17.0-SNAPSHOT</latest>
+    <latest>8.16.1.Beta</latest>
     <release>8.16.1.Beta</release>
     <versions>
       <version>7.10.0.Final</version>
@@ -88,6 +88,7 @@
       <version>7.63.0.Final</version>
       <version>7.63.0.t20211129</version>
       <version>7.64.0.Final</version>
+      <version>7.65.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -95,6 +96,6 @@
       <version>8.16.0.Beta</version>
       <version>8.16.1.Beta</version>
     </versions>
-    <lastUpdated>20220205030029</lastUpdated>
+    <lastUpdated>20220209073013</lastUpdated>
   </versioning>
 </metadata>
