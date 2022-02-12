@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-redisson-3.0</artifactId>
   <versioning>
-    <latest>1.10.1-alpha</latest>
-    <release>1.10.1-alpha</release>
+    <latest>1.11.0-alpha</latest>
+    <release>1.11.0-alpha</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -40,7 +40,8 @@
       <version>1.9.2-alpha</version>
       <version>1.10.0-alpha</version>
       <version>1.10.1-alpha</version>
+      <version>1.11.0-alpha</version>
     </versions>
-    <lastUpdated>20220127004730</lastUpdated>
+    <lastUpdated>20220211224016</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>eu.michael-simons.neo4j</groupId>
   <artifactId>neo4j-migrations-maven-plugin</artifactId>
   <versioning>
-    <latest>1.3.1</latest>
-    <release>1.3.1</release>
+    <latest>1.3.2</latest>
+    <release>1.3.2</release>
     <versions>
       <version>0.0.11</version>
       <version>0.0.12</version>
@@ -24,7 +24,8 @@
       <version>1.2.3</version>
       <version>1.3.0</version>
       <version>1.3.1</version>
+      <version>1.3.2</version>
     </versions>
-    <lastUpdated>20220110174308</lastUpdated>
+    <lastUpdated>20220211140942</lastUpdated>
   </versioning>
 </metadata>

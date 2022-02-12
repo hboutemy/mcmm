@@ -6,10 +6,12 @@
       <artifactId>bw-deploy-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Bedework: A plugin to deploy ears on wildfly</name>
       <prefix>bw-utildeploy</prefix>
       <artifactId>bw-util-maven-deploy</artifactId>
     </plugin>
     <plugin>
+      <name>Bedework: A plugin to deploy modules on wildfly</name>
       <prefix>bw-utildeploy-wfmodule</prefix>
       <artifactId>bw-util-maven-deploy-wfmodule</artifactId>
     </plugin>

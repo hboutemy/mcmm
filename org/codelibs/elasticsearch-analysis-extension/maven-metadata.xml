@@ -3,8 +3,8 @@
   <groupId>org.codelibs</groupId>
   <artifactId>elasticsearch-analysis-extension</artifactId>
   <versioning>
-    <latest>8.0.0-rc2</latest>
-    <release>8.0.0-rc2</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>6.3.1</version>
       <version>6.3.2</version>
@@ -42,7 +42,8 @@
       <version>7.17.0</version>
       <version>8.0.0-rc1</version>
       <version>8.0.0-rc2</version>
+      <version>8.0.0</version>
     </versions>
-    <lastUpdated>20220209125356</lastUpdated>
+    <lastUpdated>20220211022711</lastUpdated>
   </versioning>
 </metadata>
