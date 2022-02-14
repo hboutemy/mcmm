@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>DbUnit Maven Plugin</name>
+      <name>dbUnit Maven Plugin</name>
       <prefix>dbunit</prefix>
       <artifactId>dbunit-maven-plugin</artifactId>
     </plugin>
