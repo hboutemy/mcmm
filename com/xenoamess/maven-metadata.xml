@@ -7,6 +7,11 @@
       <artifactId>add-from-repo-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>formatter-maven-plugin</name>
+      <prefix>formatter</prefix>
+      <artifactId>formatter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>jcpp</prefix>
       <artifactId>jcpp-maven-plugin</artifactId>

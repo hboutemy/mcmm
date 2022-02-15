@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-logging-logback</artifactId>
   <versioning>
-    <latest>0.123.3-alpha</latest>
-    <release>0.123.3-alpha</release>
+    <latest>0.123.4-alpha</latest>
+    <release>0.123.4-alpha</release>
     <versions>
       <version>0.19.0-alpha</version>
       <version>0.20.0-alpha</version>
@@ -160,7 +160,8 @@
       <version>0.123.1-alpha</version>
       <version>0.123.2-alpha</version>
       <version>0.123.3-alpha</version>
+      <version>0.123.4-alpha</version>
     </versions>
-    <lastUpdated>20220211200101</lastUpdated>
+    <lastUpdated>20220214142306</lastUpdated>
   </versioning>
 </metadata>
