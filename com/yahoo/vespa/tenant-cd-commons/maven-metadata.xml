@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>tenant-cd-commons</artifactId>
   <versioning>
-    <latest>7.541.24</latest>
-    <release>7.541.24</release>
+    <latest>7.543.30</latest>
+    <release>7.543.30</release>
     <versions>
       <version>7.246.11</version>
       <version>7.247.32</version>
@@ -227,7 +227,9 @@
       <version>7.539.51</version>
       <version>7.540.35</version>
       <version>7.541.24</version>
+      <version>7.542.42</version>
+      <version>7.543.30</version>
     </versions>
-    <lastUpdated>20220210194055</lastUpdated>
+    <lastUpdated>20220215233337</lastUpdated>
   </versioning>
 </metadata>

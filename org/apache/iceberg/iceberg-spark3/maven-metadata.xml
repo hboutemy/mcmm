@@ -3,8 +3,8 @@
   <groupId>org.apache.iceberg</groupId>
   <artifactId>iceberg-spark3</artifactId>
   <versioning>
-    <latest>0.13.0</latest>
-    <release>0.13.0</release>
+    <latest>0.13.1</latest>
+    <release>0.13.1</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.1</version>
@@ -14,7 +14,8 @@
       <version>0.12.0</version>
       <version>0.12.1</version>
       <version>0.13.0</version>
+      <version>0.13.1</version>
     </versions>
-    <lastUpdated>20220201000132</lastUpdated>
+    <lastUpdated>20220215032549</lastUpdated>
   </versioning>
 </metadata>

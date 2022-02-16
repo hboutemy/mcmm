@@ -7,6 +7,11 @@
       <artifactId>cq-camel-prod-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>CQ Camel Spring Boot Prod Maven Plugin</name>
+      <prefix>cq-camel-spring-boot-prod</prefix>
+      <artifactId>cq-camel-spring-boot-prod-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>CQ Maven Plugin</name>
       <prefix>cq</prefix>
       <artifactId>cq-maven-plugin</artifactId>

@@ -3,9 +3,13 @@
   <groupId>in.navanatech</groupId>
   <artifactId>zabaan-sdk</artifactId>
   <versioning>
-    <latest>1.2.6</latest>
-    <release>1.2.6</release>
+    <latest>1.2.9-sandbox</latest>
+    <release>1.2.9-sandbox</release>
     <versions>
+      <version>0.2.6</version>
+      <version>0.2.8-sandbox</version>
+      <version>0.2.9-sandbox</version>
+      <version>0.3.0</version>
       <version>1.0.0</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
@@ -22,7 +26,10 @@
       <version>1.2.5</version>
       <version>1.2.5-sandbox</version>
       <version>1.2.6</version>
+      <version>1.2.7-sandbox</version>
+      <version>1.2.8-sandbox</version>
+      <version>1.2.9-sandbox</version>
     </versions>
-    <lastUpdated>20220128182041</lastUpdated>
+    <lastUpdated>20220215195121</lastUpdated>
   </versioning>
 </metadata>
