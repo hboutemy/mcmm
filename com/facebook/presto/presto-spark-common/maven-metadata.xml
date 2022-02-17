@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-spark-common</artifactId>
   <versioning>
-    <latest>0.269</latest>
-    <release>0.269</release>
+    <latest>0.270</latest>
+    <release>0.270</release>
     <versions>
       <version>0.240</version>
       <version>0.240.1</version>
@@ -55,7 +55,8 @@
       <version>0.267</version>
       <version>0.268</version>
       <version>0.269</version>
+      <version>0.270</version>
     </versions>
-    <lastUpdated>20220201043811</lastUpdated>
+    <lastUpdated>20220216075519</lastUpdated>
   </versioning>
 </metadata>

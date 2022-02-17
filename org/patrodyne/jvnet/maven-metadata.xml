@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven JAXB 2.x Plugin</name>
+      <prefix>hisrc-higherjaxb</prefix>
+      <artifactId>hisrc-higherjaxb-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.3.x Plugin</name>
+      <prefix>hisrc-higherjaxb23</prefix>
+      <artifactId>hisrc-higherjaxb23-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Hyperjaxb3 Maven Plugin</name>
+      <prefix>hisrc-hyperjaxb</prefix>
+      <artifactId>hisrc-hyperjaxb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
