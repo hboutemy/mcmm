@@ -3,8 +3,8 @@
   <groupId>com.nvidia</groupId>
   <artifactId>rapids-4-spark_2.12</artifactId>
   <versioning>
-    <latest>21.12.0</latest>
-    <release>21.12.0</release>
+    <latest>22.02.0</latest>
+    <release>22.02.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.0-databricks</version>
@@ -19,7 +19,8 @@
       <version>21.08.0</version>
       <version>21.10.0</version>
       <version>21.12.0</version>
+      <version>22.02.0</version>
     </versions>
-    <lastUpdated>20211214024749</lastUpdated>
+    <lastUpdated>20220217024605</lastUpdated>
   </versioning>
 </metadata>
