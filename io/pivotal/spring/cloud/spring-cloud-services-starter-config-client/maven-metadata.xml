@@ -3,8 +3,8 @@
   <groupId>io.pivotal.spring.cloud</groupId>
   <artifactId>spring-cloud-services-starter-config-client</artifactId>
   <versioning>
-    <latest>3.3.0</latest>
-    <release>3.3.0</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.0.1.RELEASE</version>
       <version>1.0.2.RELEASE</version>
@@ -60,7 +60,8 @@
       <version>3.2.0.RELEASE</version>
       <version>3.2.1.RELEASE</version>
       <version>3.3.0</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20210716164345</lastUpdated>
+    <lastUpdated>20220218125908</lastUpdated>
   </versioning>
 </metadata>
