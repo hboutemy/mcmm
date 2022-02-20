@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Codeswitcher Pre-processor.</name>
+      <prefix>codeswitcher</prefix>
+      <artifactId>codeswitcher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>PF4J Plugin Generator</name>
       <prefix>pf4jgenerator</prefix>
       <artifactId>pf4j-plugin-generator</artifactId>

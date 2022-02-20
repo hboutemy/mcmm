@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-plugin-config-center</artifactId>
   <versioning>
-    <latest>6.13.0</latest>
-    <release>6.13.0</release>
+    <latest>6.13.1</latest>
+    <release>6.13.1</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -206,6 +206,7 @@
       <version>3.28.0</version>
       <version>3.28.1</version>
       <version>3.29.0</version>
+      <version>3.30.0</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -412,7 +413,8 @@
       <version>6.12.0</version>
       <version>6.12.1</version>
       <version>6.13.0</version>
+      <version>6.13.1</version>
     </versions>
-    <lastUpdated>20220218002212</lastUpdated>
+    <lastUpdated>20220219190031</lastUpdated>
   </versioning>
 </metadata>
