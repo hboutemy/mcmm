@@ -3,8 +3,8 @@
   <groupId>org.sonatype.plugins</groupId>
   <artifactId>nexus-m2settings-maven-plugin</artifactId>
   <versioning>
-    <latest>1.6.11</latest>
-    <release>1.6.11</release>
+    <latest>1.6.12</latest>
+    <release>1.6.12</release>
     <versions>
       <version>1.4</version>
       <version>1.4.1</version>
@@ -28,7 +28,8 @@
       <version>1.6.9</version>
       <version>1.6.10</version>
       <version>1.6.11</version>
+      <version>1.6.12</version>
     </versions>
-    <lastUpdated>20220215184226</lastUpdated>
+    <lastUpdated>20220222195759</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>dryuf-csv-localizer</prefix>
       <artifactId>dryuf-csv-localizer-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>dryuf-executable-jar-maven-plugin</name>
+      <prefix>dryuf-executable-jar</prefix>
+      <artifactId>dryuf-executable-jar-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

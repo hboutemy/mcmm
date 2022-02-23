@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-check-api-test-fixtures</artifactId>
   <versioning>
-    <latest>7.7.0-rc3</latest>
-    <release>7.7.0-rc3</release>
+    <latest>7.7.0</latest>
+    <release>7.7.0</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -220,6 +220,7 @@
       <version>7.4.15</version>
       <version>7.4.16</version>
       <version>7.4.17</version>
+      <version>7.4.18</version>
       <version>7.5.0-rc1</version>
       <version>7.5.0-rc2</version>
       <version>7.5.0-rc3</version>
@@ -236,6 +237,7 @@
       <version>7.5.10</version>
       <version>7.5.11</version>
       <version>7.5.12</version>
+      <version>7.5.13</version>
       <version>7.6.0-rc1</version>
       <version>7.6.0-rc2</version>
       <version>7.6.0-rc3</version>
@@ -245,10 +247,12 @@
       <version>7.6.2</version>
       <version>7.6.3</version>
       <version>7.6.4</version>
+      <version>7.6.5</version>
       <version>7.7.0-rc1</version>
       <version>7.7.0-rc2</version>
       <version>7.7.0-rc3</version>
+      <version>7.7.0</version>
     </versions>
-    <lastUpdated>20220215175534</lastUpdated>
+    <lastUpdated>20220222163917</lastUpdated>
   </versioning>
 </metadata>

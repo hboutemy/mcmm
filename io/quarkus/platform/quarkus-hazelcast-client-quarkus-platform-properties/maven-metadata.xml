@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-hazelcast-client-quarkus-platform-properties</artifactId>
   <versioning>
-    <latest>2.7.1.Final</latest>
-    <release>2.7.1.Final</release>
+    <latest>2.7.2.Final</latest>
+    <release>2.7.2.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -42,7 +42,8 @@
       <version>2.7.0.CR1</version>
       <version>2.7.0.Final</version>
       <version>2.7.1.Final</version>
+      <version>2.7.2.Final</version>
     </versions>
-    <lastUpdated>20220208140546</lastUpdated>
+    <lastUpdated>20220222195529</lastUpdated>
   </versioning>
 </metadata>
