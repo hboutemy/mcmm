@@ -3,9 +3,10 @@
   <groupId>com.growingio.android</groupId>
   <artifactId>vds-android-agent</artifactId>
   <versioning>
-    <latest>track-2.9.11</latest>
-    <release>track-2.9.11</release>
+    <latest>track-2.9.12</latest>
+    <release>track-2.9.12</release>
     <versions>
+      <version>autotrack-</version>
       <version>autotrack-2.9.0</version>
       <version>autotrack-2.9.1</version>
       <version>autotrack-2.9.2</version>
@@ -18,8 +19,10 @@
       <version>autotrack-2.9.9</version>
       <version>autotrack-2.9.10</version>
       <version>autotrack-2.9.11</version>
+      <version>autotrack-2.9.12</version>
       <version>cdp-1.2.7</version>
       <version>cdp-1.2.8</version>
+      <version>game-autotrack-</version>
       <version>game-autotrack-2.9.0</version>
       <version>game-autotrack-2.9.1</version>
       <version>game-autotrack-2.9.2</version>
@@ -32,6 +35,8 @@
       <version>game-autotrack-2.9.9</version>
       <version>game-autotrack-2.9.10</version>
       <version>game-autotrack-2.9.11</version>
+      <version>game-autotrack-2.9.12</version>
+      <version>game-track-</version>
       <version>game-track-2.9.0</version>
       <version>game-track-2.9.1</version>
       <version>game-track-2.9.2</version>
@@ -44,6 +49,8 @@
       <version>game-track-2.9.9</version>
       <version>game-track-2.9.10</version>
       <version>game-track-2.9.11</version>
+      <version>game-track-2.9.12</version>
+      <version>RN-autotrack-</version>
       <version>RN-autotrack-2.9.0</version>
       <version>RN-autotrack-2.9.1</version>
       <version>RN-autotrack-2.9.2</version>
@@ -56,6 +63,8 @@
       <version>RN-autotrack-2.9.9</version>
       <version>RN-autotrack-2.9.10</version>
       <version>RN-autotrack-2.9.11</version>
+      <version>RN-autotrack-2.9.12</version>
+      <version>RN-track-</version>
       <version>RN-track-2.9.0</version>
       <version>RN-track-2.9.1</version>
       <version>RN-track-2.9.2</version>
@@ -68,6 +77,8 @@
       <version>RN-track-2.9.9</version>
       <version>RN-track-2.9.10</version>
       <version>RN-track-2.9.11</version>
+      <version>RN-track-2.9.12</version>
+      <version>track-</version>
       <version>track-2.9.0</version>
       <version>track-2.9.1</version>
       <version>track-2.9.2</version>
@@ -80,7 +91,8 @@
       <version>track-2.9.9</version>
       <version>track-2.9.10</version>
       <version>track-2.9.11</version>
+      <version>track-2.9.12</version>
     </versions>
-    <lastUpdated>20220120070720</lastUpdated>
+    <lastUpdated>20220224090043</lastUpdated>
   </versioning>
 </metadata>

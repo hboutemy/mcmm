@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>quick-restlet-generator</name>
+      <prefix>restlet</prefix>
+      <artifactId>restlet-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

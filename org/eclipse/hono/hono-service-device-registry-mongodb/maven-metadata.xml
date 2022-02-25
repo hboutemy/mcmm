@@ -3,8 +3,8 @@
   <groupId>org.eclipse.hono</groupId>
   <artifactId>hono-service-device-registry-mongodb</artifactId>
   <versioning>
-    <latest>1.12.0</latest>
-    <release>1.12.0</release>
+    <latest>1.12.1</latest>
+    <release>1.12.1</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -36,7 +36,8 @@
       <version>1.11.1</version>
       <version>1.11.2</version>
       <version>1.12.0</version>
+      <version>1.12.1</version>
     </versions>
-    <lastUpdated>20220209072332</lastUpdated>
+    <lastUpdated>20220224161403</lastUpdated>
   </versioning>
 </metadata>
