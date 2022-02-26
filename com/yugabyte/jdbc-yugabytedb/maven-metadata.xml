@@ -3,8 +3,8 @@
   <groupId>com.yugabyte</groupId>
   <artifactId>jdbc-yugabytedb</artifactId>
   <versioning>
-    <latest>42.3.3</latest>
-    <release>42.3.3</release>
+    <latest>42.3.4-alpha</latest>
+    <release>42.3.4-alpha</release>
     <versions>
       <version>42.2.7-yb-3</version>
       <version>42.2.7-yb-5-beta</version>
@@ -18,7 +18,8 @@
       <version>42.3.0</version>
       <version>42.3.2</version>
       <version>42.3.3</version>
+      <version>42.3.4-alpha</version>
     </versions>
-    <lastUpdated>20220112120359</lastUpdated>
+    <lastUpdated>20220225152014</lastUpdated>
   </versioning>
 </metadata>

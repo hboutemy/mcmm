@@ -3,8 +3,8 @@
   <groupId>io.getquill</groupId>
   <artifactId>quill-cassandra-lagom_2.11</artifactId>
   <versioning>
-    <latest>3.17.0-RC1</latest>
-    <release>3.17.0-RC1</release>
+    <latest>3.17.0-RC2</latest>
+    <release>3.17.0-RC2</release>
     <versions>
       <version>3.1.0</version>
       <version>3.2.0</version>
@@ -48,7 +48,8 @@
       <version>3.16.2</version>
       <version>3.16.3</version>
       <version>3.17.0-RC1</version>
+      <version>3.17.0-RC2</version>
     </versions>
-    <lastUpdated>20220210065403</lastUpdated>
+    <lastUpdated>20220225001131</lastUpdated>
   </versioning>
 </metadata>
