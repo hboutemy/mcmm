@@ -3,8 +3,8 @@
   <groupId>org.springframework.geode</groupId>
   <artifactId>spring-geode-bom</artifactId>
   <versioning>
-    <latest>1.6.3</latest>
-    <release>1.6.3</release>
+    <latest>1.6.4</latest>
+    <release>1.6.4</release>
     <versions>
       <version>1.2.11.RELEASE</version>
       <version>1.2.12.RELEASE</version>
@@ -43,11 +43,13 @@
       <version>1.5.7</version>
       <version>1.5.8</version>
       <version>1.5.9</version>
+      <version>1.5.10</version>
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
       <version>1.6.3</version>
+      <version>1.6.4</version>
     </versions>
-    <lastUpdated>20220121191544</lastUpdated>
+    <lastUpdated>20220228221923</lastUpdated>
   </versioning>
 </metadata>
