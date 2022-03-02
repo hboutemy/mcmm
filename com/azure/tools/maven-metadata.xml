@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Azure SDK for Java Maven Build Tool</name>
+      <prefix>azure-sdk-build-tool</prefix>
+      <artifactId>azure-sdk-build-tool</artifactId>
+    </plugin>
+    <plugin>
       <name>Codesnippet Maven Plugin</name>
       <prefix>codesnippet</prefix>
       <artifactId>codesnippet-maven-plugin</artifactId>

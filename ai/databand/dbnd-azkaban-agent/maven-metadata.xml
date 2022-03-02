@@ -3,8 +3,8 @@
   <groupId>ai.databand</groupId>
   <artifactId>dbnd-azkaban-agent</artifactId>
   <versioning>
-    <latest>0.64.1</latest>
-    <release>0.64.1</release>
+    <latest>0.64.2</latest>
+    <release>0.64.2</release>
     <versions>
       <version>0.42.1</version>
       <version>0.42.2</version>
@@ -97,8 +97,10 @@
       <version>0.63.3</version>
       <version>0.63.4</version>
       <version>0.63.5</version>
+      <version>0.63.6</version>
       <version>0.64.1</version>
+      <version>0.64.2</version>
     </versions>
-    <lastUpdated>20220224124901</lastUpdated>
+    <lastUpdated>20220301150332</lastUpdated>
   </versioning>
 </metadata>
