@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-jobs-service-quarkus</artifactId>
   <versioning>
-    <latest>1.17.0.Final</latest>
-    <release>1.17.0.Final</release>
+    <latest>1.18.0.Final</latest>
+    <release>1.18.0.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.1.0.Final</version>
@@ -29,7 +29,8 @@
       <version>1.16.0.Final</version>
       <version>1.16.1.Final</version>
       <version>1.17.0.Final</version>
+      <version>1.18.0.Final</version>
     </versions>
-    <lastUpdated>20220215104555</lastUpdated>
+    <lastUpdated>20220302140046</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-flyway-parent</artifactId>
   <versioning>
-    <latest>2.7.2.Final</latest>
-    <release>2.7.2.Final</release>
+    <latest>2.7.3.Final</latest>
+    <release>2.7.3.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -157,7 +157,8 @@
       <version>2.7.0.Final</version>
       <version>2.7.1.Final</version>
       <version>2.7.2.Final</version>
+      <version>2.7.3.Final</version>
     </versions>
-    <lastUpdated>20220222163515</lastUpdated>
+    <lastUpdated>20220302130020</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-test-common</artifactId>
   <versioning>
-    <latest>3.37.3-02</latest>
-    <release>3.37.3-02</release>
+    <latest>3.38.0-01</latest>
+    <release>3.38.0-01</release>
     <versions>
       <version>1.9.2-RC3</version>
       <version>1.9.2</version>
@@ -211,8 +211,9 @@
       <version>3.37.1-01</version>
       <version>3.37.2-02</version>
       <version>3.37.3-02</version>
+      <version>3.38.0-01</version>
       <version>2.2.1</version>
     </versions>
-    <lastUpdated>20211229195159</lastUpdated>
+    <lastUpdated>20220302231658</lastUpdated>
   </versioning>
 </metadata>

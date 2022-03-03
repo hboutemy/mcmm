@@ -7,6 +7,11 @@
       <artifactId>cucumber-pdf-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>cucumber-rest-assured-extent-report-plugin</name>
+      <prefix>cucumber-rest-assured-extent-report</prefix>
+      <artifactId>cucumber-rest-assured-extent-report-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>extentreports-cucumberjson-plugin</name>
       <prefix>extentreports-cucumberjson</prefix>
       <artifactId>extentreports-cucumberjson-plugin</artifactId>
