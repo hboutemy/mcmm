@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Dump Maven Model Plugin</name>
+      <prefix>dumpmodel</prefix>
+      <artifactId>dump-maven-model</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
