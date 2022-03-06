@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven dependency reporter plugin</name>
+      <prefix>dependency-reporter</prefix>
+      <artifactId>dependency-reporter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

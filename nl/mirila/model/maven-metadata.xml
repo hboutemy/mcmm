@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mirila :: Model :: Pojo Generator</name>
+      <prefix>mirila-model-pojo-generator</prefix>
+      <artifactId>mirila-model-pojo-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mirila :: Model :: SQL Generator</name>
+      <prefix>mirila-model-sql-generator</prefix>
+      <artifactId>mirila-model-sql-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mirila :: Model :: TypeScript Generator</name>
+      <prefix>mirila-model-typescript-generator</prefix>
+      <artifactId>mirila-model-typescript-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

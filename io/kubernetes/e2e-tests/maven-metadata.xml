@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>e2e-tests</artifactId>
   <versioning>
-    <latest>14.0.0</latest>
-    <release>14.0.0</release>
+    <latest>14.0.1</latest>
+    <release>14.0.1</release>
     <versions>
       <version>10.0.0</version>
       <version>10.0.1</version>
@@ -21,7 +21,8 @@
       <version>13.0.1</version>
       <version>13.0.2</version>
       <version>14.0.0</version>
+      <version>14.0.1</version>
     </versions>
-    <lastUpdated>20220111001519</lastUpdated>
+    <lastUpdated>20220305002846</lastUpdated>
   </versioning>
 </metadata>
