@@ -7,6 +7,11 @@
       <artifactId>camunda-schema-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>gitlabci-maven-plugin Maven Mojo</name>
+      <prefix>gitlabci</prefix>
+      <artifactId>gitlabci-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jenkinsfile-maven-plugin Maven Mojo</name>
       <prefix>jenkinsfile</prefix>
       <artifactId>jenkinsfile-maven-plugin</artifactId>
