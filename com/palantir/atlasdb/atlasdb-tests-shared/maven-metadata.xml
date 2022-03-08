@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-tests-shared</artifactId>
   <versioning>
-    <latest>0.564.0-rc1</latest>
-    <release>0.564.0-rc1</release>
+    <latest>0.565.0</latest>
+    <release>0.565.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -295,7 +295,9 @@
       <version>0.562.0</version>
       <version>0.563.0</version>
       <version>0.564.0-rc1</version>
+      <version>0.564.0</version>
+      <version>0.565.0</version>
     </versions>
-    <lastUpdated>20220304154829</lastUpdated>
+    <lastUpdated>20220307180404</lastUpdated>
   </versioning>
 </metadata>

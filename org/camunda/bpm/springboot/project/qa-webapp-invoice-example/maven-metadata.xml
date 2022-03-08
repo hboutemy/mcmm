@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.springboot.project</groupId>
   <artifactId>qa-webapp-invoice-example</artifactId>
   <versioning>
-    <latest>7.17.0-alpha4</latest>
-    <release>7.17.0-alpha4</release>
+    <latest>7.17.0-alpha5</latest>
+    <release>7.17.0-alpha5</release>
     <versions>
       <version>3.4.0-alpha2</version>
       <version>3.4.0</version>
@@ -37,7 +37,8 @@
       <version>7.17.0-alpha2</version>
       <version>7.17.0-alpha3</version>
       <version>7.17.0-alpha4</version>
+      <version>7.17.0-alpha5</version>
     </versions>
-    <lastUpdated>20220207150532</lastUpdated>
+    <lastUpdated>20220307150509</lastUpdated>
   </versioning>
 </metadata>
