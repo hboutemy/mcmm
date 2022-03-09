@@ -3,8 +3,8 @@
   <groupId>com.rabbitmq</groupId>
   <artifactId>http-client</artifactId>
   <versioning>
-    <latest>4.1.0</latest>
-    <release>4.1.0</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.1.0.RELEASE</version>
@@ -37,7 +37,9 @@
       <version>3.12.1</version>
       <version>4.0.0</version>
       <version>4.1.0</version>
+      <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20220304091413</lastUpdated>
+    <lastUpdated>20220308155311</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.keycloak.testsuite</groupId>
   <artifactId>integration-arquillian-test-apps-dist</artifactId>
   <versioning>
@@ -60,6 +60,6 @@
       <version>4.8.2.Final</version>
       <version>4.8.3.Final</version>
     </versions>
-    <lastUpdated>20190115134958</lastUpdated>
+    <lastUpdated>20220308215902</lastUpdated>
   </versioning>
 </metadata>
