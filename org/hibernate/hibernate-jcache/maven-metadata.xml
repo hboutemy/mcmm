@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-jcache</artifactId>
   <versioning>
-    <latest>6.0.0.CR1</latest>
-    <release>6.0.0.CR1</release>
+    <latest>6.0.0.CR2</latest>
+    <release>6.0.0.CR2</release>
     <versions>
       <version>5.2.0.Final</version>
       <version>5.2.1.Final</version>
@@ -118,6 +118,7 @@
       <version>6.0.0.Beta2</version>
       <version>6.0.0.Beta3</version>
       <version>6.0.0.CR1</version>
+      <version>6.0.0.CR2</version>
       <version>5.2.13.Final</version>
       <version>5.2.14.Final</version>
       <version>5.2.15.Final</version>
@@ -126,6 +127,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20220127152505</lastUpdated>
+    <lastUpdated>20220309040029</lastUpdated>
   </versioning>
 </metadata>

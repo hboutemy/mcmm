@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-jetty81-adapter</artifactId>
   <versioning>
@@ -74,6 +74,6 @@
       <version>4.8.3.Final</version>
       <version>5.0.0</version>
     </versions>
-    <lastUpdated>20220308221504</lastUpdated>
+    <lastUpdated>20190306094336</lastUpdated>
   </versioning>
 </metadata>

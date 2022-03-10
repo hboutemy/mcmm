@@ -3,8 +3,8 @@
   <groupId>com.wavefront</groupId>
   <artifactId>proxy-test</artifactId>
   <versioning>
-    <latest>999.4</latest>
-    <release>999.4</release>
+    <latest>9999.0</latest>
+    <release>9999.0</release>
     <versions>
       <version>999.0-RC3</version>
       <version>999.0</version>
@@ -12,7 +12,12 @@
       <version>999.2</version>
       <version>999.3</version>
       <version>999.4</version>
+      <version>9993.0</version>
+      <version>9993.1</version>
+      <version>9999.0-RC1</version>
+      <version>9999.0-RC2</version>
+      <version>9999.0</version>
     </versions>
-    <lastUpdated>20220303175910</lastUpdated>
+    <lastUpdated>20220309224322</lastUpdated>
   </versioning>
 </metadata>

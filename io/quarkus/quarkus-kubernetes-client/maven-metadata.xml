@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-kubernetes-client</artifactId>
   <versioning>
-    <latest>2.7.3.Final</latest>
-    <release>2.7.3.Final</release>
+    <latest>2.7.4.Final</latest>
+    <release>2.7.4.Final</release>
     <versions>
       <version>0.18.0</version>
       <version>0.19.0</version>
@@ -149,7 +149,8 @@
       <version>2.7.1.Final</version>
       <version>2.7.2.Final</version>
       <version>2.7.3.Final</version>
+      <version>2.7.4.Final</version>
     </versions>
-    <lastUpdated>20220302130105</lastUpdated>
+    <lastUpdated>20220309162631</lastUpdated>
   </versioning>
 </metadata>
