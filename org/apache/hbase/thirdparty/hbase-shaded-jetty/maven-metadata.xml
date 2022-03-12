@@ -3,8 +3,8 @@
   <groupId>org.apache.hbase.thirdparty</groupId>
   <artifactId>hbase-shaded-jetty</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>3.4.0</version>
       <version>3.4.1</version>
@@ -12,7 +12,8 @@
       <version>3.5.1</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20211228135643</lastUpdated>
+    <lastUpdated>20220311021519</lastUpdated>
   </versioning>
 </metadata>
