@@ -3,8 +3,8 @@
   <groupId>nl.hsac</groupId>
   <artifactId>hsac-fitnesse-fixtures</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.1.2</latest>
+    <release>5.1.2</release>
     <versions>
       <version>1.9.1</version>
       <version>1.9.2</version>
@@ -211,11 +211,15 @@
       <version>4.31.0</version>
       <version>4.32.0</version>
       <version>5.0.0</version>
+      <version>5.1.0-beta</version>
+      <version>5.1.0</version>
+      <version>5.1.1</version>
+      <version>5.1.2</version>
       <version>1.10.11</version>
       <version>1.10.12</version>
       <version>1.10.13</version>
       <version>1.10.14</version>
     </versions>
-    <lastUpdated>20220213155252</lastUpdated>
+    <lastUpdated>20220312135615</lastUpdated>
   </versioning>
 </metadata>
