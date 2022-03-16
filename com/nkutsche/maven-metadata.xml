@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>xslt-pkg</prefix>
+      <artifactId>xslt-pkg-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>XSpec Maven Plugin</name>
       <prefix>xspec</prefix>
       <artifactId>xspec-maven-plugin</artifactId>

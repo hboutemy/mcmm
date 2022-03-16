@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Protostuff Compiler - Maven Plugin</name>
+      <name>protostuff :: maven-plugin</name>
       <prefix>protostuff</prefix>
       <artifactId>protostuff-maven-plugin</artifactId>
     </plugin>

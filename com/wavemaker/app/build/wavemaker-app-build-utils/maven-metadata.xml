@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.app.build</groupId>
   <artifactId>wavemaker-app-build-utils</artifactId>
   <versioning>
-    <latest>10.13.0</latest>
-    <release>10.13.0</release>
+    <latest>10.13.0.ee</latest>
+    <release>10.13.0.ee</release>
     <versions>
       <version>9.4.0.10</version>
       <version>9.4.0.12</version>
@@ -54,7 +54,8 @@
       <version>10.12.0</version>
       <version>10.12.2</version>
       <version>10.13.0</version>
+      <version>10.13.0.ee</version>
     </versions>
-    <lastUpdated>20220312121325</lastUpdated>
+    <lastUpdated>20220315150353</lastUpdated>
   </versioning>
 </metadata>
