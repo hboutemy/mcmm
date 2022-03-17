@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-oidc-client-reactive-filter-parent</artifactId>
   <versioning>
-    <latest>2.7.4.Final</latest>
-    <release>2.7.4.Final</release>
+    <latest>2.7.5.Final</latest>
+    <release>2.7.5.Final</release>
     <versions>
       <version>2.0.0.Alpha2</version>
       <version>2.0.0.Alpha3</version>
@@ -52,7 +52,8 @@
       <version>2.7.2.Final</version>
       <version>2.7.3.Final</version>
       <version>2.7.4.Final</version>
+      <version>2.7.5.Final</version>
     </versions>
-    <lastUpdated>20220309162702</lastUpdated>
+    <lastUpdated>20220316084241</lastUpdated>
   </versioning>
 </metadata>

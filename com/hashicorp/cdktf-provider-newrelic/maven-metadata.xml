@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-newrelic</artifactId>
   <versioning>
-    <latest>0.2.29</latest>
-    <release>0.2.29</release>
+    <latest>0.3.302</latest>
+    <release>0.3.302</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -253,224 +253,33 @@
       <version>0.2.218</version>
       <version>0.2.219</version>
       <version>0.3.1</version>
-      <version>0.3.10</version>
-      <version>0.3.100</version>
-      <version>0.3.101</version>
-      <version>0.3.102</version>
-      <version>0.3.103</version>
-      <version>0.3.104</version>
-      <version>0.3.105</version>
-      <version>0.3.106</version>
-      <version>0.3.107</version>
-      <version>0.3.108</version>
-      <version>0.3.109</version>
-      <version>0.3.11</version>
-      <version>0.3.110</version>
-      <version>0.3.111</version>
-      <version>0.3.112</version>
-      <version>0.3.113</version>
-      <version>0.3.114</version>
-      <version>0.3.115</version>
-      <version>0.3.116</version>
-      <version>0.3.117</version>
-      <version>0.3.118</version>
-      <version>0.3.119</version>
-      <version>0.3.12</version>
-      <version>0.3.120</version>
-      <version>0.3.121</version>
-      <version>0.3.122</version>
-      <version>0.3.123</version>
-      <version>0.3.124</version>
-      <version>0.3.125</version>
-      <version>0.3.126</version>
-      <version>0.3.127</version>
-      <version>0.3.128</version>
-      <version>0.3.129</version>
-      <version>0.3.13</version>
-      <version>0.3.130</version>
-      <version>0.3.131</version>
-      <version>0.3.132</version>
-      <version>0.3.133</version>
-      <version>0.3.134</version>
-      <version>0.3.135</version>
-      <version>0.3.136</version>
-      <version>0.3.137</version>
-      <version>0.3.138</version>
-      <version>0.3.139</version>
-      <version>0.3.14</version>
-      <version>0.3.140</version>
-      <version>0.3.141</version>
-      <version>0.3.142</version>
-      <version>0.3.143</version>
-      <version>0.3.144</version>
-      <version>0.3.145</version>
-      <version>0.3.146</version>
-      <version>0.3.147</version>
-      <version>0.3.148</version>
-      <version>0.3.149</version>
-      <version>0.3.15</version>
-      <version>0.3.150</version>
-      <version>0.3.151</version>
-      <version>0.3.152</version>
-      <version>0.3.153</version>
-      <version>0.3.154</version>
-      <version>0.3.155</version>
-      <version>0.3.156</version>
-      <version>0.3.157</version>
-      <version>0.3.158</version>
-      <version>0.3.159</version>
-      <version>0.3.16</version>
-      <version>0.3.160</version>
-      <version>0.3.161</version>
-      <version>0.3.162</version>
-      <version>0.3.163</version>
-      <version>0.3.164</version>
-      <version>0.3.165</version>
-      <version>0.3.166</version>
-      <version>0.3.167</version>
-      <version>0.3.168</version>
-      <version>0.3.169</version>
-      <version>0.3.17</version>
-      <version>0.3.170</version>
-      <version>0.3.171</version>
-      <version>0.3.172</version>
-      <version>0.3.173</version>
-      <version>0.3.174</version>
-      <version>0.3.175</version>
-      <version>0.3.176</version>
-      <version>0.3.177</version>
-      <version>0.3.178</version>
-      <version>0.3.179</version>
-      <version>0.3.18</version>
-      <version>0.3.180</version>
-      <version>0.3.181</version>
-      <version>0.3.182</version>
-      <version>0.3.183</version>
-      <version>0.3.184</version>
-      <version>0.3.185</version>
-      <version>0.3.186</version>
-      <version>0.3.187</version>
-      <version>0.3.188</version>
-      <version>0.3.189</version>
-      <version>0.3.19</version>
-      <version>0.3.190</version>
-      <version>0.3.191</version>
-      <version>0.3.192</version>
-      <version>0.3.193</version>
-      <version>0.3.194</version>
-      <version>0.3.195</version>
-      <version>0.3.196</version>
-      <version>0.3.197</version>
-      <version>0.3.198</version>
-      <version>0.3.199</version>
       <version>0.3.2</version>
-      <version>0.3.20</version>
-      <version>0.3.200</version>
-      <version>0.3.201</version>
-      <version>0.3.202</version>
-      <version>0.3.203</version>
-      <version>0.3.204</version>
-      <version>0.3.205</version>
-      <version>0.3.206</version>
-      <version>0.3.207</version>
-      <version>0.3.208</version>
-      <version>0.3.209</version>
-      <version>0.3.21</version>
-      <version>0.3.210</version>
-      <version>0.3.211</version>
-      <version>0.3.212</version>
-      <version>0.3.213</version>
-      <version>0.3.214</version>
-      <version>0.3.215</version>
-      <version>0.3.216</version>
-      <version>0.3.217</version>
-      <version>0.3.218</version>
-      <version>0.3.219</version>
-      <version>0.3.22</version>
-      <version>0.3.220</version>
-      <version>0.3.221</version>
-      <version>0.3.222</version>
-      <version>0.3.223</version>
-      <version>0.3.224</version>
-      <version>0.3.225</version>
-      <version>0.3.226</version>
-      <version>0.3.227</version>
-      <version>0.3.228</version>
-      <version>0.3.229</version>
-      <version>0.3.23</version>
-      <version>0.3.230</version>
-      <version>0.3.231</version>
-      <version>0.3.232</version>
-      <version>0.3.233</version>
-      <version>0.3.234</version>
-      <version>0.3.235</version>
-      <version>0.3.236</version>
-      <version>0.3.237</version>
-      <version>0.3.238</version>
-      <version>0.3.239</version>
-      <version>0.3.24</version>
-      <version>0.3.240</version>
-      <version>0.3.241</version>
-      <version>0.3.242</version>
-      <version>0.3.243</version>
-      <version>0.3.244</version>
-      <version>0.3.245</version>
-      <version>0.3.246</version>
-      <version>0.3.247</version>
-      <version>0.3.248</version>
-      <version>0.3.249</version>
-      <version>0.3.25</version>
-      <version>0.3.250</version>
-      <version>0.3.251</version>
-      <version>0.3.252</version>
-      <version>0.3.253</version>
-      <version>0.3.254</version>
-      <version>0.3.255</version>
-      <version>0.3.256</version>
-      <version>0.3.257</version>
-      <version>0.3.258</version>
-      <version>0.3.259</version>
-      <version>0.3.26</version>
-      <version>0.3.260</version>
-      <version>0.3.261</version>
-      <version>0.3.262</version>
-      <version>0.3.263</version>
-      <version>0.3.264</version>
-      <version>0.3.265</version>
-      <version>0.3.266</version>
-      <version>0.3.267</version>
-      <version>0.3.268</version>
-      <version>0.3.269</version>
-      <version>0.3.27</version>
-      <version>0.3.270</version>
-      <version>0.3.271</version>
-      <version>0.3.272</version>
-      <version>0.3.273</version>
-      <version>0.3.274</version>
-      <version>0.3.275</version>
-      <version>0.3.276</version>
-      <version>0.3.277</version>
-      <version>0.3.278</version>
-      <version>0.3.279</version>
-      <version>0.3.28</version>
-      <version>0.3.280</version>
-      <version>0.3.281</version>
-      <version>0.3.282</version>
-      <version>0.3.283</version>
-      <version>0.3.284</version>
-      <version>0.3.285</version>
-      <version>0.3.286</version>
-      <version>0.3.287</version>
-      <version>0.3.288</version>
-      <version>0.3.289</version>
-      <version>0.3.29</version>
-      <version>0.3.290</version>
-      <version>0.3.291</version>
-      <version>0.3.292</version>
-      <version>0.3.293</version>
-      <version>0.3.294</version>
-      <version>0.3.296</version>
       <version>0.3.3</version>
+      <version>0.3.4</version>
+      <version>0.3.5</version>
+      <version>0.3.6</version>
+      <version>0.3.8</version>
+      <version>0.3.9</version>
+      <version>0.3.10</version>
+      <version>0.3.11</version>
+      <version>0.3.12</version>
+      <version>0.3.13</version>
+      <version>0.3.14</version>
+      <version>0.3.15</version>
+      <version>0.3.16</version>
+      <version>0.3.17</version>
+      <version>0.3.18</version>
+      <version>0.3.19</version>
+      <version>0.3.20</version>
+      <version>0.3.21</version>
+      <version>0.3.22</version>
+      <version>0.3.23</version>
+      <version>0.3.24</version>
+      <version>0.3.25</version>
+      <version>0.3.26</version>
+      <version>0.3.27</version>
+      <version>0.3.28</version>
+      <version>0.3.29</version>
       <version>0.3.30</version>
       <version>0.3.31</version>
       <version>0.3.32</version>
@@ -481,7 +290,6 @@
       <version>0.3.37</version>
       <version>0.3.38</version>
       <version>0.3.39</version>
-      <version>0.3.4</version>
       <version>0.3.40</version>
       <version>0.3.41</version>
       <version>0.3.42</version>
@@ -492,7 +300,6 @@
       <version>0.3.47</version>
       <version>0.3.48</version>
       <version>0.3.49</version>
-      <version>0.3.5</version>
       <version>0.3.50</version>
       <version>0.3.51</version>
       <version>0.3.52</version>
@@ -502,7 +309,6 @@
       <version>0.3.57</version>
       <version>0.3.58</version>
       <version>0.3.59</version>
-      <version>0.3.6</version>
       <version>0.3.60</version>
       <version>0.3.61</version>
       <version>0.3.62</version>
@@ -523,7 +329,6 @@
       <version>0.3.77</version>
       <version>0.3.78</version>
       <version>0.3.79</version>
-      <version>0.3.8</version>
       <version>0.3.80</version>
       <version>0.3.81</version>
       <version>0.3.82</version>
@@ -534,7 +339,6 @@
       <version>0.3.87</version>
       <version>0.3.88</version>
       <version>0.3.89</version>
-      <version>0.3.9</version>
       <version>0.3.90</version>
       <version>0.3.91</version>
       <version>0.3.92</version>
@@ -545,7 +349,209 @@
       <version>0.3.97</version>
       <version>0.3.98</version>
       <version>0.3.99</version>
+      <version>0.3.100</version>
+      <version>0.3.101</version>
+      <version>0.3.102</version>
+      <version>0.3.103</version>
+      <version>0.3.104</version>
+      <version>0.3.105</version>
+      <version>0.3.106</version>
+      <version>0.3.107</version>
+      <version>0.3.108</version>
+      <version>0.3.109</version>
+      <version>0.3.110</version>
+      <version>0.3.111</version>
+      <version>0.3.112</version>
+      <version>0.3.113</version>
+      <version>0.3.114</version>
+      <version>0.3.115</version>
+      <version>0.3.116</version>
+      <version>0.3.117</version>
+      <version>0.3.118</version>
+      <version>0.3.119</version>
+      <version>0.3.120</version>
+      <version>0.3.121</version>
+      <version>0.3.122</version>
+      <version>0.3.123</version>
+      <version>0.3.124</version>
+      <version>0.3.125</version>
+      <version>0.3.126</version>
+      <version>0.3.127</version>
+      <version>0.3.128</version>
+      <version>0.3.129</version>
+      <version>0.3.130</version>
+      <version>0.3.131</version>
+      <version>0.3.132</version>
+      <version>0.3.133</version>
+      <version>0.3.134</version>
+      <version>0.3.135</version>
+      <version>0.3.136</version>
+      <version>0.3.137</version>
+      <version>0.3.138</version>
+      <version>0.3.139</version>
+      <version>0.3.140</version>
+      <version>0.3.141</version>
+      <version>0.3.142</version>
+      <version>0.3.143</version>
+      <version>0.3.144</version>
+      <version>0.3.145</version>
+      <version>0.3.146</version>
+      <version>0.3.147</version>
+      <version>0.3.148</version>
+      <version>0.3.149</version>
+      <version>0.3.150</version>
+      <version>0.3.151</version>
+      <version>0.3.152</version>
+      <version>0.3.153</version>
+      <version>0.3.154</version>
+      <version>0.3.155</version>
+      <version>0.3.156</version>
+      <version>0.3.157</version>
+      <version>0.3.158</version>
+      <version>0.3.159</version>
+      <version>0.3.160</version>
+      <version>0.3.161</version>
+      <version>0.3.162</version>
+      <version>0.3.163</version>
+      <version>0.3.164</version>
+      <version>0.3.165</version>
+      <version>0.3.166</version>
+      <version>0.3.167</version>
+      <version>0.3.168</version>
+      <version>0.3.169</version>
+      <version>0.3.170</version>
+      <version>0.3.171</version>
+      <version>0.3.172</version>
+      <version>0.3.173</version>
+      <version>0.3.174</version>
+      <version>0.3.175</version>
+      <version>0.3.176</version>
+      <version>0.3.177</version>
+      <version>0.3.178</version>
+      <version>0.3.179</version>
+      <version>0.3.180</version>
+      <version>0.3.181</version>
+      <version>0.3.182</version>
+      <version>0.3.183</version>
+      <version>0.3.184</version>
+      <version>0.3.185</version>
+      <version>0.3.186</version>
+      <version>0.3.187</version>
+      <version>0.3.188</version>
+      <version>0.3.189</version>
+      <version>0.3.190</version>
+      <version>0.3.191</version>
+      <version>0.3.192</version>
+      <version>0.3.193</version>
+      <version>0.3.194</version>
+      <version>0.3.195</version>
+      <version>0.3.196</version>
+      <version>0.3.197</version>
+      <version>0.3.198</version>
+      <version>0.3.199</version>
+      <version>0.3.200</version>
+      <version>0.3.201</version>
+      <version>0.3.202</version>
+      <version>0.3.203</version>
+      <version>0.3.204</version>
+      <version>0.3.205</version>
+      <version>0.3.206</version>
+      <version>0.3.207</version>
+      <version>0.3.208</version>
+      <version>0.3.209</version>
+      <version>0.3.210</version>
+      <version>0.3.211</version>
+      <version>0.3.212</version>
+      <version>0.3.213</version>
+      <version>0.3.214</version>
+      <version>0.3.215</version>
+      <version>0.3.216</version>
+      <version>0.3.217</version>
+      <version>0.3.218</version>
+      <version>0.3.219</version>
+      <version>0.3.220</version>
+      <version>0.3.221</version>
+      <version>0.3.222</version>
+      <version>0.3.223</version>
+      <version>0.3.224</version>
+      <version>0.3.225</version>
+      <version>0.3.226</version>
+      <version>0.3.227</version>
+      <version>0.3.228</version>
+      <version>0.3.229</version>
+      <version>0.3.230</version>
+      <version>0.3.231</version>
+      <version>0.3.232</version>
+      <version>0.3.233</version>
+      <version>0.3.234</version>
+      <version>0.3.235</version>
+      <version>0.3.236</version>
+      <version>0.3.237</version>
+      <version>0.3.238</version>
+      <version>0.3.239</version>
+      <version>0.3.240</version>
+      <version>0.3.241</version>
+      <version>0.3.242</version>
+      <version>0.3.243</version>
+      <version>0.3.244</version>
+      <version>0.3.245</version>
+      <version>0.3.246</version>
+      <version>0.3.247</version>
+      <version>0.3.248</version>
+      <version>0.3.249</version>
+      <version>0.3.250</version>
+      <version>0.3.251</version>
+      <version>0.3.252</version>
+      <version>0.3.253</version>
+      <version>0.3.254</version>
+      <version>0.3.255</version>
+      <version>0.3.256</version>
+      <version>0.3.257</version>
+      <version>0.3.258</version>
+      <version>0.3.259</version>
+      <version>0.3.260</version>
+      <version>0.3.261</version>
+      <version>0.3.262</version>
+      <version>0.3.263</version>
+      <version>0.3.264</version>
+      <version>0.3.265</version>
+      <version>0.3.266</version>
+      <version>0.3.267</version>
+      <version>0.3.268</version>
+      <version>0.3.269</version>
+      <version>0.3.270</version>
+      <version>0.3.271</version>
+      <version>0.3.272</version>
+      <version>0.3.273</version>
+      <version>0.3.274</version>
+      <version>0.3.275</version>
+      <version>0.3.276</version>
+      <version>0.3.277</version>
+      <version>0.3.278</version>
+      <version>0.3.279</version>
+      <version>0.3.280</version>
+      <version>0.3.281</version>
+      <version>0.3.282</version>
+      <version>0.3.283</version>
+      <version>0.3.284</version>
+      <version>0.3.285</version>
+      <version>0.3.286</version>
+      <version>0.3.287</version>
+      <version>0.3.288</version>
+      <version>0.3.289</version>
+      <version>0.3.290</version>
+      <version>0.3.291</version>
+      <version>0.3.292</version>
+      <version>0.3.293</version>
+      <version>0.3.294</version>
+      <version>0.3.296</version>
+      <version>0.3.297</version>
+      <version>0.3.298</version>
+      <version>0.3.299</version>
+      <version>0.3.300</version>
+      <version>0.3.301</version>
+      <version>0.3.302</version>
     </versions>
-    <lastUpdated>20211218202557</lastUpdated>
+    <lastUpdated>20220316201147</lastUpdated>
   </versioning>
 </metadata>

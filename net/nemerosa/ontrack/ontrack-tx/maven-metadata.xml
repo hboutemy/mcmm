@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-tx</artifactId>
   <versioning>
-    <latest>4.1.13</latest>
-    <release>4.1.13</release>
+    <latest>4.1.14</latest>
+    <release>4.1.14</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -395,6 +395,7 @@
       <version>3.43.22</version>
       <version>3.43.23</version>
       <version>3.43.24</version>
+      <version>3.43.25</version>
       <version>4.0-alpha.0</version>
       <version>4.0-alpha.0-dirty</version>
       <version>4.0-alpha.1</version>
@@ -503,7 +504,8 @@
       <version>4.1.11</version>
       <version>4.1.12</version>
       <version>4.1.13</version>
+      <version>4.1.14</version>
     </versions>
-    <lastUpdated>20220224150632</lastUpdated>
+    <lastUpdated>20220316111902</lastUpdated>
   </versioning>
 </metadata>

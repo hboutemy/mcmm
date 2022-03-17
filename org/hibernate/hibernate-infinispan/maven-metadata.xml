@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-infinispan</artifactId>
   <versioning>
-    <latest>5.6.6.Final</latest>
-    <release>5.6.6.Final</release>
+    <latest>5.6.7.Final</latest>
+    <release>5.6.7.Final</release>
     <versions>
       <version>5.1.17.Final</version>
       <version>5.2.18.Final</version>
@@ -95,6 +95,7 @@
       <version>5.6.4.Final</version>
       <version>5.6.5.Final</version>
       <version>5.6.6.Final</version>
+      <version>5.6.7.Final</version>
       <version>3.5.0-Beta-2</version>
       <version>3.5.0-Beta-3</version>
       <version>3.5.0-Beta-4</version>
@@ -259,6 +260,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20220315145217</lastUpdated>
+    <lastUpdated>20220316174302</lastUpdated>
   </versioning>
 </metadata>

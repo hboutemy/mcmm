@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>FireLine Maven Plugin</name>
+      <prefix>fireline</prefix>
+      <artifactId>fireline-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Simian Maven Plugin</name>
       <prefix>simian</prefix>
       <artifactId>simian-maven-plugin</artifactId>

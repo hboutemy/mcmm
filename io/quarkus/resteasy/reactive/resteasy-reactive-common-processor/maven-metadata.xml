@@ -3,8 +3,8 @@
   <groupId>io.quarkus.resteasy.reactive</groupId>
   <artifactId>resteasy-reactive-common-processor</artifactId>
   <versioning>
-    <latest>2.7.4.Final</latest>
-    <release>2.7.4.Final</release>
+    <latest>2.7.5.Final</latest>
+    <release>2.7.5.Final</release>
     <versions>
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
@@ -77,7 +77,8 @@
       <version>2.7.2.Final</version>
       <version>2.7.3.Final</version>
       <version>2.7.4.Final</version>
+      <version>2.7.5.Final</version>
     </versions>
-    <lastUpdated>20220309162840</lastUpdated>
+    <lastUpdated>20220316084423</lastUpdated>
   </versioning>
 </metadata>
