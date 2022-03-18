@@ -4,7 +4,7 @@
   <artifactId>com.liferay.portal.search.elasticsearch7.impl</artifactId>
   <versioning>
     <latest>5.0.6</latest>
-    <release>6.0.36</release>
+    <release>5.0.35</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -207,8 +207,9 @@
       <version>6.0.34</version>
       <version>6.0.35</version>
       <version>6.0.36</version>
+      <version>5.0.35</version>
       <version>1.0.5</version>
     </versions>
-    <lastUpdated>20220316222229</lastUpdated>
+    <lastUpdated>20220317003316</lastUpdated>
   </versioning>
 </metadata>

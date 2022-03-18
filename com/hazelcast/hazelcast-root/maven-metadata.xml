@@ -3,8 +3,8 @@
   <groupId>com.hazelcast</groupId>
   <artifactId>hazelcast-root</artifactId>
   <versioning>
-    <latest>5.1</latest>
-    <release>5.1</release>
+    <latest>5.1.1</latest>
+    <release>5.1.1</release>
     <versions>
       <version>1.9.2</version>
       <version>1.9.2.1</version>
@@ -210,6 +210,7 @@
       <version>5.0.2</version>
       <version>5.1-BETA-1</version>
       <version>5.1</version>
+      <version>5.1.1</version>
       <version>1.7</version>
       <version>1.7-RC2</version>
       <version>1.7-RC3</version>
@@ -230,6 +231,6 @@
       <version>3.4.4</version>
       <version>3.5</version>
     </versions>
-    <lastUpdated>20220228093535</lastUpdated>
+    <lastUpdated>20220317120626</lastUpdated>
   </versioning>
 </metadata>

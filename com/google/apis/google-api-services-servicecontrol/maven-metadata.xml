@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-servicecontrol</artifactId>
   <versioning>
-    <latest>v2-rev20220218-1.32.1</latest>
-    <release>v2-rev20220218-1.32.1</release>
+    <latest>v2-rev20220315-1.32.1</latest>
+    <release>v2-rev20220315-1.32.1</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
@@ -579,6 +579,7 @@
       <version>v1-rev20211022-1.32.1</version>
       <version>v1-rev20220114-1.32.1</version>
       <version>v1-rev20220218-1.32.1</version>
+      <version>v1-rev20220315-1.32.1</version>
       <version>v2-rev20200727-1.30.10</version>
       <version>v2-rev20200808-1.30.10</version>
       <version>v2-rev20200911-1.30.10</version>
@@ -599,7 +600,8 @@
       <version>v2-rev20210813-1.32.1</version>
       <version>v2-rev20210924-1.32.1</version>
       <version>v2-rev20220218-1.32.1</version>
+      <version>v2-rev20220315-1.32.1</version>
     </versions>
-    <lastUpdated>20220224212943</lastUpdated>
+    <lastUpdated>20220317080800</lastUpdated>
   </versioning>
 </metadata>
