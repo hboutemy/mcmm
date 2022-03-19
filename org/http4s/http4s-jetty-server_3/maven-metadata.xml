@@ -3,8 +3,8 @@
   <groupId>org.http4s</groupId>
   <artifactId>http4s-jetty-server_3</artifactId>
   <versioning>
-    <latest>1.0.0-M31</latest>
-    <release>1.0.0-M31</release>
+    <latest>1.0.0-M32</latest>
+    <release>1.0.0-M32</release>
     <versions>
       <version>0.22.0-M8</version>
       <version>0.22.0-RC1</version>
@@ -34,6 +34,7 @@
       <version>0.23.8</version>
       <version>0.23.9</version>
       <version>0.23.10</version>
+      <version>0.23.11</version>
       <version>1.0.0-M22</version>
       <version>1.0.0-M23</version>
       <version>1.0.0-M24</version>
@@ -43,7 +44,8 @@
       <version>1.0.0-M29</version>
       <version>1.0.0-M30</version>
       <version>1.0.0-M31</version>
+      <version>1.0.0-M32</version>
     </versions>
-    <lastUpdated>20220314135059</lastUpdated>
+    <lastUpdated>20220318214816</lastUpdated>
   </versioning>
 </metadata>
