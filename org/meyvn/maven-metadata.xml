@@ -6,5 +6,20 @@
       <prefix>appimagetool</prefix>
       <artifactId>appimagetool-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Cljs Maven Plugin</name>
+      <prefix>cljs</prefix>
+      <artifactId>cljs-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jpegtran-maven-plugin Maven Plugin</name>
+      <prefix>jpegtran</prefix>
+      <artifactId>jpegtran-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>optipng-maven-plugin Maven Plugin</name>
+      <prefix>optipng</prefix>
+      <artifactId>optipng-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
