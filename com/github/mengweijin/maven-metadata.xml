@@ -6,5 +6,10 @@
       <prefix>code-generator</prefix>
       <artifactId>code-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>license-maven-plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
