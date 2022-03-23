@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-external-api-index</artifactId>
   <versioning>
-    <latest>10.8</latest>
-    <release>10.8</release>
+    <latest>10.10</latest>
+    <release>10.10</release>
     <versions>
       <version>7.2</version>
       <version>7.3</version>
@@ -46,7 +46,9 @@
       <version>10.6</version>
       <version>10.7</version>
       <version>10.8</version>
+      <version>10.9</version>
+      <version>10.10</version>
     </versions>
-    <lastUpdated>20220110145840</lastUpdated>
+    <lastUpdated>20220322231844</lastUpdated>
   </versioning>
 </metadata>

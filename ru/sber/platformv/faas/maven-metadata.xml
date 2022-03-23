@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Platform V Faas Java SDK Maven Plugin</name>
+      <prefix>faas</prefix>
+      <artifactId>faas-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
