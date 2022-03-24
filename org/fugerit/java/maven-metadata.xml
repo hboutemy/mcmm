@@ -11,5 +11,10 @@
       <prefix>freemarker</prefix>
       <artifactId>freemarker-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>yaml-doc-maven-plugin</name>
+      <prefix>yaml-doc</prefix>
+      <artifactId>yaml-doc-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

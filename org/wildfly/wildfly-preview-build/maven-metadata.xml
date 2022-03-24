@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-preview-build</artifactId>
   <versioning>
-    <latest>26.0.1.Final</latest>
-    <release>26.0.1.Final</release>
+    <latest>26.1.0.Beta1</latest>
+    <release>26.1.0.Beta1</release>
     <versions>
       <version>22.0.0.Alpha1</version>
       <version>22.0.0.Beta1</version>
@@ -23,7 +23,8 @@
       <version>26.0.0.Beta1</version>
       <version>26.0.0.Final</version>
       <version>26.0.1.Final</version>
+      <version>26.1.0.Beta1</version>
     </versions>
-    <lastUpdated>20220120131027</lastUpdated>
+    <lastUpdated>20220323180616</lastUpdated>
   </versioning>
 </metadata>

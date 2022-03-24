@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>equivalence-maven-plugin</name>
       <prefix>equivalence</prefix>
       <artifactId>equivalence-maven-plugin</artifactId>
     </plugin>

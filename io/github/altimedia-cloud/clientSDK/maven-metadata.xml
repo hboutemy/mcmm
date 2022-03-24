@@ -3,8 +3,8 @@
   <groupId>io.github.altimedia-cloud</groupId>
   <artifactId>clientSDK</artifactId>
   <versioning>
-    <latest>99.74-uhdRelease</latest>
-    <release>99.74-uhdRelease</release>
+    <latest>99.75-uhdRelease</latest>
+    <release>99.75-uhdRelease</release>
     <versions>
       <version>1.26-tvgRelease</version>
       <version>1.26-uhdRelease</version>
@@ -238,7 +238,11 @@
       <version>99.74-tvgRelease</version>
       <version>99.74-uhdDebug</version>
       <version>99.74-uhdRelease</version>
+      <version>99.75-tvgDebug</version>
+      <version>99.75-tvgRelease</version>
+      <version>99.75-uhdDebug</version>
+      <version>99.75-uhdRelease</version>
     </versions>
-    <lastUpdated>20220307082256</lastUpdated>
+    <lastUpdated>20220323120620</lastUpdated>
   </versioning>
 </metadata>
