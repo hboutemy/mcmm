@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Code Generation Maven Plugin</name>
+      <prefix>codegen</prefix>
+      <artifactId>codegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plexus Maven Plugin</name>
+      <prefix>plexus</prefix>
+      <artifactId>plexus-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
