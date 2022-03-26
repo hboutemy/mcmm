@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>sample-toaster-it</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.0.1</latest>
+    <release>5.0.1</release>
     <versions>
       <version>1.4.0-Boron</version>
       <version>1.4.1-Boron-SR1</version>
@@ -82,7 +82,8 @@
       <version>4.0.9</version>
       <version>4.0.10</version>
       <version>5.0.0</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20220320162653</lastUpdated>
+    <lastUpdated>20220325174506</lastUpdated>
   </versioning>
 </metadata>
