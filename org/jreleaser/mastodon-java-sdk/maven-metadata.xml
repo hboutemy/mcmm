@@ -3,8 +3,8 @@
   <groupId>org.jreleaser</groupId>
   <artifactId>mastodon-java-sdk</artifactId>
   <versioning>
-    <latest>1.0.0-M3</latest>
-    <release>1.0.0-M3</release>
+    <latest>1.0.0-RC1</latest>
+    <release>1.0.0-RC1</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -17,7 +17,8 @@
       <version>1.0.0-M1</version>
       <version>1.0.0-M2</version>
       <version>1.0.0-M3</version>
+      <version>1.0.0-RC1</version>
     </versions>
-    <lastUpdated>20220305160000</lastUpdated>
+    <lastUpdated>20220326100342</lastUpdated>
   </versioning>
 </metadata>
