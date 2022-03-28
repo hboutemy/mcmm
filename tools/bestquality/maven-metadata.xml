@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven CI Plugin</name>
+      <prefix>ci</prefix>
+      <artifactId>ci-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.scala-sbt</groupId>
   <artifactId>protocol_2.12</artifactId>
   <versioning>
-    <latest>1.6.2</latest>
-    <release>1.6.2</release>
+    <latest>1.7.0-M2-6810fix</latest>
+    <release>1.7.0-M2-6810fix</release>
     <versions>
       <version>1.0.0-M5</version>
       <version>1.0.0-M6</version>
@@ -99,7 +99,9 @@
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
+      <version>1.7.0-M1</version>
+      <version>1.7.0-M2-6810fix</version>
     </versions>
-    <lastUpdated>20220201040613</lastUpdated>
+    <lastUpdated>20220327195957</lastUpdated>
   </versioning>
 </metadata>
