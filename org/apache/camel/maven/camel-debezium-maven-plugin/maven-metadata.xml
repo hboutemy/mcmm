@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.maven</groupId>
   <artifactId>camel-debezium-maven-plugin</artifactId>
   <versioning>
-    <latest>3.15.0</latest>
-    <release>3.15.0</release>
+    <latest>3.16.0</latest>
+    <release>3.16.0</release>
     <versions>
       <version>3.0.0-RC3</version>
       <version>3.0.0</version>
@@ -45,7 +45,8 @@
       <version>3.14.1</version>
       <version>3.14.2</version>
       <version>3.15.0</version>
+      <version>3.16.0</version>
     </versions>
-    <lastUpdated>20220313214417</lastUpdated>
+    <lastUpdated>20220328063037</lastUpdated>
   </versioning>
 </metadata>
