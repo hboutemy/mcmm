@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-backup</artifactId>
   <versioning>
-    <latest>0.582.0</latest>
-    <release>0.582.0</release>
+    <latest>0.583.0-rc1</latest>
+    <release>0.583.0-rc1</release>
     <versions>
       <version>0.466.0</version>
       <version>0.467.0</version>
@@ -140,7 +140,8 @@
       <version>0.581.0-rc8</version>
       <version>0.581.0</version>
       <version>0.582.0</version>
+      <version>0.583.0-rc1</version>
     </versions>
-    <lastUpdated>20220328204646</lastUpdated>
+    <lastUpdated>20220329152344</lastUpdated>
   </versioning>
 </metadata>
