@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>emoji4j-maven-plugin</name>
+      <prefix>emoji4j</prefix>
+      <artifactId>emoji4j-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jacoco-badge-maven-plugin</name>
       <prefix>jacoco-badge</prefix>
       <artifactId>jacoco-badge-maven-plugin</artifactId>

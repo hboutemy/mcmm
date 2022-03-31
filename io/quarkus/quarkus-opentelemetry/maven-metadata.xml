@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-opentelemetry</artifactId>
   <versioning>
-    <latest>2.8.0.CR1</latest>
-    <release>2.8.0.CR1</release>
+    <latest>2.8.0.Final</latest>
+    <release>2.8.0.Final</release>
     <versions>
       <version>1.13.0.Final</version>
       <version>1.13.1.Final</version>
@@ -63,7 +63,8 @@
       <version>2.7.4.Final</version>
       <version>2.7.5.Final</version>
       <version>2.8.0.CR1</version>
+      <version>2.8.0.Final</version>
     </versions>
-    <lastUpdated>20220323120641</lastUpdated>
+    <lastUpdated>20220330123558</lastUpdated>
   </versioning>
 </metadata>
