@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-vibur</artifactId>
   <versioning>
-    <latest>6.0.0.CR2</latest>
-    <release>6.0.0.CR2</release>
+    <latest>6.0.0.Final</latest>
+    <release>6.0.0.Final</release>
     <versions>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
@@ -109,9 +109,10 @@
       <version>6.0.0.Beta3</version>
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
+      <version>6.0.0.Final</version>
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20220316174311</lastUpdated>
+    <lastUpdated>20220331190611</lastUpdated>
   </versioning>
 </metadata>

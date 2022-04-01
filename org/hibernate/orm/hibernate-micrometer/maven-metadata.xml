@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-micrometer</artifactId>
   <versioning>
-    <latest>6.0.0.CR2</latest>
-    <release>6.0.0.CR2</release>
+    <latest>6.0.0.Final</latest>
+    <release>6.0.0.Final</release>
     <versions>
       <version>6.0.0.Alpha7</version>
       <version>6.0.0.Alpha8</version>
@@ -14,7 +14,8 @@
       <version>6.0.0.Beta3</version>
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
+      <version>6.0.0.Final</version>
     </versions>
-    <lastUpdated>20220309040040</lastUpdated>
+    <lastUpdated>20220331190620</lastUpdated>
   </versioning>
 </metadata>

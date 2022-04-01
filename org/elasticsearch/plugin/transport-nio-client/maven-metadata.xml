@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>transport-nio-client</artifactId>
   <versioning>
-    <latest>7.17.1</latest>
-    <release>7.17.1</release>
+    <latest>7.17.2</latest>
+    <release>7.17.2</release>
     <versions>
       <version>7.0.0-rc1</version>
       <version>7.0.0-rc2</version>
@@ -59,7 +59,8 @@
       <version>7.16.3</version>
       <version>7.17.0</version>
       <version>7.17.1</version>
+      <version>7.17.2</version>
     </versions>
-    <lastUpdated>20220228145809</lastUpdated>
+    <lastUpdated>20220331144233</lastUpdated>
   </versioning>
 </metadata>

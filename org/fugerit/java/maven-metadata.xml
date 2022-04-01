@@ -12,6 +12,11 @@
       <artifactId>freemarker-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>query-export-maven-plugin</name>
+      <prefix>query-export</prefix>
+      <artifactId>query-export-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>yaml-doc-maven-plugin</name>
       <prefix>yaml-doc</prefix>
       <artifactId>yaml-doc-maven-plugin</artifactId>
