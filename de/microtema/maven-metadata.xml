@@ -7,6 +7,11 @@
       <artifactId>camunda-schema-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>GitHub Workflows Maven-Plugin</name>
+      <prefix>github-workflows</prefix>
+      <artifactId>github-workflows-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>gitlabci-maven-plugin Maven Mojo</name>
       <prefix>gitlabci</prefix>
       <artifactId>gitlabci-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator-tck-runner</artifactId>
   <versioning>
-    <latest>8.0.0.Alpha2</latest>
-    <release>8.0.0.Alpha2</release>
+    <latest>8.0.0.Alpha3</latest>
+    <release>8.0.0.Alpha3</release>
     <versions>
       <version>6.2.1.Final</version>
       <version>6.2.2.Final</version>
@@ -14,7 +14,8 @@
       <version>7.0.4.Final</version>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
+      <version>8.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20220310114226</lastUpdated>
+    <lastUpdated>20220401140042</lastUpdated>
   </versioning>
 </metadata>
