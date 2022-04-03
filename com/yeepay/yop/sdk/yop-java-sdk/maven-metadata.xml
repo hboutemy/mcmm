@@ -3,8 +3,8 @@
   <groupId>com.yeepay.yop.sdk</groupId>
   <artifactId>yop-java-sdk</artifactId>
   <versioning>
-    <latest>4.2.0</latest>
-    <release>4.2.0</release>
+    <latest>4.2.1-jdk6on</latest>
+    <release>4.2.1-jdk6on</release>
     <versions>
       <version>3.3.4</version>
       <version>3.3.6</version>
@@ -48,7 +48,9 @@
       <version>4.1.12-jdk7</version>
       <version>4.1.13-jdk6on</version>
       <version>4.2.0</version>
+      <version>4.2.1</version>
+      <version>4.2.1-jdk6on</version>
     </versions>
-    <lastUpdated>20220330092500</lastUpdated>
+    <lastUpdated>20220402114636</lastUpdated>
   </versioning>
 </metadata>
