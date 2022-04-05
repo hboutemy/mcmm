@@ -6,5 +6,10 @@
       <prefix>boot-plus-generator</prefix>
       <artifactId>boot-plus-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>boot-plus-generator Maven Mojo</name>
+      <prefix>mybatis-jpa-generator</prefix>
+      <artifactId>mybatis-jpa-generator</artifactId>
+    </plugin>
   </plugins>
 </metadata>

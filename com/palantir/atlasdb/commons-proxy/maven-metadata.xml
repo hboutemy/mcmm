@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>commons-proxy</artifactId>
   <versioning>
-    <latest>0.586.0</latest>
-    <release>0.586.0</release>
+    <latest>0.588.0-rc1</latest>
+    <release>0.588.0-rc1</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -326,7 +326,9 @@
       <version>0.585.0-rc2</version>
       <version>0.585.0</version>
       <version>0.586.0</version>
+      <version>0.587.0</version>
+      <version>0.588.0-rc1</version>
     </versions>
-    <lastUpdated>20220402150657</lastUpdated>
+    <lastUpdated>20220404163132</lastUpdated>
   </versioning>
 </metadata>
