@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-debug</artifactId>
   <versioning>
-    <latest>1.6.1</latest>
-    <release>1.6.1</release>
+    <latest>1.6.1-native-mt</latest>
+    <release>1.6.1-native-mt</release>
     <versions>
       <version>1.1.0-alpha</version>
       <version>1.1.0</version>
@@ -60,7 +60,8 @@
       <version>1.6.0</version>
       <version>1.6.0-native-mt</version>
       <version>1.6.1</version>
+      <version>1.6.1-native-mt</version>
     </versions>
-    <lastUpdated>20220404154618</lastUpdated>
+    <lastUpdated>20220405152057</lastUpdated>
   </versioning>
 </metadata>

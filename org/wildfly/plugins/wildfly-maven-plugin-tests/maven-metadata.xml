@@ -3,13 +3,14 @@
   <groupId>org.wildfly.plugins</groupId>
   <artifactId>wildfly-maven-plugin-tests</artifactId>
   <versioning>
-    <latest>3.0.0.Beta1</latest>
-    <release>3.0.0.Beta1</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
       <version>3.0.0.Beta1</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20220201033343</lastUpdated>
+    <lastUpdated>20220405182627</lastUpdated>
   </versioning>
 </metadata>

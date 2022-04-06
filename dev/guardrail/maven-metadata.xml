@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Guardrail Maven Plugin</name>
+      <name>guardrail-maven-plugin</name>
       <prefix>guardrail</prefix>
       <artifactId>guardrail-maven-plugin</artifactId>
     </plugin>

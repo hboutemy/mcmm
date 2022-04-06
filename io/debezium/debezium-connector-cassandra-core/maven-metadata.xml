@@ -3,11 +3,12 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-cassandra-core</artifactId>
   <versioning>
-    <latest>1.9.0.CR1</latest>
-    <release>1.9.0.CR1</release>
+    <latest>1.9.0.Final</latest>
+    <release>1.9.0.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
+      <version>1.9.0.Final</version>
     </versions>
-    <lastUpdated>20220325172326</lastUpdated>
+    <lastUpdated>20220405151054</lastUpdated>
   </versioning>
 </metadata>

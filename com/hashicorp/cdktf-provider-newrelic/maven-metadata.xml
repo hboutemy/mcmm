@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-newrelic</artifactId>
   <versioning>
-    <latest>0.4.33</latest>
-    <release>0.4.33</release>
+    <latest>0.4.39</latest>
+    <release>0.4.39</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -663,7 +663,13 @@
       <version>0.4.31</version>
       <version>0.4.32</version>
       <version>0.4.33</version>
+      <version>0.4.34</version>
+      <version>0.4.35</version>
+      <version>0.4.36</version>
+      <version>0.4.37</version>
+      <version>0.4.38</version>
+      <version>0.4.39</version>
     </versions>
-    <lastUpdated>20220404201328</lastUpdated>
+    <lastUpdated>20220405201131</lastUpdated>
   </versioning>
 </metadata>
