@@ -3,8 +3,8 @@
   <groupId>com.redhat.cloud</groupId>
   <artifactId>kafka-instance-sdk</artifactId>
   <versioning>
-    <latest>0.19.0-beta3</latest>
-    <release>0.19.0-beta3</release>
+    <latest>0.19.0</latest>
+    <release>0.19.0</release>
     <versions>
       <version>0.3.1</version>
       <version>0.4.0</version>
@@ -31,7 +31,8 @@
       <version>0.19.0-beta1</version>
       <version>0.19.0-beta2</version>
       <version>0.19.0-beta3</version>
+      <version>0.19.0</version>
     </versions>
-    <lastUpdated>20220405140110</lastUpdated>
+    <lastUpdated>20220406133703</lastUpdated>
   </versioning>
 </metadata>

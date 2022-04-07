@@ -3,8 +3,8 @@
   <groupId>com.appsflyer</groupId>
   <artifactId>af-android-sdk-beta</artifactId>
   <versioning>
-    <latest>6.5.4-rc1</latest>
-    <release>6.5.4-rc1</release>
+    <latest>6.5.4-rc2_gradle7_POC</latest>
+    <release>6.5.4-rc2_gradle7_POC</release>
     <versions>
       <version>4.8.0</version>
       <version>4.8.5</version>
@@ -197,7 +197,8 @@
       <version>6.5.3-rc4</version>
       <version>6.5.3-rc5</version>
       <version>6.5.4-rc1</version>
+      <version>6.5.4-rc2_gradle7_POC</version>
     </versions>
-    <lastUpdated>20220316130806</lastUpdated>
+    <lastUpdated>20220406145411</lastUpdated>
   </versioning>
 </metadata>

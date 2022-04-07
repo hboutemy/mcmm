@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-model-jsonschema2pojo</artifactId>
   <versioning>
-    <latest>5.12.1</latest>
-    <release>5.12.1</release>
+    <latest>5.12.2</latest>
+    <release>5.12.2</release>
     <versions>
       <version>5.0.0-alpha-3</version>
       <version>5.0.0-beta-1</version>
@@ -41,7 +41,8 @@
       <version>5.11.2</version>
       <version>5.12.0</version>
       <version>5.12.1</version>
+      <version>5.12.2</version>
     </versions>
-    <lastUpdated>20220204124957</lastUpdated>
+    <lastUpdated>20220406095841</lastUpdated>
   </versioning>
 </metadata>

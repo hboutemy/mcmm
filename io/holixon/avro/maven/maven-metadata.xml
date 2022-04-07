@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>axon-avro-generator</prefix>
+      <artifactId>axon-avro-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
