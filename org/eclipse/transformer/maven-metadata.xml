@@ -6,5 +6,10 @@
       <prefix>org.eclipse.transformer.</prefix>
       <artifactId>org.eclipse.transformer.maven</artifactId>
     </plugin>
+    <plugin>
+      <name>org.eclipse.transformer:transformer-maven-plugin</name>
+      <prefix>transformer</prefix>
+      <artifactId>transformer-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

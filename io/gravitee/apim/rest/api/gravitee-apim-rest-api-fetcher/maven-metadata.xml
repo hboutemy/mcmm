@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.rest.api</groupId>
   <artifactId>gravitee-apim-rest-api-fetcher</artifactId>
   <versioning>
-    <latest>3.17.0</latest>
-    <release>3.17.0</release>
+    <latest>3.17.1</latest>
+    <release>3.17.1</release>
     <versions>
       <version>3.5.19</version>
       <version>3.5.20</version>
@@ -60,7 +60,8 @@
       <version>3.16.2</version>
       <version>3.16.3</version>
       <version>3.17.0</version>
+      <version>3.17.1</version>
     </versions>
-    <lastUpdated>20220404153312</lastUpdated>
+    <lastUpdated>20220407084621</lastUpdated>
   </versioning>
 </metadata>
