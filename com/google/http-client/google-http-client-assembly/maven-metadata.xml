@@ -3,8 +3,8 @@
   <groupId>com.google.http-client</groupId>
   <artifactId>google-http-client-assembly</artifactId>
   <versioning>
-    <latest>1.41.6</latest>
-    <release>1.41.6</release>
+    <latest>1.41.7</latest>
+    <release>1.41.7</release>
     <versions>
       <version>1.40.0</version>
       <version>1.40.1</version>
@@ -15,6 +15,7 @@
       <version>1.41.4</version>
       <version>1.41.5</version>
       <version>1.41.6</version>
+      <version>1.41.7</version>
       <version>1.10.0-beta</version>
       <version>1.10.1-beta</version>
       <version>1.10.2-beta</version>
@@ -68,6 +69,6 @@
       <version>1.8.3-beta</version>
       <version>1.9.0-beta</version>
     </versions>
-    <lastUpdated>20220406192600</lastUpdated>
+    <lastUpdated>20220411211040</lastUpdated>
   </versioning>
 </metadata>

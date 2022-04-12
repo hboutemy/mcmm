@@ -9,5 +9,9 @@
       <prefix>tiger-bdd-driver-generator</prefix>
       <artifactId>tiger-bdd-driver-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>tiger</prefix>
+      <artifactId>tiger-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
