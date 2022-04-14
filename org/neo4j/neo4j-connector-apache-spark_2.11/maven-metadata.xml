@@ -3,13 +3,15 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-connector-apache-spark_2.11</artifactId>
   <versioning>
-    <latest>4.1.1_for_spark_2.4</latest>
-    <release>4.1.1_for_spark_2.4</release>
+    <latest>4.1.2_for_spark_2.4</latest>
+    <release>4.1.2_for_spark_2.4</release>
     <versions>
       <version>4.0.2_for_spark_2.4</version>
       <version>4.1.0_for_spark_2.4</version>
       <version>4.1.1_for_spark_2.4</version>
+      <version>4.1.2</version>
+      <version>4.1.2_for_spark_2.4</version>
     </versions>
-    <lastUpdated>20220411151522</lastUpdated>
+    <lastUpdated>20220413140705</lastUpdated>
   </versioning>
 </metadata>

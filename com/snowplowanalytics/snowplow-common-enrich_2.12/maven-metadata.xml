@@ -3,8 +3,8 @@
   <groupId>com.snowplowanalytics</groupId>
   <artifactId>snowplow-common-enrich_2.12</artifactId>
   <versioning>
-    <latest>3.1.3-rc1</latest>
-    <release>3.1.3-rc1</release>
+    <latest>3.1.3-rc2</latest>
+    <release>3.1.3-rc2</release>
     <versions>
       <version>1.0.0-M1</version>
       <version>1.0.0-M2</version>
@@ -137,7 +137,8 @@
       <version>3.1.2-rc1</version>
       <version>3.1.2</version>
       <version>3.1.3-rc1</version>
+      <version>3.1.3-rc2</version>
     </versions>
-    <lastUpdated>20220404101303</lastUpdated>
+    <lastUpdated>20220413072707</lastUpdated>
   </versioning>
 </metadata>
