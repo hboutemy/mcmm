@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-metrics</artifactId>
   <versioning>
-    <latest>26.1.0.Beta1</latest>
-    <release>26.1.0.Beta1</release>
+    <latest>26.1.0.Final</latest>
+    <release>26.1.0.Final</release>
     <versions>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
@@ -23,7 +23,8 @@
       <version>26.0.0.Final</version>
       <version>26.0.1.Final</version>
       <version>26.1.0.Beta1</version>
+      <version>26.1.0.Final</version>
     </versions>
-    <lastUpdated>20220323180604</lastUpdated>
+    <lastUpdated>20220414101048</lastUpdated>
   </versioning>
 </metadata>

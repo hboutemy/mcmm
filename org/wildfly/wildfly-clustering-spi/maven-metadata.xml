@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-spi</artifactId>
   <versioning>
-    <latest>26.1.0.Beta1</latest>
-    <release>26.1.0.Beta1</release>
+    <latest>26.1.0.Final</latest>
+    <release>26.1.0.Final</release>
     <versions>
       <version>9.0.0.Alpha1</version>
       <version>9.0.0.Beta1</version>
@@ -84,7 +84,8 @@
       <version>26.0.0.Final</version>
       <version>26.0.1.Final</version>
       <version>26.1.0.Beta1</version>
+      <version>26.1.0.Final</version>
     </versions>
-    <lastUpdated>20220323180516</lastUpdated>
+    <lastUpdated>20220414100957</lastUpdated>
   </versioning>
 </metadata>

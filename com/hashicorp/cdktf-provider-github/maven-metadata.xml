@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-github</artifactId>
   <versioning>
-    <latest>0.7.16</latest>
-    <release>0.7.16</release>
+    <latest>0.7.18</latest>
+    <release>0.7.18</release>
     <versions>
       <version>0.3.9</version>
       <version>0.3.10</version>
@@ -422,7 +422,9 @@
       <version>0.7.14</version>
       <version>0.7.15</version>
       <version>0.7.16</version>
+      <version>0.7.17</version>
+      <version>0.7.18</version>
     </versions>
-    <lastUpdated>20220414001323</lastUpdated>
+    <lastUpdated>20220415001427</lastUpdated>
   </versioning>
 </metadata>

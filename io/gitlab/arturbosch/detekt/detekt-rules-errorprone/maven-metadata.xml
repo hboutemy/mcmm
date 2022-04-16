@@ -3,8 +3,8 @@
   <groupId>io.gitlab.arturbosch.detekt</groupId>
   <artifactId>detekt-rules-errorprone</artifactId>
   <versioning>
-    <latest>1.20.0-RC2</latest>
-    <release>1.20.0-RC2</release>
+    <latest>1.20.0</latest>
+    <release>1.20.0</release>
     <versions>
       <version>1.11.0-RC1</version>
       <version>1.11.0-RC2</version>
@@ -39,7 +39,8 @@
       <version>1.19.0</version>
       <version>1.20.0-RC1</version>
       <version>1.20.0-RC2</version>
+      <version>1.20.0</version>
     </versions>
-    <lastUpdated>20220331203816</lastUpdated>
+    <lastUpdated>20220414224431</lastUpdated>
   </versioning>
 </metadata>
