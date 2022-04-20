@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>grpc-google-cloud-tasks-v2beta2</artifactId>
   <versioning>
-    <latest>0.91.10</latest>
-    <release>0.91.10</release>
+    <latest>0.91.11</latest>
+    <release>0.91.11</release>
     <versions>
       <version>0.19.0</version>
       <version>0.20.0</version>
@@ -114,9 +114,10 @@
       <version>0.91.8</version>
       <version>0.91.9</version>
       <version>0.91.10</version>
+      <version>0.91.11</version>
       <version>0.86.13</version>
       <version>0.87.0</version>
     </versions>
-    <lastUpdated>20220330001015</lastUpdated>
+    <lastUpdated>20220419181341</lastUpdated>
   </versioning>
 </metadata>
