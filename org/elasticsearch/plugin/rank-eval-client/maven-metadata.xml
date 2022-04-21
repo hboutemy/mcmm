@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>rank-eval-client</artifactId>
   <versioning>
-    <latest>7.17.2</latest>
-    <release>7.17.2</release>
+    <latest>7.17.3</latest>
+    <release>7.17.3</release>
     <versions>
       <version>6.2.0</version>
       <version>6.2.1</version>
@@ -110,7 +110,8 @@
       <version>7.17.0</version>
       <version>7.17.1</version>
       <version>7.17.2</version>
+      <version>7.17.3</version>
     </versions>
-    <lastUpdated>20220331144231</lastUpdated>
+    <lastUpdated>20220420135304</lastUpdated>
   </versioning>
 </metadata>

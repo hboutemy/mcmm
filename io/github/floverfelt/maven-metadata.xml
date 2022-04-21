@@ -6,5 +6,10 @@
       <prefix>find-and-replace</prefix>
       <artifactId>find-and-replace-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Pom Visualizer Maven Plugin</name>
+      <prefix>pom-visualizer</prefix>
+      <artifactId>pom-visualizer-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
