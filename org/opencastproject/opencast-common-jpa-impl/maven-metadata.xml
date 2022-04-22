@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-common-jpa-impl</artifactId>
   <versioning>
-    <latest>11.5</latest>
-    <release>11.5</release>
+    <latest>11.6</latest>
+    <release>11.6</release>
     <versions>
       <version>6.6</version>
       <version>7.2</version>
@@ -50,13 +50,15 @@
       <version>10.9</version>
       <version>10.10</version>
       <version>10.11</version>
+      <version>10.12</version>
       <version>11.0</version>
       <version>11.1</version>
       <version>11.2</version>
       <version>11.3</version>
       <version>11.4</version>
       <version>11.5</version>
+      <version>11.6</version>
     </versions>
-    <lastUpdated>20220329174950</lastUpdated>
+    <lastUpdated>20220421225753</lastUpdated>
   </versioning>
 </metadata>

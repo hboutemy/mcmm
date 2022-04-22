@@ -3,8 +3,8 @@
   <groupId>org.springframework.geode</groupId>
   <artifactId>spring-geode-starter</artifactId>
   <versioning>
-    <latest>1.6.6</latest>
-    <release>1.6.6</release>
+    <latest>1.6.7</latest>
+    <release>1.6.7</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -74,6 +74,7 @@
       <version>1.5.10</version>
       <version>1.5.11</version>
       <version>1.5.12</version>
+      <version>1.5.13</version>
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
@@ -81,7 +82,8 @@
       <version>1.6.4</version>
       <version>1.6.5</version>
       <version>1.6.6</version>
+      <version>1.6.7</version>
     </versions>
-    <lastUpdated>20220331191232</lastUpdated>
+    <lastUpdated>20220421194415</lastUpdated>
   </versioning>
 </metadata>

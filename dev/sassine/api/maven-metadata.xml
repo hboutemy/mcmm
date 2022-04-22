@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sqlschema2java-maven-plugin</name>
+      <prefix>sqlschema2java</prefix>
+      <artifactId>sqlschema2java-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

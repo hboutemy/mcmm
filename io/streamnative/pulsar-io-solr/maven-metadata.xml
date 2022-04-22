@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-solr</artifactId>
   <versioning>
-    <latest>2.11.0-rc-202204202205</latest>
-    <release>2.11.0-rc-202204202205</release>
+    <latest>2.11.0-rc-202204212206</latest>
+    <release>2.11.0-rc-202204212206</release>
     <versions>
       <version>v2.8.0-rc-202106091140</version>
       <version>v2.8.0-rc-202106121853</version>
@@ -458,6 +458,7 @@
       <version>2.10.0-rc-20220116133338</version>
       <version>2.10.0-rc-2021121511380612</version>
       <version>2.10.0.0</version>
+      <version>2.10.0.1</version>
       <version>2.11.0-rc-202204132205</version>
       <version>2.11.0-rc-202204142207</version>
       <version>2.11.0-rc-202204152205</version>
@@ -466,7 +467,8 @@
       <version>2.11.0-rc-202204182206</version>
       <version>2.11.0-rc-202204192205</version>
       <version>2.11.0-rc-202204202205</version>
+      <version>2.11.0-rc-202204212206</version>
     </versions>
-    <lastUpdated>20220420223513</lastUpdated>
+    <lastUpdated>20220421223739</lastUpdated>
   </versioning>
 </metadata>
