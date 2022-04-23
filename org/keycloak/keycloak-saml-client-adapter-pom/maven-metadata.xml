@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-client-adapter-pom</artifactId>
   <versioning>
-    <latest>16.1.1</latest>
-    <release>16.1.1</release>
+    <latest>18.0.0</latest>
+    <release>18.0.0</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -110,6 +110,6 @@
       <version>17.0.1</version>
       <version>18.0.0</version>
     </versions>
-    <lastUpdated>20220125100856</lastUpdated>
+    <lastUpdated>20220420192739</lastUpdated>
   </versioning>
 </metadata>
