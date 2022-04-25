@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>License Checker for CycloneDX Maven Plugin</name>
+      <prefix>license-checker-cyclonedx</prefix>
+      <artifactId>license-checker-cyclonedx-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
