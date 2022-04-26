@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>TeamApps Protocol Schema Maven Plugin</name>
+      <prefix>teamapps-protocl-schema</prefix>
+      <artifactId>teamapps-protocl-schema-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>TeamApps Protocol Schema Maven Plugin</name>
+      <prefix>teamapps-protocol-schema</prefix>
+      <artifactId>teamapps-protocol-schema-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for UniversalDB</name>
       <prefix>universal-db</prefix>
       <artifactId>universal-db-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>io.streamnative.connectors</groupId>
   <artifactId>pulsar-flink-connector_2.12</artifactId>
   <versioning>
-    <latest>1.13.6.1-rc7</latest>
-    <release>1.13.6.1-rc7</release>
+    <latest>1.14.3.1</latest>
+    <release>1.14.3.1</release>
     <versions>
       <version>release-1.13.6.1-rc6</version>
       <version>1.9.3.0</version>
@@ -49,7 +49,9 @@
       <version>1.13.6.1-rc4</version>
       <version>1.13.6.1-rc6</version>
       <version>1.13.6.1-rc7</version>
+      <version>1.14.3.1-rc5</version>
+      <version>1.14.3.1</version>
     </versions>
-    <lastUpdated>20220424022501</lastUpdated>
+    <lastUpdated>20220425182833</lastUpdated>
   </versioning>
 </metadata>
