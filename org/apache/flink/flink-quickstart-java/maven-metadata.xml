@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-quickstart-java</artifactId>
   <versioning>
-    <latest>1.14.4</latest>
-    <release>1.14.4</release>
+    <latest>1.15.0</latest>
+    <release>1.15.0</release>
     <versions>
       <version>0.6-hadoop2-incubating</version>
       <version>0.6-incubating</version>
@@ -110,7 +110,8 @@
       <version>1.14.2</version>
       <version>1.14.3</version>
       <version>1.14.4</version>
+      <version>1.15.0</version>
     </versions>
-    <lastUpdated>20220311094636</lastUpdated>
+    <lastUpdated>20220426083044</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-examples-build-helper</artifactId>
   <versioning>
-    <latest>1.14.4</latest>
-    <release>1.14.4</release>
+    <latest>1.15.0</latest>
+    <release>1.15.0</release>
     <versions>
       <version>1.6.4</version>
       <version>1.7.2</version>
@@ -47,7 +47,8 @@
       <version>1.14.2</version>
       <version>1.14.3</version>
       <version>1.14.4</version>
+      <version>1.15.0</version>
     </versions>
-    <lastUpdated>20220311094601</lastUpdated>
+    <lastUpdated>20220426083023</lastUpdated>
   </versioning>
 </metadata>
