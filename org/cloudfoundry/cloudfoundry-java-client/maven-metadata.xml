@@ -3,8 +3,8 @@
   <groupId>org.cloudfoundry</groupId>
   <artifactId>cloudfoundry-java-client</artifactId>
   <versioning>
-    <latest>5.7.0.RELEASE</latest>
-    <release>5.7.0.RELEASE</release>
+    <latest>5.8.0.RELEASE</latest>
+    <release>5.8.0.RELEASE</release>
     <versions>
       <version>2.0.0.M1</version>
       <version>2.0.0.M2</version>
@@ -112,7 +112,8 @@
       <version>5.5.0.RELEASE</version>
       <version>5.6.0.RELEASE</version>
       <version>5.7.0.RELEASE</version>
+      <version>5.8.0.RELEASE</version>
     </versions>
-    <lastUpdated>20220419171848</lastUpdated>
+    <lastUpdated>20220428220402</lastUpdated>
   </versioning>
 </metadata>

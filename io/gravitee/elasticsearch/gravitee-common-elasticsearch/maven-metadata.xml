@@ -3,8 +3,8 @@
   <groupId>io.gravitee.elasticsearch</groupId>
   <artifactId>gravitee-common-elasticsearch</artifactId>
   <versioning>
-    <latest>3.11.0</latest>
-    <release>3.11.0</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>1.15.0</version>
       <version>1.15.1</version>
@@ -121,7 +121,8 @@
       <version>3.9.2</version>
       <version>3.10.0</version>
       <version>3.11.0</version>
+      <version>3.12.0</version>
     </versions>
-    <lastUpdated>20220421075454</lastUpdated>
+    <lastUpdated>20220428084658</lastUpdated>
   </versioning>
 </metadata>
