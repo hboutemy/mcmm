@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.environment</groupId>
   <artifactId>weld-environment-common</artifactId>
   <versioning>
-    <latest>5.0.0.CR2</latest>
-    <release>5.0.0.CR2</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>2.2.5.Final</version>
       <version>2.2.6.Final</version>
@@ -101,7 +101,8 @@
       <version>5.0.0.Beta1</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.CR2</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220323135953</lastUpdated>
+    <lastUpdated>20220429084236</lastUpdated>
   </versioning>
 </metadata>

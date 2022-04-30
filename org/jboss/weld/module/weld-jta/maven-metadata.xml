@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.module</groupId>
   <artifactId>weld-jta</artifactId>
   <versioning>
-    <latest>5.0.0.CR2</latest>
-    <release>5.0.0.CR2</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Alpha7</version>
@@ -60,7 +60,8 @@
       <version>5.0.0.Beta1</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.CR2</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220323140002</lastUpdated>
+    <lastUpdated>20220429084247</lastUpdated>
   </versioning>
 </metadata>

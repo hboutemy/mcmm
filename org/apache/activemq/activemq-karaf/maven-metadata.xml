@@ -3,8 +3,8 @@
   <groupId>org.apache.activemq</groupId>
   <artifactId>activemq-karaf</artifactId>
   <versioning>
-    <latest>5.17.0</latest>
-    <release>5.17.0</release>
+    <latest>5.17.1</latest>
+    <release>5.17.1</release>
     <versions>
       <version>5.3.1</version>
       <version>5.3.2</version>
@@ -65,7 +65,8 @@
       <version>5.16.3</version>
       <version>5.16.4</version>
       <version>5.17.0</version>
+      <version>5.17.1</version>
     </versions>
-    <lastUpdated>20220314132702</lastUpdated>
+    <lastUpdated>20220429075202</lastUpdated>
   </versioning>
 </metadata>

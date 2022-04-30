@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-core-test-arquillian</artifactId>
   <versioning>
-    <latest>5.0.0.CR2</latest>
-    <release>5.0.0.CR2</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Beta2</version>
@@ -189,7 +189,8 @@
       <version>5.0.0.Beta1</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.CR2</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220323140013</lastUpdated>
+    <lastUpdated>20220429084303</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.examples.jsf</groupId>
   <artifactId>weld-jsf-numberguess</artifactId>
   <versioning>
-    <latest>5.0.0.CR2</latest>
-    <release>5.0.0.CR2</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.0.0-CR1</version>
       <version>1.0.0-CR2</version>
@@ -193,7 +193,8 @@
       <version>5.0.0.Beta1</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.CR2</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220323135958</lastUpdated>
+    <lastUpdated>20220429084241</lastUpdated>
   </versioning>
 </metadata>

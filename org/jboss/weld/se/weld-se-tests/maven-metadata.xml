@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.se</groupId>
   <artifactId>weld-se-tests</artifactId>
   <versioning>
-    <latest>5.0.0.CR2</latest>
-    <release>5.0.0.CR2</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>2.3.1.Final</version>
       <version>2.3.2.Final</version>
@@ -69,7 +69,8 @@
       <version>5.0.0.Beta1</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.CR2</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220323140007</lastUpdated>
+    <lastUpdated>20220429084254</lastUpdated>
   </versioning>
 </metadata>
