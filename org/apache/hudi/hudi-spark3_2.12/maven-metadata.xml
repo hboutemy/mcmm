@@ -3,8 +3,8 @@
   <groupId>org.apache.hudi</groupId>
   <artifactId>hudi-spark3_2.12</artifactId>
   <versioning>
-    <latest>0.11.0-rc3</latest>
-    <release>0.11.0-rc3</release>
+    <latest>0.11.0</latest>
+    <release>0.11.0</release>
     <versions>
       <version>0.7.0</version>
       <version>0.8.0</version>
@@ -12,7 +12,8 @@
       <version>0.10.0</version>
       <version>0.10.1</version>
       <version>0.11.0-rc3</version>
+      <version>0.11.0</version>
     </versions>
-    <lastUpdated>20220429022337</lastUpdated>
+    <lastUpdated>20220430182900</lastUpdated>
   </versioning>
 </metadata>

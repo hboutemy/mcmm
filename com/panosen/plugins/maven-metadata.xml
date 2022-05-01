@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Panosen ORM Generation Maven Plugin</name>
+      <prefix>panosen-generation</prefix>
+      <artifactId>panosen-generation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Sample Maven Plugin</name>
       <prefix>sample</prefix>
       <artifactId>sample-maven-plugin</artifactId>
