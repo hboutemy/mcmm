@@ -26,5 +26,10 @@
       <prefix>jetty</prefix>
       <artifactId>maven-jetty-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>tck-extract-tests-maven-plugin Maven Plugin</name>
+      <prefix>tck-extract-tests</prefix>
+      <artifactId>tck-extract-tests-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

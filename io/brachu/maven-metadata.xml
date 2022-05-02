@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>Docker Compose Maven Plugin</name>
       <prefix>docker-compose</prefix>
       <artifactId>docker-compose-maven-plugin</artifactId>
     </plugin>
