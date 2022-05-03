@@ -22,6 +22,11 @@
       <artifactId>tycho-compiler-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho OSGi Declarative Services Plugin</name>
+      <prefix>tycho-ds</prefix>
+      <artifactId>tycho-ds-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho GPG plugin</name>
       <prefix>tycho-gpg</prefix>
       <artifactId>tycho-gpg-plugin</artifactId>
