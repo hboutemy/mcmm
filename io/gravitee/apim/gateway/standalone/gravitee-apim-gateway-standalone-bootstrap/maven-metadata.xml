@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway.standalone</groupId>
   <artifactId>gravitee-apim-gateway-standalone-bootstrap</artifactId>
   <versioning>
-    <latest>3.17.1</latest>
-    <release>3.17.1</release>
+    <latest>3.17.2</latest>
+    <release>3.17.2</release>
     <versions>
       <version>3.5.25</version>
       <version>3.5.26</version>
@@ -39,7 +39,8 @@
       <version>3.16.4</version>
       <version>3.17.0</version>
       <version>3.17.1</version>
+      <version>3.17.2</version>
     </versions>
-    <lastUpdated>20220429144833</lastUpdated>
+    <lastUpdated>20220503093606</lastUpdated>
   </versioning>
 </metadata>
