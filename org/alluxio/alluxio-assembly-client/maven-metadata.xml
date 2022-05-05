@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-assembly-client</artifactId>
   <versioning>
-    <latest>2.8.0</latest>
-    <release>2.8.0</release>
+    <latest>2.8.0-1</latest>
+    <release>2.8.0-1</release>
     <versions>
       <version>1.5.0</version>
       <version>1.6.0</version>
@@ -50,7 +50,8 @@
       <version>2.7.3</version>
       <version>2.7.4</version>
       <version>2.8.0</version>
+      <version>2.8.0-1</version>
     </versions>
-    <lastUpdated>20220427030315</lastUpdated>
+    <lastUpdated>20220504010410</lastUpdated>
   </versioning>
 </metadata>
