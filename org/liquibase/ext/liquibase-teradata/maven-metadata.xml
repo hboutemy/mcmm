@@ -3,8 +3,8 @@
   <groupId>org.liquibase.ext</groupId>
   <artifactId>liquibase-teradata</artifactId>
   <versioning>
-    <latest>4.9.1</latest>
-    <release>4.9.1</release>
+    <latest>4.10.0</latest>
+    <release>4.10.0</release>
     <versions>
       <version>3.0</version>
       <version>3.1</version>
@@ -35,7 +35,8 @@
       <version>4.8.0</version>
       <version>4.9.0</version>
       <version>4.9.1</version>
+      <version>4.10.0</version>
     </versions>
-    <lastUpdated>20220330134942</lastUpdated>
+    <lastUpdated>20220505165833</lastUpdated>
   </versioning>
 </metadata>

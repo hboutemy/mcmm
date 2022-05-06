@@ -12,7 +12,7 @@
       <artifactId>helidon-cli-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Helidon Enforcer Maven Plugin</name>
+      <name>Helidon Enforcer Plugin</name>
       <prefix>helidon-enforcer</prefix>
       <artifactId>helidon-enforcer-plugin</artifactId>
     </plugin>
@@ -32,12 +32,12 @@
       <artifactId>helidon-stager-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Helidon Site Generator Maven Plugin</name>
+      <name>Helidon Site Generator</name>
       <prefix>sitegen</prefix>
       <artifactId>sitegen-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Helidon SnakeYAML Code Generator Maven Plugin</name>
+      <name>Helidon SnakeYAML Helper Code Generator</name>
       <prefix>snakeyaml-codegen</prefix>
       <artifactId>snakeyaml-codegen-maven-plugin</artifactId>
     </plugin>
