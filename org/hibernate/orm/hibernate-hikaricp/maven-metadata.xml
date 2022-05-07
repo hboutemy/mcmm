@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-hikaricp</artifactId>
   <versioning>
-    <latest>6.0.0.Final</latest>
-    <release>6.0.0.Final</release>
+    <latest>6.0.1.Final</latest>
+    <release>6.0.1.Final</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -21,7 +21,8 @@
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
       <version>6.0.0.Final</version>
+      <version>6.0.1.Final</version>
     </versions>
-    <lastUpdated>20220331190618</lastUpdated>
+    <lastUpdated>20220506164803</lastUpdated>
   </versioning>
 </metadata>
