@@ -3,8 +3,8 @@
   <groupId>org.datanucleus</groupId>
   <artifactId>datanucleus-maven-parent</artifactId>
   <versioning>
-    <latest>6.0.0-m2</latest>
-    <release>6.0.0-m2</release>
+    <latest>6.0.0-release</latest>
+    <release>6.0.0-release</release>
     <versions>
       <version>3.3</version>
       <version>4.0.0</version>
@@ -17,7 +17,8 @@
       <version>5.0.1</version>
       <version>6.0.0-m1</version>
       <version>6.0.0-m2</version>
+      <version>6.0.0-release</version>
     </versions>
-    <lastUpdated>20210526064159</lastUpdated>
+    <lastUpdated>20220507070716</lastUpdated>
   </versioning>
 </metadata>
