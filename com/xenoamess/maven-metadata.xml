@@ -7,6 +7,11 @@
       <artifactId>add-from-repo-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>CycloneDX Maven plugin</name>
+      <prefix>cyclonedx</prefix>
+      <artifactId>cyclonedx-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>formatter-maven-plugin</name>
       <prefix>formatter</prefix>
       <artifactId>formatter-maven-plugin</artifactId>
