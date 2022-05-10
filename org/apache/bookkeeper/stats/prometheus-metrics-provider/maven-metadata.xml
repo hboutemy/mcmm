@@ -3,8 +3,8 @@
   <groupId>org.apache.bookkeeper.stats</groupId>
   <artifactId>prometheus-metrics-provider</artifactId>
   <versioning>
-    <latest>4.14.4</latest>
-    <release>4.14.4</release>
+    <latest>4.15.0</latest>
+    <release>4.15.0</release>
     <versions>
       <version>4.5.0</version>
       <version>4.5.1</version>
@@ -32,7 +32,8 @@
       <version>4.14.2</version>
       <version>4.14.3</version>
       <version>4.14.4</version>
+      <version>4.15.0</version>
     </versions>
-    <lastUpdated>20220111190400</lastUpdated>
+    <lastUpdated>20220509180856</lastUpdated>
   </versioning>
 </metadata>

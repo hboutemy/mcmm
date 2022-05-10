@@ -3,8 +3,8 @@
   <groupId>com.amazon.alexa</groupId>
   <artifactId>ask-sdk-freemarker</artifactId>
   <versioning>
-    <latest>2.43.4</latest>
-    <release>2.43.4</release>
+    <latest>2.43.5</latest>
+    <release>2.43.5</release>
     <versions>
       <version>2.26.0</version>
       <version>2.27.0</version>
@@ -38,6 +38,7 @@
       <version>2.43.2</version>
       <version>2.43.3</version>
       <version>2.43.4</version>
+      <version>2.43.5</version>
       <version>2.17.0</version>
       <version>2.17.1</version>
       <version>2.17.2</version>
@@ -53,6 +54,6 @@
       <version>2.25.0</version>
       <version>2.25.1</version>
     </versions>
-    <lastUpdated>20220502230430</lastUpdated>
+    <lastUpdated>20220509195624</lastUpdated>
   </versioning>
 </metadata>
