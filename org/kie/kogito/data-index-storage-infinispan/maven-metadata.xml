@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>data-index-storage-infinispan</artifactId>
   <versioning>
-    <latest>1.20.0.Final</latest>
-    <release>1.20.0.Final</release>
+    <latest>1.21.0.Final</latest>
+    <release>1.21.0.Final</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
@@ -55,7 +55,8 @@
       <version>1.18.0.Final</version>
       <version>1.19.0.Final</version>
       <version>1.20.0.Final</version>
+      <version>1.21.0.Final</version>
     </versions>
-    <lastUpdated>20220411143133</lastUpdated>
+    <lastUpdated>20220510080252</lastUpdated>
   </versioning>
 </metadata>
