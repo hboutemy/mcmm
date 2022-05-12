@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-google</artifactId>
   <versioning>
-    <latest>0.8.32</latest>
-    <release>0.8.32</release>
+    <latest>0.8.34</latest>
+    <release>0.8.34</release>
     <versions>
       <version>0.3.11</version>
       <version>0.3.12</version>
@@ -409,7 +409,9 @@
       <version>0.8.30</version>
       <version>0.8.31</version>
       <version>0.8.32</version>
+      <version>0.8.33</version>
+      <version>0.8.34</version>
     </versions>
-    <lastUpdated>20220510002957</lastUpdated>
+    <lastUpdated>20220511171648</lastUpdated>
   </versioning>
 </metadata>
