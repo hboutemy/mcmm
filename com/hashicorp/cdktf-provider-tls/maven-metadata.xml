@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-tls</artifactId>
   <versioning>
-    <latest>0.4.50</latest>
-    <release>0.4.50</release>
+    <latest>0.4.52</latest>
+    <release>0.4.52</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -450,7 +450,9 @@
       <version>0.4.48</version>
       <version>0.4.49</version>
       <version>0.4.50</version>
+      <version>0.4.51</version>
+      <version>0.4.52</version>
     </versions>
-    <lastUpdated>20220511170827</lastUpdated>
+    <lastUpdated>20220512081227</lastUpdated>
   </versioning>
 </metadata>

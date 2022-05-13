@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Wildfly Channel Maven Plugin</name>
+      <prefix>wildfly-channel</prefix>
+      <artifactId>wildfly-channel-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

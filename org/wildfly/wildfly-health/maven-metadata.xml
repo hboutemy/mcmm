@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-health</artifactId>
   <versioning>
-    <latest>26.1.0.Final</latest>
-    <release>26.1.0.Final</release>
+    <latest>27.0.0.Alpha1</latest>
+    <release>27.0.0.Alpha1</release>
     <versions>
       <version>22.0.0.Beta1</version>
       <version>22.0.0.Final</version>
@@ -24,7 +24,8 @@
       <version>26.0.1.Final</version>
       <version>26.1.0.Beta1</version>
       <version>26.1.0.Final</version>
+      <version>27.0.0.Alpha1</version>
     </versions>
-    <lastUpdated>20220414101039</lastUpdated>
+    <lastUpdated>20220512120557</lastUpdated>
   </versioning>
 </metadata>

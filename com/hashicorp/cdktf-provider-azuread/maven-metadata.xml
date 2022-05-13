@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-azuread</artifactId>
   <versioning>
-    <latest>0.4.50</latest>
-    <release>0.4.50</release>
+    <latest>0.4.52</latest>
+    <release>0.4.52</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -458,7 +458,9 @@
       <version>0.4.48</version>
       <version>0.4.49</version>
       <version>0.4.50</version>
+      <version>0.4.51</version>
+      <version>0.4.52</version>
     </versions>
-    <lastUpdated>20220511170358</lastUpdated>
+    <lastUpdated>20220512080430</lastUpdated>
   </versioning>
 </metadata>
