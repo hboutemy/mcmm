@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Unsigner Plugin for Maven</name>
+      <prefix>unsigner</prefix>
+      <artifactId>unsigner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
