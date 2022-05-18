@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-zio-http4s-server_2.12</artifactId>
   <versioning>
-    <latest>1.0.0-M9</latest>
-    <release>1.0.0-M9</release>
+    <latest>1.0.0-RC1</latest>
+    <release>1.0.0-RC1</release>
     <versions>
       <version>0.15.2</version>
       <version>0.15.3</version>
@@ -109,7 +109,8 @@
       <version>1.0.0-M7</version>
       <version>1.0.0-M8</version>
       <version>1.0.0-M9</version>
+      <version>1.0.0-RC1</version>
     </versions>
-    <lastUpdated>20220506174250</lastUpdated>
+    <lastUpdated>20220517203009</lastUpdated>
   </versioning>
 </metadata>

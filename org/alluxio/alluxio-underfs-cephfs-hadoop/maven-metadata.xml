@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-underfs-cephfs-hadoop</artifactId>
   <versioning>
-    <latest>2.8.0-1</latest>
-    <release>2.8.0-1</release>
+    <latest>2.8.0-2</latest>
+    <release>2.8.0-2</release>
     <versions>
       <version>2.6.0</version>
       <version>2.6.1</version>
@@ -20,7 +20,8 @@
       <version>2.7.4</version>
       <version>2.8.0</version>
       <version>2.8.0-1</version>
+      <version>2.8.0-2</version>
     </versions>
-    <lastUpdated>20220504010442</lastUpdated>
+    <lastUpdated>20220517205357</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-java-util-logging</artifactId>
   <versioning>
-    <latest>1.13.1-alpha</latest>
-    <release>1.13.1-alpha</release>
+    <latest>1.14.0-alpha</latest>
+    <release>1.14.0-alpha</release>
     <versions>
       <version>1.10.0-alpha</version>
       <version>1.10.1-alpha</version>
@@ -14,7 +14,8 @@
       <version>1.12.1-alpha</version>
       <version>1.13.0-alpha</version>
       <version>1.13.1-alpha</version>
+      <version>1.14.0-alpha</version>
     </versions>
-    <lastUpdated>20220422162334</lastUpdated>
+    <lastUpdated>20220517060813</lastUpdated>
   </versioning>
 </metadata>
