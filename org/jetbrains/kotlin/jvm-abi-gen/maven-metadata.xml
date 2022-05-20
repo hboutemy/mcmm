@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>jvm-abi-gen</artifactId>
   <versioning>
-    <latest>1.7.0-Beta</latest>
-    <release>1.7.0-Beta</release>
+    <latest>1.7.0-RC</latest>
+    <release>1.7.0-RC</release>
     <versions>
       <version>1.3.20</version>
       <version>1.3.21</version>
@@ -58,7 +58,8 @@
       <version>1.6.20</version>
       <version>1.6.21</version>
       <version>1.7.0-Beta</version>
+      <version>1.7.0-RC</version>
     </versions>
-    <lastUpdated>20220504132524</lastUpdated>
+    <lastUpdated>20220519143038</lastUpdated>
   </versioning>
 </metadata>

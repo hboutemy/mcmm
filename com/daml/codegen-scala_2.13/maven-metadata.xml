@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>codegen-scala_2.13</artifactId>
   <versioning>
-    <latest>2.3.0-snapshot.20220517.9913.0.2ab5233a</latest>
-    <release>2.3.0-snapshot.20220517.9913.0.2ab5233a</release>
+    <latest>2.3.0-snapshot.20220518.9921.0.a6dac18f</latest>
+    <release>2.3.0-snapshot.20220518.9921.0.a6dac18f</release>
     <versions>
       <version>0.0.0</version>
       <version>1.11.0-snapshot.20210217.6338.0.ba6ba901</version>
@@ -159,6 +159,7 @@
       <version>2.0.1-snapshot.20220322.9371.1.d9f46c43</version>
       <version>2.0.1-snapshot.20220331.9373.0.4a445be6</version>
       <version>2.0.1-snapshot.20220419.9374.0.44df8f12</version>
+      <version>2.0.1</version>
       <version>2.1.0-snapshot.20220223.9363.0.d96b7bdc</version>
       <version>2.1.0-snapshot.20220223.9379.0.2f86d8d3</version>
       <version>2.1.0-snapshot.20220224.9392.0.786906f2</version>
@@ -222,7 +223,8 @@
       <version>2.3.0-snapshot.20220511.9887.0.5a509164</version>
       <version>2.3.0-snapshot.20220517.9906.0.de6da710</version>
       <version>2.3.0-snapshot.20220517.9913.0.2ab5233a</version>
+      <version>2.3.0-snapshot.20220518.9921.0.a6dac18f</version>
     </versions>
-    <lastUpdated>20220518023114</lastUpdated>
+    <lastUpdated>20220519134623</lastUpdated>
   </versioning>
 </metadata>

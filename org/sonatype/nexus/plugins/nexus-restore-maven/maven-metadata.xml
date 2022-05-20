@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-restore-maven</artifactId>
   <versioning>
-    <latest>3.38.1-01</latest>
-    <release>3.38.1-01</release>
+    <latest>3.39.0-01</latest>
+    <release>3.39.0-01</release>
     <versions>
       <version>3.6.1-02</version>
       <version>3.6.2-01</version>
@@ -86,7 +86,8 @@
       <version>3.37.3-02</version>
       <version>3.38.0-01</version>
       <version>3.38.1-01</version>
+      <version>3.39.0-01</version>
     </versions>
-    <lastUpdated>20220325195125</lastUpdated>
+    <lastUpdated>20220519140306</lastUpdated>
   </versioning>
 </metadata>

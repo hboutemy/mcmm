@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-weld-bean-validation</artifactId>
   <versioning>
-    <latest>26.1.0.Final</latest>
-    <release>26.1.0.Final</release>
+    <latest>26.1.1.Final</latest>
+    <release>26.1.1.Final</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -61,7 +61,8 @@
       <version>26.0.1.Final</version>
       <version>26.1.0.Beta1</version>
       <version>26.1.0.Final</version>
+      <version>26.1.1.Final</version>
     </versions>
-    <lastUpdated>20220414101133</lastUpdated>
+    <lastUpdated>20220519143400</lastUpdated>
   </versioning>
 </metadata>

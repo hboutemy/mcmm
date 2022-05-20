@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-scripting-compiler-embeddable</artifactId>
   <versioning>
-    <latest>1.7.0-Beta</latest>
-    <release>1.7.0-Beta</release>
+    <latest>1.7.0-RC</latest>
+    <release>1.7.0-RC</release>
     <versions>
       <version>1.2.60</version>
       <version>1.2.61</version>
@@ -67,7 +67,8 @@
       <version>1.6.20</version>
       <version>1.6.21</version>
       <version>1.7.0-Beta</version>
+      <version>1.7.0-RC</version>
     </versions>
-    <lastUpdated>20220504132626</lastUpdated>
+    <lastUpdated>20220519143139</lastUpdated>
   </versioning>
 </metadata>
