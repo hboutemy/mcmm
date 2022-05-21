@@ -3,14 +3,15 @@
   <groupId>org.jboss.arquillian.container</groupId>
   <artifactId>arquillian-parent-jetty</artifactId>
   <versioning>
-    <latest>1.0.0.CR4</latest>
-    <release>1.0.0.CR4</release>
+    <latest>1.0.0.Final</latest>
+    <release>1.0.0.Final</release>
     <versions>
       <version>1.0.0.CR1</version>
       <version>1.0.0.CR2</version>
       <version>1.0.0.CR3</version>
       <version>1.0.0.CR4</version>
+      <version>1.0.0.Final</version>
     </versions>
-    <lastUpdated>20220122014352</lastUpdated>
+    <lastUpdated>20220520044615</lastUpdated>
   </versioning>
 </metadata>

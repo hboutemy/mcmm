@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-server-rpm</artifactId>
   <versioning>
-    <latest>0.273</latest>
-    <release>0.273</release>
+    <latest>0.273.1</latest>
+    <release>0.273.1</release>
     <versions>
       <version>0.108</version>
       <version>0.109</version>
@@ -217,7 +217,8 @@
       <version>0.272</version>
       <version>0.272.1</version>
       <version>0.273</version>
+      <version>0.273.1</version>
     </versions>
-    <lastUpdated>20220519211625</lastUpdated>
+    <lastUpdated>20220520231048</lastUpdated>
   </versioning>
 </metadata>

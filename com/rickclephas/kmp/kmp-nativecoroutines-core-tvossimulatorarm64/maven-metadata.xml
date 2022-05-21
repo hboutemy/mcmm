@@ -3,8 +3,8 @@
   <groupId>com.rickclephas.kmp</groupId>
   <artifactId>kmp-nativecoroutines-core-tvossimulatorarm64</artifactId>
   <versioning>
-    <latest>0.12.2-new-mm-kotlin-1.7.0-Beta</latest>
-    <release>0.12.2-new-mm-kotlin-1.7.0-Beta</release>
+    <latest>0.12.2-new-mm-kotlin-1.7.0-RC</latest>
+    <release>0.12.2-new-mm-kotlin-1.7.0-RC</release>
     <versions>
       <version>0.6.0</version>
       <version>0.7.0</version>
@@ -43,9 +43,11 @@
       <version>0.12.1-new-mm</version>
       <version>0.12.2</version>
       <version>0.12.2-kotlin-1.7.0-Beta</version>
+      <version>0.12.2-kotlin-1.7.0-RC</version>
       <version>0.12.2-new-mm</version>
       <version>0.12.2-new-mm-kotlin-1.7.0-Beta</version>
+      <version>0.12.2-new-mm-kotlin-1.7.0-RC</version>
     </versions>
-    <lastUpdated>20220505174008</lastUpdated>
+    <lastUpdated>20220520183316</lastUpdated>
   </versioning>
 </metadata>
