@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-kjar-archetype</artifactId>
   <versioning>
-    <latest>8.21.0.Beta</latest>
-    <release>8.21.0.Beta</release>
+    <latest>8.22.0.Beta</latest>
+    <release>8.22.0.Beta</release>
     <versions>
       <version>7.10.0.Final</version>
       <version>7.11.0.Final</version>
@@ -93,6 +93,7 @@
       <version>7.67.0.Final</version>
       <version>7.68.0.Final</version>
       <version>7.69.0.Final</version>
+      <version>7.70.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -105,6 +106,6 @@
       <version>8.20.0.Beta</version>
       <version>8.21.0.Beta</version>
     </versions>
-    <lastUpdated>20220510080101</lastUpdated>
+    <lastUpdated>20220523132928</lastUpdated>
   </versioning>
 </metadata>

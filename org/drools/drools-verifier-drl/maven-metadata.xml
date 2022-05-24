@@ -3,8 +3,8 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-verifier-drl</artifactId>
   <versioning>
-    <latest>8.21.0.Beta</latest>
-    <release>8.21.0.Beta</release>
+    <latest>8.22.0.Beta</latest>
+    <release>8.22.0.Beta</release>
     <versions>
       <version>7.12.0.Final</version>
       <version>7.13.0.Final</version>
@@ -92,6 +92,7 @@
       <version>7.67.0.Final</version>
       <version>7.68.0.Final</version>
       <version>7.69.0.Final</version>
+      <version>7.70.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -104,6 +105,6 @@
       <version>8.20.0.Beta</version>
       <version>8.21.0.Beta</version>
     </versions>
-    <lastUpdated>20220510080036</lastUpdated>
+    <lastUpdated>20220523132913</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>kie-maven-plugin-no-execmodel-test-suite</artifactId>
   <versioning>
-    <latest>7.69.0.Final</latest>
-    <release>7.69.0.Final</release>
+    <latest>7.70.0.Final</latest>
+    <release>7.70.0.Final</release>
     <versions>
       <version>7.45.0.Final</version>
       <version>7.45.0.t20201009</version>
@@ -33,7 +33,8 @@
       <version>7.67.0.Final</version>
       <version>7.68.0.Final</version>
       <version>7.69.0.Final</version>
+      <version>7.70.0.Final</version>
     </versions>
-    <lastUpdated>20220502101416</lastUpdated>
+    <lastUpdated>20220523071006</lastUpdated>
   </versioning>
 </metadata>

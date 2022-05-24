@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-pmml-models-clustering-compiler</artifactId>
   <versioning>
-    <latest>8.21.0.Beta</latest>
-    <release>8.21.0.Beta</release>
+    <latest>8.22.0.Beta</latest>
+    <release>8.22.0.Beta</release>
     <versions>
       <version>7.55.0.Beta1</version>
       <version>7.55.0.Final</version>
@@ -26,6 +26,7 @@
       <version>7.67.0.Final</version>
       <version>7.68.0.Final</version>
       <version>7.69.0.Final</version>
+      <version>7.70.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -38,6 +39,6 @@
       <version>8.20.0.Beta</version>
       <version>8.21.0.Beta</version>
     </versions>
-    <lastUpdated>20220510080109</lastUpdated>
+    <lastUpdated>20220523132932</lastUpdated>
   </versioning>
 </metadata>
