@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-dom-legacy</artifactId>
   <versioning>
-    <latest>18.1.0-pre.339</latest>
-    <release>18.1.0-pre.339</release>
+    <latest>18.1.0-pre.340-compat</latest>
+    <release>18.1.0-pre.340-compat</release>
     <versions>
       <version>17.0.2-pre.282-kotlin-1.6.10</version>
       <version>17.0.2-pre.283-kotlin-1.6.10</version>
@@ -64,7 +64,10 @@
       <version>18.1.0-pre.337</version>
       <version>18.1.0-pre.338</version>
       <version>18.1.0-pre.339</version>
+      <version>18.1.0-pre.339-compat</version>
+      <version>18.1.0-pre.340</version>
+      <version>18.1.0-pre.340-compat</version>
     </versions>
-    <lastUpdated>20220523145154</lastUpdated>
+    <lastUpdated>20220524130355</lastUpdated>
   </versioning>
 </metadata>

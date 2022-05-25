@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-popper</artifactId>
   <versioning>
-    <latest>2.3.0-pre.339</latest>
-    <release>2.3.0-pre.339</release>
+    <latest>2.3.0-pre.340-compat</latest>
+    <release>2.3.0-pre.340-compat</release>
     <versions>
       <version>2.2.5-pre.242-kotlin-1.5.30</version>
       <version>2.2.5-pre.243-kotlin-1.5.30</version>
@@ -104,7 +104,10 @@
       <version>2.3.0-pre.337</version>
       <version>2.3.0-pre.338</version>
       <version>2.3.0-pre.339</version>
+      <version>2.3.0-pre.339-compat</version>
+      <version>2.3.0-pre.340</version>
+      <version>2.3.0-pre.340-compat</version>
     </versions>
-    <lastUpdated>20220523145158</lastUpdated>
+    <lastUpdated>20220524130403</lastUpdated>
   </versioning>
 </metadata>
