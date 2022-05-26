@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>axiom-weaver</prefix>
+      <artifactId>axiom-weaver-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>buildutils</prefix>
       <artifactId>buildutils-maven-plugin</artifactId>
     </plugin>

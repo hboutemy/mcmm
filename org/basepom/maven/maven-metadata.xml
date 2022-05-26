@@ -15,7 +15,7 @@
       <artifactId>inline-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Property Helper Maven Plugin root</name>
+      <name>Property Helper Maven Plugin</name>
       <prefix>property-helper</prefix>
       <artifactId>property-helper-maven-plugin</artifactId>
     </plugin>
