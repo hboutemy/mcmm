@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId} :: ${project.artifactId}</name>
+      <name>icu.easyj.maven.plugins :: easyj-maven-plugin</name>
       <prefix>easyj</prefix>
       <artifactId>easyj-maven-plugin</artifactId>
     </plugin>

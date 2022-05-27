@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>hpcc4j</artifactId>
   <versioning>
-    <latest>8.6.28-1</latest>
-    <release>8.6.28-1</release>
+    <latest>8.6.30-1</latest>
+    <release>8.6.30-1</release>
     <versions>
       <version>7.12.0-1</version>
       <version>7.12.2-1</version>
@@ -53,6 +53,7 @@
       <version>7.12.102-1</version>
       <version>7.12.104-1</version>
       <version>7.12.106-1</version>
+      <version>7.12.108-1</version>
       <version>8.0.0-1</version>
       <version>8.0.2-1</version>
       <version>8.0.4-1</version>
@@ -91,6 +92,7 @@
       <version>8.0.72-1</version>
       <version>8.0.74-1</version>
       <version>8.0.76-1</version>
+      <version>8.0.78-1</version>
       <version>8.2.0-1</version>
       <version>8.2.0-2</version>
       <version>8.2.2-1</version>
@@ -124,6 +126,7 @@
       <version>8.2.58-1</version>
       <version>8.2.60-1</version>
       <version>8.2.62-1</version>
+      <version>8.2.64-1</version>
       <version>8.4.0-1</version>
       <version>8.4.0-2</version>
       <version>8.4.2-1</version>
@@ -146,6 +149,7 @@
       <version>8.4.38-1</version>
       <version>8.4.40-1</version>
       <version>8.4.42-1</version>
+      <version>8.4.44-1</version>
       <version>8.6.0-1</version>
       <version>8.6.2-1</version>
       <version>8.6.4-1</version>
@@ -161,7 +165,8 @@
       <version>8.6.24-1</version>
       <version>8.6.26-1</version>
       <version>8.6.28-1</version>
+      <version>8.6.30-1</version>
     </versions>
-    <lastUpdated>20220520150627</lastUpdated>
+    <lastUpdated>20220526161657</lastUpdated>
   </versioning>
 </metadata>

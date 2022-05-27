@@ -2,7 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.artifactId}</name>
       <prefix>solon</prefix>
       <artifactId>solon-maven-plugin</artifactId>
     </plugin>

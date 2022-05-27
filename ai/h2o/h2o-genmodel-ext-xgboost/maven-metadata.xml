@@ -3,8 +3,8 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-genmodel-ext-xgboost</artifactId>
   <versioning>
-    <latest>3.36.1.1</latest>
-    <release>3.36.1.1</release>
+    <latest>3.36.1.2</latest>
+    <release>3.36.1.2</release>
     <versions>
       <version>3.10.5.1</version>
       <version>3.10.5.2</version>
@@ -119,7 +119,8 @@
       <version>3.36.0.3</version>
       <version>3.36.0.4</version>
       <version>3.36.1.1</version>
+      <version>3.36.1.2</version>
     </versions>
-    <lastUpdated>20220413183734</lastUpdated>
+    <lastUpdated>20220526173419</lastUpdated>
   </versioning>
 </metadata>
