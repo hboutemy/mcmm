@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-acme</artifactId>
   <versioning>
-    <latest>0.3.6</latest>
-    <release>0.3.6</release>
+    <latest>0.3.8</latest>
+    <release>0.3.8</release>
     <versions>
       <version>0.0.93</version>
       <version>0.0.94</version>
@@ -151,7 +151,9 @@
       <version>0.3.4</version>
       <version>0.3.5</version>
       <version>0.3.6</version>
+      <version>0.3.7</version>
+      <version>0.3.8</version>
     </versions>
-    <lastUpdated>20220529001926</lastUpdated>
+    <lastUpdated>20220530201008</lastUpdated>
   </versioning>
 </metadata>
