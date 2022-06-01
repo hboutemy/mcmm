@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-huawei-config</artifactId>
   <versioning>
-    <latest>1.9.2-Hoxton</latest>
-    <release>1.9.2-Hoxton</release>
+    <latest>1.10.0-2021.0.x</latest>
+    <release>1.10.0-2021.0.x</release>
     <versions>
       <version>1.0.0</version>
       <version>1.2.0</version>
@@ -62,7 +62,9 @@
       <version>1.9.1-Hoxton</version>
       <version>1.9.1-2020.0.x</version>
       <version>1.9.2-Hoxton</version>
+      <version>1.10.0-2020.0.x</version>
+      <version>1.10.0-2021.0.x</version>
     </versions>
-    <lastUpdated>20220520104951</lastUpdated>
+    <lastUpdated>20220531083112</lastUpdated>
   </versioning>
 </metadata>
