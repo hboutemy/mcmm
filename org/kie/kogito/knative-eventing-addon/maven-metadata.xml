@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>knative-eventing-addon</artifactId>
   <versioning>
-    <latest>1.22.0.Final</latest>
-    <release>1.22.0.Final</release>
+    <latest>1.22.1.Final</latest>
+    <release>1.22.1.Final</release>
     <versions>
       <version>0.14.0</version>
       <version>0.15.0</version>
@@ -35,7 +35,8 @@
       <version>1.20.0.Final</version>
       <version>1.21.0.Final</version>
       <version>1.22.0.Final</version>
+      <version>1.22.1.Final</version>
     </versions>
-    <lastUpdated>20220523133151</lastUpdated>
+    <lastUpdated>20220601125434</lastUpdated>
   </versioning>
 </metadata>

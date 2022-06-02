@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-annotation-processing</artifactId>
   <versioning>
-    <latest>1.7.0-RC</latest>
-    <release>1.7.0-RC</release>
+    <latest>1.7.0-RC2</latest>
+    <release>1.7.0-RC2</release>
     <versions>
       <version>0.12.200</version>
       <version>0.12.213</version>
@@ -128,8 +128,9 @@
       <version>1.6.21</version>
       <version>1.7.0-Beta</version>
       <version>1.7.0-RC</version>
+      <version>1.7.0-RC2</version>
       <version>0.12.613</version>
     </versions>
-    <lastUpdated>20220519143045</lastUpdated>
+    <lastUpdated>20220601104746</lastUpdated>
   </versioning>
 </metadata>

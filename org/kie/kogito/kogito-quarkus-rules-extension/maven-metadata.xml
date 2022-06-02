@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-quarkus-rules-extension</artifactId>
   <versioning>
-    <latest>1.22.0.Final</latest>
-    <release>1.22.0.Final</release>
+    <latest>1.22.1.Final</latest>
+    <release>1.22.1.Final</release>
     <versions>
       <version>1.4.0.Final</version>
       <version>1.4.1.Final</version>
@@ -30,7 +30,8 @@
       <version>1.20.0.Final</version>
       <version>1.21.0.Final</version>
       <version>1.22.0.Final</version>
+      <version>1.22.1.Final</version>
     </versions>
-    <lastUpdated>20220523133230</lastUpdated>
+    <lastUpdated>20220601125515</lastUpdated>
   </versioning>
 </metadata>
