@@ -3,8 +3,8 @@
   <groupId>org.mapstruct</groupId>
   <artifactId>mapstruct-parent</artifactId>
   <versioning>
-    <latest>1.5.0.RC1</latest>
-    <release>1.5.0.RC1</release>
+    <latest>1.5.0.Final</latest>
+    <release>1.5.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -40,7 +40,8 @@
       <version>1.5.0.Beta1</version>
       <version>1.5.0.Beta2</version>
       <version>1.5.0.RC1</version>
+      <version>1.5.0.Final</version>
     </versions>
-    <lastUpdated>20220321072138</lastUpdated>
+    <lastUpdated>20220602212037</lastUpdated>
   </versioning>
 </metadata>
