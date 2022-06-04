@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>BeanInfo generator and verifier</name>
+      <prefix>beaninfo</prefix>
+      <artifactId>beaninfo-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

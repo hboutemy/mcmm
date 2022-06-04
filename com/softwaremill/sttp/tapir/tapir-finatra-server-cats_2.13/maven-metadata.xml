@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-finatra-server-cats_2.13</artifactId>
   <versioning>
-    <latest>1.0.0-RC2</latest>
-    <release>1.0.0-RC2</release>
+    <latest>1.0.0-RC3</latest>
+    <release>1.0.0-RC3</release>
     <versions>
       <version>0.18.0-M5</version>
       <version>0.18.0-M7</version>
@@ -58,7 +58,8 @@
       <version>1.0.0-M9</version>
       <version>1.0.0-RC1</version>
       <version>1.0.0-RC2</version>
+      <version>1.0.0-RC3</version>
     </versions>
-    <lastUpdated>20220531210316</lastUpdated>
+    <lastUpdated>20220603184033</lastUpdated>
   </versioning>
 </metadata>

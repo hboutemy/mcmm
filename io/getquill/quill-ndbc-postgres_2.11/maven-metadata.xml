@@ -3,8 +3,8 @@
   <groupId>io.getquill</groupId>
   <artifactId>quill-ndbc-postgres_2.11</artifactId>
   <versioning>
-    <latest>3.18.0</latest>
-    <release>3.18.0</release>
+    <latest>4.0.0-RC1</latest>
+    <release>4.0.0-RC1</release>
     <versions>
       <version>3.5.0</version>
       <version>3.5.1</version>
@@ -38,7 +38,8 @@
       <version>3.17.0-RC3</version>
       <version>3.17.0-RC4</version>
       <version>3.18.0</version>
+      <version>4.0.0-RC1</version>
     </versions>
-    <lastUpdated>20220602042706</lastUpdated>
+    <lastUpdated>20220603015634</lastUpdated>
   </versioning>
 </metadata>
