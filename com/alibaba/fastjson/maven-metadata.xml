@@ -3,8 +3,8 @@
   <groupId>com.alibaba</groupId>
   <artifactId>fastjson</artifactId>
   <versioning>
-    <latest>2.0.5.graal</latest>
-    <release>2.0.5.graal</release>
+    <latest>2.0.6.graal</latest>
+    <release>2.0.6.graal</release>
     <versions>
       <version>1.1.15</version>
       <version>1.1.16</version>
@@ -161,6 +161,7 @@
       <version>1.2.29.sec10</version>
       <version>1.2.30</version>
       <version>1.2.31</version>
+      <version>1.2.31_noneautotype</version>
       <version>1.2.31.sec10</version>
       <version>1.2.32</version>
       <version>1.2.33</version>
@@ -257,7 +258,10 @@
       <version>2.0.5</version>
       <version>2.0.5.android</version>
       <version>2.0.5.graal</version>
+      <version>2.0.6</version>
+      <version>2.0.6.android</version>
+      <version>2.0.6.graal</version>
     </versions>
-    <lastUpdated>20220528171439</lastUpdated>
+    <lastUpdated>20220604175809</lastUpdated>
   </versioning>
 </metadata>
