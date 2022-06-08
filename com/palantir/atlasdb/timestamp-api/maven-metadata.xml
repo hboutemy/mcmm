@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timestamp-api</artifactId>
   <versioning>
-    <latest>0.625.0</latest>
-    <release>0.625.0</release>
+    <latest>0.626.0-rc1</latest>
+    <release>0.626.0-rc1</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -375,7 +375,8 @@
       <version>0.623.0</version>
       <version>0.624.0</version>
       <version>0.625.0</version>
+      <version>0.626.0-rc1</version>
     </versions>
-    <lastUpdated>20220606084556</lastUpdated>
+    <lastUpdated>20220607194045</lastUpdated>
   </versioning>
 </metadata>
