@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-bom</artifactId>
   <versioning>
-    <latest>1.7.0-RC2</latest>
-    <release>1.7.0-RC2</release>
+    <latest>1.7.0</latest>
+    <release>1.7.0</release>
     <versions>
       <version>1.3.20</version>
       <version>1.3.21</version>
@@ -60,7 +60,8 @@
       <version>1.7.0-Beta</version>
       <version>1.7.0-RC</version>
       <version>1.7.0-RC2</version>
+      <version>1.7.0</version>
     </versions>
-    <lastUpdated>20220601104754</lastUpdated>
+    <lastUpdated>20220608144805</lastUpdated>
   </versioning>
 </metadata>
