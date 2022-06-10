@@ -23,6 +23,7 @@
       <version>1.1.29</version>
       <version>1.1.30</version>
       <version>1.1.31</version>
+      <version>1.1.31_noneautotype</version>
       <version>1.1.31.sec01</version>
       <version>1.1.31.sec04</version>
       <version>1.1.31.sec06</version>
@@ -36,6 +37,7 @@
       <version>1.1.33.sec06</version>
       <version>1.1.33.sec10</version>
       <version>1.1.34</version>
+      <version>1.1.34_noneautotype</version>
       <version>1.1.34.android</version>
       <version>1.1.34.sec01</version>
       <version>1.1.34.sec04</version>
@@ -62,6 +64,7 @@
       <version>1.1.45</version>
       <version>1.1.45.android</version>
       <version>1.1.46</version>
+      <version>1.1.46_noneautotype</version>
       <version>1.1.46.android</version>
       <version>1.1.46.sec01</version>
       <version>1.1.46.sec04</version>
@@ -224,6 +227,7 @@
       <version>1.2.62_noneautotype</version>
       <version>1.2.66</version>
       <version>1.2.67</version>
+      <version>1.2.67_noneautotype</version>
       <version>1.2.67.sec10</version>
       <version>1.2.68</version>
       <version>1.2.68.sec10</version>
@@ -235,9 +239,11 @@
       <version>1.2.71</version>
       <version>1.2.71_noneautotype</version>
       <version>1.2.72</version>
+      <version>1.2.72_noneautotype</version>
       <version>1.2.73</version>
       <version>1.2.74</version>
       <version>1.2.75</version>
+      <version>1.2.75_noneautotype</version>
       <version>1.2.76</version>
       <version>1.2.77</version>
       <version>1.2.78</version>
@@ -262,6 +268,6 @@
       <version>2.0.6.android</version>
       <version>2.0.6.graal</version>
     </versions>
-    <lastUpdated>20220604175809</lastUpdated>
+    <lastUpdated>20220609144744</lastUpdated>
   </versioning>
 </metadata>

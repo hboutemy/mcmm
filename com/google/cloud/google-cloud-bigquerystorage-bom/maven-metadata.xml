@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigquerystorage-bom</artifactId>
   <versioning>
-    <latest>2.14.1</latest>
-    <release>2.14.1</release>
+    <latest>2.14.2</latest>
+    <release>2.14.2</release>
     <versions>
       <version>0.120.1-beta</version>
       <version>0.121.0-beta</version>
@@ -138,7 +138,8 @@
       <version>2.13.0</version>
       <version>2.14.0</version>
       <version>2.14.1</version>
+      <version>2.14.2</version>
     </versions>
-    <lastUpdated>20220602153236</lastUpdated>
+    <lastUpdated>20220609074308</lastUpdated>
   </versioning>
 </metadata>

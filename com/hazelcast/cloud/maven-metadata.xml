@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hazelcast Cloud Maven Plugin</name>
+      <prefix>hazelcast-cloud</prefix>
+      <artifactId>hazelcast-cloud-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

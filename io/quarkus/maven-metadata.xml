@@ -7,6 +7,11 @@
       <artifactId>quarkus-bootstrap-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Quarkus Extension Maven plugin</name>
+      <prefix>quarkus-extension</prefix>
+      <artifactId>quarkus-extension-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Quarkus - Extension Maven plugin</name>
       <prefix>quarkus-extension</prefix>
       <artifactId>quarkus-extension-plugin</artifactId>

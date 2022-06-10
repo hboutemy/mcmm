@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>datav-build</prefix>
+      <artifactId>datav-build-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>spring cloud maven plugin</name>
       <prefix>spring-cloud</prefix>
       <artifactId>spring-cloud-maven-plugin</artifactId>
