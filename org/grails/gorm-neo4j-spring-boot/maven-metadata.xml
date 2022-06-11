@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>gorm-neo4j-spring-boot</artifactId>
   <versioning>
-    <latest>7.2.1</latest>
-    <release>7.2.1</release>
+    <latest>7.3.0</latest>
+    <release>7.3.0</release>
     <versions>
       <version>5.0.0.RC1</version>
       <version>5.0.0.RC2</version>
@@ -62,7 +62,8 @@
       <version>7.1.0</version>
       <version>7.2.0</version>
       <version>7.2.1</version>
+      <version>7.3.0</version>
     </versions>
-    <lastUpdated>20220310124406</lastUpdated>
+    <lastUpdated>20220610190341</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.tencent.bk.devops.ci.environment</groupId>
   <artifactId>api-environment</artifactId>
   <versioning>
-    <latest>1.8.0-RELEASE</latest>
-    <release>1.8.0-RELEASE</release>
+    <latest>1.8.1-RELEASE</latest>
+    <release>1.8.1-RELEASE</release>
     <versions>
       <version>1.1.2-RELEASE</version>
       <version>1.1.10-RELEASE</version>
@@ -37,12 +37,14 @@
       <version>1.7.35-RELEASE</version>
       <version>1.7.36-RELEASE</version>
       <version>1.7.37-RELEASE</version>
+      <version>1.7.40-RELEASE</version>
       <version>1.8.0-alpha.1-RELEASE</version>
       <version>1.8.0-alpha.26-RELEASE</version>
       <version>1.8.0-RC.2-RELEASE</version>
       <version>1.8.0-RC.3-RELEASE</version>
       <version>1.8.0-RELEASE</version>
+      <version>1.8.1-RELEASE</version>
     </versions>
-    <lastUpdated>20220510140856</lastUpdated>
+    <lastUpdated>20220610091529</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-twitter</artifactId>
   <versioning>
-    <latest>3.17.1</latest>
-    <release>3.17.1</release>
+    <latest>3.17.2</latest>
+    <release>3.17.2</release>
     <versions>
       <version>3.3.0</version>
       <version>3.3.1</version>
@@ -109,7 +109,8 @@
       <version>3.16.2</version>
       <version>3.17.0</version>
       <version>3.17.1</version>
+      <version>3.17.2</version>
     </versions>
-    <lastUpdated>20220606093748</lastUpdated>
+    <lastUpdated>20220610153728</lastUpdated>
   </versioning>
 </metadata>

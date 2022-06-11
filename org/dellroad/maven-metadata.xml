@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>DellRoad Stuff FieldBuilder Generator Plugin</name>
+      <prefix>dellroad-stuff-fieldbuilder</prefix>
+      <artifactId>dellroad-stuff-fieldbuilder-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>DellRoad Stuff Maven Plugin</name>
       <prefix>dellroad-stuff</prefix>
       <artifactId>dellroad-stuff-maven-plugin</artifactId>
