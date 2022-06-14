@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-pagerduty</artifactId>
   <versioning>
-    <latest>0.5.20</latest>
-    <release>0.5.20</release>
+    <latest>0.5.22</latest>
+    <release>0.5.22</release>
     <versions>
       <version>0.0.7</version>
       <version>0.0.8</version>
@@ -502,7 +502,9 @@
       <version>0.5.18</version>
       <version>0.5.19</version>
       <version>0.5.20</version>
+      <version>0.5.21</version>
+      <version>0.5.22</version>
     </versions>
-    <lastUpdated>20220612001245</lastUpdated>
+    <lastUpdated>20220613130920</lastUpdated>
   </versioning>
 </metadata>

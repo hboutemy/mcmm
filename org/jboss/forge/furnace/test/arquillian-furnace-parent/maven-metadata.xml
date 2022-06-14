@@ -3,8 +3,8 @@
   <groupId>org.jboss.forge.furnace.test</groupId>
   <artifactId>arquillian-furnace-parent</artifactId>
   <versioning>
-    <latest>2.29.0.Final</latest>
-    <release>2.29.0.Final</release>
+    <latest>2.29.1.Final</latest>
+    <release>2.29.1.Final</release>
     <versions>
       <version>2.15.0.Final</version>
       <version>2.15.1.Final</version>
@@ -64,7 +64,8 @@
       <version>2.28.5.Final</version>
       <version>2.28.6.Final</version>
       <version>2.29.0.Final</version>
+      <version>2.29.1.Final</version>
     </versions>
-    <lastUpdated>20210916192701</lastUpdated>
+    <lastUpdated>20220613160419</lastUpdated>
   </versioning>
 </metadata>

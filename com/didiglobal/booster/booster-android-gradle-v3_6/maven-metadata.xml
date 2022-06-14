@@ -3,8 +3,8 @@
   <groupId>com.didiglobal.booster</groupId>
   <artifactId>booster-android-gradle-v3_6</artifactId>
   <versioning>
-    <latest>4.10.0-rc10</latest>
-    <release>4.10.0-rc10</release>
+    <latest>4.11.0-alpha4</latest>
+    <release>4.11.0-alpha4</release>
     <versions>
       <version>1.5.0</version>
       <version>1.5.1</version>
@@ -119,7 +119,12 @@
       <version>4.10.0-rc8</version>
       <version>4.10.0-rc9</version>
       <version>4.10.0-rc10</version>
+      <version>4.10.0</version>
+      <version>4.11.0-alpha1</version>
+      <version>4.11.0-alpha2</version>
+      <version>4.11.0-alpha3</version>
+      <version>4.11.0-alpha4</version>
     </versions>
-    <lastUpdated>20220612194359</lastUpdated>
+    <lastUpdated>20220613093002</lastUpdated>
   </versioning>
 </metadata>

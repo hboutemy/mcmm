@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.spark</groupId>
   <artifactId>spark-bigquery-dsv1-spark3-support</artifactId>
   <versioning>
-    <latest>0.25.0</latest>
-    <release>0.25.0</release>
+    <latest>0.25.1</latest>
+    <release>0.25.1</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -13,7 +13,8 @@
       <version>0.24.1</version>
       <version>0.24.2</version>
       <version>0.25.0</version>
+      <version>0.25.1</version>
     </versions>
-    <lastUpdated>20220531212411</lastUpdated>
+    <lastUpdated>20220613212341</lastUpdated>
   </versioning>
 </metadata>
