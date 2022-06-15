@@ -27,6 +27,11 @@
       <artifactId>hawt-app-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Fabric8 :: Java generator :: Maven Plugin</name>
+      <prefix>java-generator</prefix>
+      <artifactId>java-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Vert.x Maven Plugin</name>
       <prefix>vertx</prefix>
       <artifactId>vertx-maven-plugin</artifactId>

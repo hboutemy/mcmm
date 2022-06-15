@@ -5,5 +5,9 @@
       <prefix>cactus-build</prefix>
       <artifactId>cactus-build-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>cactus</prefix>
+      <artifactId>cactus-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

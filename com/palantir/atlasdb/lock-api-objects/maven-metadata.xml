@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>lock-api-objects</artifactId>
   <versioning>
-    <latest>0.627.0</latest>
-    <release>0.627.0</release>
+    <latest>0.629.0</latest>
+    <release>0.629.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -378,7 +378,9 @@
       <version>0.626.0-rc1</version>
       <version>0.626.0</version>
       <version>0.627.0</version>
+      <version>0.628.0</version>
+      <version>0.629.0</version>
     </versions>
-    <lastUpdated>20220609212412</lastUpdated>
+    <lastUpdated>20220614145855</lastUpdated>
   </versioning>
 </metadata>
