@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-search-orm-coordination-outbox-polling-deployment</artifactId>
   <versioning>
-    <latest>2.10.0.CR1</latest>
-    <release>2.10.0.CR1</release>
+    <latest>2.10.0.Final</latest>
+    <release>2.10.0.Final</release>
     <versions>
       <version>2.7.0.CR1</version>
       <version>2.7.0.Final</version>
@@ -24,7 +24,8 @@
       <version>2.9.1.Final</version>
       <version>2.9.2.Final</version>
       <version>2.10.0.CR1</version>
+      <version>2.10.0.Final</version>
     </versions>
-    <lastUpdated>20220609153200</lastUpdated>
+    <lastUpdated>20220615153130</lastUpdated>
   </versioning>
 </metadata>

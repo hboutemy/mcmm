@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-prometheus</artifactId>
   <versioning>
-    <latest>0.273.2</latest>
-    <release>0.273.2</release>
+    <latest>0.273.3</latest>
+    <release>0.273.3</release>
     <versions>
       <version>0.260</version>
       <version>0.260.1</version>
@@ -29,7 +29,8 @@
       <version>0.273</version>
       <version>0.273.1</version>
       <version>0.273.2</version>
+      <version>0.273.3</version>
     </versions>
-    <lastUpdated>20220604035400</lastUpdated>
+    <lastUpdated>20220615212933</lastUpdated>
   </versioning>
 </metadata>

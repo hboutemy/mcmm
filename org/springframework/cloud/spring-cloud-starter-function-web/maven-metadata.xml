@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-function-web</artifactId>
   <versioning>
-    <latest>3.2.5</latest>
-    <release>3.2.5</release>
+    <latest>3.2.6</latest>
+    <release>3.2.6</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -38,12 +38,13 @@
       <version>3.2.3</version>
       <version>3.2.4</version>
       <version>3.2.5</version>
+      <version>3.2.6</version>
       <version>3.0.14.RELEASE</version>
       <version>3.1.2</version>
       <version>3.1.3</version>
       <version>3.1.4</version>
       <version>3.1.5</version>
     </versions>
-    <lastUpdated>20220527022838</lastUpdated>
+    <lastUpdated>20220615170453</lastUpdated>
   </versioning>
 </metadata>
