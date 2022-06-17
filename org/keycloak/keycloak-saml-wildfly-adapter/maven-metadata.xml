@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-saml-wildfly-adapter</artifactId>
   <versioning>
-    <latest>18.0.0</latest>
-    <release>18.0.0</release>
+    <latest>18.0.1</latest>
+    <release>18.0.1</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.6.1.Final</version>
@@ -109,7 +109,8 @@
       <version>17.0.0</version>
       <version>17.0.1</version>
       <version>18.0.0</version>
+      <version>18.0.1</version>
     </versions>
-    <lastUpdated>20220420192745</lastUpdated>
+    <lastUpdated>20220616123754</lastUpdated>
   </versioning>
 </metadata>
