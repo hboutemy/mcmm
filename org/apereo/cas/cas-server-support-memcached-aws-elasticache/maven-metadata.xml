@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-memcached-aws-elasticache</artifactId>
   <versioning>
-    <latest>6.6.0-RC3</latest>
-    <release>6.6.0-RC3</release>
+    <latest>6.6.0-RC4</latest>
+    <release>6.6.0-RC4</release>
     <versions>
       <version>v6.4.0-RC5</version>
       <version>v6.4.0-RC6</version>
@@ -121,7 +121,8 @@
       <version>6.6.0-RC1</version>
       <version>6.6.0-RC2</version>
       <version>6.6.0-RC3</version>
+      <version>6.6.0-RC4</version>
     </versions>
-    <lastUpdated>20220603083416</lastUpdated>
+    <lastUpdated>20220617153824</lastUpdated>
   </versioning>
 </metadata>

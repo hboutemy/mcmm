@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-query</artifactId>
   <versioning>
-    <latest>3.39.1-pre.345</latest>
-    <release>3.39.1-pre.345</release>
+    <latest>3.39.1-pre.346-compat</latest>
+    <release>3.39.1-pre.346-compat</release>
     <versions>
       <version>3.18.1-pre.215-kotlin-1.5.20</version>
       <version>3.18.1-pre.216-kotlin-1.5.20</version>
@@ -141,7 +141,9 @@
       <version>3.39.1-pre.343</version>
       <version>3.39.1-pre.344</version>
       <version>3.39.1-pre.345</version>
+      <version>3.39.1-pre.346</version>
+      <version>3.39.1-pre.346-compat</version>
     </versions>
-    <lastUpdated>20220613091044</lastUpdated>
+    <lastUpdated>20220617210510</lastUpdated>
   </versioning>
 </metadata>
