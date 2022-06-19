@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>automodule-inject</name>
+      <prefix>automodule-inject</prefix>
+      <artifactId>automodule-inject</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-merge-configuration</name>
       <prefix>merge-configuration</prefix>
       <artifactId>maven-merge-configuration</artifactId>
