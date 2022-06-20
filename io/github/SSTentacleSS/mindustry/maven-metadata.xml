@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mindustry Debug Maven Plugin</name>
+      <prefix>mindustry-debug</prefix>
+      <artifactId>mindustry-debug-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Mindustry Debug Maven Plugin</name>
+      <prefix>mindustry</prefix>
+      <artifactId>mindustry-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
