@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-connector-hbase-2.2_2.11</artifactId>
   <versioning>
-    <latest>1.14.4</latest>
-    <release>1.14.4</release>
+    <latest>1.14.5</latest>
+    <release>1.14.5</release>
     <versions>
       <version>1.12.0</version>
       <version>1.12.1</version>
@@ -26,7 +26,8 @@
       <version>1.14.2</version>
       <version>1.14.3</version>
       <version>1.14.4</version>
+      <version>1.14.5</version>
     </versions>
-    <lastUpdated>20220311094533</lastUpdated>
+    <lastUpdated>20220620123804</lastUpdated>
   </versioning>
 </metadata>

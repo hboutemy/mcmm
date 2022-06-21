@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-gitlab</artifactId>
   <versioning>
-    <latest>4.2.20</latest>
-    <release>4.2.20</release>
+    <latest>4.2.22</latest>
+    <release>4.2.22</release>
     <versions>
       <version>experimental-pipeline-a6e0b79</version>
       <version>experimental-pipeline-a8ce70d</version>
@@ -480,7 +480,9 @@
       <version>4.2.18</version>
       <version>4.2.19</version>
       <version>4.2.20</version>
+      <version>4.2.21</version>
+      <version>4.2.22</version>
     </versions>
-    <lastUpdated>20220618112528</lastUpdated>
+    <lastUpdated>20220620224114</lastUpdated>
   </versioning>
 </metadata>

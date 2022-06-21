@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-jdbc</artifactId>
   <versioning>
-    <latest>2.4.0</latest>
-    <release>2.4.0</release>
+    <latest>2.4.1</latest>
+    <release>2.4.1</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -81,12 +81,14 @@
       <version>2.3.2</version>
       <version>2.3.3</version>
       <version>2.3.4</version>
+      <version>2.3.5</version>
       <version>2.4.0</version>
+      <version>2.4.1</version>
       <version>1.1.13.RELEASE</version>
       <version>2.0.7.RELEASE</version>
       <version>2.1.4</version>
       <version>2.1.5</version>
     </versions>
-    <lastUpdated>20220513082025</lastUpdated>
+    <lastUpdated>20220620094349</lastUpdated>
   </versioning>
 </metadata>

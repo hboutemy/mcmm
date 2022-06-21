@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-r2dbc</artifactId>
   <versioning>
-    <latest>1.5.0</latest>
-    <release>1.5.0</release>
+    <latest>1.5.1</latest>
+    <release>1.5.1</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.1.0.RELEASE</version>
@@ -47,11 +47,13 @@
       <version>1.4.2</version>
       <version>1.4.3</version>
       <version>1.4.4</version>
+      <version>1.4.5</version>
       <version>1.5.0</version>
+      <version>1.5.1</version>
       <version>1.1.7.RELEASE</version>
       <version>1.2.4</version>
       <version>1.2.5</version>
     </versions>
-    <lastUpdated>20220513082143</lastUpdated>
+    <lastUpdated>20220620094542</lastUpdated>
   </versioning>
 </metadata>
