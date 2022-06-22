@@ -3,8 +3,8 @@
   <groupId>org.jboss.arquillian.container</groupId>
   <artifactId>arquillian-tomcat-embedded-parent</artifactId>
   <versioning>
-    <latest>1.2.0.Alpha1</latest>
-    <release>1.2.0.Alpha1</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>1.0.0.CR8</version>
       <version>1.0.0.CR9</version>
@@ -13,7 +13,8 @@
       <version>1.0.1.Final</version>
       <version>1.1.0.Final</version>
       <version>1.2.0.Alpha1</version>
+      <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20200717144746</lastUpdated>
+    <lastUpdated>20220621180258</lastUpdated>
   </versioning>
 </metadata>

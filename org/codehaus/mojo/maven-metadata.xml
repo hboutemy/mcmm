@@ -62,6 +62,11 @@
       <artifactId>buildnumber-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>BuildPlan Maven Plugin</name>
+      <prefix>buildplan</prefix>
+      <artifactId>buildplan-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Mojo's Cassandra Maven Plugin</name>
       <prefix>cassandra</prefix>
       <artifactId>cassandra-maven-plugin</artifactId>
