@@ -3,11 +3,15 @@
   <groupId>org.epos-eu.ics-c</groupId>
   <artifactId>db-api</artifactId>
   <versioning>
-    <latest>1.0.1</latest>
-    <release>1.0.1</release>
+    <latest>1.1.0b</latest>
+    <release>1.1.0b</release>
     <versions>
+      <version>main</version>
+      <version>1.0.0-oss</version>
       <version>1.0.1</version>
+      <version>1.1.0</version>
+      <version>1.1.0b</version>
     </versions>
-    <lastUpdated>20220621152711</lastUpdated>
+    <lastUpdated>20220622161535</lastUpdated>
   </versioning>
 </metadata>

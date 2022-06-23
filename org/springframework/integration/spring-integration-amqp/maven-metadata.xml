@@ -3,8 +3,8 @@
   <groupId>org.springframework.integration</groupId>
   <artifactId>spring-integration-amqp</artifactId>
   <versioning>
-    <latest>5.5.12</latest>
-    <release>5.5.12</release>
+    <latest>5.5.13</latest>
+    <release>5.5.13</release>
     <versions>
       <version>2.1.0.RELEASE</version>
       <version>2.1.1.RELEASE</version>
@@ -161,6 +161,7 @@
       <version>5.5.10</version>
       <version>5.5.11</version>
       <version>5.5.12</version>
+      <version>5.5.13</version>
       <version>4.0.0.M3</version>
       <version>5.3.6.RELEASE</version>
       <version>5.3.7.RELEASE</version>
@@ -168,6 +169,6 @@
       <version>5.4.5</version>
       <version>5.4.6</version>
     </versions>
-    <lastUpdated>20220517203729</lastUpdated>
+    <lastUpdated>20220622192215</lastUpdated>
   </versioning>
 </metadata>
