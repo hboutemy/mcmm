@@ -3,12 +3,13 @@
   <groupId>io.streamnative.connectors</groupId>
   <artifactId>flink-connector-pulsar</artifactId>
   <versioning>
-    <latest>1.15.0.0-develop-rc7</latest>
-    <release>1.15.0.0-develop-rc7</release>
+    <latest>1.15.0.0-develop-rc8</latest>
+    <release>1.15.0.0-develop-rc8</release>
     <versions>
       <version>1.15.0.0-rc1</version>
       <version>1.15.0.0-rc2</version>
       <version>1.15.0.0-rc3</version>
+      <version>1.15.0.0</version>
       <version>1.15.0-develop-rc1</version>
       <version>1.15.0.0-develop-rc2</version>
       <version>1.15.0.0-develop-rc3</version>
@@ -16,7 +17,8 @@
       <version>1.15.0.0-develop-rc5</version>
       <version>1.15.0.0-develop-rc6</version>
       <version>1.15.0.0-develop-rc7</version>
+      <version>1.15.0.0-develop-rc8</version>
     </versions>
-    <lastUpdated>20220621115559</lastUpdated>
+    <lastUpdated>20220623070044</lastUpdated>
   </versioning>
 </metadata>
