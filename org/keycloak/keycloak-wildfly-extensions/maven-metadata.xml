@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-extensions</artifactId>
   <versioning>
-    <latest>18.0.1</latest>
-    <release>18.0.1</release>
+    <latest>18.0.2</latest>
+    <release>18.0.2</release>
     <versions>
       <version>1.2.0.Beta1</version>
       <version>1.2.0.CR1</version>
@@ -118,8 +118,9 @@
       <version>17.0.1</version>
       <version>18.0.0</version>
       <version>18.0.1</version>
+      <version>18.0.2</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20220616123818</lastUpdated>
+    <lastUpdated>20220624120438</lastUpdated>
   </versioning>
 </metadata>

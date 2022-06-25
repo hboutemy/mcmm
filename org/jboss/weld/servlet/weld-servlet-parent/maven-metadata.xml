@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.servlet</groupId>
   <artifactId>weld-servlet-parent</artifactId>
   <versioning>
-    <latest>5.0.0.SP2</latest>
-    <release>5.0.0.SP2</release>
+    <latest>5.0.1.Final</latest>
+    <release>5.0.1.Final</release>
     <versions>
       <version>1.0.0-CR1</version>
       <version>1.0.0-CR2</version>
@@ -194,7 +194,8 @@
       <version>5.0.0.Final</version>
       <version>5.0.0.SP1</version>
       <version>5.0.0.SP2</version>
+      <version>5.0.1.Final</version>
     </versions>
-    <lastUpdated>20220608132131</lastUpdated>
+    <lastUpdated>20220624140943</lastUpdated>
   </versioning>
 </metadata>

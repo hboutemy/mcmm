@@ -3,8 +3,8 @@
   <groupId>pl.fhframework.core.security.permission</groupId>
   <artifactId>permissionProvider-jdbc</artifactId>
   <versioning>
-    <latest>4.9.26</latest>
-    <release>4.9.26</release>
+    <latest>4.10.0</latest>
+    <release>4.10.0</release>
     <versions>
       <version>4.5.3</version>
       <version>4.5.6</version>
@@ -57,7 +57,8 @@
       <version>4.9.25</version>
       <version>4.9.25.1</version>
       <version>4.9.26</version>
+      <version>4.10.0</version>
     </versions>
-    <lastUpdated>20220412143342</lastUpdated>
+    <lastUpdated>20220624140257</lastUpdated>
   </versioning>
 </metadata>

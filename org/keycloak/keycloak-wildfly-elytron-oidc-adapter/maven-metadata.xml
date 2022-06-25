@@ -3,8 +3,8 @@
   <groupId>org.keycloak</groupId>
   <artifactId>keycloak-wildfly-elytron-oidc-adapter</artifactId>
   <versioning>
-    <latest>18.0.1</latest>
-    <release>18.0.1</release>
+    <latest>18.0.2</latest>
+    <release>18.0.2</release>
     <versions>
       <version>3.1.0.CR1</version>
       <version>3.1.0.Final</version>
@@ -73,7 +73,8 @@
       <version>17.0.1</version>
       <version>18.0.0</version>
       <version>18.0.1</version>
+      <version>18.0.2</version>
     </versions>
-    <lastUpdated>20220616123818</lastUpdated>
+    <lastUpdated>20220624120438</lastUpdated>
   </versioning>
 </metadata>
