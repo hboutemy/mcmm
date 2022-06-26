@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-mui</artifactId>
   <versioning>
-    <latest>5.8.5-pre.347</latest>
-    <release>5.8.5-pre.347</release>
+    <latest>5.8.5-pre.348-compat</latest>
+    <release>5.8.5-pre.348-compat</release>
     <versions>
       <version>5.0.2-pre.252-kotlin-1.5.31</version>
       <version>5.0.2-pre.253-kotlin-1.5.31</version>
@@ -107,7 +107,9 @@
       <version>5.8.4-pre.346</version>
       <version>5.8.4-pre.346-compat</version>
       <version>5.8.5-pre.347</version>
+      <version>5.8.5-pre.348</version>
+      <version>5.8.5-pre.348-compat</version>
     </versions>
-    <lastUpdated>20220622073536</lastUpdated>
+    <lastUpdated>20220625061508</lastUpdated>
   </versioning>
 </metadata>

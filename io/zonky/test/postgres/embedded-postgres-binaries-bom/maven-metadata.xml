@@ -3,8 +3,8 @@
   <groupId>io.zonky.test.postgres</groupId>
   <artifactId>embedded-postgres-binaries-bom</artifactId>
   <versioning>
-    <latest>14.3.0</latest>
-    <release>14.3.0</release>
+    <latest>14.4.0</latest>
+    <release>14.4.0</release>
     <versions>
       <version>9.3.23</version>
       <version>9.3.24</version>
@@ -123,7 +123,8 @@
       <version>14.1.0</version>
       <version>14.2.0</version>
       <version>14.3.0</version>
+      <version>14.4.0</version>
     </versions>
-    <lastUpdated>20220517084654</lastUpdated>
+    <lastUpdated>20220625193054</lastUpdated>
   </versioning>
 </metadata>
