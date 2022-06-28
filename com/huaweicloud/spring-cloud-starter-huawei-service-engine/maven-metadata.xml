@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-starter-huawei-service-engine</artifactId>
   <versioning>
-    <latest>1.10.0-2021.0.x</latest>
-    <release>1.10.0-2021.0.x</release>
+    <latest>1.10.1-2021.0.x</latest>
+    <release>1.10.1-2021.0.x</release>
     <versions>
       <version>1.5.0-Greenwich</version>
       <version>1.5.0-Hoxton</version>
@@ -40,7 +40,9 @@
       <version>1.9.2-Hoxton</version>
       <version>1.10.0-2020.0.x</version>
       <version>1.10.0-2021.0.x</version>
+      <version>1.10.1-2020.0.x</version>
+      <version>1.10.1-2021.0.x</version>
     </versions>
-    <lastUpdated>20220531083121</lastUpdated>
+    <lastUpdated>20220627144530</lastUpdated>
   </versioning>
 </metadata>

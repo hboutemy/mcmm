@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-container-test-utils</artifactId>
   <versioning>
-    <latest>0.636.0</latest>
-    <release>0.636.0</release>
+    <latest>0.637.0</latest>
+    <release>0.637.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -394,7 +394,9 @@
       <version>0.634.0</version>
       <version>0.635.0</version>
       <version>0.636.0</version>
+      <version>0.637.0-rc1</version>
+      <version>0.637.0</version>
     </versions>
-    <lastUpdated>20220624142528</lastUpdated>
+    <lastUpdated>20220627171656</lastUpdated>
   </versioning>
 </metadata>
