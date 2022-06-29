@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf</groupId>
   <artifactId>cxf-rt-management</artifactId>
   <versioning>
-    <latest>3.5.2</latest>
-    <release>3.5.2</release>
+    <latest>3.5.3</latest>
+    <release>3.5.3</release>
     <versions>
       <version>2.0.6</version>
       <version>2.0.7</version>
@@ -185,10 +185,12 @@
       <version>3.4.5</version>
       <version>3.4.6</version>
       <version>3.4.7</version>
+      <version>3.4.8</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
+      <version>3.5.3</version>
     </versions>
-    <lastUpdated>20220411213037</lastUpdated>
+    <lastUpdated>20220628142556</lastUpdated>
   </versioning>
 </metadata>

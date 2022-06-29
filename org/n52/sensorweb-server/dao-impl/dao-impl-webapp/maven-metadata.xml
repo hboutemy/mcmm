@@ -3,8 +3,8 @@
   <groupId>org.n52.sensorweb-server.dao-impl</groupId>
   <artifactId>dao-impl-webapp</artifactId>
   <versioning>
-    <latest>4.0.0-PR.9</latest>
-    <release>4.0.0-PR.9</release>
+    <latest>4.0.0-PR.10</latest>
+    <release>4.0.0-PR.10</release>
     <versions>
       <version>3.0.0</version>
       <version>3.1.0</version>
@@ -22,6 +22,7 @@
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
+      <version>3.6.0</version>
       <version>4.0.0-PR.1</version>
       <version>4.0.0-PR.2</version>
       <version>4.0.0-PR.3</version>
@@ -31,7 +32,8 @@
       <version>4.0.0-PR.7</version>
       <version>4.0.0-PR.8</version>
       <version>4.0.0-PR.9</version>
+      <version>4.0.0-PR.10</version>
     </versions>
-    <lastUpdated>20220429080156</lastUpdated>
+    <lastUpdated>20220628083725</lastUpdated>
   </versioning>
 </metadata>
