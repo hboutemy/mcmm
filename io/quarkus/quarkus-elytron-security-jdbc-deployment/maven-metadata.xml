@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elytron-security-jdbc-deployment</artifactId>
   <versioning>
-    <latest>2.10.0.Final</latest>
-    <release>2.10.0.Final</release>
+    <latest>2.10.1.Final</latest>
+    <release>2.10.1.Final</release>
     <versions>
       <version>0.24.0</version>
       <version>0.25.0</version>
@@ -152,7 +152,8 @@
       <version>2.9.2.Final</version>
       <version>2.10.0.CR1</version>
       <version>2.10.0.Final</version>
+      <version>2.10.1.Final</version>
     </versions>
-    <lastUpdated>20220615153105</lastUpdated>
+    <lastUpdated>20220629094452</lastUpdated>
   </versioning>
 </metadata>

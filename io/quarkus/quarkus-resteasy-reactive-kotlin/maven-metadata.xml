@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-reactive-kotlin</artifactId>
   <versioning>
-    <latest>2.10.0.Final</latest>
-    <release>2.10.0.Final</release>
+    <latest>2.10.1.Final</latest>
+    <release>2.10.1.Final</release>
     <versions>
       <version>2.0.0.Alpha2</version>
       <version>2.0.0.Alpha3</version>
@@ -65,7 +65,8 @@
       <version>2.9.2.Final</version>
       <version>2.10.0.CR1</version>
       <version>2.10.0.Final</version>
+      <version>2.10.1.Final</version>
     </versions>
-    <lastUpdated>20220615153312</lastUpdated>
+    <lastUpdated>20220629094655</lastUpdated>
   </versioning>
 </metadata>

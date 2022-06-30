@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-client-spring</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.9.1</latest>
+    <release>3.9.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -39,7 +39,8 @@
       <version>3.8.2</version>
       <version>3.8.3</version>
       <version>3.9.0</version>
+      <version>3.9.1</version>
     </versions>
-    <lastUpdated>20220622192522</lastUpdated>
+    <lastUpdated>20220629160007</lastUpdated>
   </versioning>
 </metadata>

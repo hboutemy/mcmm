@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-reactive-jaxb-deployment</artifactId>
   <versioning>
-    <latest>2.10.0.Final</latest>
-    <release>2.10.0.Final</release>
+    <latest>2.10.1.Final</latest>
+    <release>2.10.1.Final</release>
     <versions>
       <version>2.5.0.CR1</version>
       <version>2.5.0.Final</version>
@@ -36,7 +36,8 @@
       <version>2.9.2.Final</version>
       <version>2.10.0.CR1</version>
       <version>2.10.0.Final</version>
+      <version>2.10.1.Final</version>
     </versions>
-    <lastUpdated>20220615153310</lastUpdated>
+    <lastUpdated>20220629094653</lastUpdated>
   </versioning>
 </metadata>
