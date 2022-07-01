@@ -3,8 +3,8 @@
   <groupId>com.influxdb</groupId>
   <artifactId>influxdb-client-kotlin</artifactId>
   <versioning>
-    <latest>6.2.0</latest>
-    <release>6.2.0</release>
+    <latest>6.3.0</latest>
+    <release>6.3.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -40,7 +40,8 @@
       <version>6.0.0</version>
       <version>6.1.0</version>
       <version>6.2.0</version>
+      <version>6.3.0</version>
     </versions>
-    <lastUpdated>20220624054826</lastUpdated>
+    <lastUpdated>20220630124653</lastUpdated>
   </versioning>
 </metadata>

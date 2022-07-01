@@ -3,8 +3,8 @@
   <groupId>org.kie.server</groupId>
   <artifactId>kie-server-maven-plugin</artifactId>
   <versioning>
-    <latest>7.71.0.Final</latest>
-    <release>7.71.0.Final</release>
+    <latest>7.72.0.Final</latest>
+    <release>7.72.0.Final</release>
     <versions>
       <version>7.2.0.Final</version>
       <version>7.3.0.Final</version>
@@ -86,7 +86,8 @@
       <version>7.69.0.Final</version>
       <version>7.70.0.Final</version>
       <version>7.71.0.Final</version>
+      <version>7.72.0.Final</version>
     </versions>
-    <lastUpdated>20220610074234</lastUpdated>
+    <lastUpdated>20220630080745</lastUpdated>
   </versioning>
 </metadata>
