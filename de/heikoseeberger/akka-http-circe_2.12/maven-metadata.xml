@@ -3,8 +3,8 @@
   <groupId>de.heikoseeberger</groupId>
   <artifactId>akka-http-circe_2.12</artifactId>
   <versioning>
-    <latest>1.40.0-RC2</latest>
-    <release>1.40.0-RC2</release>
+    <latest>1.40.0-RC3</latest>
+    <release>1.40.0-RC3</release>
     <versions>
       <version>1.11.0-M1</version>
       <version>1.11.0-M2</version>
@@ -53,7 +53,8 @@
       <version>1.39.2</version>
       <version>1.40.0-RC1</version>
       <version>1.40.0-RC2</version>
+      <version>1.40.0-RC3</version>
     </versions>
-    <lastUpdated>20220407150306</lastUpdated>
+    <lastUpdated>20220701092315</lastUpdated>
   </versioning>
 </metadata>
