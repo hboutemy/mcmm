@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Specgen Java Maven Plugin</name>
+      <prefix>java</prefix>
+      <artifactId>java-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Specgen Kotlin Maven Plugin</name>
+      <prefix>kotlin</prefix>
+      <artifactId>kotlin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Specgen Maven Plugin</name>
       <prefix>specgen</prefix>
       <artifactId>specgen-maven-plugin</artifactId>

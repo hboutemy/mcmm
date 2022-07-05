@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-helm</artifactId>
   <versioning>
-    <latest>0.5.42</latest>
-    <release>0.5.42</release>
+    <latest>0.5.43</latest>
+    <release>0.5.43</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -440,7 +440,8 @@
       <version>0.5.40</version>
       <version>0.5.41</version>
       <version>0.5.42</version>
+      <version>0.5.43</version>
     </versions>
-    <lastUpdated>20220703002359</lastUpdated>
+    <lastUpdated>20220704002414</lastUpdated>
   </versioning>
 </metadata>
