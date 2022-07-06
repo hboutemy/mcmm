@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Dependency Print Maven Plugin</name>
+      <prefix>dependency-print</prefix>
+      <artifactId>dependency-print-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
