@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-quarkus-processes-jdbc</artifactId>
   <versioning>
-    <latest>1.23.0.Final</latest>
-    <release>1.23.0.Final</release>
+    <latest>1.24.0.Final</latest>
+    <release>1.24.0.Final</release>
     <versions>
       <version>1.9.0.Final</version>
       <version>1.9.1.Final</version>
@@ -26,7 +26,8 @@
       <version>1.22.0.Final</version>
       <version>1.22.1.Final</version>
       <version>1.23.0.Final</version>
+      <version>1.24.0.Final</version>
     </versions>
-    <lastUpdated>20220620144226</lastUpdated>
+    <lastUpdated>20220705124933</lastUpdated>
   </versioning>
 </metadata>

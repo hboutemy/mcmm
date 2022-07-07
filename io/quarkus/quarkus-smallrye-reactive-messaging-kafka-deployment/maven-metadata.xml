@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-reactive-messaging-kafka-deployment</artifactId>
   <versioning>
-    <latest>2.10.1.Final</latest>
-    <release>2.10.1.Final</release>
+    <latest>2.10.2.Final</latest>
+    <release>2.10.2.Final</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -173,7 +173,8 @@
       <version>2.10.0.CR1</version>
       <version>2.10.0.Final</version>
       <version>2.10.1.Final</version>
+      <version>2.10.2.Final</version>
     </versions>
-    <lastUpdated>20220629094721</lastUpdated>
+    <lastUpdated>20220706105350</lastUpdated>
   </versioning>
 </metadata>

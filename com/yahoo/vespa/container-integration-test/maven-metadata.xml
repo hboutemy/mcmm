@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>container-integration-test</artifactId>
   <versioning>
-    <latest>8.11.15</latest>
-    <release>8.11.15</release>
+    <latest>8.12.48</latest>
+    <release>8.12.48</release>
     <versions>
       <version>6.263.46</version>
       <version>6.264.15</version>
@@ -453,7 +453,8 @@
       <version>8.7.17</version>
       <version>8.8.35</version>
       <version>8.11.15</version>
+      <version>8.12.48</version>
     </versions>
-    <lastUpdated>20220704094343</lastUpdated>
+    <lastUpdated>20220706120713</lastUpdated>
   </versioning>
 </metadata>
