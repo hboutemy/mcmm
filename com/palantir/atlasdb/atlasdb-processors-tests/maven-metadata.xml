@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-processors-tests</artifactId>
   <versioning>
-    <latest>0.648.0</latest>
-    <release>0.648.0</release>
+    <latest>0.651.0</latest>
+    <release>0.651.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -410,7 +410,10 @@
       <version>0.646.0</version>
       <version>0.647.0</version>
       <version>0.648.0</version>
+      <version>0.649.0</version>
+      <version>0.650.0</version>
+      <version>0.651.0</version>
     </versions>
-    <lastUpdated>20220706165812</lastUpdated>
+    <lastUpdated>20220707141839</lastUpdated>
   </versioning>
 </metadata>

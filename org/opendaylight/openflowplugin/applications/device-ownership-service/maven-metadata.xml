@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.openflowplugin.applications</groupId>
   <artifactId>device-ownership-service</artifactId>
   <versioning>
-    <latest>0.14.0</latest>
-    <release>0.14.0</release>
+    <latest>0.14.1</latest>
+    <release>0.14.1</release>
     <versions>
       <version>0.6.4</version>
       <version>0.7.0</version>
@@ -38,7 +38,8 @@
       <version>0.13.2</version>
       <version>0.13.3</version>
       <version>0.14.0</version>
+      <version>0.14.1</version>
     </versions>
-    <lastUpdated>20220602072558</lastUpdated>
+    <lastUpdated>20220707224529</lastUpdated>
   </versioning>
 </metadata>

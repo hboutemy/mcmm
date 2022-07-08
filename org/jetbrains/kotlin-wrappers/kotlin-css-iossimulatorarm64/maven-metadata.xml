@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-css-iossimulatorarm64</artifactId>
   <versioning>
-    <latest>1.0.0-pre.351</latest>
-    <release>1.0.0-pre.351</release>
+    <latest>1.0.0-pre.352-compat</latest>
+    <release>1.0.0-pre.352-compat</release>
     <versions>
       <version>1.0.0-pre.294-kotlin-1.6.10</version>
       <version>1.0.0-pre.295-kotlin-1.6.10</version>
@@ -70,7 +70,9 @@
       <version>1.0.0-pre.349</version>
       <version>1.0.0-pre.350</version>
       <version>1.0.0-pre.351</version>
+      <version>1.0.0-pre.352</version>
+      <version>1.0.0-pre.352-compat</version>
     </versions>
-    <lastUpdated>20220705101451</lastUpdated>
+    <lastUpdated>20220707152452</lastUpdated>
   </versioning>
 </metadata>
