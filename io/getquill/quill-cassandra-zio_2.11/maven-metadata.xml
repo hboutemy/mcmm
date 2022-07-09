@@ -3,8 +3,8 @@
   <groupId>io.getquill</groupId>
   <artifactId>quill-cassandra-zio_2.11</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>4.0.0</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>3.7.0</version>
       <version>3.7.1</version>
@@ -33,7 +33,8 @@
       <version>4.0.0-RC1</version>
       <version>4.0.0-RC2</version>
       <version>4.0.0</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20220629190306</lastUpdated>
+    <lastUpdated>20220708004908</lastUpdated>
   </versioning>
 </metadata>
