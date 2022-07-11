@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-heaven-gate</artifactId>
   <versioning>
-    <latest>1.15-c9d9b7d-server</latest>
-    <release>1.15-c9d9b7d-server</release>
+    <latest>1.19-b7dd480-server</latest>
+    <release>1.19-b7dd480-server</release>
     <versions>
       <version>1.1-bc35e03-client</version>
       <version>1.1-bc35e03-server</version>
@@ -36,7 +36,15 @@
       <version>1.14-6772016-server</version>
       <version>1.15-c9d9b7d-client</version>
       <version>1.15-c9d9b7d-server</version>
+      <version>1.16-0793694-client</version>
+      <version>1.16-0793694-server</version>
+      <version>1.17-cd69670-client</version>
+      <version>1.17-cd69670-server</version>
+      <version>1.18-d9a3133-client</version>
+      <version>1.18-d9a3133-server</version>
+      <version>1.19-b7dd480-client</version>
+      <version>1.19-b7dd480-server</version>
     </versions>
-    <lastUpdated>20220708120318</lastUpdated>
+    <lastUpdated>20220710214534</lastUpdated>
   </versioning>
 </metadata>
