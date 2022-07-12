@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.bigtable</groupId>
   <artifactId>bigtable-client-core</artifactId>
   <versioning>
-    <latest>1.26.3</latest>
-    <release>1.26.3</release>
+    <latest>1.27.0</latest>
+    <release>1.27.0</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -67,11 +67,12 @@
       <version>1.26.1</version>
       <version>1.26.2</version>
       <version>1.26.3</version>
+      <version>1.27.0</version>
       <version>1.19.1</version>
       <version>1.19.2</version>
       <version>1.20.0</version>
       <version>1.20.1</version>
     </versions>
-    <lastUpdated>20220119174836</lastUpdated>
+    <lastUpdated>20220711144922</lastUpdated>
   </versioning>
 </metadata>

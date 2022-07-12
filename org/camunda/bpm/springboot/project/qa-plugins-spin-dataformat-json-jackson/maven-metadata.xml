@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.springboot.project</groupId>
   <artifactId>qa-plugins-spin-dataformat-json-jackson</artifactId>
   <versioning>
-    <latest>7.18.0-alpha2</latest>
-    <release>7.18.0-alpha2</release>
+    <latest>7.18.0-alpha3</latest>
+    <release>7.18.0-alpha3</release>
     <versions>
       <version>3.4.0</version>
       <version>3.4.1</version>
@@ -41,7 +41,8 @@
       <version>7.17.0</version>
       <version>7.18.0-alpha1</version>
       <version>7.18.0-alpha2</version>
+      <version>7.18.0-alpha3</version>
     </versions>
-    <lastUpdated>20220609142624</lastUpdated>
+    <lastUpdated>20220711123424</lastUpdated>
   </versioning>
 </metadata>
