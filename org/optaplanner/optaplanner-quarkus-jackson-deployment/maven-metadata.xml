@@ -3,8 +3,8 @@
   <groupId>org.optaplanner</groupId>
   <artifactId>optaplanner-quarkus-jackson-deployment</artifactId>
   <versioning>
-    <latest>8.24.0.Final</latest>
-    <release>8.24.0.Final</release>
+    <latest>8.24.1.Final</latest>
+    <release>8.24.1.Final</release>
     <versions>
       <version>7.39.0.CR1</version>
       <version>7.39.0.Final</version>
@@ -55,7 +55,8 @@
       <version>8.22.1.Final</version>
       <version>8.23.0.Final</version>
       <version>8.24.0.Final</version>
+      <version>8.24.1.Final</version>
     </versions>
-    <lastUpdated>20220705144138</lastUpdated>
+    <lastUpdated>20220712154625</lastUpdated>
   </versioning>
 </metadata>

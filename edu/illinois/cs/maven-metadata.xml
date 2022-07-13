@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>iDFlakies Maven Plugin</name>
+      <prefix>idflakies</prefix>
+      <artifactId>idflakies-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>testrunner</prefix>
       <artifactId>testrunner-maven-plugin</artifactId>
     </plugin>
