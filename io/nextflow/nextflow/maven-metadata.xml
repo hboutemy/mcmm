@@ -3,8 +3,8 @@
   <groupId>io.nextflow</groupId>
   <artifactId>nextflow</artifactId>
   <versioning>
-    <latest>22.06.1-edge</latest>
-    <release>22.06.1-edge</release>
+    <latest>22.07.1-edge</latest>
+    <release>22.07.1-edge</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -211,7 +211,9 @@
       <version>22.05.0-edge</version>
       <version>22.06.0-edge</version>
       <version>22.06.1-edge</version>
+      <version>22.07.0-edge</version>
+      <version>22.07.1-edge</version>
     </versions>
-    <lastUpdated>20220619205808</lastUpdated>
+    <lastUpdated>20220713105632</lastUpdated>
   </versioning>
 </metadata>

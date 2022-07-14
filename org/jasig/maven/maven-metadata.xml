@@ -22,6 +22,11 @@
       <artifactId>maven-translate-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>NOTICE Generation Maven Plugin</name>
+      <prefix>notice</prefix>
+      <artifactId>notice-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>SASS Compiler Plugin</name>
       <prefix>sass</prefix>
       <artifactId>sass-maven-plugin</artifactId>

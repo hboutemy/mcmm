@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-testdriver-parent-pom</artifactId>
   <versioning>
-    <latest>14.0.0.Dev03</latest>
-    <release>14.0.0.Dev03</release>
+    <latest>14.0.0.Dev04</latest>
+    <release>14.0.0.Dev04</release>
     <versions>
       <version>11.0.0.CR1</version>
       <version>11.0.0.Final</version>
@@ -68,8 +68,9 @@
       <version>14.0.0.Dev01</version>
       <version>14.0.0.Dev02</version>
       <version>14.0.0.Dev03</version>
+      <version>14.0.0.Dev04</version>
       <version>12.0.0.Dev3</version>
     </versions>
-    <lastUpdated>20220528065343</lastUpdated>
+    <lastUpdated>20220713183754</lastUpdated>
   </versioning>
 </metadata>
