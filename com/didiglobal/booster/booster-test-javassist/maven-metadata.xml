@@ -3,8 +3,8 @@
   <groupId>com.didiglobal.booster</groupId>
   <artifactId>booster-test-javassist</artifactId>
   <versioning>
-    <latest>4.12.0-rc1</latest>
-    <release>4.12.0-rc1</release>
+    <latest>4.12.0-rc3</latest>
+    <release>4.12.0-rc3</release>
     <versions>
       <version>4.3.0-alpha4</version>
       <version>4.3.0-alpha5</version>
@@ -119,7 +119,9 @@
       <version>4.12.0-alpha1</version>
       <version>4.12.0-alpha2</version>
       <version>4.12.0-rc1</version>
+      <version>4.12.0-rc2</version>
+      <version>4.12.0-rc3</version>
     </versions>
-    <lastUpdated>20220709035116</lastUpdated>
+    <lastUpdated>20220714063232</lastUpdated>
   </versioning>
 </metadata>
