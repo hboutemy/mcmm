@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-lucene-demo</artifactId>
   <versioning>
@@ -181,6 +181,6 @@
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
     </versions>
-    <lastUpdated>20200107124430</lastUpdated>
+    <lastUpdated>20220715214201</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-cassandra</artifactId>
   <versioning>
@@ -79,6 +79,6 @@
       <version>8.2.1.Final</version>
       <version>9.4.0.Final</version>
     </versions>
-    <lastUpdated>20190305114104</lastUpdated>
+    <lastUpdated>20220715214103</lastUpdated>
   </versioning>
 </metadata>

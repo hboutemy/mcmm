@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-rhq-plugin</artifactId>
   <versioning>
@@ -150,6 +150,6 @@
       <version>8.2.11.Final</version>
       <version>8.2.12.Final</version>
     </versions>
-    <lastUpdated>20200107124437</lastUpdated>
+    <lastUpdated>20220715214810</lastUpdated>
   </versioning>
 </metadata>

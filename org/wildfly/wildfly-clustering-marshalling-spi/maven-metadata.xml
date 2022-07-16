@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-marshalling-spi</artifactId>
   <versioning>
-    <latest>27.0.0.Alpha2</latest>
-    <release>27.0.0.Alpha2</release>
+    <latest>27.0.0.Alpha3</latest>
+    <release>27.0.0.Alpha3</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -64,7 +64,8 @@
       <version>26.1.1.Final</version>
       <version>27.0.0.Alpha1</version>
       <version>27.0.0.Alpha2</version>
+      <version>27.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20220708191527</lastUpdated>
+    <lastUpdated>20220715192235</lastUpdated>
   </versioning>
 </metadata>

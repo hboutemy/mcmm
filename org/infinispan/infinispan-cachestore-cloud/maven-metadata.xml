@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-cloud</artifactId>
   <versioning>
@@ -78,6 +78,6 @@
       <version>9.0.0.Final</version>
       <version>8.0.0.Final</version>
     </versions>
-    <lastUpdated>20190305144832</lastUpdated>
+    <lastUpdated>20220715214108</lastUpdated>
   </versioning>
 </metadata>

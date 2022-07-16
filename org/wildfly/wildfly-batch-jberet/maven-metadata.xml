@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-batch-jberet</artifactId>
   <versioning>
-    <latest>27.0.0.Alpha2</latest>
-    <release>27.0.0.Alpha2</release>
+    <latest>27.0.0.Alpha3</latest>
+    <release>27.0.0.Alpha3</release>
     <versions>
       <version>10.0.0.Beta1</version>
       <version>10.0.0.Beta2</version>
@@ -74,7 +74,8 @@
       <version>26.1.1.Final</version>
       <version>27.0.0.Alpha1</version>
       <version>27.0.0.Alpha2</version>
+      <version>27.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20220708191517</lastUpdated>
+    <lastUpdated>20220715192225</lastUpdated>
   </versioning>
 </metadata>

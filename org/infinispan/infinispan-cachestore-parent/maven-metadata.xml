@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-parent</artifactId>
   <versioning>
@@ -78,6 +78,6 @@
       <version>6.0.0.Alpha3</version>
       <version>6.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20161212195232</lastUpdated>
+    <lastUpdated>20220715215647</lastUpdated>
   </versioning>
 </metadata>
