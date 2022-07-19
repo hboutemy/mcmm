@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Conditional Maven Plugin</name>
+      <prefix>conditional</prefix>
+      <artifactId>conditional-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Regular Expression Maven Plugin</name>
+      <prefix>regex</prefix>
+      <artifactId>regex-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-wrappers-bom</artifactId>
   <versioning>
-    <latest>1.0.0-pre.357</latest>
-    <release>1.0.0-pre.357</release>
+    <latest>1.0.0-pre.358-compat</latest>
+    <release>1.0.0-pre.358-compat</release>
     <versions>
       <version>0.0.1-pre.213-kotlin-1.5.10</version>
       <version>0.0.1-pre.213-kotlin-1.5.20</version>
@@ -159,7 +159,9 @@
       <version>1.0.0-pre.355</version>
       <version>1.0.0-pre.356</version>
       <version>1.0.0-pre.357</version>
+      <version>1.0.0-pre.358</version>
+      <version>1.0.0-pre.358-compat</version>
     </versions>
-    <lastUpdated>20220714100036</lastUpdated>
+    <lastUpdated>20220718082101</lastUpdated>
   </versioning>
 </metadata>

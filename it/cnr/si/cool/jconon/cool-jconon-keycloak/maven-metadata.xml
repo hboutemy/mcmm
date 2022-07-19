@@ -3,8 +3,8 @@
   <groupId>it.cnr.si.cool.jconon</groupId>
   <artifactId>cool-jconon-keycloak</artifactId>
   <versioning>
-    <latest>5.0.8</latest>
-    <release>5.0.8</release>
+    <latest>5.0.9</latest>
+    <release>5.0.9</release>
     <versions>
       <version>4.12.0</version>
       <version>4.12.1</version>
@@ -27,6 +27,7 @@
       <version>4.12.18</version>
       <version>4.13.0</version>
       <version>4.13.1</version>
+      <version>4.13.1.patched1</version>
       <version>4.13.2</version>
       <version>4.13.3</version>
       <version>4.13.4</version>
@@ -42,7 +43,8 @@
       <version>5.0.6</version>
       <version>5.0.7</version>
       <version>5.0.8</version>
+      <version>5.0.9</version>
     </versions>
-    <lastUpdated>20220717172238</lastUpdated>
+    <lastUpdated>20220718133502</lastUpdated>
   </versioning>
 </metadata>

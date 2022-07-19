@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-cesium</artifactId>
   <versioning>
-    <latest>1.95.0-pre.357</latest>
-    <release>1.95.0-pre.357</release>
+    <latest>1.95.0-pre.358-compat</latest>
+    <release>1.95.0-pre.358-compat</release>
     <versions>
       <version>1.90.0-pre.305-kotlin-1.6.10</version>
       <version>1.90.0-pre.306-kotlin-1.6.10</version>
@@ -66,7 +66,9 @@
       <version>1.95.0-pre.355</version>
       <version>1.95.0-pre.356</version>
       <version>1.95.0-pre.357</version>
+      <version>1.95.0-pre.358</version>
+      <version>1.95.0-pre.358-compat</version>
     </versions>
-    <lastUpdated>20220714095924</lastUpdated>
+    <lastUpdated>20220718081839</lastUpdated>
   </versioning>
 </metadata>
