@@ -3,8 +3,8 @@
   <groupId>io.gleap</groupId>
   <artifactId>gleap-android-sdk</artifactId>
   <versioning>
-    <latest>7.0.26-HotFix</latest>
-    <release>7.0.26-HotFix</release>
+    <latest>7.0.26-SDKVersion30</latest>
+    <release>7.0.26-SDKVersion30</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.2</version>
@@ -84,7 +84,8 @@
       <version>7.0.25</version>
       <version>7.0.26</version>
       <version>7.0.26-HotFix</version>
+      <version>7.0.26-SDKVersion30</version>
     </versions>
-    <lastUpdated>20220715131431</lastUpdated>
+    <lastUpdated>20220719122115</lastUpdated>
   </versioning>
 </metadata>

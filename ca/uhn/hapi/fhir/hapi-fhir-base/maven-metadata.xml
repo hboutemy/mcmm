@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-base</artifactId>
   <versioning>
-    <latest>6.0.2</latest>
-    <release>6.0.2</release>
+    <latest>6.0.3</latest>
+    <release>6.0.3</release>
     <versions>
       <version>0.1</version>
       <version>0.2</version>
@@ -77,7 +77,8 @@
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
+      <version>6.0.3</version>
     </versions>
-    <lastUpdated>20220714210706</lastUpdated>
+    <lastUpdated>20220719153712</lastUpdated>
   </versioning>
 </metadata>

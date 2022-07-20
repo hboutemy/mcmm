@@ -3,8 +3,8 @@
   <groupId>org.qbicc.rt</groupId>
   <artifactId>qbicc-rt-openjdk-build-tools-maven-plugin</artifactId>
   <versioning>
-    <latest>17.alpha.0.32</latest>
-    <release>17.alpha.0.32</release>
+    <latest>17.alpha.0.33</latest>
+    <release>17.alpha.0.33</release>
     <versions>
       <version>11.alpha.0.1</version>
       <version>17.alpha.0.1</version>
@@ -39,7 +39,8 @@
       <version>17.alpha.0.30</version>
       <version>17.alpha.0.31</version>
       <version>17.alpha.0.32</version>
+      <version>17.alpha.0.33</version>
     </versions>
-    <lastUpdated>20220714143344</lastUpdated>
+    <lastUpdated>20220719134811</lastUpdated>
   </versioning>
 </metadata>
