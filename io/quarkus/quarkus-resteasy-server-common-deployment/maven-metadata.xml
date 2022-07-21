@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-server-common-deployment</artifactId>
   <versioning>
-    <latest>2.11.0.CR1</latest>
-    <release>2.11.0.CR1</release>
+    <latest>2.11.0.Final</latest>
+    <release>2.11.0.Final</release>
     <versions>
       <version>0.15.0</version>
       <version>0.16.0</version>
@@ -171,7 +171,8 @@
       <version>2.10.2.Final</version>
       <version>2.10.3.Final</version>
       <version>2.11.0.CR1</version>
+      <version>2.11.0.Final</version>
     </versions>
-    <lastUpdated>20220719100015</lastUpdated>
+    <lastUpdated>20220720125856</lastUpdated>
   </versioning>
 </metadata>

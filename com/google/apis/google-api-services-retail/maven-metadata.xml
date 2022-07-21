@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-retail</artifactId>
   <versioning>
-    <latest>v2-rev20220707-1.32.1</latest>
-    <release>v2-rev20220707-1.32.1</release>
+    <latest>v2-rev20220716-1.32.1</latest>
+    <release>v2-rev20220716-1.32.1</release>
     <versions>
       <version>v2alpha-rev20210129-1.31.0</version>
       <version>v2alpha-rev20210205-1.31.0</version>
@@ -62,6 +62,7 @@
       <version>v2alpha-rev20220623-1.32.1</version>
       <version>v2alpha-rev20220630-1.32.1</version>
       <version>v2alpha-rev20220707-1.32.1</version>
+      <version>v2alpha-rev20220716-1.32.1</version>
       <version>v2beta-rev20210129-1.31.0</version>
       <version>v2beta-rev20210205-1.31.0</version>
       <version>v2beta-rev20210212-1.31.0</version>
@@ -117,6 +118,7 @@
       <version>v2beta-rev20220623-1.32.1</version>
       <version>v2beta-rev20220630-1.32.1</version>
       <version>v2beta-rev20220707-1.32.1</version>
+      <version>v2beta-rev20220716-1.32.1</version>
       <version>v2-rev20210129-1.31.0</version>
       <version>v2-rev20210205-1.31.0</version>
       <version>v2-rev20210212-1.31.0</version>
@@ -170,7 +172,8 @@
       <version>v2-rev20220617-1.32.1</version>
       <version>v2-rev20220630-1.32.1</version>
       <version>v2-rev20220707-1.32.1</version>
+      <version>v2-rev20220716-1.32.1</version>
     </versions>
-    <lastUpdated>20220713082023</lastUpdated>
+    <lastUpdated>20220720081303</lastUpdated>
   </versioning>
 </metadata>
