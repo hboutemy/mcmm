@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>fabric8-maven-plugin-build</artifactId>
   <versioning>
-    <latest>4.4.1</latest>
-    <release>4.4.1</release>
+    <latest>4.4.2</latest>
+    <release>4.4.2</release>
     <versions>
       <version>3.0.0-M1</version>
       <version>3.0.0-M2</version>
@@ -185,7 +185,8 @@
       <version>4.3.1</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
+      <version>4.4.2</version>
     </versions>
-    <lastUpdated>20200318152244</lastUpdated>
+    <lastUpdated>20220721134315</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-client-protobufs</artifactId>
   <versioning>
-    <latest>0.660.0</latest>
-    <release>0.660.0</release>
+    <latest>0.661.0</latest>
+    <release>0.661.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -422,8 +422,11 @@
       <version>0.657.0</version>
       <version>0.658.0</version>
       <version>0.659.0</version>
+      <version>0.660.0-rc1</version>
+      <version>0.660.0-rc2</version>
       <version>0.660.0</version>
+      <version>0.661.0</version>
     </versions>
-    <lastUpdated>20220720193048</lastUpdated>
+    <lastUpdated>20220721203636</lastUpdated>
   </versioning>
 </metadata>
