@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-model-archetype</artifactId>
   <versioning>
-    <latest>8.24.0.Beta</latest>
-    <release>8.24.0.Beta</release>
+    <latest>8.25.0.Beta</latest>
+    <release>8.25.0.Beta</release>
     <versions>
       <version>7.11.0.Final</version>
       <version>7.12.0.Final</version>
@@ -95,6 +95,7 @@
       <version>7.70.0.Final</version>
       <version>7.71.0.Final</version>
       <version>7.72.0.Final</version>
+      <version>7.73.0.Final</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -110,7 +111,8 @@
       <version>8.22.1.Beta</version>
       <version>8.23.0.Beta</version>
       <version>8.24.0.Beta</version>
+      <version>8.25.0.Beta</version>
     </versions>
-    <lastUpdated>20220705124926</lastUpdated>
+    <lastUpdated>20220722141703</lastUpdated>
   </versioning>
 </metadata>
