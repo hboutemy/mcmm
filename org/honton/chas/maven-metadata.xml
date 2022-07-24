@@ -42,6 +42,11 @@
       <artifactId>process-exec-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Properties File</name>
+      <prefix>properties</prefix>
+      <artifactId>properties-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Read Files Maven Plugin</name>
       <prefix>readfiles</prefix>
       <artifactId>readfiles-maven-plugin</artifactId>
