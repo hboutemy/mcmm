@@ -3,8 +3,8 @@
   <groupId>com.github.j5ik2o</groupId>
   <artifactId>akka-persistence-dynamodb-snapshot-v2_2.12</artifactId>
   <versioning>
-    <latest>1.13.22</latest>
-    <release>1.13.22</release>
+    <latest>1.13.23</latest>
+    <release>1.13.23</release>
     <versions>
       <version>1.7.0</version>
       <version>1.8.0</version>
@@ -47,7 +47,8 @@
       <version>1.13.20</version>
       <version>1.13.21</version>
       <version>1.13.22</version>
+      <version>1.13.23</version>
     </versions>
-    <lastUpdated>20220723002955</lastUpdated>
+    <lastUpdated>20220724003350</lastUpdated>
   </versioning>
 </metadata>
