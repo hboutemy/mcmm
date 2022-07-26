@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-stability</artifactId>
   <versioning>
-    <latest>14.6-rc-1</latest>
-    <release>14.6-rc-1</release>
+    <latest>14.6</latest>
+    <release>14.6</release>
     <versions>
       <version>12.10.11</version>
       <version>13.4.6</version>
@@ -31,6 +31,7 @@
       <version>14.4.2</version>
       <version>14.5</version>
       <version>14.6-rc-1</version>
+      <version>14.6</version>
       <version>10.0</version>
       <version>10.1</version>
       <version>10.1-rc-1</version>
@@ -344,6 +345,6 @@
       <version>9.9-rc-1</version>
       <version>9.9-rc-2</version>
     </versions>
-    <lastUpdated>20220718093502</lastUpdated>
+    <lastUpdated>20220725081011</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>directory-server-manager</artifactId>
   <versioning>
-    <latest>5.21.30</latest>
-    <release>5.21.30</release>
+    <latest>5.21.33</latest>
+    <release>5.21.33</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -1993,7 +1993,10 @@
       <version>5.21.28</version>
       <version>5.21.29</version>
       <version>5.21.30</version>
+      <version>5.21.31</version>
+      <version>5.21.32</version>
+      <version>5.21.33</version>
     </versions>
-    <lastUpdated>20220722102400</lastUpdated>
+    <lastUpdated>20220725131954</lastUpdated>
   </versioning>
 </metadata>
