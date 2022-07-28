@@ -3,13 +3,14 @@
   <groupId>com.signalfx.public</groupId>
   <artifactId>micrometer-registry-signalfx</artifactId>
   <versioning>
-    <latest>1.8.4-splunk3</latest>
-    <release>1.8.4-splunk3</release>
+    <latest>1.9.2-splunk</latest>
+    <release>1.9.2-splunk</release>
     <versions>
       <version>1.8.4-splunk1</version>
       <version>1.8.4-splunk2</version>
       <version>1.8.4-splunk3</version>
+      <version>1.9.2-splunk</version>
     </versions>
-    <lastUpdated>20220331214226</lastUpdated>
+    <lastUpdated>20220727125429</lastUpdated>
   </versioning>
 </metadata>
