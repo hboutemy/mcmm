@@ -3,8 +3,8 @@
   <groupId>org.wildfly.openssl</groupId>
   <artifactId>wildfly-openssl-macosx-x86_64</artifactId>
   <versioning>
-    <latest>2.2.0.Final</latest>
-    <release>2.2.0.Final</release>
+    <latest>2.2.2.Final</latest>
+    <release>2.2.2.Final</release>
     <versions>
       <version>1.0.0.Alpha5</version>
       <version>1.0.0.Alpha6</version>
@@ -37,7 +37,8 @@
       <version>2.0.0.Alpha1</version>
       <version>2.1.0.SP01</version>
       <version>2.2.0.Final</version>
+      <version>2.2.2.Final</version>
     </versions>
-    <lastUpdated>20220127152151</lastUpdated>
+    <lastUpdated>20220728203050</lastUpdated>
   </versioning>
 </metadata>
