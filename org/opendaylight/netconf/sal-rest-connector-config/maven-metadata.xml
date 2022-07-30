@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>sal-rest-connector-config</artifactId>
   <versioning>
-    <latest>3.0.5</latest>
-    <release>3.0.5</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>1.3.0-Beryllium</version>
       <version>1.3.1-Beryllium-SR1</version>
@@ -87,7 +87,8 @@
       <version>3.0.3</version>
       <version>3.0.4</version>
       <version>3.0.5</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20220609205008</lastUpdated>
+    <lastUpdated>20220729123220</lastUpdated>
   </versioning>
 </metadata>

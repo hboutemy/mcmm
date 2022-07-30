@@ -3,9 +3,12 @@
   <groupId>com.disneystreaming</groupId>
   <artifactId>weaver-cats_sjs1_2.12</artifactId>
   <versioning>
-    <latest>0.7.13</latest>
-    <release>0.7.13</release>
+    <latest>0.7.14</latest>
+    <release>0.7.14</release>
     <versions>
+      <version>0.6.14</version>
+      <version>0.7.14</version>
+      <version>0.6.0</version>
       <version>0.6.0-M1</version>
       <version>0.6.0-M2</version>
       <version>0.6.0-M3</version>
@@ -13,8 +16,11 @@
       <version>0.6.0-M5</version>
       <version>0.6.0-M6</version>
       <version>0.6.0-M7</version>
-      <version>0.6.0</version>
       <version>0.6.1</version>
+      <version>0.6.10</version>
+      <version>0.6.11</version>
+      <version>0.6.12</version>
+      <version>0.6.13</version>
       <version>0.6.2</version>
       <version>0.6.3</version>
       <version>0.6.4</version>
@@ -23,18 +29,18 @@
       <version>0.6.7</version>
       <version>0.6.8</version>
       <version>0.6.9</version>
-      <version>0.6.10</version>
-      <version>0.6.11</version>
-      <version>0.6.12</version>
-      <version>0.6.13</version>
+      <version>0.7.0</version>
       <version>0.7.0-M2</version>
       <version>0.7.0-M3</version>
       <version>0.7.0-M4</version>
       <version>0.7.0-M5</version>
       <version>0.7.0-M6</version>
       <version>0.7.0-M7</version>
-      <version>0.7.0</version>
       <version>0.7.1</version>
+      <version>0.7.10</version>
+      <version>0.7.11</version>
+      <version>0.7.12</version>
+      <version>0.7.13</version>
       <version>0.7.2</version>
       <version>0.7.3</version>
       <version>0.7.4</version>
@@ -43,11 +49,7 @@
       <version>0.7.7</version>
       <version>0.7.8</version>
       <version>0.7.9</version>
-      <version>0.7.10</version>
-      <version>0.7.11</version>
-      <version>0.7.12</version>
-      <version>0.7.13</version>
     </versions>
-    <lastUpdated>20220629094735</lastUpdated>
+    <lastUpdated>20220729141714</lastUpdated>
   </versioning>
 </metadata>

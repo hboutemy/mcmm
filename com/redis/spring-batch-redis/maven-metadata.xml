@@ -3,8 +3,8 @@
   <groupId>com.redis</groupId>
   <artifactId>spring-batch-redis</artifactId>
   <versioning>
-    <latest>2.32.0</latest>
-    <release>2.32.0</release>
+    <latest>2.32.1</latest>
+    <release>2.32.1</release>
     <versions>
       <version>2.13.0</version>
       <version>2.16.1</version>
@@ -46,7 +46,8 @@
       <version>2.30.3</version>
       <version>2.31.0</version>
       <version>2.32.0</version>
+      <version>2.32.1</version>
     </versions>
-    <lastUpdated>20220727063500</lastUpdated>
+    <lastUpdated>20220729232224</lastUpdated>
   </versioning>
 </metadata>

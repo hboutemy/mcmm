@@ -3,8 +3,8 @@
   <groupId>com.midtrans</groupId>
   <artifactId>scancard</artifactId>
   <versioning>
-    <latest>1.31.1-UAT</latest>
-    <release>1.31.1-UAT</release>
+    <latest>1.32.0-UAT</latest>
+    <release>1.32.0-UAT</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.1-SANDBOX</version>
@@ -167,7 +167,10 @@
       <version>1.31.1</version>
       <version>1.31.1-SANDBOX</version>
       <version>1.31.1-UAT</version>
+      <version>1.32.0</version>
+      <version>1.32.0-SANDBOX</version>
+      <version>1.32.0-UAT</version>
     </versions>
-    <lastUpdated>20220404064848</lastUpdated>
+    <lastUpdated>20220729043817</lastUpdated>
   </versioning>
 </metadata>

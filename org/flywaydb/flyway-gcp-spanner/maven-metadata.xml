@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-gcp-spanner</artifactId>
   <versioning>
-    <latest>9.0.3-beta</latest>
-    <release>9.0.3-beta</release>
+    <latest>9.0.4-beta</latest>
+    <release>9.0.4-beta</release>
     <versions>
       <version>7.11.0-beta</version>
       <version>7.11.1-beta</version>
@@ -55,7 +55,8 @@
       <version>9.0.1-beta</version>
       <version>9.0.2-beta</version>
       <version>9.0.3-beta</version>
+      <version>9.0.4-beta</version>
     </versions>
-    <lastUpdated>20220728103421</lastUpdated>
+    <lastUpdated>20220729104514</lastUpdated>
   </versioning>
 </metadata>

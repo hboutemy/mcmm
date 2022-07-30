@@ -3,8 +3,8 @@
   <groupId>cn.vorbote</groupId>
   <artifactId>web-dev-suite</artifactId>
   <versioning>
-    <latest>3.3.1</latest>
-    <release>3.3.1</release>
+    <latest>3.3.2.jakarta</latest>
+    <release>3.3.2.jakarta</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1.RELEASE</version>
@@ -29,7 +29,10 @@
       <version>3.2.0</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
+      <version>3.3.1.jakarta</version>
+      <version>3.3.2</version>
+      <version>3.3.2.jakarta</version>
     </versions>
-    <lastUpdated>20220717071736</lastUpdated>
+    <lastUpdated>20220729144923</lastUpdated>
   </versioning>
 </metadata>
