@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>odl-dropwizard-metrics</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>11.0.1</latest>
+    <release>11.0.1</release>
     <versions>
       <version>4.0.8</version>
       <version>4.0.9</version>
@@ -86,7 +86,8 @@
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>11.0.0</version>
+      <version>11.0.1</version>
     </versions>
-    <lastUpdated>20220606105732</lastUpdated>
+    <lastUpdated>20220730002438</lastUpdated>
   </versioning>
 </metadata>

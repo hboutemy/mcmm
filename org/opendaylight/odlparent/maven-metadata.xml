@@ -26,5 +26,10 @@
       <prefix>karaf</prefix>
       <artifactId>karaf4-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>template-feature</prefix>
+      <artifactId>template-feature-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
