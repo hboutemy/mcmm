@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-kafka-client_2.12</artifactId>
   <versioning>
-    <latest>0.13.1+20-9d90bc2a</latest>
-    <release>0.13.1+20-9d90bc2a</release>
+    <latest>0.14.0</latest>
+    <release>0.14.0</release>
     <versions>
       <version>0.0.0+1-7a9df181</version>
       <version>0.6.0+32-9c0fbbf8</version>
@@ -329,7 +329,10 @@
       <version>0.13.1</version>
       <version>0.13.1+13-566c0cc2</version>
       <version>0.13.1+20-9d90bc2a</version>
+      <version>0.13.1+23-7d2513c7</version>
+      <version>0.13.1+27-6d2a0d4b</version>
+      <version>0.14.0</version>
     </versions>
-    <lastUpdated>20220724110931</lastUpdated>
+    <lastUpdated>20220731172355</lastUpdated>
   </versioning>
 </metadata>
