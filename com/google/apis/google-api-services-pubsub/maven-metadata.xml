@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-pubsub</artifactId>
   <versioning>
-    <latest>v1-rev20220718-1.32.1</latest>
-    <release>v1-rev20220718-1.32.1</release>
+    <latest>v1-rev20220718-2.0.0</latest>
+    <release>v1-rev20220718-2.0.0</release>
     <versions>
       <version>v1beta1a-rev1-1.17.0-rc</version>
       <version>v1beta1a-rev1-1.18.0-rc</version>
@@ -394,6 +394,7 @@
       <version>v1beta1a-rev20210322-1.31.5</version>
       <version>v1beta1a-rev20210322-1.32.1</version>
       <version>v1beta1a-rev20210809-1.32.1</version>
+      <version>v1beta1a-rev20210809-2.0.0</version>
       <version>v1beta1-rev1-1.14.2-beta</version>
       <version>v1beta1-rev1-1.15.0-rc</version>
       <version>v1beta1-rev1-1.16.0-rc</version>
@@ -931,6 +932,7 @@
       <version>v1beta2-rev20220322-1.32.1</version>
       <version>v1beta2-rev20220404-1.32.1</version>
       <version>v1beta2-rev20220502-1.32.1</version>
+      <version>v1beta2-rev20220502-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.0</version>
       <version>v1-rev1-1.19.1</version>
@@ -1373,7 +1375,8 @@
       <version>v1-rev20220522-1.32.1</version>
       <version>v1-rev20220524-1.32.1</version>
       <version>v1-rev20220718-1.32.1</version>
+      <version>v1-rev20220718-2.0.0</version>
     </versions>
-    <lastUpdated>20220729081132</lastUpdated>
+    <lastUpdated>20220801211022</lastUpdated>
   </versioning>
 </metadata>

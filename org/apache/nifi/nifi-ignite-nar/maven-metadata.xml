@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-ignite-nar</artifactId>
   <versioning>
-    <latest>1.16.3</latest>
-    <release>1.16.3</release>
+    <latest>1.17.0</latest>
+    <release>1.17.0</release>
     <versions>
       <version>1.0.0-BETA</version>
       <version>1.0.0</version>
@@ -43,7 +43,8 @@
       <version>1.16.1</version>
       <version>1.16.2</version>
       <version>1.16.3</version>
+      <version>1.17.0</version>
     </versions>
-    <lastUpdated>20220615050846</lastUpdated>
+    <lastUpdated>20220801203912</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>maven-notice-plugin</name>
+      <prefix>notice</prefix>
+      <artifactId>maven-notice-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sk-maven-notice-plugin</name>
       <prefix>sknotice</prefix>
       <artifactId>sk-maven-notice-plugin</artifactId>

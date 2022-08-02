@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-cassandra-multinode-tests</artifactId>
   <versioning>
-    <latest>0.670.0-rc1</latest>
-    <release>0.670.0-rc1</release>
+    <latest>0.671.0</latest>
+    <release>0.671.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -437,7 +437,9 @@
       <version>0.668.0</version>
       <version>0.669.0</version>
       <version>0.670.0-rc1</version>
+      <version>0.670.0</version>
+      <version>0.671.0</version>
     </versions>
-    <lastUpdated>20220728105152</lastUpdated>
+    <lastUpdated>20220801165157</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudprofiler</artifactId>
   <versioning>
-    <latest>v2-rev20220627-1.32.1</latest>
-    <release>v2-rev20220627-1.32.1</release>
+    <latest>v2-rev20220627-2.0.0</latest>
+    <release>v2-rev20220627-2.0.0</release>
     <versions>
       <version>v2-rev20210319-1.31.5</version>
       <version>v2-rev20210319-1.32.1</version>
@@ -12,6 +12,7 @@
       <version>v2-rev20210903-1.32.1</version>
       <version>v2-rev20211016-1.32.1</version>
       <version>v2-rev20220627-1.32.1</version>
+      <version>v2-rev20220627-2.0.0</version>
       <version>v2-rev10-1.18.0-rc</version>
       <version>v2-rev10-1.22.0</version>
       <version>v2-rev10-1.23.0</version>
@@ -169,6 +170,6 @@
       <version>v2-rev8-1.24.1</version>
       <version>v2-rev8-1.25.0</version>
     </versions>
-    <lastUpdated>20220702080139</lastUpdated>
+    <lastUpdated>20220801203830</lastUpdated>
   </versioning>
 </metadata>
