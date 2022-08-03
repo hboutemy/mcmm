@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-dfareporting</artifactId>
   <versioning>
-    <latest>v4-rev20220611-1.32.1</latest>
-    <release>v4-rev20220611-1.32.1</release>
+    <latest>v4-rev20220611-2.0.0</latest>
+    <release>v4-rev20220611-2.0.0</release>
     <versions>
       <version>v1-rev11-1.13.2-beta</version>
       <version>v1-rev11-1.14.1-beta</version>
@@ -1282,9 +1282,11 @@
       <version>v3.5-rev20211130-1.32.1</version>
       <version>v3.5-rev20220607-1.32.1</version>
       <version>v3.5-rev20220611-1.32.1</version>
+      <version>v3.5-rev20220611-2.0.0</version>
       <version>v4-rev20220607-1.32.1</version>
       <version>v4-rev20220611-1.32.1</version>
+      <version>v4-rev20220611-2.0.0</version>
     </versions>
-    <lastUpdated>20220612080259</lastUpdated>
+    <lastUpdated>20220802081534</lastUpdated>
   </versioning>
 </metadata>
