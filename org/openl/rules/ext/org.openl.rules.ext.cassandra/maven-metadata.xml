@@ -3,8 +3,8 @@
   <groupId>org.openl.rules.ext</groupId>
   <artifactId>org.openl.rules.ext.cassandra</artifactId>
   <versioning>
-    <latest>5.26.0</latest>
-    <release>5.26.0</release>
+    <latest>5.26.1</latest>
+    <release>5.26.1</release>
     <versions>
       <version>5.22.2</version>
       <version>5.22.3</version>
@@ -58,7 +58,8 @@
       <version>5.25.11</version>
       <version>5.25.12</version>
       <version>5.26.0</version>
+      <version>5.26.1</version>
     </versions>
-    <lastUpdated>20220725142412</lastUpdated>
+    <lastUpdated>20220803202227</lastUpdated>
   </versioning>
 </metadata>
