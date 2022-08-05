@@ -3,8 +3,8 @@
   <groupId>com.exasol</groupId>
   <artifactId>spark-connector_2.12</artifactId>
   <versioning>
-    <latest>1.2.0-spark-3.2.0</latest>
-    <release>1.2.0-spark-3.2.0</release>
+    <latest>1.2.1-spark-3.2.2</latest>
+    <release>1.2.1-spark-3.2.2</release>
     <versions>
       <version>0.2.1</version>
       <version>0.3.0</version>
@@ -16,7 +16,10 @@
       <version>1.2.0-spark-2.4.8</version>
       <version>1.2.0-spark-3.1.2</version>
       <version>1.2.0-spark-3.2.0</version>
+      <version>1.2.1-spark-2.4.8</version>
+      <version>1.2.1-spark-3.1.3</version>
+      <version>1.2.1-spark-3.2.2</version>
     </versions>
-    <lastUpdated>20220118121704</lastUpdated>
+    <lastUpdated>20220804143506</lastUpdated>
   </versioning>
 </metadata>
