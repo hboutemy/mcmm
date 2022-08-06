@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-amazon-services-bom</artifactId>
   <versioning>
-    <latest>2.11.1.Final</latest>
-    <release>2.11.1.Final</release>
+    <latest>2.11.2.Final</latest>
+    <release>2.11.2.Final</release>
     <versions>
       <version>2.6.0.CR1</version>
       <version>2.6.0.Final</version>
@@ -36,7 +36,8 @@
       <version>2.10.4.Final</version>
       <version>2.11.0.CR1</version>
       <version>2.11.1.Final</version>
+      <version>2.11.2.Final</version>
     </versions>
-    <lastUpdated>20220727142009</lastUpdated>
+    <lastUpdated>20220805083737</lastUpdated>
   </versioning>
 </metadata>

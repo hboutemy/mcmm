@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>identity-consent-mgt-aggregator</artifactId>
   <versioning>
-    <latest>5.21.41</latest>
-    <release>5.21.41</release>
+    <latest>5.22.2</latest>
+    <release>5.22.2</release>
     <versions>
       <version>5.11.100</version>
       <version>5.11.101</version>
@@ -1474,7 +1474,10 @@
       <version>5.21.39</version>
       <version>5.21.40</version>
       <version>5.21.41</version>
+      <version>5.22.0</version>
+      <version>5.22.1</version>
+      <version>5.22.2</version>
     </versions>
-    <lastUpdated>20220728110301</lastUpdated>
+    <lastUpdated>20220805170328</lastUpdated>
   </versioning>
 </metadata>
