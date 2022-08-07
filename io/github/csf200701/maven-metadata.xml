@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Gopath Maven Plugin Core</name>
+      <prefix>gopath</prefix>
+      <artifactId>gopath-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Manifest Maven Plugin Core</name>
       <prefix>manifest</prefix>
       <artifactId>manifest-maven-plugin</artifactId>
