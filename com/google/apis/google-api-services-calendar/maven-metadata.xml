@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-calendar</artifactId>
   <versioning>
-    <latest>v3-rev20220715-1.32.1</latest>
-    <release>v3-rev20220715-1.32.1</release>
+    <latest>v3-rev20220715-2.0.0</latest>
+    <release>v3-rev20220715-2.0.0</release>
     <versions>
       <version>v3-rev35-1.13.2-beta</version>
       <version>v3-rev35-1.14.1-beta</version>
@@ -1317,8 +1317,9 @@
       <version>v3-rev20220422-1.32.1</version>
       <version>v3-rev20220520-1.32.1</version>
       <version>v3-rev20220715-1.32.1</version>
+      <version>v3-rev20220715-2.0.0</version>
       <version>v3-rev54-1.13.2-beta</version>
     </versions>
-    <lastUpdated>20220723080324</lastUpdated>
+    <lastUpdated>20220808200055</lastUpdated>
   </versioning>
 </metadata>

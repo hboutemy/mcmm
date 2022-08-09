@@ -3,8 +3,8 @@
   <groupId>com.avast.clients.rabbitmq</groupId>
   <artifactId>rabbitmq-client-core_2.13</artifactId>
   <versioning>
-    <latest>9.1.0</latest>
-    <release>9.1.0</release>
+    <latest>9.1.2</latest>
+    <release>9.1.2</release>
     <versions>
       <version>untagged-07877868007dd359bc82</version>
       <version>v9.0.0-beta</version>
@@ -23,7 +23,9 @@
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.1.0</version>
+      <version>9.1.1</version>
+      <version>9.1.2</version>
     </versions>
-    <lastUpdated>20220715103745</lastUpdated>
+    <lastUpdated>20220808135125</lastUpdated>
   </versioning>
 </metadata>

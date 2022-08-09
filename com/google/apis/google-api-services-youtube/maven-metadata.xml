@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-youtube</artifactId>
   <versioning>
-    <latest>v3-rev20220719-1.32.1</latest>
-    <release>v3-rev20220719-1.32.1</release>
+    <latest>v3-rev20220719-2.0.0</latest>
+    <release>v3-rev20220719-2.0.0</release>
     <versions>
       <version>v3-rev40-1.13.2-beta</version>
       <version>v3-rev40-1.14.1-beta</version>
@@ -663,8 +663,9 @@
       <version>v3-rev20220711-1.32.1</version>
       <version>v3-rev20220713-1.32.1</version>
       <version>v3-rev20220719-1.32.1</version>
+      <version>v3-rev20220719-2.0.0</version>
       <version>v3-rev79-1.17.0-rc</version>
     </versions>
-    <lastUpdated>20220721081659</lastUpdated>
+    <lastUpdated>20220808210227</lastUpdated>
   </versioning>
 </metadata>
