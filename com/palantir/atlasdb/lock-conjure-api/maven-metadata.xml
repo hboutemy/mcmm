@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>lock-conjure-api</artifactId>
   <versioning>
-    <latest>0.679.0</latest>
-    <release>0.679.0</release>
+    <latest>0.680.0</latest>
+    <release>0.680.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -448,7 +448,8 @@
       <version>0.677.0</version>
       <version>0.678.0</version>
       <version>0.679.0</version>
+      <version>0.680.0</version>
     </versions>
-    <lastUpdated>20220808145713</lastUpdated>
+    <lastUpdated>20220809151105</lastUpdated>
   </versioning>
 </metadata>

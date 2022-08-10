@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-parquet</artifactId>
   <versioning>
-    <latest>0.274</latest>
-    <release>0.274</release>
+    <latest>0.275</latest>
+    <release>0.275</release>
     <versions>
       <version>0.213</version>
       <version>0.214</version>
@@ -108,7 +108,8 @@
       <version>0.273.3</version>
       <version>0.273.4</version>
       <version>0.274</version>
+      <version>0.275</version>
     </versions>
-    <lastUpdated>20220719043037</lastUpdated>
+    <lastUpdated>20220809180210</lastUpdated>
   </versioning>
 </metadata>
