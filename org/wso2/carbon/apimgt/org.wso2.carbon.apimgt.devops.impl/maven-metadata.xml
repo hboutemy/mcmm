@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.devops.impl</artifactId>
   <versioning>
-    <latest>9.23.1</latest>
-    <release>9.23.1</release>
+    <latest>9.23.2</latest>
+    <release>9.23.2</release>
     <versions>
       <version>9.13.0</version>
       <version>9.14.0</version>
@@ -85,9 +85,11 @@
       <version>9.22.27</version>
       <version>9.22.33</version>
       <version>9.22.34</version>
+      <version>9.22.35</version>
       <version>9.23.0</version>
       <version>9.23.1</version>
+      <version>9.23.2</version>
     </versions>
-    <lastUpdated>20220809112435</lastUpdated>
+    <lastUpdated>20220810095536</lastUpdated>
   </versioning>
 </metadata>
