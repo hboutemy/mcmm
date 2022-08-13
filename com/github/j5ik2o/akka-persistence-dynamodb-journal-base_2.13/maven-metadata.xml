@@ -3,8 +3,8 @@
   <groupId>com.github.j5ik2o</groupId>
   <artifactId>akka-persistence-dynamodb-journal-base_2.13</artifactId>
   <versioning>
-    <latest>1.13.38</latest>
-    <release>1.13.38</release>
+    <latest>1.13.39</latest>
+    <release>1.13.39</release>
     <versions>
       <version>1.7.0</version>
       <version>1.8.0</version>
@@ -63,7 +63,8 @@
       <version>1.13.36</version>
       <version>1.13.37</version>
       <version>1.13.38</version>
+      <version>1.13.39</version>
     </versions>
-    <lastUpdated>20220811003150</lastUpdated>
+    <lastUpdated>20220812002821</lastUpdated>
   </versioning>
 </metadata>

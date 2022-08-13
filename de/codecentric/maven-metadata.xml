@@ -16,5 +16,10 @@
       <prefix>jmeter-graph</prefix>
       <artifactId>jmeter-graph-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>JsonMerge Maven Plugin</name>
+      <prefix>json-merge</prefix>
+      <artifactId>json-merge-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
