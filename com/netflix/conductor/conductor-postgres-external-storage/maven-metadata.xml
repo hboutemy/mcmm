@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-postgres-external-storage</artifactId>
   <versioning>
-    <latest>3.10.4</latest>
-    <release>3.10.4</release>
+    <latest>3.10.5</latest>
+    <release>3.10.5</release>
     <versions>
       <version>3.4.2</version>
       <version>3.5.0</version>
@@ -27,7 +27,8 @@
       <version>3.10.2</version>
       <version>3.10.3</version>
       <version>3.10.4</version>
+      <version>3.10.5</version>
     </versions>
-    <lastUpdated>20220810210034</lastUpdated>
+    <lastUpdated>20220815173643</lastUpdated>
   </versioning>
 </metadata>

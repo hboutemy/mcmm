@@ -3,8 +3,8 @@
   <groupId>software.aws.awsprototypingsdk</groupId>
   <artifactId>nx-monorepo</artifactId>
   <versioning>
-    <latest>0.5.5</latest>
-    <release>0.5.5</release>
+    <latest>0.6.1</latest>
+    <release>0.6.1</release>
     <versions>
       <version>0.0.68</version>
       <version>0.0.69</version>
@@ -80,7 +80,9 @@
       <version>0.5.3</version>
       <version>0.5.4</version>
       <version>0.5.5</version>
+      <version>0.6.0</version>
+      <version>0.6.1</version>
     </versions>
-    <lastUpdated>20220808235945</lastUpdated>
+    <lastUpdated>20220815075241</lastUpdated>
   </versioning>
 </metadata>
