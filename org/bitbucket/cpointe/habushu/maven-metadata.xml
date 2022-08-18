@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>habushu::Maven Plugin for Venv</name>
+      <name>habushu::Maven Plugin for Python Projects</name>
       <prefix>habushu</prefix>
       <artifactId>habushu-maven-plugin</artifactId>
     </plugin>

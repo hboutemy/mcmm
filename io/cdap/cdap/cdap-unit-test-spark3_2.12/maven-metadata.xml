@@ -3,14 +3,15 @@
   <groupId>io.cdap.cdap</groupId>
   <artifactId>cdap-unit-test-spark3_2.12</artifactId>
   <versioning>
-    <latest>6.7.0</latest>
-    <release>6.7.0</release>
+    <latest>6.7.1</latest>
+    <release>6.7.1</release>
     <versions>
       <version>6.5.0</version>
       <version>6.5.1</version>
       <version>6.6.0</version>
       <version>6.7.0</version>
+      <version>6.7.1</version>
     </versions>
-    <lastUpdated>20220607200451</lastUpdated>
+    <lastUpdated>20220817070353</lastUpdated>
   </versioning>
 </metadata>

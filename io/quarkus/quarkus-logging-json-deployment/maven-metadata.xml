@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-logging-json-deployment</artifactId>
   <versioning>
-    <latest>2.11.2.Final</latest>
-    <release>2.11.2.Final</release>
+    <latest>2.12.0.CR1</latest>
+    <release>2.12.0.CR1</release>
     <versions>
       <version>1.1.0.CR1</version>
       <version>1.1.0.Final</version>
@@ -149,7 +149,8 @@
       <version>2.11.0.Final</version>
       <version>2.11.1.Final</version>
       <version>2.11.2.Final</version>
+      <version>2.12.0.CR1</version>
     </versions>
-    <lastUpdated>20220804104009</lastUpdated>
+    <lastUpdated>20220817111703</lastUpdated>
   </versioning>
 </metadata>

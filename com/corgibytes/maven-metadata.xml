@@ -6,5 +6,10 @@
       <prefix>mrm</prefix>
       <artifactId>mrm-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Versions Maven Plugin</name>
+      <prefix>versions</prefix>
+      <artifactId>versions-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

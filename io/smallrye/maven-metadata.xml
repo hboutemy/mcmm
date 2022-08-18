@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Jandex: Maven Plugin</name>
+      <prefix>jandex</prefix>
+      <artifactId>jandex-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Power Annotations: Jandex Maven Plugin</name>
       <prefix>power-jandex</prefix>
       <artifactId>power-jandex-maven-plugin</artifactId>
