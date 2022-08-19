@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-aws-lambda-events-2.2</artifactId>
   <versioning>
-    <latest>1.16.0-alpha</latest>
-    <release>1.16.0-alpha</release>
+    <latest>1.17.0-alpha</latest>
+    <release>1.17.0-alpha</release>
     <versions>
       <version>1.11.0-alpha</version>
       <version>1.11.1-alpha</version>
@@ -15,7 +15,8 @@
       <version>1.14.0-alpha</version>
       <version>1.15.0-alpha</version>
       <version>1.16.0-alpha</version>
+      <version>1.17.0-alpha</version>
     </versions>
-    <lastUpdated>20220719194056</lastUpdated>
+    <lastUpdated>20220818212234</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>cloud-tenant-base-dependencies-enforcer</artifactId>
   <versioning>
-    <latest>8.35.5</latest>
-    <release>8.35.5</release>
+    <latest>8.37.26</latest>
+    <release>8.37.26</release>
     <versions>
       <version>7.280.10</version>
       <version>7.281.56</version>
@@ -257,7 +257,8 @@
       <version>8.31.22</version>
       <version>8.34.38</version>
       <version>8.35.5</version>
+      <version>8.37.26</version>
     </versions>
-    <lastUpdated>20220817000438</lastUpdated>
+    <lastUpdated>20220818203631</lastUpdated>
   </versioning>
 </metadata>

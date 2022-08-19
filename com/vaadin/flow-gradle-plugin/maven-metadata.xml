@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>flow-gradle-plugin</artifactId>
   <versioning>
-    <latest>23.1.4</latest>
-    <release>23.1.4</release>
+    <latest>23.1.5</latest>
+    <release>23.1.5</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -40,6 +40,7 @@
       <version>9.0.15</version>
       <version>9.0.16</version>
       <version>9.0.17</version>
+      <version>9.0.18</version>
       <version>23.0.0</version>
       <version>23.0.1</version>
       <version>23.0.2</version>
@@ -53,12 +54,14 @@
       <version>23.0.10</version>
       <version>23.0.11</version>
       <version>23.0.12</version>
+      <version>23.0.13</version>
       <version>23.1.0</version>
       <version>23.1.1</version>
       <version>23.1.2</version>
       <version>23.1.3</version>
       <version>23.1.4</version>
+      <version>23.1.5</version>
     </versions>
-    <lastUpdated>20220808120457</lastUpdated>
+    <lastUpdated>20220818100004</lastUpdated>
   </versioning>
 </metadata>

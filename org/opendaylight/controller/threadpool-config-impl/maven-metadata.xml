@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>threadpool-config-impl</artifactId>
   <versioning>
-    <latest>0.17.0</latest>
-    <release>0.17.0</release>
+    <latest>0.17.1</latest>
+    <release>0.17.1</release>
     <versions>
       <version>0.2.3</version>
       <version>0.2.5-Helium</version>
@@ -107,7 +107,8 @@
       <version>0.16.4</version>
       <version>0.16.5</version>
       <version>0.17.0</version>
+      <version>0.17.1</version>
     </versions>
-    <lastUpdated>20220627130711</lastUpdated>
+    <lastUpdated>20220818160300</lastUpdated>
   </versioning>
 </metadata>

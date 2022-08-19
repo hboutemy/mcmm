@@ -3,8 +3,8 @@
   <groupId>org.libreoffice</groupId>
   <artifactId>libreoffice</artifactId>
   <versioning>
-    <latest>7.3.5</latest>
-    <release>7.3.5</release>
+    <latest>7.4.0</latest>
+    <release>7.4.0</release>
     <versions>
       <version>@version@</version>
       <version>7.0.0</version>
@@ -35,7 +35,8 @@
       <version>7.3.3</version>
       <version>7.3.4</version>
       <version>7.3.5</version>
+      <version>7.4.0</version>
     </versions>
-    <lastUpdated>20220721132234</lastUpdated>
+    <lastUpdated>20220818102829</lastUpdated>
   </versioning>
 </metadata>
