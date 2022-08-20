@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>bgpcep-karaf</artifactId>
   <versioning>
-    <latest>0.18.0</latest>
-    <release>0.18.0</release>
+    <latest>0.18.1</latest>
+    <release>0.18.1</release>
     <versions>
       <version>0.16.8</version>
       <version>0.16.9</version>
@@ -21,7 +21,8 @@
       <version>0.17.4</version>
       <version>0.17.5</version>
       <version>0.18.0</version>
+      <version>0.18.1</version>
     </versions>
-    <lastUpdated>20220805182444</lastUpdated>
+    <lastUpdated>20220819091802</lastUpdated>
   </versioning>
 </metadata>

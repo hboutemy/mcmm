@@ -7,6 +7,11 @@
       <artifactId>eclipse-signing-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>jetty-modify-sources-maven-plugin Maven Plugin</name>
+      <prefix>jetty-modify-sources</prefix>
+      <artifactId>jetty-modify-sources-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Jetty Toolchain :: Orbit Maven Plugin</name>
       <prefix>jetty-orbit</prefix>
       <artifactId>jetty-orbit-maven-plugin</artifactId>
