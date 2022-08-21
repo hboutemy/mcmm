@@ -3,8 +3,8 @@
   <groupId>org.owasp</groupId>
   <artifactId>dependency-check-gradle</artifactId>
   <versioning>
-    <latest>7.1.1</latest>
-    <release>7.1.1</release>
+    <latest>7.1.2</latest>
+    <release>7.1.2</release>
     <versions>
       <version>1.3.2</version>
       <version>1.3.2.1</version>
@@ -90,7 +90,8 @@
       <version>7.0.4.1</version>
       <version>7.1.0.1</version>
       <version>7.1.1</version>
+      <version>7.1.2</version>
     </versions>
-    <lastUpdated>20220612124944</lastUpdated>
+    <lastUpdated>20220820192320</lastUpdated>
   </versioning>
 </metadata>
