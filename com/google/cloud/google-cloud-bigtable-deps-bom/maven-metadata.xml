@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigtable-deps-bom</artifactId>
   <versioning>
-    <latest>2.10.3</latest>
-    <release>2.10.3</release>
+    <latest>2.11.0</latest>
+    <release>2.11.0</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -74,9 +74,10 @@
       <version>2.10.1</version>
       <version>2.10.2</version>
       <version>2.10.3</version>
+      <version>2.11.0</version>
       <version>1.20.1</version>
       <version>1.21.0</version>
     </versions>
-    <lastUpdated>20220811175454</lastUpdated>
+    <lastUpdated>20220822185858</lastUpdated>
   </versioning>
 </metadata>

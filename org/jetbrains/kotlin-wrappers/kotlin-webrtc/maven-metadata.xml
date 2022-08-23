@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-webrtc</artifactId>
   <versioning>
-    <latest>0.0.32-pre.372</latest>
-    <release>0.0.32-pre.372</release>
+    <latest>0.0.32-pre.373-compat</latest>
+    <release>0.0.32-pre.373-compat</release>
     <versions>
       <version>0.0.31-pre.294-kotlin-1.6.10</version>
       <version>0.0.31-pre.295-kotlin-1.6.10</version>
@@ -95,7 +95,9 @@
       <version>0.0.32-pre.370</version>
       <version>0.0.32-pre.371</version>
       <version>0.0.32-pre.372</version>
+      <version>0.0.32-pre.373</version>
+      <version>0.0.32-pre.373-compat</version>
     </versions>
-    <lastUpdated>20220821174911</lastUpdated>
+    <lastUpdated>20220822074202</lastUpdated>
   </versioning>
 </metadata>
