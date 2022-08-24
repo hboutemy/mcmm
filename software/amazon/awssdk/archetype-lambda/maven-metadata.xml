@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>archetype-lambda</artifactId>
   <versioning>
-    <latest>2.17.258</latest>
-    <release>2.17.258</release>
+    <latest>2.17.259</latest>
+    <release>2.17.259</release>
     <versions>
       <version>2.11.4</version>
       <version>2.11.5</version>
@@ -571,7 +571,8 @@
       <version>2.17.256</version>
       <version>2.17.257</version>
       <version>2.17.258</version>
+      <version>2.17.259</version>
     </versions>
-    <lastUpdated>20220822200442</lastUpdated>
+    <lastUpdated>20220823204140</lastUpdated>
   </versioning>
 </metadata>

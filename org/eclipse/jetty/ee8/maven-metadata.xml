@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>EE8 :: Jetty :: Jetty JSPC Maven Plugin</name>
+      <prefix>jetty-ee8-jspc</prefix>
+      <artifactId>jetty-ee8-jspc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>EE8 :: Jetty :: Jetty Maven Plugin</name>
+      <prefix>jetty-ee8</prefix>
+      <artifactId>jetty-ee8-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

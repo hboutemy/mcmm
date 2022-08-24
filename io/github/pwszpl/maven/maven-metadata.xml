@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Replace POM with flattened Maven plugin</name>
+      <prefix>replace-with-flattened</prefix>
+      <artifactId>replace-with-flattened-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

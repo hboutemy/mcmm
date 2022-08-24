@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>clustercontroller-reindexer</artifactId>
   <versioning>
-    <latest>8.39.19</latest>
-    <release>8.39.19</release>
+    <latest>8.40.27</latest>
+    <release>8.40.27</release>
     <versions>
       <version>7.308.21</version>
       <version>7.309.46</version>
@@ -241,7 +241,8 @@
       <version>8.35.5</version>
       <version>8.37.26</version>
       <version>8.39.19</version>
+      <version>8.40.27</version>
     </versions>
-    <lastUpdated>20220822223405</lastUpdated>
+    <lastUpdated>20220823223355</lastUpdated>
   </versioning>
 </metadata>
