@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-test-openshift-client</artifactId>
   <versioning>
-    <latest>2.12.0.CR1</latest>
-    <release>2.12.0.CR1</release>
+    <latest>2.12.0.Final</latest>
+    <release>2.12.0.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -109,8 +109,10 @@
       <version>2.11.0.Final</version>
       <version>2.11.1.Final</version>
       <version>2.11.2.Final</version>
+      <version>2.11.3.Final</version>
       <version>2.12.0.CR1</version>
+      <version>2.12.0.Final</version>
     </versions>
-    <lastUpdated>20220817111906</lastUpdated>
+    <lastUpdated>20220824193233</lastUpdated>
   </versioning>
 </metadata>
