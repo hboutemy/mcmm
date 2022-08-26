@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>hosted-api</artifactId>
   <versioning>
-    <latest>8.41.3</latest>
-    <release>8.41.3</release>
+    <latest>8.42.21</latest>
+    <release>8.42.21</release>
     <versions>
       <version>7.45.22</version>
       <version>7.50.19</version>
@@ -406,7 +406,8 @@
       <version>8.39.19</version>
       <version>8.40.27</version>
       <version>8.41.3</version>
+      <version>8.42.21</version>
     </versions>
-    <lastUpdated>20220824223516</lastUpdated>
+    <lastUpdated>20220825224038</lastUpdated>
   </versioning>
 </metadata>

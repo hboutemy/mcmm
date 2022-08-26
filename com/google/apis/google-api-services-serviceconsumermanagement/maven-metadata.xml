@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-serviceconsumermanagement</artifactId>
   <versioning>
-    <latest>v1-rev20220816-2.0.0</latest>
-    <release>v1-rev20220816-2.0.0</release>
+    <latest>v1-rev20220823-2.0.0</latest>
+    <release>v1-rev20220823-2.0.0</release>
     <versions>
       <version>v1alpha-rev1-1.18.0-rc</version>
       <version>v1alpha-rev1-1.21.0</version>
@@ -67,6 +67,7 @@
       <version>v1beta1-rev20220615-1.32.1</version>
       <version>v1beta1-rev20220615-2.0.0</version>
       <version>v1beta1-rev20220816-2.0.0</version>
+      <version>v1beta1-rev20220823-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -993,7 +994,8 @@
       <version>v1-rev20220615-1.32.1</version>
       <version>v1-rev20220615-2.0.0</version>
       <version>v1-rev20220816-2.0.0</version>
+      <version>v1-rev20220823-2.0.0</version>
     </versions>
-    <lastUpdated>20220818081956</lastUpdated>
+    <lastUpdated>20220825081519</lastUpdated>
   </versioning>
 </metadata>
