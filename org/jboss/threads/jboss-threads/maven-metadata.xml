@@ -3,8 +3,8 @@
   <groupId>org.jboss.threads</groupId>
   <artifactId>jboss-threads</artifactId>
   <versioning>
-    <latest>3.5.0.Beta1</latest>
-    <release>3.5.0.Beta1</release>
+    <latest>3.5.0.Final</latest>
+    <release>3.5.0.Final</release>
     <versions>
       <version>1.0.0.CR1</version>
       <version>1.0.0.CR2</version>
@@ -58,7 +58,8 @@
       <version>3.4.1.Final</version>
       <version>3.4.2.Final</version>
       <version>3.5.0.Beta1</version>
+      <version>3.5.0.Final</version>
     </versions>
-    <lastUpdated>20220629170158</lastUpdated>
+    <lastUpdated>20220829131426</lastUpdated>
   </versioning>
 </metadata>
