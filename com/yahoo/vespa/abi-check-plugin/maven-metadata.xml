@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>abi-check-plugin</artifactId>
   <versioning>
-    <latest>8.42.21</latest>
-    <release>8.42.21</release>
+    <latest>8.44.22</latest>
+    <release>8.44.22</release>
     <versions>
       <version>6.328.65</version>
       <version>6.329.64</version>
@@ -442,7 +442,9 @@
       <version>8.40.27</version>
       <version>8.41.3</version>
       <version>8.42.21</version>
+      <version>8.43.64</version>
+      <version>8.44.22</version>
     </versions>
-    <lastUpdated>20220825223958</lastUpdated>
+    <lastUpdated>20220830140253</lastUpdated>
   </versioning>
 </metadata>
