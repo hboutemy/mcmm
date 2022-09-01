@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>QA JGiven Reporter Maven Plugin</name>
+      <prefix>qa-jgiven-reporter</prefix>
+      <artifactId>qa-jgiven-reporter-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>QA Orcanos Publisher Maven Plugin</name>
+      <prefix>qa-orcanos-publisher</prefix>
+      <artifactId>qa-orcanos-publisher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>QA S3 Uploader Maven Plugin</name>
+      <prefix>qa-s3-uploader</prefix>
+      <artifactId>qa-s3-uploader-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

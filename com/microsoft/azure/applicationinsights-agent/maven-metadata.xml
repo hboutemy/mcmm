@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure</groupId>
   <artifactId>applicationinsights-agent</artifactId>
   <versioning>
-    <latest>3.3.1</latest>
-    <release>3.3.1</release>
+    <latest>3.4.0-BETA</latest>
+    <release>3.4.0-BETA</release>
     <versions>
       <version>2.4.1</version>
       <version>2.5.0-BETA</version>
@@ -66,7 +66,8 @@
       <version>3.3.0-BETA.2</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
+      <version>3.4.0-BETA</version>
     </versions>
-    <lastUpdated>20220722215413</lastUpdated>
+    <lastUpdated>20220831014507</lastUpdated>
   </versioning>
 </metadata>

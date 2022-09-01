@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-server-mock</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.1.0</latest>
+    <release>6.1.0</release>
     <versions>
       <version>1.0.81</version>
       <version>1.0.82</version>
@@ -127,7 +127,8 @@
       <version>5.12.3</version>
       <version>6.0.0-RC1</version>
       <version>6.0.0</version>
+      <version>6.1.0</version>
     </versions>
-    <lastUpdated>20220727132523</lastUpdated>
+    <lastUpdated>20220831140840</lastUpdated>
   </versioning>
 </metadata>

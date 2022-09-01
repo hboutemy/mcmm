@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-tfe</artifactId>
   <versioning>
-    <latest>0.0.29</latest>
-    <release>0.0.29</release>
+    <latest>2.0.48</latest>
+    <release>2.0.48</release>
     <versions>
       <version>0.0.5</version>
       <version>0.0.12</version>
@@ -32,6 +32,14 @@
       <version>0.0.163</version>
       <version>0.0.164</version>
       <version>0.1.1</version>
+      <version>0.1.2</version>
+      <version>0.1.3</version>
+      <version>0.1.4</version>
+      <version>0.1.5</version>
+      <version>0.1.6</version>
+      <version>0.1.7</version>
+      <version>0.1.8</version>
+      <version>0.1.9</version>
       <version>0.1.10</version>
       <version>0.1.11</version>
       <version>0.1.12</version>
@@ -42,7 +50,6 @@
       <version>0.1.17</version>
       <version>0.1.18</version>
       <version>0.1.19</version>
-      <version>0.1.2</version>
       <version>0.1.20</version>
       <version>0.1.21</version>
       <version>0.1.22</version>
@@ -53,7 +60,6 @@
       <version>0.1.27</version>
       <version>0.1.28</version>
       <version>0.1.29</version>
-      <version>0.1.3</version>
       <version>0.1.30</version>
       <version>0.1.31</version>
       <version>0.1.32</version>
@@ -64,7 +70,6 @@
       <version>0.1.37</version>
       <version>0.1.38</version>
       <version>0.1.39</version>
-      <version>0.1.4</version>
       <version>0.1.40</version>
       <version>0.1.41</version>
       <version>0.1.42</version>
@@ -75,19 +80,21 @@
       <version>0.1.47</version>
       <version>0.1.48</version>
       <version>0.1.49</version>
-      <version>0.1.5</version>
       <version>0.1.50</version>
       <version>0.1.51</version>
       <version>0.1.52</version>
       <version>0.1.53</version>
       <version>0.1.54</version>
       <version>0.1.55</version>
-      <version>0.1.6</version>
-      <version>0.1.7</version>
-      <version>0.1.8</version>
-      <version>0.1.9</version>
       <version>0.2.0</version>
       <version>0.2.1</version>
+      <version>0.2.2</version>
+      <version>0.2.3</version>
+      <version>0.2.4</version>
+      <version>0.2.5</version>
+      <version>0.2.6</version>
+      <version>0.2.7</version>
+      <version>0.2.9</version>
       <version>0.2.10</version>
       <version>0.2.11</version>
       <version>0.2.12</version>
@@ -98,7 +105,6 @@
       <version>0.2.17</version>
       <version>0.2.18</version>
       <version>0.2.19</version>
-      <version>0.2.2</version>
       <version>0.2.20</version>
       <version>0.2.21</version>
       <version>0.2.22</version>
@@ -109,7 +115,6 @@
       <version>0.2.27</version>
       <version>0.2.28</version>
       <version>0.2.29</version>
-      <version>0.2.3</version>
       <version>0.2.30</version>
       <version>0.2.31</version>
       <version>0.2.32</version>
@@ -120,7 +125,6 @@
       <version>0.2.37</version>
       <version>0.2.38</version>
       <version>0.2.39</version>
-      <version>0.2.4</version>
       <version>0.2.40</version>
       <version>0.2.41</version>
       <version>0.2.42</version>
@@ -131,7 +135,6 @@
       <version>0.2.47</version>
       <version>0.2.48</version>
       <version>0.2.49</version>
-      <version>0.2.5</version>
       <version>0.2.50</version>
       <version>0.2.51</version>
       <version>0.2.52</version>
@@ -142,15 +145,20 @@
       <version>0.2.57</version>
       <version>0.2.58</version>
       <version>0.2.59</version>
-      <version>0.2.6</version>
       <version>0.2.60</version>
       <version>0.2.61</version>
       <version>0.2.62</version>
       <version>0.2.63</version>
       <version>0.2.64</version>
-      <version>0.2.7</version>
-      <version>0.2.9</version>
       <version>0.3.1</version>
+      <version>0.3.2</version>
+      <version>0.3.3</version>
+      <version>0.3.4</version>
+      <version>0.3.5</version>
+      <version>0.3.6</version>
+      <version>0.3.7</version>
+      <version>0.3.8</version>
+      <version>0.3.9</version>
       <version>0.3.10</version>
       <version>0.3.11</version>
       <version>0.3.12</version>
@@ -161,7 +169,6 @@
       <version>0.3.17</version>
       <version>0.3.18</version>
       <version>0.3.19</version>
-      <version>0.3.2</version>
       <version>0.3.20</version>
       <version>0.3.21</version>
       <version>0.3.22</version>
@@ -172,27 +179,12 @@
       <version>0.3.27</version>
       <version>0.3.28</version>
       <version>0.3.29</version>
-      <version>0.3.3</version>
       <version>0.3.30</version>
       <version>0.3.31</version>
       <version>0.3.32</version>
       <version>0.3.33</version>
-      <version>0.3.4</version>
-      <version>0.3.5</version>
-      <version>0.3.6</version>
-      <version>0.3.7</version>
-      <version>0.3.8</version>
-      <version>0.3.9</version>
       <version>0.4.0</version>
       <version>0.4.1</version>
-      <version>0.4.10</version>
-      <version>0.4.11</version>
-      <version>0.4.12</version>
-      <version>0.4.13</version>
-      <version>0.4.14</version>
-      <version>0.4.15</version>
-      <version>0.4.16</version>
-      <version>0.4.17</version>
       <version>0.4.2</version>
       <version>0.4.3</version>
       <version>0.4.4</version>
@@ -201,6 +193,14 @@
       <version>0.4.7</version>
       <version>0.4.8</version>
       <version>0.4.9</version>
+      <version>0.4.10</version>
+      <version>0.4.11</version>
+      <version>0.4.12</version>
+      <version>0.4.13</version>
+      <version>0.4.14</version>
+      <version>0.4.15</version>
+      <version>0.4.16</version>
+      <version>0.4.17</version>
       <version>0.5.0</version>
       <version>0.5.1</version>
       <version>0.5.2</version>
@@ -216,6 +216,14 @@
       <version>1.0.2</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
+      <version>2.0.2</version>
+      <version>2.0.3</version>
+      <version>2.0.4</version>
+      <version>2.0.5</version>
+      <version>2.0.6</version>
+      <version>2.0.7</version>
+      <version>2.0.8</version>
+      <version>2.0.9</version>
       <version>2.0.10</version>
       <version>2.0.11</version>
       <version>2.0.12</version>
@@ -226,7 +234,6 @@
       <version>2.0.17</version>
       <version>2.0.18</version>
       <version>2.0.19</version>
-      <version>2.0.2</version>
       <version>2.0.20</version>
       <version>2.0.21</version>
       <version>2.0.22</version>
@@ -237,7 +244,6 @@
       <version>2.0.27</version>
       <version>2.0.28</version>
       <version>2.0.29</version>
-      <version>2.0.3</version>
       <version>2.0.30</version>
       <version>2.0.31</version>
       <version>2.0.32</version>
@@ -248,7 +254,6 @@
       <version>2.0.37</version>
       <version>2.0.38</version>
       <version>2.0.39</version>
-      <version>2.0.4</version>
       <version>2.0.40</version>
       <version>2.0.41</version>
       <version>2.0.42</version>
@@ -256,12 +261,9 @@
       <version>2.0.44</version>
       <version>2.0.45</version>
       <version>2.0.46</version>
-      <version>2.0.5</version>
-      <version>2.0.6</version>
-      <version>2.0.7</version>
-      <version>2.0.8</version>
-      <version>2.0.9</version>
+      <version>2.0.47</version>
+      <version>2.0.48</version>
     </versions>
-    <lastUpdated>20211218202606</lastUpdated>
+    <lastUpdated>20220831104326</lastUpdated>
   </versioning>
 </metadata>
