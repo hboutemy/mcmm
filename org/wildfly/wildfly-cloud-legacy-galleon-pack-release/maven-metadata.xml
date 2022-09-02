@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-cloud-legacy-galleon-pack-release</artifactId>
   <versioning>
-    <latest>26.1.1.Final</latest>
-    <release>26.1.1.Final</release>
+    <latest>26.1.2.Final</latest>
+    <release>26.1.2.Final</release>
     <versions>
       <version>24.0.0.Alpha1</version>
       <version>24.0.0.Beta1</version>
@@ -23,7 +23,8 @@
       <version>26.1.0.Beta1</version>
       <version>26.1.0.Final</version>
       <version>26.1.1.Final</version>
+      <version>26.1.2.Final</version>
     </versions>
-    <lastUpdated>20220523135853</lastUpdated>
+    <lastUpdated>20220831211519</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.datadoghq</groupId>
   <artifactId>dd-sdk-android-sqldelight</artifactId>
   <versioning>
-    <latest>1.14.0-beta1</latest>
-    <release>1.14.0-beta1</release>
+    <latest>1.14.0-beta2</latest>
+    <release>1.14.0-beta2</release>
     <versions>
       <version>1.8.1</version>
       <version>1.9.0-alpha1</version>
@@ -31,7 +31,8 @@
       <version>1.13.0</version>
       <version>1.13.0-no-nav</version>
       <version>1.14.0-beta1</version>
+      <version>1.14.0-beta2</version>
     </versions>
-    <lastUpdated>20220721102423</lastUpdated>
+    <lastUpdated>20220901142901</lastUpdated>
   </versioning>
 </metadata>

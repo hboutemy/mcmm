@@ -13,4 +13,11 @@
     </versions>
     <lastUpdated>20220831091135</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>zenwave-code-generator-mojo</prefix>
+      <artifactId>zenwave-code-generator-mojo</artifactId>
+    </plugin>
+  </plugins>
 </metadata>
