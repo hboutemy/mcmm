@@ -3,8 +3,8 @@
   <groupId>org.apache.james.protocols</groupId>
   <artifactId>protocols-pop3</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.7.1</latest>
+    <release>3.7.1</release>
     <versions>
       <version>1.6-beta3</version>
       <version>1.6.0-RC1</version>
@@ -24,7 +24,8 @@
       <version>3.6.0</version>
       <version>3.6.2</version>
       <version>3.7.0</version>
+      <version>3.7.1</version>
     </versions>
-    <lastUpdated>20220310105716</lastUpdated>
+    <lastUpdated>20220902131551</lastUpdated>
   </versioning>
 </metadata>

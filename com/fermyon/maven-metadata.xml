@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>TeaVM maven plugin</name>
+      <prefix>teavm</prefix>
+      <artifactId>teavm-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

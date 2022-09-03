@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dependency-check-maven-plugin</name>
+      <prefix>dependency-check</prefix>
+      <artifactId>dependency-check-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
