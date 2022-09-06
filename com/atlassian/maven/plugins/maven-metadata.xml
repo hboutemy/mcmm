@@ -16,5 +16,10 @@
       <prefix>jgitflow</prefix>
       <artifactId>maven-jgitflow-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Smart Assembly Plugin</name>
+      <prefix>smartass</prefix>
+      <artifactId>smartass-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

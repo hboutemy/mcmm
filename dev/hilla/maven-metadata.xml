@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Plugin for Hilla Engine</name>
+      <prefix>engine</prefix>
+      <artifactId>engine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Hilla Maven plugin</name>
       <prefix>hilla</prefix>
       <artifactId>hilla-maven-plugin</artifactId>
