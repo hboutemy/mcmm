@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Pinot FMPP plugin</name>
+      <prefix>pinot-fmpp</prefix>
+      <artifactId>pinot-fmpp-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
