@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>EclipseLink Maven Build Plugin</name>
+      <prefix>eclipselink-testbuild</prefix>
+      <artifactId>eclipselink-testbuild-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

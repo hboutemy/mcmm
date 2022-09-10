@@ -3,8 +3,8 @@
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator-performance</artifactId>
   <versioning>
-    <latest>8.0.0.CR3</latest>
-    <release>8.0.0.CR3</release>
+    <latest>8.0.0.Final</latest>
+    <release>8.0.0.Final</release>
     <versions>
       <version>6.2.1.Final</version>
       <version>6.2.2.Final</version>
@@ -20,7 +20,8 @@
       <version>8.0.0.CR1</version>
       <version>8.0.0.CR2</version>
       <version>8.0.0.CR3</version>
+      <version>8.0.0.Final</version>
     </versions>
-    <lastUpdated>20220809160712</lastUpdated>
+    <lastUpdated>20220909133712</lastUpdated>
   </versioning>
 </metadata>

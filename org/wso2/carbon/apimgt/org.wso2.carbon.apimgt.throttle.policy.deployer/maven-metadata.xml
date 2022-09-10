@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.throttle.policy.deployer</artifactId>
   <versioning>
-    <latest>9.26.7</latest>
-    <release>9.26.7</release>
+    <latest>9.26.8</latest>
+    <release>9.26.8</release>
     <versions>
       <version>6.8.79</version>
       <version>6.8.80</version>
@@ -652,6 +652,8 @@
       <version>9.2.52</version>
       <version>9.2.53</version>
       <version>9.2.54</version>
+      <version>9.2.55</version>
+      <version>9.2.56</version>
       <version>9.3.0</version>
       <version>9.4.0</version>
       <version>9.4.1</version>
@@ -815,7 +817,8 @@
       <version>9.26.5</version>
       <version>9.26.6</version>
       <version>9.26.7</version>
+      <version>9.26.8</version>
     </versions>
-    <lastUpdated>20220908102240</lastUpdated>
+    <lastUpdated>20220909145319</lastUpdated>
   </versioning>
 </metadata>
