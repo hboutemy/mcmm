@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-server-openapi</artifactId>
   <versioning>
-    <latest>6.1.0</latest>
-    <release>6.1.0</release>
+    <latest>6.1.1</latest>
+    <release>6.1.1</release>
     <versions>
       <version>5.4.0</version>
       <version>5.4.1</version>
@@ -37,7 +37,8 @@
       <version>6.0.4</version>
       <version>6.0.5</version>
       <version>6.1.0</version>
+      <version>6.1.1</version>
     </versions>
-    <lastUpdated>20220830215142</lastUpdated>
+    <lastUpdated>20220912222612</lastUpdated>
   </versioning>
 </metadata>
