@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Piranha Maven Plugin</name>
+      <prefix>piranha</prefix>
+      <artifactId>piranha-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Piranha Micro Maven Plugin</name>
       <prefix>piranha-micro</prefix>
       <artifactId>piranha-micro-maven-plugin</artifactId>

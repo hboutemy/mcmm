@@ -3,9 +3,10 @@
   <groupId>io.hyte.platform</groupId>
   <artifactId>hyte-db</artifactId>
   <versioning>
-    <latest>4.3.7.hyte-43070</latest>
-    <release>4.3.7.hyte-43070</release>
+    <latest>4.3.7.hyte-43073</latest>
+    <release>4.3.7.hyte-43073</release>
     <versions>
+      <version>hyte-mq-4.3.7.hyte-43072</version>
       <version>4.2.7.hyte-4270</version>
       <version>4.2.7.hyte-4271</version>
       <version>4.2.7.hyte-4272</version>
@@ -31,7 +32,8 @@
       <version>4.2.11.hyte-42118</version>
       <version>4.2.11.hyte-42119</version>
       <version>4.3.7.hyte-43070</version>
+      <version>4.3.7.hyte-43073</version>
     </versions>
-    <lastUpdated>20220906212952</lastUpdated>
+    <lastUpdated>20220913193631</lastUpdated>
   </versioning>
 </metadata>

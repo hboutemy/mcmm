@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>camel-route-coverage-maven-plugin</name>
+      <prefix>camel-route-coverage</prefix>
+      <artifactId>camel-route-coverage-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
