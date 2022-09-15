@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-deployer-resource-maven</artifactId>
   <versioning>
-    <latest>2.7.5</latest>
-    <release>2.7.5</release>
+    <latest>2.7.6</latest>
+    <release>2.7.6</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -55,7 +55,8 @@
       <version>2.7.3</version>
       <version>2.7.4</version>
       <version>2.7.5</version>
+      <version>2.7.6</version>
     </versions>
-    <lastUpdated>20220813215759</lastUpdated>
+    <lastUpdated>20220914181636</lastUpdated>
   </versioning>
 </metadata>

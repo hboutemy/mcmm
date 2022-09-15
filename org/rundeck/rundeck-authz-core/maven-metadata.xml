@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-authz-core</artifactId>
   <versioning>
-    <latest>4.6.1-rc1-20220908</latest>
-    <release>4.6.1-rc1-20220908</release>
+    <latest>4.6.1-20220914</latest>
+    <release>4.6.1-20220914</release>
     <versions>
       <version>3.2.7-20200515</version>
       <version>3.2.8-20200608</version>
@@ -150,7 +150,8 @@
       <version>4.6.0-rc3-20220902</version>
       <version>4.6.0-20220906</version>
       <version>4.6.1-rc1-20220908</version>
+      <version>4.6.1-20220914</version>
     </versions>
-    <lastUpdated>20220908215209</lastUpdated>
+    <lastUpdated>20220914181609</lastUpdated>
   </versioning>
 </metadata>

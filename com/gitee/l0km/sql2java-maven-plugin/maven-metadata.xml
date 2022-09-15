@@ -3,8 +3,8 @@
   <groupId>com.gitee.l0km</groupId>
   <artifactId>sql2java-maven-plugin</artifactId>
   <versioning>
-    <latest>3.12.5</latest>
-    <release>3.12.5</release>
+    <latest>3.12.8</latest>
+    <release>3.12.8</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -82,7 +82,10 @@
       <version>3.12.3</version>
       <version>3.12.4</version>
       <version>3.12.5</version>
+      <version>3.12.6</version>
+      <version>3.12.7</version>
+      <version>3.12.8</version>
     </versions>
-    <lastUpdated>20220909084437</lastUpdated>
+    <lastUpdated>20220914102338</lastUpdated>
   </versioning>
 </metadata>

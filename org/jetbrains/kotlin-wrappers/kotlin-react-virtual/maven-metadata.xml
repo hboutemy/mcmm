@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-virtual</artifactId>
   <versioning>
-    <latest>2.10.4-pre.384</latest>
-    <release>2.10.4-pre.384</release>
+    <latest>2.10.4-pre.385-compat</latest>
+    <release>2.10.4-pre.385-compat</release>
     <versions>
       <version>2.8.1-pre.234-kotlin-1.5.21</version>
       <version>2.8.1-pre.235-kotlin-1.5.21</version>
@@ -168,7 +168,9 @@
       <version>2.10.4-pre.382</version>
       <version>2.10.4-pre.383</version>
       <version>2.10.4-pre.384</version>
+      <version>2.10.4-pre.385</version>
+      <version>2.10.4-pre.385-compat</version>
     </versions>
-    <lastUpdated>20220913163843</lastUpdated>
+    <lastUpdated>20220914110927</lastUpdated>
   </versioning>
 </metadata>

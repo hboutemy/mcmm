@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-vertx-http-client-3.0</artifactId>
   <versioning>
-    <latest>1.17.0-alpha</latest>
-    <release>1.17.0-alpha</release>
+    <latest>1.18.0-alpha</latest>
+    <release>1.18.0-alpha</release>
     <versions>
       <version>1.4.0-alpha</version>
       <version>1.4.1-alpha</version>
@@ -34,7 +34,8 @@
       <version>1.15.0-alpha</version>
       <version>1.16.0-alpha</version>
       <version>1.17.0-alpha</version>
+      <version>1.18.0-alpha</version>
     </versions>
-    <lastUpdated>20220818212956</lastUpdated>
+    <lastUpdated>20220914224642</lastUpdated>
   </versioning>
 </metadata>
