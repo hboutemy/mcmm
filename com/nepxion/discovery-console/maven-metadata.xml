@@ -3,8 +3,8 @@
   <groupId>com.nepxion</groupId>
   <artifactId>discovery-console</artifactId>
   <versioning>
-    <latest>6.15.0</latest>
-    <release>6.15.0</release>
+    <latest>6.16.0</latest>
+    <release>6.16.0</release>
     <versions>
       <version>Edgware.1.0.0</version>
       <version>Finchley.1.0.0</version>
@@ -179,6 +179,7 @@
       <version>3.30.0</version>
       <version>3.31.0</version>
       <version>3.32.0</version>
+      <version>3.33.0</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -386,11 +387,13 @@
       <version>6.12.1</version>
       <version>6.12.2</version>
       <version>6.12.3</version>
+      <version>6.12.4</version>
       <version>6.13.0</version>
       <version>6.13.1</version>
       <version>6.14.0</version>
       <version>6.15.0</version>
+      <version>6.16.0</version>
     </versions>
-    <lastUpdated>20220905035104</lastUpdated>
+    <lastUpdated>20220915155355</lastUpdated>
   </versioning>
 </metadata>

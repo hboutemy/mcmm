@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>io.hyte.platform</groupId>
   <artifactId>parent</artifactId>
   <versioning>
-    <latest>4.3.7.hyte-43073</latest>
-    <release>4.3.7.hyte-43073</release>
+    <latest>4.3.7.hyte-43076</latest>
+    <release>4.3.7.hyte-43076</release>
     <versions>
-      <version>hyte-mq-4.3.7.hyte-43072</version>
       <version>4.1.6.hyte-4008</version>
       <version>4.2.5.hyte-4200</version>
       <version>4.2.6.hyte-4262</version>
@@ -36,7 +35,10 @@
       <version>4.2.11.hyte-42119</version>
       <version>4.3.7.hyte-43070</version>
       <version>4.3.7.hyte-43073</version>
+      <version>4.3.7.hyte-43075</version>
+      <version>4.3.7.hyte-43076</version>
+      <version>hyte-mq-4.3.7.hyte-43072</version>
     </versions>
-    <lastUpdated>20220913193652</lastUpdated>
+    <lastUpdated>20220915203014</lastUpdated>
   </versioning>
 </metadata>

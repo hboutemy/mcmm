@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-logging-common</artifactId>
   <versioning>
-    <latest>14.7</latest>
-    <release>14.7</release>
+    <latest>14.8-rc-1</latest>
+    <release>14.8-rc-1</release>
     <versions>
       <version>12.10.11</version>
       <version>13.4.6</version>
@@ -38,6 +38,7 @@
       <version>14.6</version>
       <version>14.7-rc-1</version>
       <version>14.7</version>
+      <version>14.8-rc-1</version>
       <version>11.10</version>
       <version>11.10.1</version>
       <version>11.10.10</version>
@@ -120,6 +121,6 @@
       <version>13.9</version>
       <version>13.9-rc-1</version>
     </versions>
-    <lastUpdated>20220907153448</lastUpdated>
+    <lastUpdated>20220915070228</lastUpdated>
   </versioning>
 </metadata>

@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>Liquibase Maven Plugin Extension</name>
+      <prefix>liquibase-ext</prefix>
+      <artifactId>liquibase-ext-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Liquibase Maven Plugin Extension</name>
       <prefix>liquibase</prefix>
       <artifactId>liquibase-maven-plugin</artifactId>
     </plugin>

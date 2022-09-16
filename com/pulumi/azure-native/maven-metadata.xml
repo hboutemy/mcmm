@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>azure-native</artifactId>
   <versioning>
-    <latest>1.78.0</latest>
-    <release>1.78.0</release>
+    <latest>1.79.0-alpha.1663277754+5bffcc6b</latest>
+    <release>1.79.0-alpha.1663277754+5bffcc6b</release>
     <versions>
       <version>1.63.0</version>
       <version>1.64.0</version>
@@ -31,7 +31,10 @@
       <version>1.78.0-alpha.1663079940+c8f37c7e</version>
       <version>1.78.0-alpha.1663142157+9516616b</version>
       <version>1.78.0</version>
+      <version>1.79.0-alpha.1663226586+d64c5f4c</version>
+      <version>1.79.0-alpha.1663253723+28e21fd7</version>
+      <version>1.79.0-alpha.1663277754+5bffcc6b</version>
     </versions>
-    <lastUpdated>20220914165754</lastUpdated>
+    <lastUpdated>20220915234039</lastUpdated>
   </versioning>
 </metadata>
