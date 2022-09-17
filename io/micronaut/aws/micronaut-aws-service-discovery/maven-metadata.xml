@@ -3,8 +3,8 @@
   <groupId>io.micronaut.aws</groupId>
   <artifactId>micronaut-aws-service-discovery</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.9.2</latest>
+    <release>3.9.2</release>
     <versions>
       <version>2.10.0</version>
       <version>3.0.0-M1</version>
@@ -33,7 +33,9 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.9.0</version>
+      <version>3.9.1</version>
+      <version>3.9.2</version>
     </versions>
-    <lastUpdated>20220915054202</lastUpdated>
+    <lastUpdated>20220916154931</lastUpdated>
   </versioning>
 </metadata>

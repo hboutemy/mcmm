@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-datadog</artifactId>
   <versioning>
-    <latest>2.0.43</latest>
-    <release>2.0.43</release>
+    <latest>2.0.44</latest>
+    <release>2.0.44</release>
     <versions>
       <version>0.2.8</version>
       <version>0.2.9</version>
@@ -601,7 +601,8 @@
       <version>2.0.41</version>
       <version>2.0.42</version>
       <version>2.0.43</version>
+      <version>2.0.44</version>
     </versions>
-    <lastUpdated>20220915002944</lastUpdated>
+    <lastUpdated>20220916003317</lastUpdated>
   </versioning>
 </metadata>

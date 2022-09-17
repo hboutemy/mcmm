@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.botdetection</groupId>
   <artifactId>gravitee-am-botdetection-recaptcha-v3</artifactId>
   <versioning>
-    <latest>3.18.5</latest>
-    <release>3.18.5</release>
+    <latest>3.19.0-RC1</latest>
+    <release>3.19.0-RC1</release>
     <versions>
       <version>3.9.0</version>
       <version>3.9.1</version>
@@ -83,7 +83,9 @@
       <version>3.18.3</version>
       <version>3.18.4</version>
       <version>3.18.5</version>
+      <version>3.18.6</version>
+      <version>3.19.0-RC1</version>
     </versions>
-    <lastUpdated>20220908145104</lastUpdated>
+    <lastUpdated>20220916163233</lastUpdated>
   </versioning>
 </metadata>
