@@ -3,8 +3,8 @@
   <groupId>com.sksamuel.elastic4s</groupId>
   <artifactId>elastic4s-client-sniffed_2.13</artifactId>
   <versioning>
-    <latest>8.4.1</latest>
-    <release>8.4.1</release>
+    <latest>8.4.2</latest>
+    <release>8.4.2</release>
     <versions>
       <version>7.3.1</version>
       <version>7.3.4</version>
@@ -43,6 +43,7 @@
       <version>7.12.1</version>
       <version>7.12.2</version>
       <version>7.12.3</version>
+      <version>7.12.4</version>
       <version>7.13.0</version>
       <version>7.14.0</version>
       <version>7.14.1</version>
@@ -74,8 +75,9 @@
       <version>8.3.2</version>
       <version>8.4.0</version>
       <version>8.4.1</version>
+      <version>8.4.2</version>
       <version>7.9.3</version>
     </versions>
-    <lastUpdated>20220901003857</lastUpdated>
+    <lastUpdated>20220917165925</lastUpdated>
   </versioning>
 </metadata>
