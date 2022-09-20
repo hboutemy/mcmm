@@ -3,8 +3,8 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-metrics-micrometer</artifactId>
   <versioning>
-    <latest>4.30.6.0</latest>
-    <release>4.30.6.0</release>
+    <latest>4.30.8.0</latest>
+    <release>4.30.8.0</release>
     <versions>
       <version>3.11.1</version>
       <version>3.12.0</version>
@@ -384,7 +384,9 @@
       <version>4.30.4.0</version>
       <version>4.30.5.0</version>
       <version>4.30.6.0</version>
+      <version>4.30.7.0</version>
+      <version>4.30.8.0</version>
     </versions>
-    <lastUpdated>20220912211409</lastUpdated>
+    <lastUpdated>20220919222217</lastUpdated>
   </versioning>
 </metadata>

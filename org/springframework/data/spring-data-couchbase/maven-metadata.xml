@@ -3,8 +3,8 @@
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-couchbase</artifactId>
   <versioning>
-    <latest>4.4.2</latest>
-    <release>4.4.2</release>
+    <latest>4.4.3</latest>
+    <release>4.4.3</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.1.0.RELEASE</version>
@@ -156,14 +156,16 @@
       <version>4.3.4</version>
       <version>4.3.5</version>
       <version>4.3.6</version>
+      <version>4.3.7</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
       <version>4.4.2</version>
+      <version>4.4.3</version>
       <version>3.2.13.RELEASE</version>
       <version>4.0.7.RELEASE</version>
       <version>4.1.4</version>
       <version>4.1.5</version>
     </versions>
-    <lastUpdated>20220829171611</lastUpdated>
+    <lastUpdated>20220919115954</lastUpdated>
   </versioning>
 </metadata>
