@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-feature-pack-galleon-common</artifactId>
   <versioning>
-    <latest>19.0.0.Beta17</latest>
-    <release>19.0.0.Beta17</release>
+    <latest>19.0.0.Beta18</latest>
+    <release>19.0.0.Beta18</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Beta2</version>
@@ -74,7 +74,8 @@
       <version>19.0.0.Beta14</version>
       <version>19.0.0.Beta15</version>
       <version>19.0.0.Beta17</version>
+      <version>19.0.0.Beta18</version>
     </versions>
-    <lastUpdated>20220912140833</lastUpdated>
+    <lastUpdated>20220919222119</lastUpdated>
   </versioning>
 </metadata>
