@@ -3,8 +3,8 @@
   <groupId>io.strimzi</groupId>
   <artifactId>crd-generator</artifactId>
   <versioning>
-    <latest>0.31.0</latest>
-    <release>0.31.0</release>
+    <latest>0.31.1</latest>
+    <release>0.31.1</release>
     <versions>
       <version>0.9.0</version>
       <version>0.10.0</version>
@@ -42,7 +42,8 @@
       <version>0.29.0</version>
       <version>0.30.0</version>
       <version>0.31.0</version>
+      <version>0.31.1</version>
     </versions>
-    <lastUpdated>20220908121224</lastUpdated>
+    <lastUpdated>20220921125651</lastUpdated>
   </versioning>
 </metadata>
