@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>arcmutate-maven-plugin</name>
+      <prefix>arcmutate</prefix>
+      <artifactId>arcmutate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>pitest-azure-maven</name>
       <prefix>pitest-azure</prefix>
       <artifactId>pitest-azure-maven-plugin</artifactId>

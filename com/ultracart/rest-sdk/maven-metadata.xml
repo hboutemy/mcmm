@@ -3,8 +3,8 @@
   <groupId>com.ultracart</groupId>
   <artifactId>rest-sdk</artifactId>
   <versioning>
-    <latest>4.0.64-RC</latest>
-    <release>4.0.64-RC</release>
+    <latest>4.0.66-RC</latest>
+    <release>4.0.66-RC</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.2</version>
@@ -168,6 +168,8 @@
       <version>3.10.45</version>
       <version>3.10.46</version>
       <version>3.10.47</version>
+      <version>3.10.48</version>
+      <version>3.10.49</version>
       <version>4.0.20-RC</version>
       <version>4.0.23-RC</version>
       <version>4.0.24-RC</version>
@@ -203,7 +205,9 @@
       <version>4.0.62-RC</version>
       <version>4.0.63-RC</version>
       <version>4.0.64-RC</version>
+      <version>4.0.65-RC</version>
+      <version>4.0.66-RC</version>
     </versions>
-    <lastUpdated>20220919162044</lastUpdated>
+    <lastUpdated>20220922190131</lastUpdated>
   </versioning>
 </metadata>
