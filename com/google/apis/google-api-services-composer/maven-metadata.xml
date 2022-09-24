@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-composer</artifactId>
   <versioning>
-    <latest>v1-rev20220727-2.0.0</latest>
-    <release>v1-rev20220727-2.0.0</release>
+    <latest>v1-rev20220920-2.0.0</latest>
+    <release>v1-rev20220920-2.0.0</release>
     <versions>
       <version>v1beta1-rev20210601-1.31.0</version>
       <version>v1beta1-rev20210601-1.31.5</version>
@@ -26,6 +26,7 @@
       <version>v1beta1-rev20220622-1.32.1</version>
       <version>v1beta1-rev20220622-2.0.0</version>
       <version>v1beta1-rev20220727-2.0.0</version>
+      <version>v1beta1-rev20220920-2.0.0</version>
       <version>v1-rev20210518-1.31.0</version>
       <version>v1-rev20210518-1.31.5</version>
       <version>v1-rev20210518-1.32.1</version>
@@ -46,6 +47,7 @@
       <version>v1-rev20220518-1.32.1</version>
       <version>v1-rev20220518-2.0.0</version>
       <version>v1-rev20220727-2.0.0</version>
+      <version>v1-rev20220920-2.0.0</version>
       <version>v1-rev11-1.18.0-rc</version>
       <version>v1-rev11-1.22.0</version>
       <version>v1-rev11-1.23.0</version>
@@ -261,6 +263,6 @@
       <version>v1beta1-rev8-1.24.1</version>
       <version>v1beta1-rev9-1.25.0</version>
     </versions>
-    <lastUpdated>20220803080329</lastUpdated>
+    <lastUpdated>20220923082524</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-jdk-http</artifactId>
   <versioning>
-    <latest>6.2.0.Beta1</latest>
-    <release>6.2.0.Beta1</release>
+    <latest>6.2.0.Final</latest>
+    <release>6.2.0.Final</release>
     <versions>
       <version>2.3.3.Final</version>
       <version>2.3.4.Final</version>
@@ -182,7 +182,8 @@
       <version>6.1.0.Beta3</version>
       <version>6.1.0.Final</version>
       <version>6.2.0.Beta1</version>
+      <version>6.2.0.Final</version>
     </versions>
-    <lastUpdated>20220908220919</lastUpdated>
+    <lastUpdated>20220923163734</lastUpdated>
   </versioning>
 </metadata>

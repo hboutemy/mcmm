@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.repository</groupId>
   <artifactId>gravitee-apim-repository-hazelcast</artifactId>
   <versioning>
-    <latest>3.18.9</latest>
-    <release>3.18.9</release>
+    <latest>3.18.10</latest>
+    <release>3.18.10</release>
     <versions>
       <version>3.5.18</version>
       <version>3.5.19</version>
@@ -100,7 +100,8 @@
       <version>3.18.7</version>
       <version>3.18.8</version>
       <version>3.18.9</version>
+      <version>3.18.10</version>
     </versions>
-    <lastUpdated>20220916142635</lastUpdated>
+    <lastUpdated>20220923140454</lastUpdated>
   </versioning>
 </metadata>

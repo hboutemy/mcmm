@@ -6,5 +6,10 @@
       <prefix>decerto-liquibase</prefix>
       <artifactId>decerto-liquibase-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>hyperon-liquibase</prefix>
+      <artifactId>hyperon-liquibase-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
