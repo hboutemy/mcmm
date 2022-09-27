@@ -3,8 +3,8 @@
   <groupId>ch.cern.eam</groupId>
   <artifactId>eam-wshub-core</artifactId>
   <versioning>
-    <latest>11.7-4</latest>
-    <release>11.7-4</release>
+    <latest>11.7-6</latest>
+    <release>11.7-6</release>
     <versions>
       <version>11.4-37</version>
       <version>11.4-38</version>
@@ -114,7 +114,9 @@
       <version>11.7-2</version>
       <version>11.7-3</version>
       <version>11.7-4</version>
+      <version>11.7-5</version>
+      <version>11.7-6</version>
     </versions>
-    <lastUpdated>20220923083914</lastUpdated>
+    <lastUpdated>20220926090312</lastUpdated>
   </versioning>
 </metadata>

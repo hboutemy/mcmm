@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-repository-maven</artifactId>
   <versioning>
-    <latest>3.41.1-01</latest>
-    <release>3.41.1-01</release>
+    <latest>3.42.0-01</latest>
+    <release>3.42.0-01</release>
     <versions>
       <version>3.0.0-b2015061001</version>
       <version>3.0.0-b2015091801</version>
@@ -109,7 +109,8 @@
       <version>3.40.1-01</version>
       <version>3.41.0-01</version>
       <version>3.41.1-01</version>
+      <version>3.42.0-01</version>
     </versions>
-    <lastUpdated>20220818161710</lastUpdated>
+    <lastUpdated>20220926124845</lastUpdated>
   </versioning>
 </metadata>
