@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-connector-gcp-pubsub_2.11</artifactId>
   <versioning>
-    <latest>1.14.5</latest>
-    <release>1.14.5</release>
+    <latest>1.14.6</latest>
+    <release>1.14.6</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -42,7 +42,8 @@
       <version>1.14.3</version>
       <version>1.14.4</version>
       <version>1.14.5</version>
+      <version>1.14.6</version>
     </versions>
-    <lastUpdated>20220620123803</lastUpdated>
+    <lastUpdated>20220927023646</lastUpdated>
   </versioning>
 </metadata>

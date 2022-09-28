@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>resources-grpc_2.13</artifactId>
   <versioning>
-    <latest>2.5.0-snapshot.20220925.10653.0.0db37eca</latest>
-    <release>2.5.0-snapshot.20220925.10653.0.0db37eca</release>
+    <latest>2.5.0-snapshot.20220926.10665.0.5c66d53a</latest>
+    <release>2.5.0-snapshot.20220926.10665.0.5c66d53a</release>
     <versions>
       <version>0.0.0</version>
       <version>1.11.0-snapshot.20210217.6338.0.ba6ba901</version>
@@ -260,6 +260,7 @@
       <version>2.3.3</version>
       <version>2.3.4</version>
       <version>2.3.5</version>
+      <version>2.3.6</version>
       <version>2.4.0-snapshot.20220622.10127.0.c2cd6141</version>
       <version>2.4.0-snapshot.20220623.10129.0.0d1ef104</version>
       <version>2.4.0-snapshot.20220624.10131.0.7cd677e3</version>
@@ -322,6 +323,7 @@
       <version>2.4.0-snapshot.20220908.10576.0.21e8ba08</version>
       <version>2.4.0-snapshot.20220909.10591.0.33f2ea59</version>
       <version>2.4.0-snapshot.20220914.10592.0.cf7c2b5c</version>
+      <version>2.4.0</version>
       <version>2.5.0-snapshot.20220908.10586.0.419bf9b0</version>
       <version>2.5.0-snapshot.20220909.10596.0.15c0610d</version>
       <version>2.5.0-snapshot.20220912.10598.0.f801cd46</version>
@@ -336,7 +338,8 @@
       <version>2.5.0-snapshot.20220923.10651.0.63e8dc2c</version>
       <version>2.5.0-snapshot.20220924.10652.0.392cc302</version>
       <version>2.5.0-snapshot.20220925.10653.0.0db37eca</version>
+      <version>2.5.0-snapshot.20220926.10665.0.5c66d53a</version>
     </versions>
-    <lastUpdated>20220926023657</lastUpdated>
+    <lastUpdated>20220927174640</lastUpdated>
   </versioning>
 </metadata>
