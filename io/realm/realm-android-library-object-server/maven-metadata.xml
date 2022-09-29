@@ -3,8 +3,8 @@
   <groupId>io.realm</groupId>
   <artifactId>realm-android-library-object-server</artifactId>
   <versioning>
-    <latest>10.12.0</latest>
-    <release>10.12.0</release>
+    <latest>10.12.0-transformer-api</latest>
+    <release>10.12.0-transformer-api</release>
     <versions>
       <version>10.4.0-RC.1</version>
       <version>10.4.0</version>
@@ -24,7 +24,8 @@
       <version>10.11.0</version>
       <version>10.11.1</version>
       <version>10.12.0</version>
+      <version>10.12.0-transformer-api</version>
     </versions>
-    <lastUpdated>20220922131737</lastUpdated>
+    <lastUpdated>20220928131901</lastUpdated>
   </versioning>
 </metadata>
