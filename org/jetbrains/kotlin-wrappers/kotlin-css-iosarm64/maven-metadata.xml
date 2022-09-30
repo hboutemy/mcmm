@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-css-iosarm64</artifactId>
   <versioning>
-    <latest>1.0.0-pre.392</latest>
-    <release>1.0.0-pre.392</release>
+    <latest>1.0.0-pre.394-compat</latest>
+    <release>1.0.0-pre.394-compat</release>
     <versions>
       <version>1.0.0-pre.202-kotlin-1.5.0</version>
       <version>1.0.0-pre.203-kotlin-1.5.0</version>
@@ -213,7 +213,10 @@
       <version>1.0.0-pre.390</version>
       <version>1.0.0-pre.391</version>
       <version>1.0.0-pre.392</version>
+      <version>1.0.0-pre.393</version>
+      <version>1.0.0-pre.394</version>
+      <version>1.0.0-pre.394-compat</version>
     </versions>
-    <lastUpdated>20220927072755</lastUpdated>
+    <lastUpdated>20220929185708</lastUpdated>
   </versioning>
 </metadata>

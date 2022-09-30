@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-scripting-dependencies-maven-all</artifactId>
   <versioning>
-    <latest>1.7.20-RC</latest>
-    <release>1.7.20-RC</release>
+    <latest>1.7.20</latest>
+    <release>1.7.20</release>
     <versions>
       <version>1.6.0-M1</version>
       <version>1.6.0-RC</version>
@@ -24,7 +24,8 @@
       <version>1.7.10</version>
       <version>1.7.20-Beta</version>
       <version>1.7.20-RC</version>
+      <version>1.7.20</version>
     </versions>
-    <lastUpdated>20220907204315</lastUpdated>
+    <lastUpdated>20220929095929</lastUpdated>
   </versioning>
 </metadata>
