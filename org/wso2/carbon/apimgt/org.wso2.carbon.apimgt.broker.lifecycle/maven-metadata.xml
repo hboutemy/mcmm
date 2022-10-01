@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.broker.lifecycle</artifactId>
   <versioning>
-    <latest>9.26.30</latest>
-    <release>9.26.30</release>
+    <latest>9.26.32</latest>
+    <release>9.26.32</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -2386,7 +2386,9 @@
       <version>9.26.28</version>
       <version>9.26.29</version>
       <version>9.26.30</version>
+      <version>9.26.31</version>
+      <version>9.26.32</version>
     </versions>
-    <lastUpdated>20220929170022</lastUpdated>
+    <lastUpdated>20220930100038</lastUpdated>
   </versioning>
 </metadata>

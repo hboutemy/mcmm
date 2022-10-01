@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>P2 Maven Integration</name>
+      <prefix>p2</prefix>
+      <artifactId>p2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho Target Platform Configuration Plugin</name>
       <prefix>target-platform-configuration</prefix>
       <artifactId>target-platform-configuration</artifactId>
@@ -10,6 +15,11 @@
       <name>Tycho Target Platform Configuration Plugin (Incubation)</name>
       <prefix>target-platform-configuration</prefix>
       <artifactId>target-platform-configuration</artifactId>
+    </plugin>
+    <plugin>
+      <name>Plugin for performing API analysis tasks</name>
+      <prefix>tycho-apitools</prefix>
+      <artifactId>tycho-apitools-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Tycho OSGi Compiler Plugin</name>
