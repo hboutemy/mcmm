@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-history</artifactId>
   <versioning>
-    <latest>5.3.0-pre.396</latest>
-    <release>5.3.0-pre.396</release>
+    <latest>5.3.0-pre.397-compat</latest>
+    <release>5.3.0-pre.397-compat</release>
     <versions>
       <version>5.1.0-pre.269-kotlin-1.6.0</version>
       <version>5.1.0-pre.270-kotlin-1.6.0</version>
@@ -147,7 +147,9 @@
       <version>5.3.0-pre.394-compat</version>
       <version>5.3.0-pre.395</version>
       <version>5.3.0-pre.396</version>
+      <version>5.3.0-pre.397</version>
+      <version>5.3.0-pre.397-compat</version>
     </versions>
-    <lastUpdated>20220930140530</lastUpdated>
+    <lastUpdated>20221001073654</lastUpdated>
   </versioning>
 </metadata>

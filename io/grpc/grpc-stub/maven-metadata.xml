@@ -3,8 +3,8 @@
   <groupId>io.grpc</groupId>
   <artifactId>grpc-stub</artifactId>
   <versioning>
-    <latest>1.49.1</latest>
-    <release>1.49.1</release>
+    <latest>1.49.2</latest>
+    <release>1.49.2</release>
     <versions>
       <version>0.7.0</version>
       <version>0.7.1</version>
@@ -119,9 +119,11 @@
       <version>1.47.0</version>
       <version>1.48.0</version>
       <version>1.48.1</version>
+      <version>1.48.2</version>
       <version>1.49.0</version>
       <version>1.49.1</version>
+      <version>1.49.2</version>
     </versions>
-    <lastUpdated>20220919022534</lastUpdated>
+    <lastUpdated>20221001152656</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss</groupId>
   <artifactId>jboss-ejb-client</artifactId>
   <versioning>
-    <latest>4.0.47.Final</latest>
-    <release>4.0.47.Final</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -172,7 +172,9 @@
       <version>4.0.45.Final</version>
       <version>4.0.46.Final</version>
       <version>4.0.47.Final</version>
+      <version>4.0.48.Final</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20220923012201</lastUpdated>
+    <lastUpdated>20220930210634</lastUpdated>
   </versioning>
 </metadata>
