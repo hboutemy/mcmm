@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-cassandra-persistence</artifactId>
   <versioning>
-    <latest>3.11.3</latest>
-    <release>3.11.3</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>2.3.0</version>
       <version>2.4.0</version>
@@ -220,7 +220,8 @@
       <version>3.11.1</version>
       <version>3.11.2</version>
       <version>3.11.3</version>
+      <version>3.12.0</version>
     </versions>
-    <lastUpdated>20220912182147</lastUpdated>
+    <lastUpdated>20221003214633</lastUpdated>
   </versioning>
 </metadata>

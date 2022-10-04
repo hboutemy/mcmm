@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf</artifactId>
   <versioning>
-    <latest>0.13.0-pre.59</latest>
-    <release>0.13.0-pre.59</release>
+    <latest>0.13.0-pre.62</latest>
+    <release>0.13.0-pre.62</release>
     <versions>
       <version>0.0.0</version>
       <version>0.1.0</version>
@@ -431,6 +431,7 @@
       <version>0.12.1</version>
       <version>0.12.2</version>
       <version>0.12.3</version>
+      <version>0.13.0</version>
       <version>0.13.0-pre.1</version>
       <version>0.13.0-pre.4</version>
       <version>0.13.0-pre.6</version>
@@ -469,7 +470,10 @@
       <version>0.13.0-pre.56</version>
       <version>0.13.0-pre.58</version>
       <version>0.13.0-pre.59</version>
+      <version>0.13.0-pre.60</version>
+      <version>0.13.0-pre.61</version>
+      <version>0.13.0-pre.62</version>
     </versions>
-    <lastUpdated>20220929200747</lastUpdated>
+    <lastUpdated>20221003171516</lastUpdated>
   </versioning>
 </metadata>

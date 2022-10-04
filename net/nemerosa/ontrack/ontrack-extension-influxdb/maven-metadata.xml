@@ -3,8 +3,8 @@
   <groupId>net.nemerosa.ontrack</groupId>
   <artifactId>ontrack-extension-influxdb</artifactId>
   <versioning>
-    <latest>4.3.13</latest>
-    <release>4.3.13</release>
+    <latest>4.3.14</latest>
+    <release>4.3.14</release>
     <versions>
       <version>feature-732-back-to-central-5e58285</version>
       <version>feature-735-ui-publication-7c8bc12</version>
@@ -351,6 +351,7 @@
       <version>4.2.36</version>
       <version>4.2.37</version>
       <version>4.2.38</version>
+      <version>4.2.39</version>
       <version>4.3-beta.0</version>
       <version>4.3-beta.1</version>
       <version>4.3.0</version>
@@ -367,7 +368,8 @@
       <version>4.3.11</version>
       <version>4.3.12</version>
       <version>4.3.13</version>
+      <version>4.3.14</version>
     </versions>
-    <lastUpdated>20220929191027</lastUpdated>
+    <lastUpdated>20221003115820</lastUpdated>
   </versioning>
 </metadata>
