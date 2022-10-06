@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-security-deployment</artifactId>
   <versioning>
-    <latest>2.13.0.Final</latest>
-    <release>2.13.0.Final</release>
+    <latest>2.13.1.Final</latest>
+    <release>2.13.1.Final</release>
     <versions>
       <version>1.1.0.CR1</version>
       <version>1.1.0.Final</version>
@@ -157,7 +157,8 @@
       <version>2.12.3.Final</version>
       <version>2.13.0.CR1</version>
       <version>2.13.0.Final</version>
+      <version>2.13.1.Final</version>
     </versions>
-    <lastUpdated>20220921141808</lastUpdated>
+    <lastUpdated>20221005113906</lastUpdated>
   </versioning>
 </metadata>

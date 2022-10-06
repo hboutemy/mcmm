@@ -3,8 +3,8 @@
   <groupId>org.graylog2</groupId>
   <artifactId>graylog2-server</artifactId>
   <versioning>
-    <latest>4.3.7</latest>
-    <release>4.3.7</release>
+    <latest>4.3.8</latest>
+    <release>4.3.8</release>
     <versions>
       <version>0.20.0-rc.1-1</version>
       <version>0.21.0-beta2</version>
@@ -237,10 +237,11 @@
       <version>4.3.5</version>
       <version>4.3.6</version>
       <version>4.3.7</version>
+      <version>4.3.8</version>
       <version>1.1.2</version>
       <version>1.1.3</version>
       <version>3.0.0-beta.3</version>
     </versions>
-    <lastUpdated>20220916141755</lastUpdated>
+    <lastUpdated>20221005164536</lastUpdated>
   </versioning>
 </metadata>

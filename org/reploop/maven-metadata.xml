@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>json2</prefix>
+      <artifactId>json2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>json2bean</prefix>
       <artifactId>json2bean-maven-plugin</artifactId>
     </plugin>
