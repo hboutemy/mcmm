@@ -3,8 +3,8 @@
   <groupId>org.wso2.identity.apps</groupId>
   <artifactId>x509-certificate-authentication-portal</artifactId>
   <versioning>
-    <latest>1.6.14</latest>
-    <release>1.6.14</release>
+    <latest>1.6.20</latest>
+    <release>1.6.20</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -1846,8 +1846,14 @@
       <version>1.6.12</version>
       <version>1.6.13</version>
       <version>1.6.14</version>
+      <version>1.6.15</version>
+      <version>1.6.16</version>
+      <version>1.6.17</version>
+      <version>1.6.18</version>
+      <version>1.6.19</version>
+      <version>1.6.20</version>
       <version>1.0.570</version>
     </versions>
-    <lastUpdated>20221005150438</lastUpdated>
+    <lastUpdated>20221006155154</lastUpdated>
   </versioning>
 </metadata>

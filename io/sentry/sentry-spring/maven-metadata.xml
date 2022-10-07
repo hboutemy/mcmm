@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-spring</artifactId>
   <versioning>
-    <latest>6.5.0-beta.2</latest>
-    <release>6.5.0-beta.2</release>
+    <latest>6.5.0-beta.3</latest>
+    <release>6.5.0-beta.3</release>
     <versions>
       <version>1.4.0</version>
       <version>1.5.0</version>
@@ -149,7 +149,8 @@
       <version>6.4.3</version>
       <version>6.5.0-beta.1</version>
       <version>6.5.0-beta.2</version>
+      <version>6.5.0-beta.3</version>
     </versions>
-    <lastUpdated>20221005144944</lastUpdated>
+    <lastUpdated>20221006174524</lastUpdated>
   </versioning>
 </metadata>

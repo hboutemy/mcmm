@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.cleanup.service</artifactId>
   <versioning>
-    <latest>9.26.34</latest>
-    <release>9.26.34</release>
+    <latest>9.26.35</latest>
+    <release>9.26.35</release>
     <versions>
       <version>9.0.303</version>
       <version>9.0.304</version>
@@ -275,6 +275,7 @@
       <version>9.22.43</version>
       <version>9.22.44</version>
       <version>9.22.45</version>
+      <version>9.22.46</version>
       <version>9.23.0</version>
       <version>9.23.1</version>
       <version>9.23.2</version>
@@ -342,7 +343,8 @@
       <version>9.26.32</version>
       <version>9.26.33</version>
       <version>9.26.34</version>
+      <version>9.26.35</version>
     </versions>
-    <lastUpdated>20221005044234</lastUpdated>
+    <lastUpdated>20221006102121</lastUpdated>
   </versioning>
 </metadata>

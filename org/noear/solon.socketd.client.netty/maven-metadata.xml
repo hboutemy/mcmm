@@ -3,8 +3,8 @@
   <groupId>org.noear</groupId>
   <artifactId>solon.socketd.client.netty</artifactId>
   <versioning>
-    <latest>1.10.5</latest>
-    <release>1.10.5</release>
+    <latest>1.10.6-M2</latest>
+    <release>1.10.6-M2</release>
     <versions>
       <version>1.2.14</version>
       <version>1.2.14.1</version>
@@ -343,7 +343,9 @@
       <version>1.10.5-M3</version>
       <version>1.10.5-M4</version>
       <version>1.10.5</version>
+      <version>1.10.6-M1</version>
+      <version>1.10.6-M2</version>
     </versions>
-    <lastUpdated>20221004115948</lastUpdated>
+    <lastUpdated>20221006125943</lastUpdated>
   </versioning>
 </metadata>
