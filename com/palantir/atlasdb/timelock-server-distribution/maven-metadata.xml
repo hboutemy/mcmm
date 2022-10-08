@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-server-distribution</artifactId>
   <versioning>
-    <latest>0.720.0-rc1</latest>
-    <release>0.720.0-rc1</release>
+    <latest>0.723.0</latest>
+    <release>0.723.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -487,7 +487,9 @@
       <version>0.718.0-rc1</version>
       <version>0.719.0</version>
       <version>0.720.0-rc1</version>
+      <version>0.722.0</version>
+      <version>0.723.0</version>
     </versions>
-    <lastUpdated>20221005111435</lastUpdated>
+    <lastUpdated>20221007151342</lastUpdated>
   </versioning>
 </metadata>
