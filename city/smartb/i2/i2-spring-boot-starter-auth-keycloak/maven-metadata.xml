@@ -3,8 +3,8 @@
   <groupId>city.smartb.i2</groupId>
   <artifactId>i2-spring-boot-starter-auth-keycloak</artifactId>
   <versioning>
-    <latest>0.10.4</latest>
-    <release>0.10.4</release>
+    <latest>0.10.5-experimental</latest>
+    <release>0.10.5-experimental</release>
     <versions>
       <version>0.8.3</version>
       <version>0.9.0</version>
@@ -13,7 +13,9 @@
       <version>0.10.2</version>
       <version>0.10.3</version>
       <version>0.10.4</version>
+      <version>0.10.5</version>
+      <version>0.10.5-experimental</version>
     </versions>
-    <lastUpdated>20220928144906</lastUpdated>
+    <lastUpdated>20221008014926</lastUpdated>
   </versioning>
 </metadata>
