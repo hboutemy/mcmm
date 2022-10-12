@@ -7,6 +7,11 @@
       <artifactId>conditional-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Directory Merge Maven Plugin</name>
+      <prefix>merge</prefix>
+      <artifactId>merge-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Regular Expression Maven Plugin</name>
       <prefix>regex</prefix>
       <artifactId>regex-maven-plugin</artifactId>

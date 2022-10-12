@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-runtime-util</artifactId>
   <versioning>
-    <latest>4.4.11</latest>
-    <release>4.4.11</release>
+    <latest>4.4.12</latest>
+    <release>4.4.12</release>
     <versions>
       <version>3.4.0-alpha01</version>
       <version>3.4.0-alpha02</version>
@@ -153,6 +153,7 @@
       <version>4.3.16</version>
       <version>4.3.17</version>
       <version>4.3.18</version>
+      <version>4.3.19</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
       <version>4.4.2</version>
@@ -165,7 +166,8 @@
       <version>4.4.9</version>
       <version>4.4.10</version>
       <version>4.4.11</version>
+      <version>4.4.12</version>
     </versions>
-    <lastUpdated>20220905144134</lastUpdated>
+    <lastUpdated>20221011102353</lastUpdated>
   </versioning>
 </metadata>

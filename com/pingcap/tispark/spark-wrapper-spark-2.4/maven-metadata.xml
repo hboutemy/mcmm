@@ -3,8 +3,8 @@
   <groupId>com.pingcap.tispark</groupId>
   <artifactId>spark-wrapper-spark-2.4</artifactId>
   <versioning>
-    <latest>2.4.3-scala_2.12</latest>
-    <release>2.4.3-scala_2.12</release>
+    <latest>2.4.4-scala_2.12-RC</latest>
+    <release>2.4.4-scala_2.12-RC</release>
     <versions>
       <version>2.2.0</version>
       <version>2.3.0-rc</version>
@@ -31,7 +31,8 @@
       <version>2.4.2</version>
       <version>2.4.3-scala_2.11</version>
       <version>2.4.3-scala_2.12</version>
+      <version>2.4.4-scala_2.12-RC</version>
     </versions>
-    <lastUpdated>20220127093359</lastUpdated>
+    <lastUpdated>20221011065040</lastUpdated>
   </versioning>
 </metadata>

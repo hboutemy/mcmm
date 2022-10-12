@@ -6,5 +6,10 @@
       <prefix>amp</prefix>
       <artifactId>amp-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>A Maven plugin for Alfresco Process Services model portability</name>
+      <prefix>aps-model</prefix>
+      <artifactId>aps-model-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.rabbitmqclient</groupId>
   <artifactId>quarkus-rabbitmq-client-deployment</artifactId>
   <versioning>
-    <latest>0.5.1.Final</latest>
-    <release>0.5.1.Final</release>
+    <latest>0.5.2</latest>
+    <release>0.5.2</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -18,7 +18,8 @@
       <version>0.4.2.Final</version>
       <version>0.5.0.Final</version>
       <version>0.5.1.Final</version>
+      <version>0.5.2</version>
     </versions>
-    <lastUpdated>20220617203948</lastUpdated>
+    <lastUpdated>20221011122521</lastUpdated>
   </versioning>
 </metadata>
