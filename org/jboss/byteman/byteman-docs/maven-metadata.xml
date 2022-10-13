@@ -3,8 +3,8 @@
   <groupId>org.jboss.byteman</groupId>
   <artifactId>byteman-docs</artifactId>
   <versioning>
-    <latest>4.0.19</latest>
-    <release>4.0.19</release>
+    <latest>4.0.20</latest>
+    <release>4.0.20</release>
     <versions>
       <version>3.0.5</version>
       <version>3.0.6</version>
@@ -21,6 +21,7 @@
       <version>3.0.18</version>
       <version>3.0.19</version>
       <version>3.0.20</version>
+      <version>3.0.21</version>
       <version>4.0.0-ALPHA</version>
       <version>4.0.0-BETA0</version>
       <version>4.0.0-BETA1</version>
@@ -48,7 +49,8 @@
       <version>4.0.17</version>
       <version>4.0.18</version>
       <version>4.0.19</version>
+      <version>4.0.20</version>
     </versions>
-    <lastUpdated>20220524111323</lastUpdated>
+    <lastUpdated>20221012093254</lastUpdated>
   </versioning>
 </metadata>

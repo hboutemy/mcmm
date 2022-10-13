@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf.systests</groupId>
   <artifactId>cxf-systests-rs-sse-tomcat</artifactId>
   <versioning>
-    <latest>3.5.3</latest>
-    <release>3.5.3</release>
+    <latest>3.5.4</latest>
+    <release>3.5.4</release>
     <versions>
       <version>3.2.0</version>
       <version>3.2.1</version>
@@ -44,11 +44,13 @@
       <version>3.4.6</version>
       <version>3.4.7</version>
       <version>3.4.8</version>
+      <version>3.4.9</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
       <version>3.5.3</version>
+      <version>3.5.4</version>
     </versions>
-    <lastUpdated>20220628142620</lastUpdated>
+    <lastUpdated>20221012133658</lastUpdated>
   </versioning>
 </metadata>
