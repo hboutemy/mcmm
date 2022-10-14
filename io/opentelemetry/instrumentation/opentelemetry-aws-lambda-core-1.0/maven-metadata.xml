@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-aws-lambda-core-1.0</artifactId>
   <versioning>
-    <latest>1.18.0-alpha</latest>
-    <release>1.18.0-alpha</release>
+    <latest>1.19.0-alpha</latest>
+    <release>1.19.0-alpha</release>
     <versions>
       <version>1.11.0-alpha</version>
       <version>1.11.1-alpha</version>
@@ -17,7 +17,8 @@
       <version>1.16.0-alpha</version>
       <version>1.17.0-alpha</version>
       <version>1.18.0-alpha</version>
+      <version>1.19.0-alpha</version>
     </versions>
-    <lastUpdated>20220914223845</lastUpdated>
+    <lastUpdated>20221012235003</lastUpdated>
   </versioning>
 </metadata>

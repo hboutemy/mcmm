@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.openflowplugin.applications</groupId>
   <artifactId>forwardingrules-manager</artifactId>
   <versioning>
-    <latest>0.14.2</latest>
-    <release>0.14.2</release>
+    <latest>0.15.0</latest>
+    <release>0.15.0</release>
     <versions>
       <version>0.1.0-Lithium</version>
       <version>0.1.1-Lithium-SR1</version>
@@ -68,7 +68,8 @@
       <version>0.14.0</version>
       <version>0.14.1</version>
       <version>0.14.2</version>
+      <version>0.15.0</version>
     </versions>
-    <lastUpdated>20220922080107</lastUpdated>
+    <lastUpdated>20221013232901</lastUpdated>
   </versioning>
 </metadata>

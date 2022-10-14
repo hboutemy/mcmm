@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-internal-class-loader</artifactId>
   <versioning>
-    <latest>1.18.0-alpha</latest>
-    <release>1.18.0-alpha</release>
+    <latest>1.19.0-alpha</latest>
+    <release>1.19.0-alpha</release>
     <versions>
       <version>1.1.0-alpha</version>
       <version>1.2.0-alpha</version>
@@ -39,7 +39,8 @@
       <version>1.16.0-alpha</version>
       <version>1.17.0-alpha</version>
       <version>1.18.0-alpha</version>
+      <version>1.19.0-alpha</version>
     </versions>
-    <lastUpdated>20220914224223</lastUpdated>
+    <lastUpdated>20221012235348</lastUpdated>
   </versioning>
 </metadata>
