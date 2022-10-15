@@ -3,8 +3,8 @@
   <groupId>com.4paradigm.openmldb</groupId>
   <artifactId>hybridse-native</artifactId>
   <versioning>
-    <latest>0.6.2-macos</latest>
-    <release>0.6.2-macos</release>
+    <latest>0.6.3-macos</latest>
+    <release>0.6.3-macos</release>
     <versions>
       <version>0.4.0</version>
       <version>0.4.0-allinone</version>
@@ -45,7 +45,10 @@
       <version>0.6.2</version>
       <version>0.6.2-allinone</version>
       <version>0.6.2-macos</version>
+      <version>0.6.3</version>
+      <version>0.6.3-allinone</version>
+      <version>0.6.3-macos</version>
     </versions>
-    <lastUpdated>20220920090852</lastUpdated>
+    <lastUpdated>20221014110812</lastUpdated>
   </versioning>
 </metadata>
