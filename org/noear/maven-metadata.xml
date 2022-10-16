@@ -9,5 +9,9 @@
       <prefix>weed3</prefix>
       <artifactId>weed3-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>wood</prefix>
+      <artifactId>wood-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
