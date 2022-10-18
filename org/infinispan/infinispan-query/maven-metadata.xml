@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-query</artifactId>
   <versioning>
-    <latest>14.0.0.Dev04</latest>
-    <release>14.0.0.Dev04</release>
+    <latest>14.0.1.Final</latest>
+    <release>14.0.1.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -322,6 +322,7 @@
       <version>13.0.9.Final</version>
       <version>13.0.10.Final</version>
       <version>13.0.11.Final</version>
+      <version>13.0.12.Final</version>
       <version>14.0.0.CR1</version>
       <version>14.0.0.CR2</version>
       <version>14.0.0.Final</version>
@@ -329,8 +330,9 @@
       <version>14.0.0.Dev02</version>
       <version>14.0.0.Dev03</version>
       <version>14.0.0.Dev04</version>
+      <version>14.0.1.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20220929115024</lastUpdated>
+    <lastUpdated>20221017163718</lastUpdated>
   </versioning>
 </metadata>

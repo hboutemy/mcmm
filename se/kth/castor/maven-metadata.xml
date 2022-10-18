@@ -11,5 +11,10 @@
       <prefix>jdbl</prefix>
       <artifactId>jdbl-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Sorald</name>
+      <prefix>sorald</prefix>
+      <artifactId>sorald</artifactId>
+    </plugin>
   </plugins>
 </metadata>

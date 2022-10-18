@@ -3,8 +3,8 @@
   <groupId>com.onnuridmc.exelbid</groupId>
   <artifactId>exelbid</artifactId>
   <versioning>
-    <latest>1.8.3.b</latest>
-    <release>1.8.3.b</release>
+    <latest>1.8.3.z</latest>
+    <release>1.8.3.z</release>
     <versions>
       <version>0.1.4</version>
       <version>1.0.0</version>
@@ -63,7 +63,10 @@
       <version>1.8.2</version>
       <version>1.8.3</version>
       <version>1.8.3.b</version>
+      <version>1.8.3.x</version>
+      <version>1.8.3.y</version>
+      <version>1.8.3.z</version>
     </versions>
-    <lastUpdated>20221011061301</lastUpdated>
+    <lastUpdated>20221017014717</lastUpdated>
   </versioning>
 </metadata>
