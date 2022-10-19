@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-alpn-conscrypt-client</artifactId>
   <versioning>
-    <latest>12.0.0.alpha1</latest>
-    <release>12.0.0.alpha1</release>
+    <latest>12.0.0.alpha2</latest>
+    <release>12.0.0.alpha2</release>
     <versions>
       <version>9.4.8.v20171121</version>
       <version>9.4.8.v20180619</version>
@@ -93,7 +93,8 @@
       <version>11.0.12</version>
       <version>12.0.0.alpha0</version>
       <version>12.0.0.alpha1</version>
+      <version>12.0.0.alpha2</version>
     </versions>
-    <lastUpdated>20220915173819</lastUpdated>
+    <lastUpdated>20221018071848</lastUpdated>
   </versioning>
 </metadata>

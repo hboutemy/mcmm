@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-awssqs-event-queue</artifactId>
   <versioning>
-    <latest>3.13.1</latest>
-    <release>3.13.1</release>
+    <latest>3.13.2</latest>
+    <release>3.13.2</release>
     <versions>
       <version>3.8.0</version>
       <version>3.8.1</version>
@@ -28,7 +28,8 @@
       <version>3.12.0</version>
       <version>3.13.0</version>
       <version>3.13.1</version>
+      <version>3.13.2</version>
     </versions>
-    <lastUpdated>20221017185528</lastUpdated>
+    <lastUpdated>20221018222630</lastUpdated>
   </versioning>
 </metadata>

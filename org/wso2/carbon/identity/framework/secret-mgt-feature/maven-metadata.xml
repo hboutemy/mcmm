@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>secret-mgt-feature</artifactId>
   <versioning>
-    <latest>5.25.11</latest>
-    <release>5.25.11</release>
+    <latest>5.25.14</latest>
+    <release>5.25.14</release>
     <versions>
       <version>5.20.152</version>
       <version>5.20.153</version>
@@ -289,7 +289,10 @@
       <version>5.25.9</version>
       <version>5.25.10</version>
       <version>5.25.11</version>
+      <version>5.25.12</version>
+      <version>5.25.13</version>
+      <version>5.25.14</version>
     </versions>
-    <lastUpdated>20221017073526</lastUpdated>
+    <lastUpdated>20221018173852</lastUpdated>
   </versioning>
 </metadata>
