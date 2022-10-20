@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-runtime-metrics</artifactId>
   <versioning>
-    <latest>1.19.0-alpha</latest>
-    <release>1.19.0-alpha</release>
+    <latest>1.19.1-alpha</latest>
+    <release>1.19.1-alpha</release>
     <versions>
       <version>0.17.0-alpha</version>
       <version>1.0.0-alpha</version>
@@ -43,7 +43,8 @@
       <version>1.17.0-alpha</version>
       <version>1.18.0-alpha</version>
       <version>1.19.0-alpha</version>
+      <version>1.19.1-alpha</version>
     </versions>
-    <lastUpdated>20221012235708</lastUpdated>
+    <lastUpdated>20221019231251</lastUpdated>
   </versioning>
 </metadata>

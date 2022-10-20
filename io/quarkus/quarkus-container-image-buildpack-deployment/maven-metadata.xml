@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image-buildpack-deployment</artifactId>
   <versioning>
-    <latest>2.13.2.Final</latest>
-    <release>2.13.2.Final</release>
+    <latest>2.13.3.Final</latest>
+    <release>2.13.3.Final</release>
     <versions>
       <version>2.7.0.CR1</version>
       <version>2.7.0.Final</version>
@@ -43,7 +43,8 @@
       <version>2.13.0.Final</version>
       <version>2.13.1.Final</version>
       <version>2.13.2.Final</version>
+      <version>2.13.3.Final</version>
     </versions>
-    <lastUpdated>20221012125600</lastUpdated>
+    <lastUpdated>20221019105706</lastUpdated>
   </versioning>
 </metadata>

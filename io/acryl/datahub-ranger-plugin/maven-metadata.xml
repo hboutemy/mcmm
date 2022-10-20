@@ -3,8 +3,8 @@
   <groupId>io.acryl</groupId>
   <artifactId>datahub-ranger-plugin</artifactId>
   <versioning>
-    <latest>0.9.0-2rc0</latest>
-    <release>0.9.0-2rc0</release>
+    <latest>0.9.0-2rc3</latest>
+    <release>0.9.0-2rc3</release>
     <versions>
       <version>0.8.44-4rc1</version>
       <version>0.8.44-4</version>
@@ -37,7 +37,10 @@
       <version>0.9.0rc3</version>
       <version>0.9.0</version>
       <version>0.9.0-2rc0</version>
+      <version>0.9.0-2rc1</version>
+      <version>0.9.0-2rc2</version>
+      <version>0.9.0-2rc3</version>
     </versions>
-    <lastUpdated>20221018130027</lastUpdated>
+    <lastUpdated>20221019211506</lastUpdated>
   </versioning>
 </metadata>

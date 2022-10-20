@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-spring-boot-autoconfigure</artifactId>
   <versioning>
-    <latest>6.1.2</latest>
-    <release>6.1.2</release>
+    <latest>6.1.3</latest>
+    <release>6.1.3</release>
     <versions>
       <version>3.1.0</version>
       <version>3.2.0</version>
@@ -61,7 +61,8 @@
       <version>6.1.0</version>
       <version>6.1.1</version>
       <version>6.1.2</version>
+      <version>6.1.3</version>
     </versions>
-    <lastUpdated>20221005170615</lastUpdated>
+    <lastUpdated>20221019164241</lastUpdated>
   </versioning>
 </metadata>
