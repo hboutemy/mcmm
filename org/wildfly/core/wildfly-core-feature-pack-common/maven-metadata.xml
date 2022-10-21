@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-feature-pack-common</artifactId>
   <versioning>
-    <latest>19.0.0.Beta18</latest>
-    <release>19.0.0.Beta18</release>
+    <latest>19.0.0.Final</latest>
+    <release>19.0.0.Final</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Beta2</version>
@@ -75,7 +75,8 @@
       <version>19.0.0.Beta15</version>
       <version>19.0.0.Beta17</version>
       <version>19.0.0.Beta18</version>
+      <version>19.0.0.Final</version>
     </versions>
-    <lastUpdated>20220919222119</lastUpdated>
+    <lastUpdated>20221019154324</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.openliberty.tools</groupId>
   <artifactId>liberty-plugin-archetype</artifactId>
   <versioning>
-    <latest>3.7</latest>
-    <release>3.7</release>
+    <latest>3.7.1</latest>
+    <release>3.7.1</release>
     <versions>
       <version>3.0</version>
       <version>3.0.1</version>
@@ -32,7 +32,8 @@
       <version>3.6</version>
       <version>3.6.1</version>
       <version>3.7</version>
+      <version>3.7.1</version>
     </versions>
-    <lastUpdated>20220920203841</lastUpdated>
+    <lastUpdated>20221020185953</lastUpdated>
   </versioning>
 </metadata>

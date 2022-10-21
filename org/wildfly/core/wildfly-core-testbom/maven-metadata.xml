@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-testbom</artifactId>
   <versioning>
-    <latest>19.0.0.Beta18</latest>
-    <release>19.0.0.Beta18</release>
+    <latest>19.0.0.Final</latest>
+    <release>19.0.0.Final</release>
     <versions>
       <version>16.0.0.Beta4</version>
       <version>16.0.0.Beta5</version>
@@ -51,7 +51,8 @@
       <version>19.0.0.Beta15</version>
       <version>19.0.0.Beta17</version>
       <version>19.0.0.Beta18</version>
+      <version>19.0.0.Final</version>
     </versions>
-    <lastUpdated>20220919222121</lastUpdated>
+    <lastUpdated>20221019154326</lastUpdated>
   </versioning>
 </metadata>

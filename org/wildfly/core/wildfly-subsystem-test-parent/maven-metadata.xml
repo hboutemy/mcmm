@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-subsystem-test-parent</artifactId>
   <versioning>
-    <latest>19.0.0.Beta18</latest>
-    <release>19.0.0.Beta18</release>
+    <latest>19.0.0.Final</latest>
+    <release>19.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -334,7 +334,8 @@
       <version>19.0.0.Beta15</version>
       <version>19.0.0.Beta17</version>
       <version>19.0.0.Beta18</version>
+      <version>19.0.0.Final</version>
     </versions>
-    <lastUpdated>20220919222128</lastUpdated>
+    <lastUpdated>20221019154334</lastUpdated>
   </versioning>
 </metadata>

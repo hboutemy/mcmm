@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-cassandra</artifactId>
   <versioning>
-    <latest>2.2.9</latest>
-    <release>2.2.9</release>
+    <latest>2.2.10</latest>
+    <release>2.2.10</release>
     <versions>
       <version>1.77</version>
       <version>1.78</version>
@@ -52,7 +52,8 @@
       <version>2.2.7</version>
       <version>2.2.8</version>
       <version>2.2.9</version>
+      <version>2.2.10</version>
     </versions>
-    <lastUpdated>20220927133931</lastUpdated>
+    <lastUpdated>20221020112417</lastUpdated>
   </versioning>
 </metadata>
