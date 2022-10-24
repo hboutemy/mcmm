@@ -3,8 +3,8 @@
   <groupId>org.apache.karaf.maven</groupId>
   <artifactId>maven-parent</artifactId>
   <versioning>
-    <latest>4.4.1</latest>
-    <release>4.4.1</release>
+    <latest>4.4.2</latest>
+    <release>4.4.2</release>
     <versions>
       <version>4.2.0.M1</version>
       <version>4.2.0.M2</version>
@@ -34,9 +34,11 @@
       <version>4.3.5</version>
       <version>4.3.6</version>
       <version>4.3.7</version>
+      <version>4.3.8</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
+      <version>4.4.2</version>
     </versions>
-    <lastUpdated>20220714043630</lastUpdated>
+    <lastUpdated>20221023095018</lastUpdated>
   </versioning>
 </metadata>

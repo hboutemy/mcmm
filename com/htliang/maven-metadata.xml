@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Mybatis plus codegen plugin</name>
+      <prefix>mybatis-plus-codegen</prefix>
+      <artifactId>mybatis-plus-codegen-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
