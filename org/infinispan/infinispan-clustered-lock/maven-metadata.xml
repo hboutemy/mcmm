@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-clustered-lock</artifactId>
   <versioning>
-    <latest>14.0.1.Final</latest>
-    <release>14.0.1.Final</release>
+    <latest>14.0.2.Final</latest>
+    <release>14.0.2.Final</release>
     <versions>
       <version>9.2.0.Beta1</version>
       <version>9.2.0.Beta2</version>
@@ -160,8 +160,9 @@
       <version>14.0.0.Dev03</version>
       <version>14.0.0.Dev04</version>
       <version>14.0.1.Final</version>
+      <version>14.0.2.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20221017163703</lastUpdated>
+    <lastUpdated>20221024122114</lastUpdated>
   </versioning>
 </metadata>

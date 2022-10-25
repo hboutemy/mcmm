@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>ball-dependency</prefix>
+      <artifactId>ball-dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>ball-javadoc</prefix>
+      <artifactId>ball-javadoc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>ball-license</prefix>
+      <artifactId>ball-license-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
