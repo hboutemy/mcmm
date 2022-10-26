@@ -2,7 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>BPMN Driven Testing Maven Plugin</name>
       <prefix>bpmn-driven-testing</prefix>
       <artifactId>bpmn-driven-testing-maven-plugin</artifactId>
     </plugin>
