@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-table</artifactId>
   <versioning>
-    <latest>7.8.0-pre.413</latest>
-    <release>7.8.0-pre.413</release>
+    <latest>7.8.0-pre.414-compat</latest>
+    <release>7.8.0-pre.414-compat</release>
     <versions>
       <version>7.7.0-pre.202-kotlin-1.5.0</version>
       <version>7.7.0-pre.203-kotlin-1.5.0</version>
@@ -237,7 +237,9 @@
       <version>7.8.0-pre.411</version>
       <version>7.8.0-pre.412</version>
       <version>7.8.0-pre.413</version>
+      <version>7.8.0-pre.414</version>
+      <version>7.8.0-pre.414-compat</version>
     </versions>
-    <lastUpdated>20221023075612</lastUpdated>
+    <lastUpdated>20221026090655</lastUpdated>
   </versioning>
 </metadata>

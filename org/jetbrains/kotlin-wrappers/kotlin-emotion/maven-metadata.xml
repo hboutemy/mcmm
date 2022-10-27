@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-emotion</artifactId>
   <versioning>
-    <latest>11.10.4-pre.413</latest>
-    <release>11.10.4-pre.413</release>
+    <latest>11.10.4-pre.414-compat</latest>
+    <release>11.10.4-pre.414-compat</release>
     <versions>
       <version>11.0.0-pre.248-kotlin-1.5.31</version>
       <version>11.0.0-pre.249-kotlin-1.5.31</version>
@@ -187,7 +187,9 @@
       <version>11.10.4-pre.411</version>
       <version>11.10.4-pre.412</version>
       <version>11.10.4-pre.413</version>
+      <version>11.10.4-pre.414</version>
+      <version>11.10.4-pre.414-compat</version>
     </versions>
-    <lastUpdated>20221023075506</lastUpdated>
+    <lastUpdated>20221026090538</lastUpdated>
   </versioning>
 </metadata>

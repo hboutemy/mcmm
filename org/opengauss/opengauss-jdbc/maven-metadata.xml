@@ -3,13 +3,14 @@
   <groupId>org.opengauss</groupId>
   <artifactId>opengauss-jdbc</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.0-og</latest>
+    <release>3.1.0-og</release>
     <versions>
       <version>2.0.1-compatibility</version>
       <version>3.0.0</version>
       <version>3.1.0</version>
+      <version>3.1.0-og</version>
     </versions>
-    <lastUpdated>20220930071907</lastUpdated>
+    <lastUpdated>20221026134601</lastUpdated>
   </versioning>
 </metadata>

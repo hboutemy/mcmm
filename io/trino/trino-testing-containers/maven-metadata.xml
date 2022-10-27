@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-testing-containers</artifactId>
   <versioning>
-    <latest>400</latest>
-    <release>400</release>
+    <latest>401</latest>
+    <release>401</release>
     <versions>
       <version>370</version>
       <version>371</version>
@@ -37,7 +37,8 @@
       <version>398</version>
       <version>399</version>
       <version>400</version>
+      <version>401</version>
     </versions>
-    <lastUpdated>20221013223220</lastUpdated>
+    <lastUpdated>20221026233320</lastUpdated>
   </versioning>
 </metadata>

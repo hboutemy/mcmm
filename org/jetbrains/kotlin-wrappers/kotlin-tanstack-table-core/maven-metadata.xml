@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-table-core</artifactId>
   <versioning>
-    <latest>8.5.15-pre.413</latest>
-    <release>8.5.15-pre.413</release>
+    <latest>8.5.15-pre.414-compat</latest>
+    <release>8.5.15-pre.414-compat</release>
     <versions>
       <version>8.3.3-pre.360</version>
       <version>8.4.0-pre.361</version>
@@ -67,7 +67,9 @@
       <version>8.5.15-pre.411</version>
       <version>8.5.15-pre.412</version>
       <version>8.5.15-pre.413</version>
+      <version>8.5.15-pre.414</version>
+      <version>8.5.15-pre.414-compat</version>
     </versions>
-    <lastUpdated>20221023075649</lastUpdated>
+    <lastUpdated>20221026090737</lastUpdated>
   </versioning>
 </metadata>

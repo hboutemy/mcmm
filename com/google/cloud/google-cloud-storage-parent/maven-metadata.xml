@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-storage-parent</artifactId>
   <versioning>
-    <latest>2.13.1</latest>
-    <release>2.13.1</release>
+    <latest>2.14.0</latest>
+    <release>2.14.0</release>
     <versions>
       <version>1.103.0</version>
       <version>1.103.1</version>
@@ -95,10 +95,11 @@
       <version>2.12.0</version>
       <version>2.13.0</version>
       <version>2.13.1</version>
+      <version>2.14.0</version>
       <version>1.106.1</version>
       <version>1.111.3</version>
       <version>1.113.11</version>
     </versions>
-    <lastUpdated>20221020225950</lastUpdated>
+    <lastUpdated>20221026211241</lastUpdated>
   </versioning>
 </metadata>
