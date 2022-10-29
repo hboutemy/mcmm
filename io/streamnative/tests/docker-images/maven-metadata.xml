@@ -3,8 +3,8 @@
   <groupId>io.streamnative.tests</groupId>
   <artifactId>docker-images</artifactId>
   <versioning>
-    <latest>4.14.5.1-arrowstreet</latest>
-    <release>4.14.5.1-arrowstreet</release>
+    <latest>4.14.5.1-iterable</latest>
+    <release>4.14.5.1-iterable</release>
     <versions>
       <version>v2.8.0-rc-202106091140</version>
       <version>v2.8.0-rc-202106121853</version>
@@ -549,7 +549,8 @@
       <version>2.11.0-rc-202205082205</version>
       <version>4.14.3.1</version>
       <version>4.14.5.1-arrowstreet</version>
+      <version>4.14.5.1-iterable</version>
     </versions>
-    <lastUpdated>20221026164129</lastUpdated>
+    <lastUpdated>20221028141242</lastUpdated>
   </versioning>
 </metadata>

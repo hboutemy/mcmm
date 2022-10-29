@@ -3,8 +3,8 @@
   <groupId>com.thesamet.scalapb</groupId>
   <artifactId>compilerplugin_2.13</artifactId>
   <versioning>
-    <latest>0.11.11</latest>
-    <release>0.11.11</release>
+    <latest>0.11.12-tmp</latest>
+    <release>0.11.12-tmp</release>
     <versions>
       <version>0.9.0-M7</version>
       <version>0.9.0</version>
@@ -70,7 +70,9 @@
       <version>0.11.9</version>
       <version>0.11.10</version>
       <version>0.11.11</version>
+      <version>0.11.12</version>
+      <version>0.11.12-tmp</version>
     </versions>
-    <lastUpdated>20220525153050</lastUpdated>
+    <lastUpdated>20221028232052</lastUpdated>
   </versioning>
 </metadata>
