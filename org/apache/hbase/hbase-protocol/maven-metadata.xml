@@ -3,8 +3,8 @@
   <groupId>org.apache.hbase</groupId>
   <artifactId>hbase-protocol</artifactId>
   <versioning>
-    <latest>2.5.0</latest>
-    <release>2.5.0</release>
+    <latest>2.5.1</latest>
+    <release>2.5.1</release>
     <versions>
       <version>0.95.0</version>
       <version>0.95.1-hadoop1</version>
@@ -196,8 +196,10 @@
       <version>2.4.12</version>
       <version>2.4.13</version>
       <version>2.4.14</version>
+      <version>2.4.15</version>
       <version>2.5.0</version>
+      <version>2.5.1</version>
     </versions>
-    <lastUpdated>20220831124403</lastUpdated>
+    <lastUpdated>20221029000431</lastUpdated>
   </versioning>
 </metadata>
