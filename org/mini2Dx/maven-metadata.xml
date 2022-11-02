@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>artemis-fluid</prefix>
+      <artifactId>artemis-fluid-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>artemis-odb-maven-plugin</name>
+      <prefix>artemis-odb</prefix>
+      <artifactId>artemis-odb-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
