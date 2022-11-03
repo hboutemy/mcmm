@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-bom</artifactId>
   <versioning>
-    <latest>8.4.0-rc3</latest>
-    <release>8.4.0-rc3</release>
+    <latest>8.4.0</latest>
+    <release>8.4.0</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -392,7 +392,8 @@
       <version>8.4.0-rc1</version>
       <version>8.4.0-rc2</version>
       <version>8.4.0-rc3</version>
+      <version>8.4.0</version>
     </versions>
-    <lastUpdated>20221031170700</lastUpdated>
+    <lastUpdated>20221102104733</lastUpdated>
   </versioning>
 </metadata>

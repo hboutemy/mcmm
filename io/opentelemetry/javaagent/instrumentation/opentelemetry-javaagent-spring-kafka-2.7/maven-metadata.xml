@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-spring-kafka-2.7</artifactId>
   <versioning>
-    <latest>1.19.1-alpha</latest>
-    <release>1.19.1-alpha</release>
+    <latest>1.19.2-alpha</latest>
+    <release>1.19.2-alpha</release>
     <versions>
       <version>1.6.0-alpha</version>
       <version>1.6.1-alpha</version>
@@ -31,7 +31,8 @@
       <version>1.18.0-alpha</version>
       <version>1.19.0-alpha</version>
       <version>1.19.1-alpha</version>
+      <version>1.19.2-alpha</version>
     </versions>
-    <lastUpdated>20221019231339</lastUpdated>
+    <lastUpdated>20221102025128</lastUpdated>
   </versioning>
 </metadata>
