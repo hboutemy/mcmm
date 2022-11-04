@@ -3,8 +3,8 @@
   <groupId>fish.payara.distributions</groupId>
   <artifactId>payara-web</artifactId>
   <versioning>
-    <latest>6.2022.1.Alpha4</latest>
-    <release>6.2022.1.Alpha4</release>
+    <latest>6.2022.1</latest>
+    <release>6.2022.1</release>
     <versions>
       <version>4.1.1.161</version>
       <version>4.1.1.161.1</version>
@@ -52,11 +52,13 @@
       <version>5.2022.1</version>
       <version>5.2022.2</version>
       <version>5.2022.3</version>
+      <version>5.2022.4</version>
       <version>6.2021.1.Alpha1</version>
       <version>6.2022.1.Alpha2</version>
       <version>6.2022.1.Alpha3</version>
       <version>6.2022.1.Alpha4</version>
+      <version>6.2022.1</version>
     </versions>
-    <lastUpdated>20220916155726</lastUpdated>
+    <lastUpdated>20221103144911</lastUpdated>
   </versioning>
 </metadata>

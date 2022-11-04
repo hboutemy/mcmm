@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>distributeme-maven-plugin</name>
+      <prefix>distributeme</prefix>
+      <artifactId>distributeme-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>AnoDoc Generator for Maven</name>
       <prefix>ano-doc</prefix>
       <artifactId>maven-ano-doc-plugin</artifactId>

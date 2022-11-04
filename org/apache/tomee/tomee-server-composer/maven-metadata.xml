@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee</groupId>
   <artifactId>tomee-server-composer</artifactId>
   <versioning>
-    <latest>9.0.0-M8</latest>
-    <release>9.0.0-M8</release>
+    <latest>9.0.0.RC1</latest>
+    <release>9.0.0.RC1</release>
     <versions>
       <version>8.0.0-M3</version>
       <version>8.0.0</version>
@@ -22,7 +22,8 @@
       <version>8.0.12</version>
       <version>8.0.13</version>
       <version>9.0.0-M8</version>
+      <version>9.0.0.RC1</version>
     </versions>
-    <lastUpdated>20221024091101</lastUpdated>
+    <lastUpdated>20221103101841</lastUpdated>
   </versioning>
 </metadata>

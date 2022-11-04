@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee.bom</groupId>
   <artifactId>tomee-webprofile</artifactId>
   <versioning>
-    <latest>9.0.0-M8</latest>
-    <release>9.0.0-M8</release>
+    <latest>9.0.0.RC1</latest>
+    <release>9.0.0.RC1</release>
     <versions>
       <version>8.0.5</version>
       <version>8.0.6</version>
@@ -16,7 +16,8 @@
       <version>8.0.12</version>
       <version>8.0.13</version>
       <version>9.0.0-M8</version>
+      <version>9.0.0.RC1</version>
     </versions>
-    <lastUpdated>20221024090946</lastUpdated>
+    <lastUpdated>20221103101740</lastUpdated>
   </versioning>
 </metadata>

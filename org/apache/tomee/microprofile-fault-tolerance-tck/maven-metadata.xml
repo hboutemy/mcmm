@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee</groupId>
   <artifactId>microprofile-fault-tolerance-tck</artifactId>
   <versioning>
-    <latest>8.0.13</latest>
-    <release>8.0.13</release>
+    <latest>9.0.0.RC1</latest>
+    <release>9.0.0.RC1</release>
     <versions>
       <version>7.1.0</version>
       <version>7.1.1</version>
@@ -28,7 +28,8 @@
       <version>8.0.11</version>
       <version>8.0.12</version>
       <version>8.0.13</version>
+      <version>9.0.0.RC1</version>
     </versions>
-    <lastUpdated>20221024091003</lastUpdated>
+    <lastUpdated>20221103101751</lastUpdated>
   </versioning>
 </metadata>
