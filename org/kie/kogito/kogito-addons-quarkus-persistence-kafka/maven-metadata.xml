@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-persistence-kafka</artifactId>
   <versioning>
-    <latest>1.29.0.Final</latest>
-    <release>1.29.0.Final</release>
+    <latest>1.30.0.Final</latest>
+    <release>1.30.0.Final</release>
     <versions>
       <version>1.8.0.Final</version>
       <version>1.9.0.Final</version>
@@ -34,7 +34,8 @@
       <version>1.27.0.Final</version>
       <version>1.28.0.Final</version>
       <version>1.29.0.Final</version>
+      <version>1.30.0.Final</version>
     </versions>
-    <lastUpdated>20221013141439</lastUpdated>
+    <lastUpdated>20221104113715</lastUpdated>
   </versioning>
 </metadata>
