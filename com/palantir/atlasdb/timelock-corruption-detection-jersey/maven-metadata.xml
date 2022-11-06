@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-corruption-detection-jersey</artifactId>
   <versioning>
-    <latest>0.751.0</latest>
-    <release>0.751.0</release>
+    <latest>0.752.0</latest>
+    <release>0.752.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -521,7 +521,8 @@
       <version>0.749.0</version>
       <version>0.750.0</version>
       <version>0.751.0</version>
+      <version>0.752.0</version>
     </versions>
-    <lastUpdated>20221104142441</lastUpdated>
+    <lastUpdated>20221105145515</lastUpdated>
   </versioning>
 </metadata>
