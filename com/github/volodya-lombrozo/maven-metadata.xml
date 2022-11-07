@@ -11,5 +11,10 @@
       <prefix>hg-revision</prefix>
       <artifactId>hg-revision-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>test-naming-conventions</name>
+      <prefix>test-naming-conventions</prefix>
+      <artifactId>test-naming-conventions</artifactId>
+    </plugin>
   </plugins>
 </metadata>

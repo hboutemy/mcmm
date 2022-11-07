@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-dataformat-deployment</artifactId>
   <versioning>
-    <latest>2.13.0</latest>
-    <release>2.13.0</release>
+    <latest>2.13.1</latest>
+    <release>2.13.1</release>
     <versions>
       <version>0.4.0</version>
       <version>1.0.0-M1</version>
@@ -47,7 +47,8 @@
       <version>2.11.0</version>
       <version>2.12.0</version>
       <version>2.13.0</version>
+      <version>2.13.1</version>
     </versions>
-    <lastUpdated>20220926090240</lastUpdated>
+    <lastUpdated>20221106195152</lastUpdated>
   </versioning>
 </metadata>

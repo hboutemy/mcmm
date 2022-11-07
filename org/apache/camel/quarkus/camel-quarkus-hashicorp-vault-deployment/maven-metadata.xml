@@ -3,13 +3,14 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-hashicorp-vault-deployment</artifactId>
   <versioning>
-    <latest>2.13.0</latest>
-    <release>2.13.0</release>
+    <latest>2.13.1</latest>
+    <release>2.13.1</release>
     <versions>
       <version>2.11.0</version>
       <version>2.12.0</version>
       <version>2.13.0</version>
+      <version>2.13.1</version>
     </versions>
-    <lastUpdated>20220926090356</lastUpdated>
+    <lastUpdated>20221106195242</lastUpdated>
   </versioning>
 </metadata>
