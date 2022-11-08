@@ -292,6 +292,11 @@
       <artifactId>maven-plugin-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Plugin Report Plugin</name>
+      <prefix>report</prefix>
+      <artifactId>maven-plugin-report-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven PMD Plugin</name>
       <prefix>pmd</prefix>
       <artifactId>maven-pmd-plugin</artifactId>

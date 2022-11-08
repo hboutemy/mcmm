@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-bom</artifactId>
   <versioning>
-    <latest>7.18.0</latest>
-    <release>7.18.0</release>
+    <latest>7.19.0-alpha1</latest>
+    <release>7.19.0-alpha1</release>
     <versions>
       <version>7.1.0-alpha4</version>
       <version>7.1.0-Final</version>
@@ -109,7 +109,8 @@
       <version>7.18.0-alpha5</version>
       <version>7.18.0-alpha6</version>
       <version>7.18.0</version>
+      <version>7.19.0-alpha1</version>
     </versions>
-    <lastUpdated>20221007092856</lastUpdated>
+    <lastUpdated>20221107141817</lastUpdated>
   </versioning>
 </metadata>

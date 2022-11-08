@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-support-xstream-parent</artifactId>
   <versioning>
-    <latest>2.13.1</latest>
-    <release>2.13.1</release>
+    <latest>2.14.0</latest>
+    <release>2.14.0</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -50,7 +50,8 @@
       <version>2.12.0</version>
       <version>2.13.0</version>
       <version>2.13.1</version>
+      <version>2.14.0</version>
     </versions>
-    <lastUpdated>20221106195800</lastUpdated>
+    <lastUpdated>20221107121817</lastUpdated>
   </versioning>
 </metadata>

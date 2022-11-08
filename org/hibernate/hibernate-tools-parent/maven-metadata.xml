@@ -3,9 +3,19 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-tools-parent</artifactId>
   <versioning>
-    <latest>5.6.2.Final</latest>
-    <release>5.6.2.Final</release>
+    <latest>5.6.12.Final</latest>
+    <release>5.6.12.Final</release>
     <versions>
+      <version>5.6.3.Final</version>
+      <version>5.6.4.Final</version>
+      <version>5.6.5.Final</version>
+      <version>5.6.6.Final</version>
+      <version>5.6.7.Final</version>
+      <version>5.6.8.Final</version>
+      <version>5.6.9.Final</version>
+      <version>5.6.10.Final</version>
+      <version>5.6.11.Final</version>
+      <version>5.6.12.Final</version>
       <version>5.3.0.Beta1</version>
       <version>5.3.0.Beta2</version>
       <version>5.3.0.Beta3</version>
@@ -13,14 +23,6 @@
       <version>5.3.0.CR2</version>
       <version>5.3.0.Final</version>
       <version>5.3.1.Final</version>
-      <version>5.3.2.Final</version>
-      <version>5.3.3.Final</version>
-      <version>5.3.4.Final</version>
-      <version>5.3.5.Final</version>
-      <version>5.3.6.Final</version>
-      <version>5.3.7.Final</version>
-      <version>5.3.8.Final</version>
-      <version>5.3.9.Final</version>
       <version>5.3.10.Final</version>
       <version>5.3.11.Final</version>
       <version>5.3.12.Final</version>
@@ -31,24 +33,24 @@
       <version>5.3.17.Final</version>
       <version>5.3.18.Final</version>
       <version>5.3.19.Final</version>
+      <version>5.3.2.Final</version>
       <version>5.3.20.Final</version>
       <version>5.3.21.Final</version>
       <version>5.3.22.Final</version>
       <version>5.3.23.Final</version>
       <version>5.3.24.Final</version>
       <version>5.3.25.Final</version>
+      <version>5.3.3.Final</version>
+      <version>5.3.4.Final</version>
+      <version>5.3.5.Final</version>
+      <version>5.3.6.Final</version>
+      <version>5.3.7.Final</version>
+      <version>5.3.8.Final</version>
+      <version>5.3.9.Final</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.CR2</version>
       <version>5.4.0.Final</version>
       <version>5.4.1.Final</version>
-      <version>5.4.2.Final</version>
-      <version>5.4.3.Final</version>
-      <version>5.4.4.Final</version>
-      <version>5.4.5.Final</version>
-      <version>5.4.6.Final</version>
-      <version>5.4.7.Final</version>
-      <version>5.4.8.Final</version>
-      <version>5.4.9.Final</version>
       <version>5.4.10.Final</version>
       <version>5.4.11.Final</version>
       <version>5.4.12.Final</version>
@@ -59,6 +61,7 @@
       <version>5.4.17.Final</version>
       <version>5.4.18.Final</version>
       <version>5.4.19.Final</version>
+      <version>5.4.2.Final</version>
       <version>5.4.20.Final</version>
       <version>5.4.21.Final</version>
       <version>5.4.22.Final</version>
@@ -70,10 +73,17 @@
       <version>5.4.28.Final</version>
       <version>5.4.29.Final</version>
       <version>5.4.29a.Final</version>
+      <version>5.4.3.Final</version>
       <version>5.4.30.Final</version>
       <version>5.4.31.Final</version>
       <version>5.4.32.Final</version>
       <version>5.4.33.Final</version>
+      <version>5.4.4.Final</version>
+      <version>5.4.5.Final</version>
+      <version>5.4.6.Final</version>
+      <version>5.4.7.Final</version>
+      <version>5.4.8.Final</version>
+      <version>5.4.9.Final</version>
       <version>5.5.0.Alpha1</version>
       <version>5.5.0.Beta1</version>
       <version>5.5.0.CR1</version>
@@ -93,6 +103,6 @@
       <version>5.6.1.Final</version>
       <version>5.6.2.Final</version>
     </versions>
-    <lastUpdated>20220110095239</lastUpdated>
+    <lastUpdated>20221107192501</lastUpdated>
   </versioning>
 </metadata>
