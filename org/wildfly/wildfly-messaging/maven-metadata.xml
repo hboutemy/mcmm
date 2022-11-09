@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-messaging</artifactId>
   <versioning>
-    <latest>27.0.0.Beta1</latest>
-    <release>27.0.0.Beta1</release>
+    <latest>27.0.0.Final</latest>
+    <release>27.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -105,7 +105,8 @@
       <version>27.0.0.Alpha4</version>
       <version>27.0.0.Alpha5</version>
       <version>27.0.0.Beta1</version>
+      <version>27.0.0.Final</version>
     </versions>
-    <lastUpdated>20220928185423</lastUpdated>
+    <lastUpdated>20221108224811</lastUpdated>
   </versioning>
 </metadata>

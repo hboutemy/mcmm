@@ -6,5 +6,10 @@
       <prefix>daemon-springboot-windows</prefix>
       <artifactId>daemon-springboot-windows</artifactId>
     </plugin>
+    <plugin>
+      <name>winsm-maven-plugin</name>
+      <prefix>winsm</prefix>
+      <artifactId>winsm-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>cn.hippo4j</groupId>
   <artifactId>hippo4j-spring-boot-starter-adapter-rabbitmq</artifactId>
   <versioning>
-    <latest>1.4.3</latest>
-    <release>1.4.3</release>
+    <latest>1.4.3-upgrade</latest>
+    <release>1.4.3-upgrade</release>
     <versions>
       <version>1.3.0.alpha</version>
       <version>1.3.0-beta</version>
@@ -19,7 +19,8 @@
       <version>1.4.2-alpha.2</version>
       <version>1.4.2</version>
       <version>1.4.3</version>
+      <version>1.4.3-upgrade</version>
     </versions>
-    <lastUpdated>20221106090039</lastUpdated>
+    <lastUpdated>20221108125123</lastUpdated>
   </versioning>
 </metadata>
