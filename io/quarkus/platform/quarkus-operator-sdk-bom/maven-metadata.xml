@@ -3,11 +3,12 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-operator-sdk-bom</artifactId>
   <versioning>
-    <latest>2.14.0.CR1</latest>
-    <release>2.14.0.CR1</release>
+    <latest>2.14.0.Final</latest>
+    <release>2.14.0.Final</release>
     <versions>
       <version>2.14.0.CR1</version>
+      <version>2.14.0.Final</version>
     </versions>
-    <lastUpdated>20221027142420</lastUpdated>
+    <lastUpdated>20221109120933</lastUpdated>
   </versioning>
 </metadata>

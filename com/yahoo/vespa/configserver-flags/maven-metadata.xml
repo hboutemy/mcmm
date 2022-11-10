@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>configserver-flags</artifactId>
   <versioning>
-    <latest>8.79.36</latest>
-    <release>8.79.36</release>
+    <latest>8.80.20</latest>
+    <release>8.80.20</release>
     <versions>
       <version>6.327.49</version>
       <version>6.328.65</version>
@@ -472,7 +472,8 @@
       <version>8.77.26</version>
       <version>8.78.45</version>
       <version>8.79.36</version>
+      <version>8.80.20</version>
     </versions>
-    <lastUpdated>20221108013634</lastUpdated>
+    <lastUpdated>20221109013000</lastUpdated>
   </versioning>
 </metadata>
