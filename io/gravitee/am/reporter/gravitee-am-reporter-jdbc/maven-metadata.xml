@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.reporter</groupId>
   <artifactId>gravitee-am-reporter-jdbc</artifactId>
   <versioning>
-    <latest>3.19.1</latest>
-    <release>3.19.1</release>
+    <latest>3.19.2</latest>
+    <release>3.19.2</release>
     <versions>
       <version>3.5.0</version>
       <version>3.5.1</version>
@@ -123,7 +123,8 @@
       <version>3.19.0-RC1</version>
       <version>3.19.0</version>
       <version>3.19.1</version>
+      <version>3.19.2</version>
     </versions>
-    <lastUpdated>20221104164225</lastUpdated>
+    <lastUpdated>20221110205957</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.r2dbc</groupId>
   <artifactId>r2dbc-h2</artifactId>
   <versioning>
-    <latest>1.0.0.RC1</latest>
-    <release>1.0.0.RC1</release>
+    <latest>1.0.0.RELEASE</latest>
+    <release>1.0.0.RELEASE</release>
     <versions>
       <version>0.8.0.RELEASE</version>
       <version>0.8.1.RELEASE</version>
@@ -16,7 +16,8 @@
       <version>0.9.0.RELEASE</version>
       <version>0.9.1.RELEASE</version>
       <version>1.0.0.RC1</version>
+      <version>1.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20220624200825</lastUpdated>
+    <lastUpdated>20221110153039</lastUpdated>
   </versioning>
 </metadata>
