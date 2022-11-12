@@ -3,8 +3,8 @@
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.headless.commerce.admin.account.api</artifactId>
   <versioning>
-    <latest>10.2.0</latest>
-    <release>14.0.1</release>
+    <latest>18.0.2</latest>
+    <release>17.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -41,9 +41,28 @@
       <version>8.0.0</version>
       <version>8.1.0</version>
       <version>8.2.0</version>
+      <version>8.2.1</version>
+      <version>8.3.0</version>
+      <version>8.3.1</version>
+      <version>8.3.2</version>
+      <version>8.4.0</version>
+      <version>8.5.0</version>
+      <version>8.6.0</version>
+      <version>8.6.1</version>
+      <version>8.6.2</version>
+      <version>8.7.0</version>
+      <version>8.7.1</version>
       <version>9.0.0</version>
       <version>9.1.0</version>
       <version>9.2.0</version>
+      <version>9.2.1</version>
+      <version>9.3.0</version>
+      <version>9.4.0</version>
+      <version>9.5.0</version>
+      <version>9.6.0</version>
+      <version>9.6.1</version>
+      <version>9.6.2</version>
+      <version>9.7.0</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
@@ -55,54 +74,36 @@
       <version>10.2.1</version>
       <version>10.3.0</version>
       <version>10.3.1</version>
-      <version>8.2.1</version>
-      <version>9.2.1</version>
+      <version>10.3.2</version>
+      <version>10.4.0</version>
+      <version>10.5.0</version>
+      <version>10.6.0</version>
+      <version>10.6.1</version>
+      <version>10.6.2</version>
+      <version>10.7.0</version>
+      <version>10.7.1</version>
+      <version>10.7.2</version>
       <version>11.0.0</version>
-      <version>8.3.0</version>
-      <version>8.3.1</version>
-      <version>9.3.0</version>
-      <version>8.3.2</version>
       <version>11.1.0</version>
       <version>11.1.1</version>
       <version>11.1.2</version>
       <version>11.1.3</version>
-      <version>10.3.2</version>
-      <version>9.4.0</version>
-      <version>10.4.0</version>
-      <version>8.4.0</version>
-      <version>9.5.0</version>
-      <version>8.5.0</version>
       <version>11.2.0</version>
       <version>11.3.0</version>
-      <version>10.5.0</version>
       <version>11.3.1</version>
-      <version>8.6.0</version>
-      <version>9.6.0</version>
-      <version>10.6.0</version>
       <version>11.3.2</version>
-      <version>8.6.1</version>
-      <version>9.6.1</version>
-      <version>10.6.1</version>
       <version>11.3.3</version>
-      <version>9.6.2</version>
-      <version>10.6.2</version>
-      <version>8.6.2</version>
       <version>11.4.0</version>
       <version>11.4.1</version>
       <version>11.5.0</version>
-      <version>9.7.0</version>
-      <version>10.7.0</version>
-      <version>10.7.1</version>
-      <version>10.7.2</version>
-      <version>8.7.0</version>
       <version>12.0.0</version>
-      <version>13.0.0</version>
-      <version>14.0.0</version>
-      <version>13.0.1</version>
-      <version>8.7.1</version>
       <version>12.0.1</version>
+      <version>13.0.0</version>
+      <version>13.0.1</version>
+      <version>14.0.0</version>
       <version>14.0.1</version>
+      <version>17.0.1</version>
     </versions>
-    <lastUpdated>20220519000004</lastUpdated>
+    <lastUpdated>20221103135637</lastUpdated>
   </versioning>
 </metadata>

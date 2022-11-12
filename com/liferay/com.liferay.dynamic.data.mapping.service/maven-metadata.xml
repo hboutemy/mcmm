@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.dynamic.data.mapping.service</artifactId>
   <versioning>
-    <latest>5.4.5</latest>
-    <release>7.0.19</release>
+    <latest>7.0.41</latest>
+    <release>7.0.45</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -177,6 +177,23 @@
       <version>2.9.2</version>
       <version>2.9.3</version>
       <version>2.9.4</version>
+      <version>2.9.6</version>
+      <version>2.9.7</version>
+      <version>2.9.8</version>
+      <version>2.9.9</version>
+      <version>2.9.10</version>
+      <version>2.9.11</version>
+      <version>2.9.12</version>
+      <version>2.9.13</version>
+      <version>2.9.14</version>
+      <version>2.9.15</version>
+      <version>2.9.16</version>
+      <version>2.9.17</version>
+      <version>2.9.18</version>
+      <version>2.9.19</version>
+      <version>2.9.20</version>
+      <version>2.9.21</version>
+      <version>2.9.22</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -291,6 +308,33 @@
       <version>3.0.111</version>
       <version>3.0.112</version>
       <version>3.0.113</version>
+      <version>3.0.114</version>
+      <version>3.0.115</version>
+      <version>3.0.116</version>
+      <version>3.0.117</version>
+      <version>3.0.118</version>
+      <version>3.0.119</version>
+      <version>3.0.120</version>
+      <version>3.0.121</version>
+      <version>3.0.122</version>
+      <version>3.0.123</version>
+      <version>3.0.124</version>
+      <version>3.0.125</version>
+      <version>3.0.126</version>
+      <version>3.0.127</version>
+      <version>3.0.128</version>
+      <version>3.0.129</version>
+      <version>3.0.130</version>
+      <version>3.0.131</version>
+      <version>3.0.132</version>
+      <version>3.0.133</version>
+      <version>3.0.134</version>
+      <version>3.0.135</version>
+      <version>3.0.136</version>
+      <version>3.0.137</version>
+      <version>3.0.138</version>
+      <version>3.0.139</version>
+      <version>3.0.140</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -376,6 +420,43 @@
       <version>4.1.8</version>
       <version>4.1.9</version>
       <version>4.1.10</version>
+      <version>4.1.11</version>
+      <version>4.1.12</version>
+      <version>4.1.13</version>
+      <version>4.1.14</version>
+      <version>4.1.15</version>
+      <version>4.1.16</version>
+      <version>4.1.18</version>
+      <version>4.1.19</version>
+      <version>4.2.0</version>
+      <version>4.2.1</version>
+      <version>4.2.2</version>
+      <version>4.2.3</version>
+      <version>4.2.4</version>
+      <version>4.2.5</version>
+      <version>4.2.6</version>
+      <version>4.2.7</version>
+      <version>4.2.8</version>
+      <version>4.2.9</version>
+      <version>4.2.10</version>
+      <version>4.2.11</version>
+      <version>4.2.12</version>
+      <version>4.2.13</version>
+      <version>4.2.14</version>
+      <version>4.2.15</version>
+      <version>4.2.16</version>
+      <version>4.2.17</version>
+      <version>4.2.18</version>
+      <version>4.2.19</version>
+      <version>4.2.20</version>
+      <version>4.2.21</version>
+      <version>4.2.22</version>
+      <version>4.2.23</version>
+      <version>4.2.24</version>
+      <version>4.2.25</version>
+      <version>4.2.26</version>
+      <version>4.2.27</version>
+      <version>4.2.28</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -430,73 +511,62 @@
       <version>5.4.3</version>
       <version>5.4.4</version>
       <version>5.4.5</version>
-      <version>3.0.114</version>
-      <version>4.1.11</version>
       <version>5.4.6</version>
-      <version>4.1.12</version>
-      <version>4.1.13</version>
-      <version>4.1.14</version>
       <version>5.4.7</version>
-      <version>3.0.115</version>
       <version>5.4.8</version>
-      <version>4.1.15</version>
       <version>5.4.9</version>
-      <version>4.1.16</version>
-      <version>3.0.116</version>
-      <version>4.1.18</version>
-      <version>3.0.117</version>
-      <version>2.9.6</version>
-      <version>4.1.19</version>
       <version>5.4.11</version>
-      <version>3.0.118</version>
       <version>5.4.12</version>
-      <version>4.2.0</version>
       <version>5.4.13</version>
-      <version>3.0.119</version>
       <version>5.4.14</version>
       <version>5.4.15</version>
-      <version>4.2.1</version>
       <version>5.4.16</version>
       <version>5.4.17</version>
-      <version>3.0.120</version>
-      <version>4.2.2</version>
-      <version>2.9.7</version>
-      <version>3.0.121</version>
       <version>5.4.18</version>
-      <version>4.2.3</version>
       <version>5.4.19</version>
+      <version>5.4.20</version>
+      <version>5.4.21</version>
+      <version>5.4.22</version>
+      <version>5.4.23</version>
+      <version>5.4.24</version>
+      <version>5.4.25</version>
+      <version>5.4.26</version>
+      <version>5.4.27</version>
+      <version>5.4.28</version>
+      <version>5.4.29</version>
+      <version>5.4.30</version>
+      <version>5.4.31</version>
+      <version>5.4.32</version>
+      <version>5.4.33</version>
+      <version>5.4.34</version>
+      <version>5.4.35</version>
+      <version>5.4.36</version>
+      <version>5.4.37</version>
+      <version>5.4.38</version>
+      <version>5.4.39</version>
+      <version>5.4.40</version>
+      <version>5.4.41</version>
+      <version>5.4.42</version>
+      <version>5.4.43</version>
+      <version>5.4.44</version>
+      <version>5.4.45</version>
+      <version>5.4.46</version>
+      <version>5.4.47</version>
+      <version>5.4.48</version>
+      <version>5.4.49</version>
+      <version>5.4.50</version>
+      <version>5.4.51</version>
+      <version>5.4.52</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
-      <version>4.2.4</version>
-      <version>5.4.20</version>
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
       <version>6.0.5</version>
       <version>6.0.6</version>
       <version>6.0.7</version>
-      <version>3.0.122</version>
       <version>6.0.8</version>
-      <version>2.9.8</version>
-      <version>4.2.5</version>
-      <version>3.0.123</version>
-      <version>4.2.6</version>
-      <version>5.4.21</version>
-      <version>5.4.22</version>
-      <version>4.2.7</version>
-      <version>3.0.124</version>
-      <version>5.4.23</version>
-      <version>4.2.8</version>
-      <version>2.9.9</version>
-      <version>5.4.24</version>
-      <version>5.4.25</version>
-      <version>3.0.125</version>
-      <version>5.4.26</version>
-      <version>5.4.27</version>
-      <version>2.9.10</version>
       <version>6.0.9</version>
-      <version>3.0.126</version>
-      <version>4.2.9</version>
       <version>6.0.10</version>
       <version>6.0.11</version>
       <version>6.0.12</version>
@@ -504,131 +574,65 @@
       <version>6.0.14</version>
       <version>6.0.15</version>
       <version>6.0.16</version>
-      <version>4.2.10</version>
-      <version>4.2.11</version>
-      <version>2.9.11</version>
-      <version>3.0.127</version>
-      <version>5.4.28</version>
-      <version>5.4.29</version>
-      <version>5.4.30</version>
       <version>6.0.17</version>
       <version>6.0.18</version>
-      <version>2.9.12</version>
-      <version>3.0.128</version>
-      <version>4.2.12</version>
       <version>6.0.19</version>
       <version>6.0.20</version>
       <version>6.0.21</version>
       <version>6.0.22</version>
       <version>6.0.23</version>
-      <version>3.0.129</version>
-      <version>4.2.13</version>
-      <version>3.0.130</version>
-      <version>2.9.13</version>
-      <version>5.4.31</version>
-      <version>4.2.14</version>
-      <version>5.4.32</version>
-      <version>3.0.131</version>
-      <version>4.2.15</version>
-      <version>3.0.132</version>
-      <version>2.9.14</version>
-      <version>4.2.16</version>
-      <version>3.0.133</version>
       <version>6.0.24</version>
       <version>6.0.25</version>
-      <version>4.2.17</version>
-      <version>2.9.15</version>
-      <version>5.4.33</version>
       <version>6.0.26</version>
       <version>6.0.27</version>
       <version>6.0.28</version>
       <version>6.0.29</version>
       <version>6.0.30</version>
-      <version>5.4.34</version>
       <version>6.0.31</version>
-      <version>4.2.18</version>
-      <version>5.4.35</version>
-      <version>4.2.19</version>
-      <version>2.9.16</version>
-      <version>3.0.134</version>
-      <version>4.2.20</version>
-      <version>5.4.36</version>
       <version>6.0.32</version>
       <version>6.0.33</version>
       <version>6.0.34</version>
-      <version>5.4.37</version>
       <version>6.0.35</version>
       <version>6.0.36</version>
       <version>6.0.37</version>
       <version>6.0.38</version>
-      <version>2.9.17</version>
-      <version>5.4.38</version>
       <version>6.0.39</version>
       <version>6.0.40</version>
-      <version>4.2.21</version>
-      <version>5.4.39</version>
       <version>6.0.41</version>
-      <version>3.0.135</version>
-      <version>5.4.40</version>
-      <version>3.0.136</version>
       <version>6.0.42</version>
-      <version>2.9.18</version>
-      <version>4.2.22</version>
-      <version>5.4.41</version>
       <version>6.0.43</version>
-      <version>2.9.19</version>
-      <version>2.9.20</version>
-      <version>2.9.21</version>
-      <version>4.2.23</version>
-      <version>5.4.42</version>
-      <version>3.0.137</version>
       <version>6.0.44</version>
       <version>6.0.45</version>
       <version>6.0.46</version>
-      <version>3.0.138</version>
       <version>6.0.47</version>
       <version>6.0.48</version>
       <version>6.0.49</version>
       <version>6.0.50</version>
       <version>7.0.0</version>
-      <version>5.4.43</version>
-      <version>5.4.44</version>
-      <version>5.4.45</version>
       <version>7.0.1</version>
-      <version>4.2.24</version>
       <version>7.0.2</version>
       <version>7.0.3</version>
-      <version>4.2.25</version>
-      <version>5.4.46</version>
       <version>7.0.4</version>
       <version>7.0.5</version>
       <version>7.0.6</version>
       <version>7.0.7</version>
-      <version>5.4.47</version>
-      <version>5.4.48</version>
       <version>7.0.8</version>
       <version>7.0.9</version>
       <version>7.0.10</version>
       <version>7.0.11</version>
-      <version>4.2.26</version>
       <version>7.0.12</version>
-      <version>5.4.49</version>
       <version>7.0.13</version>
-      <version>5.4.50</version>
       <version>7.0.14</version>
       <version>7.0.15</version>
-      <version>3.0.139</version>
-      <version>4.2.27</version>
       <version>7.0.16</version>
-      <version>5.4.51</version>
-      <version>2.9.22</version>
-      <version>3.0.140</version>
       <version>7.0.17</version>
       <version>7.0.18</version>
-      <version>5.4.52</version>
-      <version>4.2.28</version>
       <version>7.0.19</version>
+      <version>7.0.42</version>
+      <version>7.0.43</version>
+      <version>7.0.44</version>
+      <version>7.0.45</version>
     </versions>
-    <lastUpdated>20220615082408</lastUpdated>
+    <lastUpdated>20221111023027</lastUpdated>
   </versioning>
 </metadata>

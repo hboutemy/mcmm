@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.audit.api</artifactId>
   <versioning>
-    <latest>5.0.11</latest>
-    <release>2.1.24</release>
+    <latest>6.0.9</latest>
+    <release>7.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -30,6 +30,14 @@
       <version>2.1.12</version>
       <version>2.1.13</version>
       <version>2.1.14</version>
+      <version>2.1.15</version>
+      <version>2.1.16</version>
+      <version>2.1.19</version>
+      <version>2.1.20</version>
+      <version>2.1.21</version>
+      <version>2.1.22</version>
+      <version>2.1.23</version>
+      <version>2.1.24</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -42,6 +50,14 @@
       <version>3.0.9</version>
       <version>3.0.10</version>
       <version>3.0.11</version>
+      <version>3.0.12</version>
+      <version>3.0.13</version>
+      <version>3.0.14</version>
+      <version>3.0.15</version>
+      <version>3.0.16</version>
+      <version>3.0.17</version>
+      <version>3.0.18</version>
+      <version>3.0.19</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -57,6 +73,15 @@
       <version>4.0.12</version>
       <version>4.0.13</version>
       <version>4.0.14</version>
+      <version>4.0.15</version>
+      <version>4.0.16</version>
+      <version>4.0.18</version>
+      <version>4.0.19</version>
+      <version>4.0.20</version>
+      <version>4.0.21</version>
+      <version>4.0.22</version>
+      <version>4.0.23</version>
+      <version>4.0.24</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -69,53 +94,29 @@
       <version>5.0.9</version>
       <version>5.0.10</version>
       <version>5.0.11</version>
-      <version>2.1.15</version>
-      <version>3.0.12</version>
-      <version>4.0.15</version>
       <version>5.0.12</version>
-      <version>2.1.16</version>
-      <version>3.0.13</version>
-      <version>4.0.16</version>
       <version>5.0.13</version>
-      <version>4.0.18</version>
       <version>5.0.16</version>
-      <version>4.0.19</version>
-      <version>3.0.14</version>
       <version>5.0.17</version>
-      <version>2.1.19</version>
-      <version>2.1.20</version>
-      <version>6.0.0</version>
-      <version>6.0.1</version>
-      <version>3.0.15</version>
       <version>5.0.18</version>
-      <version>4.0.20</version>
-      <version>3.0.16</version>
-      <version>6.0.2</version>
-      <version>6.0.3</version>
-      <version>6.0.4</version>
-      <version>2.1.21</version>
-      <version>4.0.21</version>
-      <version>3.0.17</version>
-      <version>2.1.22</version>
-      <version>6.0.5</version>
       <version>5.0.19</version>
-      <version>6.0.6</version>
-      <version>6.0.7</version>
-      <version>6.0.8</version>
-      <version>2.1.23</version>
-      <version>4.0.22</version>
       <version>5.0.20</version>
-      <version>3.0.18</version>
       <version>5.0.21</version>
-      <version>6.0.9</version>
-      <version>4.0.23</version>
       <version>5.0.22</version>
       <version>5.0.23</version>
       <version>5.0.24</version>
-      <version>3.0.19</version>
-      <version>4.0.24</version>
-      <version>2.1.24</version>
+      <version>6.0.0</version>
+      <version>6.0.1</version>
+      <version>6.0.2</version>
+      <version>6.0.3</version>
+      <version>6.0.4</version>
+      <version>6.0.5</version>
+      <version>6.0.6</version>
+      <version>6.0.7</version>
+      <version>6.0.8</version>
+      <version>6.0.9</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20220529141524</lastUpdated>
+    <lastUpdated>20221028034534</lastUpdated>
   </versioning>
 </metadata>
