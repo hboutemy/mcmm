@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>model-maven-plugin Maven Mojo</name>
+      <prefix>model-generator</prefix>
+      <artifactId>model-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
