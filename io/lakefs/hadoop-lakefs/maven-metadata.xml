@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>io.lakefs</groupId>
   <artifactId>hadoop-lakefs</artifactId>
   <versioning>
-    <latest>0.58.1-new-key</latest>
-    <release>0.58.1-new-key</release>
+    <latest>0.1.9</latest>
+    <release>0.1.9</release>
     <versions>
       <version>0.1.0-RC.0</version>
       <version>0.1.0</version>
@@ -19,6 +19,6 @@
       <version>0.1.9</version>
       <version>0.58.1-new-key</version>
     </versions>
-    <lastUpdated>20221111142136</lastUpdated>
+    <lastUpdated>20221113154703</lastUpdated>
   </versioning>
 </metadata>

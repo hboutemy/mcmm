@@ -3,11 +3,13 @@
   <groupId>org.purang.net</groupId>
   <artifactId>asynch_2.13</artifactId>
   <versioning>
-    <latest>0.7.20</latest>
-    <release>0.7.20</release>
+    <latest>3.2.1-without-netty-cve</latest>
+    <release>3.2.1-without-netty-cve</release>
     <versions>
       <version>0.7.20</version>
+      <version>3.2.1</version>
+      <version>3.2.1-without-netty-cve</version>
     </versions>
-    <lastUpdated>20210209194516</lastUpdated>
+    <lastUpdated>20221113200859</lastUpdated>
   </versioning>
 </metadata>
