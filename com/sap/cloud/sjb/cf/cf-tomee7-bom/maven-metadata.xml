@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud.sjb.cf</groupId>
   <artifactId>cf-tomee7-bom</artifactId>
   <versioning>
-    <latest>1.60.0</latest>
-    <release>1.60.0</release>
+    <latest>1.63.0</latest>
+    <release>1.63.0</release>
     <versions>
       <version>1.27.2</version>
       <version>1.27.3</version>
@@ -45,7 +45,8 @@
       <version>1.58.0</version>
       <version>1.59.0</version>
       <version>1.60.0</version>
+      <version>1.63.0</version>
     </versions>
-    <lastUpdated>20220906122326</lastUpdated>
+    <lastUpdated>20221114134840</lastUpdated>
   </versioning>
 </metadata>

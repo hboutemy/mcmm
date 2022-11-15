@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.rts</groupId>
   <artifactId>lra-parent</artifactId>
   <versioning>
-    <latest>5.13.1.Alpha1</latest>
-    <release>5.13.1.Alpha1</release>
+    <latest>5.13.1.Final</latest>
+    <release>5.13.1.Final</release>
     <versions>
       <version>5.7.0.Final</version>
       <version>5.7.1.Final</version>
@@ -43,7 +43,8 @@
       <version>5.12.7.Final</version>
       <version>5.13.0.Final</version>
       <version>5.13.1.Alpha1</version>
+      <version>5.13.1.Final</version>
     </versions>
-    <lastUpdated>20220803193651</lastUpdated>
+    <lastUpdated>20221114160410</lastUpdated>
   </versioning>
 </metadata>

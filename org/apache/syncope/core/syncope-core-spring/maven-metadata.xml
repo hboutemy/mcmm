@@ -3,8 +3,8 @@
   <groupId>org.apache.syncope.core</groupId>
   <artifactId>syncope-core-spring</artifactId>
   <versioning>
-    <latest>3.0.0-M2</latest>
-    <release>3.0.0-M2</release>
+    <latest>3.0.0</latest>
+    <release>3.0.0</release>
     <versions>
       <version>2.0.0-M2</version>
       <version>2.0.0-M3</version>
@@ -43,7 +43,8 @@
       <version>3.0.0-M0</version>
       <version>3.0.0-M1</version>
       <version>3.0.0-M2</version>
+      <version>3.0.0</version>
     </versions>
-    <lastUpdated>20221031061806</lastUpdated>
+    <lastUpdated>20221114095047</lastUpdated>
   </versioning>
 </metadata>

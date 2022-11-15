@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.keymanager.feature</artifactId>
   <versioning>
-    <latest>9.27.0</latest>
-    <release>9.27.0</release>
+    <latest>9.27.1</latest>
+    <release>9.27.1</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -2210,6 +2210,7 @@
       <version>9.2.65</version>
       <version>9.2.66</version>
       <version>9.2.67</version>
+      <version>9.2.68</version>
       <version>9.3.0</version>
       <version>9.4.0</version>
       <version>9.4.1</version>
@@ -2350,6 +2351,7 @@
       <version>9.22.51</version>
       <version>9.22.52</version>
       <version>9.22.53</version>
+      <version>9.22.54</version>
       <version>9.23.0</version>
       <version>9.23.1</version>
       <version>9.23.2</version>
@@ -2456,7 +2458,8 @@
       <version>9.26.71</version>
       <version>9.26.72</version>
       <version>9.27.0</version>
+      <version>9.27.1</version>
     </versions>
-    <lastUpdated>20221112074440</lastUpdated>
+    <lastUpdated>20221114074154</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.compensations</groupId>
   <artifactId>compensations</artifactId>
   <versioning>
-    <latest>5.13.1.Alpha1</latest>
-    <release>5.13.1.Alpha1</release>
+    <latest>5.13.1.Final</latest>
+    <release>5.13.1.Final</release>
     <versions>
       <version>5.0.4.Final</version>
       <version>5.0.5.Final</version>
@@ -105,7 +105,8 @@
       <version>5.12.7.Final</version>
       <version>5.13.0.Final</version>
       <version>5.13.1.Alpha1</version>
+      <version>5.13.1.Final</version>
     </versions>
-    <lastUpdated>20220803193648</lastUpdated>
+    <lastUpdated>20221114160405</lastUpdated>
   </versioning>
 </metadata>

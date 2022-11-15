@@ -3,8 +3,8 @@
   <groupId>org.apache.syncope.ext.flowable</groupId>
   <artifactId>syncope-ext-flowable-bpmn</artifactId>
   <versioning>
-    <latest>3.0.0-M2</latest>
-    <release>3.0.0-M2</release>
+    <latest>3.0.0</latest>
+    <release>3.0.0</release>
     <versions>
       <version>2.1.2</version>
       <version>2.1.3</version>
@@ -20,7 +20,8 @@
       <version>3.0.0-M0</version>
       <version>3.0.0-M1</version>
       <version>3.0.0-M2</version>
+      <version>3.0.0</version>
     </versions>
-    <lastUpdated>20221031061813</lastUpdated>
+    <lastUpdated>20221114095050</lastUpdated>
   </versioning>
 </metadata>

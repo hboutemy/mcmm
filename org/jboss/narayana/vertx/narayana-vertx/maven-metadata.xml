@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.vertx</groupId>
   <artifactId>narayana-vertx</artifactId>
   <versioning>
-    <latest>5.13.1.Alpha1</latest>
-    <release>5.13.1.Alpha1</release>
+    <latest>5.13.1.Final</latest>
+    <release>5.13.1.Final</release>
     <versions>
       <version>5.5.0.Final</version>
       <version>5.5.1.Final</version>
@@ -57,7 +57,8 @@
       <version>5.12.7.Final</version>
       <version>5.13.0.Final</version>
       <version>5.13.1.Alpha1</version>
+      <version>5.13.1.Final</version>
     </versions>
-    <lastUpdated>20220803193654</lastUpdated>
+    <lastUpdated>20221114160415</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-osgi-bundle</artifactId>
   <versioning>
-    <latest>1.7.21</latest>
-    <release>1.7.21</release>
+    <latest>1.8.0-Beta</latest>
+    <release>1.8.0-Beta</release>
     <versions>
       <version>1.0.0-beta-1038</version>
       <version>1.0.0-beta-1103</version>
@@ -126,7 +126,8 @@
       <version>1.7.20-RC</version>
       <version>1.7.20</version>
       <version>1.7.21</version>
+      <version>1.8.0-Beta</version>
     </versions>
-    <lastUpdated>20221108150113</lastUpdated>
+    <lastUpdated>20221114123813</lastUpdated>
   </versioning>
 </metadata>

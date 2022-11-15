@@ -3,8 +3,8 @@
   <groupId>org.apache.distributedlog</groupId>
   <artifactId>distributedlog-core-shaded</artifactId>
   <versioning>
-    <latest>4.15.2</latest>
-    <release>4.15.2</release>
+    <latest>4.15.3</latest>
+    <release>4.15.3</release>
     <versions>
       <version>4.7.0</version>
       <version>4.7.1</version>
@@ -31,7 +31,8 @@
       <version>4.15.0</version>
       <version>4.15.1</version>
       <version>4.15.2</version>
+      <version>4.15.3</version>
     </versions>
-    <lastUpdated>20221008071921</lastUpdated>
+    <lastUpdated>20221114024735</lastUpdated>
   </versioning>
 </metadata>
