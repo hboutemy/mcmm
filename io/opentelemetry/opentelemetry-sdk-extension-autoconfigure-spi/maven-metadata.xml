@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-sdk-extension-autoconfigure-spi</artifactId>
   <versioning>
-    <latest>1.20.0</latest>
-    <release>1.20.0</release>
+    <latest>1.20.1</latest>
+    <release>1.20.1</release>
     <versions>
       <version>1.6.0</version>
       <version>1.7.0</version>
@@ -25,7 +25,8 @@
       <version>1.18.0</version>
       <version>1.19.0</version>
       <version>1.20.0</version>
+      <version>1.20.1</version>
     </versions>
-    <lastUpdated>20221111192210</lastUpdated>
+    <lastUpdated>20221115202519</lastUpdated>
   </versioning>
 </metadata>

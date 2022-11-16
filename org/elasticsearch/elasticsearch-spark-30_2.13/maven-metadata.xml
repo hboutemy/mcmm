@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-spark-30_2.13</artifactId>
   <versioning>
-    <latest>8.5.0</latest>
-    <release>8.5.0</release>
+    <latest>8.5.1</latest>
+    <release>8.5.1</release>
     <versions>
       <version>8.1.0</version>
       <version>8.1.1</version>
@@ -23,7 +23,8 @@
       <version>8.4.2</version>
       <version>8.4.3</version>
       <version>8.5.0</version>
+      <version>8.5.1</version>
     </versions>
-    <lastUpdated>20221101124031</lastUpdated>
+    <lastUpdated>20221115151654</lastUpdated>
   </versioning>
 </metadata>

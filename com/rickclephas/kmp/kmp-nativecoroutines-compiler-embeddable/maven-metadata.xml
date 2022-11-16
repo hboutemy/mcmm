@@ -3,8 +3,8 @@
   <groupId>com.rickclephas.kmp</groupId>
   <artifactId>kmp-nativecoroutines-compiler-embeddable</artifactId>
   <versioning>
-    <latest>0.13.2</latest>
-    <release>0.13.2</release>
+    <latest>0.13.2-kotlin-1.8.0-Beta</latest>
+    <release>0.13.2-kotlin-1.8.0-Beta</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.0-kotlin-1.6.10</version>
@@ -58,7 +58,8 @@
       <version>0.13.0-kotlin-1.7.20-RC</version>
       <version>0.13.1</version>
       <version>0.13.2</version>
+      <version>0.13.2-kotlin-1.8.0-Beta</version>
     </versions>
-    <lastUpdated>20221109190112</lastUpdated>
+    <lastUpdated>20221115094349</lastUpdated>
   </versioning>
 </metadata>

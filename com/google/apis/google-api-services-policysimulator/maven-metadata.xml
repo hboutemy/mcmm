@@ -3,11 +3,12 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-policysimulator</artifactId>
   <versioning>
-    <latest>v1-rev20220826-2.0.0</latest>
-    <release>v1-rev20220826-2.0.0</release>
+    <latest>v1-rev20221112-2.0.0</latest>
+    <release>v1-rev20221112-2.0.0</release>
     <versions>
       <version>v1alpha-rev20220821-2.0.0</version>
       <version>v1alpha-rev20220826-2.0.0</version>
+      <version>v1alpha-rev20221112-2.0.0</version>
       <version>v1beta1-rev20210213-1.31.0</version>
       <version>v1beta1-rev20210220-1.31.0</version>
       <version>v1beta1-rev20210307-1.31.0</version>
@@ -26,6 +27,7 @@
       <version>v1beta1-rev20220429-2.0.0</version>
       <version>v1beta1-rev20220806-2.0.0</version>
       <version>v1beta1-rev20220826-2.0.0</version>
+      <version>v1beta1-rev20221112-2.0.0</version>
       <version>v1-rev20210330-1.31.0</version>
       <version>v1-rev20210330-1.31.5</version>
       <version>v1-rev20210330-1.32.1</version>
@@ -41,7 +43,8 @@
       <version>v1-rev20220429-2.0.0</version>
       <version>v1-rev20220806-2.0.0</version>
       <version>v1-rev20220826-2.0.0</version>
+      <version>v1-rev20221112-2.0.0</version>
     </versions>
-    <lastUpdated>20220830081531</lastUpdated>
+    <lastUpdated>20221115094351</lastUpdated>
   </versioning>
 </metadata>

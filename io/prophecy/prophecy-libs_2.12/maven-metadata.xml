@@ -3,8 +3,8 @@
   <groupId>io.prophecy</groupId>
   <artifactId>prophecy-libs_2.12</artifactId>
   <versioning>
-    <latest>6.1.10-3.3.0</latest>
-    <release>6.1.10-3.3.0</release>
+    <latest>6.2.1-SNAPSHOT-3.3.0</latest>
+    <release>6.2.1-SNAPSHOT-3.3.0</release>
     <versions>
       <version>5.2.7-3.0.1</version>
       <version>5.2.7-3.1.1</version>
@@ -67,6 +67,11 @@
       <version>6.1.8-dbr11x-8-3.1.2</version>
       <version>6.1.8-dbr11x-8-3.2.0</version>
       <version>6.1.8-dbr11x-8-3.3.0</version>
+      <version>6.1.8-dbr11x-9-3.0.1</version>
+      <version>6.1.8-dbr11x-9-3.1.1</version>
+      <version>6.1.8-dbr11x-9-3.1.2</version>
+      <version>6.1.8-dbr11x-9-3.2.0</version>
+      <version>6.1.8-dbr11x-9-3.3.0</version>
       <version>6.1.8-3.0.1</version>
       <version>6.1.8-3.1.1</version>
       <version>6.1.8-3.1.2</version>
@@ -82,7 +87,17 @@
       <version>6.1.10-3.1.2</version>
       <version>6.1.10-3.2.0</version>
       <version>6.1.10-3.3.0</version>
+      <version>6.2.0-3.0.1</version>
+      <version>6.2.0-3.1.1</version>
+      <version>6.2.0-3.1.2</version>
+      <version>6.2.0-3.2.0</version>
+      <version>6.2.0-3.3.0</version>
+      <version>6.2.1-SNAPSHOT-3.0.1</version>
+      <version>6.2.1-SNAPSHOT-3.1.1</version>
+      <version>6.2.1-SNAPSHOT-3.1.2</version>
+      <version>6.2.1-SNAPSHOT-3.2.0</version>
+      <version>6.2.1-SNAPSHOT-3.3.0</version>
     </versions>
-    <lastUpdated>20221114092345</lastUpdated>
+    <lastUpdated>20221115105440</lastUpdated>
   </versioning>
 </metadata>
