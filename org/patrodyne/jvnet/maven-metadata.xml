@@ -12,6 +12,11 @@
       <artifactId>hisrc-higherjaxb23-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>HiSrc HigherJAXB 3.0.x Plugin</name>
+      <prefix>hisrc-higherjaxb30</prefix>
+      <artifactId>hisrc-higherjaxb30-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>HiSrc HyperJAXB Maven Plugin</name>
       <prefix>hisrc-hyperjaxb</prefix>
       <artifactId>hisrc-hyperjaxb-maven-plugin</artifactId>

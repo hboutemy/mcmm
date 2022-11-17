@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-dagger</artifactId>
   <versioning>
-    <latest>0.764.0</latest>
-    <release>0.764.0</release>
+    <latest>0.767.0</latest>
+    <release>0.767.0</release>
     <versions>
       <version>0.311.7</version>
       <version>0.312.2-rc2</version>
@@ -530,7 +530,9 @@
       <version>0.762.0</version>
       <version>0.763.0</version>
       <version>0.764.0</version>
+      <version>0.766.0</version>
+      <version>0.767.0</version>
     </versions>
-    <lastUpdated>20221114130832</lastUpdated>
+    <lastUpdated>20221116151025</lastUpdated>
   </versioning>
 </metadata>

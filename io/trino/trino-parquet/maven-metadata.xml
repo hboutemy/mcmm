@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-parquet</artifactId>
   <versioning>
-    <latest>402</latest>
-    <release>402</release>
+    <latest>403</latest>
+    <release>403</release>
     <versions>
       <version>351</version>
       <version>352</version>
@@ -58,7 +58,8 @@
       <version>400</version>
       <version>401</version>
       <version>402</version>
+      <version>403</version>
     </versions>
-    <lastUpdated>20221103051911</lastUpdated>
+    <lastUpdated>20221116152527</lastUpdated>
   </versioning>
 </metadata>
