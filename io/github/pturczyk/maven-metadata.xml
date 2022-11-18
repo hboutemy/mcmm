@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven YAML linter plugin</name>
+      <prefix>ymlint</prefix>
+      <artifactId>ymlint-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-logback-appender-1.0</artifactId>
   <versioning>
-    <latest>1.19.2-alpha</latest>
-    <release>1.19.2-alpha</release>
+    <latest>1.20.0-alpha</latest>
+    <release>1.20.0-alpha</release>
     <versions>
       <version>1.10.0-alpha</version>
       <version>1.10.1-alpha</version>
@@ -22,7 +22,8 @@
       <version>1.19.0-alpha</version>
       <version>1.19.1-alpha</version>
       <version>1.19.2-alpha</version>
+      <version>1.20.0-alpha</version>
     </versions>
-    <lastUpdated>20221102024941</lastUpdated>
+    <lastUpdated>20221117051512</lastUpdated>
   </versioning>
 </metadata>
