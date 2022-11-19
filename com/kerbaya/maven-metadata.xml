@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Run Maven Plugin</name>
+      <prefix>run</prefix>
+      <artifactId>run-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Stamp Maven Plugin</name>
       <prefix>stamp</prefix>
       <artifactId>stamp-maven-plugin</artifactId>
