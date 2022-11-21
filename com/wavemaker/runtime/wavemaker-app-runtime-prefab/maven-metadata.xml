@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.runtime</groupId>
   <artifactId>wavemaker-app-runtime-prefab</artifactId>
   <versioning>
-    <latest>11.1.4.ee</latest>
-    <release>11.1.4.ee</release>
+    <latest>11.2.0</latest>
+    <release>11.2.0</release>
     <versions>
       <version>9.4.0.10</version>
       <version>9.4.0.12</version>
@@ -66,6 +66,7 @@
       <version>10.15.2</version>
       <version>10.15.3</version>
       <version>10.15.3.ee</version>
+      <version>10.15.4</version>
       <version>10.15.4.ee</version>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
@@ -78,7 +79,8 @@
       <version>11.1.3</version>
       <version>11.1.3.ee</version>
       <version>11.1.4.ee</version>
+      <version>11.2.0</version>
     </versions>
-    <lastUpdated>20221114044954</lastUpdated>
+    <lastUpdated>20221120183949</lastUpdated>
   </versioning>
 </metadata>
