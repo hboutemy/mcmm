@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-tools</artifactId>
   <versioning>
-    <latest>5.6.13.Final</latest>
-    <release>5.6.13.Final</release>
+    <latest>5.6.14.Final</latest>
+    <release>5.6.14.Final</release>
     <versions>
       <version>3.5.2.Final</version>
       <version>3.5.3.Final</version>
@@ -25,6 +25,7 @@
       <version>5.6.11.Final</version>
       <version>5.6.12.Final</version>
       <version>5.6.13.Final</version>
+      <version>5.6.14.Final</version>
       <version>3.1.0.alpha5</version>
       <version>3.1.0.beta2</version>
       <version>3.1.0.beta4</version>
@@ -186,6 +187,6 @@
       <version>5.6.1.Final</version>
       <version>5.6.2.Final</version>
     </versions>
-    <lastUpdated>20221116121852</lastUpdated>
+    <lastUpdated>20221121105410</lastUpdated>
   </versioning>
 </metadata>

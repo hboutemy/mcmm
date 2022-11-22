@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions</groupId>
   <artifactId>druid-orc-extensions</artifactId>
   <versioning>
-    <latest>24.0.0</latest>
-    <release>24.0.0</release>
+    <latest>24.0.1</latest>
+    <release>24.0.1</release>
     <versions>
       <version>0.15.0-incubating</version>
       <version>0.15.1-incubating</version>
@@ -24,7 +24,8 @@
       <version>0.22.1</version>
       <version>0.23.0</version>
       <version>24.0.0</version>
+      <version>24.0.1</version>
     </versions>
-    <lastUpdated>20220915093745</lastUpdated>
+    <lastUpdated>20221121044433</lastUpdated>
   </versioning>
 </metadata>

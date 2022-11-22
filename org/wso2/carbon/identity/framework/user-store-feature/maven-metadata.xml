@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>user-store-feature</artifactId>
   <versioning>
-    <latest>5.25.36</latest>
-    <release>5.25.36</release>
+    <latest>5.25.39</latest>
+    <release>5.25.39</release>
     <versions>
       <version>5.20.149</version>
       <version>5.20.150</version>
@@ -321,7 +321,10 @@
       <version>5.25.34</version>
       <version>5.25.35</version>
       <version>5.25.36</version>
+      <version>5.25.37</version>
+      <version>5.25.38</version>
+      <version>5.25.39</version>
     </versions>
-    <lastUpdated>20221118194218</lastUpdated>
+    <lastUpdated>20221121185605</lastUpdated>
   </versioning>
 </metadata>
