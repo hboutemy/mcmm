@@ -3,8 +3,8 @@
   <groupId>org.glassfish.main.extras</groupId>
   <artifactId>glassfish-embedded-static-shell</artifactId>
   <versioning>
-    <latest>7.0.0-M4</latest>
-    <release>7.0.0-M4</release>
+    <latest>7.0.0-M10</latest>
+    <release>7.0.0-M10</release>
     <versions>
       <version>6.0.0-M1</version>
       <version>6.0.0-RC1</version>
@@ -23,6 +23,7 @@
       <version>7.0.0-M2</version>
       <version>7.0.0-M3</version>
       <version>7.0.0-M4</version>
+      <version>7.0.0-M10</version>
       <version>3.1.2</version>
       <version>3.1.2.2</version>
       <version>4.0</version>
@@ -38,6 +39,6 @@
       <version>5.1.0-RC1</version>
       <version>5.1.0-RC2</version>
     </versions>
-    <lastUpdated>20220411163156</lastUpdated>
+    <lastUpdated>20221122140312</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>x-pack-sql-jdbc</artifactId>
   <versioning>
-    <latest>8.5.1</latest>
-    <release>8.5.1</release>
+    <latest>8.5.2</latest>
+    <release>8.5.2</release>
     <versions>
       <version>6.8.11</version>
       <version>6.8.12</version>
@@ -80,7 +80,8 @@
       <version>8.4.3</version>
       <version>8.5.0</version>
       <version>8.5.1</version>
+      <version>8.5.2</version>
     </versions>
-    <lastUpdated>20221115151701</lastUpdated>
+    <lastUpdated>20221122162347</lastUpdated>
   </versioning>
 </metadata>

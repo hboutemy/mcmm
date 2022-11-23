@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.contrib</groupId>
   <artifactId>static-instrumentation-maven-plugin</artifactId>
   <versioning>
-    <latest>1.20.0-alpha</latest>
-    <release>1.20.0-alpha</release>
+    <latest>1.20.1-alpha</latest>
+    <release>1.20.1-alpha</release>
     <versions>
       <version>1.15.0-alpha</version>
       <version>1.16.0-alpha</version>
@@ -13,7 +13,8 @@
       <version>1.19.0-alpha</version>
       <version>1.19.1-alpha</version>
       <version>1.20.0-alpha</version>
+      <version>1.20.1-alpha</version>
     </versions>
-    <lastUpdated>20221117212353</lastUpdated>
+    <lastUpdated>20221122171121</lastUpdated>
   </versioning>
 </metadata>
