@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-runtime-groovy</artifactId>
   <versioning>
-    <latest>22.12.0</latest>
-    <release>22.12.0</release>
+    <latest>22.12.1.release</latest>
+    <release>22.12.1.release</release>
     <versions>
       <version>3.14.0</version>
       <version>3.15.0</version>
@@ -89,7 +89,8 @@
       <version>22.12.0.a20221117-02</version>
       <version>22.12.0.rc01</version>
       <version>22.12.0</version>
+      <version>22.12.1.release</version>
     </versions>
-    <lastUpdated>20221118112333</lastUpdated>
+    <lastUpdated>20221123100145</lastUpdated>
   </versioning>
 </metadata>

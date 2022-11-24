@@ -3,8 +3,8 @@
   <groupId>org.apache.qpid</groupId>
   <artifactId>qpid-broker-codegen</artifactId>
   <versioning>
-    <latest>8.0.6</latest>
-    <release>8.0.6</release>
+    <latest>9.0.0</latest>
+    <release>9.0.0</release>
     <versions>
       <version>0.30</version>
       <version>0.32</version>
@@ -55,7 +55,8 @@
       <version>8.0.4</version>
       <version>8.0.5</version>
       <version>8.0.6</version>
+      <version>9.0.0</version>
     </versions>
-    <lastUpdated>20210828182711</lastUpdated>
+    <lastUpdated>20221123094038</lastUpdated>
   </versioning>
 </metadata>
