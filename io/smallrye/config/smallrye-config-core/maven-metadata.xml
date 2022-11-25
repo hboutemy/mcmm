@@ -3,8 +3,8 @@
   <groupId>io.smallrye.config</groupId>
   <artifactId>smallrye-config-core</artifactId>
   <versioning>
-    <latest>3.0.0</latest>
-    <release>3.0.0</release>
+    <latest>3.1.0</latest>
+    <release>3.1.0</release>
     <versions>
       <version>2.0.0-RC4</version>
       <version>2.0.0</version>
@@ -37,12 +37,14 @@
       <version>2.12.0</version>
       <version>2.12.1</version>
       <version>2.12.2</version>
+      <version>2.13.0</version>
       <version>3.0.0-RC1</version>
       <version>3.0.0-RC2</version>
       <version>3.0.0-RC3</version>
       <version>3.0.0-RC4</version>
       <version>3.0.0</version>
+      <version>3.1.0</version>
     </versions>
-    <lastUpdated>20221122133443</lastUpdated>
+    <lastUpdated>20221124185455</lastUpdated>
   </versioning>
 </metadata>

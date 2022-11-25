@@ -3,12 +3,15 @@
   <groupId>com.engagelab.plugin</groupId>
   <artifactId>google</artifactId>
   <versioning>
-    <latest>3.0.0</latest>
-    <release>3.0.0</release>
+    <latest>3.0.0.release</latest>
+    <release>3.0.0.release</release>
     <versions>
       <version>3.0.0.t6</version>
       <version>3.0.0</version>
+      <version>test.3.0.0</version>
+      <version>test.3.0.0.release</version>
+      <version>3.0.0.release</version>
     </versions>
-    <lastUpdated>20221114084234</lastUpdated>
+    <lastUpdated>20221124035807</lastUpdated>
   </versioning>
 </metadata>

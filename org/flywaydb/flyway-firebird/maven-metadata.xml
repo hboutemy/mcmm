@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-firebird</artifactId>
   <versioning>
-    <latest>9.8.2</latest>
-    <release>9.8.2</release>
+    <latest>9.8.3</latest>
+    <release>9.8.3</release>
     <versions>
       <version>8.4.1</version>
       <version>8.4.2</version>
@@ -50,7 +50,8 @@
       <version>9.8.0</version>
       <version>9.8.1</version>
       <version>9.8.2</version>
+      <version>9.8.3</version>
     </versions>
-    <lastUpdated>20221118104201</lastUpdated>
+    <lastUpdated>20221124133210</lastUpdated>
   </versioning>
 </metadata>
