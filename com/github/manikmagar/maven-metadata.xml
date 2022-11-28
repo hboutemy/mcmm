@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Git Versioner Maven Plugin</name>
+      <prefix>git-versioner</prefix>
+      <artifactId>git-versioner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
