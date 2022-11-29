@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>vertx-mutiny-clients-bom</artifactId>
   <versioning>
-    <latest>3.0.0-milestone1</latest>
-    <release>3.0.0-milestone1</release>
+    <latest>3.0.0</latest>
+    <release>3.0.0</release>
     <versions>
       <version>2.7.0</version>
       <version>2.8.0</version>
@@ -36,7 +36,8 @@
       <version>2.27.0</version>
       <version>2.28.0</version>
       <version>3.0.0-milestone1</version>
+      <version>3.0.0</version>
     </versions>
-    <lastUpdated>20221120190947</lastUpdated>
+    <lastUpdated>20221128111109</lastUpdated>
   </versioning>
 </metadata>

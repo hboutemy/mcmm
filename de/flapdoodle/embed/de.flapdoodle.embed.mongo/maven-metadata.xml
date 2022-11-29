@@ -3,8 +3,8 @@
   <groupId>de.flapdoodle.embed</groupId>
   <artifactId>de.flapdoodle.embed.mongo</artifactId>
   <versioning>
-    <latest>4.0.7-beta</latest>
-    <release>4.0.7-beta</release>
+    <latest>4.0.8-beta</latest>
+    <release>4.0.8-beta</release>
     <versions>
       <version>1.19</version>
       <version>1.20</version>
@@ -82,6 +82,7 @@
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
+      <version>3.5.3</version>
       <version>4.0.0-beta</version>
       <version>4.0.1-beta</version>
       <version>4.0.2-beta</version>
@@ -90,8 +91,9 @@
       <version>4.0.5-beta</version>
       <version>4.0.6-beta</version>
       <version>4.0.7-beta</version>
+      <version>4.0.8-beta</version>
       <version>1.48.0</version>
     </versions>
-    <lastUpdated>20221101181550</lastUpdated>
+    <lastUpdated>20221128161637</lastUpdated>
   </versioning>
 </metadata>
