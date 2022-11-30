@@ -15,5 +15,10 @@
       <prefix>apicurio-registry</prefix>
       <artifactId>apicurio-registry-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>apicurio-unified-model-generator-maven-plugin</name>
+      <prefix>apicurio-unified-model-generator</prefix>
+      <artifactId>apicurio-unified-model-generator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

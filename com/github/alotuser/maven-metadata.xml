@@ -11,5 +11,10 @@
       <prefix>winsm</prefix>
       <artifactId>winsm-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>winsw-maven-plugin</name>
+      <prefix>winsw</prefix>
+      <artifactId>winsw-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

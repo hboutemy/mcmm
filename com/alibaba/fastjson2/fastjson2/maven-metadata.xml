@@ -3,8 +3,8 @@
   <groupId>com.alibaba.fastjson2</groupId>
   <artifactId>fastjson2</artifactId>
   <versioning>
-    <latest>2.0.20.android</latest>
-    <release>2.0.20.android</release>
+    <latest>2.0.20.graal</latest>
+    <release>2.0.20.graal</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -63,7 +63,8 @@
       <version>2.0.19.graal</version>
       <version>2.0.20</version>
       <version>2.0.20.android</version>
+      <version>2.0.20.graal</version>
     </versions>
-    <lastUpdated>20221127183812</lastUpdated>
+    <lastUpdated>20221129134614</lastUpdated>
   </versioning>
 </metadata>
