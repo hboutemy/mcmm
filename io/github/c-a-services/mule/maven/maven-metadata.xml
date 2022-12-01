@@ -6,5 +6,10 @@
       <prefix>mule-metrics-report</prefix>
       <artifactId>mule-metrics-report</artifactId>
     </plugin>
+    <plugin>
+      <name>overwrite-proxy-setting-plugin</name>
+      <prefix>overwrite-proxy-setting</prefix>
+      <artifactId>overwrite-proxy-setting-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

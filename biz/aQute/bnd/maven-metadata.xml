@@ -15,42 +15,47 @@
   </versioning>
   <plugins>
     <plugin>
-      <name>biz.aQute.bnd:bnd-baseline-maven-plugin</name>
+      <name>Bnd Baseline Maven Plugin</name>
       <prefix>bnd-baseline</prefix>
       <artifactId>bnd-baseline-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-export-maven-plugin</name>
+      <name>Bnd Export Maven Plugin</name>
       <prefix>bnd-export</prefix>
       <artifactId>bnd-export-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-indexer-maven-plugin</name>
+      <name>Bnd Generate Maven Plugin</name>
+      <prefix>bnd-generate</prefix>
+      <artifactId>bnd-generate-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Bnd Indexer Maven Plugin</name>
       <prefix>bnd-indexer</prefix>
       <artifactId>bnd-indexer-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-maven-plugin</name>
+      <name>Bnd Maven Plugin</name>
       <prefix>bnd</prefix>
       <artifactId>bnd-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-reporter-maven-plugin</name>
+      <name>Bnd Reporter Maven Plugin</name>
       <prefix>bnd-reporter</prefix>
       <artifactId>bnd-reporter-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-resolver-maven-plugin</name>
+      <name>Bnd Resolver Maven Plugins</name>
       <prefix>bnd-resolver</prefix>
       <artifactId>bnd-resolver-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-run-maven-plugin</name>
+      <name>Bnd Run Maven Plugin</name>
       <prefix>bnd-run</prefix>
       <artifactId>bnd-run-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>biz.aQute.bnd:bnd-testing-maven-plugin</name>
+      <name>Bnd Testing Maven Plugin</name>
       <prefix>bnd-testing</prefix>
       <artifactId>bnd-testing-maven-plugin</artifactId>
     </plugin>

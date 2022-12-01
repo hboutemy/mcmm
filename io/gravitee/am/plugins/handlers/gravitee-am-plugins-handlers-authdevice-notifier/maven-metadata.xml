@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.plugins.handlers</groupId>
   <artifactId>gravitee-am-plugins-handlers-authdevice-notifier</artifactId>
   <versioning>
-    <latest>3.19.2</latest>
-    <release>3.19.2</release>
+    <latest>3.20.0-alpha.1</latest>
+    <release>3.20.0-alpha.1</release>
     <versions>
       <version>3.15.0</version>
       <version>3.15.1</version>
@@ -49,7 +49,8 @@
       <version>3.19.0</version>
       <version>3.19.1</version>
       <version>3.19.2</version>
+      <version>3.20.0-alpha.1</version>
     </versions>
-    <lastUpdated>20221123144551</lastUpdated>
+    <lastUpdated>20221130095628</lastUpdated>
   </versioning>
 </metadata>
