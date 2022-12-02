@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Codec Common Maven Codegen Plugin</name>
+      <prefix>codec-common</prefix>
+      <artifactId>codec-common-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Diamter Codegen</name>
       <prefix>diameter</prefix>
       <artifactId>diameter-maven-plugin</artifactId>

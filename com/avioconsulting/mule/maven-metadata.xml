@@ -6,5 +6,10 @@
       <prefix>apikit-flow-generator</prefix>
       <artifactId>apikit-flow-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Mule deployment Maven plugin</name>
+      <prefix>mule-deploy</prefix>
+      <artifactId>mule-deploy-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
