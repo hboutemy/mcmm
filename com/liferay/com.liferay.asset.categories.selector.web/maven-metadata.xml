@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.asset.categories.selector.web</artifactId>
   <versioning>
     <latest>4.0.31</latest>
-    <release>4.0.31</release>
+    <release>4.0.32</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -129,7 +129,8 @@
       <version>4.0.19</version>
       <version>4.0.20</version>
       <version>4.0.21</version>
+      <version>4.0.32</version>
     </versions>
-    <lastUpdated>20221027053504</lastUpdated>
+    <lastUpdated>20221201234007</lastUpdated>
   </versioning>
 </metadata>
