@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Cluecumber Maven</name>
+      <prefix>cluecumber</prefix>
+      <artifactId>cluecumber-maven</artifactId>
+    </plugin>
+    <plugin>
       <name>Cluecumber Maven Plugin for Cucumber Reports</name>
       <prefix>cluecumber-report</prefix>
       <artifactId>cluecumber-report-plugin</artifactId>
