@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-replicate-netty</artifactId>
   <versioning>
-    <latest>11.0.1</latest>
-    <release>11.0.1</release>
+    <latest>11.0.2</latest>
+    <release>11.0.2</release>
     <versions>
       <version>4.0.15</version>
       <version>4.0.16</version>
@@ -73,7 +73,8 @@
       <version>10.0.5</version>
       <version>11.0.0</version>
       <version>11.0.1</version>
+      <version>11.0.2</version>
     </versions>
-    <lastUpdated>20221203192447</lastUpdated>
+    <lastUpdated>20221204173355</lastUpdated>
   </versioning>
 </metadata>

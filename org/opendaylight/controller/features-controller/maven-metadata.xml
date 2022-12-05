@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>features-controller</artifactId>
   <versioning>
-    <latest>6.0.4</latest>
-    <release>6.0.4</release>
+    <latest>7.0.0</latest>
+    <release>7.0.0</release>
     <versions>
       <version>1.4.2-Helium</version>
       <version>1.4.3-Helium-SR1</version>
@@ -114,7 +114,9 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
+      <version>6.0.5</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20221202164954</lastUpdated>
+    <lastUpdated>20221204231440</lastUpdated>
   </versioning>
 </metadata>
