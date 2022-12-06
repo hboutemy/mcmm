@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-jsp-api</artifactId>
   <versioning>
-    <latest>10.1.2</latest>
-    <release>10.1.2</release>
+    <latest>11.0.0-M1</latest>
+    <release>11.0.0-M1</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -269,6 +269,7 @@
       <version>9.0.67</version>
       <version>9.0.68</version>
       <version>9.0.69</version>
+      <version>9.0.70</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -316,7 +317,8 @@
       <version>10.1.0</version>
       <version>10.1.1</version>
       <version>10.1.2</version>
+      <version>11.0.0-M1</version>
     </versions>
-    <lastUpdated>20221121222348</lastUpdated>
+    <lastUpdated>20221205152315</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.liferay.plugins</groupId>
   <artifactId>opensocial-portlet</artifactId>
   <versioning>
-    <latest>7.3.10.23</latest>
-    <release>7.3.10.40</release>
+    <latest>7.4.10.3</latest>
+    <release>7.3.10.44</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -107,6 +107,20 @@
       <version>7.0.10.99</version>
       <version>7.0.10.100</version>
       <version>7.0.10.101</version>
+      <version>7.0.10.102</version>
+      <version>7.0.10.104</version>
+      <version>7.0.10.105</version>
+      <version>7.0.10.106</version>
+      <version>7.0.10.107</version>
+      <version>7.0.10.108</version>
+      <version>7.0.10.109</version>
+      <version>7.0.10.110</version>
+      <version>7.0.10.111</version>
+      <version>7.0.10.112</version>
+      <version>7.0.10.113</version>
+      <version>7.0.10.114</version>
+      <version>7.0.10.115</version>
+      <version>7.0.10.116</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -172,6 +186,20 @@
       <version>7.1.10.63</version>
       <version>7.1.10.64</version>
       <version>7.1.10.65</version>
+      <version>7.1.10.66</version>
+      <version>7.1.10.67</version>
+      <version>7.1.10.68</version>
+      <version>7.1.10.69</version>
+      <version>7.1.10.70</version>
+      <version>7.1.10.71</version>
+      <version>7.1.10.72</version>
+      <version>7.1.10.73</version>
+      <version>7.1.10.74</version>
+      <version>7.1.10.75</version>
+      <version>7.1.10.76</version>
+      <version>7.1.10.77</version>
+      <version>7.1.10.78</version>
+      <version>7.1.10.79</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -220,6 +248,22 @@
       <version>7.2.10.46</version>
       <version>7.2.10.47</version>
       <version>7.2.10.48</version>
+      <version>7.2.10.49</version>
+      <version>7.2.10.50</version>
+      <version>7.2.10.51</version>
+      <version>7.2.10.52</version>
+      <version>7.2.10.53</version>
+      <version>7.2.10.54</version>
+      <version>7.2.10.55</version>
+      <version>7.2.10.56</version>
+      <version>7.2.10.57</version>
+      <version>7.2.10.58</version>
+      <version>7.2.10.59</version>
+      <version>7.2.10.60</version>
+      <version>7.2.10.61</version>
+      <version>7.2.10.62</version>
+      <version>7.2.10.63</version>
+      <version>7.2.10.64</version>
       <version>7.3.10.1</version>
       <version>7.3.10.2</version>
       <version>7.3.10.3</version>
@@ -243,70 +287,27 @@
       <version>7.3.10.21</version>
       <version>7.3.10.22</version>
       <version>7.3.10.23</version>
-      <version>7.0.10.102</version>
-      <version>7.1.10.66</version>
-      <version>7.2.10.49</version>
       <version>7.3.10.24</version>
-      <version>7.1.10.67</version>
-      <version>7.2.10.50</version>
       <version>7.3.10.26</version>
       <version>7.3.10.27</version>
-      <version>7.2.10.51</version>
-      <version>7.1.10.68</version>
-      <version>7.0.10.104</version>
-      <version>7.0.10.105</version>
-      <version>7.1.10.69</version>
-      <version>7.2.10.52</version>
-      <version>7.0.10.106</version>
-      <version>7.1.10.70</version>
       <version>7.3.10.28</version>
-      <version>7.4.10.1</version>
-      <version>7.2.10.53</version>
-      <version>7.4.10.2</version>
-      <version>7.4.10.3</version>
-      <version>7.1.10.71</version>
-      <version>7.0.10.107</version>
-      <version>7.2.10.54</version>
       <version>7.3.10.29</version>
-      <version>7.0.10.108</version>
       <version>7.3.10.30</version>
       <version>7.3.10.31</version>
-      <version>7.0.10.109</version>
-      <version>7.1.10.72</version>
-      <version>7.2.10.55</version>
-      <version>7.1.10.73</version>
-      <version>7.2.10.56</version>
-      <version>7.0.10.110</version>
       <version>7.3.10.32</version>
-      <version>7.0.10.111</version>
-      <version>7.1.10.74</version>
-      <version>7.2.10.57</version>
       <version>7.3.10.33</version>
-      <version>7.1.10.75</version>
-      <version>7.2.10.58</version>
-      <version>7.1.10.76</version>
-      <version>7.0.10.112</version>
-      <version>7.2.10.59</version>
-      <version>7.1.10.77</version>
-      <version>7.0.10.113</version>
       <version>7.3.10.34</version>
-      <version>7.0.10.114</version>
-      <version>7.1.10.78</version>
-      <version>7.2.10.60</version>
       <version>7.3.10.35</version>
-      <version>7.0.10.115</version>
       <version>7.3.10.36</version>
-      <version>7.2.10.61</version>
-      <version>7.1.10.79</version>
-      <version>7.2.10.62</version>
       <version>7.3.10.37</version>
-      <version>7.0.10.116</version>
-      <version>7.2.10.63</version>
       <version>7.3.10.38</version>
-      <version>7.2.10.64</version>
       <version>7.3.10.39</version>
       <version>7.3.10.40</version>
+      <version>7.4.10.1</version>
+      <version>7.4.10.2</version>
+      <version>7.4.10.3</version>
+      <version>7.3.10.44</version>
     </versions>
-    <lastUpdated>20220429010924</lastUpdated>
+    <lastUpdated>20221205141337</lastUpdated>
   </versioning>
 </metadata>
