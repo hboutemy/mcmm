@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-daemon-client</artifactId>
   <versioning>
-    <latest>1.8.0-Beta</latest>
-    <release>1.8.0-Beta</release>
+    <latest>1.8.0-RC</latest>
+    <release>1.8.0-RC</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -105,7 +105,8 @@
       <version>1.7.21</version>
       <version>1.7.22</version>
       <version>1.8.0-Beta</version>
+      <version>1.8.0-RC</version>
     </versions>
-    <lastUpdated>20221128100451</lastUpdated>
+    <lastUpdated>20221207193544</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,17 @@
   <groupId>org.zalando</groupId>
   <artifactId>nakadi-producer-loadtest</artifactId>
   <versioning>
-    <latest>21.0.0-RC1</latest>
-    <release>21.0.0-RC1</release>
+    <latest>21.0.0-RC3b</latest>
+    <release>21.0.0-RC3b</release>
     <versions>
       <version>20.3.0</version>
       <version>20.3.1</version>
       <version>20.4.0</version>
       <version>21.0.0-RC1</version>
+      <version>21.0.0-RC2</version>
+      <version>21.0.0-RC3a</version>
+      <version>21.0.0-RC3b</version>
     </versions>
-    <lastUpdated>20221116190523</lastUpdated>
+    <lastUpdated>20221207173645</lastUpdated>
   </versioning>
 </metadata>
