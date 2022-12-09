@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.pure</groupId>
   <artifactId>legend-pure-m2-store-relational</artifactId>
   <versioning>
-    <latest>3.8.0</latest>
-    <release>3.8.0</release>
+    <latest>3.8.1</latest>
+    <release>3.8.1</release>
     <versions>
       <version>1.8.0</version>
       <version>1.9.0</version>
@@ -80,6 +80,7 @@
       <version>3.7.2</version>
       <version>3.7.3</version>
       <version>3.8.0</version>
+      <version>3.8.1</version>
       <version>1.46.0</version>
       <version>1.47.0</version>
       <version>1.48.0</version>
@@ -88,6 +89,6 @@
       <version>1.51.0</version>
       <version>1.51.1</version>
     </versions>
-    <lastUpdated>20221128223612</lastUpdated>
+    <lastUpdated>20221208085211</lastUpdated>
   </versioning>
 </metadata>

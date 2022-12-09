@@ -3,8 +3,8 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>drools-kie-ci-without-domain-test-kjar</artifactId>
   <versioning>
-    <latest>8.31.0.Final</latest>
-    <release>8.31.0.Final</release>
+    <latest>8.31.1.Final</latest>
+    <release>8.31.1.Final</release>
     <versions>
       <version>7.0.0.Beta1</version>
       <version>7.0.0.Beta2</version>
@@ -148,7 +148,8 @@
       <version>8.29.0.Final</version>
       <version>8.30.0.Final</version>
       <version>8.31.0.Final</version>
+      <version>8.31.1.Final</version>
     </versions>
-    <lastUpdated>20221125085441</lastUpdated>
+    <lastUpdated>20221208124324</lastUpdated>
   </versioning>
 </metadata>

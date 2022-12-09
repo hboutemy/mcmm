@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-knative-eventing-deployment</artifactId>
   <versioning>
-    <latest>1.31.0.Final</latest>
-    <release>1.31.0.Final</release>
+    <latest>1.31.1.Final</latest>
+    <release>1.31.1.Final</release>
     <versions>
       <version>1.12.0.Final</version>
       <version>1.13.0.Final</version>
@@ -30,7 +30,8 @@
       <version>1.29.0.Final</version>
       <version>1.30.0.Final</version>
       <version>1.31.0.Final</version>
+      <version>1.31.1.Final</version>
     </versions>
-    <lastUpdated>20221125085522</lastUpdated>
+    <lastUpdated>20221208124358</lastUpdated>
   </versioning>
 </metadata>

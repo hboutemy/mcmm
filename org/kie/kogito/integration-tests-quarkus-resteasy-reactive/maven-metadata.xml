@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-quarkus-resteasy-reactive</artifactId>
   <versioning>
-    <latest>1.31.0.Final</latest>
-    <release>1.31.0.Final</release>
+    <latest>1.31.1.Final</latest>
+    <release>1.31.1.Final</release>
     <versions>
       <version>1.16.0.Final</version>
       <version>1.16.1.Final</version>
@@ -25,7 +25,8 @@
       <version>1.29.0.Final</version>
       <version>1.30.0.Final</version>
       <version>1.31.0.Final</version>
+      <version>1.31.1.Final</version>
     </versions>
-    <lastUpdated>20221125085507</lastUpdated>
+    <lastUpdated>20221208124349</lastUpdated>
   </versioning>
 </metadata>
