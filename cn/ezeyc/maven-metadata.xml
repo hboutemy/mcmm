@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>enc-maven-plugin</name>
+      <prefix>enc</prefix>
+      <artifactId>enc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>x-maven-plugin</name>
       <prefix>x</prefix>
       <artifactId>x-maven-plugin</artifactId>

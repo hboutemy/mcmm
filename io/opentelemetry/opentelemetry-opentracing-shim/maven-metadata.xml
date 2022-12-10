@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-opentracing-shim</artifactId>
   <versioning>
-    <latest>1.20.1-alpha</latest>
-    <release>1.20.1-alpha</release>
+    <latest>1.21.0-alpha</latest>
+    <release>1.21.0-alpha</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -57,7 +57,8 @@
       <version>1.19.0-alpha</version>
       <version>1.20.0-alpha</version>
       <version>1.20.1-alpha</version>
+      <version>1.21.0-alpha</version>
     </versions>
-    <lastUpdated>20221115202512</lastUpdated>
+    <lastUpdated>20221209200150</lastUpdated>
   </versioning>
 </metadata>

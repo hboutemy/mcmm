@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Bloop Maven Plugin</name>
+      <prefix>bloop</prefix>
+      <artifactId>bloop-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-bloop</name>
       <prefix>bloop_2.10</prefix>
       <artifactId>maven-bloop_2.10</artifactId>

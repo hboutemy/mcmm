@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>fish.payara.transformer:fish.payara.transformer.maven</name>
+      <prefix>fish.payara.transformer.</prefix>
+      <artifactId>fish.payara.transformer.maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
