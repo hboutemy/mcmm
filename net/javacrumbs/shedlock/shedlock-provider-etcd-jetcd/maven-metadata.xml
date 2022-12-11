@@ -3,8 +3,8 @@
   <groupId>net.javacrumbs.shedlock</groupId>
   <artifactId>shedlock-provider-etcd-jetcd</artifactId>
   <versioning>
-    <latest>4.43.0</latest>
-    <release>4.43.0</release>
+    <latest>5.0.1</latest>
+    <release>5.0.1</release>
     <versions>
       <version>4.20.0</version>
       <version>4.20.1</version>
@@ -32,7 +32,9 @@
       <version>4.41.0</version>
       <version>4.42.0</version>
       <version>4.43.0</version>
+      <version>5.0.0</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20221203195455</lastUpdated>
+    <lastUpdated>20221210212626</lastUpdated>
   </versioning>
 </metadata>

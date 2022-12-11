@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudfunctions</artifactId>
   <versioning>
-    <latest>v2-rev20221129-2.0.0</latest>
-    <release>v2-rev20221129-2.0.0</release>
+    <latest>v2-rev20221207-2.0.0</latest>
+    <release>v2-rev20221207-2.0.0</release>
     <versions>
       <version>v1-rev20210409-1.31.5</version>
       <version>v1-rev20210409-1.32.1</version>
@@ -46,6 +46,7 @@
       <version>v2alpha-rev20221020-2.0.0</version>
       <version>v2alpha-rev20221027-2.0.0</version>
       <version>v2alpha-rev20221129-2.0.0</version>
+      <version>v2alpha-rev20221207-2.0.0</version>
       <version>v2beta-rev20220203-1.32.1</version>
       <version>v2beta-rev20220218-1.32.1</version>
       <version>v2beta-rev20220317-1.32.1</version>
@@ -63,6 +64,7 @@
       <version>v2beta-rev20221020-2.0.0</version>
       <version>v2beta-rev20221027-2.0.0</version>
       <version>v2beta-rev20221129-2.0.0</version>
+      <version>v2beta-rev20221207-2.0.0</version>
       <version>v2-rev20220428-1.32.1</version>
       <version>v2-rev20220509-1.32.1</version>
       <version>v2-rev20220707-1.32.1</version>
@@ -72,6 +74,7 @@
       <version>v2-rev20221020-2.0.0</version>
       <version>v2-rev20221027-2.0.0</version>
       <version>v2-rev20221129-2.0.0</version>
+      <version>v2-rev20221207-2.0.0</version>
       <version>v1-rev10-1.18.0-rc</version>
       <version>v1-rev10-1.20.0</version>
       <version>v1-rev10-1.21.0</version>
@@ -700,6 +703,6 @@
       <version>v1beta2-rev95-1.18.0-rc</version>
       <version>v1beta2-rev95-1.25.0</version>
     </versions>
-    <lastUpdated>20221205213812</lastUpdated>
+    <lastUpdated>20221210091318</lastUpdated>
   </versioning>
 </metadata>
