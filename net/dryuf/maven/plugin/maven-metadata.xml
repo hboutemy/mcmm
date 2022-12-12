@@ -11,5 +11,10 @@
       <prefix>dryuf-executable-jar</prefix>
       <artifactId>dryuf-executable-jar-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>dryuf-jmh-review-maven-plugin</name>
+      <prefix>dryuf-jmh-review</prefix>
+      <artifactId>dryuf-jmh-review-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
