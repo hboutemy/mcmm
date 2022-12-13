@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SemVer check Maven Plugin</name>
+      <prefix>semver-check</prefix>
+      <artifactId>semver-check-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

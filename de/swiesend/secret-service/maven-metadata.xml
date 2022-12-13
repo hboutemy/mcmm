@@ -3,8 +3,8 @@
   <groupId>de.swiesend</groupId>
   <artifactId>secret-service</artifactId>
   <versioning>
-    <latest>1.7.0</latest>
-    <release>1.7.0</release>
+    <latest>1.8.0-jdk17</latest>
+    <release>1.8.0-jdk17</release>
     <versions>
       <version>1.0.0-RC.1</version>
       <version>1.0.0-RC.2</version>
@@ -24,7 +24,8 @@
       <version>1.6.1</version>
       <version>1.6.2</version>
       <version>1.7.0</version>
+      <version>1.8.0-jdk17</version>
     </versions>
-    <lastUpdated>20211018010347</lastUpdated>
+    <lastUpdated>20221212141518</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>smallrye-mutiny-vertx-core</artifactId>
   <versioning>
-    <latest>3.0.0</latest>
-    <release>3.0.0</release>
+    <latest>3.1.0</latest>
+    <release>3.1.0</release>
     <versions>
       <version>0.0.11</version>
       <version>0.0.12</version>
@@ -62,9 +62,11 @@
       <version>2.26.0</version>
       <version>2.27.0</version>
       <version>2.28.0</version>
+      <version>2.29.0</version>
       <version>3.0.0-milestone1</version>
       <version>3.0.0</version>
+      <version>3.1.0</version>
     </versions>
-    <lastUpdated>20221128111036</lastUpdated>
+    <lastUpdated>20221212081005</lastUpdated>
   </versioning>
 </metadata>

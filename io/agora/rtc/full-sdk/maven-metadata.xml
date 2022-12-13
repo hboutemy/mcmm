@@ -4,7 +4,7 @@
   <artifactId>full-sdk</artifactId>
   <versioning>
     <latest>3.5.0.1</latest>
-    <release>3.7.2.1</release>
+    <release>3.7.2.1-ci-test</release>
     <versions>
       <version>3.3.0</version>
       <version>3.5.0</version>
@@ -58,8 +58,9 @@
       <version>4.0.1</version>
       <version>3.7.2</version>
       <version>3.7.2.1</version>
+      <version>3.7.2.1-ci-test</version>
       <version>3.6.1.2</version>
     </versions>
-    <lastUpdated>20221111110425</lastUpdated>
+    <lastUpdated>20221212080141</lastUpdated>
   </versioning>
 </metadata>

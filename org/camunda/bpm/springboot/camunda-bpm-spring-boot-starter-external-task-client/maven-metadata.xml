@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.springboot</groupId>
   <artifactId>camunda-bpm-spring-boot-starter-external-task-client</artifactId>
   <versioning>
-    <latest>7.19.0-alpha1</latest>
-    <release>7.19.0-alpha1</release>
+    <latest>7.19.0-alpha2</latest>
+    <release>7.19.0-alpha2</release>
     <versions>
       <version>7.15.0-alpha5</version>
       <version>7.15.0</version>
@@ -29,7 +29,8 @@
       <version>7.18.0-alpha6</version>
       <version>7.18.0</version>
       <version>7.19.0-alpha1</version>
+      <version>7.19.0-alpha2</version>
     </versions>
-    <lastUpdated>20221107141850</lastUpdated>
+    <lastUpdated>20221212145524</lastUpdated>
   </versioning>
 </metadata>
