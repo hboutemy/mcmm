@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-blobstore-s3</artifactId>
   <versioning>
-    <latest>3.43.0-01</latest>
-    <release>3.43.0-01</release>
+    <latest>3.44.0-01</latest>
+    <release>3.44.0-01</release>
     <versions>
       <version>3.6.1-02</version>
       <version>3.6.2-01</version>
@@ -91,7 +91,8 @@
       <version>3.41.1-01</version>
       <version>3.42.0-01</version>
       <version>3.43.0-01</version>
+      <version>3.44.0-01</version>
     </versions>
-    <lastUpdated>20221107143901</lastUpdated>
+    <lastUpdated>20221213213644</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-kafka-clients-2.6</artifactId>
   <versioning>
-    <latest>1.20.2-alpha</latest>
-    <release>1.20.2-alpha</release>
+    <latest>1.21.0-alpha</latest>
+    <release>1.21.0-alpha</release>
     <versions>
       <version>1.7.0-alpha</version>
       <version>1.7.1-alpha</version>
@@ -32,7 +32,8 @@
       <version>1.20.0-alpha</version>
       <version>1.20.1-alpha</version>
       <version>1.20.2-alpha</version>
+      <version>1.21.0-alpha</version>
     </versions>
-    <lastUpdated>20221122004110</lastUpdated>
+    <lastUpdated>20221213232442</lastUpdated>
   </versioning>
 </metadata>
