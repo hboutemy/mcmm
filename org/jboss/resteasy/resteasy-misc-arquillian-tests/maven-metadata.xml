@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-misc-arquillian-tests</artifactId>
   <versioning>
-    <latest>6.2.1.Final</latest>
-    <release>6.2.1.Final</release>
+    <latest>6.2.2.Final</latest>
+    <release>6.2.2.Final</release>
     <versions>
       <version>4.7.1.Final</version>
       <version>4.7.2.Final</version>
@@ -22,6 +22,7 @@
       <version>5.0.2.Final</version>
       <version>5.0.3.Final</version>
       <version>5.0.4.Final</version>
+      <version>5.0.5.Final</version>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
@@ -35,7 +36,8 @@
       <version>6.2.0.Beta1</version>
       <version>6.2.0.Final</version>
       <version>6.2.1.Final</version>
+      <version>6.2.2.Final</version>
     </versions>
-    <lastUpdated>20221010204311</lastUpdated>
+    <lastUpdated>20221213195106</lastUpdated>
   </versioning>
 </metadata>
