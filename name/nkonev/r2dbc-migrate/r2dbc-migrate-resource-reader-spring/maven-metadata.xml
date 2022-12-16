@@ -3,8 +3,8 @@
   <groupId>name.nkonev.r2dbc-migrate</groupId>
   <artifactId>r2dbc-migrate-resource-reader-spring</artifactId>
   <versioning>
-    <latest>2.8.0-RC1</latest>
-    <release>2.8.0-RC1</release>
+    <latest>2.8.0</latest>
+    <release>2.8.0</release>
     <versions>
       <version>1.4.0</version>
       <version>1.5.0</version>
@@ -27,7 +27,8 @@
       <version>2.7.7</version>
       <version>2.7.8</version>
       <version>2.8.0-RC1</version>
+      <version>2.8.0</version>
     </versions>
-    <lastUpdated>20221024221405</lastUpdated>
+    <lastUpdated>20221215145105</lastUpdated>
   </versioning>
 </metadata>
