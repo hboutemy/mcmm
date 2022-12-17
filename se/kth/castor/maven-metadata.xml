@@ -7,6 +7,11 @@
       <artifactId>depclean-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>DepTrim</name>
+      <prefix>deptrim</prefix>
+      <artifactId>deptrim-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jdbl-maven-plugin</name>
       <prefix>jdbl</prefix>
       <artifactId>jdbl-maven-plugin</artifactId>

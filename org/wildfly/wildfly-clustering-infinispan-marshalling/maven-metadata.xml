@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-infinispan-marshalling</artifactId>
   <versioning>
-    <latest>27.0.0.Final</latest>
-    <release>27.0.0.Final</release>
+    <latest>27.0.1.Final</latest>
+    <release>27.0.1.Final</release>
     <versions>
       <version>20.0.0.Beta1</version>
       <version>20.0.0.Final</version>
@@ -41,7 +41,8 @@
       <version>27.0.0.Alpha5</version>
       <version>27.0.0.Beta1</version>
       <version>27.0.0.Final</version>
+      <version>27.0.1.Final</version>
     </versions>
-    <lastUpdated>20221108224735</lastUpdated>
+    <lastUpdated>20221216001908</lastUpdated>
   </versioning>
 </metadata>

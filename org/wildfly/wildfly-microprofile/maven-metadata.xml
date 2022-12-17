@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile</artifactId>
   <versioning>
-    <latest>27.0.0.Final</latest>
-    <release>27.0.0.Final</release>
+    <latest>27.0.1.Final</latest>
+    <release>27.0.1.Final</release>
     <versions>
       <version>19.0.0.Beta1</version>
       <version>19.0.0.Beta2</version>
@@ -46,7 +46,8 @@
       <version>27.0.0.Alpha5</version>
       <version>27.0.0.Beta1</version>
       <version>27.0.0.Final</version>
+      <version>27.0.1.Final</version>
     </versions>
-    <lastUpdated>20221108224813</lastUpdated>
+    <lastUpdated>20221216001945</lastUpdated>
   </versioning>
 </metadata>

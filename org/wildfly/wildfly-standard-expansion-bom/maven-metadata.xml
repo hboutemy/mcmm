@@ -3,14 +3,15 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-standard-expansion-bom</artifactId>
   <versioning>
-    <latest>27.0.0.Final</latest>
-    <release>27.0.0.Final</release>
+    <latest>27.0.1.Final</latest>
+    <release>27.0.1.Final</release>
     <versions>
       <version>27.0.0.Alpha4</version>
       <version>27.0.0.Alpha5</version>
       <version>27.0.0.Beta1</version>
       <version>27.0.0.Final</version>
+      <version>27.0.1.Final</version>
     </versions>
-    <lastUpdated>20221108224837</lastUpdated>
+    <lastUpdated>20221216002005</lastUpdated>
   </versioning>
 </metadata>

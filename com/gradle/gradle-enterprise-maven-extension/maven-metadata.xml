@@ -3,8 +3,8 @@
   <groupId>com.gradle</groupId>
   <artifactId>gradle-enterprise-maven-extension</artifactId>
   <versioning>
-    <latest>1.16</latest>
-    <release>1.16</release>
+    <latest>1.16.1</latest>
+    <release>1.16.1</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1</version>
@@ -88,7 +88,8 @@
       <version>1.15.4</version>
       <version>1.15.5</version>
       <version>1.16</version>
+      <version>1.16.1</version>
     </versions>
-    <lastUpdated>20221208142528</lastUpdated>
+    <lastUpdated>20221216171120</lastUpdated>
   </versioning>
 </metadata>
