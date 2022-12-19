@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller.samples</groupId>
   <artifactId>clustering-it-provider</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>1.1-Helium</version>
       <version>1.1.1-Helium-SR1</version>
@@ -116,7 +116,8 @@
       <version>6.0.4</version>
       <version>6.0.5</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
     </versions>
-    <lastUpdated>20221204232628</lastUpdated>
+    <lastUpdated>20221218190610</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.kafkaconnector</groupId>
   <artifactId>itests-azure-storage-queue</artifactId>
   <versioning>
-    <latest>3.18.2</latest>
-    <release>3.18.2</release>
+    <latest>3.19.0</latest>
+    <release>3.19.0</release>
     <versions>
       <version>0.5.0</version>
       <version>0.6.0</version>
@@ -22,7 +22,8 @@
       <version>1.0.0</version>
       <version>3.18.1</version>
       <version>3.18.2</version>
+      <version>3.19.0</version>
     </versions>
-    <lastUpdated>20221021201150</lastUpdated>
+    <lastUpdated>20221217233006</lastUpdated>
   </versioning>
 </metadata>

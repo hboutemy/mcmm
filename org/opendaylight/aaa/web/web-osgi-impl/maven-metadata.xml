@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.aaa.web</groupId>
   <artifactId>web-osgi-impl</artifactId>
   <versioning>
-    <latest>0.17.0</latest>
-    <release>0.17.0</release>
+    <latest>0.17.1</latest>
+    <release>0.17.1</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -72,7 +72,8 @@
       <version>0.16.5</version>
       <version>0.16.6</version>
       <version>0.17.0</version>
+      <version>0.17.1</version>
     </versions>
-    <lastUpdated>20221205082231</lastUpdated>
+    <lastUpdated>20221218233040</lastUpdated>
   </versioning>
 </metadata>
