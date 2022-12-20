@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jdeploy-maven-plugin</name>
+      <prefix>jdeploy</prefix>
+      <artifactId>jdeploy-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-mirah-plugin</name>
       <prefix>mirah</prefix>
       <artifactId>maven-mirah-plugin</artifactId>

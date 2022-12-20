@@ -3,8 +3,8 @@
   <groupId>org.querqy</groupId>
   <artifactId>querqy-lucene</artifactId>
   <versioning>
-    <latest>5.5.lucene900.0</latest>
-    <release>5.5.lucene900.0</release>
+    <latest>5.5.lucene900.1</latest>
+    <release>5.5.lucene900.1</release>
     <versions>
       <version>4.7.lucene720.0</version>
       <version>4.7.lucene800.0</version>
@@ -47,8 +47,10 @@
       <version>5.4.lucene900.0</version>
       <version>5.4.lucene900.1</version>
       <version>5.5.lucene811.0</version>
+      <version>5.5.lucene811.1</version>
       <version>5.5.lucene900.0</version>
+      <version>5.5.lucene900.1</version>
     </versions>
-    <lastUpdated>20221201154251</lastUpdated>
+    <lastUpdated>20221219174201</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.realm</groupId>
   <artifactId>realm-android-kotlin-extensions-object-server</artifactId>
   <versioning>
-    <latest>10.13.0</latest>
-    <release>10.13.0</release>
+    <latest>10.13.0-transformer-api</latest>
+    <release>10.13.0-transformer-api</release>
     <versions>
       <version>10.4.0-RC.1</version>
       <version>10.4.0</version>
@@ -26,7 +26,8 @@
       <version>10.12.0</version>
       <version>10.12.0-transformer-api</version>
       <version>10.13.0</version>
+      <version>10.13.0-transformer-api</version>
     </versions>
-    <lastUpdated>20221205151247</lastUpdated>
+    <lastUpdated>20221219122619</lastUpdated>
   </versioning>
 </metadata>

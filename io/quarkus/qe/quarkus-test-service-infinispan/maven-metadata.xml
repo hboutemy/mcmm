@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-service-infinispan</artifactId>
   <versioning>
-    <latest>1.2.0.Beta16</latest>
-    <release>1.2.0.Beta16</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>0.0.16</version>
       <version>1.0.0.Final</version>
@@ -39,7 +39,8 @@
       <version>1.2.0.Beta14</version>
       <version>1.2.0.Beta15</version>
       <version>1.2.0.Beta16</version>
+      <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20221215102301</lastUpdated>
+    <lastUpdated>20221219095058</lastUpdated>
   </versioning>
 </metadata>

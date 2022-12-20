@@ -3,14 +3,15 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-knative-events-parent</artifactId>
   <versioning>
-    <latest>1.2.0.Beta16</latest>
-    <release>1.2.0.Beta16</release>
+    <latest>1.2.0.Final</latest>
+    <release>1.2.0.Final</release>
     <versions>
       <version>1.2.0.Beta13</version>
       <version>1.2.0.Beta14</version>
       <version>1.2.0.Beta15</version>
       <version>1.2.0.Beta16</version>
+      <version>1.2.0.Final</version>
     </versions>
-    <lastUpdated>20221215102258</lastUpdated>
+    <lastUpdated>20221219095055</lastUpdated>
   </versioning>
 </metadata>
