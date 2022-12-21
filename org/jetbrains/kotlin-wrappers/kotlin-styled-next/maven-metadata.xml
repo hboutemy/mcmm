@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-styled-next</artifactId>
   <versioning>
-    <latest>1.2.1-pre.461</latest>
-    <release>1.2.1-pre.461</release>
+    <latest>1.2.1-pre.461-compat</latest>
+    <release>1.2.1-pre.461-compat</release>
     <versions>
       <version>0.1-pre.220-kotlin-1.5.21</version>
       <version>0.1-pre.221-kotlin-1.5.21</version>
@@ -266,7 +266,8 @@
       <version>1.2.1-pre.459</version>
       <version>1.2.1-pre.460</version>
       <version>1.2.1-pre.461</version>
+      <version>1.2.1-pre.461-compat</version>
     </versions>
-    <lastUpdated>20221219074005</lastUpdated>
+    <lastUpdated>20221220075845</lastUpdated>
   </versioning>
 </metadata>

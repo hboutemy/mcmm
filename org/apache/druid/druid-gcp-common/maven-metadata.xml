@@ -3,8 +3,8 @@
   <groupId>org.apache.druid</groupId>
   <artifactId>druid-gcp-common</artifactId>
   <versioning>
-    <latest>24.0.1</latest>
-    <release>24.0.1</release>
+    <latest>24.0.2</latest>
+    <release>24.0.2</release>
     <versions>
       <version>0.15.0-incubating</version>
       <version>0.15.1-incubating</version>
@@ -25,7 +25,8 @@
       <version>0.23.0</version>
       <version>24.0.0</version>
       <version>24.0.1</version>
+      <version>24.0.2</version>
     </versions>
-    <lastUpdated>20221121044401</lastUpdated>
+    <lastUpdated>20221220191738</lastUpdated>
   </versioning>
 </metadata>

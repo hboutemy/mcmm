@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-beautiful-dnd</artifactId>
   <versioning>
-    <latest>13.1.0-pre.461</latest>
-    <release>13.1.0-pre.461</release>
+    <latest>13.1.0-pre.461-compat</latest>
+    <release>13.1.0-pre.461-compat</release>
     <versions>
       <version>13.1.0-pre.327-kotlin-1.6.20</version>
       <version>13.1.0-pre.328-kotlin-1.6.20</version>
@@ -159,7 +159,8 @@
       <version>13.1.0-pre.459</version>
       <version>13.1.0-pre.460</version>
       <version>13.1.0-pre.461</version>
+      <version>13.1.0-pre.461-compat</version>
     </versions>
-    <lastUpdated>20221219073940</lastUpdated>
+    <lastUpdated>20221220075819</lastUpdated>
   </versioning>
 </metadata>

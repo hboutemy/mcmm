@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-web</artifactId>
   <versioning>
-    <latest>1.0.0-pre.461</latest>
-    <release>1.0.0-pre.461</release>
+    <latest>1.0.0-pre.461-compat</latest>
+    <release>1.0.0-pre.461-compat</release>
     <versions>
       <version>1.0.0-pre.393</version>
       <version>1.0.0-pre.394</version>
@@ -81,7 +81,8 @@
       <version>1.0.0-pre.459</version>
       <version>1.0.0-pre.460</version>
       <version>1.0.0-pre.461</version>
+      <version>1.0.0-pre.461-compat</version>
     </versions>
-    <lastUpdated>20221219074023</lastUpdated>
+    <lastUpdated>20221220075902</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.alicp.jetcache</groupId>
   <artifactId>jetcache-redis-lettuce</artifactId>
   <versioning>
-    <latest>2.7.1</latest>
-    <release>2.7.1</release>
+    <latest>2.7.2</latest>
+    <release>2.7.2</release>
     <versions>
       <version>2.3.0</version>
       <version>2.3.1</version>
@@ -54,7 +54,8 @@
       <version>2.7.0.RC3</version>
       <version>2.7.0</version>
       <version>2.7.1</version>
+      <version>2.7.2</version>
     </versions>
-    <lastUpdated>20221112024943</lastUpdated>
+    <lastUpdated>20221220134052</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>com.ibm.websphere.appserver.javax.validation-1.1</artifactId>
   <versioning>
-    <latest>22.0.0.12</latest>
-    <release>22.0.0.12</release>
+    <latest>22.0.0.13</latest>
+    <release>22.0.0.13</release>
     <versions>
       <version>18.0.0.2</version>
       <version>18.0.0.3</version>
@@ -57,7 +57,8 @@
       <version>22.0.0.10</version>
       <version>22.0.0.11</version>
       <version>22.0.0.12</version>
+      <version>22.0.0.13</version>
     </versions>
-    <lastUpdated>20221122074452</lastUpdated>
+    <lastUpdated>20221220112833</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-virtual-core</artifactId>
   <versioning>
-    <latest>3.0.0-beta.30-pre.461</latest>
-    <release>3.0.0-beta.30-pre.461</release>
+    <latest>3.0.0-beta.30-pre.461-compat</latest>
+    <release>3.0.0-beta.30-pre.461-compat</release>
     <versions>
       <version>3.0.0-alpha.1-pre.360</version>
       <version>3.0.0-beta.13-pre.361</version>
@@ -118,7 +118,8 @@
       <version>3.0.0-beta.30-pre.459</version>
       <version>3.0.0-beta.30-pre.460</version>
       <version>3.0.0-beta.30-pre.461</version>
+      <version>3.0.0-beta.30-pre.461-compat</version>
     </versions>
-    <lastUpdated>20221219074019</lastUpdated>
+    <lastUpdated>20221220075858</lastUpdated>
   </versioning>
 </metadata>

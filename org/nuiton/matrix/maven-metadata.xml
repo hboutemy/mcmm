@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.nuiton</groupId>
   <artifactId>matrix</artifactId>
   <versioning>
     <latest>2.6</latest>
-    <release>2.6</release>
+    <release>2.6.1</release>
     <versions>
       <version>2.1</version>
       <version>2.2</version>
@@ -22,8 +22,9 @@
       <version>2.5.2</version>
       <version>2.5.3</version>
       <version>2.6</version>
+      <version>2.6.1</version>
       <version>2.6-taiste-gitflow</version>
     </versions>
-    <lastUpdated>20211203232109</lastUpdated>
+    <lastUpdated>20221219195122</lastUpdated>
   </versioning>
 </metadata>
