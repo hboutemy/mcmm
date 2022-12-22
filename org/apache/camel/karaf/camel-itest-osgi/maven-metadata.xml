@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.karaf</groupId>
   <artifactId>camel-itest-osgi</artifactId>
   <versioning>
-    <latest>3.19.0</latest>
-    <release>3.19.0</release>
+    <latest>3.20.0</latest>
+    <release>3.20.0</release>
     <versions>
       <version>3.2.0</version>
       <version>3.3.0</version>
@@ -55,7 +55,8 @@
       <version>3.18.3</version>
       <version>3.18.4</version>
       <version>3.19.0</version>
+      <version>3.20.0</version>
     </versions>
-    <lastUpdated>20221217084522</lastUpdated>
+    <lastUpdated>20221221090104</lastUpdated>
   </versioning>
 </metadata>

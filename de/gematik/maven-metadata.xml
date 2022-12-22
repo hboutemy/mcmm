@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>BDD Parameterizer Maven Plugin</name>
+      <name>CuTest Combinations Maven Plugin</name>
       <prefix>cucumber-test-combinations</prefix>
       <artifactId>cucumber-test-combinations-maven-plugin</artifactId>
     </plugin>
