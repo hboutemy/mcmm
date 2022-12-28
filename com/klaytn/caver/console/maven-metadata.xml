@@ -3,8 +3,8 @@
   <groupId>com.klaytn.caver</groupId>
   <artifactId>console</artifactId>
   <versioning>
-    <latest>1.10.0-rc.2-android</latest>
-    <release>1.10.0-rc.2-android</release>
+    <latest>1.10.0-android</latest>
+    <release>1.10.0-android</release>
     <versions>
       <version>0.9.5</version>
       <version>1.0.0</version>
@@ -162,7 +162,9 @@
       <version>1.10.0-rc.1-android</version>
       <version>1.10.0-rc.2</version>
       <version>1.10.0-rc.2-android</version>
+      <version>1.10.0</version>
+      <version>1.10.0-android</version>
     </versions>
-    <lastUpdated>20221216091045</lastUpdated>
+    <lastUpdated>20221227083425</lastUpdated>
   </versioning>
 </metadata>
