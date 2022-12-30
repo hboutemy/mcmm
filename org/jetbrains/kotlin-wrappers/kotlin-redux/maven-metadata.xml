@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-redux</artifactId>
   <versioning>
-    <latest>4.1.2-pre.465</latest>
-    <release>4.1.2-pre.465</release>
+    <latest>4.1.2-pre.466-compat</latest>
+    <release>4.1.2-pre.466-compat</release>
     <versions>
       <version>4.0.5-pre.202-kotlin-1.5.0</version>
       <version>4.0.5-pre.203-kotlin-1.5.0</version>
@@ -293,7 +293,9 @@
       <version>4.1.2-pre.463</version>
       <version>4.1.2-pre.464</version>
       <version>4.1.2-pre.465</version>
+      <version>4.1.2-pre.466</version>
+      <version>4.1.2-pre.466-compat</version>
     </versions>
-    <lastUpdated>20221227144048</lastUpdated>
+    <lastUpdated>20221229170500</lastUpdated>
   </versioning>
 </metadata>

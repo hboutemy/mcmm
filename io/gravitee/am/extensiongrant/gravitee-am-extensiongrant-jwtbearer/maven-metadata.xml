@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.extensiongrant</groupId>
   <artifactId>gravitee-am-extensiongrant-jwtbearer</artifactId>
   <versioning>
-    <latest>3.20.0-alpha.1</latest>
-    <release>3.20.0-alpha.1</release>
+    <latest>3.20.0-alpha.2</latest>
+    <release>3.20.0-alpha.2</release>
     <versions>
       <version>1.5.0</version>
       <version>1.5.1</version>
@@ -219,7 +219,8 @@
       <version>3.19.3</version>
       <version>3.19.4</version>
       <version>3.20.0-alpha.1</version>
+      <version>3.20.0-alpha.2</version>
     </versions>
-    <lastUpdated>20221222164556</lastUpdated>
+    <lastUpdated>20221229155959</lastUpdated>
   </versioning>
 </metadata>
