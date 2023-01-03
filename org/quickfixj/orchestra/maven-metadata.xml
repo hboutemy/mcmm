@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>quickfixj-from-fix-orchestra-code-generator-maven-plugin</name>
+      <prefix>quickfixj-from-fix-orchestra-code-generator</prefix>
+      <artifactId>quickfixj-from-fix-orchestra-code-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin</name>
+      <prefix>quickfixj-from-fix-orchestra-dictionary-generator</prefix>
+      <artifactId>quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
