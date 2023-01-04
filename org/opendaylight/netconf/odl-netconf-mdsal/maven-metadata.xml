@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>odl-netconf-mdsal</artifactId>
   <versioning>
-    <latest>4.0.4</latest>
-    <release>4.0.4</release>
+    <latest>4.0.5</latest>
+    <release>4.0.5</release>
     <versions>
       <version>1.5.0-Carbon</version>
       <version>1.5.1-Carbon</version>
@@ -86,7 +86,8 @@
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
     </versions>
-    <lastUpdated>20221204151316</lastUpdated>
+    <lastUpdated>20230103135922</lastUpdated>
   </versioning>
 </metadata>
