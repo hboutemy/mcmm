@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-server-mdm</artifactId>
   <versioning>
-    <latest>6.2.3</latest>
-    <release>6.2.3</release>
+    <latest>6.2.4</latest>
+    <release>6.2.4</release>
     <versions>
       <version>5.3.0</version>
       <version>5.3.2</version>
@@ -47,7 +47,8 @@
       <version>6.2.1</version>
       <version>6.2.2</version>
       <version>6.2.3</version>
+      <version>6.2.4</version>
     </versions>
-    <lastUpdated>20230104152719</lastUpdated>
+    <lastUpdated>20230105204501</lastUpdated>
   </versioning>
 </metadata>
