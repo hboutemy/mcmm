@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-core</artifactId>
   <versioning>
-    <latest>18.2.0-pre.469</latest>
-    <release>18.2.0-pre.469</release>
+    <latest>18.2.0-pre.470-compat</latest>
+    <release>18.2.0-pre.470-compat</release>
     <versions>
       <version>17.0.2-pre.280-kotlin-1.6.0</version>
       <version>17.0.2-pre.281-kotlin-1.6.10</version>
@@ -217,7 +217,9 @@
       <version>18.2.0-pre.467-compat</version>
       <version>18.2.0-pre.468</version>
       <version>18.2.0-pre.469</version>
+      <version>18.2.0-pre.470</version>
+      <version>18.2.0-pre.470-compat</version>
     </versions>
-    <lastUpdated>20230105213410</lastUpdated>
+    <lastUpdated>20230106174638</lastUpdated>
   </versioning>
 </metadata>
