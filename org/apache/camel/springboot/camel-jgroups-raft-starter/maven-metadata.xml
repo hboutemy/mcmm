@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-jgroups-raft-starter</artifactId>
   <versioning>
-    <latest>3.20.0</latest>
-    <release>3.20.0</release>
+    <latest>3.20.1</latest>
+    <release>3.20.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -59,7 +59,8 @@
       <version>3.18.4</version>
       <version>3.19.0</version>
       <version>3.20.0</version>
+      <version>3.20.1</version>
     </versions>
-    <lastUpdated>20221221085849</lastUpdated>
+    <lastUpdated>20230107090433</lastUpdated>
   </versioning>
 </metadata>
