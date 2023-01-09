@@ -2,6 +2,31 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven JAXB 2.x Plugin</name>
+      <prefix>jaxb2</prefix>
+      <artifactId>jaxb2-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.2.x Plugin</name>
+      <prefix>jaxb22</prefix>
+      <artifactId>jaxb22-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 2.3.x Plugin</name>
+      <prefix>jaxb23</prefix>
+      <artifactId>jaxb23-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 3.0.x Plugin</name>
+      <prefix>jaxb30</prefix>
+      <artifactId>jaxb30-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven JAXB 4.0.x Plugin</name>
+      <prefix>jaxb40</prefix>
+      <artifactId>jaxb40-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JAX-WS Maven Plugin</name>
       <prefix>jaxws</prefix>
       <artifactId>jaxws-maven-plugin</artifactId>
