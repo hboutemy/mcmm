@@ -2,9 +2,14 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Faktor-IPS Maven Plugin</name>
+      <name>Faktor-IPS Build Maven Plugin</name>
       <prefix>faktorips</prefix>
       <artifactId>faktorips-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Faktor-IPS Validation Maven Plugin</name>
+      <prefix>faktorips-validation</prefix>
+      <artifactId>faktorips-validation-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

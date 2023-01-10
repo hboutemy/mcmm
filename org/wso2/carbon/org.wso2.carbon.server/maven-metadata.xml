@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon</groupId>
   <artifactId>org.wso2.carbon.server</artifactId>
   <versioning>
-    <latest>4.9.0-m3</latest>
-    <release>4.9.0-m3</release>
+    <latest>4.9.0-m5</latest>
+    <release>4.9.0-m5</release>
     <versions>
       <version>4.4.19</version>
       <version>4.4.20</version>
@@ -81,10 +81,11 @@
       <version>4.7.1</version>
       <version>4.8.0-m1</version>
       <version>4.8.0-m2</version>
+      <version>4.9.0-alpha</version>
       <version>4.9.0-m1</version>
       <version>4.9.0-m2</version>
       <version>4.9.0-m3</version>
     </versions>
-    <lastUpdated>20221121101158</lastUpdated>
+    <lastUpdated>20230109112501</lastUpdated>
   </versioning>
 </metadata>
