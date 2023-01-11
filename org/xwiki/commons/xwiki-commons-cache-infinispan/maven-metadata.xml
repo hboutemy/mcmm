@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-cache-infinispan</artifactId>
   <versioning>
-    <latest>14.10.2</latest>
-    <release>14.10.2</release>
+    <latest>14.10.3</latest>
+    <release>14.10.3</release>
     <versions>
       <version>8.3-milestone-2</version>
       <version>8.3-rc-1</version>
@@ -247,7 +247,8 @@
       <version>14.10</version>
       <version>14.10.1</version>
       <version>14.10.2</version>
+      <version>14.10.3</version>
     </versions>
-    <lastUpdated>20230105100119</lastUpdated>
+    <lastUpdated>20230110095928</lastUpdated>
   </versioning>
 </metadata>

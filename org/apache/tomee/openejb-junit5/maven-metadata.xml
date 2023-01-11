@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee</groupId>
   <artifactId>openejb-junit5</artifactId>
   <versioning>
-    <latest>9.0.0.RC1</latest>
-    <release>9.0.0.RC1</release>
+    <latest>9.0.0</latest>
+    <release>9.0.0</release>
     <versions>
       <version>8.0.7</version>
       <version>8.0.8</version>
@@ -15,7 +15,8 @@
       <version>8.0.13</version>
       <version>9.0.0-M8</version>
       <version>9.0.0.RC1</version>
+      <version>9.0.0</version>
     </versions>
-    <lastUpdated>20221103101805</lastUpdated>
+    <lastUpdated>20230110124730</lastUpdated>
   </versioning>
 </metadata>

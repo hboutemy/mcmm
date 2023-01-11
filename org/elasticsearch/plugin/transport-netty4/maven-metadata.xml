@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.plugin</groupId>
   <artifactId>transport-netty4</artifactId>
   <versioning>
-    <latest>8.5.3</latest>
-    <release>8.5.3</release>
+    <latest>8.6.0</latest>
+    <release>8.6.0</release>
     <versions>
       <version>8.1.1</version>
       <version>8.1.2</version>
@@ -25,7 +25,8 @@
       <version>8.5.1</version>
       <version>8.5.2</version>
       <version>8.5.3</version>
+      <version>8.6.0</version>
     </versions>
-    <lastUpdated>20221208173926</lastUpdated>
+    <lastUpdated>20230110151700</lastUpdated>
   </versioning>
 </metadata>

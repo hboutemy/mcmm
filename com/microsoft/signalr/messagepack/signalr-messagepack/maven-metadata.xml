@@ -3,8 +3,8 @@
   <groupId>com.microsoft.signalr.messagepack</groupId>
   <artifactId>signalr-messagepack</artifactId>
   <versioning>
-    <latest>7.0.1</latest>
-    <release>7.0.1</release>
+    <latest>7.0.2</latest>
+    <release>7.0.2</release>
     <versions>
       <version>5.0.0-rc.1.20451.17</version>
       <version>5.0.0-rc.2.20475.17</version>
@@ -48,6 +48,7 @@
       <version>6.0.10</version>
       <version>6.0.11</version>
       <version>6.0.12</version>
+      <version>6.0.13</version>
       <version>7.0.0-rc.1.22427.2</version>
       <version>7.0.0-rc.2.22476.2</version>
       <version>7.0.0</version>
@@ -59,7 +60,8 @@
       <version>7.0.0-preview.6.22330.3</version>
       <version>7.0.0-preview.7.22376.6</version>
       <version>7.0.1</version>
+      <version>7.0.2</version>
     </versions>
-    <lastUpdated>20221216112841</lastUpdated>
+    <lastUpdated>20230110145644</lastUpdated>
   </versioning>
 </metadata>
