@@ -3,8 +3,8 @@
   <groupId>io.micronaut.aws</groupId>
   <artifactId>micronaut-aws-alexa-httpserver</artifactId>
   <versioning>
-    <latest>3.11.0</latest>
-    <release>3.11.0</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>2.0.0.M1</version>
       <version>2.0.0.M2</version>
@@ -77,8 +77,10 @@
       <version>3.10.2</version>
       <version>3.10.3</version>
       <version>3.10.4</version>
+      <version>3.10.5</version>
       <version>3.11.0</version>
+      <version>3.12.0</version>
     </versions>
-    <lastUpdated>20230103085159</lastUpdated>
+    <lastUpdated>20230111204432</lastUpdated>
   </versioning>
 </metadata>
