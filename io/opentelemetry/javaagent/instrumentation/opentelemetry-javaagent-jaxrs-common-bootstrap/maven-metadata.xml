@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jaxrs-common-bootstrap</artifactId>
   <versioning>
-    <latest>1.21.0-alpha</latest>
-    <release>1.21.0-alpha</release>
+    <latest>1.22.0-alpha</latest>
+    <release>1.22.0-alpha</release>
     <versions>
       <version>1.9.0-alpha</version>
       <version>1.9.1-alpha</version>
@@ -29,7 +29,8 @@
       <version>1.20.1-alpha</version>
       <version>1.20.2-alpha</version>
       <version>1.21.0-alpha</version>
+      <version>1.22.0-alpha</version>
     </versions>
-    <lastUpdated>20221213232812</lastUpdated>
+    <lastUpdated>20230112200237</lastUpdated>
   </versioning>
 </metadata>

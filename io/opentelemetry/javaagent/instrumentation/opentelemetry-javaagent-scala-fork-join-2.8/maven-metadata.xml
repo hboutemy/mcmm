@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-scala-fork-join-2.8</artifactId>
   <versioning>
-    <latest>1.21.0-alpha</latest>
-    <release>1.21.0-alpha</release>
+    <latest>1.22.0-alpha</latest>
+    <release>1.22.0-alpha</release>
     <versions>
       <version>1.11.0-alpha</version>
       <version>1.11.1-alpha</version>
@@ -24,7 +24,8 @@
       <version>1.20.1-alpha</version>
       <version>1.20.2-alpha</version>
       <version>1.21.0-alpha</version>
+      <version>1.22.0-alpha</version>
     </versions>
-    <lastUpdated>20221213233105</lastUpdated>
+    <lastUpdated>20230112200528</lastUpdated>
   </versioning>
 </metadata>

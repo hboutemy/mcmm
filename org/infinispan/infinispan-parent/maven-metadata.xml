@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-parent</artifactId>
   <versioning>
-    <latest>14.0.4.Final</latest>
-    <release>14.0.4.Final</release>
+    <latest>14.0.5.Final</latest>
+    <release>14.0.5.Final</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -305,6 +305,7 @@
       <version>12.1.11.Final</version>
       <version>12.1.12.Final</version>
       <version>12.1.13.Final</version>
+      <version>12.1.14.Final</version>
       <version>13.0.0.CR1</version>
       <version>13.0.0.CR2</version>
       <version>13.0.0.Final</version>
@@ -326,6 +327,7 @@
       <version>13.0.12.Final</version>
       <version>13.0.13.Final</version>
       <version>13.0.14.Final</version>
+      <version>13.0.15.Final</version>
       <version>14.0.0.CR1</version>
       <version>14.0.0.CR2</version>
       <version>14.0.0.Final</version>
@@ -337,8 +339,9 @@
       <version>14.0.2.Final</version>
       <version>14.0.3.Final</version>
       <version>14.0.4.Final</version>
+      <version>14.0.5.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20221216153953</lastUpdated>
+    <lastUpdated>20230112092122</lastUpdated>
   </versioning>
 </metadata>

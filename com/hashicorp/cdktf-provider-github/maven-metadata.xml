@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-github</artifactId>
   <versioning>
-    <latest>5.0.3</latest>
-    <release>5.0.3</release>
+    <latest>0.5.29</latest>
+    <release>0.5.29</release>
     <versions>
       <version>0.3.9</version>
       <version>0.3.10</version>
@@ -344,14 +344,6 @@
       <version>0.5.152</version>
       <version>0.5.153</version>
       <version>0.6.1</version>
-      <version>0.6.2</version>
-      <version>0.6.3</version>
-      <version>0.6.4</version>
-      <version>0.6.5</version>
-      <version>0.6.6</version>
-      <version>0.6.7</version>
-      <version>0.6.8</version>
-      <version>0.6.9</version>
       <version>0.6.10</version>
       <version>0.6.11</version>
       <version>0.6.12</version>
@@ -362,6 +354,7 @@
       <version>0.6.17</version>
       <version>0.6.18</version>
       <version>0.6.19</version>
+      <version>0.6.2</version>
       <version>0.6.20</version>
       <version>0.6.21</version>
       <version>0.6.22</version>
@@ -372,6 +365,7 @@
       <version>0.6.27</version>
       <version>0.6.28</version>
       <version>0.6.29</version>
+      <version>0.6.3</version>
       <version>0.6.30</version>
       <version>0.6.31</version>
       <version>0.6.32</version>
@@ -382,6 +376,7 @@
       <version>0.6.37</version>
       <version>0.6.38</version>
       <version>0.6.39</version>
+      <version>0.6.4</version>
       <version>0.6.40</version>
       <version>0.6.41</version>
       <version>0.6.42</version>
@@ -392,6 +387,7 @@
       <version>0.6.47</version>
       <version>0.6.48</version>
       <version>0.6.49</version>
+      <version>0.6.5</version>
       <version>0.6.50</version>
       <version>0.6.51</version>
       <version>0.6.52</version>
@@ -402,19 +398,16 @@
       <version>0.6.57</version>
       <version>0.6.58</version>
       <version>0.6.59</version>
+      <version>0.6.6</version>
       <version>0.6.60</version>
       <version>0.6.61</version>
       <version>0.6.62</version>
       <version>0.6.63</version>
+      <version>0.6.7</version>
+      <version>0.6.8</version>
+      <version>0.6.9</version>
       <version>0.7.0</version>
       <version>0.7.1</version>
-      <version>0.7.2</version>
-      <version>0.7.3</version>
-      <version>0.7.4</version>
-      <version>0.7.5</version>
-      <version>0.7.6</version>
-      <version>0.7.7</version>
-      <version>0.7.9</version>
       <version>0.7.10</version>
       <version>0.7.11</version>
       <version>0.7.12</version>
@@ -425,6 +418,7 @@
       <version>0.7.17</version>
       <version>0.7.18</version>
       <version>0.7.19</version>
+      <version>0.7.2</version>
       <version>0.7.20</version>
       <version>0.7.21</version>
       <version>0.7.22</version>
@@ -435,6 +429,7 @@
       <version>0.7.27</version>
       <version>0.7.28</version>
       <version>0.7.29</version>
+      <version>0.7.3</version>
       <version>0.7.30</version>
       <version>0.7.31</version>
       <version>0.7.32</version>
@@ -445,6 +440,7 @@
       <version>0.7.37</version>
       <version>0.7.38</version>
       <version>0.7.39</version>
+      <version>0.7.4</version>
       <version>0.7.40</version>
       <version>0.7.41</version>
       <version>0.7.42</version>
@@ -455,6 +451,7 @@
       <version>0.7.47</version>
       <version>0.7.48</version>
       <version>0.7.49</version>
+      <version>0.7.5</version>
       <version>0.7.50</version>
       <version>0.7.51</version>
       <version>0.7.52</version>
@@ -464,6 +461,7 @@
       <version>0.7.56</version>
       <version>0.7.57</version>
       <version>0.7.59</version>
+      <version>0.7.6</version>
       <version>0.7.60</version>
       <version>0.7.61</version>
       <version>0.7.62</version>
@@ -474,15 +472,9 @@
       <version>0.7.67</version>
       <version>0.7.68</version>
       <version>0.7.69</version>
+      <version>0.7.7</version>
+      <version>0.7.9</version>
       <version>0.8.1</version>
-      <version>0.8.2</version>
-      <version>0.8.3</version>
-      <version>0.8.4</version>
-      <version>0.8.5</version>
-      <version>0.8.6</version>
-      <version>0.8.7</version>
-      <version>0.8.8</version>
-      <version>0.8.9</version>
       <version>0.8.10</version>
       <version>0.8.11</version>
       <version>0.8.12</version>
@@ -493,6 +485,7 @@
       <version>0.8.17</version>
       <version>0.8.18</version>
       <version>0.8.19</version>
+      <version>0.8.2</version>
       <version>0.8.20</version>
       <version>0.8.21</version>
       <version>0.8.22</version>
@@ -503,6 +496,7 @@
       <version>0.8.27</version>
       <version>0.8.28</version>
       <version>0.8.29</version>
+      <version>0.8.3</version>
       <version>0.8.30</version>
       <version>0.8.31</version>
       <version>0.8.32</version>
@@ -513,20 +507,18 @@
       <version>0.8.37</version>
       <version>0.8.38</version>
       <version>0.8.39</version>
+      <version>0.8.4</version>
       <version>0.8.40</version>
+      <version>0.8.5</version>
+      <version>0.8.6</version>
+      <version>0.8.7</version>
+      <version>0.8.8</version>
+      <version>0.8.9</version>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
-      <version>2.0.2</version>
-      <version>2.0.3</version>
-      <version>2.0.4</version>
-      <version>2.0.5</version>
-      <version>2.0.6</version>
-      <version>2.0.7</version>
-      <version>2.0.8</version>
-      <version>2.0.9</version>
       <version>2.0.10</version>
       <version>2.0.11</version>
       <version>2.0.12</version>
@@ -537,6 +529,7 @@
       <version>2.0.17</version>
       <version>2.0.18</version>
       <version>2.0.19</version>
+      <version>2.0.2</version>
       <version>2.0.20</version>
       <version>2.0.21</version>
       <version>2.0.22</version>
@@ -547,6 +540,7 @@
       <version>2.0.27</version>
       <version>2.0.28</version>
       <version>2.0.29</version>
+      <version>2.0.3</version>
       <version>2.0.30</version>
       <version>2.0.31</version>
       <version>2.0.32</version>
@@ -557,6 +551,7 @@
       <version>2.0.37</version>
       <version>2.0.38</version>
       <version>2.0.39</version>
+      <version>2.0.4</version>
       <version>2.0.40</version>
       <version>2.0.41</version>
       <version>2.0.42</version>
@@ -567,6 +562,7 @@
       <version>2.0.47</version>
       <version>2.0.48</version>
       <version>2.0.49</version>
+      <version>2.0.5</version>
       <version>2.0.50</version>
       <version>2.0.51</version>
       <version>2.0.52</version>
@@ -577,6 +573,7 @@
       <version>2.0.57</version>
       <version>2.0.58</version>
       <version>2.0.59</version>
+      <version>2.0.6</version>
       <version>2.0.60</version>
       <version>2.0.61</version>
       <version>2.0.62</version>
@@ -587,6 +584,7 @@
       <version>2.0.67</version>
       <version>2.0.68</version>
       <version>2.0.69</version>
+      <version>2.0.7</version>
       <version>2.0.70</version>
       <version>2.0.71</version>
       <version>2.0.72</version>
@@ -597,8 +595,12 @@
       <version>2.0.77</version>
       <version>2.0.78</version>
       <version>2.0.79</version>
+      <version>2.0.8</version>
+      <version>2.0.9</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.10</version>
+      <version>3.0.11</version>
       <version>3.0.2</version>
       <version>3.0.3</version>
       <version>3.0.4</version>
@@ -607,14 +609,13 @@
       <version>3.0.7</version>
       <version>3.0.8</version>
       <version>3.0.9</version>
-      <version>3.0.10</version>
-      <version>3.0.11</version>
       <version>4.0.0</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
       <version>5.0.3</version>
+      <version>5.0.4</version>
     </versions>
-    <lastUpdated>20230104031210</lastUpdated>
+    <lastUpdated>20211218202421</lastUpdated>
   </versioning>
 </metadata>
