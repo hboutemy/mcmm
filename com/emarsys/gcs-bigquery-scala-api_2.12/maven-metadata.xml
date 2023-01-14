@@ -3,9 +3,10 @@
   <groupId>com.emarsys</groupId>
   <artifactId>gcs-bigquery-scala-api_2.12</artifactId>
   <versioning>
-    <latest>8.4.1</latest>
-    <release>8.4.1</release>
+    <latest>8.4.2</latest>
+    <release>8.4.2</release>
     <versions>
+      <version>d42a9fc3</version>
       <version>d985cb58</version>
       <version>1.1.1</version>
       <version>1.1.1+1-7dd057a0</version>
@@ -66,7 +67,10 @@
       <version>8.4.0+1-562a5485</version>
       <version>8.4.0+2-90bd3991</version>
       <version>8.4.1</version>
+      <version>8.4.1+3-3b33248d</version>
+      <version>8.4.1+4-f6a23393</version>
+      <version>8.4.2</version>
     </versions>
-    <lastUpdated>20230103095555</lastUpdated>
+    <lastUpdated>20230113151935</lastUpdated>
   </versioning>
 </metadata>
