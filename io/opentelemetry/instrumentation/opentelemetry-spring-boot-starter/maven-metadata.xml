@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-spring-boot-starter</artifactId>
   <versioning>
-    <latest>1.22.0-alpha</latest>
-    <release>1.22.0-alpha</release>
+    <latest>1.22.1-alpha</latest>
+    <release>1.22.1-alpha</release>
     <versions>
       <version>1.17.0-alpha</version>
       <version>1.18.0-alpha</version>
@@ -16,7 +16,8 @@
       <version>1.20.2-alpha</version>
       <version>1.21.0-alpha</version>
       <version>1.22.0-alpha</version>
+      <version>1.22.1-alpha</version>
     </versions>
-    <lastUpdated>20230112195959</lastUpdated>
+    <lastUpdated>20230114030112</lastUpdated>
   </versioning>
 </metadata>
