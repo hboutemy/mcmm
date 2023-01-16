@@ -3,8 +3,8 @@
   <groupId>io.lakefs</groupId>
   <artifactId>hadoop-lakefs-assembly</artifactId>
   <versioning>
-    <latest>0.1.9</latest>
-    <release>0.1.9</release>
+    <latest>0.1.10</latest>
+    <release>0.1.10</release>
     <versions>
       <version>0.1.0-RC.0</version>
       <version>0.1.0</version>
@@ -16,8 +16,9 @@
       <version>0.1.7</version>
       <version>0.1.8</version>
       <version>0.1.9</version>
+      <version>0.1.10</version>
       <version>0.58.1-new-key</version>
     </versions>
-    <lastUpdated>20221113154710</lastUpdated>
+    <lastUpdated>20230115084021</lastUpdated>
   </versioning>
 </metadata>
