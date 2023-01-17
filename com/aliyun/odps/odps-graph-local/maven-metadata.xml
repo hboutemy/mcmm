@@ -3,8 +3,8 @@
   <groupId>com.aliyun.odps</groupId>
   <artifactId>odps-graph-local</artifactId>
   <versioning>
-    <latest>0.40.10-public</latest>
-    <release>0.40.10-public</release>
+    <latest>0.43.0-table-api-public</latest>
+    <release>0.43.0-table-api-public</release>
     <versions>
       <version>0.17.3</version>
       <version>0.18.3-public</version>
@@ -45,7 +45,8 @@
       <version>0.38.4-public</version>
       <version>0.40.8-public</version>
       <version>0.40.10-public</version>
+      <version>0.43.0-table-api-public</version>
     </versions>
-    <lastUpdated>20220808101508</lastUpdated>
+    <lastUpdated>20230116090704</lastUpdated>
   </versioning>
 </metadata>

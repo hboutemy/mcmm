@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-select</artifactId>
   <versioning>
-    <latest>5.7.0-pre.476</latest>
-    <release>5.7.0-pre.476</release>
+    <latest>5.7.0-pre.477-compat</latest>
+    <release>5.7.0-pre.477-compat</release>
     <versions>
       <version>5.4.0-pre.398</version>
       <version>5.4.0-pre.399</version>
@@ -94,7 +94,9 @@
       <version>5.7.0-pre.474</version>
       <version>5.7.0-pre.475</version>
       <version>5.7.0-pre.476</version>
+      <version>5.7.0-pre.477</version>
+      <version>5.7.0-pre.477-compat</version>
     </versions>
-    <lastUpdated>20230115184951</lastUpdated>
+    <lastUpdated>20230116073347</lastUpdated>
   </versioning>
 </metadata>

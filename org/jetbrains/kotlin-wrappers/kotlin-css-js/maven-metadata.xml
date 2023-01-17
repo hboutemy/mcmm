@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-css-js</artifactId>
   <versioning>
-    <latest>1.0.0-pre.476</latest>
-    <release>1.0.0-pre.476</release>
+    <latest>1.0.0-pre.477-compat</latest>
+    <release>1.0.0-pre.477-compat</release>
     <versions>
       <version>1.0.0-pre.202-kotlin-1.5.0</version>
       <version>1.0.0-pre.203-kotlin-1.5.0</version>
@@ -308,7 +308,9 @@
       <version>1.0.0-pre.474</version>
       <version>1.0.0-pre.475</version>
       <version>1.0.0-pre.476</version>
+      <version>1.0.0-pre.477</version>
+      <version>1.0.0-pre.477-compat</version>
     </versions>
-    <lastUpdated>20230115184910</lastUpdated>
+    <lastUpdated>20230116073223</lastUpdated>
   </versioning>
 </metadata>
