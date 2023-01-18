@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>org.hl7.fhir.convertors</artifactId>
   <versioning>
-    <latest>5.6.90</latest>
-    <release>5.6.90</release>
+    <latest>5.6.91</latest>
+    <release>5.6.91</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -201,7 +201,8 @@
       <version>5.6.88</version>
       <version>5.6.89</version>
       <version>5.6.90</version>
+      <version>5.6.91</version>
     </versions>
-    <lastUpdated>20230114063254</lastUpdated>
+    <lastUpdated>20230117215657</lastUpdated>
   </versioning>
 </metadata>

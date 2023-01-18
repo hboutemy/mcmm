@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-commons-test-fixtures</artifactId>
   <versioning>
-    <latest>8.6.0-rc2</latest>
-    <release>8.6.0-rc2</release>
+    <latest>8.6.0-rc3</latest>
+    <release>8.6.0-rc3</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -407,6 +407,7 @@
       <version>8.3.16</version>
       <version>8.3.17</version>
       <version>8.3.18</version>
+      <version>8.3.19</version>
       <version>8.4.0-rc1</version>
       <version>8.4.0-rc2</version>
       <version>8.4.0-rc3</version>
@@ -422,6 +423,7 @@
       <version>8.4.9</version>
       <version>8.4.10</version>
       <version>8.4.11</version>
+      <version>8.4.12</version>
       <version>8.5.0-rc1</version>
       <version>8.5.0-rc2</version>
       <version>8.5.0-rc3</version>
@@ -431,9 +433,11 @@
       <version>8.5.3</version>
       <version>8.5.4</version>
       <version>8.5.5</version>
+      <version>8.5.6</version>
       <version>8.6.0-rc1</version>
       <version>8.6.0-rc2</version>
+      <version>8.6.0-rc3</version>
     </versions>
-    <lastUpdated>20230111094632</lastUpdated>
+    <lastUpdated>20230117144428</lastUpdated>
   </versioning>
 </metadata>

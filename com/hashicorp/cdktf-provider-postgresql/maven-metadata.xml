@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-postgresql</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -607,7 +607,8 @@
       <version>3.0.11</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
+      <version>5.0.0</version>
     </versions>
-    <lastUpdated>20221128140415</lastUpdated>
+    <lastUpdated>20230117144745</lastUpdated>
   </versioning>
 </metadata>
