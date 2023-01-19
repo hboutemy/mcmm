@@ -3,8 +3,8 @@
   <groupId>io.github.soniccloudorg</groupId>
   <artifactId>sonic-vision-core</artifactId>
   <versioning>
-    <latest>1.0.8-windows-x86_64</latest>
-    <release>1.0.8-windows-x86_64</release>
+    <latest>1.0.9-windows-x86_64</latest>
+    <release>1.0.9-windows-x86_64</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.4-linux-x86</version>
@@ -40,7 +40,14 @@
       <version>1.0.8-macosx-x86_64</version>
       <version>1.0.8-windows-x86</version>
       <version>1.0.8-windows-x86_64</version>
+      <version>1.0.9-linux-arm64</version>
+      <version>1.0.9-linux-x86</version>
+      <version>1.0.9-linux-x86_64</version>
+      <version>1.0.9-macosx-arm64</version>
+      <version>1.0.9-macosx-x86_64</version>
+      <version>1.0.9-windows-x86</version>
+      <version>1.0.9-windows-x86_64</version>
     </versions>
-    <lastUpdated>20221214142737</lastUpdated>
+    <lastUpdated>20230118135235</lastUpdated>
   </versioning>
 </metadata>

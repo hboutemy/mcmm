@@ -3,8 +3,8 @@
   <groupId>io.helidon.security.providers</groupId>
   <artifactId>helidon-security-providers-http-sign</artifactId>
   <versioning>
-    <latest>4.0.0-ALPHA2</latest>
-    <release>4.0.0-ALPHA2</release>
+    <latest>4.0.0-ALPHA3</latest>
+    <release>4.0.0-ALPHA3</release>
     <versions>
       <version>0.11.0</version>
       <version>0.11.1</version>
@@ -69,7 +69,8 @@
       <version>3.1.0</version>
       <version>4.0.0-ALPHA1</version>
       <version>4.0.0-ALPHA2</version>
+      <version>4.0.0-ALPHA3</version>
     </versions>
-    <lastUpdated>20221221201601</lastUpdated>
+    <lastUpdated>20230118160026</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>ebeanenhancement</prefix>
       <artifactId>ebean-maven-enhancement-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>openapi-maven-plugin</name>
+      <prefix>openapi</prefix>
+      <artifactId>openapi-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

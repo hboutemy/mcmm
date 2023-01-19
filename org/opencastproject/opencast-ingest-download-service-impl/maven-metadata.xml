@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-ingest-download-service-impl</artifactId>
   <versioning>
-    <latest>13.0</latest>
-    <release>13.0</release>
+    <latest>13.1</latest>
+    <release>13.1</release>
     <versions>
       <version>8.0</version>
       <version>8.1</version>
@@ -61,7 +61,8 @@
       <version>12.5</version>
       <version>12.6</version>
       <version>13.0</version>
+      <version>13.1</version>
     </versions>
-    <lastUpdated>20221214232458</lastUpdated>
+    <lastUpdated>20230118220352</lastUpdated>
   </versioning>
 </metadata>
