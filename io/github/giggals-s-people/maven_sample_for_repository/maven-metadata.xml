@@ -3,15 +3,16 @@
   <groupId>io.github.giggals-s-people</groupId>
   <artifactId>maven_sample_for_repository</artifactId>
   <versioning>
-    <latest>1.0.2</latest>
-    <release>1.0.2</release>
+    <latest>1.0.2.xx</latest>
+    <release>1.0.2.xx</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.1.1</version>
       <version>1.0.1.11</version>
       <version>1.0.2</version>
+      <version>1.0.2.xx</version>
     </versions>
-    <lastUpdated>20230117104249</lastUpdated>
+    <lastUpdated>20230120094002</lastUpdated>
   </versioning>
 </metadata>
