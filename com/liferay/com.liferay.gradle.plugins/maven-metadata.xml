@@ -4,7 +4,7 @@
   <artifactId>com.liferay.gradle.plugins</artifactId>
   <versioning>
     <latest>14.0.43</latest>
-    <release>14.0.61</release>
+    <release>14.0.63</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -1765,6 +1765,22 @@
       <version>13.0.4</version>
       <version>13.0.5</version>
       <version>13.0.6</version>
+      <version>13.0.7</version>
+      <version>13.0.8</version>
+      <version>13.0.9</version>
+      <version>13.0.10</version>
+      <version>13.0.11</version>
+      <version>13.0.12</version>
+      <version>13.0.13</version>
+      <version>13.0.14</version>
+      <version>13.0.15</version>
+      <version>13.0.16</version>
+      <version>13.0.17</version>
+      <version>13.0.18</version>
+      <version>13.0.19</version>
+      <version>13.0.20</version>
+      <version>13.0.21</version>
+      <version>13.0.22</version>
       <version>13.0.23</version>
       <version>13.0.24</version>
       <version>13.0.25</version>
@@ -2019,6 +2035,8 @@
       <version>13.2.154</version>
       <version>13.2.155</version>
       <version>13.2.156</version>
+      <version>13.2.157</version>
+      <version>13.2.158</version>
       <version>13.2.159</version>
       <version>13.2.160</version>
       <version>13.2.161</version>
@@ -2047,6 +2065,64 @@
       <version>13.2.184</version>
       <version>13.2.185</version>
       <version>13.2.186</version>
+      <version>13.2.187</version>
+      <version>13.2.188</version>
+      <version>13.2.189</version>
+      <version>13.2.190</version>
+      <version>13.2.191</version>
+      <version>13.2.192</version>
+      <version>13.2.193</version>
+      <version>13.2.194</version>
+      <version>13.2.195</version>
+      <version>13.2.196</version>
+      <version>13.2.197</version>
+      <version>13.2.198</version>
+      <version>13.2.199</version>
+      <version>13.2.200</version>
+      <version>14.0.0</version>
+      <version>14.0.1</version>
+      <version>14.0.2</version>
+      <version>14.0.3</version>
+      <version>14.0.4</version>
+      <version>14.0.5</version>
+      <version>14.0.6</version>
+      <version>14.0.7</version>
+      <version>14.0.8</version>
+      <version>14.0.9</version>
+      <version>14.0.10</version>
+      <version>14.0.11</version>
+      <version>14.0.12</version>
+      <version>14.0.13</version>
+      <version>14.0.14</version>
+      <version>14.0.15</version>
+      <version>14.0.16</version>
+      <version>14.0.17</version>
+      <version>14.0.18</version>
+      <version>14.0.19</version>
+      <version>14.0.20</version>
+      <version>14.0.21</version>
+      <version>14.0.22</version>
+      <version>14.0.23</version>
+      <version>14.0.24</version>
+      <version>14.0.25</version>
+      <version>14.0.26</version>
+      <version>14.0.27</version>
+      <version>14.0.28</version>
+      <version>14.0.29</version>
+      <version>14.0.30</version>
+      <version>14.0.31</version>
+      <version>14.0.32</version>
+      <version>14.0.33</version>
+      <version>14.0.34</version>
+      <version>14.0.35</version>
+      <version>14.0.36</version>
+      <version>14.0.37</version>
+      <version>14.0.38</version>
+      <version>14.0.39</version>
+      <version>14.0.40</version>
+      <version>14.0.41</version>
+      <version>14.0.42</version>
+      <version>14.0.43</version>
       <version>14.0.44</version>
       <version>14.0.45</version>
       <version>14.0.46</version>
@@ -2065,7 +2141,9 @@
       <version>14.0.59</version>
       <version>14.0.60</version>
       <version>14.0.61</version>
+      <version>14.0.62</version>
+      <version>14.0.63</version>
     </versions>
-    <lastUpdated>20230117172141</lastUpdated>
+    <lastUpdated>20230119181158</lastUpdated>
   </versioning>
 </metadata>

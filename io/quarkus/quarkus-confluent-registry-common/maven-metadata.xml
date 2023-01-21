@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-confluent-registry-common</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha2</latest>
-    <release>3.0.0.Alpha2</release>
+    <latest>3.0.0.Alpha3</latest>
+    <release>3.0.0.Alpha3</release>
     <versions>
       <version>2.9.0.CR1</version>
       <version>2.9.0.Final</version>
@@ -34,6 +34,7 @@
       <version>2.13.4.Final</version>
       <version>2.13.5.Final</version>
       <version>2.13.6.Final</version>
+      <version>2.13.7.Final</version>
       <version>2.14.0.CR1</version>
       <version>2.14.0.Final</version>
       <version>2.14.1.Final</version>
@@ -48,7 +49,8 @@
       <version>2.16.0.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
+      <version>3.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20230118120359</lastUpdated>
+    <lastUpdated>20230119155714</lastUpdated>
   </versioning>
 </metadata>

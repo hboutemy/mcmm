@@ -20,5 +20,10 @@
       <prefix>apicurio-unified-model-generator</prefix>
       <artifactId>apicurio-unified-model-generator-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>JSweet maven plugin</name>
+      <prefix>jsweet</prefix>
+      <artifactId>jsweet-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

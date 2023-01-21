@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.commons</groupId>
   <artifactId>wavemaker-commons-util</artifactId>
   <versioning>
-    <latest>11.2.2</latest>
-    <release>11.2.2</release>
+    <latest>11.2.2.ee</latest>
+    <release>11.2.2.ee</release>
     <versions>
       <version>9.4.0.10</version>
       <version>9.4.0.12</version>
@@ -72,6 +72,7 @@
       <version>10.15.5</version>
       <version>10.15.5.ee</version>
       <version>10.15.6</version>
+      <version>10.15.7.ee</version>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
       <version>11.0.1.beta</version>
@@ -87,7 +88,8 @@
       <version>11.2.0.ee</version>
       <version>11.2.1</version>
       <version>11.2.2</version>
+      <version>11.2.2.ee</version>
     </versions>
-    <lastUpdated>20230115165123</lastUpdated>
+    <lastUpdated>20230119101151</lastUpdated>
   </versioning>
 </metadata>
