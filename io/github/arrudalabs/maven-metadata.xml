@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Poc Maven Plugin</name>
+      <prefix>poc</prefix>
+      <artifactId>poc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

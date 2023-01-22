@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>YAML Merge Maven Plugin</name>
+      <prefix>yaml-merge</prefix>
+      <artifactId>yaml-merge-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

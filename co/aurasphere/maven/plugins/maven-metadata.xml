@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>LinkedIn Maven Plugin</name>
+      <prefix>linkedin</prefix>
+      <artifactId>linkedin-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Zip Maven Plugin</name>
       <prefix>zip</prefix>
       <artifactId>zip-maven-plugin</artifactId>

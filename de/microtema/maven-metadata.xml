@@ -17,6 +17,11 @@
       <artifactId>gitlabci-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>il-contract-maven-plugin Maven Mojo</name>
+      <prefix>il-contract-api</prefix>
+      <artifactId>il-contract-api-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jenkinsfile-maven-plugin Maven Mojo</name>
       <prefix>jenkinsfile</prefix>
       <artifactId>jenkinsfile-maven-plugin</artifactId>
