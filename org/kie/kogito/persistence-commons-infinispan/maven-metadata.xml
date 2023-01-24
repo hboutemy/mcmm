@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>persistence-commons-infinispan</artifactId>
   <versioning>
-    <latest>1.32.0.Final</latest>
-    <release>1.32.0.Final</release>
+    <latest>1.33.0.Final</latest>
+    <release>1.33.0.Final</release>
     <versions>
       <version>0.12.0</version>
       <version>0.13.0</version>
@@ -54,7 +54,8 @@
       <version>1.31.0.Final</version>
       <version>1.31.1.Final</version>
       <version>1.32.0.Final</version>
+      <version>1.33.0.Final</version>
     </versions>
-    <lastUpdated>20221215145022</lastUpdated>
+    <lastUpdated>20230123134922</lastUpdated>
   </versioning>
 </metadata>

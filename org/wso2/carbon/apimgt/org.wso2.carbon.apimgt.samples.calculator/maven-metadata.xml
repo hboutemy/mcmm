@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.samples.calculator</artifactId>
   <versioning>
-    <latest>9.28.44</latest>
-    <release>9.28.44</release>
+    <latest>9.28.48</latest>
+    <release>9.28.48</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -2373,6 +2373,7 @@
       <version>9.22.72</version>
       <version>9.22.73</version>
       <version>9.22.74</version>
+      <version>9.22.75</version>
       <version>9.23.0</version>
       <version>9.23.1</version>
       <version>9.23.2</version>
@@ -2523,7 +2524,11 @@
       <version>9.28.42</version>
       <version>9.28.43</version>
       <version>9.28.44</version>
+      <version>9.28.45</version>
+      <version>9.28.46</version>
+      <version>9.28.47</version>
+      <version>9.28.48</version>
     </versions>
-    <lastUpdated>20230120122258</lastUpdated>
+    <lastUpdated>20230123123057</lastUpdated>
   </versioning>
 </metadata>

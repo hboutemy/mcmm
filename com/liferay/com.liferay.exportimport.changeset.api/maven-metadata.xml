@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.exportimport.changeset.api</artifactId>
   <versioning>
-    <latest>3.1.5</latest>
-    <release>3.1.8</release>
+    <latest>4.1.2</latest>
+    <release>5.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -15,6 +15,8 @@
       <version>1.0.6</version>
       <version>1.0.7</version>
       <version>1.0.8</version>
+      <version>1.0.9</version>
+      <version>1.0.10</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -23,6 +25,8 @@
       <version>2.0.5</version>
       <version>2.0.6</version>
       <version>2.1.0</version>
+      <version>2.1.1</version>
+      <version>2.1.2</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -33,19 +37,16 @@
       <version>3.1.4</version>
       <version>3.1.5</version>
       <version>3.1.6</version>
-      <version>1.0.9</version>
-      <version>2.1.1</version>
+      <version>3.1.7</version>
+      <version>3.1.8</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
       <version>4.1.2</version>
-      <version>2.1.2</version>
-      <version>3.1.7</version>
-      <version>1.0.10</version>
-      <version>3.1.8</version>
+      <version>5.0.0</version>
     </versions>
-    <lastUpdated>20220429031900</lastUpdated>
+    <lastUpdated>20230123193601</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.app.builder.workflow.rest.api</artifactId>
   <versioning>
-    <latest>3.3.0</latest>
-    <release>3.6.4</release>
+    <latest>5.0.0</latest>
+    <release>5.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -17,7 +17,6 @@
       <version>3.2.1</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
-      <version>4.0.0</version>
       <version>3.4.0</version>
       <version>3.5.0</version>
       <version>3.6.0</version>
@@ -25,8 +24,10 @@
       <version>3.6.2</version>
       <version>3.6.3</version>
       <version>3.6.4</version>
+      <version>4.0.0</version>
       <version>5.0.0</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20220506235738</lastUpdated>
+    <lastUpdated>20230123184608</lastUpdated>
   </versioning>
 </metadata>

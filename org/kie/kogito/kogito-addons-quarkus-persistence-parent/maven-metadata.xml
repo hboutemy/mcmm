@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-persistence-parent</artifactId>
   <versioning>
-    <latest>1.32.0.Final</latest>
-    <release>1.32.0.Final</release>
+    <latest>1.33.0.Final</latest>
+    <release>1.33.0.Final</release>
     <versions>
       <version>1.8.0.Final</version>
       <version>1.9.0.Final</version>
@@ -38,7 +38,8 @@
       <version>1.31.0.Final</version>
       <version>1.31.1.Final</version>
       <version>1.32.0.Final</version>
+      <version>1.33.0.Final</version>
     </versions>
-    <lastUpdated>20221215144959</lastUpdated>
+    <lastUpdated>20230123134825</lastUpdated>
   </versioning>
 </metadata>
