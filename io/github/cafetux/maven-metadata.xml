@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>io.github.cafetux:maven-modules-analyzer</name>
       <prefix>modules-analyzer</prefix>
       <artifactId>maven-modules-analyzer</artifactId>
     </plugin>

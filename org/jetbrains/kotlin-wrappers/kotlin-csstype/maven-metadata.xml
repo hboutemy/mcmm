@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-csstype</artifactId>
   <versioning>
-    <latest>3.1.1-pre.483</latest>
-    <release>3.1.1-pre.483</release>
+    <latest>3.1.1-pre.484-compat</latest>
+    <release>3.1.1-pre.484-compat</release>
     <versions>
       <version>3.0.8-pre.242-kotlin-1.5.30</version>
       <version>3.0.8-pre.243-kotlin-1.5.30</version>
@@ -275,7 +275,9 @@
       <version>3.1.1-pre.482</version>
       <version>3.1.1-pre.482-compat</version>
       <version>3.1.1-pre.483</version>
+      <version>3.1.1-pre.484</version>
+      <version>3.1.1-pre.484-compat</version>
     </versions>
-    <lastUpdated>20230123220606</lastUpdated>
+    <lastUpdated>20230124073359</lastUpdated>
   </versioning>
 </metadata>

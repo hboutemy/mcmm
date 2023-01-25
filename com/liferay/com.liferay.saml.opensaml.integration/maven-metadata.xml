@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.saml.opensaml.integration</artifactId>
   <versioning>
-    <latest>5.3.38</latest>
-    <release>3.0.64</release>
+    <latest>6.0.0</latest>
+    <release>6.0.1</release>
     <versions>
       <version>1.1.38</version>
       <version>1.1.39</version>
@@ -68,6 +68,9 @@
       <version>3.0.60</version>
       <version>3.0.61</version>
       <version>3.0.62</version>
+      <version>3.0.63</version>
+      <version>3.0.64</version>
+      <version>3.0.65</version>
       <version>4.0.19</version>
       <version>4.0.20</version>
       <version>4.0.21</version>
@@ -108,6 +111,8 @@
       <version>4.0.56</version>
       <version>4.0.57</version>
       <version>4.0.58</version>
+      <version>4.0.59</version>
+      <version>4.0.60</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -161,18 +166,15 @@
       <version>5.3.38</version>
       <version>5.3.39</version>
       <version>5.3.40</version>
-      <version>3.0.63</version>
-      <version>4.0.59</version>
       <version>5.3.41</version>
       <version>5.3.42</version>
+      <version>5.3.43</version>
       <version>5.3.44</version>
+      <version>5.3.45</version>
       <version>5.3.46</version>
       <version>6.0.0</version>
-      <version>3.0.64</version>
-      <version>3.0.65</version>
-      <version>5.3.43</version>
-      <version>5.3.45</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20230117192447</lastUpdated>
+    <lastUpdated>20230124020209</lastUpdated>
   </versioning>
 </metadata>
