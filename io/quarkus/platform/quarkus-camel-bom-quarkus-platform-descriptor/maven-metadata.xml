@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-camel-bom-quarkus-platform-descriptor</artifactId>
   <versioning>
-    <latest>2.16.0.CR1</latest>
-    <release>2.16.0.CR1</release>
+    <latest>2.16.0.Final</latest>
+    <release>2.16.0.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -90,7 +90,8 @@
       <version>2.15.2.Final</version>
       <version>2.15.3.Final</version>
       <version>2.16.0.CR1</version>
+      <version>2.16.0.Final</version>
     </versions>
-    <lastUpdated>20230119155929</lastUpdated>
+    <lastUpdated>20230125100808</lastUpdated>
   </versioning>
 </metadata>

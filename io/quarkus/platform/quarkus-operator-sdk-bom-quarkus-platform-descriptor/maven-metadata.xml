@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-operator-sdk-bom-quarkus-platform-descriptor</artifactId>
   <versioning>
-    <latest>2.16.0.CR1</latest>
-    <release>2.16.0.CR1</release>
+    <latest>2.16.0.Final</latest>
+    <release>2.16.0.Final</release>
     <versions>
       <version>2.14.0.CR1</version>
       <version>2.14.0.Final</version>
@@ -17,7 +17,8 @@
       <version>2.15.2.Final</version>
       <version>2.15.3.Final</version>
       <version>2.16.0.CR1</version>
+      <version>2.16.0.Final</version>
     </versions>
-    <lastUpdated>20230111173948</lastUpdated>
+    <lastUpdated>20230125100813</lastUpdated>
   </versioning>
 </metadata>
