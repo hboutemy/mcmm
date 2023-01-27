@@ -3,8 +3,8 @@
   <groupId>com.newrelic.agent.java</groupId>
   <artifactId>newrelic-scala-api_2.11</artifactId>
   <versioning>
-    <latest>7.11.1</latest>
-    <release>7.11.1</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>7.1.0</version>
       <version>7.1.1</version>
@@ -21,7 +21,8 @@
       <version>7.10.0</version>
       <version>7.11.0</version>
       <version>7.11.1</version>
+      <version>8.0.0</version>
     </versions>
-    <lastUpdated>20221115165908</lastUpdated>
+    <lastUpdated>20230126173125</lastUpdated>
   </versioning>
 </metadata>
