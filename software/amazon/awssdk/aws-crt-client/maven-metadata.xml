@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>aws-crt-client</artifactId>
   <versioning>
-    <latest>2.19.24-PREVIEW</latest>
-    <release>2.19.24-PREVIEW</release>
+    <latest>2.19.26-PREVIEW</latest>
+    <release>2.19.26-PREVIEW</release>
     <versions>
       <version>2.14.13-PREVIEW</version>
       <version>2.14.14-PREVIEW</version>
@@ -572,7 +572,9 @@
       <version>2.19.22-PREVIEW</version>
       <version>2.19.23-PREVIEW</version>
       <version>2.19.24-PREVIEW</version>
+      <version>2.19.25-PREVIEW</version>
+      <version>2.19.26-PREVIEW</version>
     </versions>
-    <lastUpdated>20230125211817</lastUpdated>
+    <lastUpdated>20230127210629</lastUpdated>
   </versioning>
 </metadata>
