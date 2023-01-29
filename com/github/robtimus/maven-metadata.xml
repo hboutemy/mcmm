@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>build-helper-maven-plugin</name>
+      <prefix>build-helper</prefix>
+      <artifactId>build-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>I18N Maven Plugin</name>
       <prefix>i18n</prefix>
       <artifactId>i18n-maven-plugin</artifactId>
