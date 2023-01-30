@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven Plugin for TeamApps Message Protocol</name>
+      <prefix>teamapps-message-protocol</prefix>
+      <artifactId>teamapps-message-protocol-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>TeamApps Protocol Schema Maven Plugin</name>
       <prefix>teamapps-protocl-schema</prefix>
       <artifactId>teamapps-protocl-schema-maven-plugin</artifactId>

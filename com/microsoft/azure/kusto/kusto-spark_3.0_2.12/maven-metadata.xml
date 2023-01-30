@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure.kusto</groupId>
   <artifactId>kusto-spark_3.0_2.12</artifactId>
   <versioning>
-    <latest>3.1.10</latest>
-    <release>3.1.10</release>
+    <latest>3.1.10-Synapse</latest>
+    <release>3.1.10-Synapse</release>
     <versions>
       <version>2.3.0</version>
       <version>2.3.1</version>
@@ -41,7 +41,8 @@
       <version>3.1.8</version>
       <version>3.1.9</version>
       <version>3.1.10</version>
+      <version>3.1.10-Synapse</version>
     </versions>
-    <lastUpdated>20230122065456</lastUpdated>
+    <lastUpdated>20230129094743</lastUpdated>
   </versioning>
 </metadata>
