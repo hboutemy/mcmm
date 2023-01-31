@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.extension.identity.authenticator.outbound.emailotp</groupId>
   <artifactId>org.wso2.carbon.identity.authenticator.emailotp.feature</artifactId>
   <versioning>
-    <latest>4.1.2</latest>
-    <release>4.1.2</release>
+    <latest>4.1.5</latest>
+    <release>4.1.5</release>
     <versions>
       <version>4.0.0</version>
       <version>4.0.1</version>
@@ -16,7 +16,8 @@
       <version>4.1.0</version>
       <version>4.1.1</version>
       <version>4.1.2</version>
+      <version>4.1.5</version>
     </versions>
-    <lastUpdated>20221118090325</lastUpdated>
+    <lastUpdated>20230130112721</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.eventing.hub.feature</artifactId>
   <versioning>
-    <latest>9.28.56</latest>
-    <release>9.28.56</release>
+    <latest>9.28.60</latest>
+    <release>9.28.60</release>
     <versions>
       <version>9.0.284</version>
       <version>9.0.285</version>
@@ -344,6 +344,7 @@
       <version>9.22.77</version>
       <version>9.22.78</version>
       <version>9.22.79</version>
+      <version>9.22.80</version>
       <version>9.23.0</version>
       <version>9.23.1</version>
       <version>9.23.2</version>
@@ -506,7 +507,11 @@
       <version>9.28.54</version>
       <version>9.28.55</version>
       <version>9.28.56</version>
+      <version>9.28.57</version>
+      <version>9.28.58</version>
+      <version>9.28.59</version>
+      <version>9.28.60</version>
     </versions>
-    <lastUpdated>20230127172707</lastUpdated>
+    <lastUpdated>20230130161657</lastUpdated>
   </versioning>
 </metadata>
