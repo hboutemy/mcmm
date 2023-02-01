@@ -3,13 +3,14 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-search-orm</artifactId>
   <versioning>
-    <latest>5.11.11.Final</latest>
-    <release>5.11.11.Final</release>
+    <latest>5.11.12.Final</latest>
+    <release>5.11.12.Final</release>
     <versions>
       <version>5.10.12.Final</version>
       <version>5.10.13.Final</version>
       <version>5.11.10.Final</version>
       <version>5.11.11.Final</version>
+      <version>5.11.12.Final</version>
       <version>4.0.0.Beta2</version>
       <version>4.0.0.CR1</version>
       <version>4.0.0.CR2</version>
@@ -149,6 +150,6 @@
       <version>5.9.2.Final</version>
       <version>5.9.3.Final</version>
     </versions>
-    <lastUpdated>20221027115027</lastUpdated>
+    <lastUpdated>20230131084448</lastUpdated>
   </versioning>
 </metadata>

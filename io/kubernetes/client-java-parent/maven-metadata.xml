@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>client-java-parent</artifactId>
   <versioning>
-    <latest>17.0.0</latest>
-    <release>17.0.0</release>
+    <latest>17.0.1</latest>
+    <release>17.0.1</release>
     <versions>
       <version>0.2</version>
       <version>1.0.0-beta1</version>
@@ -52,8 +52,10 @@
       <version>16.0.0</version>
       <version>16.0.1</version>
       <version>16.0.2</version>
+      <version>16.0.3</version>
       <version>17.0.0</version>
+      <version>17.0.1</version>
     </versions>
-    <lastUpdated>20230130191416</lastUpdated>
+    <lastUpdated>20230131000527</lastUpdated>
   </versioning>
 </metadata>

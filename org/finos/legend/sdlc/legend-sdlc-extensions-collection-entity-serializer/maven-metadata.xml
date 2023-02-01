@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.sdlc</groupId>
   <artifactId>legend-sdlc-extensions-collection-entity-serializer</artifactId>
   <versioning>
-    <latest>0.113.0</latest>
-    <release>0.113.0</release>
+    <latest>0.114.1</latest>
+    <release>0.114.1</release>
     <versions>
       <version>0.39.0</version>
       <version>0.40.0</version>
@@ -94,6 +94,8 @@
       <version>0.111.0</version>
       <version>0.112.0</version>
       <version>0.113.0</version>
+      <version>0.114.0</version>
+      <version>0.114.1</version>
       <version>0.64.1</version>
       <version>0.65.0</version>
       <version>0.66.0</version>
@@ -104,6 +106,6 @@
       <version>0.70.0</version>
       <version>0.70.1</version>
     </versions>
-    <lastUpdated>20230125021718</lastUpdated>
+    <lastUpdated>20230131225448</lastUpdated>
   </versioning>
 </metadata>

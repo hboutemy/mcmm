@@ -3,8 +3,8 @@
   <groupId>com.pig4cloud.archetype</groupId>
   <artifactId>pigx-gen</artifactId>
   <versioning>
-    <latest>4.6.0</latest>
-    <release>4.6.0</release>
+    <latest>4.6.0.GEN</latest>
+    <release>4.6.0.GEN</release>
     <versions>
       <version>3.3.0</version>
       <version>3.4.0</version>
@@ -25,7 +25,8 @@
       <version>4.4.0</version>
       <version>4.5.0</version>
       <version>4.6.0</version>
+      <version>4.6.0.GEN</version>
     </versions>
-    <lastUpdated>20221219035615</lastUpdated>
+    <lastUpdated>20230131101010</lastUpdated>
   </versioning>
 </metadata>

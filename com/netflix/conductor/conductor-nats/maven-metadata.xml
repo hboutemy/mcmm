@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-nats</artifactId>
   <versioning>
-    <latest>3.13.2</latest>
-    <release>3.13.2</release>
+    <latest>3.13.3</latest>
+    <release>3.13.3</release>
     <versions>
       <version>3.8.0</version>
       <version>3.8.1</version>
@@ -24,7 +24,8 @@
       <version>3.11.1</version>
       <version>3.11.3</version>
       <version>3.13.2</version>
+      <version>3.13.3</version>
     </versions>
-    <lastUpdated>20221117023139</lastUpdated>
+    <lastUpdated>20230131083159</lastUpdated>
   </versioning>
 </metadata>

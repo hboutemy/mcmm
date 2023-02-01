@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.ovsdb</groupId>
   <artifactId>utils.yang-utils</artifactId>
   <versioning>
-    <latest>1.15.1</latest>
-    <release>1.15.1</release>
+    <latest>1.15.2</latest>
+    <release>1.15.2</release>
     <versions>
       <version>1.3.0-Boron</version>
       <version>1.3.1-Boron-SR1</version>
@@ -61,7 +61,8 @@
       <version>1.14.3</version>
       <version>1.15.0</version>
       <version>1.15.1</version>
+      <version>1.15.2</version>
     </versions>
-    <lastUpdated>20221225224246</lastUpdated>
+    <lastUpdated>20230131025231</lastUpdated>
   </versioning>
 </metadata>
