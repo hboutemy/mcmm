@@ -3,8 +3,8 @@
   <groupId>com.arkivanov.decompose</groupId>
   <artifactId>decompose-watchosarm64</artifactId>
   <versioning>
-    <latest>1.0.0-beta-04-native-compose</latest>
-    <release>1.0.0-beta-04-native-compose</release>
+    <latest>1.0.0-compose-experimental</latest>
+    <release>1.0.0-compose-experimental</release>
     <versions>
       <version>0.2.5</version>
       <version>0.2.6</version>
@@ -43,7 +43,9 @@
       <version>1.0.0-beta-03-native-compose</version>
       <version>1.0.0-beta-04</version>
       <version>1.0.0-beta-04-native-compose</version>
+      <version>1.0.0</version>
+      <version>1.0.0-compose-experimental</version>
     </versions>
-    <lastUpdated>20230114094225</lastUpdated>
+    <lastUpdated>20230202222037</lastUpdated>
   </versioning>
 </metadata>

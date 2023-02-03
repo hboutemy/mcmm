@@ -3,8 +3,8 @@
   <groupId>io.netty</groupId>
   <artifactId>netty-tcnative-boringssl-static</artifactId>
   <versioning>
-    <latest>2.0.56.Final</latest>
-    <release>2.0.56.Final</release>
+    <latest>2.0.57.Final</latest>
+    <release>2.0.57.Final</release>
     <versions>
       <version>1.1.33.Fork13</version>
       <version>1.1.33.Fork14</version>
@@ -84,7 +84,8 @@
       <version>2.0.54.Final</version>
       <version>2.0.55.Final</version>
       <version>2.0.56.Final</version>
+      <version>2.0.57.Final</version>
     </versions>
-    <lastUpdated>20230110083850</lastUpdated>
+    <lastUpdated>20230202162639</lastUpdated>
   </versioning>
 </metadata>
