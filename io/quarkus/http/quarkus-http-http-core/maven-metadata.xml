@@ -3,8 +3,8 @@
   <groupId>io.quarkus.http</groupId>
   <artifactId>quarkus-http-http-core</artifactId>
   <versioning>
-    <latest>5.0.0.Alpha3</latest>
-    <release>5.0.0.Alpha3</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
@@ -50,6 +50,7 @@
       <version>5.0.0.Alpha1</version>
       <version>5.0.0.Alpha2</version>
       <version>5.0.0.Alpha3</version>
+      <version>5.0.0.Final</version>
       <version>3.1.0.Beta1</version>
       <version>3.1.0.Beta2</version>
       <version>3.1.0.Final</version>
@@ -57,6 +58,6 @@
       <version>4.0.0.Alpha3</version>
       <version>4.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20221121135040</lastUpdated>
+    <lastUpdated>20230203161157</lastUpdated>
   </versioning>
 </metadata>

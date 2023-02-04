@@ -6,5 +6,9 @@
       <prefix>log4j-audit</prefix>
       <artifactId>log4j-audit-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>log4j-changelog</prefix>
+      <artifactId>log4j-changelog-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
