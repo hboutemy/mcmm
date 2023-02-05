@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.rest.api.server.email.template.v1</artifactId>
   <versioning>
-    <latest>1.2.24</latest>
-    <release>1.2.24</release>
+    <latest>1.2.25</latest>
+    <release>1.2.25</release>
     <versions>
       <version>1.0.30</version>
       <version>1.0.31</version>
@@ -271,7 +271,8 @@
       <version>1.2.22</version>
       <version>1.2.23</version>
       <version>1.2.24</version>
+      <version>1.2.25</version>
     </versions>
-    <lastUpdated>20230202060153</lastUpdated>
+    <lastUpdated>20230204205823</lastUpdated>
   </versioning>
 </metadata>
