@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dist-maven-plugin</name>
+      <prefix>dist</prefix>
+      <artifactId>dist-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

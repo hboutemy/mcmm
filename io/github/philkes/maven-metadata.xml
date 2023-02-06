@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SLF4J Caller-Information Injection Plugin</name>
+      <prefix>slf4j-caller-info</prefix>
+      <artifactId>slf4j-caller-info-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
