@@ -7,6 +7,16 @@
       <artifactId>legend-pure-maven-compilation-par</artifactId>
     </plugin>
     <plugin>
+      <name>Legend Pure - Maven - Plugin Generation Java</name>
+      <prefix>legend-puregeneration-java</prefix>
+      <artifactId>legend-pure-maven-generation-java</artifactId>
+    </plugin>
+    <plugin>
+      <name>Legend Pure - Maven - Plugin Generation PAR</name>
+      <prefix>legend-puregeneration-par</prefix>
+      <artifactId>legend-pure-maven-generation-par</artifactId>
+    </plugin>
+    <plugin>
       <name>Legend Pure - Maven - Plugin Compiled JAR</name>
       <prefix>legend-purejava-compiled</prefix>
       <artifactId>legend-pure-maven-java-compiled</artifactId>

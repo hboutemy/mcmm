@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>avaje-inject</prefix>
+      <artifactId>avaje-inject-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>openapi-maven-plugin</name>
       <prefix>openapi</prefix>
       <artifactId>openapi-maven-plugin</artifactId>
