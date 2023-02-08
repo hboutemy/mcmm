@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-maven-serialization</artifactId>
   <versioning>
-    <latest>1.8.10</latest>
-    <release>1.8.10</release>
+    <latest>1.8.20-Beta</latest>
+    <release>1.8.20-Beta</release>
     <versions>
       <version>1.3.20</version>
       <version>1.3.21</version>
@@ -72,7 +72,8 @@
       <version>1.8.0-RC2</version>
       <version>1.8.0</version>
       <version>1.8.10</version>
+      <version>1.8.20-Beta</version>
     </versions>
-    <lastUpdated>20230202113352</lastUpdated>
+    <lastUpdated>20230207205805</lastUpdated>
   </versioning>
 </metadata>

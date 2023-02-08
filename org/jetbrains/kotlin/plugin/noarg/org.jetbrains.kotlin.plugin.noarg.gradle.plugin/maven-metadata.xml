@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin.plugin.noarg</groupId>
   <artifactId>org.jetbrains.kotlin.plugin.noarg.gradle.plugin</artifactId>
   <versioning>
-    <latest>1.8.10</latest>
-    <release>1.8.10</release>
+    <latest>1.8.20-Beta</latest>
+    <release>1.8.20-Beta</release>
     <versions>
       <version>1.7.0-Beta</version>
       <version>1.7.0-RC</version>
@@ -21,7 +21,8 @@
       <version>1.8.0-RC2</version>
       <version>1.8.0</version>
       <version>1.8.10</version>
+      <version>1.8.20-Beta</version>
     </versions>
-    <lastUpdated>20230202113525</lastUpdated>
+    <lastUpdated>20230207205906</lastUpdated>
   </versioning>
 </metadata>

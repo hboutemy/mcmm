@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-parcelize-compiler</artifactId>
   <versioning>
-    <latest>1.8.10</latest>
-    <release>1.8.10</release>
+    <latest>1.8.20-Beta</latest>
+    <release>1.8.20-Beta</release>
     <versions>
       <version>1.4.20-M2</version>
       <version>1.4.20-RC</version>
@@ -56,7 +56,8 @@
       <version>1.8.0-RC2</version>
       <version>1.8.0</version>
       <version>1.8.10</version>
+      <version>1.8.20-Beta</version>
     </versions>
-    <lastUpdated>20230202113400</lastUpdated>
+    <lastUpdated>20230207205811</lastUpdated>
   </versioning>
 </metadata>
