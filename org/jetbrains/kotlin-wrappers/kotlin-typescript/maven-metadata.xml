@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-typescript</artifactId>
   <versioning>
-    <latest>4.9.5-pre.492</latest>
-    <release>4.9.5-pre.492</release>
+    <latest>4.9.5-pre.494</latest>
+    <release>4.9.5-pre.494</release>
     <versions>
       <version>4.5.5-pre.291-kotlin-1.6.10</version>
       <version>4.5.5-pre.292-kotlin-1.6.10</version>
@@ -239,7 +239,10 @@
       <version>4.9.5-pre.490</version>
       <version>4.9.5-pre.491</version>
       <version>4.9.5-pre.492</version>
+      <version>4.9.5-pre.493</version>
+      <version>4.9.5-pre.493-compat</version>
+      <version>4.9.5-pre.494</version>
     </versions>
-    <lastUpdated>20230206182045</lastUpdated>
+    <lastUpdated>20230208182058</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>cors-mgt-feature</artifactId>
   <versioning>
-    <latest>5.25.102</latest>
-    <release>5.25.102</release>
+    <latest>5.25.105</latest>
+    <release>5.25.105</release>
     <versions>
       <version>5.18.1</version>
       <version>5.18.2</version>
@@ -738,6 +738,7 @@
       <version>5.24.3</version>
       <version>5.24.5</version>
       <version>5.24.6</version>
+      <version>5.24.7</version>
       <version>5.25.0</version>
       <version>5.25.1</version>
       <version>5.25.2</version>
@@ -817,7 +818,10 @@
       <version>5.25.100</version>
       <version>5.25.101</version>
       <version>5.25.102</version>
+      <version>5.25.103</version>
+      <version>5.25.104</version>
+      <version>5.25.105</version>
     </versions>
-    <lastUpdated>20230207035930</lastUpdated>
+    <lastUpdated>20230208194305</lastUpdated>
   </versioning>
 </metadata>
