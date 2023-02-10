@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-panache-common-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha3</latest>
-    <release>3.0.0.Alpha3</release>
+    <latest>3.0.0.Alpha4</latest>
+    <release>3.0.0.Alpha4</release>
     <versions>
       <version>0.17.0</version>
       <version>0.18.0</version>
@@ -205,7 +205,8 @@
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
+      <version>3.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20230208115411</lastUpdated>
+    <lastUpdated>20230209142533</lastUpdated>
   </versioning>
 </metadata>

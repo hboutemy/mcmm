@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.rest.api.server.workflow.engine.v1</artifactId>
   <versioning>
-    <latest>1.2.26</latest>
-    <release>1.2.26</release>
+    <latest>1.2.27</latest>
+    <release>1.2.27</release>
     <versions>
       <version>1.0.26</version>
       <version>1.0.27</version>
@@ -277,7 +277,8 @@
       <version>1.2.24</version>
       <version>1.2.25</version>
       <version>1.2.26</version>
+      <version>1.2.27</version>
     </versions>
-    <lastUpdated>20230206124750</lastUpdated>
+    <lastUpdated>20230209084655</lastUpdated>
   </versioning>
 </metadata>

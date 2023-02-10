@@ -3,8 +3,8 @@
   <groupId>io.github.jan-tennert.supabase</groupId>
   <artifactId>supabase-kt-android-debug</artifactId>
   <versioning>
-    <latest>0.8.0-beta-1</latest>
-    <release>0.8.0-beta-1</release>
+    <latest>0.8.0-beta-2-ios</latest>
+    <release>0.8.0-beta-2-ios</release>
     <versions>
       <version>0.5.0-beta-1</version>
       <version>0.5.0-beta-2</version>
@@ -42,7 +42,9 @@
       <version>0.7.6</version>
       <version>0.8.0-alpha-1</version>
       <version>0.8.0-beta-1</version>
+      <version>0.8.0-beta-2</version>
+      <version>0.8.0-beta-2-ios</version>
     </versions>
-    <lastUpdated>20230202204725</lastUpdated>
+    <lastUpdated>20230209202307</lastUpdated>
   </versioning>
 </metadata>
