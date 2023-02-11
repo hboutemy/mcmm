@@ -3,8 +3,8 @@
   <groupId>org.mongodb</groupId>
   <artifactId>mongodb-driver-legacy</artifactId>
   <versioning>
-    <latest>4.8.2</latest>
-    <release>4.8.2</release>
+    <latest>4.9.0</latest>
+    <release>4.9.0</release>
     <versions>
       <version>3.9.0-rc0</version>
       <version>3.9.0</version>
@@ -83,7 +83,8 @@
       <version>4.8.0</version>
       <version>4.8.1</version>
       <version>4.8.2</version>
+      <version>4.9.0</version>
     </versions>
-    <lastUpdated>20230207114032</lastUpdated>
+    <lastUpdated>20230210233150</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-dbcp-service-nar</artifactId>
   <versioning>
-    <latest>1.19.1</latest>
-    <release>1.19.1</release>
+    <latest>1.20.0</latest>
+    <release>1.20.0</release>
     <versions>
       <version>0.2.0-incubating</version>
       <version>0.2.1</version>
@@ -61,7 +61,8 @@
       <version>1.18.0</version>
       <version>1.19.0</version>
       <version>1.19.1</version>
+      <version>1.20.0</version>
     </versions>
-    <lastUpdated>20221207164416</lastUpdated>
+    <lastUpdated>20230209222247</lastUpdated>
   </versioning>
 </metadata>

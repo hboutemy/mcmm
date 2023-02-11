@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven ClassFileTransformer Plugin</name>
+      <prefix>classfiletransformer</prefix>
+      <artifactId>classfiletransformer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tomcat Maven Plugin</name>
       <prefix>tomcat</prefix>
       <artifactId>tomcat-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>io.stargate.config.store.yaml</groupId>
   <artifactId>config-store-yaml</artifactId>
   <versioning>
-    <latest>2.0.7</latest>
-    <release>2.0.7</release>
+    <latest>2.0.8</latest>
+    <release>2.0.8</release>
     <versions>
       <version>0.0.20</version>
       <version>0.0.21</version>
@@ -87,6 +87,7 @@
       <version>1.0.70</version>
       <version>1.0.71</version>
       <version>1.0.72</version>
+      <version>1.0.73</version>
       <version>2.0.0-ALPHA-1</version>
       <version>2.0.0-ALPHA-2</version>
       <version>2.0.0-ALPHA-3</version>
@@ -118,7 +119,8 @@
       <version>2.0.5</version>
       <version>2.0.6</version>
       <version>2.0.7</version>
+      <version>2.0.8</version>
     </versions>
-    <lastUpdated>20230123194707</lastUpdated>
+    <lastUpdated>20230210133226</lastUpdated>
   </versioning>
 </metadata>

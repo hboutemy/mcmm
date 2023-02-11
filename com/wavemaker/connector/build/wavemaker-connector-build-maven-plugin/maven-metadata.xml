@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.connector.build</groupId>
   <artifactId>wavemaker-connector-build-maven-plugin</artifactId>
   <versioning>
-    <latest>11.2.4</latest>
-    <release>11.2.4</release>
+    <latest>11.2.4.ee</latest>
+    <release>11.2.4.ee</release>
     <versions>
       <version>9.9.9-20201009170109</version>
       <version>9.9.9-20201011200802</version>
@@ -68,6 +68,7 @@
       <version>10.15.6</version>
       <version>10.15.7</version>
       <version>10.15.7.ee</version>
+      <version>10.15.8.ee</version>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
       <version>11.0.1.beta</version>
@@ -86,7 +87,8 @@
       <version>11.2.2.ee</version>
       <version>11.2.3</version>
       <version>11.2.4</version>
+      <version>11.2.4.ee</version>
     </versions>
-    <lastUpdated>20230205065718</lastUpdated>
+    <lastUpdated>20230210111223</lastUpdated>
   </versioning>
 </metadata>

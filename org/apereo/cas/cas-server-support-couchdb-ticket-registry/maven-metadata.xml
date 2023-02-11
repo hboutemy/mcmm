@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-support-couchdb-ticket-registry</artifactId>
   <versioning>
-    <latest>7.0.0-RC3</latest>
-    <release>7.0.0-RC3</release>
+    <latest>7.0.0-RC4</latest>
+    <release>7.0.0-RC4</release>
     <versions>
       <version>v6.4.0-RC5</version>
       <version>v6.4.0-RC6</version>
@@ -135,10 +135,12 @@
       <version>6.6.2</version>
       <version>6.6.3</version>
       <version>6.6.4</version>
+      <version>6.6.5</version>
       <version>7.0.0-RC1</version>
       <version>7.0.0-RC2</version>
       <version>7.0.0-RC3</version>
+      <version>7.0.0-RC4</version>
     </versions>
-    <lastUpdated>20221230074820</lastUpdated>
+    <lastUpdated>20230210125721</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.atlassian.connect</groupId>
   <artifactId>atlassian-connect-spring-boot-jwt</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>1.3.6</version>
       <version>1.4.0</version>
@@ -46,6 +46,7 @@
       <version>3.0.0-beta-1</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
       <version>0.9.0-alpha</version>
       <version>0.9.1-alpha</version>
       <version>1.0.0</version>
@@ -62,6 +63,6 @@
       <version>1.3.4</version>
       <version>1.3.5</version>
     </versions>
-    <lastUpdated>20230113000024</lastUpdated>
+    <lastUpdated>20230210042923</lastUpdated>
   </versioning>
 </metadata>
