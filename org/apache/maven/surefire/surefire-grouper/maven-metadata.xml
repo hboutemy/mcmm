@@ -3,8 +3,8 @@
   <groupId>org.apache.maven.surefire</groupId>
   <artifactId>surefire-grouper</artifactId>
   <versioning>
-    <latest>3.0.0-M8</latest>
-    <release>3.0.0-M8</release>
+    <latest>3.0.0-M9</latest>
+    <release>3.0.0-M9</release>
     <versions>
       <version>2.12</version>
       <version>2.12.1</version>
@@ -35,7 +35,8 @@
       <version>3.0.0-M6</version>
       <version>3.0.0-M7</version>
       <version>3.0.0-M8</version>
+      <version>3.0.0-M9</version>
     </versions>
-    <lastUpdated>20230111212440</lastUpdated>
+    <lastUpdated>20230213234900</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.alephium</groupId>
   <artifactId>alephium-conf_2.13</artifactId>
   <versioning>
-    <latest>1.7.0</latest>
-    <release>1.7.0</release>
+    <latest>1.7.1-rc0</latest>
+    <release>1.7.1-rc0</release>
     <versions>
       <version>0.7.4</version>
       <version>0.7.5</version>
@@ -151,7 +151,8 @@
       <version>1.7.0-rc4</version>
       <version>1.7.0-rc5</version>
       <version>1.7.0</version>
+      <version>1.7.1-rc0</version>
     </versions>
-    <lastUpdated>20230213110507</lastUpdated>
+    <lastUpdated>20230214163813</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>mdsal-netconf-yang-library</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.0.1</release>
+    <latest>5.0.2</latest>
+    <release>5.0.2</release>
     <versions>
       <version>1.1.0-Boron</version>
       <version>1.1.1-Boron-SR1</version>
@@ -94,7 +94,8 @@
       <version>4.0.5</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
+      <version>5.0.2</version>
     </versions>
-    <lastUpdated>20230124142107</lastUpdated>
+    <lastUpdated>20230214203806</lastUpdated>
   </versioning>
 </metadata>
