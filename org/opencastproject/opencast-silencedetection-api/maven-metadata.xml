@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-silencedetection-api</artifactId>
   <versioning>
-    <latest>13.1</latest>
-    <release>13.1</release>
+    <latest>13.2</latest>
+    <release>13.2</release>
     <versions>
       <version>6.6</version>
       <version>7.2</version>
@@ -71,7 +71,8 @@
       <version>12.7</version>
       <version>13.0</version>
       <version>13.1</version>
+      <version>13.2</version>
     </versions>
-    <lastUpdated>20230125014315</lastUpdated>
+    <lastUpdated>20230215164853</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.hazelcast.jet</groupId>
   <artifactId>hazelcast-jet-elasticsearch-7</artifactId>
   <versioning>
-    <latest>5.2.1</latest>
-    <release>5.2.1</release>
+    <latest>5.2.2</latest>
+    <release>5.2.2</release>
     <versions>
       <version>4.2</version>
       <version>4.3</version>
@@ -32,7 +32,8 @@
       <version>5.2-BETA-1</version>
       <version>5.2.0</version>
       <version>5.2.1</version>
+      <version>5.2.2</version>
     </versions>
-    <lastUpdated>20221209115725</lastUpdated>
+    <lastUpdated>20230215090859</lastUpdated>
   </versioning>
 </metadata>
