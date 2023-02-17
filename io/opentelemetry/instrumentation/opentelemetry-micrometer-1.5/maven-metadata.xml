@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-micrometer-1.5</artifactId>
   <versioning>
-    <latest>1.22.1-alpha</latest>
-    <release>1.22.1-alpha</release>
+    <latest>1.23.0-alpha</latest>
+    <release>1.23.0-alpha</release>
     <versions>
       <version>1.10.0-alpha</version>
       <version>1.10.1-alpha</version>
@@ -24,7 +24,8 @@
       <version>1.21.0-alpha</version>
       <version>1.22.0-alpha</version>
       <version>1.22.1-alpha</version>
+      <version>1.23.0-alpha</version>
     </versions>
-    <lastUpdated>20230114030029</lastUpdated>
+    <lastUpdated>20230216011526</lastUpdated>
   </versioning>
 </metadata>

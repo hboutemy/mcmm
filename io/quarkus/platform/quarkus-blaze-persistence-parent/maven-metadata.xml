@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-blaze-persistence-parent</artifactId>
   <versioning>
-    <latest>2.16.2.Final</latest>
-    <release>2.16.2.Final</release>
+    <latest>2.16.3.Final</latest>
+    <release>2.16.3.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -95,7 +95,8 @@
       <version>2.16.0.Final</version>
       <version>2.16.1.Final</version>
       <version>2.16.2.Final</version>
+      <version>2.16.3.Final</version>
     </versions>
-    <lastUpdated>20230208172859</lastUpdated>
+    <lastUpdated>20230216173812</lastUpdated>
   </versioning>
 </metadata>

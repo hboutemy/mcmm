@@ -3,8 +3,8 @@
   <groupId>de.arbeitsagentur.opdt</groupId>
   <artifactId>keycloak-cassandra-extension-parent</artifactId>
   <versioning>
-    <latest>0.6.0-20.0.3</latest>
-    <release>0.6.0-20.0.3</release>
+    <latest>0.6.0-20.0.3-no-lwt</latest>
+    <release>0.6.0-20.0.3-no-lwt</release>
     <versions>
       <version>0.4.5-20.0.2</version>
       <version>0.4.7-20.0.3</version>
@@ -12,7 +12,8 @@
       <version>0.4.10-20.0.3</version>
       <version>0.5.0-20.0.3</version>
       <version>0.6.0-20.0.3</version>
+      <version>0.6.0-20.0.3-no-lwt</version>
     </versions>
-    <lastUpdated>20230215155925</lastUpdated>
+    <lastUpdated>20230216145403</lastUpdated>
   </versioning>
 </metadata>

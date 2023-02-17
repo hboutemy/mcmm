@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-compute</artifactId>
   <versioning>
-    <latest>1.20.0</latest>
-    <release>1.20.0</release>
+    <latest>1.21.0</latest>
+    <release>1.21.0</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
@@ -182,10 +182,11 @@
       <version>1.18.0</version>
       <version>1.19.0</version>
       <version>1.20.0</version>
+      <version>1.21.0</version>
       <version>0.119.4-alpha</version>
       <version>0.119.5-alpha</version>
       <version>0.119.6-alpha</version>
     </versions>
-    <lastUpdated>20230203201154</lastUpdated>
+    <lastUpdated>20230216223213</lastUpdated>
   </versioning>
 </metadata>

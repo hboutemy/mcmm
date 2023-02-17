@@ -3,8 +3,8 @@
   <groupId>org.jboss.narayana.jta</groupId>
   <artifactId>jta</artifactId>
   <versioning>
-    <latest>6.0.0.CR1</latest>
-    <release>6.0.0.CR1</release>
+    <latest>6.0.0.Final</latest>
+    <release>6.0.0.Final</release>
     <versions>
       <version>5.0.0.M3</version>
       <version>5.0.0.M4</version>
@@ -119,7 +119,8 @@
       <version>5.13.1.Alpha1</version>
       <version>5.13.1.Final</version>
       <version>6.0.0.CR1</version>
+      <version>6.0.0.Final</version>
     </versions>
-    <lastUpdated>20230117121107</lastUpdated>
+    <lastUpdated>20230216121234</lastUpdated>
   </versioning>
 </metadata>
