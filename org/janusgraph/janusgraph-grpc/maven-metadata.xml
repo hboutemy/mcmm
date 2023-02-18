@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-grpc</artifactId>
   <versioning>
-    <latest>1.0.0-20230216-214145.205e25e</latest>
-    <release>1.0.0-20230216-214145.205e25e</release>
+    <latest>1.0.0-20230217-201148.d30e789</latest>
+    <release>1.0.0-20230217-201148.d30e789</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -43,6 +43,10 @@
       <version>0.6.3-20230214-131038.ac1185f</version>
       <version>0.6.3-20230214-131410.4fbd2bd</version>
       <version>0.6.3-20230216-200242.9f7fa79</version>
+      <version>0.6.3-20230217-015215.8f65ced</version>
+      <version>0.6.3-20230217-145322.837bb88</version>
+      <version>0.6.3-20230217-145546.81fc93f</version>
+      <version>0.6.3-20230217-200911.779c97a</version>
       <version>1.0.0-rc1</version>
       <version>1.0.0-20230104-164902.116a4cc</version>
       <version>1.0.0-20230105-040202.0284c15</version>
@@ -99,7 +103,13 @@
       <version>1.0.0-20230213-214749.b674e2e</version>
       <version>1.0.0-20230216-072522.62a4139</version>
       <version>1.0.0-20230216-214145.205e25e</version>
+      <version>1.0.0-20230217-004032.52f639c</version>
+      <version>1.0.0-20230217-073613.7880d48</version>
+      <version>1.0.0-20230217-083826.d2db922</version>
+      <version>1.0.0-20230217-145701.9e26fd3</version>
+      <version>1.0.0-20230217-201045.c50a4bf</version>
+      <version>1.0.0-20230217-201148.d30e789</version>
     </versions>
-    <lastUpdated>20230216214905</lastUpdated>
+    <lastUpdated>20230217202049</lastUpdated>
   </versioning>
 </metadata>

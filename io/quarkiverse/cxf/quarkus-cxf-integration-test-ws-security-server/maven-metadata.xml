@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-integration-test-ws-security-server</artifactId>
   <versioning>
-    <latest>1.7.3</latest>
-    <release>1.7.3</release>
+    <latest>2.0.0.Alpha1</latest>
+    <release>2.0.0.Alpha1</release>
     <versions>
       <version>1.5.0.CR1</version>
       <version>1.5.0</version>
@@ -23,7 +23,8 @@
       <version>1.7.1</version>
       <version>1.7.2</version>
       <version>1.7.3</version>
+      <version>2.0.0.Alpha1</version>
     </versions>
-    <lastUpdated>20230116122820</lastUpdated>
+    <lastUpdated>20230217133620</lastUpdated>
   </versioning>
 </metadata>
