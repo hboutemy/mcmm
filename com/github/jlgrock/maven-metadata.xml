@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>POM Check Maven Plugin</name>
+      <prefix>pom-check</prefix>
+      <artifactId>pom-check-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
