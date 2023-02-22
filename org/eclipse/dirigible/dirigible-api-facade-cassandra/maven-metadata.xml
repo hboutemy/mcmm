@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-api-facade-cassandra</artifactId>
   <versioning>
-    <latest>7.1.4</latest>
-    <release>7.1.4</release>
+    <latest>7.1.5</latest>
+    <release>7.1.5</release>
     <versions>
       <version>5.8.0</version>
       <version>5.8.1</version>
@@ -145,7 +145,8 @@
       <version>7.1.2</version>
       <version>7.1.3</version>
       <version>7.1.4</version>
+      <version>7.1.5</version>
     </versions>
-    <lastUpdated>20230215202257</lastUpdated>
+    <lastUpdated>20230221103906</lastUpdated>
   </versioning>
 </metadata>

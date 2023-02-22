@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-provider-util</artifactId>
   <versioning>
-    <latest>2.0.0.Final</latest>
-    <release>2.0.0.Final</release>
+    <latest>2.1.0.Final</latest>
+    <release>2.1.0.Final</release>
     <versions>
       <version>1.9.0.CR3</version>
       <version>1.9.0.CR4</version>
@@ -92,6 +92,7 @@
       <version>1.20.0.Final</version>
       <version>1.20.1.Final</version>
       <version>1.20.2.Final</version>
+      <version>1.20.3.Final</version>
       <version>2.0.0.Alpha4</version>
       <version>2.0.0.Alpha5</version>
       <version>2.0.0.Alpha6</version>
@@ -103,7 +104,8 @@
       <version>2.0.0.Beta2</version>
       <version>2.0.0.Beta3</version>
       <version>2.0.0.Final</version>
+      <version>2.1.0.Final</version>
     </versions>
-    <lastUpdated>20230110142149</lastUpdated>
+    <lastUpdated>20230221160812</lastUpdated>
   </versioning>
 </metadata>
