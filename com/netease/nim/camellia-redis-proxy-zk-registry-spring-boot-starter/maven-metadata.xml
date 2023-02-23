@@ -3,8 +3,8 @@
   <groupId>com.netease.nim</groupId>
   <artifactId>camellia-redis-proxy-zk-registry-spring-boot-starter</artifactId>
   <versioning>
-    <latest>1.2.0</latest>
-    <release>1.2.0</release>
+    <latest>1.2.1</latest>
+    <release>1.2.1</release>
     <versions>
       <version>1.0.9</version>
       <version>1.0.10</version>
@@ -75,7 +75,8 @@
       <version>1.1.13</version>
       <version>1.1.14</version>
       <version>1.2.0</version>
+      <version>1.2.1</version>
     </versions>
-    <lastUpdated>20230214033157</lastUpdated>
+    <lastUpdated>20230222090542</lastUpdated>
   </versioning>
 </metadata>
