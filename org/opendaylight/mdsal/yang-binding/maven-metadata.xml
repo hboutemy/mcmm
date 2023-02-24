@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>yang-binding</artifactId>
   <versioning>
-    <latest>11.0.6</latest>
-    <release>11.0.6</release>
+    <latest>11.0.7</latest>
+    <release>11.0.7</release>
     <versions>
       <version>0.8.0-Beryllium</version>
       <version>0.8.1-Beryllium-SR1</version>
@@ -154,7 +154,8 @@
       <version>11.0.4</version>
       <version>11.0.5</version>
       <version>11.0.6</version>
+      <version>11.0.7</version>
     </versions>
-    <lastUpdated>20230205135636</lastUpdated>
+    <lastUpdated>20230223115233</lastUpdated>
   </versioning>
 </metadata>

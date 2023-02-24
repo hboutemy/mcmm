@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.operatorsdk</groupId>
   <artifactId>quarkus-operator-sdk-build-parent</artifactId>
   <versioning>
-    <latest>5.0.5</latest>
-    <release>5.0.5</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>1.9.7</version>
       <version>2.0.2</version>
@@ -38,7 +38,8 @@
       <version>5.0.3</version>
       <version>5.0.4</version>
       <version>5.0.5</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20230217205626</lastUpdated>
+    <lastUpdated>20230223154441</lastUpdated>
   </versioning>
 </metadata>

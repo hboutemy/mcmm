@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.binding.model.ietf</groupId>
   <artifactId>rfc8346-ietf-l3-unicast-topology-state</artifactId>
   <versioning>
-    <latest>11.0.6</latest>
-    <release>11.0.6</release>
+    <latest>11.0.7</latest>
+    <release>11.0.7</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -60,7 +60,8 @@
       <version>11.0.4</version>
       <version>11.0.5</version>
       <version>11.0.6</version>
+      <version>11.0.7</version>
     </versions>
-    <lastUpdated>20230205131349</lastUpdated>
+    <lastUpdated>20230223111211</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-underfs-web</artifactId>
   <versioning>
-    <latest>291-alpha</latest>
-    <release>291-alpha</release>
+    <latest>291-beta</latest>
+    <release>291-beta</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -50,7 +50,8 @@
       <version>2.9.0-2</version>
       <version>2.9.1</version>
       <version>291-alpha</version>
+      <version>291-beta</version>
     </versions>
-    <lastUpdated>20230203204641</lastUpdated>
+    <lastUpdated>20230223224913</lastUpdated>
   </versioning>
 </metadata>

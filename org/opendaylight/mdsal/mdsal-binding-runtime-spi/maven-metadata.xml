@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-binding-runtime-spi</artifactId>
   <versioning>
-    <latest>11.0.6</latest>
-    <release>11.0.6</release>
+    <latest>11.0.7</latest>
+    <release>11.0.7</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -73,7 +73,8 @@
       <version>11.0.4</version>
       <version>11.0.5</version>
       <version>11.0.6</version>
+      <version>11.0.7</version>
     </versions>
-    <lastUpdated>20230205133744</lastUpdated>
+    <lastUpdated>20230223113501</lastUpdated>
   </versioning>
 </metadata>

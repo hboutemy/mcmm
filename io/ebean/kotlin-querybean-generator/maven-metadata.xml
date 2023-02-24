@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>kotlin-querybean-generator</artifactId>
   <versioning>
-    <latest>13.13.1-beta-jakarta</latest>
-    <release>13.13.1-beta-jakarta</release>
+    <latest>13.13.1-jakarta-beta</latest>
+    <release>13.13.1-jakarta-beta</release>
     <versions>
       <version>10.1.1</version>
       <version>10.1.2</version>
@@ -139,7 +139,9 @@
       <version>13.12.0</version>
       <version>13.13.0</version>
       <version>13.13.1-beta-jakarta</version>
+      <version>13.13.1</version>
+      <version>13.13.1-jakarta-beta</version>
     </versions>
-    <lastUpdated>20230220215919</lastUpdated>
+    <lastUpdated>20230223023621</lastUpdated>
   </versioning>
 </metadata>

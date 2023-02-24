@@ -3,8 +3,8 @@
   <groupId>org.apache.maven.resolver</groupId>
   <artifactId>maven-resolver-named-locks-hazelcast</artifactId>
   <versioning>
-    <latest>1.9.4</latest>
-    <release>1.9.4</release>
+    <latest>1.9.5</latest>
+    <release>1.9.5</release>
     <versions>
       <version>1.7.0</version>
       <version>1.7.1</version>
@@ -17,7 +17,8 @@
       <version>1.9.1</version>
       <version>1.9.2</version>
       <version>1.9.4</version>
+      <version>1.9.5</version>
     </versions>
-    <lastUpdated>20230116072043</lastUpdated>
+    <lastUpdated>20230223070605</lastUpdated>
   </versioning>
 </metadata>
