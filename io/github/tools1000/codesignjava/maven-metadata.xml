@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Java package and code-sign plugin</name>
+      <prefix>codesignjava</prefix>
+      <artifactId>codesignjava-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

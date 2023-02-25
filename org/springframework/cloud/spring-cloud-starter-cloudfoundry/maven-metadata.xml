@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-cloudfoundry</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.3</latest>
+    <release>3.1.3</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -32,9 +32,10 @@
       <version>3.0.3</version>
       <version>3.1.0</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
     </versions>
-    <lastUpdated>20220527023013</lastUpdated>
+    <lastUpdated>20230224102040</lastUpdated>
   </versioning>
 </metadata>

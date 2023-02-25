@@ -6,5 +6,10 @@
       <prefix>dblock</prefix>
       <artifactId>dblock-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Javacard converter tooling Maven Mojo</name>
+      <prefix>javacard</prefix>
+      <artifactId>javacard-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
