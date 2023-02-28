@@ -3,8 +3,8 @@
   <groupId>com.amazon.alexa</groupId>
   <artifactId>ask-sdk-core</artifactId>
   <versioning>
-    <latest>2.58.0</latest>
-    <release>2.58.0</release>
+    <latest>2.59.0</latest>
+    <release>2.59.0</release>
     <versions>
       <version>2.26.0</version>
       <version>2.27.0</version>
@@ -56,6 +56,7 @@
       <version>2.56.0</version>
       <version>2.57.0</version>
       <version>2.58.0</version>
+      <version>2.59.0</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -112,6 +113,6 @@
       <version>2.9.1</version>
       <version>2.9.2</version>
     </versions>
-    <lastUpdated>20230220163653</lastUpdated>
+    <lastUpdated>20230227163659</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-alpn-server</artifactId>
   <versioning>
-    <latest>12.0.0.alpha3</latest>
-    <release>12.0.0.alpha3</release>
+    <latest>12.0.0.beta0</latest>
+    <release>12.0.0.beta0</release>
     <versions>
       <version>9.2.0.M0</version>
       <version>9.2.0.M1</version>
@@ -162,6 +162,7 @@
       <version>9.4.48.v20220622</version>
       <version>9.4.49.v20220914</version>
       <version>9.4.50.v20221201</version>
+      <version>9.4.51.v20230217</version>
       <version>10.0.0-alpha0</version>
       <version>10.0.0.alpha1</version>
       <version>10.0.0.alpha2</version>
@@ -183,6 +184,7 @@
       <version>10.0.11</version>
       <version>10.0.12</version>
       <version>10.0.13</version>
+      <version>10.0.14</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
@@ -201,11 +203,13 @@
       <version>11.0.11</version>
       <version>11.0.12</version>
       <version>11.0.13</version>
+      <version>11.0.14</version>
       <version>12.0.0.alpha0</version>
       <version>12.0.0.alpha1</version>
       <version>12.0.0.alpha2</version>
       <version>12.0.0.alpha3</version>
+      <version>12.0.0.beta0</version>
     </versions>
-    <lastUpdated>20221209200449</lastUpdated>
+    <lastUpdated>20230227172641</lastUpdated>
   </versioning>
 </metadata>

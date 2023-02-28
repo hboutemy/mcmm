@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>consent-mgt</artifactId>
   <versioning>
-    <latest>5.25.115</latest>
-    <release>5.25.115</release>
+    <latest>5.25.121</latest>
+    <release>5.25.121</release>
     <versions>
       <version>5.11.100</version>
       <version>5.11.101</version>
@@ -1639,7 +1639,9 @@
       <version>5.25.113</version>
       <version>5.25.114</version>
       <version>5.25.115</version>
+      <version>5.25.120</version>
+      <version>5.25.121</version>
     </versions>
-    <lastUpdated>20230221161416</lastUpdated>
+    <lastUpdated>20230227122901</lastUpdated>
   </versioning>
 </metadata>

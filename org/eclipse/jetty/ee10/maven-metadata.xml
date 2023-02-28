@@ -2,12 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>EE10 :: Jetty :: Jetty JSPC Maven Plugin</name>
+      <name>EE10 :: Jetty JSPC Maven Plugin</name>
       <prefix>jetty-ee10-jspc</prefix>
       <artifactId>jetty-ee10-jspc-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>EE10 :: Jetty :: Jetty Maven Plugin</name>
+      <name>EE10 :: Jetty Maven Plugin</name>
       <prefix>jetty-ee10</prefix>
       <artifactId>jetty-ee10-maven-plugin</artifactId>
     </plugin>

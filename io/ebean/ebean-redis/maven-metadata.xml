@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-redis</artifactId>
   <versioning>
-    <latest>13.13.1-jakarta-beta</latest>
-    <release>13.13.1-jakarta-beta</release>
+    <latest>13.13.2</latest>
+    <release>13.13.2</release>
     <versions>
       <version>1.1</version>
       <version>11.31.1</version>
@@ -87,7 +87,8 @@
       <version>13.13.1-beta-jakarta</version>
       <version>13.13.1</version>
       <version>13.13.1-jakarta-beta</version>
+      <version>13.13.2</version>
     </versions>
-    <lastUpdated>20230223023701</lastUpdated>
+    <lastUpdated>20230227035419</lastUpdated>
   </versioning>
 </metadata>

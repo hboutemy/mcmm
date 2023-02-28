@@ -3,8 +3,8 @@
   <groupId>org.apache.maven.indexer</groupId>
   <artifactId>indexer-core</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>3.1.0</version>
       <version>4.0.0</version>
@@ -21,11 +21,12 @@
       <version>6.2.1</version>
       <version>6.2.2</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
       <version>5.1.2-202109</version>
       <version>5.1.2-4333789</version>
       <version>5.1.2-816025a</version>
       <version>5.1.2-ea1205e</version>
     </versions>
-    <lastUpdated>20221111083310</lastUpdated>
+    <lastUpdated>20230227080109</lastUpdated>
   </versioning>
 </metadata>

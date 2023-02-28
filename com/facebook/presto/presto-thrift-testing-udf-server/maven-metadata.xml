@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-thrift-testing-udf-server</artifactId>
   <versioning>
-    <latest>0.279</latest>
-    <release>0.279</release>
+    <latest>0.280</latest>
+    <release>0.280</release>
     <versions>
       <version>0.240</version>
       <version>0.240.1</version>
@@ -74,7 +74,8 @@
       <version>0.278</version>
       <version>0.278.1</version>
       <version>0.279</version>
+      <version>0.280</version>
     </versions>
-    <lastUpdated>20230131131237</lastUpdated>
+    <lastUpdated>20230227080402</lastUpdated>
   </versioning>
 </metadata>

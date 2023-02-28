@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-redshift</artifactId>
   <versioning>
-    <latest>0.279</latest>
-    <release>0.279</release>
+    <latest>0.280</latest>
+    <release>0.280</release>
     <versions>
       <version>0.186</version>
       <version>0.187</version>
@@ -143,7 +143,8 @@
       <version>0.278</version>
       <version>0.278.1</version>
       <version>0.279</version>
+      <version>0.280</version>
     </versions>
-    <lastUpdated>20230129055644</lastUpdated>
+    <lastUpdated>20230227072909</lastUpdated>
   </versioning>
 </metadata>
