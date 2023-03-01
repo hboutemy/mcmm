@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.spark</groupId>
   <artifactId>spark-2.4-bigquery</artifactId>
   <versioning>
-    <latest>0.28.0-preview</latest>
-    <release>0.28.0-preview</release>
+    <latest>0.28.1-preview</latest>
+    <release>0.28.1-preview</release>
     <versions>
       <version>0.23.0-preview</version>
       <version>0.23.1-preview</version>
@@ -19,7 +19,8 @@
       <version>0.27.0-preview</version>
       <version>0.27.1-preview</version>
       <version>0.28.0-preview</version>
+      <version>0.28.1-preview</version>
     </versions>
-    <lastUpdated>20230110005720</lastUpdated>
+    <lastUpdated>20230228003516</lastUpdated>
   </versioning>
 </metadata>

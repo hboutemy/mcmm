@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-jackson-jsonnode</artifactId>
   <versioning>
-    <latest>13.13.2</latest>
-    <release>13.13.2</release>
+    <latest>13.14.0-jakarta</latest>
+    <release>13.14.0-jakarta</release>
     <versions>
       <version>13.10.0</version>
       <version>13.10.1</version>
@@ -21,7 +21,9 @@
       <version>13.13.1</version>
       <version>13.13.1-jakarta-beta</version>
       <version>13.13.2</version>
+      <version>13.14.0</version>
+      <version>13.14.0-jakarta</version>
     </versions>
-    <lastUpdated>20230227033646</lastUpdated>
+    <lastUpdated>20230228214147</lastUpdated>
   </versioning>
 </metadata>

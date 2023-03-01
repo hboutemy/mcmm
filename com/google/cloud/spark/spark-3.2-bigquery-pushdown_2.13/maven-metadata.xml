@@ -3,13 +3,14 @@
   <groupId>com.google.cloud.spark</groupId>
   <artifactId>spark-3.2-bigquery-pushdown_2.13</artifactId>
   <versioning>
-    <latest>0.28.0</latest>
-    <release>0.28.0</release>
+    <latest>0.28.1</latest>
+    <release>0.28.1</release>
     <versions>
       <version>0.27.0</version>
       <version>0.27.1</version>
       <version>0.28.0</version>
+      <version>0.28.1</version>
     </versions>
-    <lastUpdated>20230110005726</lastUpdated>
+    <lastUpdated>20230228003522</lastUpdated>
   </versioning>
 </metadata>

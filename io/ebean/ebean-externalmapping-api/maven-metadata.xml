@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-externalmapping-api</artifactId>
   <versioning>
-    <latest>13.13.2</latest>
-    <release>13.13.2</release>
+    <latest>13.14.0-jakarta</latest>
+    <release>13.14.0-jakarta</release>
     <versions>
       <version>12.5.0</version>
       <version>12.5.1</version>
@@ -84,7 +84,9 @@
       <version>13.13.1</version>
       <version>13.13.1-jakarta-beta</version>
       <version>13.13.2</version>
+      <version>13.14.0</version>
+      <version>13.14.0-jakarta</version>
     </versions>
-    <lastUpdated>20230227033644</lastUpdated>
+    <lastUpdated>20230228214145</lastUpdated>
   </versioning>
 </metadata>
