@@ -3,8 +3,8 @@
   <groupId>io.avaje</groupId>
   <artifactId>avaje-inject-test</artifactId>
   <versioning>
-    <latest>8.13-RC4</latest>
-    <release>8.13-RC4</release>
+    <latest>8.13</latest>
+    <release>8.13</release>
     <versions>
       <version>3.1</version>
       <version>3.3</version>
@@ -76,6 +76,7 @@
       <version>7.10</version>
       <version>7.11</version>
       <version>7.12</version>
+      <version>7.13</version>
       <version>8.0</version>
       <version>8.1.RC1</version>
       <version>8.1</version>
@@ -100,7 +101,8 @@
       <version>8.13-RC2</version>
       <version>8.13-RC3</version>
       <version>8.13-RC4</version>
+      <version>8.13</version>
     </versions>
-    <lastUpdated>20230224032423</lastUpdated>
+    <lastUpdated>20230301064424</lastUpdated>
   </versioning>
 </metadata>

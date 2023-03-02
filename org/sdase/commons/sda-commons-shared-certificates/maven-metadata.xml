@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-shared-certificates</artifactId>
   <versioning>
-    <latest>3.0.0-rc.1</latest>
-    <release>3.0.0-rc.1</release>
+    <latest>3.0.0-rc.2</latest>
+    <release>3.0.0-rc.2</release>
     <versions>
       <version>2.36.0</version>
       <version>2.36.1</version>
@@ -428,10 +428,13 @@
       <version>2.64.16</version>
       <version>2.64.17</version>
       <version>2.64.18</version>
+      <version>2.64.19</version>
+      <version>2.64.20</version>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
       <version>3.0.0-rc.1</version>
+      <version>3.0.0-rc.2</version>
     </versions>
-    <lastUpdated>20230228135910</lastUpdated>
+    <lastUpdated>20230301170236</lastUpdated>
   </versioning>
 </metadata>

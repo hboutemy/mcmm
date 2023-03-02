@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Configuration Plugin</name>
+      <prefix>configuration</prefix>
+      <artifactId>configuration-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Dependency Plugin</name>
+      <prefix>dependency</prefix>
+      <artifactId>dependency-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Extended Maven Invoker Plugin</name>
+      <prefix>invoker</prefix>
+      <artifactId>invoker-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Python Compile</name>
+      <prefix>python</prefix>
+      <artifactId>maven-python</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>com.exactpro.th2</groupId>
   <artifactId>grpc-act-template</artifactId>
   <versioning>
-    <latest>3.11.0</latest>
-    <release>3.11.0</release>
+    <latest>4.0.0-dev</latest>
+    <release>4.0.0-dev</release>
     <versions>
       <version>2.4.0</version>
       <version>3.0.1</version>
@@ -21,7 +21,9 @@
       <version>3.9.0</version>
       <version>3.10.0</version>
       <version>3.11.0</version>
+      <version>3.12.0</version>
+      <version>4.0.0-dev</version>
     </versions>
-    <lastUpdated>20230207110714</lastUpdated>
+    <lastUpdated>20230301095950</lastUpdated>
   </versioning>
 </metadata>
