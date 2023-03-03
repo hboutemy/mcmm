@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-json-p-provider</artifactId>
   <versioning>
-    <latest>6.2.2.Final</latest>
-    <release>6.2.2.Final</release>
+    <latest>6.2.3.Final</latest>
+    <release>6.2.3.Final</release>
     <versions>
       <version>3.0.5.Final</version>
       <version>3.0.6.Final</version>
@@ -157,6 +157,7 @@
       <version>5.0.3.Final</version>
       <version>5.0.4.Final</version>
       <version>5.0.5.Final</version>
+      <version>5.0.6.Final</version>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
@@ -171,7 +172,8 @@
       <version>6.2.0.Final</version>
       <version>6.2.1.Final</version>
       <version>6.2.2.Final</version>
+      <version>6.2.3.Final</version>
     </versions>
-    <lastUpdated>20230301001513</lastUpdated>
+    <lastUpdated>20230301225933</lastUpdated>
   </versioning>
 </metadata>

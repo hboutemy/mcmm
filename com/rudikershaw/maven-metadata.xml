@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Remove Attached Artifact Maven Plugin</name>
+      <prefix>remove-attached-artifact</prefix>
+      <artifactId>remove-attached-artifact-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
