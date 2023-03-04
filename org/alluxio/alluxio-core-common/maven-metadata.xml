@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-core-common</artifactId>
   <versioning>
-    <latest>291-beta</latest>
-    <release>291-beta</release>
+    <latest>291-gamma</latest>
+    <release>291-gamma</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -68,7 +68,8 @@
       <version>2.9.2</version>
       <version>291-alpha</version>
       <version>291-beta</version>
+      <version>291-gamma</version>
     </versions>
-    <lastUpdated>20230301055603</lastUpdated>
+    <lastUpdated>20230303014621</lastUpdated>
   </versioning>
 </metadata>

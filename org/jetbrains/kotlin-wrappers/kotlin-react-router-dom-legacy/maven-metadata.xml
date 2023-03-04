@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-router-dom-legacy</artifactId>
   <versioning>
-    <latest>6.3.0-pre.505</latest>
-    <release>6.3.0-pre.505</release>
+    <latest>6.3.0-pre.506-compat</latest>
+    <release>6.3.0-pre.506-compat</release>
     <versions>
       <version>6.3.0-pre.492</version>
       <version>6.3.0-pre.493</version>
@@ -21,7 +21,9 @@
       <version>6.3.0-pre.503</version>
       <version>6.3.0-pre.504</version>
       <version>6.3.0-pre.505</version>
+      <version>6.3.0-pre.506</version>
+      <version>6.3.0-pre.506-compat</version>
     </versions>
-    <lastUpdated>20230228154940</lastUpdated>
+    <lastUpdated>20230303181903</lastUpdated>
   </versioning>
 </metadata>

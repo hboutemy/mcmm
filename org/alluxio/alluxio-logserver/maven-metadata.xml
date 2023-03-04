@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-logserver</artifactId>
   <versioning>
-    <latest>291-beta</latest>
-    <release>291-beta</release>
+    <latest>291-gamma</latest>
+    <release>291-gamma</release>
     <versions>
       <version>1.6.0</version>
       <version>1.6.1</version>
@@ -60,7 +60,8 @@
       <version>2.9.2</version>
       <version>291-alpha</version>
       <version>291-beta</version>
+      <version>291-gamma</version>
     </versions>
-    <lastUpdated>20230301055616</lastUpdated>
+    <lastUpdated>20230303014635</lastUpdated>
   </versioning>
 </metadata>
