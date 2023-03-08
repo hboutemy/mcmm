@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>com.ibm.websphere.appserver.org.eclipse.microprofile.faulttolerance-1.1</artifactId>
   <versioning>
-    <latest>23.0.0.1</latest>
-    <release>23.0.0.1</release>
+    <latest>23.0.0.2</latest>
+    <release>23.0.0.2</release>
     <versions>
       <version>18.0.0.3</version>
       <version>18.0.0.4</version>
@@ -58,7 +58,8 @@
       <version>22.0.0.12</version>
       <version>22.0.0.13</version>
       <version>23.0.0.1</version>
+      <version>23.0.0.2</version>
     </versions>
-    <lastUpdated>20230131123430</lastUpdated>
+    <lastUpdated>20230307163240</lastUpdated>
   </versioning>
 </metadata>

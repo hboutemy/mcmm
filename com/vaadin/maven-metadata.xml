@@ -7,12 +7,17 @@
       <artifactId>flow-code-generator</artifactId>
     </plugin>
     <plugin>
+      <name>Flow devBundle Maven plugin</name>
+      <prefix>flow-dev-bundle</prefix>
+      <artifactId>flow-dev-bundle-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Flow Maven plugin</name>
       <prefix>flow</prefix>
       <artifactId>flow-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Vaadin Plug-in for Maven</name>
+      <name>Vaadin Maven plugin</name>
       <prefix>vaadin</prefix>
       <artifactId>vaadin-maven-plugin</artifactId>
     </plugin>

@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>io.openliberty.internal.grpc-1.0</artifactId>
   <versioning>
-    <latest>23.0.0.1</latest>
-    <release>23.0.0.1</release>
+    <latest>23.0.0.2</latest>
+    <release>23.0.0.2</release>
     <versions>
       <version>20.0.0.12</version>
       <version>21.0.0.1</version>
@@ -33,7 +33,8 @@
       <version>22.0.0.12</version>
       <version>22.0.0.13</version>
       <version>23.0.0.1</version>
+      <version>23.0.0.2</version>
     </versions>
-    <lastUpdated>20230131123702</lastUpdated>
+    <lastUpdated>20230307163507</lastUpdated>
   </versioning>
 </metadata>
