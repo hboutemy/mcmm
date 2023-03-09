@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-maven-plugin</artifactId>
   <versioning>
-    <latest>1.8.20-Beta</latest>
-    <release>1.8.20-Beta</release>
+    <latest>1.8.20-RC</latest>
+    <release>1.8.20-RC</release>
     <versions>
       <version>0.0.1-test-deploy</version>
       <version>0.0.2-test-deploy</version>
@@ -199,8 +199,9 @@
       <version>1.8.0</version>
       <version>1.8.10</version>
       <version>1.8.20-Beta</version>
+      <version>1.8.20-RC</version>
       <version>0.12.613</version>
     </versions>
-    <lastUpdated>20230207205804</lastUpdated>
+    <lastUpdated>20230308084020</lastUpdated>
   </versioning>
 </metadata>

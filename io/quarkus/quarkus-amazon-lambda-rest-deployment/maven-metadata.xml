@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-amazon-lambda-rest-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha4</latest>
-    <release>3.0.0.Alpha4</release>
+    <latest>3.0.0.Alpha5</latest>
+    <release>3.0.0.Alpha5</release>
     <versions>
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
@@ -119,7 +119,8 @@
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
       <version>3.0.0.Alpha4</version>
+      <version>3.0.0.Alpha5</version>
     </versions>
-    <lastUpdated>20230302114801</lastUpdated>
+    <lastUpdated>20230308091701</lastUpdated>
   </versioning>
 </metadata>

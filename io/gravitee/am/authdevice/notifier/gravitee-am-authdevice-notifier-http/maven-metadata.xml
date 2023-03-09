@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.authdevice.notifier</groupId>
   <artifactId>gravitee-am-authdevice-notifier-http</artifactId>
   <versioning>
-    <latest>3.21.0-alpha.2</latest>
-    <release>3.21.0-alpha.2</release>
+    <latest>3.21.0-alpha.3</latest>
+    <release>3.21.0-alpha.3</release>
     <versions>
       <version>3.15.0</version>
       <version>3.15.1</version>
@@ -67,7 +67,8 @@
       <version>3.20.1</version>
       <version>3.21.0-alpha.1</version>
       <version>3.21.0-alpha.2</version>
+      <version>3.21.0-alpha.3</version>
     </versions>
-    <lastUpdated>20230302100552</lastUpdated>
+    <lastUpdated>20230307233547</lastUpdated>
   </versioning>
 </metadata>

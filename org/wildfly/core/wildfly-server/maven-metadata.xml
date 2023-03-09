@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-server</artifactId>
   <versioning>
-    <latest>20.0.0.Beta6</latest>
-    <release>20.0.0.Beta6</release>
+    <latest>20.0.0.Beta7</latest>
+    <release>20.0.0.Beta7</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -342,7 +342,8 @@
       <version>20.0.0.Beta4</version>
       <version>20.0.0.Beta5</version>
       <version>20.0.0.Beta6</version>
+      <version>20.0.0.Beta7</version>
     </versions>
-    <lastUpdated>20230215125311</lastUpdated>
+    <lastUpdated>20230308162458</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-test-wasm</artifactId>
   <versioning>
-    <latest>1.8.20-Beta</latest>
-    <release>1.8.20-Beta</release>
+    <latest>1.8.20-RC</latest>
+    <release>1.8.20-RC</release>
     <versions>
       <version>1.6.20-M1</version>
       <version>1.6.20-RC</version>
@@ -27,7 +27,8 @@
       <version>1.8.0</version>
       <version>1.8.10</version>
       <version>1.8.20-Beta</version>
+      <version>1.8.20-RC</version>
     </versions>
-    <lastUpdated>20230207205856</lastUpdated>
+    <lastUpdated>20230308084111</lastUpdated>
   </versioning>
 </metadata>

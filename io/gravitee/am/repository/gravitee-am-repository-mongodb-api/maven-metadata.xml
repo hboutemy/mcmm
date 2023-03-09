@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.repository</groupId>
   <artifactId>gravitee-am-repository-mongodb-api</artifactId>
   <versioning>
-    <latest>3.21.0-alpha.2</latest>
-    <release>3.21.0-alpha.2</release>
+    <latest>3.21.0-alpha.3</latest>
+    <release>3.21.0-alpha.3</release>
     <versions>
       <version>3.18.0-RC2</version>
       <version>3.18.0</version>
@@ -39,7 +39,8 @@
       <version>3.20.1</version>
       <version>3.21.0-alpha.1</version>
       <version>3.21.0-alpha.2</version>
+      <version>3.21.0-alpha.3</version>
     </versions>
-    <lastUpdated>20230302100726</lastUpdated>
+    <lastUpdated>20230307233716</lastUpdated>
   </versioning>
 </metadata>

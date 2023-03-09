@@ -3,8 +3,8 @@
   <groupId>io.prometheus.cloudwatch</groupId>
   <artifactId>cloudwatch_exporter</artifactId>
   <versioning>
-    <latest>0.15.2</latest>
-    <release>0.15.2</release>
+    <latest>0.15.3</latest>
+    <release>0.15.3</release>
     <versions>
       <version>0.1</version>
       <version>0.2</version>
@@ -28,8 +28,9 @@
       <version>0.15.0</version>
       <version>0.15.1</version>
       <version>0.15.2</version>
+      <version>0.15.3</version>
       <version>0.1.0</version>
     </versions>
-    <lastUpdated>20230210105812</lastUpdated>
+    <lastUpdated>20230308171944</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-archetype-jvm</artifactId>
   <versioning>
-    <latest>1.8.20-Beta</latest>
-    <release>1.8.20-Beta</release>
+    <latest>1.8.20-RC</latest>
+    <release>1.8.20-RC</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.2-1</version>
@@ -117,7 +117,8 @@
       <version>1.8.0</version>
       <version>1.8.10</version>
       <version>1.8.20-Beta</version>
+      <version>1.8.20-RC</version>
     </versions>
-    <lastUpdated>20230207205715</lastUpdated>
+    <lastUpdated>20230308083931</lastUpdated>
   </versioning>
 </metadata>
