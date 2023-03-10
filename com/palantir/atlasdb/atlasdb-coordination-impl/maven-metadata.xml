@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-coordination-impl</artifactId>
   <versioning>
-    <latest>0.809.0</latest>
-    <release>0.809.0</release>
+    <latest>0.811.0</latest>
+    <release>0.811.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -594,7 +594,8 @@
       <version>0.808.0</version>
       <version>0.809.0-rc1</version>
       <version>0.809.0</version>
+      <version>0.811.0</version>
     </versions>
-    <lastUpdated>20230308113301</lastUpdated>
+    <lastUpdated>20230309181927</lastUpdated>
   </versioning>
 </metadata>

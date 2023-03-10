@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Rust Maven Plugin</name>
+      <prefix>rust</prefix>
+      <artifactId>rust-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

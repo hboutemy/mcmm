@@ -17,6 +17,11 @@
       <artifactId>docker-image-archive-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Full Servers Decryption Maven Extension</name>
+      <prefix>full-servers-decryptionextension</prefix>
+      <artifactId>full-servers-decryption-maven-extension</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven HTML to PDF Converter Plugin</name>
       <prefix>html2pdf</prefix>
       <artifactId>html2pdf-maven-plugin</artifactId>
