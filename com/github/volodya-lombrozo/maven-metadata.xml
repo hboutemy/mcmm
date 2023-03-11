@@ -12,6 +12,11 @@
       <artifactId>hg-revision-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>jtcop</name>
+      <prefix>jtcop</prefix>
+      <artifactId>jtcop-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>test-naming-conventions</name>
       <prefix>test-naming-conventions</prefix>
       <artifactId>test-naming-conventions</artifactId>

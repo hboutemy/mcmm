@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-jcache-tck-runner-embedded</artifactId>
   <versioning>
-    <latest>14.0.6.Final</latest>
-    <release>14.0.6.Final</release>
+    <latest>14.0.7.Final</latest>
+    <release>14.0.7.Final</release>
     <versions>
       <version>10.1.1.Final</version>
       <version>10.1.2.Final</version>
@@ -102,8 +102,9 @@
       <version>14.0.4.Final</version>
       <version>14.0.5.Final</version>
       <version>14.0.6.Final</version>
+      <version>14.0.7.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20230125095956</lastUpdated>
+    <lastUpdated>20230310180500</lastUpdated>
   </versioning>
 </metadata>
