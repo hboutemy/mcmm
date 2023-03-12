@@ -16,5 +16,10 @@
       <prefix>smartsprites</prefix>
       <artifactId>smartsprites-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>whitespace-maven-plugin Maven Mojo</name>
+      <prefix>whitespace</prefix>
+      <artifactId>whitespace-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
