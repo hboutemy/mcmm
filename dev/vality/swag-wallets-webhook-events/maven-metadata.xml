@@ -3,8 +3,8 @@
   <groupId>dev.vality</groupId>
   <artifactId>swag-wallets-webhook-events</artifactId>
   <versioning>
-    <latest>1.1-540e016-server</latest>
-    <release>1.1-540e016-server</release>
+    <latest>1.21-a4e1726-server</latest>
+    <release>1.21-a4e1726-server</release>
     <versions>
       <version>1.1-ab5588c-client</version>
       <version>1.1-ab5588c-server</version>
@@ -16,7 +16,11 @@
       <version>1.1-56dba5c-server</version>
       <version>1.1-540e016-client</version>
       <version>1.1-540e016-server</version>
+      <version>1.20-e67aaad-client</version>
+      <version>1.20-e67aaad-server</version>
+      <version>1.21-a4e1726-client</version>
+      <version>1.21-a4e1726-server</version>
     </versions>
-    <lastUpdated>20220314170806</lastUpdated>
+    <lastUpdated>20230312201429</lastUpdated>
   </versioning>
 </metadata>

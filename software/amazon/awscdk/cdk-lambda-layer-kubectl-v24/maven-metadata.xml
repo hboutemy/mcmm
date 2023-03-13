@@ -3,8 +3,8 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>cdk-lambda-layer-kubectl-v24</artifactId>
   <versioning>
-    <latest>2.0.129</latest>
-    <release>2.0.129</release>
+    <latest>2.0.130</latest>
+    <release>2.0.130</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -138,7 +138,8 @@
       <version>2.0.127</version>
       <version>2.0.128</version>
       <version>2.0.129</version>
+      <version>2.0.130</version>
     </versions>
-    <lastUpdated>20230311002802</lastUpdated>
+    <lastUpdated>20230312003126</lastUpdated>
   </versioning>
 </metadata>

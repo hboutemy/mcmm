@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Action Site Generator Maven Plugin</name>
+      <name>Site Generator Maven Plugin</name>
       <prefix>site-generator</prefix>
       <artifactId>site-generator-maven-plugin</artifactId>
     </plugin>
