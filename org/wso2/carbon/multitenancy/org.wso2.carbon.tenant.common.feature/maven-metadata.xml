@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.multitenancy</groupId>
   <artifactId>org.wso2.carbon.tenant.common.feature</artifactId>
   <versioning>
-    <latest>4.11.0</latest>
-    <release>4.11.0</release>
+    <latest>4.11.3</latest>
+    <release>4.11.3</release>
     <versions>
       <version>4.6.6</version>
       <version>4.6.7</version>
@@ -50,7 +50,8 @@
       <version>4.9.20</version>
       <version>4.10.0</version>
       <version>4.11.0</version>
+      <version>4.11.3</version>
     </versions>
-    <lastUpdated>20220805164421</lastUpdated>
+    <lastUpdated>20230313043635</lastUpdated>
   </versioning>
 </metadata>

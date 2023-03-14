@@ -3,8 +3,8 @@
   <groupId>com.midtrans</groupId>
   <artifactId>corekit</artifactId>
   <versioning>
-    <latest>1.34.0-UAT</latest>
-    <release>1.34.0-UAT</release>
+    <latest>1.35.0-SANDBOX</latest>
+    <release>1.35.0-SANDBOX</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1-SANDBOX</version>
@@ -253,7 +253,9 @@
       <version>1.34.0</version>
       <version>1.34.0-SANDBOX</version>
       <version>1.34.0-UAT</version>
+      <version>1.35.0</version>
+      <version>1.35.0-SANDBOX</version>
     </versions>
-    <lastUpdated>20221102091651</lastUpdated>
+    <lastUpdated>20230313091552</lastUpdated>
   </versioning>
 </metadata>
