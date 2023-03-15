@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-registry-jmx</artifactId>
   <versioning>
-    <latest>1.10.4</latest>
-    <release>1.10.4</release>
+    <latest>1.10.5</latest>
+    <release>1.10.5</release>
     <versions>
       <version>0.12.0.RELEASE</version>
       <version>1.0.0-rc.1</version>
@@ -139,15 +139,17 @@
       <version>1.9.6</version>
       <version>1.9.7</version>
       <version>1.9.8</version>
+      <version>1.9.9</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
       <version>1.10.2</version>
       <version>1.10.3</version>
       <version>1.10.4</version>
+      <version>1.10.5</version>
       <version>1.3.17</version>
       <version>1.5.11</version>
       <version>1.6.4</version>
     </versions>
-    <lastUpdated>20230214013522</lastUpdated>
+    <lastUpdated>20230314033023</lastUpdated>
   </versioning>
 </metadata>

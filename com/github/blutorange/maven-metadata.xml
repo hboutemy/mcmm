@@ -6,5 +6,10 @@
       <prefix>closure-compiler</prefix>
       <artifactId>closure-compiler-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>multiproperties-maven-plugin Maven Plugin</name>
+      <prefix>multiproperties</prefix>
+      <artifactId>multiproperties-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

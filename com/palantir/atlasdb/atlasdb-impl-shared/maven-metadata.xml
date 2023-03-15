@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-impl-shared</artifactId>
   <versioning>
-    <latest>0.812.0</latest>
-    <release>0.812.0</release>
+    <latest>0.813.0-rc1</latest>
+    <release>0.813.0-rc1</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -596,7 +596,8 @@
       <version>0.809.0</version>
       <version>0.811.0</version>
       <version>0.812.0</version>
+      <version>0.813.0-rc1</version>
     </versions>
-    <lastUpdated>20230313124038</lastUpdated>
+    <lastUpdated>20230314112814</lastUpdated>
   </versioning>
 </metadata>

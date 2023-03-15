@@ -3,8 +3,8 @@
   <groupId>com.navercorp.fixturemonkey.snapshot</groupId>
   <artifactId>fixture-monkey-jackson</artifactId>
   <versioning>
-    <latest>0.5.1-71d5ee7</latest>
-    <release>0.5.1-71d5ee7</release>
+    <latest>0.5.2-performance</latest>
+    <release>0.5.2-performance</release>
     <versions>
       <version>0.3.0-d6571f6</version>
       <version>0.3.0-fa8a64f</version>
@@ -48,7 +48,9 @@
       <version>0.4.11-c5d6ec6</version>
       <version>0.5.0-be519d5</version>
       <version>0.5.1-71d5ee7</version>
+      <version>0.5.2-RC1</version>
+      <version>0.5.2-performance</version>
     </versions>
-    <lastUpdated>20230306082818</lastUpdated>
+    <lastUpdated>20230314162047</lastUpdated>
   </versioning>
 </metadata>
