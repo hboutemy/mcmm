@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-dataproc</artifactId>
   <versioning>
-    <latest>v1-rev20230202-2.0.0</latest>
-    <release>v1-rev20230202-2.0.0</release>
+    <latest>v1-rev20230220-2.0.0</latest>
+    <release>v1-rev20230220-2.0.0</release>
     <versions>
       <version>v1alpha1-rev1-1.18.0-rc</version>
       <version>v1alpha1-rev1-1.19.1</version>
@@ -1054,7 +1054,8 @@
       <version>v1-rev20230103-2.0.0</version>
       <version>v1-rev20230117-2.0.0</version>
       <version>v1-rev20230202-2.0.0</version>
+      <version>v1-rev20230220-2.0.0</version>
     </versions>
-    <lastUpdated>20230208093257</lastUpdated>
+    <lastUpdated>20230315083453</lastUpdated>
   </versioning>
 </metadata>

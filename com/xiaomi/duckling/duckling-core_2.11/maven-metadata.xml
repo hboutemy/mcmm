@@ -3,8 +3,8 @@
   <groupId>com.xiaomi.duckling</groupId>
   <artifactId>duckling-core_2.11</artifactId>
   <versioning>
-    <latest>1.4.3</latest>
-    <release>1.4.3</release>
+    <latest>1.4.4.1</latest>
+    <release>1.4.4.1</release>
     <versions>
       <version>schema-1.0D</version>
       <version>v1.2.4-RC4</version>
@@ -37,7 +37,9 @@
       <version>1.4.2.1</version>
       <version>1.4.2.2</version>
       <version>1.4.3</version>
+      <version>1.4.4</version>
+      <version>1.4.4.1</version>
     </versions>
-    <lastUpdated>20230217045744</lastUpdated>
+    <lastUpdated>20230315080507</lastUpdated>
   </versioning>
 </metadata>

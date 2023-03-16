@@ -3,13 +3,14 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-spring-webmvc-6.0</artifactId>
   <versioning>
-    <latest>1.23.0-alpha</latest>
-    <release>1.23.0-alpha</release>
+    <latest>1.24.0-alpha</latest>
+    <release>1.24.0-alpha</release>
     <versions>
       <version>1.22.0-alpha</version>
       <version>1.22.1-alpha</version>
       <version>1.23.0-alpha</version>
+      <version>1.24.0-alpha</version>
     </versions>
-    <lastUpdated>20230216011621</lastUpdated>
+    <lastUpdated>20230315162305</lastUpdated>
   </versioning>
 </metadata>
