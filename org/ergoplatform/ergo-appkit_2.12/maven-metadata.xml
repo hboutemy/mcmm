@@ -3,8 +3,8 @@
   <groupId>org.ergoplatform</groupId>
   <artifactId>ergo-appkit_2.12</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.0.1</latest>
+    <release>5.0.1</release>
     <versions>
       <version>3.1.0-RC4</version>
       <version>3.1.0-RC5</version>
@@ -32,7 +32,11 @@
       <version>4.0.10</version>
       <version>4.0.11</version>
       <version>5.0.0</version>
+      <version>5.0.1-RC1</version>
+      <version>5.0.1-RC2</version>
+      <version>5.0.1-RC3</version>
+      <version>5.0.1</version>
     </versions>
-    <lastUpdated>20221114184632</lastUpdated>
+    <lastUpdated>20230316140138</lastUpdated>
   </versioning>
 </metadata>

@@ -21,5 +21,10 @@
       <prefix>partial-build</prefix>
       <artifactId>partial-build-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>S3 download maven plugin</name>
+      <prefix>s3-download</prefix>
+      <artifactId>s3-download-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

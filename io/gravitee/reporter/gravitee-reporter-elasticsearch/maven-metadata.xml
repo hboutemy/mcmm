@@ -3,8 +3,8 @@
   <groupId>io.gravitee.reporter</groupId>
   <artifactId>gravitee-reporter-elasticsearch</artifactId>
   <versioning>
-    <latest>4.1.0-alpha.8</latest>
-    <release>4.1.0-alpha.8</release>
+    <latest>4.1.0-alpha.9</latest>
+    <release>4.1.0-alpha.9</release>
     <versions>
       <version>1.15.0</version>
       <version>1.15.1</version>
@@ -128,14 +128,17 @@
       <version>3.12.2</version>
       <version>3.12.3</version>
       <version>3.12.4</version>
+      <version>3.12.5</version>
       <version>4.0.0-alpha.1</version>
       <version>4.0.0</version>
+      <version>4.0.1</version>
       <version>4.1.0-alpha.1</version>
       <version>4.1.0-alpha.2</version>
       <version>4.1.0-alpha.3</version>
       <version>4.1.0-alpha.7</version>
       <version>4.1.0-alpha.8</version>
+      <version>4.1.0-alpha.9</version>
     </versions>
-    <lastUpdated>20230310130035</lastUpdated>
+    <lastUpdated>20230316104527</lastUpdated>
   </versioning>
 </metadata>

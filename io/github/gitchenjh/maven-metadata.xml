@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>endpoint-scan-maven-plugin</name>
+      <prefix>endpoint-scan</prefix>
+      <artifactId>endpoint-scan-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
