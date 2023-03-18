@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-tests-support-activemq</artifactId>
   <versioning>
-    <latest>2.16.0</latest>
-    <release>2.16.0</release>
+    <latest>3.0.0-M1</latest>
+    <release>3.0.0-M1</release>
     <versions>
       <version>2.0.0</version>
       <version>2.1.0</version>
@@ -29,7 +29,8 @@
       <version>2.14.0</version>
       <version>2.15.0</version>
       <version>2.16.0</version>
+      <version>3.0.0-M1</version>
     </versions>
-    <lastUpdated>20230123145155</lastUpdated>
+    <lastUpdated>20230317205802</lastUpdated>
   </versioning>
 </metadata>

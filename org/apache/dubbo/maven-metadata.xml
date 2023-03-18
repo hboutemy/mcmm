@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>dubbo</prefix>
+      <artifactId>dubbo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>dubbo-native</prefix>
       <artifactId>dubbo-native-plugin</artifactId>
     </plugin>

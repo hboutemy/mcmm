@@ -3,8 +3,8 @@
   <groupId>com.bybutter.sisyphus.middleware</groupId>
   <artifactId>sisyphus-grpc-client-kubernetes</artifactId>
   <versioning>
-    <latest>1.6.10</latest>
-    <release>1.6.10</release>
+    <latest>1.7.0</latest>
+    <release>1.7.0</release>
     <versions>
       <version>0.0.4</version>
       <version>0.0.5</version>
@@ -86,7 +86,8 @@
       <version>1.5.31</version>
       <version>1.6.0</version>
       <version>1.6.10</version>
+      <version>1.7.0</version>
     </versions>
-    <lastUpdated>20230217093351</lastUpdated>
+    <lastUpdated>20230317085943</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-compose</artifactId>
   <versioning>
-    <latest>6.16.0-beta.1</latest>
-    <release>6.16.0-beta.1</release>
+    <latest>6.16.0</latest>
+    <release>6.16.0</release>
     <versions>
       <version>6.2.0</version>
       <version>6.2.1</version>
@@ -36,7 +36,8 @@
       <version>6.14.0</version>
       <version>6.15.0</version>
       <version>6.16.0-beta.1</version>
+      <version>6.16.0</version>
     </versions>
-    <lastUpdated>20230303104929</lastUpdated>
+    <lastUpdated>20230317101959</lastUpdated>
   </versioning>
 </metadata>

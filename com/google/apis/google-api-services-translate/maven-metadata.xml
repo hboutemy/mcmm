@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-translate</artifactId>
   <versioning>
-    <latest>v3-rev20230210-2.0.0</latest>
-    <release>v3-rev20230210-2.0.0</release>
+    <latest>v3-rev20230303-2.0.0</latest>
+    <release>v3-rev20230303-2.0.0</release>
     <versions>
       <version>v2-rev10-1.13.2-beta</version>
       <version>v2-rev10-1.14.1-beta</version>
@@ -260,6 +260,7 @@
       <version>v3beta1-rev20221021-2.0.0</version>
       <version>v3beta1-rev20230106-2.0.0</version>
       <version>v3beta1-rev20230210-2.0.0</version>
+      <version>v3beta1-rev20230303-2.0.0</version>
       <version>v3-rev2-1.18.0-rc</version>
       <version>v3-rev2-1.25.0</version>
       <version>v3-rev3-1.18.0-rc</version>
@@ -312,7 +313,8 @@
       <version>v3-rev20221021-2.0.0</version>
       <version>v3-rev20230106-2.0.0</version>
       <version>v3-rev20230210-2.0.0</version>
+      <version>v3-rev20230303-2.0.0</version>
     </versions>
-    <lastUpdated>20230214095405</lastUpdated>
+    <lastUpdated>20230317221552</lastUpdated>
   </versioning>
 </metadata>
