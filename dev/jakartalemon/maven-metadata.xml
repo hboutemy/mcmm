@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>dev.jakartalemon:jakarta-lemon-plugin</name>
       <prefix>jakarta-lemon</prefix>
       <artifactId>jakarta-lemon-plugin</artifactId>
     </plugin>
