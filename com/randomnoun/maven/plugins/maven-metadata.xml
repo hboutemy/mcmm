@@ -16,5 +16,10 @@
       <prefix>vmaint</prefix>
       <artifactId>vmaint-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>YAML combiner maven plugin</name>
+      <prefix>yaml-combine</prefix>
+      <artifactId>yaml-combine-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
