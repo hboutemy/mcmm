@@ -3,8 +3,8 @@
   <groupId>us.abstracta.jmeter</groupId>
   <artifactId>jmeter-java-dsl-elasticsearch-listener</artifactId>
   <versioning>
-    <latest>1.8.1</latest>
-    <release>1.8.1</release>
+    <latest>1.9</latest>
+    <release>1.9</release>
     <versions>
       <version>0.40</version>
       <version>0.41</version>
@@ -51,6 +51,7 @@
       <version>1.7</version>
       <version>1.8</version>
       <version>1.8.1</version>
+      <version>1.9</version>
       <version>0.20</version>
       <version>0.21</version>
       <version>0.22</version>
@@ -76,6 +77,6 @@
       <version>0.39.1</version>
       <version>028</version>
     </versions>
-    <lastUpdated>20230307175057</lastUpdated>
+    <lastUpdated>20230320194303</lastUpdated>
   </versioning>
 </metadata>

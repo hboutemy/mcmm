@@ -6,5 +6,10 @@
       <prefix>poc</prefix>
       <artifactId>poc-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>POM Editor Maven Plugin</name>
+      <prefix>pom-editor</prefix>
+      <artifactId>pom-editor-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-mysql</artifactId>
   <versioning>
-    <latest>9.16.0</latest>
-    <release>9.16.0</release>
+    <latest>9.16.1</latest>
+    <release>9.16.1</release>
     <versions>
       <version>8.2.1</version>
       <version>8.2.2</version>
@@ -69,7 +69,8 @@
       <version>9.15.1</version>
       <version>9.15.2</version>
       <version>9.16.0</version>
+      <version>9.16.1</version>
     </versions>
-    <lastUpdated>20230315153323</lastUpdated>
+    <lastUpdated>20230320111237</lastUpdated>
   </versioning>
 </metadata>

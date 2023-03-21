@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>apicurio-codegen-cli</name>
+      <name>apicurio-codegen-maven-plugin</name>
       <prefix>apicurio-codegen</prefix>
       <artifactId>apicurio-codegen-maven-plugin</artifactId>
     </plugin>

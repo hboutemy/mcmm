@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.local.auth.fido</groupId>
   <artifactId>identity-application-auth-fido</artifactId>
   <versioning>
-    <latest>5.3.30</latest>
-    <release>5.3.30</release>
+    <latest>5.3.33</latest>
+    <release>5.3.33</release>
     <versions>
       <version>5.1.8</version>
       <version>5.1.9</version>
@@ -52,7 +52,8 @@
       <version>5.3.28</version>
       <version>5.3.29</version>
       <version>5.3.30</version>
+      <version>5.3.33</version>
     </versions>
-    <lastUpdated>20221103154359</lastUpdated>
+    <lastUpdated>20230320062530</lastUpdated>
   </versioning>
 </metadata>
