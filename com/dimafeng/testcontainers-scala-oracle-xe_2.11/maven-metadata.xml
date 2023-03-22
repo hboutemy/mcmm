@@ -3,8 +3,8 @@
   <groupId>com.dimafeng</groupId>
   <artifactId>testcontainers-scala-oracle-xe_2.11</artifactId>
   <versioning>
-    <latest>0.40.12</latest>
-    <release>0.40.12</release>
+    <latest>0.40.14</latest>
+    <release>0.40.14</release>
     <versions>
       <version>0.34.2</version>
       <version>0.34.3</version>
@@ -49,7 +49,9 @@
       <version>0.40.10</version>
       <version>0.40.11</version>
       <version>0.40.12</version>
+      <version>0.40.13</version>
+      <version>0.40.14</version>
     </versions>
-    <lastUpdated>20221204181053</lastUpdated>
+    <lastUpdated>20230321201558</lastUpdated>
   </versioning>
 </metadata>

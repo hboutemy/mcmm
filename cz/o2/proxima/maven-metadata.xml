@@ -6,5 +6,10 @@
       <prefix>compiler</prefix>
       <artifactId>compiler-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>proxima-compiler-java</prefix>
+      <artifactId>proxima-compiler-java-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

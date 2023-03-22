@@ -3,8 +3,8 @@
   <groupId>io.apiman.plugins</groupId>
   <artifactId>apiman-plugins-jwt-policy</artifactId>
   <versioning>
-    <latest>3.1.0.RC2</latest>
-    <release>3.1.0.RC2</release>
+    <latest>3.1.0.RC6</latest>
+    <release>3.1.0.RC6</release>
     <versions>
       <version>1.2.9.Final</version>
       <version>1.3.0.Final</version>
@@ -36,7 +36,9 @@
       <version>3.0.0.RC6</version>
       <version>3.0.0.Final</version>
       <version>3.1.0.RC2</version>
+      <version>3.1.0.RC4</version>
+      <version>3.1.0.RC6</version>
     </versions>
-    <lastUpdated>20230317174454</lastUpdated>
+    <lastUpdated>20230321201347</lastUpdated>
   </versioning>
 </metadata>

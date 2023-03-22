@@ -3,8 +3,8 @@
   <groupId>com.oracle.oci.sdk</groupId>
   <artifactId>oci-java-sdk-fusionapps</artifactId>
   <versioning>
-    <latest>3.8.0</latest>
-    <release>3.8.0</release>
+    <latest>3.9.0</latest>
+    <release>3.9.0</release>
     <versions>
       <version>2.36.1</version>
       <version>2.37.0</version>
@@ -33,6 +33,7 @@
       <version>2.54.1</version>
       <version>2.55.0</version>
       <version>2.56.0</version>
+      <version>2.57.0</version>
       <version>3.0.0-beta1</version>
       <version>3.0.0-beta2</version>
       <version>3.0.0</version>
@@ -48,7 +49,8 @@
       <version>3.6.0</version>
       <version>3.7.0</version>
       <version>3.8.0</version>
+      <version>3.9.0</version>
     </versions>
-    <lastUpdated>20230315030941</lastUpdated>
+    <lastUpdated>20230321210500</lastUpdated>
   </versioning>
 </metadata>
