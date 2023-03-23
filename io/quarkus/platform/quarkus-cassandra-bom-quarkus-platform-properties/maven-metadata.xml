@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-cassandra-bom-quarkus-platform-properties</artifactId>
   <versioning>
-    <latest>2.16.4.Final</latest>
-    <release>2.16.4.Final</release>
+    <latest>2.16.5.Final</latest>
+    <release>2.16.5.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -97,7 +97,8 @@
       <version>2.16.2.Final</version>
       <version>2.16.3.Final</version>
       <version>2.16.4.Final</version>
+      <version>2.16.5.Final</version>
     </versions>
-    <lastUpdated>20230303145443</lastUpdated>
+    <lastUpdated>20230322142633</lastUpdated>
   </versioning>
 </metadata>

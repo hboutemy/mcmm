@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-reactive-common-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha6</latest>
-    <release>3.0.0.Alpha6</release>
+    <latest>3.0.0.Beta1</latest>
+    <release>3.0.0.Beta1</release>
     <versions>
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
@@ -130,13 +130,15 @@
       <version>2.16.2.Final</version>
       <version>2.16.3.Final</version>
       <version>2.16.4.Final</version>
+      <version>2.16.5.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
       <version>3.0.0.Alpha4</version>
       <version>3.0.0.Alpha5</version>
       <version>3.0.0.Alpha6</version>
+      <version>3.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20230315102333</lastUpdated>
+    <lastUpdated>20230322124613</lastUpdated>
   </versioning>
 </metadata>
