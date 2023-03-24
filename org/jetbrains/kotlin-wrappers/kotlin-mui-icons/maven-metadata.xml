@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-mui-icons</artifactId>
   <versioning>
-    <latest>5.10.9-pre.519</latest>
-    <release>5.10.9-pre.519</release>
+    <latest>5.10.9-pre.520-compat</latest>
+    <release>5.10.9-pre.520-compat</release>
     <versions>
       <version>5.2.0-pre.273-kotlin-1.6.0</version>
       <version>5.2.0-pre.274-kotlin-1.6.0</version>
@@ -288,7 +288,9 @@
       <version>5.10.9-pre.517</version>
       <version>5.10.9-pre.518</version>
       <version>5.10.9-pre.519</version>
+      <version>5.10.9-pre.520</version>
+      <version>5.10.9-pre.520-compat</version>
     </versions>
-    <lastUpdated>20230322164000</lastUpdated>
+    <lastUpdated>20230323164810</lastUpdated>
   </versioning>
 </metadata>

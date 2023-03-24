@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-query-core</artifactId>
   <versioning>
-    <latest>4.27.0-pre.519</latest>
-    <release>4.27.0-pre.519</release>
+    <latest>4.27.0-pre.520-compat</latest>
+    <release>4.27.0-pre.520-compat</release>
     <versions>
       <version>4.2.1-pre.371</version>
       <version>4.2.1-pre.372</version>
@@ -180,7 +180,9 @@
       <version>4.27.0-pre.517</version>
       <version>4.27.0-pre.518</version>
       <version>4.27.0-pre.519</version>
+      <version>4.27.0-pre.520</version>
+      <version>4.27.0-pre.520-compat</version>
     </versions>
-    <lastUpdated>20230322164143</lastUpdated>
+    <lastUpdated>20230323164935</lastUpdated>
   </versioning>
 </metadata>
