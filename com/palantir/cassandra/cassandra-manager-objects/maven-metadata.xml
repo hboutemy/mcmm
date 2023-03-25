@@ -3,8 +3,8 @@
   <groupId>com.palantir.cassandra</groupId>
   <artifactId>cassandra-manager-objects</artifactId>
   <versioning>
-    <latest>0.61.0</latest>
-    <release>0.61.0</release>
+    <latest>0.62.0-rc1</latest>
+    <release>0.62.0-rc1</release>
     <versions>
       <version>0.21.0</version>
       <version>0.21.1</version>
@@ -121,7 +121,8 @@
       <version>0.61.0-rc1</version>
       <version>0.61.0-rc2</version>
       <version>0.61.0</version>
+      <version>0.62.0-rc1</version>
     </versions>
-    <lastUpdated>20230323142751</lastUpdated>
+    <lastUpdated>20230324192903</lastUpdated>
   </versioning>
 </metadata>

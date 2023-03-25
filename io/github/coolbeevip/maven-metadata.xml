@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>flyway</prefix>
+      <artifactId>flyway-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>license</prefix>
       <artifactId>license-maven-plugin</artifactId>
     </plugin>

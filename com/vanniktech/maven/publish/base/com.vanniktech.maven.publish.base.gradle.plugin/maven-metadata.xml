@@ -3,8 +3,8 @@
   <groupId>com.vanniktech.maven.publish.base</groupId>
   <artifactId>com.vanniktech.maven.publish.base.gradle.plugin</artifactId>
   <versioning>
-    <latest>0.25.0</latest>
-    <release>0.25.0</release>
+    <latest>0.25.1</latest>
+    <release>0.25.1</release>
     <versions>
       <version>0.15.0</version>
       <version>0.15.1</version>
@@ -20,8 +20,10 @@
       <version>0.23.1</version>
       <version>0.23.2</version>
       <version>0.24.0</version>
+      <version>0.25.0-rc1</version>
       <version>0.25.0</version>
+      <version>0.25.1</version>
     </versions>
-    <lastUpdated>20230323193426</lastUpdated>
+    <lastUpdated>20230324103228</lastUpdated>
   </versioning>
 </metadata>
