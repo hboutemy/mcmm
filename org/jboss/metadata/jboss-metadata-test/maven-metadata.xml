@@ -3,8 +3,8 @@
   <groupId>org.jboss.metadata</groupId>
   <artifactId>jboss-metadata-test</artifactId>
   <versioning>
-    <latest>16.0.0.Beta1</latest>
-    <release>16.0.0.Beta1</release>
+    <latest>16.0.0.Final</latest>
+    <release>16.0.0.Final</release>
     <versions>
       <version>9.0.0.Final</version>
       <version>10.0.0.Beta1</version>
@@ -40,8 +40,9 @@
       <version>15.3.0</version>
       <version>15.4.0</version>
       <version>16.0.0.Beta1</version>
+      <version>16.0.0.Final</version>
       <version>15.3.0.Final</version>
     </versions>
-    <lastUpdated>20230228124655</lastUpdated>
+    <lastUpdated>20230327131908</lastUpdated>
   </versioning>
 </metadata>

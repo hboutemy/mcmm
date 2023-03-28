@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-browser</artifactId>
   <versioning>
-    <latest>1.0.0-pre.524</latest>
-    <release>1.0.0-pre.524</release>
+    <latest>1.0.0-pre.524-compat</latest>
+    <release>1.0.0-pre.524-compat</release>
     <versions>
       <version>0.0.1-pre.297-kotlin-1.6.10</version>
       <version>0.0.1-pre.298-kotlin-1.6.10</version>
@@ -270,7 +270,8 @@
       <version>1.0.0-pre.522</version>
       <version>1.0.0-pre.523</version>
       <version>1.0.0-pre.524</version>
+      <version>1.0.0-pre.524-compat</version>
     </versions>
-    <lastUpdated>20230326193537</lastUpdated>
+    <lastUpdated>20230327084241</lastUpdated>
   </versioning>
 </metadata>

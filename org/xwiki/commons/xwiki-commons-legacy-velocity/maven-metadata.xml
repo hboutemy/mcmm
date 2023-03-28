@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-legacy-velocity</artifactId>
   <versioning>
-    <latest>15.2-rc-1</latest>
-    <release>15.2-rc-1</release>
+    <latest>15.2</latest>
+    <release>15.2</release>
     <versions>
       <version>12.10.11</version>
       <version>13.4.6</version>
@@ -61,6 +61,7 @@
       <version>15.1-rc-1</version>
       <version>15.1</version>
       <version>15.2-rc-1</version>
+      <version>15.2</version>
       <version>10.10</version>
       <version>10.10-rc-1</version>
       <version>10.11</version>
@@ -196,6 +197,6 @@
       <version>13.9</version>
       <version>13.9-rc-1</version>
     </versions>
-    <lastUpdated>20230321151531</lastUpdated>
+    <lastUpdated>20230327115958</lastUpdated>
   </versioning>
 </metadata>
