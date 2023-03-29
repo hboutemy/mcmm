@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-admob</artifactId>
   <versioning>
-    <latest>v1-rev20230112-2.0.0</latest>
-    <release>v1-rev20230112-2.0.0</release>
+    <latest>v1-rev20230327-2.0.0</latest>
+    <release>v1-rev20230327-2.0.0</release>
     <versions>
       <version>v1beta-rev20201110-1.30.10</version>
       <version>v1beta-rev20201112-1.30.10</version>
@@ -26,6 +26,7 @@
       <version>v1beta-rev20221024-2.0.0</version>
       <version>v1beta-rev20221026-2.0.0</version>
       <version>v1beta-rev20230112-2.0.0</version>
+      <version>v1beta-rev20230327-2.0.0</version>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.25.0</version>
       <version>v1-rev3-1.18.0-rc</version>
@@ -108,7 +109,8 @@
       <version>v1-rev20221024-2.0.0</version>
       <version>v1-rev20221026-2.0.0</version>
       <version>v1-rev20230112-2.0.0</version>
+      <version>v1-rev20230327-2.0.0</version>
     </versions>
-    <lastUpdated>20230113091052</lastUpdated>
+    <lastUpdated>20230328081021</lastUpdated>
   </versioning>
 </metadata>

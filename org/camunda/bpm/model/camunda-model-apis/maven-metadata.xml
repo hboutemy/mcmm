@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.model</groupId>
   <artifactId>camunda-model-apis</artifactId>
   <versioning>
-    <latest>7.19.0-alpha4</latest>
-    <release>7.19.0-alpha4</release>
+    <latest>7.19.0-alpha5</latest>
+    <release>7.19.0-alpha5</release>
     <versions>
       <version>7.13.0-alpha1</version>
       <version>7.13.0-alpha2</version>
@@ -47,7 +47,8 @@
       <version>7.19.0-alpha2</version>
       <version>7.19.0-alpha3</version>
       <version>7.19.0-alpha4</version>
+      <version>7.19.0-alpha5</version>
     </versions>
-    <lastUpdated>20230313154258</lastUpdated>
+    <lastUpdated>20230328115516</lastUpdated>
   </versioning>
 </metadata>

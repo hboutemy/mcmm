@@ -3,12 +3,14 @@
   <groupId>com.github.anskarl</groupId>
   <artifactId>parsimonious-scrooge-spark_2.12</artifactId>
   <versioning>
-    <latest>thrift_0.10_spark3-0.5.0</latest>
-    <release>thrift_0.10_spark3-0.5.0</release>
+    <latest>thrift_0.10_spark3-0.5.1</latest>
+    <release>thrift_0.10_spark3-0.5.1</release>
     <versions>
       <version>thrift_0.10_spark2-0.5.0</version>
+      <version>thrift_0.10_spark2-0.5.1</version>
       <version>thrift_0.10_spark3-0.5.0</version>
+      <version>thrift_0.10_spark3-0.5.1</version>
     </versions>
-    <lastUpdated>20230202142709</lastUpdated>
+    <lastUpdated>20230328100835</lastUpdated>
   </versioning>
 </metadata>

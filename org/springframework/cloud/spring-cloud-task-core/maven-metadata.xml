@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-task-core</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
@@ -45,11 +45,12 @@
       <version>2.4.6</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
       <version>2.3.1</version>
       <version>2.3.2</version>
       <version>2.3.3</version>
       <version>2.3.4</version>
     </versions>
-    <lastUpdated>20230224101937</lastUpdated>
+    <lastUpdated>20230328233425</lastUpdated>
   </versioning>
 </metadata>

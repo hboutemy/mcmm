@@ -3,8 +3,8 @@
   <groupId>com.netflix.nebula</groupId>
   <artifactId>gradle-dependency-lock-plugin</artifactId>
   <versioning>
-    <latest>13.2.0</latest>
-    <release>13.2.0</release>
+    <latest>13.2.1</latest>
+    <release>13.2.1</release>
     <versions>
       <version>1.9.5</version>
       <version>1.9.6</version>
@@ -144,7 +144,8 @@
       <version>13.0.0</version>
       <version>13.1.0</version>
       <version>13.2.0</version>
+      <version>13.2.1</version>
     </versions>
-    <lastUpdated>20230105182931</lastUpdated>
+    <lastUpdated>20230328195348</lastUpdated>
   </versioning>
 </metadata>

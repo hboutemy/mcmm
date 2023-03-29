@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-kubernetes-discovery</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.0.2</latest>
+    <release>3.0.2</release>
     <versions>
       <version>0.2.0.RELEASE</version>
       <version>0.2.1.RELEASE</version>
@@ -33,9 +33,10 @@
       <version>2.1.6</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.0.2</version>
       <version>1.1.10.RELEASE</version>
       <version>1.1.9.RELEASE</version>
     </versions>
-    <lastUpdated>20230224102036</lastUpdated>
+    <lastUpdated>20230328233547</lastUpdated>
   </versioning>
 </metadata>
