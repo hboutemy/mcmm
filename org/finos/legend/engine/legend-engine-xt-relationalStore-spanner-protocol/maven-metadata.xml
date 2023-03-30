@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-spanner-protocol</artifactId>
   <versioning>
-    <latest>4.4.6</latest>
-    <release>4.4.6</release>
+    <latest>4.5.0</latest>
+    <release>4.5.0</release>
     <versions>
       <version>3.22.4</version>
       <version>3.23.1</version>
@@ -37,7 +37,10 @@
       <version>4.4.4</version>
       <version>4.4.5</version>
       <version>4.4.6</version>
+      <version>4.4.7</version>
+      <version>4.4.8</version>
+      <version>4.5.0</version>
     </versions>
-    <lastUpdated>20230327085608</lastUpdated>
+    <lastUpdated>20230329211509</lastUpdated>
   </versioning>
 </metadata>

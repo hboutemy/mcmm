@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.karaf</groupId>
   <artifactId>camel-core-osgi</artifactId>
   <versioning>
-    <latest>3.20.2</latest>
-    <release>3.20.2</release>
+    <latest>3.20.3</latest>
+    <release>3.20.3</release>
     <versions>
       <version>3.2.0</version>
       <version>3.3.0</version>
@@ -59,7 +59,8 @@
       <version>3.20.0</version>
       <version>3.20.1</version>
       <version>3.20.2</version>
+      <version>3.20.3</version>
     </versions>
-    <lastUpdated>20230207085602</lastUpdated>
+    <lastUpdated>20230329115310</lastUpdated>
   </versioning>
 </metadata>

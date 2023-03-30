@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-test-infra-activemq</artifactId>
   <versioning>
-    <latest>3.20.2</latest>
-    <release>3.20.2</release>
+    <latest>3.20.3</latest>
+    <release>3.20.3</release>
     <versions>
       <version>3.10.0</version>
       <version>3.11.0</version>
@@ -38,7 +38,8 @@
       <version>3.20.0</version>
       <version>3.20.1</version>
       <version>3.20.2</version>
+      <version>3.20.3</version>
     </versions>
-    <lastUpdated>20230207090822</lastUpdated>
+    <lastUpdated>20230329111626</lastUpdated>
   </versioning>
 </metadata>
