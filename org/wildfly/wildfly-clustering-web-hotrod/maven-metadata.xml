@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-web-hotrod</artifactId>
   <versioning>
-    <latest>27.0.1.Final</latest>
-    <release>27.0.1.Final</release>
+    <latest>28.0.0.Beta1</latest>
+    <release>28.0.0.Beta1</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -63,7 +63,8 @@
       <version>27.0.0.Beta1</version>
       <version>27.0.0.Final</version>
       <version>27.0.1.Final</version>
+      <version>28.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20230118034005</lastUpdated>
+    <lastUpdated>20230330151850</lastUpdated>
   </versioning>
 </metadata>

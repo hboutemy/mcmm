@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-bigqueryreservation</artifactId>
   <versioning>
-    <latest>v1-rev20230316-2.0.0</latest>
-    <release>v1-rev20230316-2.0.0</release>
+    <latest>v1-rev20230326-2.0.0</latest>
+    <release>v1-rev20230326-2.0.0</release>
     <versions>
       <version>v1beta1-rev20210607-1.31.0</version>
       <version>v1beta1-rev20210607-1.31.5</version>
@@ -37,6 +37,7 @@
       <version>v1-rev20230215-2.0.0</version>
       <version>v1-rev20230222-2.0.0</version>
       <version>v1-rev20230316-2.0.0</version>
+      <version>v1-rev20230326-2.0.0</version>
       <version>v1-rev10-1.18.0-rc</version>
       <version>v1-rev11-1.25.0</version>
       <version>v1-rev12-1.18.0-rc</version>
@@ -156,6 +157,6 @@
       <version>v1beta1-rev9-1.18.0-rc</version>
       <version>v1beta1-rev9-1.25.0</version>
     </versions>
-    <lastUpdated>20230322080943</lastUpdated>
+    <lastUpdated>20230330080707</lastUpdated>
   </versioning>
 </metadata>
