@@ -3,8 +3,8 @@
   <groupId>org.apache.james.protocols</groupId>
   <artifactId>protocols-netty</artifactId>
   <versioning>
-    <latest>3.7.3</latest>
-    <release>3.7.3</release>
+    <latest>3.7.4</latest>
+    <release>3.7.4</release>
     <versions>
       <version>1.6-beta3</version>
       <version>1.6.0-RC1</version>
@@ -27,7 +27,8 @@
       <version>3.7.1</version>
       <version>3.7.2</version>
       <version>3.7.3</version>
+      <version>3.7.4</version>
     </versions>
-    <lastUpdated>20230106070408</lastUpdated>
+    <lastUpdated>20230331050833</lastUpdated>
   </versioning>
 </metadata>

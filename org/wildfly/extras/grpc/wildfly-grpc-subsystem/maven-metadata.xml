@@ -3,13 +3,15 @@
   <groupId>org.wildfly.extras.grpc</groupId>
   <artifactId>wildfly-grpc-subsystem</artifactId>
   <versioning>
-    <latest>0.0.6</latest>
-    <release>0.0.6</release>
+    <latest>0.0.8</latest>
+    <release>0.0.8</release>
     <versions>
       <version>0.0.6</version>
+      <version>0.0.7</version>
+      <version>0.0.8</version>
       <version>0.0.2.Final</version>
       <version>0.0.3.Final</version>
     </versions>
-    <lastUpdated>20230325174051</lastUpdated>
+    <lastUpdated>20230331223532</lastUpdated>
   </versioning>
 </metadata>

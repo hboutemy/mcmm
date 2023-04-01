@@ -3,8 +3,8 @@
   <groupId>org.terasoluna.gfw.blank</groupId>
   <artifactId>terasoluna-gfw-multi-web-blank-mybatis3-archetype</artifactId>
   <versioning>
-    <latest>5.7.1.RELEASE</latest>
-    <release>5.7.1.RELEASE</release>
+    <latest>5.8.0.RELEASE</latest>
+    <release>5.8.0.RELEASE</release>
     <versions>
       <version>5.2.0.RC7.1</version>
       <version>5.2.0.RC7.2</version>
@@ -54,7 +54,10 @@
       <version>5.7.0.RELEASE</version>
       <version>5.7.1.SP1.RELEASE</version>
       <version>5.7.1.RELEASE</version>
+      <version>5.7.2.RELEASE</version>
+      <version>5.8.0.RC1</version>
+      <version>5.8.0.RELEASE</version>
     </versions>
-    <lastUpdated>20220407051905</lastUpdated>
+    <lastUpdated>20230331073804</lastUpdated>
   </versioning>
 </metadata>
