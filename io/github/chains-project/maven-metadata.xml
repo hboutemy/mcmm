@@ -6,5 +6,10 @@
       <prefix>integrity</prefix>
       <artifactId>integrity-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-lockfile-plugin</name>
+      <prefix>lockfile</prefix>
+      <artifactId>maven-lockfile</artifactId>
+    </plugin>
   </plugins>
 </metadata>

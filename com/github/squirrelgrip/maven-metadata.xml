@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>rectify</prefix>
+      <artifactId>rectify-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>travis</prefix>
       <artifactId>travis-maven-plugin</artifactId>
