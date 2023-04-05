@@ -3,8 +3,8 @@
   <groupId>io.streamnative.tests</groupId>
   <artifactId>integration</artifactId>
   <versioning>
-    <latest>4.14.7.1-arrowstreet</latest>
-    <release>4.14.7.1-arrowstreet</release>
+    <latest>4.14.7.2-arrowstreet</latest>
+    <release>4.14.7.2-arrowstreet</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -586,7 +586,8 @@
       <version>4.14.5.1-arrowstreet</version>
       <version>4.14.5.1-iterable</version>
       <version>4.14.7.1-arrowstreet</version>
+      <version>4.14.7.2-arrowstreet</version>
     </versions>
-    <lastUpdated>20230403092158</lastUpdated>
+    <lastUpdated>20230404121640</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-tasks</artifactId>
   <versioning>
-    <latest>v1-rev20210709-2.0.0</latest>
-    <release>v1-rev20210709-2.0.0</release>
+    <latest>v1-rev20230401-2.0.0</latest>
+    <release>v1-rev20230401-2.0.0</release>
     <versions>
       <version>v1-rev10-1.13.2-beta</version>
       <version>v1-rev10-1.14.1-beta</version>
@@ -221,7 +221,8 @@
       <version>v1-rev20210109-1.32.1</version>
       <version>v1-rev20210709-1.32.1</version>
       <version>v1-rev20210709-2.0.0</version>
+      <version>v1-rev20230401-2.0.0</version>
     </versions>
-    <lastUpdated>20220801213418</lastUpdated>
+    <lastUpdated>20230404084109</lastUpdated>
   </versioning>
 </metadata>

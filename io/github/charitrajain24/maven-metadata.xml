@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-dependency-plugin Maven Mojo</name>
+      <prefix>cj-dependency</prefix>
+      <artifactId>cj-dependency-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
