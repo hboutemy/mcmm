@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-assertions</artifactId>
   <versioning>
-    <latest>8.2.0-alpha5</latest>
-    <release>8.2.0-alpha5</release>
+    <latest>8.2.0</latest>
+    <release>8.2.0</release>
     <versions>
       <version>1.4.0-alpha2</version>
       <version>8.0.0-rc1</version>
@@ -20,6 +20,7 @@
       <version>8.0.9</version>
       <version>8.0.11</version>
       <version>8.0.12</version>
+      <version>8.0.13</version>
       <version>8.1.0-alpha1</version>
       <version>8.1.0-alpha2</version>
       <version>8.1.0-alpha3</version>
@@ -35,12 +36,14 @@
       <version>8.1.7</version>
       <version>8.1.8</version>
       <version>8.1.9</version>
+      <version>8.1.10</version>
       <version>8.2.0-alpha1</version>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
       <version>8.2.0-alpha4</version>
       <version>8.2.0-alpha5</version>
+      <version>8.2.0</version>
     </versions>
-    <lastUpdated>20230309160021</lastUpdated>
+    <lastUpdated>20230405192114</lastUpdated>
   </versioning>
 </metadata>

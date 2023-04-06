@@ -25,6 +25,11 @@
     </plugin>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>openapi-codegen</prefix>
+      <artifactId>openapi-codegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>plantuml</prefix>
       <artifactId>plantuml-maven-plugin</artifactId>
     </plugin>

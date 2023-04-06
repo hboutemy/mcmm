@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-qa-embedded</artifactId>
   <versioning>
-    <latest>8.2.0-alpha5</latest>
-    <release>8.2.0-alpha5</release>
+    <latest>8.2.0</latest>
+    <release>8.2.0</release>
     <versions>
       <version>8.1.0-alpha1</version>
       <version>8.1.0-alpha2</version>
@@ -21,12 +21,14 @@
       <version>8.1.7</version>
       <version>8.1.8</version>
       <version>8.1.9</version>
+      <version>8.1.10</version>
       <version>8.2.0-alpha1</version>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
       <version>8.2.0-alpha4</version>
       <version>8.2.0-alpha5</version>
+      <version>8.2.0</version>
     </versions>
-    <lastUpdated>20230309160026</lastUpdated>
+    <lastUpdated>20230405190303</lastUpdated>
   </versioning>
 </metadata>
