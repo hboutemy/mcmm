@@ -3,8 +3,8 @@
   <groupId>org.wildfly.plugins</groupId>
   <artifactId>wildfly-jar-parent</artifactId>
   <versioning>
-    <latest>9.0.0.Beta1</latest>
-    <release>9.0.0.Beta1</release>
+    <latest>9.0.0.Final</latest>
+    <release>9.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha3</version>
       <version>1.0.0.Alpha4</version>
@@ -57,7 +57,8 @@
       <version>8.0.1.Final</version>
       <version>8.1.0.Final</version>
       <version>9.0.0.Beta1</version>
+      <version>9.0.0.Final</version>
     </versions>
-    <lastUpdated>20230331081647</lastUpdated>
+    <lastUpdated>20230406104312</lastUpdated>
   </versioning>
 </metadata>

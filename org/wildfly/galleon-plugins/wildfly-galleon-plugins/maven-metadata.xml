@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-galleon-plugins</artifactId>
   <versioning>
-    <latest>6.3.3.Final</latest>
-    <release>6.3.3.Final</release>
+    <latest>6.4.0.Final</latest>
+    <release>6.4.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -136,7 +136,8 @@
       <version>6.3.1.Final</version>
       <version>6.3.2.Final</version>
       <version>6.3.3.Final</version>
+      <version>6.4.0.Final</version>
     </versions>
-    <lastUpdated>20230330152121</lastUpdated>
+    <lastUpdated>20230406082859</lastUpdated>
   </versioning>
 </metadata>

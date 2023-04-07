@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.commons</groupId>
   <artifactId>org.wso2.carbon.cluster.mgt.feature</artifactId>
   <versioning>
-    <latest>4.10.0</latest>
-    <release>4.10.0</release>
+    <latest>4.10.1</latest>
+    <release>4.10.1</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -139,7 +139,8 @@
       <version>4.9.2</version>
       <version>4.9.3</version>
       <version>4.10.0</version>
+      <version>4.10.1</version>
     </versions>
-    <lastUpdated>20230201055502</lastUpdated>
+    <lastUpdated>20230406052133</lastUpdated>
   </versioning>
 </metadata>

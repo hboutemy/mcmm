@@ -18,6 +18,11 @@
     </plugin>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>i8n-transformer</prefix>
+      <artifactId>i8n-transformer-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>jcpp</prefix>
       <artifactId>jcpp-maven-plugin</artifactId>
     </plugin>
