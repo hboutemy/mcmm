@@ -3,13 +3,14 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-iceberg-services-api</artifactId>
   <versioning>
-    <latest>1.20.0</latest>
-    <release>1.20.0</release>
+    <latest>1.21.0</latest>
+    <release>1.21.0</release>
     <versions>
       <version>1.19.0</version>
       <version>1.19.1</version>
       <version>1.20.0</version>
+      <version>1.21.0</version>
     </versions>
-    <lastUpdated>20230209222519</lastUpdated>
+    <lastUpdated>20230407155042</lastUpdated>
   </versioning>
 </metadata>

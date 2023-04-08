@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.plugins</groupId>
   <artifactId>nexus-blobstore-google-cloud-it</artifactId>
   <versioning>
-    <latest>0.50.0</latest>
-    <release>0.50.0</release>
+    <latest>0.51.0</latest>
+    <release>0.51.0</release>
     <versions>
       <version>0.10.2</version>
       <version>0.11.0</version>
@@ -41,8 +41,9 @@
       <version>0.48.0</version>
       <version>0.49.0</version>
       <version>0.50.0</version>
+      <version>0.51.0</version>
       <version>0.33.0</version>
     </versions>
-    <lastUpdated>20230328185833</lastUpdated>
+    <lastUpdated>20230407153046</lastUpdated>
   </versioning>
 </metadata>
