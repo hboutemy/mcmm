@@ -10,4 +10,11 @@
     </versions>
     <lastUpdated>20230126160309</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>dwcj-install-maven-plugin</name>
+      <prefix>dwcj-install</prefix>
+      <artifactId>dwcj-install-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>
