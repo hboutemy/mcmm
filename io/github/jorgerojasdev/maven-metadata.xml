@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>AutoImports Avro Maven Plugin</name>
+      <prefix>avro</prefix>
+      <artifactId>avro-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>avro-with-imports</name>
       <prefix>avro-with-imports</prefix>
       <artifactId>avro-with-imports-maven-plugin</artifactId>

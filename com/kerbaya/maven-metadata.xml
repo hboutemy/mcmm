@@ -7,6 +7,11 @@
       <artifactId>run-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Session Plugin</name>
+      <prefix>session</prefix>
+      <artifactId>session-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Stamp Maven Plugin</name>
       <prefix>stamp</prefix>
       <artifactId>stamp-maven-plugin</artifactId>
