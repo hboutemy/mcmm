@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-rt-transports-http-hc5</artifactId>
   <versioning>
-    <latest>2.0.0.Alpha5</latest>
-    <release>2.0.0.Alpha5</release>
+    <latest>2.0.0.Alpha7</latest>
+    <release>2.0.0.Alpha7</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0</version>
@@ -32,7 +32,9 @@
       <version>2.0.0.Alpha3</version>
       <version>2.0.0.Alpha4</version>
       <version>2.0.0.Alpha5</version>
+      <version>2.0.0.Alpha6</version>
+      <version>2.0.0.Alpha7</version>
     </versions>
-    <lastUpdated>20230330221713</lastUpdated>
+    <lastUpdated>20230411215234</lastUpdated>
   </versioning>
 </metadata>

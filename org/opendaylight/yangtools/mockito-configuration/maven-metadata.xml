@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>mockito-configuration</artifactId>
   <versioning>
-    <latest>10.0.4</latest>
-    <release>10.0.4</release>
+    <latest>10.0.5</latest>
+    <release>10.0.5</release>
     <versions>
       <version>0.6.0</version>
       <version>0.6.1</version>
@@ -183,12 +183,14 @@
       <version>9.0.4</version>
       <version>9.0.5</version>
       <version>9.0.6</version>
+      <version>9.0.7</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>10.0.3</version>
       <version>10.0.4</version>
+      <version>10.0.5</version>
     </versions>
-    <lastUpdated>20230316084026</lastUpdated>
+    <lastUpdated>20230411170518</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>testutils</artifactId>
   <versioning>
-    <latest>10.0.4</latest>
-    <release>10.0.4</release>
+    <latest>10.0.5</latest>
+    <release>10.0.5</release>
     <versions>
       <version>1.0.1-Boron-SR1</version>
       <version>1.0.2-Boron-SR2</version>
@@ -164,12 +164,14 @@
       <version>9.0.4</version>
       <version>9.0.5</version>
       <version>9.0.6</version>
+      <version>9.0.7</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>10.0.3</version>
       <version>10.0.4</version>
+      <version>10.0.5</version>
     </versions>
-    <lastUpdated>20230316085246</lastUpdated>
+    <lastUpdated>20230411171905</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Nessie Runner Maven Plugin</name>
+      <prefix>nessie-runner</prefix>
+      <artifactId>nessie-runner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
