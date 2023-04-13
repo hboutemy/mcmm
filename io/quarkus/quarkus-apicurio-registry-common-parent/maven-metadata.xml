@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-apicurio-registry-common-parent</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>2.9.0.CR1</version>
       <version>2.9.0.Final</version>
@@ -62,7 +62,8 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20230405112227</lastUpdated>
+    <lastUpdated>20230412101031</lastUpdated>
   </versioning>
 </metadata>

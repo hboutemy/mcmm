@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-cache-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>1.2.0.Final</version>
       <version>1.2.1.Final</version>
@@ -188,7 +188,8 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20230405112236</lastUpdated>
+    <lastUpdated>20230412101040</lastUpdated>
   </versioning>
 </metadata>

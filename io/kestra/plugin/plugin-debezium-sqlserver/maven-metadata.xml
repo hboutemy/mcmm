@@ -3,13 +3,14 @@
   <groupId>io.kestra.plugin</groupId>
   <artifactId>plugin-debezium-sqlserver</artifactId>
   <versioning>
-    <latest>0.6.0</latest>
-    <release>0.6.0</release>
+    <latest>0.8.0</latest>
+    <release>0.8.0</release>
     <versions>
       <version>0.4.1</version>
       <version>0.5.0</version>
       <version>0.6.0</version>
+      <version>0.8.0</version>
     </versions>
-    <lastUpdated>20230116132939</lastUpdated>
+    <lastUpdated>20230412150148</lastUpdated>
   </versioning>
 </metadata>

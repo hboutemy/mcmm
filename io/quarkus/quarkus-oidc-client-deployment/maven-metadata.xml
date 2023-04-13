@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-oidc-client-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
@@ -139,7 +139,8 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20230405112439</lastUpdated>
+    <lastUpdated>20230412101244</lastUpdated>
   </versioning>
 </metadata>

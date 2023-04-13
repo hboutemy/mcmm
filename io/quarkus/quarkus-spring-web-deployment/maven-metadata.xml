@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-web-deployment</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>0.21.0</version>
       <version>0.21.1</version>
@@ -210,7 +210,8 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20230405112616</lastUpdated>
+    <lastUpdated>20230412101421</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-ring-ui</artifactId>
   <versioning>
-    <latest>4.1.5-pre.536</latest>
-    <release>4.1.5-pre.536</release>
+    <latest>4.1.5-pre.536-compat</latest>
+    <release>4.1.5-pre.536-compat</release>
     <versions>
       <version>4.0.7-pre.214-kotlin-1.5.20</version>
       <version>4.0.21-pre.215-kotlin-1.5.20</version>
@@ -366,7 +366,8 @@
       <version>4.1.5-pre.534</version>
       <version>4.1.5-pre.535</version>
       <version>4.1.5-pre.536</version>
+      <version>4.1.5-pre.536-compat</version>
     </versions>
-    <lastUpdated>20230411161651</lastUpdated>
+    <lastUpdated>20230412160959</lastUpdated>
   </versioning>
 </metadata>

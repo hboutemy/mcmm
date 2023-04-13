@@ -3,8 +3,8 @@
   <groupId>org.jooq</groupId>
   <artifactId>jooq-postgres-extensions</artifactId>
   <versioning>
-    <latest>3.18.2</latest>
-    <release>3.18.2</release>
+    <latest>3.18.3</latest>
+    <release>3.18.3</release>
     <versions>
       <version>3.15.0</version>
       <version>3.15.1</version>
@@ -37,6 +37,7 @@
       <version>3.16.15</version>
       <version>3.16.16</version>
       <version>3.16.17</version>
+      <version>3.16.18</version>
       <version>3.17.0</version>
       <version>3.17.1</version>
       <version>3.17.2</version>
@@ -49,10 +50,12 @@
       <version>3.17.9</version>
       <version>3.17.10</version>
       <version>3.17.11</version>
+      <version>3.17.12</version>
       <version>3.18.0</version>
       <version>3.18.1</version>
       <version>3.18.2</version>
+      <version>3.18.3</version>
     </versions>
-    <lastUpdated>20230330085526</lastUpdated>
+    <lastUpdated>20230412081944</lastUpdated>
   </versioning>
 </metadata>
