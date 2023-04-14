@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Petals ESB - Tools - Maven tools - Petals Depends Maven Plugin</name>
+      <prefix>depends</prefix>
+      <artifactId>depends-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Petals ESB - Tools - Maven tools - Maven Petals Plugin</name>
       <prefix>petals</prefix>
       <artifactId>maven-petals-plugin</artifactId>

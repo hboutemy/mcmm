@@ -6,5 +6,10 @@
       <prefix>api-dist-generator</prefix>
       <artifactId>maven-api-dist-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>pre-commit-maven-plugin</name>
+      <prefix>pre-commit</prefix>
+      <artifactId>pre-commit-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-quartz-2.0</artifactId>
   <versioning>
-    <latest>1.24.0-alpha</latest>
-    <release>1.24.0-alpha</release>
+    <latest>1.25.0-alpha</latest>
+    <release>1.25.0-alpha</release>
     <versions>
       <version>1.6.0-alpha</version>
       <version>1.6.1-alpha</version>
@@ -40,7 +40,8 @@
       <version>1.22.1-alpha</version>
       <version>1.23.0-alpha</version>
       <version>1.24.0-alpha</version>
+      <version>1.25.0-alpha</version>
     </versions>
-    <lastUpdated>20230315162229</lastUpdated>
+    <lastUpdated>20230413201507</lastUpdated>
   </versioning>
 </metadata>

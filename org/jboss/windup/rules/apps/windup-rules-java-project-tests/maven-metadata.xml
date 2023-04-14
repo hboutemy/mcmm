@@ -3,8 +3,8 @@
   <groupId>org.jboss.windup.rules.apps</groupId>
   <artifactId>windup-rules-java-project-tests</artifactId>
   <versioning>
-    <latest>6.2.0.Alpha2</latest>
-    <release>6.2.0.Alpha2</release>
+    <latest>6.2.0.Final</latest>
+    <release>6.2.0.Final</release>
     <versions>
       <version>2.2.0.Final</version>
       <version>2.3.0.Final</version>
@@ -82,7 +82,8 @@
       <version>6.1.7.Final</version>
       <version>6.2.0.Alpha1</version>
       <version>6.2.0.Alpha2</version>
+      <version>6.2.0.Final</version>
     </versions>
-    <lastUpdated>20230406083136</lastUpdated>
+    <lastUpdated>20230413115154</lastUpdated>
   </versioning>
 </metadata>
