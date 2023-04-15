@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-google</artifactId>
   <versioning>
-    <latest>3.21.0-alpha.4</latest>
-    <release>3.21.0-alpha.4</release>
+    <latest>3.21.0-alpha.5</latest>
+    <release>3.21.0-alpha.5</release>
     <versions>
       <version>3.4.0</version>
       <version>3.4.1</version>
@@ -159,7 +159,8 @@
       <version>3.21.0-alpha.2</version>
       <version>3.21.0-alpha.3</version>
       <version>3.21.0-alpha.4</version>
+      <version>3.21.0-alpha.5</version>
     </versions>
-    <lastUpdated>20230411092727</lastUpdated>
+    <lastUpdated>20230414114452</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.cdap.cdap</groupId>
   <artifactId>cdap-hbase-spi</artifactId>
   <versioning>
-    <latest>6.8.1</latest>
-    <release>6.8.1</release>
+    <latest>6.9.0</latest>
+    <release>6.9.0</release>
     <versions>
       <version>6.0.0</version>
       <version>6.1.1</version>
@@ -27,7 +27,8 @@
       <version>6.7.3</version>
       <version>6.8.0</version>
       <version>6.8.1</version>
+      <version>6.9.0</version>
     </versions>
-    <lastUpdated>20230224082744</lastUpdated>
+    <lastUpdated>20230414115800</lastUpdated>
   </versioning>
 </metadata>

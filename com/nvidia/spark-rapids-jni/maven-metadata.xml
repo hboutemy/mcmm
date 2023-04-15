@@ -3,15 +3,16 @@
   <groupId>com.nvidia</groupId>
   <artifactId>spark-rapids-jni</artifactId>
   <versioning>
-    <latest>23.02.0</latest>
-    <release>23.02.0</release>
+    <latest>23.04.0</latest>
+    <release>23.04.0</release>
     <versions>
       <version>22.06.0</version>
       <version>22.08.0</version>
       <version>22.10.0</version>
       <version>22.12.0</version>
       <version>23.02.0</version>
+      <version>23.04.0</version>
     </versions>
-    <lastUpdated>20230213074714</lastUpdated>
+    <lastUpdated>20230414103324</lastUpdated>
   </versioning>
 </metadata>

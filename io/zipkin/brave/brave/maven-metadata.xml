@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave</artifactId>
   <versioning>
-    <latest>5.15.0</latest>
-    <release>5.15.0</release>
+    <latest>5.15.1</latest>
+    <release>5.15.1</release>
     <versions>
       <version>3.8.0</version>
       <version>3.9.0</version>
@@ -147,7 +147,8 @@
       <version>5.14.0</version>
       <version>5.14.1</version>
       <version>5.15.0</version>
+      <version>5.15.1</version>
     </versions>
-    <lastUpdated>20230201105439</lastUpdated>
+    <lastUpdated>20230414152932</lastUpdated>
   </versioning>
 </metadata>

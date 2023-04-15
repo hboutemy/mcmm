@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>kubernetes</artifactId>
   <versioning>
-    <latest>3.25.0</latest>
-    <release>3.25.0</release>
+    <latest>3.26.0-alpha.1681490466+58b8c44a</latest>
+    <release>3.26.0-alpha.1681490466+58b8c44a</release>
     <versions>
       <version>3.18.3</version>
       <version>3.19.1</version>
@@ -97,7 +97,9 @@
       <version>3.25.0-alpha.1680894366+a907bddc</version>
       <version>3.25.0-alpha.1681260315+5f9eaba9</version>
       <version>3.25.0</version>
+      <version>3.26.0-alpha.1681487668+47b33aac</version>
+      <version>3.26.0-alpha.1681490466+58b8c44a</version>
     </versions>
-    <lastUpdated>20230412024926</lastUpdated>
+    <lastUpdated>20230414173723</lastUpdated>
   </versioning>
 </metadata>
