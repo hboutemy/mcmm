@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-cql</artifactId>
   <versioning>
-    <latest>1.0.0-20230413-140532.536ac6e</latest>
-    <release>1.0.0-20230413-140532.536ac6e</release>
+    <latest>1.0.0-20230417-170829.29e3276</latest>
+    <release>1.0.0-20230417-170829.29e3276</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -79,6 +79,8 @@
       <version>0.6.4-20230412-064316.721bbb1</version>
       <version>0.6.4-20230412-075742.276a39d</version>
       <version>0.6.4-20230412-075804.06be8af</version>
+      <version>0.6.4-20230417-140149.c729f03</version>
+      <version>0.6.4-20230417-232545.250004e</version>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
       <version>1.0.0-rc2-20230226-113902.ba672b9</version>
@@ -176,7 +178,12 @@
       <version>1.0.0-20230406-025108.2690238</version>
       <version>1.0.0-20230411-104001.972937f</version>
       <version>1.0.0-20230413-140532.536ac6e</version>
+      <version>1.0.0-20230417-073222.add88e7</version>
+      <version>1.0.0-20230417-135938.3cd4343</version>
+      <version>1.0.0-20230417-140127.e99ba49</version>
+      <version>1.0.0-20230417-155227.5076ea7</version>
+      <version>1.0.0-20230417-170829.29e3276</version>
     </versions>
-    <lastUpdated>20230413141237</lastUpdated>
+    <lastUpdated>20230417233209</lastUpdated>
   </versioning>
 </metadata>

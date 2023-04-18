@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-bigtable-emulator</artifactId>
   <versioning>
-    <latest>0.157.3</latest>
-    <release>0.157.3</release>
+    <latest>0.157.4</latest>
+    <release>0.157.4</release>
     <versions>
       <version>0.72.0-alpha</version>
       <version>0.73.0-alpha</version>
@@ -144,9 +144,10 @@
       <version>0.157.1</version>
       <version>0.157.2</version>
       <version>0.157.3</version>
+      <version>0.157.4</version>
       <version>0.129.1</version>
       <version>0.130.0</version>
     </versions>
-    <lastUpdated>20230403151639</lastUpdated>
+    <lastUpdated>20230417141835</lastUpdated>
   </versioning>
 </metadata>
