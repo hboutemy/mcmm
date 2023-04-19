@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-sbt-bridge</artifactId>
   <versioning>
-    <latest>3.3.1-RC1-bin-20230416-2f4cc4c-NIGHTLY</latest>
-    <release>3.3.1-RC1-bin-20230416-2f4cc4c-NIGHTLY</release>
+    <latest>3.3.1-RC1-bin-20230417-6980b2e-NIGHTLY</latest>
+    <release>3.3.1-RC1-bin-20230417-6980b2e-NIGHTLY</release>
     <versions>
       <version>3.0.0-M1</version>
       <version>3.0.0-M1-bin-20201015-8c56525-NIGHTLY</version>
@@ -657,6 +657,7 @@
       <version>3.3.0-RC1-bin-20230126-6ccdbd9-NIGHTLY</version>
       <version>3.3.0-RC2</version>
       <version>3.3.0-RC3</version>
+      <version>3.3.0-RC4</version>
       <version>3.3.1-RC1-bin-20230126-f545d10-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230127-c0a7d12-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230129-b8ad7b1-NIGHTLY</version>
@@ -712,7 +713,8 @@
       <version>3.3.1-RC1-bin-20230412-e940957-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230415-3f611d8-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230416-2f4cc4c-NIGHTLY</version>
+      <version>3.3.1-RC1-bin-20230417-6980b2e-NIGHTLY</version>
     </versions>
-    <lastUpdated>20230417042139</lastUpdated>
+    <lastUpdated>20230418091027</lastUpdated>
   </versioning>
 </metadata>

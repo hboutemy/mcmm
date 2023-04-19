@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.functions.library.mgt.stub</artifactId>
   <versioning>
-    <latest>6.0.9</latest>
-    <release>6.0.9</release>
+    <latest>6.0.10</latest>
+    <release>6.0.10</release>
     <versions>
       <version>5.12.219</version>
       <version>5.12.220</version>
@@ -1163,6 +1163,7 @@
       <version>5.24.7</version>
       <version>5.24.8</version>
       <version>5.24.9</version>
+      <version>5.24.10</version>
       <version>5.25.0</version>
       <version>5.25.1</version>
       <version>5.25.2</version>
@@ -1303,7 +1304,8 @@
       <version>6.0.7</version>
       <version>6.0.8</version>
       <version>6.0.9</version>
+      <version>6.0.10</version>
     </versions>
-    <lastUpdated>20230417144915</lastUpdated>
+    <lastUpdated>20230418105333</lastUpdated>
   </versioning>
 </metadata>
