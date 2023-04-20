@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-core-linuxx64</artifactId>
   <versioning>
-    <latest>1.7.0-Beta</latest>
-    <release>1.7.0-Beta</release>
+    <latest>1.7.0-RC</latest>
+    <release>1.7.0-RC</release>
     <versions>
       <version>1.2.0-alpha</version>
       <version>1.2.0-alpha-2</version>
@@ -62,7 +62,8 @@
       <version>1.6.3-native-mt</version>
       <version>1.6.4</version>
       <version>1.7.0-Beta</version>
+      <version>1.7.0-RC</version>
     </versions>
-    <lastUpdated>20230309111955</lastUpdated>
+    <lastUpdated>20230419141059</lastUpdated>
   </versioning>
 </metadata>

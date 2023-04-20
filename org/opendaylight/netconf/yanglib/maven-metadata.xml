@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>yanglib</artifactId>
   <versioning>
-    <latest>5.0.4</latest>
-    <release>5.0.4</release>
+    <latest>5.0.5</latest>
+    <release>5.0.5</release>
     <versions>
       <version>1.1.0-Boron</version>
       <version>1.1.1-Boron-SR1</version>
@@ -99,7 +99,8 @@
       <version>5.0.2</version>
       <version>5.0.3</version>
       <version>5.0.4</version>
+      <version>5.0.5</version>
     </versions>
-    <lastUpdated>20230417111951</lastUpdated>
+    <lastUpdated>20230419194443</lastUpdated>
   </versioning>
 </metadata>
