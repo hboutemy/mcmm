@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>bundle-parent</artifactId>
   <versioning>
-    <latest>12.0.4</latest>
-    <release>12.0.4</release>
+    <latest>12.0.5</latest>
+    <release>12.0.5</release>
     <versions>
       <version>1.5.0-Lithium</version>
       <version>1.5.1-Lithium-SR1</version>
@@ -152,7 +152,8 @@
       <version>12.0.2</version>
       <version>12.0.3</version>
       <version>12.0.4</version>
+      <version>12.0.5</version>
     </versions>
-    <lastUpdated>20230411105326</lastUpdated>
+    <lastUpdated>20230420074203</lastUpdated>
   </versioning>
 </metadata>

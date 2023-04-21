@@ -3,11 +3,12 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-preview-parent</artifactId>
   <versioning>
-    <latest>28.0.0.Beta1</latest>
-    <release>28.0.0.Beta1</release>
+    <latest>28.0.0.Final</latest>
+    <release>28.0.0.Final</release>
     <versions>
       <version>28.0.0.Beta1</version>
+      <version>28.0.0.Final</version>
     </versions>
-    <lastUpdated>20230330151944</lastUpdated>
+    <lastUpdated>20230420040221</lastUpdated>
   </versioning>
 </metadata>

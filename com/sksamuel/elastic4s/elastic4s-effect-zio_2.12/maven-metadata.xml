@@ -3,9 +3,10 @@
   <groupId>com.sksamuel.elastic4s</groupId>
   <artifactId>elastic4s-effect-zio_2.12</artifactId>
   <versioning>
-    <latest>8.6.0</latest>
-    <release>8.6.0</release>
+    <latest>8.6.1</latest>
+    <release>8.6.1</release>
     <versions>
+      <version>5.7.0</version>
       <version>7.3.4</version>
       <version>7.3.5</version>
       <version>7.3.6</version>
@@ -83,8 +84,9 @@
       <version>8.5.3</version>
       <version>8.5.4</version>
       <version>8.6.0</version>
+      <version>8.6.1</version>
       <version>7.9.3</version>
     </versions>
-    <lastUpdated>20230326001158</lastUpdated>
+    <lastUpdated>20230420103542</lastUpdated>
   </versioning>
 </metadata>

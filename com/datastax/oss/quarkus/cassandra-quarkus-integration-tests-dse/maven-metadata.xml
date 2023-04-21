@@ -3,14 +3,15 @@
   <groupId>com.datastax.oss.quarkus</groupId>
   <artifactId>cassandra-quarkus-integration-tests-dse</artifactId>
   <versioning>
-    <latest>1.2.0-alpha2</latest>
-    <release>1.2.0-alpha2</release>
+    <latest>1.2.0</latest>
+    <release>1.2.0</release>
     <versions>
       <version>1.1.2</version>
       <version>1.1.3</version>
       <version>1.2.0-alpha1</version>
       <version>1.2.0-alpha2</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20230412193641</lastUpdated>
+    <lastUpdated>20230420205710</lastUpdated>
   </versioning>
 </metadata>
