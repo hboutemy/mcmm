@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-platform-hsqldb</artifactId>
   <versioning>
-    <latest>13.17.2</latest>
-    <release>13.17.2</release>
+    <latest>13.17.2-jakarta</latest>
+    <release>13.17.2-jakarta</release>
     <versions>
       <version>13.0.0</version>
       <version>13.1.0</version>
@@ -61,7 +61,8 @@
       <version>13.17.1-jakarta</version>
       <version>13.17.1.1</version>
       <version>13.17.2</version>
+      <version>13.17.2-jakarta</version>
     </versions>
-    <lastUpdated>20230420150711</lastUpdated>
+    <lastUpdated>20230421044745</lastUpdated>
   </versioning>
 </metadata>

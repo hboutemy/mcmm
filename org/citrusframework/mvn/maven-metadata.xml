@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Citrus :: Tools :: Maven :: Plugin</name>
+      <prefix>citrus</prefix>
+      <artifactId>citrus-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

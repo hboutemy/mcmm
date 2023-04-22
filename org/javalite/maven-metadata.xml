@@ -22,6 +22,11 @@
       <artifactId>activeweb-sass-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>JavaLite - ActiveWeb-Mate Plugin</name>
+      <prefix>aw-mate</prefix>
+      <artifactId>aw-mate</artifactId>
+    </plugin>
+    <plugin>
       <name>JavaLite - DB-Migrator Maven Plugin</name>
       <prefix>db-migrator</prefix>
       <artifactId>db-migrator-maven-plugin</artifactId>

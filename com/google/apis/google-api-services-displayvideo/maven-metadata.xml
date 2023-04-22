@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-displayvideo</artifactId>
   <versioning>
-    <latest>v2-rev20230406-2.0.0</latest>
-    <release>v2-rev20230406-2.0.0</release>
+    <latest>v2-rev20230420-2.0.0</latest>
+    <release>v2-rev20230420-2.0.0</release>
     <versions>
       <version>v1beta2-rev20200825-1.30.10</version>
       <version>v1beta-rev20200825-1.30.10</version>
@@ -100,6 +100,7 @@
       <version>v1-rev20230309-2.0.0</version>
       <version>v1-rev20230316-2.0.0</version>
       <version>v1-rev20230406-2.0.0</version>
+      <version>v1-rev20230420-2.0.0</version>
       <version>v2-rev20220916-2.0.0</version>
       <version>v2-rev20220922-2.0.0</version>
       <version>v2-rev20221021-2.0.0</version>
@@ -117,7 +118,8 @@
       <version>v2-rev20230309-2.0.0</version>
       <version>v2-rev20230316-2.0.0</version>
       <version>v2-rev20230406-2.0.0</version>
+      <version>v2-rev20230420-2.0.0</version>
     </versions>
-    <lastUpdated>20230408081646</lastUpdated>
+    <lastUpdated>20230421082454</lastUpdated>
   </versioning>
 </metadata>
