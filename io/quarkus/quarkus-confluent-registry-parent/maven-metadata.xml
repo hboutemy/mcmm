@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-confluent-registry-parent</artifactId>
   <versioning>
-    <latest>3.0.0.Final</latest>
-    <release>3.0.0.Final</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>2.9.0.CR1</version>
       <version>2.9.0.Final</version>
@@ -63,7 +63,8 @@
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
       <version>3.0.0.Final</version>
+      <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20230412101046</lastUpdated>
+    <lastUpdated>20230425192217</lastUpdated>
   </versioning>
 </metadata>

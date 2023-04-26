@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-bootstrap-bom-test</artifactId>
   <versioning>
-    <latest>3.0.0.Final</latest>
-    <release>3.0.0.Final</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>2.4.0.Final</version>
       <version>2.4.1.Final</version>
@@ -91,7 +91,8 @@
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
       <version>3.0.0.Final</version>
+      <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20230412101038</lastUpdated>
+    <lastUpdated>20230425192209</lastUpdated>
   </versioning>
 </metadata>

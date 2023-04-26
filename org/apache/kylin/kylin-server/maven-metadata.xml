@@ -3,8 +3,8 @@
   <groupId>org.apache.kylin</groupId>
   <artifactId>kylin-server</artifactId>
   <versioning>
-    <latest>4.0.3</latest>
-    <release>4.0.3</release>
+    <latest>5.0.0-alpha</latest>
+    <release>5.0.0-alpha</release>
     <versions>
       <version>0.7.1-incubating</version>
       <version>0.7.2-incubating</version>
@@ -54,7 +54,8 @@
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
+      <version>5.0.0-alpha</version>
     </versions>
-    <lastUpdated>20221222021416</lastUpdated>
+    <lastUpdated>20230425085155</lastUpdated>
   </versioning>
 </metadata>
