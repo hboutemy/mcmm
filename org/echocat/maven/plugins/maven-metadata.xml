@@ -6,5 +6,10 @@
       <prefix>daemon</prefix>
       <artifactId>daemon-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Hugo Maven Plugin</name>
+      <prefix>hugo</prefix>
+      <artifactId>hugo-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

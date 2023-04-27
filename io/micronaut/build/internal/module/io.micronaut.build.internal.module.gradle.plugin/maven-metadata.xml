@@ -3,8 +3,8 @@
   <groupId>io.micronaut.build.internal.module</groupId>
   <artifactId>io.micronaut.build.internal.module.gradle.plugin</artifactId>
   <versioning>
-    <latest>6.4.1</latest>
-    <release>6.4.1</release>
+    <latest>6.4.2</latest>
+    <release>6.4.2</release>
     <versions>
       <version>4.2.0</version>
       <version>4.2.1</version>
@@ -70,9 +70,11 @@
       <version>6.3.4</version>
       <version>6.3.5</version>
       <version>6.3.6</version>
+      <version>6.3.7</version>
       <version>6.4.0</version>
       <version>6.4.1</version>
+      <version>6.4.2</version>
     </versions>
-    <lastUpdated>20230417095646</lastUpdated>
+    <lastUpdated>20230426111114</lastUpdated>
   </versioning>
 </metadata>

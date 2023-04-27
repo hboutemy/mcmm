@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-dist</artifactId>
   <versioning>
-    <latest>1.0.0-20230425-183833.d4ad3ed</latest>
-    <release>1.0.0-20230425-183833.d4ad3ed</release>
+    <latest>1.0.0-20230426-220536.a55958c</latest>
+    <release>1.0.0-20230426-220536.a55958c</release>
     <versions>
       <version>0.6.3-20230104-164606.a49366e</version>
       <version>0.6.3-20230105-124915.e5a85a4</version>
@@ -70,6 +70,7 @@
       <version>0.6.4-20230421-222333.4b4b417</version>
       <version>0.6.4-20230421-222457.caaee95</version>
       <version>0.6.4-20230424-103919.273e62c</version>
+      <version>0.6.4-20230426-103805.16d921d</version>
       <version>1.0.0-rc2-20230226-113902.ba672b9</version>
       <version>1.0.0-20230104-164902.116a4cc</version>
       <version>1.0.0-20230105-040202.0284c15</version>
@@ -181,7 +182,9 @@
       <version>1.0.0-20230423-025028.ff78051</version>
       <version>1.0.0-20230424-065649.dcd3240</version>
       <version>1.0.0-20230425-183833.d4ad3ed</version>
+      <version>1.0.0-20230426-153024.1b3e699</version>
+      <version>1.0.0-20230426-220536.a55958c</version>
     </versions>
-    <lastUpdated>20230425184734</lastUpdated>
+    <lastUpdated>20230426221356</lastUpdated>
   </versioning>
 </metadata>

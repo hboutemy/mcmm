@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.kafkaconnector</groupId>
   <artifactId>itests-sql</artifactId>
   <versioning>
-    <latest>3.20.0</latest>
-    <release>3.20.0</release>
+    <latest>3.20.3</latest>
+    <release>3.20.3</release>
     <versions>
       <version>0.7.0</version>
       <version>0.7.1</version>
@@ -21,7 +21,8 @@
       <version>3.18.2</version>
       <version>3.19.0</version>
       <version>3.20.0</version>
+      <version>3.20.3</version>
     </versions>
-    <lastUpdated>20230130102227</lastUpdated>
+    <lastUpdated>20230426124348</lastUpdated>
   </versioning>
 </metadata>

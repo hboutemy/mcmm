@@ -3,8 +3,8 @@
   <groupId>de.captaingoldfish</groupId>
   <artifactId>scim-sdk-parent</artifactId>
   <versioning>
-    <latest>1.16.0</latest>
-    <release>1.16.0</release>
+    <latest>1.17.1-kc</latest>
+    <release>1.17.1-kc</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -51,7 +51,10 @@
       <version>1.15.2</version>
       <version>1.15.3</version>
       <version>1.16.0</version>
+      <version>1.17.0</version>
+      <version>1.17.1</version>
+      <version>1.17.1-kc</version>
     </versions>
-    <lastUpdated>20230216175316</lastUpdated>
+    <lastUpdated>20230426195559</lastUpdated>
   </versioning>
 </metadata>
