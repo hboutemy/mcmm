@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-influxdb</artifactId>
   <versioning>
-    <latest>3.0.0-RC5</latest>
-    <release>3.0.0-RC5</release>
+    <latest>3.0.0-RC6</latest>
+    <release>3.0.0-RC6</release>
     <versions>
       <version>1.43</version>
       <version>1.44</version>
@@ -83,7 +83,8 @@
       <version>3.0.0-RC3</version>
       <version>3.0.0-RC4</version>
       <version>3.0.0-RC5</version>
+      <version>3.0.0-RC6</version>
     </versions>
-    <lastUpdated>20230411104603</lastUpdated>
+    <lastUpdated>20230427132936</lastUpdated>
   </versioning>
 </metadata>
