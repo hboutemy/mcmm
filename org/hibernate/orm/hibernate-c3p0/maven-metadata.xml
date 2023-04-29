@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-c3p0</artifactId>
   <versioning>
-    <latest>6.2.1.Final</latest>
-    <release>6.2.1.Final</release>
+    <latest>6.2.2.Final</latest>
+    <release>6.2.2.Final</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -37,7 +37,8 @@
       <version>6.2.0.CR4</version>
       <version>6.2.0.Final</version>
       <version>6.2.1.Final</version>
+      <version>6.2.2.Final</version>
     </versions>
-    <lastUpdated>20230414095450</lastUpdated>
+    <lastUpdated>20230428094754</lastUpdated>
   </versioning>
 </metadata>

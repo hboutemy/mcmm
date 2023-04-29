@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>aws-sdk-java-pom</artifactId>
   <versioning>
-    <latest>2.20.55</latest>
-    <release>2.20.55</release>
+    <latest>2.20.56</latest>
+    <release>2.20.56</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.0-preview-1</version>
@@ -1037,7 +1037,8 @@
       <version>2.20.53</version>
       <version>2.20.54</version>
       <version>2.20.55</version>
+      <version>2.20.56</version>
     </versions>
-    <lastUpdated>20230427204117</lastUpdated>
+    <lastUpdated>20230428201808</lastUpdated>
   </versioning>
 </metadata>

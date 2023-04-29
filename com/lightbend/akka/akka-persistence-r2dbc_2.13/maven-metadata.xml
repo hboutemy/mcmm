@@ -3,8 +3,8 @@
   <groupId>com.lightbend.akka</groupId>
   <artifactId>akka-persistence-r2dbc_2.13</artifactId>
   <versioning>
-    <latest>1.1.0-M8</latest>
-    <release>1.1.0-M8</release>
+    <latest>1.1.0</latest>
+    <release>1.1.0</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -33,7 +33,8 @@
       <version>1.1.0-M6</version>
       <version>1.1.0-M7</version>
       <version>1.1.0-M8</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20230417110425</lastUpdated>
+    <lastUpdated>20230428072719</lastUpdated>
   </versioning>
 </metadata>
