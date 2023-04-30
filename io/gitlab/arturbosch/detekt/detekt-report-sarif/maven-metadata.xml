@@ -3,8 +3,8 @@
   <groupId>io.gitlab.arturbosch.detekt</groupId>
   <artifactId>detekt-report-sarif</artifactId>
   <versioning>
-    <latest>1.23.0-RC2</latest>
-    <release>1.23.0-RC2</release>
+    <latest>1.23.0-RC3</latest>
+    <release>1.23.0-RC3</release>
     <versions>
       <version>1.15.0-RC1</version>
       <version>1.15.0-RC2</version>
@@ -38,7 +38,8 @@
       <version>1.22.0</version>
       <version>1.23.0-RC1</version>
       <version>1.23.0-RC2</version>
+      <version>1.23.0-RC3</version>
     </versions>
-    <lastUpdated>20230423184005</lastUpdated>
+    <lastUpdated>20230429182302</lastUpdated>
   </versioning>
 </metadata>
