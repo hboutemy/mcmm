@@ -3,8 +3,8 @@
   <groupId>org.eclipse.xtext</groupId>
   <artifactId>org.eclipse.xtext.maven.parent</artifactId>
   <versioning>
-    <latest>2.31.0.M1</latest>
-    <release>2.31.0.M1</release>
+    <latest>2.31.0.M2</latest>
+    <release>2.31.0.M2</release>
     <versions>
       <version>2.11.0.beta2</version>
       <version>2.11.0.RC1</version>
@@ -86,7 +86,8 @@
       <version>2.30.0</version>
       <version>2.31.0.M0</version>
       <version>2.31.0.M1</version>
+      <version>2.31.0.M2</version>
     </versions>
-    <lastUpdated>20230426082139</lastUpdated>
+    <lastUpdated>20230501071451</lastUpdated>
   </versioning>
 </metadata>

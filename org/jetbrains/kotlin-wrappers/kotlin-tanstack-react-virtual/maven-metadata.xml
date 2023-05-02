@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-react-virtual</artifactId>
   <versioning>
-    <latest>3.0.0-beta.54-pre.545</latest>
-    <release>3.0.0-beta.54-pre.545</release>
+    <latest>3.0.0-beta.54-pre.545-compat</latest>
+    <release>3.0.0-beta.54-pre.545-compat</release>
     <versions>
       <version>3.0.0-beta.2-pre.352</version>
       <version>3.0.0-beta.2-pre.352-compat</version>
@@ -232,7 +232,8 @@
       <version>3.0.0-beta.54-pre.543</version>
       <version>3.0.0-beta.54-pre.544</version>
       <version>3.0.0-beta.54-pre.545</version>
+      <version>3.0.0-beta.54-pre.545-compat</version>
     </versions>
-    <lastUpdated>20230429061154</lastUpdated>
+    <lastUpdated>20230501150235</lastUpdated>
   </versioning>
 </metadata>

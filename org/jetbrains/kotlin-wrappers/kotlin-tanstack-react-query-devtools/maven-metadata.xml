@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-react-query-devtools</artifactId>
   <versioning>
-    <latest>4.29.5-pre.545</latest>
-    <release>4.29.5-pre.545</release>
+    <latest>4.29.5-pre.545-compat</latest>
+    <release>4.29.5-pre.545-compat</release>
     <versions>
       <version>4.12.0-pre.408</version>
       <version>4.12.0-pre.409</version>
@@ -167,7 +167,8 @@
       <version>4.29.5-pre.543</version>
       <version>4.29.5-pre.544</version>
       <version>4.29.5-pre.545</version>
+      <version>4.29.5-pre.545-compat</version>
     </versions>
-    <lastUpdated>20230429061146</lastUpdated>
+    <lastUpdated>20230501150227</lastUpdated>
   </versioning>
 </metadata>
