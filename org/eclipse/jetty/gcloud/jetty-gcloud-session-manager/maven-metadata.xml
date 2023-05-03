@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.gcloud</groupId>
   <artifactId>jetty-gcloud-session-manager</artifactId>
   <versioning>
-    <latest>12.0.0.beta0</latest>
-    <release>12.0.0.beta0</release>
+    <latest>12.0.0.beta1</latest>
+    <release>12.0.0.beta1</release>
     <versions>
       <version>9.3.7.v20160115</version>
       <version>9.3.8.v20160314</version>
@@ -159,7 +159,8 @@
       <version>12.0.0.alpha2</version>
       <version>12.0.0.alpha3</version>
       <version>12.0.0.beta0</version>
+      <version>12.0.0.beta1</version>
     </versions>
-    <lastUpdated>20230413180251</lastUpdated>
+    <lastUpdated>20230502201449</lastUpdated>
   </versioning>
 </metadata>

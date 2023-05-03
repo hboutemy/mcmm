@@ -3,8 +3,8 @@
   <groupId>org.apache.arrow</groupId>
   <artifactId>flight-grpc</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>12.0.0</latest>
+    <release>12.0.0</release>
     <versions>
       <version>0.16.0</version>
       <version>0.17.0</version>
@@ -24,7 +24,8 @@
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>11.0.0</version>
+      <version>12.0.0</version>
     </versions>
-    <lastUpdated>20230127144702</lastUpdated>
+    <lastUpdated>20230502100157</lastUpdated>
   </versioning>
 </metadata>
