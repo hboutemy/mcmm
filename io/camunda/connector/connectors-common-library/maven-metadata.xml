@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connectors-common-library</artifactId>
   <versioning>
-    <latest>0.18.1</latest>
-    <release>0.18.1</release>
+    <latest>0.19.0-rc2</latest>
+    <release>0.19.0-rc2</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1</version>
@@ -19,7 +19,10 @@
       <version>0.18.0</version>
       <version>0.18.1-rc1</version>
       <version>0.18.1</version>
+      <version>0.18.2</version>
+      <version>0.19.0-rc1</version>
+      <version>0.19.0-rc2</version>
     </versions>
-    <lastUpdated>20230413130716</lastUpdated>
+    <lastUpdated>20230503130919</lastUpdated>
   </versioning>
 </metadata>

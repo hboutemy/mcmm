@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-jackson-parent</artifactId>
   <versioning>
-    <latest>3.0.1.Final</latest>
-    <release>3.0.1.Final</release>
+    <latest>3.0.2.Final</latest>
+    <release>3.0.2.Final</release>
     <versions>
       <version>0.20.0</version>
       <version>0.21.0</version>
@@ -213,7 +213,8 @@
       <version>3.0.0.CR2</version>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
+      <version>3.0.2.Final</version>
     </versions>
-    <lastUpdated>20230425192442</lastUpdated>
+    <lastUpdated>20230503095034</lastUpdated>
   </versioning>
 </metadata>

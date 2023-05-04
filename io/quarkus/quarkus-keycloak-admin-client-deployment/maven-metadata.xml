@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-keycloak-admin-client-deployment</artifactId>
   <versioning>
-    <latest>3.0.1.Final</latest>
-    <release>3.0.1.Final</release>
+    <latest>3.0.2.Final</latest>
+    <release>3.0.2.Final</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -179,7 +179,8 @@
       <version>3.0.0.CR2</version>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
+      <version>3.0.2.Final</version>
     </versions>
-    <lastUpdated>20230425192336</lastUpdated>
+    <lastUpdated>20230503094929</lastUpdated>
   </versioning>
 </metadata>
