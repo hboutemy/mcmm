@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm-bson</artifactId>
   <versioning>
-    <latest>7.3.0</latest>
-    <release>7.3.0</release>
+    <latest>8.0.0-M2</latest>
+    <release>8.0.0-M2</release>
     <versions>
       <version>6.0.0.RC1</version>
       <version>6.0.0.RC2</version>
@@ -45,7 +45,9 @@
       <version>7.2.0</version>
       <version>7.2.1</version>
       <version>7.3.0</version>
+      <version>8.0.0-M1</version>
+      <version>8.0.0-M2</version>
     </versions>
-    <lastUpdated>20220609085246</lastUpdated>
+    <lastUpdated>20230504173902</lastUpdated>
   </versioning>
 </metadata>

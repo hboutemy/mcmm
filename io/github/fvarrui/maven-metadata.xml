@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>JavaPackager Maven Plugin</name>
+      <name>javapackager</name>
       <prefix>javapackager</prefix>
       <artifactId>javapackager</artifactId>
     </plugin>

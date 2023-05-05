@@ -3,8 +3,8 @@
   <groupId>net.optionfactory.keycloak</groupId>
   <artifactId>optionfactory-keycloak-email-sender</artifactId>
   <versioning>
-    <latest>2.16</latest>
-    <release>2.16</release>
+    <latest>3.3</latest>
+    <release>3.3</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -35,7 +35,10 @@
       <version>2.14</version>
       <version>2.15</version>
       <version>2.16</version>
+      <version>3.0</version>
+      <version>3.1</version>
+      <version>3.3</version>
     </versions>
-    <lastUpdated>20230503140233</lastUpdated>
+    <lastUpdated>20230504151708</lastUpdated>
   </versioning>
 </metadata>

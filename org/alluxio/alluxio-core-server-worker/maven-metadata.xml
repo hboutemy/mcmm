@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-core-server-worker</artifactId>
   <versioning>
-    <latest>291-gamma</latest>
-    <release>291-gamma</release>
+    <latest>294</latest>
+    <release>294</release>
     <versions>
       <version>1.5.0</version>
       <version>1.6.0</version>
@@ -63,7 +63,8 @@
       <version>291-alpha</version>
       <version>291-beta</version>
       <version>291-gamma</version>
+      <version>294</version>
     </versions>
-    <lastUpdated>20230324184533</lastUpdated>
+    <lastUpdated>20230504230245</lastUpdated>
   </versioning>
 </metadata>
