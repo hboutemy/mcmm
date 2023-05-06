@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-aws2-kinesis-starter</artifactId>
   <versioning>
-    <latest>4.0.0-M2</latest>
-    <release>4.0.0-M2</release>
+    <latest>4.0.0-M3</latest>
+    <release>4.0.0-M3</release>
     <versions>
       <version>3.2.0</version>
       <version>3.3.0</version>
@@ -64,7 +64,8 @@
       <version>3.20.4</version>
       <version>4.0.0-M1</version>
       <version>4.0.0-M2</version>
+      <version>4.0.0-M3</version>
     </versions>
-    <lastUpdated>20230427083004</lastUpdated>
+    <lastUpdated>20230505061829</lastUpdated>
   </versioning>
 </metadata>

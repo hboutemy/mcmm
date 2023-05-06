@@ -3,8 +3,8 @@
   <groupId>com.microsoft.sqlserver</groupId>
   <artifactId>mssql-jdbc</artifactId>
   <versioning>
-    <latest>12.2.0.jre11</latest>
-    <release>12.2.0.jre11</release>
+    <latest>12.3.0.jre20-preview</latest>
+    <release>12.3.0.jre20-preview</release>
     <versions>
       <version>6.1.0.jre7</version>
       <version>6.1.0.jre8</version>
@@ -199,10 +199,14 @@
       <version>12.1.0.jre11-preview</version>
       <version>12.2.0.jre8</version>
       <version>12.2.0.jre11</version>
+      <version>12.3.0.jre8-preview</version>
+      <version>12.3.0.jre11-preview</version>
+      <version>12.3.0.jre17-preview</version>
+      <version>12.3.0.jre20-preview</version>
       <version>8.1.1.jre11</version>
       <version>8.1.1.jre13</version>
       <version>8.1.1.jre8</version>
     </versions>
-    <lastUpdated>20230131232858</lastUpdated>
+    <lastUpdated>20230505003108</lastUpdated>
   </versioning>
 </metadata>

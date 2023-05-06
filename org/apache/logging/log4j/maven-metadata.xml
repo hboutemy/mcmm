@@ -10,5 +10,10 @@
       <prefix>log4j-changelog</prefix>
       <artifactId>log4j-changelog-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Log4j Transform Maven plugin</name>
+      <prefix>log4j-transform</prefix>
+      <artifactId>log4j-transform-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
