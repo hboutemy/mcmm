@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm</groupId>
   <artifactId>camunda-spring-compatibility-root</artifactId>
   <versioning>
-    <latest>7.19.0</latest>
-    <release>7.19.0</release>
+    <latest>7.20.0-alpha1</latest>
+    <release>7.20.0-alpha1</release>
     <versions>
       <version>7.11.0-alpha4</version>
       <version>7.11.0-alpha5</version>
@@ -59,7 +59,8 @@
       <version>7.19.0-alpha4</version>
       <version>7.19.0-alpha5</version>
       <version>7.19.0</version>
+      <version>7.20.0-alpha1</version>
     </versions>
-    <lastUpdated>20230411051059</lastUpdated>
+    <lastUpdated>20230508133305</lastUpdated>
   </versioning>
 </metadata>

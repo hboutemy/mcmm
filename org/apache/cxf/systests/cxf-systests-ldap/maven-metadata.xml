@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf.systests</groupId>
   <artifactId>cxf-systests-ldap</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>4.0.0</release>
+    <latest>4.0.1</latest>
+    <release>4.0.1</release>
     <versions>
       <version>3.2.5</version>
       <version>3.2.6</version>
@@ -47,7 +47,10 @@
       <version>3.5.3</version>
       <version>3.5.4</version>
       <version>3.5.5</version>
+      <version>3.5.6</version>
+      <version>3.6.0</version>
+      <version>4.0.1</version>
     </versions>
-    <lastUpdated>20221222132416</lastUpdated>
+    <lastUpdated>20230508184134</lastUpdated>
   </versioning>
 </metadata>
