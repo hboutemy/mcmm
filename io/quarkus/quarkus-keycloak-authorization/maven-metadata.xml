@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-keycloak-authorization</artifactId>
   <versioning>
-    <latest>3.0.2.Final</latest>
-    <release>3.0.2.Final</release>
+    <latest>3.0.3.Final</latest>
+    <release>3.0.3.Final</release>
     <versions>
       <version>0.27.0</version>
       <version>0.28.0</version>
@@ -203,7 +203,8 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
+      <version>3.0.3.Final</version>
     </versions>
-    <lastUpdated>20230504143623</lastUpdated>
+    <lastUpdated>20230510094828</lastUpdated>
   </versioning>
 </metadata>

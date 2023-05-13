@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-reactive-pg-client-parent</artifactId>
   <versioning>
-    <latest>3.0.2.Final</latest>
-    <release>3.0.2.Final</release>
+    <latest>3.0.3.Final</latest>
+    <release>3.0.3.Final</release>
     <versions>
       <version>0.15.0</version>
       <version>0.16.0</version>
@@ -222,7 +222,8 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
+      <version>3.0.3.Final</version>
     </versions>
-    <lastUpdated>20230504143707</lastUpdated>
+    <lastUpdated>20230510094914</lastUpdated>
   </versioning>
 </metadata>
