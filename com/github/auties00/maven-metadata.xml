@@ -6,5 +6,9 @@
       <prefix>delombok</prefix>
       <artifactId>delombok-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>protobuf-serialization</prefix>
+      <artifactId>protobuf-serialization-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
