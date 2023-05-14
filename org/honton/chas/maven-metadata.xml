@@ -32,6 +32,11 @@
       <artifactId>git-tag-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Helm Repo Maven Plugin</name>
+      <prefix>helmrepo</prefix>
+      <artifactId>helmrepo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>License Compliance Maven Plugin</name>
       <prefix>license</prefix>
       <artifactId>license-maven-plugin</artifactId>

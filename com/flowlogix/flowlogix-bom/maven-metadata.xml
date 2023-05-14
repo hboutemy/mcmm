@@ -3,8 +3,8 @@
   <groupId>com.flowlogix</groupId>
   <artifactId>flowlogix-bom</artifactId>
   <versioning>
-    <latest>6.1</latest>
-    <release>6.1</release>
+    <latest>6.2-M2</latest>
+    <release>6.2-M2</release>
     <versions>
       <version>3.0</version>
       <version>4.0</version>
@@ -43,7 +43,9 @@
       <version>5.4.1</version>
       <version>6.0</version>
       <version>6.1</version>
+      <version>6.2-M1</version>
+      <version>6.2-M2</version>
     </versions>
-    <lastUpdated>20230507212532</lastUpdated>
+    <lastUpdated>20230513095116</lastUpdated>
   </versioning>
 </metadata>

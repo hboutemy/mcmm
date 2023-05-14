@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-datastore</artifactId>
   <versioning>
-    <latest>v1-rev20230328-2.0.0</latest>
-    <release>v1-rev20230328-2.0.0</release>
+    <latest>v1-rev20230508-2.0.0</latest>
+    <release>v1-rev20230508-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.13.2-beta</version>
       <version>v1beta1-rev1-1.14.2-beta</version>
@@ -859,6 +859,7 @@
       <version>v1beta3-rev20230228-2.0.0</version>
       <version>v1beta3-rev20230315-2.0.0</version>
       <version>v1beta3-rev20230328-2.0.0</version>
+      <version>v1beta3-rev20230508-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
       <version>v1-rev1-1.21.0</version>
@@ -1175,9 +1176,10 @@
       <version>v1-rev20230307-2.0.0</version>
       <version>v1-rev20230315-2.0.0</version>
       <version>v1-rev20230328-2.0.0</version>
+      <version>v1-rev20230508-2.0.0</version>
       <version>v1beta1-rev6-1.14.2-beta</version>
       <version>v1beta2-rev2-1.14.2-beta</version>
     </versions>
-    <lastUpdated>20230331081946</lastUpdated>
+    <lastUpdated>20230513083357</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>node</prefix>
       <artifactId>node-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
+      <prefix>velocity-sass</prefix>
+      <artifactId>velocity-sass-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>record fixed format plugin</name>
       <prefix>recfm</prefix>
       <artifactId>recfm-maven-plugin</artifactId>
     </plugin>

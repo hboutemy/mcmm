@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-staging_3</artifactId>
   <versioning>
-    <latest>3.3.1-RC1-bin-20230511-5c4e597-NIGHTLY</latest>
-    <release>3.3.1-RC1-bin-20230511-5c4e597-NIGHTLY</release>
+    <latest>3.3.1-RC1-bin-20230513-4cb6ee6-NIGHTLY</latest>
+    <release>3.3.1-RC1-bin-20230513-4cb6ee6-NIGHTLY</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1-RC1</version>
@@ -505,6 +505,7 @@
       <version>3.3.0-RC3</version>
       <version>3.3.0-RC4</version>
       <version>3.3.0-RC5</version>
+      <version>3.3.0-RC6</version>
       <version>3.3.1-RC1-bin-20230126-f545d10-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230127-c0a7d12-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230129-b8ad7b1-NIGHTLY</version>
@@ -579,7 +580,8 @@
       <version>3.3.1-RC1-bin-20230508-830230f-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230510-d6c643c-NIGHTLY</version>
       <version>3.3.1-RC1-bin-20230511-5c4e597-NIGHTLY</version>
+      <version>3.3.1-RC1-bin-20230513-4cb6ee6-NIGHTLY</version>
     </versions>
-    <lastUpdated>20230512042127</lastUpdated>
+    <lastUpdated>20230513071543</lastUpdated>
   </versioning>
 </metadata>
