@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>knative-extension-pom</artifactId>
   <versioning>
-    <latest>6.6.1</latest>
-    <release>6.6.1</release>
+    <latest>6.6.2</latest>
+    <release>6.6.2</release>
     <versions>
       <version>4.4.0</version>
       <version>4.4.1</version>
@@ -89,7 +89,8 @@
       <version>6.5.1</version>
       <version>6.6.0</version>
       <version>6.6.1</version>
+      <version>6.6.2</version>
     </versions>
-    <lastUpdated>20230511070447</lastUpdated>
+    <lastUpdated>20230515063933</lastUpdated>
   </versioning>
 </metadata>

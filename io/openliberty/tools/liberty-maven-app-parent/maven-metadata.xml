@@ -3,8 +3,8 @@
   <groupId>io.openliberty.tools</groupId>
   <artifactId>liberty-maven-app-parent</artifactId>
   <versioning>
-    <latest>3.7.1</latest>
-    <release>3.7.1</release>
+    <latest>3.8</latest>
+    <release>3.8</release>
     <versions>
       <version>3.0-M2</version>
       <version>3.0</version>
@@ -34,7 +34,8 @@
       <version>3.6.1</version>
       <version>3.7</version>
       <version>3.7.1</version>
+      <version>3.8</version>
     </versions>
-    <lastUpdated>20221020185950</lastUpdated>
+    <lastUpdated>20230515192529</lastUpdated>
   </versioning>
 </metadata>

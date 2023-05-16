@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>lock-impl</artifactId>
   <versioning>
-    <latest>0.852.0</latest>
-    <release>0.852.0</release>
+    <latest>0.854.0-rc11</latest>
+    <release>0.854.0-rc11</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -638,7 +638,13 @@
       <version>0.849.0</version>
       <version>0.850.0</version>
       <version>0.852.0</version>
+      <version>0.854.0-rc6</version>
+      <version>0.854.0-rc7</version>
+      <version>0.854.0-rc8</version>
+      <version>0.854.0-rc9</version>
+      <version>0.854.0-rc10</version>
+      <version>0.854.0-rc11</version>
     </versions>
-    <lastUpdated>20230511230212</lastUpdated>
+    <lastUpdated>20230515163426</lastUpdated>
   </versioning>
 </metadata>
