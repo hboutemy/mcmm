@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-dependencies</artifactId>
   <versioning>
-    <latest>6.2.3.Final</latest>
-    <release>6.2.3.Final</release>
+    <latest>6.2.4.Final</latest>
+    <release>6.2.4.Final</release>
     <versions>
       <version>3.0.20.Final</version>
       <version>3.0.21.Final</version>
@@ -138,6 +138,7 @@
       <version>5.0.4.Final</version>
       <version>5.0.5.Final</version>
       <version>5.0.6.Final</version>
+      <version>5.0.7.Final</version>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
@@ -153,7 +154,8 @@
       <version>6.2.1.Final</version>
       <version>6.2.2.Final</version>
       <version>6.2.3.Final</version>
+      <version>6.2.4.Final</version>
     </versions>
-    <lastUpdated>20230301225931</lastUpdated>
+    <lastUpdated>20230516030355</lastUpdated>
   </versioning>
 </metadata>

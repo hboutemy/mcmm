@@ -22,6 +22,11 @@
       <artifactId>legend-sdlc-generation-service-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Legend SDLC Test Generation Maven Plugin</name>
+      <prefix>legend-sdlc-test-generation</prefix>
+      <artifactId>legend-sdlc-test-generation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Legend SDLC Version Package Maven Plugin</name>
       <prefix>legend-sdlc-version-package</prefix>
       <artifactId>legend-sdlc-version-package-maven-plugin</artifactId>

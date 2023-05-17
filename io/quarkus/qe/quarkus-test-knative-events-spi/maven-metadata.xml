@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-knative-events-spi</artifactId>
   <versioning>
-    <latest>1.3.0.Beta15</latest>
-    <release>1.3.0.Beta15</release>
+    <latest>1.3.0.Beta16</latest>
+    <release>1.3.0.Beta16</release>
     <versions>
       <version>1.2.0.Beta13</version>
       <version>1.2.0.Beta14</version>
@@ -28,7 +28,8 @@
       <version>1.3.0.Beta13</version>
       <version>1.3.0.Beta14</version>
       <version>1.3.0.Beta15</version>
+      <version>1.3.0.Beta16</version>
     </versions>
-    <lastUpdated>20230428090650</lastUpdated>
+    <lastUpdated>20230516165028</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>jooq-testcontainers-codegen-maven-plugin</name>
+      <prefix>jooq-testcontainers-codegen</prefix>
+      <artifactId>jooq-testcontainers-codegen-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
