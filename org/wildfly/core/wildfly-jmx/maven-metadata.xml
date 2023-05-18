@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-jmx</artifactId>
   <versioning>
-    <latest>20.0.1.Final</latest>
-    <release>20.0.1.Final</release>
+    <latest>20.0.2.Final</latest>
+    <release>20.0.2.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -346,7 +346,8 @@
       <version>20.0.0.Beta8</version>
       <version>20.0.0.Final</version>
       <version>20.0.1.Final</version>
+      <version>20.0.2.Final</version>
     </versions>
-    <lastUpdated>20230417135626</lastUpdated>
+    <lastUpdated>20230517073935</lastUpdated>
   </versioning>
 </metadata>

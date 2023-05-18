@@ -3,11 +3,9 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>wildfly-arquillian-testenricher-msc</artifactId>
   <versioning>
-    <latest>5.0.0.Final</latest>
-    <release>5.0.0.Final</release>
+    <latest>5.0.0.Alpha6</latest>
+    <release>5.0.0.Alpha6</release>
     <versions>
-      <version>4.0.0.Final</version>
-      <version>5.0.0.Final</version>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
       <version>1.0.0.Alpha3</version>
@@ -50,7 +48,9 @@
       <version>5.0.0.Alpha4</version>
       <version>5.0.0.Alpha5</version>
       <version>5.0.0.Alpha6</version>
+      <version>4.0.0.Final</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20230516221013</lastUpdated>
+    <lastUpdated>20221111181421</lastUpdated>
   </versioning>
 </metadata>

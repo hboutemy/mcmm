@@ -3,11 +3,9 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>junit5-tests</artifactId>
   <versioning>
-    <latest>5.0.0.Final</latest>
-    <release>5.0.0.Final</release>
+    <latest>5.0.0.Alpha6</latest>
+    <release>5.0.0.Alpha6</release>
     <versions>
-      <version>4.0.0.Final</version>
-      <version>5.0.0.Final</version>
       <version>4.0.0.Alpha1</version>
       <version>4.0.0.Alpha2</version>
       <version>4.0.0.Alpha3</version>
@@ -20,7 +18,9 @@
       <version>5.0.0.Alpha4</version>
       <version>5.0.0.Alpha5</version>
       <version>5.0.0.Alpha6</version>
+      <version>4.0.0.Final</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20230516221001</lastUpdated>
+    <lastUpdated>20221111181419</lastUpdated>
   </versioning>
 </metadata>

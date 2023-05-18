@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-buggify</artifactId>
   <versioning>
-    <latest>0.855.0-rc1</latest>
-    <release>0.855.0-rc1</release>
+    <latest>0.855.0</latest>
+    <release>0.855.0</release>
     <versions>
       <version>0.852.0</version>
       <version>0.854.0-rc6</version>
@@ -27,7 +27,8 @@
       <version>0.854.0-rc24</version>
       <version>0.854.0-rc25</version>
       <version>0.855.0-rc1</version>
+      <version>0.855.0</version>
     </versions>
-    <lastUpdated>20230516142305</lastUpdated>
+    <lastUpdated>20230517133625</lastUpdated>
   </versioning>
 </metadata>

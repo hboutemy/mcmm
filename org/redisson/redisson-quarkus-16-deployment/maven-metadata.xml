@@ -3,8 +3,8 @@
   <groupId>org.redisson</groupId>
   <artifactId>redisson-quarkus-16-deployment</artifactId>
   <versioning>
-    <latest>3.21.1</latest>
-    <release>3.21.1</release>
+    <latest>3.21.2</latest>
+    <release>3.21.2</release>
     <versions>
       <version>3.16.0</version>
       <version>3.16.1</version>
@@ -33,7 +33,8 @@
       <version>3.20.1</version>
       <version>3.21.0</version>
       <version>3.21.1</version>
+      <version>3.21.2</version>
     </versions>
-    <lastUpdated>20230511092858</lastUpdated>
+    <lastUpdated>20230517113044</lastUpdated>
   </versioning>
 </metadata>

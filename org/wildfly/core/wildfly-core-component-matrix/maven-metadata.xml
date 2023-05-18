@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-component-matrix</artifactId>
   <versioning>
-    <latest>20.0.1.Final</latest>
-    <release>20.0.1.Final</release>
+    <latest>20.0.2.Final</latest>
+    <release>20.0.2.Final</release>
     <versions>
       <version>5.0.0.Beta2</version>
       <version>5.0.0.Beta3</version>
@@ -164,7 +164,8 @@
       <version>20.0.0.Beta8</version>
       <version>20.0.0.Final</version>
       <version>20.0.1.Final</version>
+      <version>20.0.2.Final</version>
     </versions>
-    <lastUpdated>20230417135617</lastUpdated>
+    <lastUpdated>20230517073927</lastUpdated>
   </versioning>
 </metadata>

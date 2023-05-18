@@ -3,11 +3,9 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>elytron</artifactId>
   <versioning>
-    <latest>5.0.0.Final</latest>
-    <release>5.0.0.Final</release>
+    <latest>5.0.0.Alpha6</latest>
+    <release>5.0.0.Alpha6</release>
     <versions>
-      <version>4.0.0.Final</version>
-      <version>5.0.0.Final</version>
       <version>2.1.0.Alpha2</version>
       <version>2.1.0.Alpha3</version>
       <version>2.1.0.Beta1</version>
@@ -32,7 +30,9 @@
       <version>5.0.0.Alpha4</version>
       <version>5.0.0.Alpha5</version>
       <version>5.0.0.Alpha6</version>
+      <version>4.0.0.Final</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20230516220958</lastUpdated>
+    <lastUpdated>20221111181419</lastUpdated>
   </versioning>
 </metadata>
