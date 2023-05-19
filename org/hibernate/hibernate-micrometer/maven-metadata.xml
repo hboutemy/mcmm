@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-micrometer</artifactId>
   <versioning>
-    <latest>6.2.2.Final</latest>
-    <release>6.2.2.Final</release>
+    <latest>6.2.3.Final</latest>
+    <release>6.2.3.Final</release>
     <versions>
       <version>5.4.26.Final</version>
       <version>5.4.27.Final</version>
@@ -72,9 +72,10 @@
       <version>6.2.0.Final</version>
       <version>6.2.1.Final</version>
       <version>6.2.2.Final</version>
+      <version>6.2.3.Final</version>
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20230428094750</lastUpdated>
+    <lastUpdated>20230518134520</lastUpdated>
   </versioning>
 </metadata>

@@ -4,7 +4,7 @@
   <artifactId>com.liferay.gradle.plugins.defaults</artifactId>
   <versioning>
     <latest>8.0.52</latest>
-    <release>8.1.7</release>
+    <release>8.1.9</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -2040,7 +2040,9 @@
       <version>8.1.5</version>
       <version>8.1.6</version>
       <version>8.1.7</version>
+      <version>8.1.8</version>
+      <version>8.1.9</version>
     </versions>
-    <lastUpdated>20230504130112</lastUpdated>
+    <lastUpdated>20230518164036</lastUpdated>
   </versioning>
 </metadata>

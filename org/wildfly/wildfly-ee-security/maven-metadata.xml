@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-ee-security</artifactId>
   <versioning>
-    <latest>28.0.0.Final</latest>
-    <release>28.0.0.Final</release>
+    <latest>28.0.1.Final</latest>
+    <release>28.0.1.Final</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Final</version>
@@ -67,7 +67,8 @@
       <version>27.0.1.Final</version>
       <version>28.0.0.Beta1</version>
       <version>28.0.0.Final</version>
+      <version>28.0.1.Final</version>
     </versions>
-    <lastUpdated>20230420040159</lastUpdated>
+    <lastUpdated>20230518201421</lastUpdated>
   </versioning>
 </metadata>
