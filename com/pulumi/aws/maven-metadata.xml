@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>aws</artifactId>
   <versioning>
-    <latest>5.41.0</latest>
-    <release>5.41.0</release>
+    <latest>5.42.0-alpha.1684524683+e5973bdb</latest>
+    <release>5.42.0-alpha.1684524683+e5973bdb</release>
     <versions>
       <version>v5.10.0-alpha.1657285141+dcd8bd3f</version>
       <version>v5.10.0-alpha.1657535550+a0b26b1c</version>
@@ -88,7 +88,9 @@
       <version>5.41.0-alpha.1683649590+938cf198</version>
       <version>5.41.0-alpha.1684151642+e18f3a34</version>
       <version>5.41.0</version>
+      <version>5.42.0-alpha.1684513148+f29b2325</version>
+      <version>5.42.0-alpha.1684524683+e5973bdb</version>
     </versions>
-    <lastUpdated>20230515164808</lastUpdated>
+    <lastUpdated>20230519214651</lastUpdated>
   </versioning>
 </metadata>

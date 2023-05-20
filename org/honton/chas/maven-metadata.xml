@@ -71,5 +71,10 @@
       <prefix>updates</prefix>
       <artifactId>updates-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Yaml File</name>
+      <prefix>yaml</prefix>
+      <artifactId>yaml-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
