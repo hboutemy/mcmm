@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-styled</artifactId>
   <versioning>
-    <latest>5.3.10-pre.554</latest>
-    <release>5.3.10-pre.554</release>
+    <latest>5.3.10-pre.554-compat</latest>
+    <release>5.3.10-pre.554-compat</release>
     <versions>
       <version>5.3.0-pre.202-kotlin-1.5.0</version>
       <version>5.3.0-pre.203-kotlin-1.5.0</version>
@@ -402,7 +402,8 @@
       <version>5.3.10-pre.552</version>
       <version>5.3.10-pre.553</version>
       <version>5.3.10-pre.554</version>
+      <version>5.3.10-pre.554-compat</version>
     </versions>
-    <lastUpdated>20230519071739</lastUpdated>
+    <lastUpdated>20230520165435</lastUpdated>
   </versioning>
 </metadata>

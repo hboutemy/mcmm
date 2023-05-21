@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-node-js</artifactId>
   <versioning>
-    <latest>18.16.3-pre.554</latest>
-    <release>18.16.3-pre.554</release>
+    <latest>18.16.3-pre.554-compat</latest>
+    <release>18.16.3-pre.554-compat</release>
     <versions>
       <version>18.11.19-pre.493</version>
       <version>18.11.19-pre.493-compat</version>
@@ -76,7 +76,8 @@
       <version>18.16.3-pre.552</version>
       <version>18.16.3-pre.553</version>
       <version>18.16.3-pre.554</version>
+      <version>18.16.3-pre.554-compat</version>
     </versions>
-    <lastUpdated>20230519071608</lastUpdated>
+    <lastUpdated>20230520165226</lastUpdated>
   </versioning>
 </metadata>
