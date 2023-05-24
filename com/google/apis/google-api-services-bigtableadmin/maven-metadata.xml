@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-bigtableadmin</artifactId>
   <versioning>
-    <latest>v2-rev20230426-2.0.0</latest>
-    <release>v2-rev20230426-2.0.0</release>
+    <latest>v2-rev20230517-2.0.0</latest>
+    <release>v2-rev20230517-2.0.0</release>
     <versions>
       <version>v1-rev2-1.18.0-rc</version>
       <version>v1-rev2-1.22.0</version>
@@ -44,7 +44,8 @@
       <version>v1-rev20211104-1.32.1</version>
       <version>v1-rev20211218-1.32.1</version>
       <version>v2-rev20230426-2.0.0</version>
+      <version>v2-rev20230517-2.0.0</version>
     </versions>
-    <lastUpdated>20230517201855</lastUpdated>
+    <lastUpdated>20230523081159</lastUpdated>
   </versioning>
 </metadata>

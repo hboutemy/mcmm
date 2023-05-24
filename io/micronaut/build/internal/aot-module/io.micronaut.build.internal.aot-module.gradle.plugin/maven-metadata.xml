@@ -3,8 +3,8 @@
   <groupId>io.micronaut.build.internal.aot-module</groupId>
   <artifactId>io.micronaut.build.internal.aot-module.gradle.plugin</artifactId>
   <versioning>
-    <latest>6.4.4</latest>
-    <release>6.4.4</release>
+    <latest>6.5.0</latest>
+    <release>6.5.0</release>
     <versions>
       <version>5.0.0</version>
       <version>5.0.1</version>
@@ -70,7 +70,8 @@
       <version>6.4.2</version>
       <version>6.4.3</version>
       <version>6.4.4</version>
+      <version>6.5.0</version>
     </versions>
-    <lastUpdated>20230510133529</lastUpdated>
+    <lastUpdated>20230523104753</lastUpdated>
   </versioning>
 </metadata>

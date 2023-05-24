@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-annotation-processing-runtime</artifactId>
   <versioning>
-    <latest>1.8.21</latest>
-    <release>1.8.21</release>
+    <latest>1.9.0-Beta</latest>
+    <release>1.9.0-Beta</release>
     <versions>
       <version>1.2.20</version>
       <version>1.2.21</version>
@@ -94,7 +94,8 @@
       <version>1.8.20-RC2</version>
       <version>1.8.20</version>
       <version>1.8.21</version>
+      <version>1.9.0-Beta</version>
     </versions>
-    <lastUpdated>20230425044654</lastUpdated>
+    <lastUpdated>20230523041625</lastUpdated>
   </versioning>
 </metadata>

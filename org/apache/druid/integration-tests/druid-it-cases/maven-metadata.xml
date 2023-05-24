@@ -3,14 +3,15 @@
   <groupId>org.apache.druid.integration-tests</groupId>
   <artifactId>druid-it-cases</artifactId>
   <versioning>
-    <latest>25.0.0</latest>
-    <release>25.0.0</release>
+    <latest>26.0.0</latest>
+    <release>26.0.0</release>
     <versions>
       <version>24.0.0</version>
       <version>24.0.1</version>
       <version>24.0.2</version>
       <version>25.0.0</version>
+      <version>26.0.0</version>
     </versions>
-    <lastUpdated>20230103062416</lastUpdated>
+    <lastUpdated>20230523003502</lastUpdated>
   </versioning>
 </metadata>

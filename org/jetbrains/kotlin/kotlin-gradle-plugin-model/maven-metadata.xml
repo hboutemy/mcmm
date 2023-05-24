@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-gradle-plugin-model</artifactId>
   <versioning>
-    <latest>1.8.21</latest>
-    <release>1.8.21</release>
+    <latest>1.9.0-Beta</latest>
+    <release>1.9.0-Beta</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -86,7 +86,8 @@
       <version>1.8.20-RC2</version>
       <version>1.8.20</version>
       <version>1.8.21</version>
+      <version>1.9.0-Beta</version>
     </versions>
-    <lastUpdated>20230425044731</lastUpdated>
+    <lastUpdated>20230523041711</lastUpdated>
   </versioning>
 </metadata>

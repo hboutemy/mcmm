@@ -3,8 +3,8 @@
   <groupId>com.didiglobal.booster</groupId>
   <artifactId>booster-graph-dot</artifactId>
   <versioning>
-    <latest>4.16.1</latest>
-    <release>4.16.1</release>
+    <latest>4.17.0-alpha1</latest>
+    <release>4.17.0-alpha1</release>
     <versions>
       <version>4.10.0-rc10</version>
       <version>4.10.0</version>
@@ -78,6 +78,8 @@
       <version>4.14.0-beta1</version>
       <version>4.14.0-rc1</version>
       <version>4.14.0</version>
+      <version>4.14.1-alpha1</version>
+      <version>4.14.1-alpha2</version>
       <version>4.15.0-alpha1</version>
       <version>4.15.0-alpha2</version>
       <version>4.15.0-beta1</version>
@@ -86,7 +88,11 @@
       <version>4.16.0-alpha2</version>
       <version>4.16.0</version>
       <version>4.16.1</version>
+      <version>4.16.2-alpha1</version>
+      <version>4.16.2-alpha2</version>
+      <version>4.16.2-alpha3</version>
+      <version>4.17.0-alpha1</version>
     </versions>
-    <lastUpdated>20230519154326</lastUpdated>
+    <lastUpdated>20230523154725</lastUpdated>
   </versioning>
 </metadata>

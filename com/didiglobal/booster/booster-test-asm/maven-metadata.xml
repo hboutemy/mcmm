@@ -3,8 +3,8 @@
   <groupId>com.didiglobal.booster</groupId>
   <artifactId>booster-test-asm</artifactId>
   <versioning>
-    <latest>4.16.1</latest>
-    <release>4.16.1</release>
+    <latest>4.17.0-alpha1</latest>
+    <release>4.17.0-alpha1</release>
     <versions>
       <version>4.3.0-alpha4</version>
       <version>4.3.0-alpha5</version>
@@ -136,6 +136,8 @@
       <version>4.14.0-beta1</version>
       <version>4.14.0-rc1</version>
       <version>4.14.0</version>
+      <version>4.14.1-alpha1</version>
+      <version>4.14.1-alpha2</version>
       <version>4.15.0-alpha1</version>
       <version>4.15.0-alpha2</version>
       <version>4.15.0-beta1</version>
@@ -144,7 +146,11 @@
       <version>4.16.0-alpha2</version>
       <version>4.16.0</version>
       <version>4.16.1</version>
+      <version>4.16.2-alpha1</version>
+      <version>4.16.2-alpha2</version>
+      <version>4.16.2-alpha3</version>
+      <version>4.17.0-alpha1</version>
     </versions>
-    <lastUpdated>20230519154359</lastUpdated>
+    <lastUpdated>20230523154809</lastUpdated>
   </versioning>
 </metadata>
