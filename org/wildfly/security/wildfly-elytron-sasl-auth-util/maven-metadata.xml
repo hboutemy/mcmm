@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-sasl-auth-util</artifactId>
   <versioning>
-    <latest>2.1.0.Final</latest>
-    <release>2.1.0.Final</release>
+    <latest>2.2.0.Final</latest>
+    <release>2.2.0.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.CR2</version>
@@ -110,7 +110,8 @@
       <version>2.0.0.Beta3</version>
       <version>2.0.0.Final</version>
       <version>2.1.0.Final</version>
+      <version>2.2.0.Final</version>
     </versions>
-    <lastUpdated>20230221160813</lastUpdated>
+    <lastUpdated>20230524013322</lastUpdated>
   </versioning>
 </metadata>

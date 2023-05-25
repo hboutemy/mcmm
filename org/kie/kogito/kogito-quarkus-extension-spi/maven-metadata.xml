@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-quarkus-extension-spi</artifactId>
   <versioning>
-    <latest>1.38.0.Final</latest>
-    <release>1.38.0.Final</release>
+    <latest>1.39.0.Final</latest>
+    <release>1.39.0.Final</release>
     <versions>
       <version>1.16.0.Final</version>
       <version>1.16.1.Final</version>
@@ -34,7 +34,8 @@
       <version>1.36.1.Final</version>
       <version>1.37.0.Final</version>
       <version>1.38.0.Final</version>
+      <version>1.39.0.Final</version>
     </versions>
-    <lastUpdated>20230502094112</lastUpdated>
+    <lastUpdated>20230524105319</lastUpdated>
   </versioning>
 </metadata>

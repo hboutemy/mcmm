@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-tools-parent</artifactId>
   <versioning>
-    <latest>3.1.0.CR1</latest>
-    <release>3.1.0.CR1</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>0.26.0</version>
       <version>0.26.1</version>
@@ -206,8 +206,10 @@
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
       <version>3.0.3.Final</version>
+      <version>3.0.4.Final</version>
       <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20230517111342</lastUpdated>
+    <lastUpdated>20230524133419</lastUpdated>
   </versioning>
 </metadata>

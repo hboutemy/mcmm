@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.openflowplugin.applications</groupId>
   <artifactId>arbitratorreconciliation-api</artifactId>
   <versioning>
-    <latest>0.16.0</latest>
-    <release>0.16.0</release>
+    <latest>0.16.1</latest>
+    <release>0.16.1</release>
     <versions>
       <version>0.6.4</version>
       <version>0.7.0</version>
@@ -45,7 +45,8 @@
       <version>0.15.1</version>
       <version>0.15.2</version>
       <version>0.16.0</version>
+      <version>0.16.1</version>
     </versions>
-    <lastUpdated>20230402122227</lastUpdated>
+    <lastUpdated>20230524021948</lastUpdated>
   </versioning>
 </metadata>

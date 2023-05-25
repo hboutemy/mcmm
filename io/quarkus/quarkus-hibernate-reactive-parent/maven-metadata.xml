@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-reactive-parent</artifactId>
   <versioning>
-    <latest>3.1.0.CR1</latest>
-    <release>3.1.0.CR1</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>1.6.0.CR1</version>
       <version>1.6.0.Final</version>
@@ -172,8 +172,10 @@
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
       <version>3.0.3.Final</version>
+      <version>3.0.4.Final</version>
       <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20230517111110</lastUpdated>
+    <lastUpdated>20230524133142</lastUpdated>
   </versioning>
 </metadata>
