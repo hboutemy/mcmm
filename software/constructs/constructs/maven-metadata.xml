@@ -3,8 +3,8 @@
   <groupId>software.constructs</groupId>
   <artifactId>constructs</artifactId>
   <versioning>
-    <latest>10.2.31</latest>
-    <release>10.2.31</release>
+    <latest>10.2.32</latest>
+    <release>10.2.32</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -589,6 +589,7 @@
       <version>3.4.303</version>
       <version>3.4.304</version>
       <version>3.4.305</version>
+      <version>3.4.306</version>
       <version>4.0.0</version>
       <version>5.0.0</version>
       <version>6.0.0</version>
@@ -1068,6 +1069,7 @@
       <version>10.2.29</version>
       <version>10.2.30</version>
       <version>10.2.31</version>
+      <version>10.2.32</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
@@ -1216,6 +1218,6 @@
       <version>3.3.98</version>
       <version>3.3.99</version>
     </versions>
-    <lastUpdated>20230522002001</lastUpdated>
+    <lastUpdated>20230525001844</lastUpdated>
   </versioning>
 </metadata>

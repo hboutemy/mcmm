@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Ban Dependencies Maven Plugin</name>
+      <prefix>ban</prefix>
+      <artifactId>ban-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Conditional Maven Plugin</name>
       <prefix>conditional</prefix>
       <artifactId>conditional-maven-plugin</artifactId>

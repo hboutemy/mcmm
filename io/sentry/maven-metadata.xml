@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sentry-maven-plugin Maven Mojo</name>
+      <prefix>sentry</prefix>
+      <artifactId>sentry-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

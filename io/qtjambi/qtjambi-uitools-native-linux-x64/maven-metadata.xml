@@ -3,8 +3,8 @@
   <groupId>io.qtjambi</groupId>
   <artifactId>qtjambi-uitools-native-linux-x64</artifactId>
   <versioning>
-    <latest>6.5.0</latest>
-    <release>6.5.0</release>
+    <latest>6.5.1</latest>
+    <release>6.5.1</release>
     <versions>
       <version>5.15.5</version>
       <version>5.15.6</version>
@@ -16,6 +16,7 @@
       <version>5.15.12</version>
       <version>5.15.13</version>
       <version>5.15.14</version>
+      <version>5.15.15</version>
       <version>6.2</version>
       <version>6.2.1</version>
       <version>6.2.2</version>
@@ -41,7 +42,8 @@
       <version>6.4.3</version>
       <version>6.4.4</version>
       <version>6.5.0</version>
+      <version>6.5.1</version>
     </versions>
-    <lastUpdated>20230411183443</lastUpdated>
+    <lastUpdated>20230525144848</lastUpdated>
   </versioning>
 </metadata>

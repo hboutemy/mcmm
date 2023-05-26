@@ -7,6 +7,11 @@
       <artifactId>findclass-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Generate POM Plugin</name>
+      <prefix>gpom</prefix>
+      <artifactId>gpom-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Find Class Plugin</name>
       <prefix>findclass</prefix>
       <artifactId>maven-findclass-plugin</artifactId>

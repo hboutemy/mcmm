@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-walkthrough-datastream-java</artifactId>
   <versioning>
-    <latest>1.17.0</latest>
-    <release>1.17.0</release>
+    <latest>1.17.1</latest>
+    <release>1.17.1</release>
     <versions>
       <version>1.10.0</version>
       <version>1.10.1</version>
@@ -46,8 +46,10 @@
       <version>1.15.4</version>
       <version>1.16.0</version>
       <version>1.16.1</version>
+      <version>1.16.2</version>
       <version>1.17.0</version>
+      <version>1.17.1</version>
     </versions>
-    <lastUpdated>20230323080827</lastUpdated>
+    <lastUpdated>20230525095510</lastUpdated>
   </versioning>
 </metadata>

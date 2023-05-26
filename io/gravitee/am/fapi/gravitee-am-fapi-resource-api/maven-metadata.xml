@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.fapi</groupId>
   <artifactId>gravitee-am-fapi-resource-api</artifactId>
   <versioning>
-    <latest>3.21.0-alpha.5</latest>
-    <release>3.21.0-alpha.5</release>
+    <latest>3.21.0</latest>
+    <release>3.21.0</release>
     <versions>
       <version>3.12.0</version>
       <version>3.12.1</version>
@@ -100,7 +100,8 @@
       <version>3.21.0-alpha.3</version>
       <version>3.21.0-alpha.4</version>
       <version>3.21.0-alpha.5</version>
+      <version>3.21.0</version>
     </versions>
-    <lastUpdated>20230428155539</lastUpdated>
+    <lastUpdated>20230525104631</lastUpdated>
   </versioning>
 </metadata>

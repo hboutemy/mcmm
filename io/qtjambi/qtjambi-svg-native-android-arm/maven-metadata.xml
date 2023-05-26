@@ -3,8 +3,8 @@
   <groupId>io.qtjambi</groupId>
   <artifactId>qtjambi-svg-native-android-arm</artifactId>
   <versioning>
-    <latest>6.5.0</latest>
-    <release>6.5.0</release>
+    <latest>6.5.1</latest>
+    <release>6.5.1</release>
     <versions>
       <version>5.15.7</version>
       <version>5.15.8</version>
@@ -14,6 +14,7 @@
       <version>5.15.12</version>
       <version>5.15.13</version>
       <version>5.15.14</version>
+      <version>5.15.15</version>
       <version>6.2.5</version>
       <version>6.2.6</version>
       <version>6.2.7</version>
@@ -32,7 +33,8 @@
       <version>6.4.3</version>
       <version>6.4.4</version>
       <version>6.5.0</version>
+      <version>6.5.1</version>
     </versions>
-    <lastUpdated>20230411182808</lastUpdated>
+    <lastUpdated>20230525144412</lastUpdated>
   </versioning>
 </metadata>
