@@ -3,8 +3,8 @@
   <groupId>org.togglz</groupId>
   <artifactId>togglz-cloud-datastore</artifactId>
   <versioning>
-    <latest>4.0,0-M2</latest>
-    <release>4.0,0-M2</release>
+    <latest>4.0.1</latest>
+    <release>4.0.1</release>
     <versions>
       <version>2.4.0.RC1</version>
       <version>2.4.0.Final</version>
@@ -39,8 +39,10 @@
       <version>4.0.0-M1</version>
       <version>4.0.0-M3</version>
       <version>4.0.0-M4</version>
+      <version>4.0.0</version>
       <version>4.0,0-M2</version>
+      <version>4.0.1</version>
     </versions>
-    <lastUpdated>20230327115826</lastUpdated>
+    <lastUpdated>20230526130619</lastUpdated>
   </versioning>
 </metadata>
