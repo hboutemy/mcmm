@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Directory Maven Plugin</name>
+      <prefix>directory</prefix>
+      <artifactId>directory-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven HTMLCompressor Plugin</name>
       <prefix>htmlcompressor</prefix>
       <artifactId>htmlcompressor-maven-plugin</artifactId>
