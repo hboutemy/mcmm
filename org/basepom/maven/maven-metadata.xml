@@ -2,6 +2,14 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>dependency-management</prefix>
+      <artifactId>dependency-management-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>dependency-scope</prefix>
+      <artifactId>dependency-scope-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>dependency-versions-check</prefix>
       <artifactId>dependency-versions-check-maven-plugin</artifactId>
     </plugin>
