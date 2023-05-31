@@ -3,8 +3,8 @@
   <groupId>com.ibm.websphere.appserver.runtime</groupId>
   <artifactId>wlp-osgi</artifactId>
   <versioning>
-    <latest>23.0.0.4</latest>
-    <release>23.0.0.4</release>
+    <latest>23.0.0.5</latest>
+    <release>23.0.0.5</release>
     <versions>
       <version>8.5.5.9</version>
       <version>16.0.0.2</version>
@@ -71,8 +71,9 @@
       <version>23.0.0.2</version>
       <version>23.0.0.3</version>
       <version>23.0.0.4</version>
+      <version>23.0.0.5</version>
       <version>8.5.5.8</version>
     </versions>
-    <lastUpdated>20230502121158</lastUpdated>
+    <lastUpdated>20230530081349</lastUpdated>
   </versioning>
 </metadata>
