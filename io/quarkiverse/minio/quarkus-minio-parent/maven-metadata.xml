@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.minio</groupId>
   <artifactId>quarkus-minio-parent</artifactId>
   <versioning>
-    <latest>3.0.2</latest>
-    <release>3.0.2</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>0.2.1</version>
       <version>0.2.2</version>
@@ -23,7 +23,8 @@
       <version>3.0.0.Alpha3</version>
       <version>3.0.0</version>
       <version>3.0.2</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20230510151010</lastUpdated>
+    <lastUpdated>20230531074641</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-maven-plugin</artifactId>
   <versioning>
-    <latest>3.1.0.CR1</latest>
-    <release>3.1.0.CR1</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -115,7 +115,8 @@
       <version>3.0.3.Final</version>
       <version>3.0.4.Final</version>
       <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20230525155800</lastUpdated>
+    <lastUpdated>20230531085019</lastUpdated>
   </versioning>
 </metadata>

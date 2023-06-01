@@ -2,10 +2,12 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Dependency Management Maven Plugin</name>
       <prefix>dependency-management</prefix>
       <artifactId>dependency-management-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Dependency Scope Maven Plugin</name>
       <prefix>dependency-scope</prefix>
       <artifactId>dependency-scope-maven-plugin</artifactId>
     </plugin>
@@ -28,6 +30,7 @@
       <artifactId>property-helper-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Repack Maven Plugin</name>
       <prefix>repack</prefix>
       <artifactId>repack-maven-plugin</artifactId>
     </plugin>

@@ -3,8 +3,8 @@
   <groupId>io.ultreia.maven</groupId>
   <artifactId>pom</artifactId>
   <versioning>
-    <latest>2023.24</latest>
-    <release>2023.24</release>
+    <latest>2023.26</latest>
+    <release>2023.26</release>
     <versions>
       <version>1</version>
       <version>2</version>
@@ -572,7 +572,9 @@
       <version>2023.22</version>
       <version>2023.23</version>
       <version>2023.24</version>
+      <version>2023.25</version>
+      <version>2023.26</version>
     </versions>
-    <lastUpdated>20230523154130</lastUpdated>
+    <lastUpdated>20230531074152</lastUpdated>
   </versioning>
 </metadata>
