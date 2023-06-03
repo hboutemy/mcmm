@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-minicluster</artifactId>
   <versioning>
-    <latest>295</latest>
-    <release>295</release>
+    <latest>300</latest>
+    <release>300</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -72,7 +72,8 @@
       <version>291-gamma</version>
       <version>294</version>
       <version>295</version>
+      <version>300</version>
     </versions>
-    <lastUpdated>20230523212837</lastUpdated>
+    <lastUpdated>20230602220631</lastUpdated>
   </versioning>
 </metadata>
