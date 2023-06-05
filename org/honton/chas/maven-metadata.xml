@@ -42,6 +42,11 @@
       <artifactId>license-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>podman Repo Maven Plugin</name>
+      <prefix>podman</prefix>
+      <artifactId>podman-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Process execution maven plugin</name>
       <prefix>process-exec</prefix>
       <artifactId>process-exec-maven-plugin</artifactId>
