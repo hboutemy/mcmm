@@ -6,5 +6,10 @@
       <prefix>jooq-testcontainers-codegen</prefix>
       <artifactId>jooq-testcontainers-codegen-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>testcontainers-jooq-codegen-maven-plugin</name>
+      <prefix>testcontainers-jooq-codegen</prefix>
+      <artifactId>testcontainers-jooq-codegen-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

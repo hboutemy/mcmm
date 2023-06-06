@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>step-ee</prefix>
+      <artifactId>step-ee-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>step-os</prefix>
+      <artifactId>step-os-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
