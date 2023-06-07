@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>graphql-schema-linter-maven-plugin</name>
+      <prefix>graphql-schema-linter</prefix>
+      <artifactId>graphql-schema-linter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

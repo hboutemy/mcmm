@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Eclipse Smarthome Constants generator Maven Plugin</name>
+      <prefix>esh-constants</prefix>
+      <artifactId>esh-constants-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Helm Maven Plugin</name>
       <prefix>helm</prefix>
       <artifactId>helm-maven-plugin</artifactId>
