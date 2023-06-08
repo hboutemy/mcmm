@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Code Generation plugin</name>
       <prefix>kroxylicious-krpc</prefix>
       <artifactId>kroxylicious-krpc-plugin</artifactId>
     </plugin>

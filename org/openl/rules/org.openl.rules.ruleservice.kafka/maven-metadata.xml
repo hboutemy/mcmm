@@ -3,8 +3,8 @@
   <groupId>org.openl.rules</groupId>
   <artifactId>org.openl.rules.ruleservice.kafka</artifactId>
   <versioning>
-    <latest>5.26.8</latest>
-    <release>5.26.8</release>
+    <latest>5.26.9</latest>
+    <release>5.26.9</release>
     <versions>
       <version>5.23.0</version>
       <version>5.23.1</version>
@@ -63,7 +63,8 @@
       <version>5.26.6</version>
       <version>5.26.7</version>
       <version>5.26.8</version>
+      <version>5.26.9</version>
     </versions>
-    <lastUpdated>20230509152531</lastUpdated>
+    <lastUpdated>20230607101319</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-broker-shaded</artifactId>
   <versioning>
-    <latest>2.11.1.2</latest>
-    <release>2.11.1.2</release>
+    <latest>2.11.1.2-arrowstreet</latest>
+    <release>2.11.1.2-arrowstreet</release>
     <versions>
       <version>v2.8.0-rc-202106091140</version>
       <version>v2.8.0-rc-202106121853</version>
@@ -556,6 +556,7 @@
       <version>2.10.4.2-5ce22c</version>
       <version>2.10.4.3</version>
       <version>2.10.4.3-attentive</version>
+      <version>2.10.4.3-ht</version>
       <version>2.11.0.0-rc2</version>
       <version>2.11.0.0-rc3</version>
       <version>2.11.0.0-rc5</version>
@@ -593,7 +594,8 @@
       <version>2.11.1.0</version>
       <version>2.11.1.1</version>
       <version>2.11.1.2</version>
+      <version>2.11.1.2-arrowstreet</version>
     </versions>
-    <lastUpdated>20230606111954</lastUpdated>
+    <lastUpdated>20230607121034</lastUpdated>
   </versioning>
 </metadata>

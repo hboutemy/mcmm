@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-model-test-controller-optional</artifactId>
   <versioning>
-    <latest>21.0.0.Beta1</latest>
-    <release>21.0.0.Beta1</release>
+    <latest>21.0.0.Beta2</latest>
+    <release>21.0.0.Beta2</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -349,7 +349,8 @@
       <version>20.0.1.Final</version>
       <version>20.0.2.Final</version>
       <version>21.0.0.Beta1</version>
+      <version>21.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20230530172242</lastUpdated>
+    <lastUpdated>20230607134157</lastUpdated>
   </versioning>
 </metadata>

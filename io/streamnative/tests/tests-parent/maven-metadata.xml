@@ -6,6 +6,7 @@
     <latest>4.15.4.1_arrowstreet</latest>
     <release>4.15.4.1_arrowstreet</release>
     <versions>
+      <version>branch-4.14.7.1_d4</version>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
       <version>v2.8.0-rc-202106121853</version>
@@ -557,6 +558,7 @@
       <version>2.10.4.2-5ce22c</version>
       <version>2.10.4.3</version>
       <version>2.10.4.3-attentive</version>
+      <version>2.10.4.3-ht</version>
       <version>2.11.0.0-rc2</version>
       <version>2.11.0.0-rc3</version>
       <version>2.11.0.0-rc5</version>
@@ -594,6 +596,7 @@
       <version>2.11.1.0</version>
       <version>2.11.1.1</version>
       <version>2.11.1.2</version>
+      <version>2.11.1.2-arrowstreet</version>
       <version>3.0.0.1-rc1</version>
       <version>3.0.0.1</version>
       <version>3.0.0.2</version>
@@ -605,6 +608,6 @@
       <version>4.14.7.2-arrowstreet</version>
       <version>4.15.4.1_arrowstreet</version>
     </versions>
-    <lastUpdated>20230606112114</lastUpdated>
+    <lastUpdated>20230607123419</lastUpdated>
   </versioning>
 </metadata>

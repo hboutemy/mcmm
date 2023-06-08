@@ -3,8 +3,8 @@
   <groupId>org.apache.hbase</groupId>
   <artifactId>hbase-checkstyle</artifactId>
   <versioning>
-    <latest>3.0.0-alpha-3</latest>
-    <release>3.0.0-alpha-3</release>
+    <latest>3.0.0-alpha-4</latest>
+    <release>3.0.0-alpha-4</release>
     <versions>
       <version>0.98.8-hadoop1</version>
       <version>0.98.8-hadoop2</version>
@@ -178,7 +178,8 @@
       <version>3.0.0-alpha-1</version>
       <version>3.0.0-alpha-2</version>
       <version>3.0.0-alpha-3</version>
+      <version>3.0.0-alpha-4</version>
     </versions>
-    <lastUpdated>20230415005848</lastUpdated>
+    <lastUpdated>20230607140943</lastUpdated>
   </versioning>
 </metadata>
