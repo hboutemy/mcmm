@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.currency.api</artifactId>
   <versioning>
-    <latest>11.0.3</latest>
+    <latest>14.0.0</latest>
     <release>14.0.0</release>
     <versions>
       <version>1.0.0</version>
@@ -64,6 +64,8 @@
       <version>7.2.1</version>
       <version>7.2.2</version>
       <version>7.2.3</version>
+      <version>7.3.0</version>
+      <version>7.4.0</version>
       <version>8.0.0</version>
       <version>8.1.0</version>
       <version>8.1.1</version>
@@ -82,11 +84,9 @@
       <version>11.1.0</version>
       <version>12.0.0</version>
       <version>13.0.0</version>
-      <version>7.3.0</version>
       <version>13.1.0</version>
-      <version>7.4.0</version>
       <version>14.0.0</version>
     </versions>
-    <lastUpdated>20230601173638</lastUpdated>
+    <lastUpdated>20230608135221</lastUpdated>
   </versioning>
 </metadata>

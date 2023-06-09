@@ -3,8 +3,8 @@
   <groupId>com.google.guava</groupId>
   <artifactId>guava-bom</artifactId>
   <versioning>
-    <latest>32.0.0-jre</latest>
-    <release>32.0.0-jre</release>
+    <latest>32.0.1-jre</latest>
+    <release>32.0.1-jre</release>
     <versions>
       <version>27.1-android</version>
       <version>27.1-jre</version>
@@ -30,7 +30,9 @@
       <version>31.1-jre</version>
       <version>32.0.0-android</version>
       <version>32.0.0-jre</version>
+      <version>32.0.1-android</version>
+      <version>32.0.1-jre</version>
     </versions>
-    <lastUpdated>20230526233300</lastUpdated>
+    <lastUpdated>20230608233000</lastUpdated>
   </versioning>
 </metadata>

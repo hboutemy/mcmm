@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Apache James :: Mailetdocs Maven Plugin</name>
+      <name>Apache James :: Mailet :: Docs Maven Plugin</name>
       <prefix>mailetdocs</prefix>
       <artifactId>mailetdocs-maven-plugin</artifactId>
     </plugin>
@@ -17,7 +17,7 @@
       <artifactId>maven-mpt-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache James MPT Maven2 Plugin</name>
+      <name>Apache James :: MPT :: Maven2 Plugin</name>
       <prefix>mpt</prefix>
       <artifactId>mpt-maven-plugin</artifactId>
     </plugin>

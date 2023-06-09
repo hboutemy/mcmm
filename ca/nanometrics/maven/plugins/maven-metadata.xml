@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>${project.groupId}:${project.artifactId}</name>
+      <name>ca.nanometrics.maven.plugins:testtime-maven-plugin</name>
       <prefix>testtime</prefix>
       <artifactId>testtime-maven-plugin</artifactId>
     </plugin>

@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
   <versioning>
-    <latest>8.8.0</latest>
-    <release>8.8.0</release>
+    <latest>8.8.1</latest>
+    <release>8.8.1</release>
     <versions>
       <version>0.6.0</version>
       <version>0.7.0</version>
@@ -364,7 +364,8 @@
       <version>8.7.0</version>
       <version>8.7.1</version>
       <version>8.8.0</version>
+      <version>8.8.1</version>
     </versions>
-    <lastUpdated>20230525091425</lastUpdated>
+    <lastUpdated>20230608093158</lastUpdated>
   </versioning>
 </metadata>
