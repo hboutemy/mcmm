@@ -42,7 +42,7 @@
       <artifactId>license-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>podman Repo Maven Plugin</name>
+      <name>Podman Maven Plugin</name>
       <prefix>podman</prefix>
       <artifactId>podman-maven-plugin</artifactId>
     </plugin>
