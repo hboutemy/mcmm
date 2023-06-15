@@ -3,8 +3,8 @@
   <groupId>org.scalatra</groupId>
   <artifactId>scalatra-metrics_2.13</artifactId>
   <versioning>
-    <latest>3.0.0-M4</latest>
-    <release>3.0.0-M4</release>
+    <latest>3.0.0-M4-jakarta</latest>
+    <release>3.0.0-M4-jakarta</release>
     <versions>
       <version>2.7.0-RC1</version>
       <version>2.7.0</version>
@@ -18,7 +18,8 @@
       <version>3.0.0-M2</version>
       <version>3.0.0-M3</version>
       <version>3.0.0-M4</version>
+      <version>3.0.0-M4-jakarta</version>
     </versions>
-    <lastUpdated>20230607132153</lastUpdated>
+    <lastUpdated>20230611132516</lastUpdated>
   </versioning>
 </metadata>
