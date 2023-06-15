@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-infinispan-embedded</artifactId>
   <versioning>
-    <latest>28.0.1.Final</latest>
-    <release>28.0.1.Final</release>
+    <latest>29.0.0.Alpha1</latest>
+    <release>29.0.0.Alpha1</release>
     <versions>
       <version>27.0.0.Alpha1</version>
       <version>27.0.0.Alpha2</version>
@@ -17,7 +17,8 @@
       <version>28.0.0.Beta1</version>
       <version>28.0.0.Final</version>
       <version>28.0.1.Final</version>
+      <version>29.0.0.Alpha1</version>
     </versions>
-    <lastUpdated>20230518201352</lastUpdated>
+    <lastUpdated>20230612193745</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-shared-asyncapi</artifactId>
   <versioning>
-    <latest>4.3.10</latest>
-    <release>4.3.10</release>
+    <latest>4.3.12</latest>
+    <release>4.3.12</release>
     <versions>
       <version>0.82.0</version>
       <version>0.82.1</version>
@@ -638,6 +638,10 @@
       <version>2.64.50</version>
       <version>2.64.51</version>
       <version>2.64.52</version>
+      <version>2.64.53</version>
+      <version>2.64.54</version>
+      <version>2.64.55</version>
+      <version>2.64.56</version>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
       <version>3.0.0-rc.1</version>
@@ -717,7 +721,9 @@
       <version>4.3.8</version>
       <version>4.3.9</version>
       <version>4.3.10</version>
+      <version>4.3.11</version>
+      <version>4.3.12</version>
     </versions>
-    <lastUpdated>20230609123856</lastUpdated>
+    <lastUpdated>20230612154102</lastUpdated>
   </versioning>
 </metadata>

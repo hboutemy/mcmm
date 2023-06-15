@@ -3,9 +3,10 @@
   <groupId>com.soywiz.korge</groupId>
   <artifactId>com.soywiz.korge.gradle.plugin</artifactId>
   <versioning>
-    <latest>4.0.4-dev-1.9.20-2914</latest>
-    <release>4.0.4-dev-1.9.20-2914</release>
+    <latest>4.0.5a</latest>
+    <release>4.0.5a</release>
     <versions>
+      <version>z4.0.5a</version>
       <version>3.0.0-Beta3</version>
       <version>3.0.0-Beta4</version>
       <version>3.0.0-Beta5</version>
@@ -37,7 +38,9 @@
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4-dev-1.9.20-2914</version>
+      <version>4.0.5</version>
+      <version>4.0.5a</version>
     </versions>
-    <lastUpdated>20230604000715</lastUpdated>
+    <lastUpdated>20230612133351</lastUpdated>
   </versioning>
 </metadata>
