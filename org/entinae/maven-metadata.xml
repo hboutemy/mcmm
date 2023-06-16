@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Coveralls.io Maven Plugin</name>
+      <prefix>coverallsio</prefix>
+      <artifactId>coverallsio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Javadoc.io Maven Plugin</name>
+      <prefix>javadocio</prefix>
+      <artifactId>javadocio-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

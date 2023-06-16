@@ -3,8 +3,8 @@
   <groupId>com.oracle.oci.sdk</groupId>
   <artifactId>oci-java-sdk-functions</artifactId>
   <versioning>
-    <latest>3.16.1</latest>
-    <release>3.16.1</release>
+    <latest>3.17.0</latest>
+    <release>3.17.0</release>
     <versions>
       <version>1.5.14</version>
       <version>1.5.15</version>
@@ -182,6 +182,7 @@
       <version>2.63.0</version>
       <version>2.64.0</version>
       <version>2.64.1</version>
+      <version>2.65.0</version>
       <version>3.0.0-beta1</version>
       <version>3.0.0-beta2</version>
       <version>3.0.0</version>
@@ -209,8 +210,9 @@
       <version>3.15.0</version>
       <version>3.16.0</version>
       <version>3.16.1</version>
+      <version>3.17.0</version>
       <version>1.30.1</version>
     </versions>
-    <lastUpdated>20230606163601</lastUpdated>
+    <lastUpdated>20230613171621</lastUpdated>
   </versioning>
 </metadata>
