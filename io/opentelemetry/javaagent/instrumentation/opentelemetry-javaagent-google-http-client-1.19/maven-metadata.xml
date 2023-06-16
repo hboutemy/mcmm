@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-google-http-client-1.19</artifactId>
   <versioning>
-    <latest>1.26.0-alpha</latest>
-    <release>1.26.0-alpha</release>
+    <latest>1.27.0-alpha</latest>
+    <release>1.27.0-alpha</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -65,7 +65,8 @@
       <version>1.25.0-alpha</version>
       <version>1.25.1-alpha</version>
       <version>1.26.0-alpha</version>
+      <version>1.27.0-alpha</version>
     </versions>
-    <lastUpdated>20230511100115</lastUpdated>
+    <lastUpdated>20230614194543</lastUpdated>
   </versioning>
 </metadata>

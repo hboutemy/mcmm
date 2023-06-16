@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>integrationtests-security-manager</artifactId>
   <versioning>
-    <latest>14.0.10.Final</latest>
-    <release>14.0.10.Final</release>
+    <latest>14.0.11.Final</latest>
+    <release>14.0.11.Final</release>
     <versions>
       <version>7.0.0.Alpha3</version>
       <version>7.0.0.Alpha4</version>
@@ -269,8 +269,9 @@
       <version>14.0.8.Final</version>
       <version>14.0.9.Final</version>
       <version>14.0.10.Final</version>
+      <version>14.0.11.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20230607124426</lastUpdated>
+    <lastUpdated>20230614133359</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>name.remal.gradle-plugins.sonarlint</groupId>
   <artifactId>sonarlint-bom</artifactId>
   <versioning>
-    <latest>3.2.2</latest>
-    <release>3.2.2</release>
+    <latest>3.2.3</latest>
+    <release>3.2.3</release>
     <versions>
       <version>2.0.0-rc-1</version>
       <version>2.0.0-rc-2</version>
@@ -34,7 +34,8 @@
       <version>3.2.0</version>
       <version>3.2.1</version>
       <version>3.2.2</version>
+      <version>3.2.3</version>
     </versions>
-    <lastUpdated>20230531083835</lastUpdated>
+    <lastUpdated>20230614083838</lastUpdated>
   </versioning>
 </metadata>

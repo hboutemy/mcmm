@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-couchbase-3.2</artifactId>
   <versioning>
-    <latest>1.26.0-alpha</latest>
-    <release>1.26.0-alpha</release>
+    <latest>1.27.0-alpha</latest>
+    <release>1.27.0-alpha</release>
     <versions>
       <version>1.4.1-alpha</version>
       <version>1.5.0-alpha</version>
@@ -48,7 +48,8 @@
       <version>1.25.0-alpha</version>
       <version>1.25.1-alpha</version>
       <version>1.26.0-alpha</version>
+      <version>1.27.0-alpha</version>
     </versions>
-    <lastUpdated>20230511100044</lastUpdated>
+    <lastUpdated>20230614194510</lastUpdated>
   </versioning>
 </metadata>

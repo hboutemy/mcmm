@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-elasticsearch-index</artifactId>
   <versioning>
-    <latest>13.6</latest>
-    <release>13.6</release>
+    <latest>13.7</latest>
+    <release>13.7</release>
     <versions>
       <version>10.0</version>
       <version>10.1</version>
@@ -46,7 +46,8 @@
       <version>13.2</version>
       <version>13.4</version>
       <version>13.6</version>
+      <version>13.7</version>
     </versions>
-    <lastUpdated>20230526154513</lastUpdated>
+    <lastUpdated>20230614164152</lastUpdated>
   </versioning>
 </metadata>
