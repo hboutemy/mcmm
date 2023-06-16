@@ -11,5 +11,11 @@
       <prefix>pf4jgenerator</prefix>
       <artifactId>pf4j-plugin-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>Updates XML Merger - Merge the Install4J updates.xml file from several
+		builds into a single file.</name>
+      <prefix>updatesxmlmerger</prefix>
+      <artifactId>updatesxmlmerger-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

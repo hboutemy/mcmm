@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck</artifactId>
   <versioning>
-    <latest>4.14.0-rc1-20230606</latest>
-    <release>4.14.0-rc1-20230606</release>
+    <latest>4.14.0-20230615</latest>
+    <release>4.14.0-20230615</release>
     <versions>
       <version>3.0.0-alpha1</version>
       <version>3.0.0-20180727</version>
@@ -159,7 +159,8 @@
       <version>4.12.0-rc1-20230406</version>
       <version>4.13.0-20230515</version>
       <version>4.14.0-rc1-20230606</version>
+      <version>4.14.0-20230615</version>
     </versions>
-    <lastUpdated>20230606164142</lastUpdated>
+    <lastUpdated>20230615220601</lastUpdated>
   </versioning>
 </metadata>
