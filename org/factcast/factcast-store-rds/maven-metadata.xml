@@ -3,8 +3,8 @@
   <groupId>org.factcast</groupId>
   <artifactId>factcast-store-rds</artifactId>
   <versioning>
-    <latest>0.6.6</latest>
-    <release>0.6.6</release>
+    <latest>0.6.7.1</latest>
+    <release>0.6.7.1</release>
     <versions>
       <version>0.4.0-RC1</version>
       <version>0.4.0-RC2</version>
@@ -39,7 +39,9 @@
       <version>0.6.4</version>
       <version>0.6.5</version>
       <version>0.6.6</version>
+      <version>0.6.7</version>
+      <version>0.6.7.1</version>
     </versions>
-    <lastUpdated>20230519115332</lastUpdated>
+    <lastUpdated>20230616150805</lastUpdated>
   </versioning>
 </metadata>

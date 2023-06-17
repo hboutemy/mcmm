@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>cloudamqp</artifactId>
   <versioning>
-    <latest>3.15.0-alpha.1686861348+9bae4515</latest>
-    <release>3.15.0-alpha.1686861348+9bae4515</release>
+    <latest>3.15.0</latest>
+    <release>3.15.0</release>
     <versions>
       <version>3.9.1</version>
       <version>3.9.2</version>
@@ -46,7 +46,10 @@
       <version>3.15.0-alpha.1686288010+3c7019ff</version>
       <version>3.15.0-alpha.1686633620+a242b43e</version>
       <version>3.15.0-alpha.1686861348+9bae4515</version>
+      <version>3.15.0-alpha.1686935752+d45c66a8</version>
+      <version>3.15.0-alpha.1686935763+99d63aa8</version>
+      <version>3.15.0</version>
     </versions>
-    <lastUpdated>20230615205804</lastUpdated>
+    <lastUpdated>20230616180420</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jkube.kubernetes</groupId>
   <artifactId>org.eclipse.jkube.kubernetes.gradle.plugin</artifactId>
   <versioning>
-    <latest>1.13.0</latest>
-    <release>1.13.0</release>
+    <latest>1.13.1</latest>
+    <release>1.13.1</release>
     <versions>
       <version>1.5.0</version>
       <version>1.5.1</version>
@@ -18,7 +18,8 @@
       <version>1.11.0</version>
       <version>1.12.0</version>
       <version>1.13.0</version>
+      <version>1.13.1</version>
     </versions>
-    <lastUpdated>20230614071424</lastUpdated>
+    <lastUpdated>20230616085233</lastUpdated>
   </versioning>
 </metadata>

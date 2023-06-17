@@ -3,8 +3,8 @@
   <groupId>com.netflix.graphql.dgs.codegen</groupId>
   <artifactId>graphql-dgs-codegen-gradle</artifactId>
   <versioning>
-    <latest>5.11.1</latest>
-    <release>5.11.1</release>
+    <latest>5.12.1</latest>
+    <release>5.12.1</release>
     <versions>
       <version>4.3.2</version>
       <version>4.3.3</version>
@@ -71,7 +71,8 @@
       <version>5.10.0</version>
       <version>5.11.0</version>
       <version>5.11.1</version>
+      <version>5.12.1</version>
     </versions>
-    <lastUpdated>20230601210502</lastUpdated>
+    <lastUpdated>20230616155343</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>aws-native</artifactId>
   <versioning>
-    <latest>0.65.0</latest>
-    <release>0.65.0</release>
+    <latest>0.66.0</latest>
+    <release>0.66.0</release>
     <versions>
       <version>0.16.1</version>
       <version>0.20.1-alpha.1661286973+74e59199</version>
@@ -112,7 +112,11 @@
       <version>0.63.1-alpha.1685674981+11dfb004</version>
       <version>0.64.0</version>
       <version>0.65.0</version>
+      <version>0.65.1-alpha.1686930315+a422d82c</version>
+      <version>0.65.1-alpha.1686931228+2172ccd8</version>
+      <version>0.65.1-alpha.1686933559+edab1d6f</version>
+      <version>0.66.0</version>
     </versions>
-    <lastUpdated>20230607134043</lastUpdated>
+    <lastUpdated>20230616201256</lastUpdated>
   </versioning>
 </metadata>
