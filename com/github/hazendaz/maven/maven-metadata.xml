@@ -26,5 +26,10 @@
       <prefix>whitespace</prefix>
       <artifactId>whitespace-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>YUI Compressor Maven Mojo</name>
+      <prefix>yuicompressor</prefix>
+      <artifactId>yuicompressor-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

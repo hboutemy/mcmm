@@ -3,8 +3,8 @@
   <groupId>com.yungnickyoung.minecraft.yungsapi</groupId>
   <artifactId>YungsApi</artifactId>
   <versioning>
-    <latest>1.19.4-Forge-3.10.1</latest>
-    <release>1.19.4-Forge-3.10.1</release>
+    <latest>1.20-Forge-4.0</latest>
+    <release>1.20-Forge-4.0</release>
     <versions>
       <version>Common-1.18.2-2.0</version>
       <version>Fabric-1.18.2-2.0</version>
@@ -201,7 +201,10 @@
       <version>1.19.4-Fabric-3.10.1</version>
       <version>1.19.4-Forge-3.10.0</version>
       <version>1.19.4-Forge-3.10.1</version>
+      <version>1.20-Common-4.0</version>
+      <version>1.20-Fabric-4.0</version>
+      <version>1.20-Forge-4.0</version>
     </versions>
-    <lastUpdated>20230324003132</lastUpdated>
+    <lastUpdated>20230617012451</lastUpdated>
   </versioning>
 </metadata>
