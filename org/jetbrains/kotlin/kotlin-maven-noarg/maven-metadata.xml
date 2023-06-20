@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-maven-noarg</artifactId>
   <versioning>
-    <latest>1.9.0-Beta</latest>
-    <release>1.9.0-Beta</release>
+    <latest>1.9.0-RC</latest>
+    <release>1.9.0-RC</release>
     <versions>
       <version>1.0.6</version>
       <version>1.0.7</version>
@@ -116,7 +116,8 @@
       <version>1.8.21</version>
       <version>1.8.22</version>
       <version>1.9.0-Beta</version>
+      <version>1.9.0-RC</version>
     </versions>
-    <lastUpdated>20230607190158</lastUpdated>
+    <lastUpdated>20230619142934</lastUpdated>
   </versioning>
 </metadata>

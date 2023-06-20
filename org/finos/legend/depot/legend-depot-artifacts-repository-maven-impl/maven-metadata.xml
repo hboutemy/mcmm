@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.depot</groupId>
   <artifactId>legend-depot-artifacts-repository-maven-impl</artifactId>
   <versioning>
-    <latest>1.16.6</latest>
-    <release>1.16.6</release>
+    <latest>1.17.0</latest>
+    <release>1.17.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -92,7 +92,10 @@
       <version>1.16.3</version>
       <version>1.16.4</version>
       <version>1.16.6</version>
+      <version>1.16.7</version>
+      <version>1.16.8</version>
+      <version>1.17.0</version>
     </versions>
-    <lastUpdated>20230613092520</lastUpdated>
+    <lastUpdated>20230619205511</lastUpdated>
   </versioning>
 </metadata>
