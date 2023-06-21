@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>SpotBugs Maven Plugin</name>
+      <name>spotbugs-maven-plugin</name>
       <prefix>spotbugs</prefix>
       <artifactId>spotbugs-maven-plugin</artifactId>
     </plugin>

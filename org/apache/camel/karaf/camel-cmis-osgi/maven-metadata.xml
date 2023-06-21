@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.karaf</groupId>
   <artifactId>camel-cmis-osgi</artifactId>
   <versioning>
-    <latest>3.20.5</latest>
-    <release>3.20.5</release>
+    <latest>3.20.6</latest>
+    <release>3.20.6</release>
     <versions>
       <version>3.11.0</version>
       <version>3.11.1</version>
@@ -45,7 +45,8 @@
       <version>3.20.3</version>
       <version>3.20.4</version>
       <version>3.20.5</version>
+      <version>3.20.6</version>
     </versions>
-    <lastUpdated>20230619121215</lastUpdated>
+    <lastUpdated>20230620060018</lastUpdated>
   </versioning>
 </metadata>
