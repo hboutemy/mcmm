@@ -3,8 +3,8 @@
   <groupId>org.apache.logging.log4j</groupId>
   <artifactId>log4j-spring-cloud-config-client</artifactId>
   <versioning>
-    <latest>2.20.0</latest>
-    <release>2.20.0</release>
+    <latest>3.0.0-alpha1</latest>
+    <release>3.0.0-alpha1</release>
     <versions>
       <version>2.12.0</version>
       <version>2.12.1</version>
@@ -25,7 +25,8 @@
       <version>2.18.0</version>
       <version>2.19.0</version>
       <version>2.20.0</version>
+      <version>3.0.0-alpha1</version>
     </versions>
-    <lastUpdated>20230221065229</lastUpdated>
+    <lastUpdated>20230621052300</lastUpdated>
   </versioning>
 </metadata>

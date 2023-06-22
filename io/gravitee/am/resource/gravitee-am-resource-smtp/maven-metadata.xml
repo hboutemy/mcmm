@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.resource</groupId>
   <artifactId>gravitee-am-resource-smtp</artifactId>
   <versioning>
-    <latest>3.21.1</latest>
-    <release>3.21.1</release>
+    <latest>3.21.2</latest>
+    <release>3.21.2</release>
     <versions>
       <version>3.8.0</version>
       <version>3.8.1</version>
@@ -143,7 +143,8 @@
       <version>3.21.0-alpha.5</version>
       <version>3.21.0</version>
       <version>3.21.1</version>
+      <version>3.21.2</version>
     </versions>
-    <lastUpdated>20230608153119</lastUpdated>
+    <lastUpdated>20230621114519</lastUpdated>
   </versioning>
 </metadata>

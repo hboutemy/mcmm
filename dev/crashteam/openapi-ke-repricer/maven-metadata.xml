@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-ke-repricer</artifactId>
   <versioning>
-    <latest>1.50-bcd91ed-server</latest>
-    <release>1.50-bcd91ed-server</release>
+    <latest>1.52-cb442aa-server</latest>
+    <release>1.52-cb442aa-server</release>
     <versions>
       <version>1.3-4883df9-client</version>
       <version>1.3-4883df9-server</version>
@@ -82,7 +82,11 @@
       <version>1.49-d8025ee-server</version>
       <version>1.50-bcd91ed-client</version>
       <version>1.50-bcd91ed-server</version>
+      <version>1.51-b43ff8e-client</version>
+      <version>1.51-b43ff8e-server</version>
+      <version>1.52-cb442aa-client</version>
+      <version>1.52-cb442aa-server</version>
     </versions>
-    <lastUpdated>20230528105420</lastUpdated>
+    <lastUpdated>20230621182030</lastUpdated>
   </versioning>
 </metadata>

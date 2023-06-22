@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Dependency Metrics Maven Plugin</name>
+      <name>Dependency Metrics Maven Plugin ${project.version}</name>
       <prefix>depmeter</prefix>
       <artifactId>depmeter-maven-plugin</artifactId>
     </plugin>
