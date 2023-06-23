@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-servlet-jakarta</artifactId>
   <versioning>
-    <latest>6.23.0</latest>
-    <release>6.23.0</release>
+    <latest>6.24.0</latest>
+    <release>6.24.0</release>
     <versions>
       <version>6.0.0-alpha.6</version>
       <version>6.0.0-beta.1</version>
@@ -58,7 +58,8 @@
       <version>6.21.0</version>
       <version>6.22.0</version>
       <version>6.23.0</version>
+      <version>6.24.0</version>
     </versions>
-    <lastUpdated>20230615114711</lastUpdated>
+    <lastUpdated>20230622144951</lastUpdated>
   </versioning>
 </metadata>

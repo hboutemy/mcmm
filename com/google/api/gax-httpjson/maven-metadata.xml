@@ -3,8 +3,8 @@
   <groupId>com.google.api</groupId>
   <artifactId>gax-httpjson</artifactId>
   <versioning>
-    <latest>0.114.0</latest>
-    <release>0.114.0</release>
+    <latest>2.30.0</latest>
+    <release>2.30.0</release>
     <versions>
       <version>0.82.0</version>
       <version>0.82.1</version>
@@ -63,6 +63,7 @@
       <version>0.113.0</version>
       <version>0.113.1</version>
       <version>0.114.0</version>
+      <version>2.30.0</version>
       <version>0.28.0</version>
       <version>0.29.0</version>
       <version>0.30.0</version>
@@ -134,6 +135,6 @@
       <version>0.81.0</version>
       <version>0.81.0-sp.1</version>
     </versions>
-    <lastUpdated>20230606223351</lastUpdated>
+    <lastUpdated>20230622135517</lastUpdated>
   </versioning>
 </metadata>

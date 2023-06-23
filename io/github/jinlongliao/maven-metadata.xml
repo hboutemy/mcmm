@@ -3,6 +3,10 @@
   <plugins>
     <plugin>
       <prefix>generator</prefix>
+      <artifactId>maven-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>generator</prefix>
       <artifactId>maven-generator-plugin</artifactId>
     </plugin>
   </plugins>
