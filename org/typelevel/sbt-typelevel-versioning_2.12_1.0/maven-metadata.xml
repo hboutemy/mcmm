@@ -3,11 +3,12 @@
   <groupId>org.typelevel</groupId>
   <artifactId>sbt-typelevel-versioning_2.12_1.0</artifactId>
   <versioning>
-    <latest>0.5.0-RC2</latest>
-    <release>0.5.0-RC2</release>
+    <latest>0.5.0-RC3</latest>
+    <release>0.5.0-RC3</release>
     <versions>
       <version>0.5.0-RC1</version>
       <version>0.5.0-RC2</version>
+      <version>0.5.0-RC3</version>
       <version>0.4.0</version>
       <version>0.4.0-M1</version>
       <version>0.4.0-M2</version>
@@ -47,6 +48,6 @@
       <version>0.5.0-M8</version>
       <version>0.5.0-M9</version>
     </versions>
-    <lastUpdated>20230622065248</lastUpdated>
+    <lastUpdated>20230623202250</lastUpdated>
   </versioning>
 </metadata>

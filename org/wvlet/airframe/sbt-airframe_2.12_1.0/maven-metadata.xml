@@ -3,12 +3,13 @@
   <groupId>org.wvlet.airframe</groupId>
   <artifactId>sbt-airframe_2.12_1.0</artifactId>
   <versioning>
-    <latest>23.6.1</latest>
-    <release>23.6.1</release>
+    <latest>23.6.2</latest>
+    <release>23.6.2</release>
     <versions>
       <version>23.5.7</version>
       <version>23.6.0</version>
       <version>23.6.1</version>
+      <version>23.6.2</version>
       <version>20.10.0</version>
       <version>20.10.1</version>
       <version>20.10.2</version>
@@ -125,6 +126,6 @@
       <version>23.5.5</version>
       <version>23.5.6</version>
     </versions>
-    <lastUpdated>20230616212017</lastUpdated>
+    <lastUpdated>20230623005912</lastUpdated>
   </versioning>
 </metadata>
