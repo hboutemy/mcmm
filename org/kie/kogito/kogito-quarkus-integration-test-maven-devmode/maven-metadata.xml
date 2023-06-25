@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-quarkus-integration-test-maven-devmode</artifactId>
   <versioning>
-    <latest>1.40.0.Final</latest>
-    <release>1.40.0.Final</release>
+    <latest>1.40.1.Final</latest>
+    <release>1.40.1.Final</release>
     <versions>
       <version>1.4.0.Final</version>
       <version>1.4.1.Final</version>
@@ -52,7 +52,8 @@
       <version>1.38.0.Final</version>
       <version>1.39.0.Final</version>
       <version>1.40.0.Final</version>
+      <version>1.40.1.Final</version>
     </versions>
-    <lastUpdated>20230616190316</lastUpdated>
+    <lastUpdated>20230624112123</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Substitute values in feature files from Yaml</name>
+      <prefix>yaml2feature</prefix>
+      <artifactId>yaml2feature-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

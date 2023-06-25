@@ -3,8 +3,8 @@
   <groupId>io.streamnative.tests</groupId>
   <artifactId>pulsar-client-admin-shade-test</artifactId>
   <versioning>
-    <latest>3.0.0.2</latest>
-    <release>3.0.0.2</release>
+    <latest>3.0.0.3</latest>
+    <release>3.0.0.3</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -598,7 +598,8 @@
       <version>3.0.0.1-rc1</version>
       <version>3.0.0.1</version>
       <version>3.0.0.2</version>
+      <version>3.0.0.3</version>
     </versions>
-    <lastUpdated>20230620102951</lastUpdated>
+    <lastUpdated>20230624065123</lastUpdated>
   </versioning>
 </metadata>

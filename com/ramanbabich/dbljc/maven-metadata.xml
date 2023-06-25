@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>marialjc</prefix>
+      <artifactId>marialjc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>mysqlljc</prefix>
+      <artifactId>mysqlljc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>pgljc</prefix>
+      <artifactId>pgljc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-quarkus-norest</artifactId>
   <versioning>
-    <latest>1.40.0.Final</latest>
-    <release>1.40.0.Final</release>
+    <latest>1.40.1.Final</latest>
+    <release>1.40.1.Final</release>
     <versions>
       <version>1.6.0.Final</version>
       <version>1.7.0.Final</version>
@@ -49,7 +49,8 @@
       <version>1.38.0.Final</version>
       <version>1.39.0.Final</version>
       <version>1.40.0.Final</version>
+      <version>1.40.1.Final</version>
     </versions>
-    <lastUpdated>20230616190209</lastUpdated>
+    <lastUpdated>20230624112025</lastUpdated>
   </versioning>
 </metadata>
