@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-node</artifactId>
   <versioning>
-    <latest>18.16.12-pre.573</latest>
-    <release>18.16.12-pre.573</release>
+    <latest>18.16.12-pre.574-compat</latest>
+    <release>18.16.12-pre.574-compat</release>
     <versions>
       <version>17.0.16-pre.295-kotlin-1.6.10</version>
       <version>17.0.16-pre.296-kotlin-1.6.10</version>
@@ -326,7 +326,9 @@
       <version>18.16.12-pre.571</version>
       <version>18.16.12-pre.572</version>
       <version>18.16.12-pre.573</version>
+      <version>18.16.12-pre.574</version>
+      <version>18.16.12-pre.574-compat</version>
     </versions>
-    <lastUpdated>20230624073237</lastUpdated>
+    <lastUpdated>20230625165407</lastUpdated>
   </versioning>
 </metadata>

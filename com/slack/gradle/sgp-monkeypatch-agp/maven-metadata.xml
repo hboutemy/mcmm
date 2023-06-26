@@ -3,8 +3,8 @@
   <groupId>com.slack.gradle</groupId>
   <artifactId>sgp-monkeypatch-agp</artifactId>
   <versioning>
-    <latest>0.9.13</latest>
-    <release>0.9.13</release>
+    <latest>0.9.14-1.9.0-RC</latest>
+    <release>0.9.14-1.9.0-RC</release>
     <versions>
       <version>0.5.0</version>
       <version>0.5.1</version>
@@ -57,7 +57,9 @@
       <version>0.9.11</version>
       <version>0.9.12</version>
       <version>0.9.13</version>
+      <version>0.9.14</version>
+      <version>0.9.14-1.9.0-RC</version>
     </versions>
-    <lastUpdated>20230624213213</lastUpdated>
+    <lastUpdated>20230625190204</lastUpdated>
   </versioning>
 </metadata>

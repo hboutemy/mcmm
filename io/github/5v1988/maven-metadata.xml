@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Feature file token transformer</name>
+      <prefix>bdd-transform-values</prefix>
+      <artifactId>bdd-transform-values-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Substitute values in feature files from Yaml</name>
       <prefix>yaml2feature</prefix>
       <artifactId>yaml2feature-maven-plugin</artifactId>
