@@ -2,7 +2,8 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Maven Plugin to deploy Faktor-IPS Product Data with the remote Deployment API</name>
+      <name>Maven Plugin to deploy Faktor-IPS Product Data with the remote
+        Deployment API</name>
       <prefix>productdata-jpa-deployment</prefix>
       <artifactId>productdata-jpa-deployment-maven-plugin</artifactId>
     </plugin>

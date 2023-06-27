@@ -3,8 +3,8 @@
   <groupId>org.liquibase.ext</groupId>
   <artifactId>liquibase-modify-column</artifactId>
   <versioning>
-    <latest>4.22.0</latest>
-    <release>4.22.0</release>
+    <latest>4.23.0</latest>
+    <release>4.23.0</release>
     <versions>
       <version>3.0</version>
       <version>3.1</version>
@@ -53,7 +53,8 @@
       <version>4.21.0</version>
       <version>4.21.1</version>
       <version>4.22.0</version>
+      <version>4.23.0</version>
     </versions>
-    <lastUpdated>20230511231659</lastUpdated>
+    <lastUpdated>20230626201432</lastUpdated>
   </versioning>
 </metadata>
