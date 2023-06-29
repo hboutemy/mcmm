@@ -3,8 +3,8 @@
   <groupId>org.rocksdb</groupId>
   <artifactId>rocksdbjni</artifactId>
   <versioning>
-    <latest>8.1.1.1</latest>
-    <release>8.1.1.1</release>
+    <latest>8.3.2</latest>
+    <release>8.3.2</release>
     <versions>
       <version>3.5.0</version>
       <version>3.5.1</version>
@@ -117,8 +117,9 @@
       <version>8.0.0</version>
       <version>8.1.1</version>
       <version>8.1.1.1</version>
+      <version>8.3.2</version>
       <version>4.1.0</version>
     </versions>
-    <lastUpdated>20230430092110</lastUpdated>
+    <lastUpdated>20230628123856</lastUpdated>
   </versioning>
 </metadata>

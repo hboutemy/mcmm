@@ -17,5 +17,9 @@
       <prefix>ae-mirror</prefix>
       <artifactId>ae-mirror-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>ae-tmd-packaging</prefix>
+      <artifactId>ae-tmd-packaging-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

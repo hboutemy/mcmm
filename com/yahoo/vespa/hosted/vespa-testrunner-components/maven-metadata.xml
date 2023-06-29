@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa.hosted</groupId>
   <artifactId>vespa-testrunner-components</artifactId>
   <versioning>
-    <latest>8.184.20</latest>
-    <release>8.184.20</release>
+    <latest>8.185.14</latest>
+    <release>8.185.14</release>
     <versions>
       <version>7.32.81</version>
       <version>7.34.16</version>
@@ -524,7 +524,8 @@
       <version>8.181.15</version>
       <version>8.183.1</version>
       <version>8.184.20</version>
+      <version>8.185.14</version>
     </versions>
-    <lastUpdated>20230627182406</lastUpdated>
+    <lastUpdated>20230628163210</lastUpdated>
   </versioning>
 </metadata>

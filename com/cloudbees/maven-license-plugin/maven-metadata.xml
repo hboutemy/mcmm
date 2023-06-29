@@ -3,8 +3,8 @@
   <groupId>com.cloudbees</groupId>
   <artifactId>maven-license-plugin</artifactId>
   <versioning>
-    <latest>1.15</latest>
-    <release>1.15</release>
+    <latest>1.17</latest>
+    <release>1.17</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -18,7 +18,9 @@
       <version>1.10</version>
       <version>1.12</version>
       <version>1.15</version>
+      <version>1.16</version>
+      <version>1.17</version>
     </versions>
-    <lastUpdated>20221023134645</lastUpdated>
+    <lastUpdated>20230628204210</lastUpdated>
   </versioning>
 </metadata>

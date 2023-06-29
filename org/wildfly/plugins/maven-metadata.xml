@@ -2,29 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <prefix>wildfly-bom-builder</prefix>
-      <artifactId>wildfly-bom-builder-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <name>WildFly Bootable Jar Maven Plugin</name>
-      <prefix>wildfly-bootable-jar</prefix>
-      <artifactId>wildfly-bootable-jar-maven-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <prefix>wildfly-component-matrix</prefix>
-      <artifactId>wildfly-component-matrix-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <name>Wildfly Extension Installer Maven Plugin</name>
-      <prefix>wildfly-extension</prefix>
-      <artifactId>wildfly-extension-maven-plugin</artifactId>
-    </plugin>
-    <plugin>
-      <name>WildFly Bootable JAR Maven Plugin</name>
-      <prefix>wildfly-jar</prefix>
-      <artifactId>wildfly-jar-maven-plugin</artifactId>
-    </plugin>
-    <plugin>
       <name>WildFly Maven Plugin</name>
       <prefix>wildfly</prefix>
       <artifactId>wildfly-maven-plugin</artifactId>
