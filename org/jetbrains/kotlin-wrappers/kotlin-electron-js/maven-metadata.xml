@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-electron-js</artifactId>
   <versioning>
-    <latest>24.0.0-pre.579</latest>
-    <release>24.0.0-pre.579</release>
+    <latest>24.0.0-pre.581-compat</latest>
+    <release>24.0.0-pre.581-compat</release>
     <versions>
       <version>24.0.0-pre.531</version>
       <version>24.0.0-pre.532</version>
@@ -63,7 +63,11 @@
       <version>24.0.0-pre.578</version>
       <version>24.0.0-pre.578-compat</version>
       <version>24.0.0-pre.579</version>
+      <version>24.0.0-pre.580</version>
+      <version>24.0.0-pre.580-compat</version>
+      <version>24.0.0-pre.581</version>
+      <version>24.0.0-pre.581-compat</version>
     </versions>
-    <lastUpdated>20230628175527</lastUpdated>
+    <lastUpdated>20230629114056</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-popper-js</artifactId>
   <versioning>
-    <latest>2.3.0-pre.579</latest>
-    <release>2.3.0-pre.579</release>
+    <latest>2.3.0-pre.581-compat</latest>
+    <release>2.3.0-pre.581-compat</release>
     <versions>
       <version>2.3.0-pre.493</version>
       <version>2.3.0-pre.493-compat</version>
@@ -107,7 +107,11 @@
       <version>2.3.0-pre.578</version>
       <version>2.3.0-pre.578-compat</version>
       <version>2.3.0-pre.579</version>
+      <version>2.3.0-pre.580</version>
+      <version>2.3.0-pre.580-compat</version>
+      <version>2.3.0-pre.581</version>
+      <version>2.3.0-pre.581-compat</version>
     </versions>
-    <lastUpdated>20230628175624</lastUpdated>
+    <lastUpdated>20230629114252</lastUpdated>
   </versioning>
 </metadata>

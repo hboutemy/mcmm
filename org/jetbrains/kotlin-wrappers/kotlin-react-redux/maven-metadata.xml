@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-redux</artifactId>
   <versioning>
-    <latest>7.2.6-pre.579</latest>
-    <release>7.2.6-pre.579</release>
+    <latest>7.2.6-pre.581-compat</latest>
+    <release>7.2.6-pre.581-compat</release>
     <versions>
       <version>7.2.3-pre.202-kotlin-1.5.0</version>
       <version>7.2.3-pre.203-kotlin-1.5.0</version>
@@ -433,7 +433,11 @@
       <version>7.2.6-pre.578</version>
       <version>7.2.6-pre.578-compat</version>
       <version>7.2.6-pre.579</version>
+      <version>7.2.6-pre.580</version>
+      <version>7.2.6-pre.580-compat</version>
+      <version>7.2.6-pre.581</version>
+      <version>7.2.6-pre.581-compat</version>
     </versions>
-    <lastUpdated>20230628175626</lastUpdated>
+    <lastUpdated>20230629114255</lastUpdated>
   </versioning>
 </metadata>

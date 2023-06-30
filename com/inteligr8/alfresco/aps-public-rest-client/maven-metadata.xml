@@ -3,8 +3,8 @@
   <groupId>com.inteligr8.alfresco</groupId>
   <artifactId>aps-public-rest-client</artifactId>
   <versioning>
-    <latest>2.0.4-jersey</latest>
-    <release>2.0.4-jersey</release>
+    <latest>2.0.5-jersey</latest>
+    <release>2.0.5-jersey</release>
     <versions>
       <version>2.0.2-cxf</version>
       <version>2.0.2-jersey</version>
@@ -14,7 +14,10 @@
       <version>2.0.4</version>
       <version>2.0.4-cxf</version>
       <version>2.0.4-jersey</version>
+      <version>2.0.5</version>
+      <version>2.0.5-cxf</version>
+      <version>2.0.5-jersey</version>
     </versions>
-    <lastUpdated>20230530152504</lastUpdated>
+    <lastUpdated>20230629155543</lastUpdated>
   </versioning>
 </metadata>

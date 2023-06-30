@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-remix-run-router</artifactId>
   <versioning>
-    <latest>1.6.3-pre.579</latest>
-    <release>1.6.3-pre.579</release>
+    <latest>1.6.3-pre.581-compat</latest>
+    <release>1.6.3-pre.581-compat</release>
     <versions>
       <version>1.0.3-pre.441</version>
       <version>1.0.3-pre.442</version>
@@ -172,7 +172,11 @@
       <version>1.6.3-pre.578</version>
       <version>1.6.3-pre.578-compat</version>
       <version>1.6.3-pre.579</version>
+      <version>1.6.3-pre.580</version>
+      <version>1.6.3-pre.580-compat</version>
+      <version>1.6.3-pre.581</version>
+      <version>1.6.3-pre.581-compat</version>
     </versions>
-    <lastUpdated>20230628175647</lastUpdated>
+    <lastUpdated>20230629114340</lastUpdated>
   </versioning>
 </metadata>

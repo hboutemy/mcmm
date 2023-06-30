@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-tanstack-react-table</artifactId>
   <versioning>
-    <latest>8.9.3-pre.579</latest>
-    <release>8.9.3-pre.579</release>
+    <latest>8.9.3-pre.581-compat</latest>
+    <release>8.9.3-pre.581-compat</release>
     <versions>
       <version>8.1.4-pre.352</version>
       <version>8.1.4-pre.352-compat</version>
@@ -273,7 +273,11 @@
       <version>8.9.3-pre.578</version>
       <version>8.9.3-pre.578-compat</version>
       <version>8.9.3-pre.579</version>
+      <version>8.9.3-pre.580</version>
+      <version>8.9.3-pre.580-compat</version>
+      <version>8.9.3-pre.581</version>
+      <version>8.9.3-pre.581-compat</version>
     </versions>
-    <lastUpdated>20230628175713</lastUpdated>
+    <lastUpdated>20230629114433</lastUpdated>
   </versioning>
 </metadata>

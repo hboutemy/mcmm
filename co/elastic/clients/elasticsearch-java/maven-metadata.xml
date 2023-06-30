@@ -3,8 +3,8 @@
   <groupId>co.elastic.clients</groupId>
   <artifactId>elasticsearch-java</artifactId>
   <versioning>
-    <latest>8.8.1</latest>
-    <release>8.8.1</release>
+    <latest>8.8.2</latest>
+    <release>8.8.2</release>
     <versions>
       <version>7.15.0</version>
       <version>7.15.1</version>
@@ -24,6 +24,7 @@
       <version>7.17.8</version>
       <version>7.17.9</version>
       <version>7.17.10</version>
+      <version>7.17.11</version>
       <version>8.0.0-rc1</version>
       <version>8.0.0-rc2</version>
       <version>8.0.0</version>
@@ -55,7 +56,8 @@
       <version>8.7.1</version>
       <version>8.8.0</version>
       <version>8.8.1</version>
+      <version>8.8.2</version>
     </versions>
-    <lastUpdated>20230608093331</lastUpdated>
+    <lastUpdated>20230629094506</lastUpdated>
   </versioning>
 </metadata>
