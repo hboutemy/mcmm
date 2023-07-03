@@ -22,6 +22,11 @@
       <artifactId>tycho-apitools-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Baseline Plugin</name>
+      <prefix>tycho-baseline</prefix>
+      <artifactId>tycho-baseline-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho BND Plugin</name>
       <prefix>tycho-bnd</prefix>
       <artifactId>tycho-bnd-plugin</artifactId>
