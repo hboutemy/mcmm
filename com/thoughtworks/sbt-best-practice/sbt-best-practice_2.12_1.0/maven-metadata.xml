@@ -3,8 +3,8 @@
   <groupId>com.thoughtworks.sbt-best-practice</groupId>
   <artifactId>sbt-best-practice_2.12_1.0</artifactId>
   <versioning>
-    <latest>8.3.0+113-101d2272</latest>
-    <release>8.3.0+113-101d2272</release>
+    <latest>8.3.1</latest>
+    <release>8.3.1</release>
     <versions>
       <version>8.3.0+96-f3857305</version>
       <version>8.3.0+96-178f8e32</version>
@@ -22,6 +22,7 @@
       <version>8.3.0+111-eb50fb68</version>
       <version>8.3.0+112-3c4e0037</version>
       <version>8.3.0+113-101d2272</version>
+      <version>8.3.1</version>
       <version>3.0.0</version>
       <version>3.0.0-M0</version>
       <version>3.0.0-M1</version>
@@ -261,6 +262,6 @@
       <version>8.3.0</version>
       <version>8.3.0+90-153f32b5</version>
     </versions>
-    <lastUpdated>20230701230546</lastUpdated>
+    <lastUpdated>20230702061038</lastUpdated>
   </versioning>
 </metadata>
