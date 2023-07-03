@@ -3,13 +3,14 @@
   <groupId>org.eclipse.tractusx.edc</groupId>
   <artifactId>edc-controlplane-postgresql-hashicorp-vault</artifactId>
   <versioning>
-    <latest>0.5.0-rc2</latest>
-    <release>0.5.0-rc2</release>
+    <latest>0.5.0-rc3</latest>
+    <release>0.5.0-rc3</release>
     <versions>
       <version>0.4.1</version>
       <version>0.5.0-rc1</version>
       <version>0.5.0-rc2</version>
+      <version>0.5.0-rc3</version>
     </versions>
-    <lastUpdated>20230623084559</lastUpdated>
+    <lastUpdated>20230630072928</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security.elytron-web</groupId>
   <artifactId>undertow-server-servlet</artifactId>
   <versioning>
-    <latest>3.0.1.Final</latest>
-    <release>3.0.1.Final</release>
+    <latest>4.0.0.Final</latest>
+    <release>4.0.0.Final</release>
     <versions>
       <version>1.2.0.Final</version>
       <version>1.2.1.Final</version>
@@ -53,7 +53,8 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
+      <version>4.0.0.Final</version>
     </versions>
-    <lastUpdated>20230411172257</lastUpdated>
+    <lastUpdated>20230630211220</lastUpdated>
   </versioning>
 </metadata>
