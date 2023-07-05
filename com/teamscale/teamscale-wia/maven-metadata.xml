@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-wia</artifactId>
   <versioning>
-    <latest>9.0.0-rc2</latest>
-    <release>9.0.0-rc2</release>
+    <latest>9.0.0-rc3</latest>
+    <release>9.0.0-rc3</release>
     <versions>
       <version>8.5.0</version>
       <version>8.5.1</version>
@@ -72,6 +72,7 @@
       <version>8.7.14</version>
       <version>8.7.15</version>
       <version>8.7.16</version>
+      <version>8.7.17</version>
       <version>8.8.0-rc1</version>
       <version>8.8.0-rc2</version>
       <version>8.8.0-rc3</version>
@@ -86,6 +87,7 @@
       <version>8.8.8</version>
       <version>8.8.9</version>
       <version>8.8.10</version>
+      <version>8.8.11</version>
       <version>8.9.0-rc1</version>
       <version>8.9.0-rc2</version>
       <version>8.9.0-rc3</version>
@@ -94,9 +96,11 @@
       <version>8.9.2</version>
       <version>8.9.3</version>
       <version>8.9.4</version>
+      <version>8.9.5</version>
       <version>9.0.0-rc1</version>
       <version>9.0.0-rc2</version>
+      <version>9.0.0-rc3</version>
     </versions>
-    <lastUpdated>20230627163316</lastUpdated>
+    <lastUpdated>20230704163518</lastUpdated>
   </versioning>
 </metadata>
