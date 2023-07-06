@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-cssom-core-js</artifactId>
   <versioning>
-    <latest>0.0.1-pre.584</latest>
-    <release>0.0.1-pre.584</release>
+    <latest>0.0.1-pre.585-compat</latest>
+    <release>0.0.1-pre.585-compat</release>
     <versions>
       <version>0.0.1-pre.542</version>
       <version>0.0.1-pre.543</version>
@@ -58,7 +58,9 @@
       <version>0.0.1-pre.582</version>
       <version>0.0.1-pre.583</version>
       <version>0.0.1-pre.584</version>
+      <version>0.0.1-pre.585</version>
+      <version>0.0.1-pre.585-compat</version>
     </versions>
-    <lastUpdated>20230702065443</lastUpdated>
+    <lastUpdated>20230705055352</lastUpdated>
   </versioning>
 </metadata>

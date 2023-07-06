@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-restore</artifactId>
   <versioning>
-    <latest>8.3.0-alpha2.2</latest>
-    <release>8.3.0-alpha2.2</release>
+    <latest>8.3.0-alpha3</latest>
+    <release>8.3.0-alpha3</release>
     <versions>
       <version>8.0.15</version>
       <version>8.1.0-rc</version>
@@ -25,6 +25,7 @@
       <version>8.1.11</version>
       <version>8.1.12</version>
       <version>8.1.13</version>
+      <version>8.1.14</version>
       <version>8.2.0-alpha1</version>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
@@ -44,7 +45,8 @@
       <version>8.3.0-alpha2</version>
       <version>8.3.0-alpha2.1</version>
       <version>8.3.0-alpha2.2</version>
+      <version>8.3.0-alpha3</version>
     </versions>
-    <lastUpdated>20230703124131</lastUpdated>
+    <lastUpdated>20230705161520</lastUpdated>
   </versioning>
 </metadata>

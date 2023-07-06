@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-use</artifactId>
   <versioning>
-    <latest>17.4.0-pre.584</latest>
-    <release>17.4.0-pre.584</release>
+    <latest>17.4.0-pre.585-compat</latest>
+    <release>17.4.0-pre.585-compat</release>
     <versions>
       <version>17.4.0-pre.475</version>
       <version>17.4.0-pre.476</version>
@@ -140,7 +140,9 @@
       <version>17.4.0-pre.582</version>
       <version>17.4.0-pre.583</version>
       <version>17.4.0-pre.584</version>
+      <version>17.4.0-pre.585</version>
+      <version>17.4.0-pre.585-compat</version>
     </versions>
-    <lastUpdated>20230702065556</lastUpdated>
+    <lastUpdated>20230705055625</lastUpdated>
   </versioning>
 </metadata>
