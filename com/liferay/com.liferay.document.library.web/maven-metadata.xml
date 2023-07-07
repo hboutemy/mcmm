@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.web</artifactId>
   <versioning>
-    <latest>6.0.111</latest>
-    <release>4.0.149</release>
+    <latest>6.0.155</latest>
+    <release>6.0.155</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -203,6 +203,7 @@
       <version>2.0.118</version>
       <version>2.0.119</version>
       <version>2.0.120</version>
+      <version>2.0.121</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -352,6 +353,8 @@
       <version>3.0.146</version>
       <version>3.0.147</version>
       <version>3.0.148</version>
+      <version>3.0.149</version>
+      <version>3.0.150</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -499,6 +502,9 @@
       <version>4.0.144</version>
       <version>4.0.145</version>
       <version>4.0.146</version>
+      <version>4.0.147</version>
+      <version>4.0.148</version>
+      <version>4.0.149</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -634,6 +640,20 @@
       <version>5.0.132</version>
       <version>5.0.133</version>
       <version>5.0.134</version>
+      <version>5.0.135</version>
+      <version>5.0.136</version>
+      <version>5.0.137</version>
+      <version>5.0.138</version>
+      <version>5.0.139</version>
+      <version>5.0.140</version>
+      <version>5.0.141</version>
+      <version>5.0.142</version>
+      <version>5.0.143</version>
+      <version>5.0.144</version>
+      <version>5.0.145</version>
+      <version>5.0.146</version>
+      <version>5.0.147</version>
+      <version>5.0.148</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -752,18 +772,13 @@
       <version>6.0.115</version>
       <version>6.0.116</version>
       <version>6.0.117</version>
-      <version>5.0.135</version>
       <version>6.0.118</version>
       <version>6.0.119</version>
       <version>6.0.120</version>
-      <version>5.0.136</version>
       <version>6.0.121</version>
       <version>6.0.122</version>
       <version>6.0.123</version>
-      <version>5.0.137</version>
       <version>6.0.124</version>
-      <version>4.0.147</version>
-      <version>5.0.138</version>
       <version>6.0.125</version>
       <version>6.0.126</version>
       <version>6.0.127</version>
@@ -772,45 +787,30 @@
       <version>6.0.130</version>
       <version>6.0.131</version>
       <version>6.0.132</version>
-      <version>5.0.139</version>
-      <version>2.0.121</version>
       <version>6.0.133</version>
       <version>6.0.134</version>
-      <version>3.0.149</version>
-      <version>4.0.148</version>
-      <version>5.0.140</version>
       <version>6.0.135</version>
       <version>6.0.136</version>
       <version>6.0.137</version>
-      <version>5.0.141</version>
       <version>6.0.138</version>
       <version>6.0.139</version>
       <version>6.0.140</version>
       <version>6.0.141</version>
-      <version>5.0.142</version>
       <version>6.0.142</version>
       <version>6.0.143</version>
       <version>6.0.144</version>
-      <version>5.0.143</version>
       <version>6.0.145</version>
       <version>6.0.146</version>
       <version>6.0.147</version>
-      <version>5.0.144</version>
       <version>6.0.148</version>
       <version>6.0.149</version>
-      <version>5.0.145</version>
       <version>6.0.150</version>
       <version>6.0.151</version>
-      <version>5.0.146</version>
       <version>6.0.152</version>
       <version>6.0.153</version>
-      <version>5.0.147</version>
       <version>6.0.154</version>
       <version>6.0.155</version>
-      <version>5.0.148</version>
-      <version>3.0.150</version>
-      <version>4.0.149</version>
     </versions>
-    <lastUpdated>20230705202831</lastUpdated>
+    <lastUpdated>20230706064420</lastUpdated>
   </versioning>
 </metadata>

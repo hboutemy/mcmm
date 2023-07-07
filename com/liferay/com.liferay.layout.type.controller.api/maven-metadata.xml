@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.layout.type.controller.api</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>1.3.4</release>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -21,6 +21,11 @@
       <version>1.2.7</version>
       <version>1.2.8</version>
       <version>1.2.9</version>
+      <version>1.3.0</version>
+      <version>1.3.1</version>
+      <version>1.3.2</version>
+      <version>1.3.3</version>
+      <version>1.3.4</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -32,13 +37,8 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>4.0.0</version>
-      <version>1.3.0</version>
-      <version>1.3.1</version>
-      <version>1.3.2</version>
-      <version>1.3.3</version>
       <version>5.0.0</version>
-      <version>1.3.4</version>
     </versions>
-    <lastUpdated>20230404210151</lastUpdated>
+    <lastUpdated>20230706052117</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Json to properties generator</name>
+      <prefix>json2properties-generator</prefix>
+      <artifactId>json2properties-generator</artifactId>
+    </plugin>
+    <plugin>
+      <name>HandlebarsRenderer - referenceGenerator</name>
+      <prefix>magnolia-handlebars-blossom-reference-generator</prefix>
+      <artifactId>magnolia-handlebars-blossom-reference-generator</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

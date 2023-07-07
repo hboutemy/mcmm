@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.youtube.web</artifactId>
   <versioning>
-    <latest>5.0.15</latest>
-    <release>3.0.35</release>
+    <latest>5.0.19</latest>
+    <release>5.0.19</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -51,6 +51,8 @@
       <version>1.0.42</version>
       <version>1.0.43</version>
       <version>1.0.44</version>
+      <version>1.0.45</version>
+      <version>1.0.47</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -76,6 +78,8 @@
       <version>2.0.22</version>
       <version>2.0.23</version>
       <version>2.0.24</version>
+      <version>2.0.25</version>
+      <version>2.0.26</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -110,6 +114,8 @@
       <version>3.0.31</version>
       <version>3.0.32</version>
       <version>3.0.33</version>
+      <version>3.0.34</version>
+      <version>3.0.35</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -140,6 +146,10 @@
       <version>4.0.27</version>
       <version>4.0.28</version>
       <version>4.0.29</version>
+      <version>4.0.30</version>
+      <version>4.0.31</version>
+      <version>4.0.32</version>
+      <version>4.0.33</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -157,20 +167,10 @@
       <version>5.0.14</version>
       <version>5.0.15</version>
       <version>5.0.16</version>
-      <version>4.0.30</version>
       <version>5.0.17</version>
       <version>5.0.18</version>
-      <version>1.0.45</version>
       <version>5.0.19</version>
-      <version>4.0.31</version>
-      <version>3.0.34</version>
-      <version>1.0.47</version>
-      <version>2.0.25</version>
-      <version>4.0.32</version>
-      <version>4.0.33</version>
-      <version>2.0.26</version>
-      <version>3.0.35</version>
     </versions>
-    <lastUpdated>20230705195313</lastUpdated>
+    <lastUpdated>20230706024805</lastUpdated>
   </versioning>
 </metadata>

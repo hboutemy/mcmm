@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.knowledge.base.api</artifactId>
   <versioning>
-    <latest>14.0.0</latest>
-    <release>6.3.0</release>
+    <latest>20.3.0</latest>
+    <release>20.3.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -62,6 +62,7 @@
       <version>4.10.8</version>
       <version>4.10.9</version>
       <version>4.10.10</version>
+      <version>4.10.11</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -113,6 +114,7 @@
       <version>5.2.9</version>
       <version>5.2.10</version>
       <version>5.2.11</version>
+      <version>5.3.0</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -155,6 +157,7 @@
       <version>6.2.5</version>
       <version>6.2.6</version>
       <version>6.2.7</version>
+      <version>6.3.0</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -192,6 +195,10 @@
       <version>7.5.7</version>
       <version>7.5.8</version>
       <version>7.5.9</version>
+      <version>7.5.10</version>
+      <version>7.5.11</version>
+      <version>7.6.0</version>
+      <version>7.7.0</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.1.0</version>
@@ -216,25 +223,18 @@
       <version>14.0.0</version>
       <version>14.1.0</version>
       <version>15.0.0</version>
-      <version>4.10.11</version>
       <version>15.1.0</version>
       <version>16.0.0</version>
       <version>17.0.0</version>
       <version>17.1.0</version>
       <version>18.0.0</version>
       <version>19.0.0</version>
-      <version>7.5.10</version>
       <version>19.2.0</version>
-      <version>7.5.11</version>
       <version>20.0.0</version>
       <version>20.1.0</version>
       <version>20.2.0</version>
-      <version>7.6.0</version>
       <version>20.3.0</version>
-      <version>7.7.0</version>
-      <version>5.3.0</version>
-      <version>6.3.0</version>
     </versions>
-    <lastUpdated>20230705165342</lastUpdated>
+    <lastUpdated>20230706041530</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.analytics.data.binding.impl</artifactId>
   <versioning>
     <latest>4.0.6</latest>
-    <release>3.0.13</release>
+    <release>4.0.6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -25,6 +25,7 @@
       <version>3.0.10</version>
       <version>3.0.11</version>
       <version>3.0.12</version>
+      <version>3.0.13</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -32,8 +33,7 @@
       <version>4.0.4</version>
       <version>4.0.5</version>
       <version>4.0.6</version>
-      <version>3.0.13</version>
     </versions>
-    <lastUpdated>20230123171432</lastUpdated>
+    <lastUpdated>20230706021854</lastUpdated>
   </versioning>
 </metadata>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.feature.flag.web</artifactId>
   <versioning>
+    <latest>1.0.13</latest>
     <release>1.0.13</release>
     <versions>
       <version>1.0.0</version>
@@ -20,6 +21,6 @@
       <version>1.0.12</version>
       <version>1.0.13</version>
     </versions>
-    <lastUpdated>20230629095751</lastUpdated>
+    <lastUpdated>20230706052710</lastUpdated>
   </versioning>
 </metadata>

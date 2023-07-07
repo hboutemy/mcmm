@@ -3,8 +3,8 @@
   <groupId>io.apiman</groupId>
   <artifactId>apiman-gateway-platforms-war-tomcat8</artifactId>
   <versioning>
-    <latest>3.1.1.Final</latest>
-    <release>3.1.1.Final</release>
+    <latest>3.1.2.Final</latest>
+    <release>3.1.2.Final</release>
     <versions>
       <version>1.2.2.Final</version>
       <version>1.2.3.CR1</version>
@@ -53,7 +53,9 @@
       <version>3.1.0.RC4</version>
       <version>3.1.0.RC6</version>
       <version>3.1.1.Final</version>
+      <version>3.1.2.RC1</version>
+      <version>3.1.2.Final</version>
     </versions>
-    <lastUpdated>20230327144958</lastUpdated>
+    <lastUpdated>20230706183017</lastUpdated>
   </versioning>
 </metadata>

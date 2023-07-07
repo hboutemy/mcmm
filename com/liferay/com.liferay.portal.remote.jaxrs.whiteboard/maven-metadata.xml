@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.remote.jaxrs.whiteboard</artifactId>
   <versioning>
-    <latest>6.0.8</latest>
-    <release>7.0.1</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -65,10 +65,10 @@
       <version>6.0.10</version>
       <version>6.0.11</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
-      <version>7.0.1</version>
     </versions>
-    <lastUpdated>20230614105353</lastUpdated>
+    <lastUpdated>20230706061739</lastUpdated>
   </versioning>
 </metadata>

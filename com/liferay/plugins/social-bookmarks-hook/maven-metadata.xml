@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>social-bookmarks-hook</artifactId>
   <versioning>
     <latest>7.4.10.1</latest>
-    <release>7.2.10.25</release>
+    <release>7.4.10.1</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -41,6 +41,7 @@
       <version>7.0.10.33</version>
       <version>7.0.10.34</version>
       <version>7.0.10.35</version>
+      <version>7.0.10.36</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -67,6 +68,7 @@
       <version>7.1.10.23</version>
       <version>7.1.10.24</version>
       <version>7.1.10.25</version>
+      <version>7.1.10.26</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -91,6 +93,7 @@
       <version>7.2.10.22</version>
       <version>7.2.10.23</version>
       <version>7.2.10.24</version>
+      <version>7.2.10.25</version>
       <version>7.3.10.1</version>
       <version>7.3.10.2</version>
       <version>7.3.10.3</version>
@@ -119,13 +122,10 @@
       <version>7.3.10.26</version>
       <version>7.3.10.27</version>
       <version>7.3.10.28</version>
-      <version>7.4.10.1</version>
-      <version>7.0.10.36</version>
       <version>7.3.10.29</version>
       <version>7.3.10.30</version>
-      <version>7.1.10.26</version>
-      <version>7.2.10.25</version>
+      <version>7.4.10.1</version>
     </versions>
-    <lastUpdated>20230705172533</lastUpdated>
+    <lastUpdated>20230706050249</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.blogs.web</artifactId>
   <versioning>
-    <latest>6.0.67</latest>
-    <release>4.0.103</release>
+    <latest>6.0.102</latest>
+    <release>6.0.102</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -130,6 +130,7 @@
       <version>2.0.69</version>
       <version>2.0.70</version>
       <version>2.0.71</version>
+      <version>2.0.72</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -232,6 +233,8 @@
       <version>3.0.99</version>
       <version>3.0.100</version>
       <version>3.0.101</version>
+      <version>3.0.102</version>
+      <version>3.0.103</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -335,6 +338,7 @@
       <version>4.0.100</version>
       <version>4.0.101</version>
       <version>4.0.102</version>
+      <version>4.0.103</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -413,6 +417,12 @@
       <version>5.0.76</version>
       <version>5.0.77</version>
       <version>5.0.78</version>
+      <version>5.0.79</version>
+      <version>5.0.80</version>
+      <version>5.0.81</version>
+      <version>5.0.82</version>
+      <version>5.0.83</version>
+      <version>5.0.84</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -493,7 +503,6 @@
       <version>6.0.77</version>
       <version>6.0.78</version>
       <version>6.0.79</version>
-      <version>5.0.79</version>
       <version>6.0.80</version>
       <version>6.0.81</version>
       <version>6.0.82</version>
@@ -503,29 +512,21 @@
       <version>6.0.86</version>
       <version>6.0.87</version>
       <version>6.0.88</version>
-      <version>3.0.102</version>
       <version>6.0.89</version>
-      <version>2.0.72</version>
       <version>6.0.90</version>
       <version>6.0.91</version>
       <version>6.0.92</version>
-      <version>5.0.80</version>
       <version>6.0.93</version>
       <version>6.0.94</version>
       <version>6.0.95</version>
-      <version>5.0.81</version>
       <version>6.0.96</version>
       <version>6.0.97</version>
-      <version>5.0.82</version>
       <version>6.0.98</version>
-      <version>5.0.83</version>
       <version>6.0.99</version>
       <version>6.0.100</version>
       <version>6.0.101</version>
       <version>6.0.102</version>
-      <version>3.0.103</version>
-      <version>4.0.103</version>
     </versions>
-    <lastUpdated>20230705202427</lastUpdated>
+    <lastUpdated>20230706040811</lastUpdated>
   </versioning>
 </metadata>

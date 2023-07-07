@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.gradle.plugins</artifactId>
   <versioning>
-    <latest>14.0.70</latest>
+    <latest>14.0.151</latest>
     <release>14.0.151</release>
     <versions>
       <version>1.0.0</version>
@@ -2150,6 +2150,8 @@
       <version>14.0.68</version>
       <version>14.0.69</version>
       <version>14.0.70</version>
+      <version>14.0.71</version>
+      <version>14.0.72</version>
       <version>14.0.73</version>
       <version>14.0.74</version>
       <version>14.0.75</version>
@@ -2229,9 +2231,7 @@
       <version>14.0.149</version>
       <version>14.0.150</version>
       <version>14.0.151</version>
-      <version>14.0.71</version>
-      <version>14.0.72</version>
     </versions>
-    <lastUpdated>20230701123914</lastUpdated>
+    <lastUpdated>20230706062841</lastUpdated>
   </versioning>
 </metadata>

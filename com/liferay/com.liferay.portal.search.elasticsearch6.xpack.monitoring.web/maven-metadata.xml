@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search.elasticsearch6.xpack.monitoring.web</artifactId>
   <versioning>
-    <latest>3.0.28</latest>
+    <latest>3.0.30</latest>
     <release>3.0.30</release>
     <versions>
       <version>1.0.20</version>
@@ -16,6 +16,7 @@
       <version>1.0.27</version>
       <version>1.0.28</version>
       <version>1.0.29</version>
+      <version>1.0.30</version>
       <version>2.0.24</version>
       <version>2.0.25</version>
       <version>2.0.26</version>
@@ -29,6 +30,8 @@
       <version>2.0.34</version>
       <version>2.0.35</version>
       <version>2.0.36</version>
+      <version>2.0.37</version>
+      <version>2.0.38</version>
       <version>3.0.15</version>
       <version>3.0.16</version>
       <version>3.0.17</version>
@@ -44,11 +47,8 @@
       <version>3.0.27</version>
       <version>3.0.28</version>
       <version>3.0.29</version>
-      <version>2.0.37</version>
-      <version>1.0.30</version>
-      <version>2.0.38</version>
       <version>3.0.30</version>
     </versions>
-    <lastUpdated>20230705213322</lastUpdated>
+    <lastUpdated>20230706031956</lastUpdated>
   </versioning>
 </metadata>

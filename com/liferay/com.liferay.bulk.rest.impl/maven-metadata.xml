@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.bulk.rest.impl</artifactId>
   <versioning>
-    <latest>3.0.28</latest>
-    <release>1.0.76</release>
+    <latest>3.0.41</latest>
+    <release>3.0.41</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -79,6 +79,10 @@
       <version>1.0.70</version>
       <version>1.0.71</version>
       <version>1.0.72</version>
+      <version>1.0.73</version>
+      <version>1.0.74</version>
+      <version>1.0.75</version>
+      <version>1.0.76</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -137,6 +141,16 @@
       <version>2.0.55</version>
       <version>2.0.56</version>
       <version>2.0.57</version>
+      <version>2.0.58</version>
+      <version>2.0.59</version>
+      <version>2.0.60</version>
+      <version>2.0.61</version>
+      <version>2.0.62</version>
+      <version>2.0.63</version>
+      <version>2.0.64</version>
+      <version>2.0.65</version>
+      <version>2.0.66</version>
+      <version>2.0.67</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -169,31 +183,17 @@
       <version>3.0.29</version>
       <version>3.0.30</version>
       <version>3.0.31</version>
-      <version>2.0.58</version>
       <version>3.0.32</version>
-      <version>1.0.73</version>
-      <version>2.0.59</version>
       <version>3.0.33</version>
       <version>3.0.34</version>
-      <version>2.0.60</version>
-      <version>1.0.74</version>
-      <version>1.0.75</version>
-      <version>2.0.61</version>
       <version>3.0.35</version>
-      <version>2.0.62</version>
       <version>3.0.36</version>
-      <version>2.0.63</version>
       <version>3.0.37</version>
       <version>3.0.38</version>
-      <version>2.0.64</version>
-      <version>2.0.65</version>
       <version>3.0.39</version>
-      <version>2.0.66</version>
       <version>3.0.40</version>
-      <version>2.0.67</version>
       <version>3.0.41</version>
-      <version>1.0.76</version>
     </versions>
-    <lastUpdated>20230705183726</lastUpdated>
+    <lastUpdated>20230706043532</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,16 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>domain</artifactId>
   <versioning>
-    <latest>5.0.0.Alpha6</latest>
-    <release>5.0.0.Alpha6</release>
+    <latest>5.0.1.Final</latest>
+    <release>5.0.1.Final</release>
     <versions>
+      <version>4.0.0.Final</version>
+      <version>4.0.1.Final</version>
+      <version>5.0.0.Final</version>
+      <version>5.0.1.Final</version>
       <version>4.0.0.Alpha6</version>
       <version>5.0.0.Alpha6</version>
-      <version>4.0.0.Final</version>
-      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20221111181418</lastUpdated>
+    <lastUpdated>20230706164515</lastUpdated>
   </versioning>
 </metadata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.api</artifactId>
   <versioning>
-    <latest>7.4.13.u47</latest>
+    <latest>7.4.13.u83</latest>
     <release>7.4.13.u83</release>
     <versions>
       <version>7.0.10.fp83</version>
@@ -44,6 +44,7 @@
       <version>7.1.10.6-sp6</version>
       <version>7.1.10.7</version>
       <version>7.1.10.7-sp7</version>
+      <version>7.1.10.8-sp8</version>
       <version>7.2.10</version>
       <version>7.2.10.fp1</version>
       <version>7.2.10.fp1-1</version>
@@ -61,6 +62,7 @@
       <version>7.2.10.fp17</version>
       <version>7.2.10.fp18</version>
       <version>7.2.10.fp19</version>
+      <version>7.2.10.fp20</version>
       <version>7.2.10.1</version>
       <version>7.2.10.3</version>
       <version>7.2.10.4</version>
@@ -87,6 +89,24 @@
       <version>7.3.10.u12</version>
       <version>7.3.10.u13</version>
       <version>7.3.10.u14</version>
+      <version>7.3.10.u15</version>
+      <version>7.3.10.u16</version>
+      <version>7.3.10.u17</version>
+      <version>7.3.10.u18</version>
+      <version>7.3.10.u19</version>
+      <version>7.3.10.u19-1</version>
+      <version>7.3.10.u20</version>
+      <version>7.3.10.u20-1</version>
+      <version>7.3.10.u21</version>
+      <version>7.3.10.u21-1</version>
+      <version>7.3.10.u22</version>
+      <version>7.3.10.u22-1</version>
+      <version>7.3.10.u23</version>
+      <version>7.3.10.u24</version>
+      <version>7.3.10.u25</version>
+      <version>7.3.10.u26</version>
+      <version>7.3.10.u27</version>
+      <version>7.3.10.u28</version>
       <version>7.3.10.1</version>
       <version>7.3.10.3</version>
       <version>7.4.10-ep1</version>
@@ -137,63 +157,43 @@
       <version>7.4.13.u46</version>
       <version>7.4.13.u47</version>
       <version>7.4.13.u48</version>
-      <version>7.3.10.u15</version>
       <version>7.4.13.u49</version>
       <version>7.4.13.u50</version>
-      <version>7.3.10.u16</version>
       <version>7.4.13.u51</version>
-      <version>7.2.10.fp20</version>
       <version>7.4.13.u52</version>
-      <version>7.3.10.u17</version>
       <version>7.4.13.u53</version>
       <version>7.4.13.u54</version>
       <version>7.4.13.u55</version>
-      <version>7.3.10.u18</version>
       <version>7.4.13.u56</version>
       <version>7.4.13.u57</version>
       <version>7.4.13.u58</version>
       <version>7.4.13.u59</version>
-      <version>7.3.10.u19</version>
       <version>7.4.13.u60</version>
       <version>7.4.13.u61</version>
-      <version>7.3.10.u20</version>
       <version>7.4.13.u62</version>
       <version>7.4.13.u63</version>
       <version>7.4.13.u64</version>
-      <version>7.3.10.u21</version>
       <version>7.4.13.u65</version>
       <version>7.4.13.u66</version>
-      <version>7.3.10.u22</version>
       <version>7.4.13.u67</version>
       <version>7.4.13.u68</version>
       <version>7.4.13.u69</version>
-      <version>7.3.10.u23</version>
       <version>7.4.13.u70</version>
       <version>7.4.13.u71</version>
       <version>7.4.13.u72</version>
       <version>7.4.13.u73</version>
-      <version>7.3.10.u24</version>
       <version>7.4.13.u74</version>
       <version>7.4.13.u75</version>
-      <version>7.3.10.u19-1</version>
-      <version>7.3.10.u20-1</version>
-      <version>7.3.10.u21-1</version>
-      <version>7.3.10.u22-1</version>
-      <version>7.3.10.u25</version>
       <version>7.4.13.u76</version>
       <version>7.4.13.u77</version>
-      <version>7.3.10.u26</version>
       <version>7.4.13.u78</version>
-      <version>7.1.10.8-sp8</version>
       <version>7.4.13.u79</version>
-      <version>7.3.10.u27</version>
       <version>7.4.13.u80</version>
       <version>7.4.13.u81</version>
       <version>7.4.13.u82</version>
-      <version>7.3.10.u28</version>
       <version>7.4.13.u83</version>
       <version>7.3.10.ep6</version>
     </versions>
-    <lastUpdated>20230703193123</lastUpdated>
+    <lastUpdated>20230706042952</lastUpdated>
   </versioning>
 </metadata>

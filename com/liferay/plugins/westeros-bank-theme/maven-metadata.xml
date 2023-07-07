@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>westeros-bank-theme</artifactId>
   <versioning>
     <latest>4.0.9</latest>
-    <release>3.0.69</release>
+    <release>4.0.9</release>
     <versions>
       <version>1.0.4</version>
       <version>1.0.5</version>
@@ -85,6 +85,7 @@
       <version>1.0.80</version>
       <version>1.0.81</version>
       <version>1.0.82</version>
+      <version>1.0.83</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -138,6 +139,8 @@
       <version>2.0.50</version>
       <version>2.0.51</version>
       <version>2.0.52</version>
+      <version>2.0.53</version>
+      <version>2.0.54</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -206,6 +209,8 @@
       <version>3.0.65</version>
       <version>3.0.66</version>
       <version>3.0.67</version>
+      <version>3.0.68</version>
+      <version>3.0.69</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -216,12 +221,7 @@
       <version>4.0.7</version>
       <version>4.0.8</version>
       <version>4.0.9</version>
-      <version>1.0.83</version>
-      <version>3.0.68</version>
-      <version>2.0.53</version>
-      <version>2.0.54</version>
-      <version>3.0.69</version>
     </versions>
-    <lastUpdated>20230705165014</lastUpdated>
+    <lastUpdated>20230706050334</lastUpdated>
   </versioning>
 </metadata>

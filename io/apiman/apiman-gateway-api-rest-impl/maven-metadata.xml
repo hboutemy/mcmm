@@ -3,8 +3,8 @@
   <groupId>io.apiman</groupId>
   <artifactId>apiman-gateway-api-rest-impl</artifactId>
   <versioning>
-    <latest>3.1.1.Final</latest>
-    <release>3.1.1.Final</release>
+    <latest>3.1.2.Final</latest>
+    <release>3.1.2.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -81,7 +81,9 @@
       <version>3.1.0.RC4</version>
       <version>3.1.0.RC6</version>
       <version>3.1.1.Final</version>
+      <version>3.1.2.RC1</version>
+      <version>3.1.2.Final</version>
     </versions>
-    <lastUpdated>20230327144948</lastUpdated>
+    <lastUpdated>20230706183007</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>tasks-portlet</artifactId>
   <versioning>
     <latest>7.4.10.1</latest>
-    <release>7.2.10.56</release>
+    <release>7.4.10.1</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -81,6 +81,8 @@
       <version>7.0.10.74</version>
       <version>7.0.10.75</version>
       <version>7.0.10.76</version>
+      <version>7.0.10.77</version>
+      <version>7.0.10.78</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -150,6 +152,7 @@
       <version>7.1.10.67</version>
       <version>7.1.10.68</version>
       <version>7.1.10.69</version>
+      <version>7.1.10.70</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -205,6 +208,7 @@
       <version>7.2.10.53</version>
       <version>7.2.10.54</version>
       <version>7.2.10.55</version>
+      <version>7.2.10.56</version>
       <version>7.3.10.1</version>
       <version>7.3.10.2</version>
       <version>7.3.10.3</version>
@@ -247,18 +251,14 @@
       <version>7.3.10.40</version>
       <version>7.3.10.41</version>
       <version>7.3.10.42</version>
-      <version>7.4.10.1</version>
       <version>7.3.10.43</version>
-      <version>7.0.10.77</version>
       <version>7.3.10.44</version>
-      <version>7.0.10.78</version>
       <version>7.3.10.45</version>
       <version>7.3.10.46</version>
       <version>7.3.10.47</version>
       <version>7.3.10.48</version>
-      <version>7.1.10.70</version>
-      <version>7.2.10.56</version>
+      <version>7.4.10.1</version>
     </versions>
-    <lastUpdated>20230705172638</lastUpdated>
+    <lastUpdated>20230706050308</lastUpdated>
   </versioning>
 </metadata>

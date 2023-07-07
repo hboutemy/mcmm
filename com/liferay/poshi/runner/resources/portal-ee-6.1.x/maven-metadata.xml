@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.poshi.runner.resources</groupId>
   <artifactId>portal-ee-6.1.x</artifactId>
   <versioning>
     <latest>20190325111923-20a286f</latest>
-    <release>20230614-dc86601</release>
+    <release>20190325111923-20a286f</release>
     <versions>
       <version>20200811-b06bc2b7</version>
       <version>20200824-057caac</version>
@@ -17,11 +17,6 @@
       <version>20220620-993fff2</version>
       <version>20220803-3bec59d</version>
       <version>20220905-3bec59d</version>
-      <version>20180516095228-87f131d</version>
-      <version>20180809125227-60d5dd6</version>
-      <version>20180823155837-4cedd9e</version>
-      <version>20190110114651-2943909</version>
-      <version>20190325111923-20a286f</version>
       <version>20221108-e120620</version>
       <version>20221115-e120620</version>
       <version>20230210-1f75c7b</version>
@@ -29,7 +24,12 @@
       <version>20230322-6883725</version>
       <version>20230405-dc86601</version>
       <version>20230614-dc86601</version>
+      <version>20180516095228-87f131d</version>
+      <version>20180809125227-60d5dd6</version>
+      <version>20180823155837-4cedd9e</version>
+      <version>20190110114651-2943909</version>
+      <version>20190325111923-20a286f</version>
     </versions>
-    <lastUpdated>20230615032447</lastUpdated>
+    <lastUpdated>20230706032725</lastUpdated>
   </versioning>
 </metadata>

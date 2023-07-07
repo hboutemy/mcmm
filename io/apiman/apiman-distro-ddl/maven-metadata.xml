@@ -3,8 +3,8 @@
   <groupId>io.apiman</groupId>
   <artifactId>apiman-distro-ddl</artifactId>
   <versioning>
-    <latest>3.1.1.Final</latest>
-    <release>3.1.1.Final</release>
+    <latest>3.1.2.Final</latest>
+    <release>3.1.2.Final</release>
     <versions>
       <version>1.2.0.Alpha1</version>
       <version>1.2.0.Alpha2</version>
@@ -61,7 +61,9 @@
       <version>3.1.0.RC4</version>
       <version>3.1.0.RC6</version>
       <version>3.1.1.Final</version>
+      <version>3.1.2.RC1</version>
+      <version>3.1.2.Final</version>
     </versions>
-    <lastUpdated>20230327144935</lastUpdated>
+    <lastUpdated>20230706182953</lastUpdated>
   </versioning>
 </metadata>

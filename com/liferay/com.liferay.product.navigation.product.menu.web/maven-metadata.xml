@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.product.navigation.product.menu.web</artifactId>
   <versioning>
-    <latest>6.0.59</latest>
-    <release>4.0.36</release>
+    <latest>6.0.84</latest>
+    <release>6.0.84</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -55,6 +55,7 @@
       <version>2.0.45</version>
       <version>2.0.46</version>
       <version>2.0.47</version>
+      <version>2.0.48</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -82,6 +83,7 @@
       <version>3.0.24</version>
       <version>3.0.25</version>
       <version>3.0.26</version>
+      <version>3.0.27</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -118,6 +120,7 @@
       <version>4.0.33</version>
       <version>4.0.34</version>
       <version>4.0.35</version>
+      <version>4.0.36</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -176,6 +179,10 @@
       <version>5.0.55</version>
       <version>5.0.56</version>
       <version>5.0.57</version>
+      <version>5.0.58</version>
+      <version>5.0.59</version>
+      <version>5.0.60</version>
+      <version>5.0.61</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -245,7 +252,6 @@
       <version>6.0.66</version>
       <version>6.0.67</version>
       <version>6.0.68</version>
-      <version>2.0.48</version>
       <version>6.0.69</version>
       <version>6.0.70</version>
       <version>6.0.71</version>
@@ -255,20 +261,14 @@
       <version>6.0.75</version>
       <version>6.0.76</version>
       <version>6.0.77</version>
-      <version>5.0.58</version>
       <version>6.0.78</version>
-      <version>5.0.59</version>
       <version>6.0.79</version>
       <version>6.0.80</version>
-      <version>5.0.60</version>
       <version>6.0.81</version>
-      <version>5.0.61</version>
       <version>6.0.82</version>
       <version>6.0.83</version>
       <version>6.0.84</version>
-      <version>3.0.27</version>
-      <version>4.0.36</version>
     </versions>
-    <lastUpdated>20230705172212</lastUpdated>
+    <lastUpdated>20230706012922</lastUpdated>
   </versioning>
 </metadata>
