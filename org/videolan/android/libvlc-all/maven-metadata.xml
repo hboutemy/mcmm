@@ -3,8 +3,8 @@
   <groupId>org.videolan.android</groupId>
   <artifactId>libvlc-all</artifactId>
   <versioning>
-    <latest>4.0.0-eap11</latest>
-    <release>4.0.0-eap11</release>
+    <latest>4.0.0-eap12</latest>
+    <release>4.0.0-eap12</release>
     <versions>
       <version>3.1.0</version>
       <version>3.1.1</version>
@@ -116,6 +116,7 @@
       <version>3.6.0-eap6</version>
       <version>3.6.0-eap7</version>
       <version>3.6.0-eap8</version>
+      <version>3.6.0-eap9</version>
       <version>4.0.0-eap1</version>
       <version>4.0.0-eap2</version>
       <version>4.0.0-eap3</version>
@@ -127,7 +128,8 @@
       <version>4.0.0-eap9</version>
       <version>4.0.0-eap10</version>
       <version>4.0.0-eap11</version>
+      <version>4.0.0-eap12</version>
     </versions>
-    <lastUpdated>20230522124247</lastUpdated>
+    <lastUpdated>20230707122204</lastUpdated>
   </versioning>
 </metadata>

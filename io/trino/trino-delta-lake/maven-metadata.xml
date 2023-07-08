@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-delta-lake</artifactId>
   <versioning>
-    <latest>420</latest>
-    <release>420</release>
+    <latest>421</latest>
+    <release>421</release>
     <versions>
       <version>373</version>
       <version>374</version>
@@ -53,7 +53,8 @@
       <version>418</version>
       <version>419</version>
       <version>420</version>
+      <version>421</version>
     </versions>
-    <lastUpdated>20230622190902</lastUpdated>
+    <lastUpdated>20230707042039</lastUpdated>
   </versioning>
 </metadata>

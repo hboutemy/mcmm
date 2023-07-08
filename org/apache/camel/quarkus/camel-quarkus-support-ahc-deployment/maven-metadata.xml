@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-support-ahc-deployment</artifactId>
   <versioning>
-    <latest>3.0.0-M2</latest>
-    <release>3.0.0-M2</release>
+    <latest>3.0.0-RC1</latest>
+    <release>3.0.0-RC1</release>
     <versions>
       <version>1.0.0-M3</version>
       <version>1.0.0-M4</version>
@@ -52,7 +52,8 @@
       <version>2.16.0</version>
       <version>3.0.0-M1</version>
       <version>3.0.0-M2</version>
+      <version>3.0.0-RC1</version>
     </versions>
-    <lastUpdated>20230529090425</lastUpdated>
+    <lastUpdated>20230707103229</lastUpdated>
   </versioning>
 </metadata>

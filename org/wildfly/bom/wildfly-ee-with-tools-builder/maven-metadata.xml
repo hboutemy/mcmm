@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-ee-with-tools-builder</artifactId>
   <versioning>
-    <latest>28.0.1.Final</latest>
-    <release>28.0.1.Final</release>
+    <latest>29.0.0.Beta1</latest>
+    <release>29.0.0.Beta1</release>
     <versions>
       <version>27.0.0.Alpha4</version>
       <version>27.0.0.Beta1</version>
@@ -13,7 +13,8 @@
       <version>28.0.0.Beta1</version>
       <version>28.0.0.Final</version>
       <version>28.0.1.Final</version>
+      <version>29.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20230522114517</lastUpdated>
+    <lastUpdated>20230706143701</lastUpdated>
   </versioning>
 </metadata>

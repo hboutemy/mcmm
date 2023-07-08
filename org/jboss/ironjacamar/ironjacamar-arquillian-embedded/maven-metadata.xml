@@ -3,8 +3,8 @@
   <groupId>org.jboss.ironjacamar</groupId>
   <artifactId>ironjacamar-arquillian-embedded</artifactId>
   <versioning>
-    <latest>3.0.2.Final</latest>
-    <release>3.0.2.Final</release>
+    <latest>3.0.3.Final</latest>
+    <release>3.0.3.Final</release>
     <versions>
       <version>1.1.0.Beta3</version>
       <version>1.1.0.Beta4</version>
@@ -95,10 +95,12 @@
       <version>1.5.10.Final</version>
       <version>1.5.11.Final</version>
       <version>1.5.11.SP1</version>
+      <version>1.5.12.Final</version>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
+      <version>3.0.3.Final</version>
     </versions>
-    <lastUpdated>20230407084934</lastUpdated>
+    <lastUpdated>20230706170118</lastUpdated>
   </versioning>
 </metadata>

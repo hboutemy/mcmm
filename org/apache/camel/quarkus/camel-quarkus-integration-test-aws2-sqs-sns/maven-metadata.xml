@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-test-aws2-sqs-sns</artifactId>
   <versioning>
-    <latest>3.0.0-M2</latest>
-    <release>3.0.0-M2</release>
+    <latest>3.0.0-RC1</latest>
+    <release>3.0.0-RC1</release>
     <versions>
       <version>1.7.0</version>
       <version>1.8.0</version>
@@ -37,7 +37,8 @@
       <version>2.16.0</version>
       <version>3.0.0-M1</version>
       <version>3.0.0-M2</version>
+      <version>3.0.0-RC1</version>
     </versions>
-    <lastUpdated>20230529081325</lastUpdated>
+    <lastUpdated>20230707093853</lastUpdated>
   </versioning>
 </metadata>

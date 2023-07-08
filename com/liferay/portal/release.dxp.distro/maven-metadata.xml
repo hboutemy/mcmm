@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.distro</artifactId>
   <versioning>
     <latest>7.4.13.u83</latest>
-    <release>7.4.13.u83</release>
+    <release>7.3.10.u29</release>
     <versions>
       <version>7.0.10.fp60</version>
       <version>7.0.10.fp61</version>
@@ -240,7 +240,9 @@
       <version>7.4.13.u81</version>
       <version>7.4.13.u82</version>
       <version>7.4.13.u83</version>
+      <version>7.4.13.u84</version>
+      <version>7.3.10.u29</version>
     </versions>
-    <lastUpdated>20230706043144</lastUpdated>
+    <lastUpdated>20230707211415</lastUpdated>
   </versioning>
 </metadata>

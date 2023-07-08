@@ -3,12 +3,13 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-test-cxf-soap-ssl</artifactId>
   <versioning>
-    <latest>3.0.0-M2</latest>
-    <release>3.0.0-M2</release>
+    <latest>3.0.0-RC1</latest>
+    <release>3.0.0-RC1</release>
     <versions>
       <version>2.13.3</version>
       <version>3.0.0-M2</version>
+      <version>3.0.0-RC1</version>
     </versions>
-    <lastUpdated>20230529081814</lastUpdated>
+    <lastUpdated>20230707094258</lastUpdated>
   </versioning>
 </metadata>

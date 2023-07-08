@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-test-jira</artifactId>
   <versioning>
-    <latest>2.16.0</latest>
-    <release>2.16.0</release>
+    <latest>3.0.0-RC1</latest>
+    <release>3.0.0-RC1</release>
     <versions>
       <version>1.0.0-M4</version>
       <version>1.0.0-M5</version>
@@ -49,7 +49,8 @@
       <version>2.14.0</version>
       <version>2.15.0</version>
       <version>2.16.0</version>
+      <version>3.0.0-RC1</version>
     </versions>
-    <lastUpdated>20230417181046</lastUpdated>
+    <lastUpdated>20230707094943</lastUpdated>
   </versioning>
 </metadata>
