@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-integrationtests-commons</artifactId>
   <versioning>
-    <latest>14.0.11.Final</latest>
-    <release>14.0.11.Final</release>
+    <latest>14.0.12.Final</latest>
+    <release>14.0.12.Final</release>
     <versions>
       <version>11.0.6.Final</version>
       <version>12.0.0.CR1</version>
@@ -77,8 +77,9 @@
       <version>14.0.9.Final</version>
       <version>14.0.10.Final</version>
       <version>14.0.11.Final</version>
+      <version>14.0.12.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20230614133343</lastUpdated>
+    <lastUpdated>20230710161528</lastUpdated>
   </versioning>
 </metadata>

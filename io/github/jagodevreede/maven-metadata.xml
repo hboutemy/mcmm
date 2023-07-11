@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>SemVer check Maven Plugin</name>
+      <prefix>repository-cleaner</prefix>
+      <artifactId>repository-cleaner</artifactId>
+    </plugin>
+    <plugin>
+      <name>SemVer check Maven Plugin</name>
       <prefix>semver-check</prefix>
       <artifactId>semver-check-maven-plugin</artifactId>
     </plugin>
