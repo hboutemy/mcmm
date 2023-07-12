@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-lib-commons</artifactId>
   <versioning>
-    <latest>9.0.0-rc3</latest>
-    <release>9.0.0-rc3</release>
+    <latest>9.0.0</latest>
+    <release>9.0.0</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -500,6 +500,7 @@
       <version>8.7.15</version>
       <version>8.7.16</version>
       <version>8.7.17</version>
+      <version>8.7.18</version>
       <version>8.8.0-rc1</version>
       <version>8.8.0-rc2</version>
       <version>8.8.0-rc3</version>
@@ -515,6 +516,7 @@
       <version>8.8.9</version>
       <version>8.8.10</version>
       <version>8.8.11</version>
+      <version>8.8.12</version>
       <version>8.9.0-rc1</version>
       <version>8.9.0-rc2</version>
       <version>8.9.0-rc3</version>
@@ -524,10 +526,12 @@
       <version>8.9.3</version>
       <version>8.9.4</version>
       <version>8.9.5</version>
+      <version>8.9.6</version>
       <version>9.0.0-rc1</version>
       <version>9.0.0-rc2</version>
       <version>9.0.0-rc3</version>
+      <version>9.0.0</version>
     </versions>
-    <lastUpdated>20230704163511</lastUpdated>
+    <lastUpdated>20230711165236</lastUpdated>
   </versioning>
 </metadata>

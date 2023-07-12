@@ -3,8 +3,8 @@
   <groupId>io.spring.initializr</groupId>
   <artifactId>initializr-parent</artifactId>
   <versioning>
-    <latest>0.13.0</latest>
-    <release>0.13.0</release>
+    <latest>0.20.0</latest>
+    <release>0.20.0</release>
     <versions>
       <version>0.8.0.RELEASE</version>
       <version>0.9.0</version>
@@ -17,8 +17,9 @@
       <version>0.11.1</version>
       <version>0.12.0</version>
       <version>0.13.0</version>
+      <version>0.20.0</version>
       <version>0.10.0</version>
     </versions>
-    <lastUpdated>20221021074629</lastUpdated>
+    <lastUpdated>20230711175547</lastUpdated>
   </versioning>
 </metadata>

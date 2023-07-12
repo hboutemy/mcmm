@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.module</groupId>
   <artifactId>weld-ejb</artifactId>
   <versioning>
-    <latest>5.1.1.Final</latest>
-    <release>5.1.1.Final</release>
+    <latest>5.1.1.SP1</latest>
+    <release>5.1.1.SP1</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Alpha7</version>
@@ -66,7 +66,8 @@
       <version>5.0.1.Final</version>
       <version>5.1.0.Final</version>
       <version>5.1.1.Final</version>
+      <version>5.1.1.SP1</version>
     </versions>
-    <lastUpdated>20230612111935</lastUpdated>
+    <lastUpdated>20230711151517</lastUpdated>
   </versioning>
 </metadata>

@@ -12,6 +12,11 @@
       <artifactId>qa-orcanos-publisher-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>QA S3 Publisher Maven Plugin</name>
+      <prefix>qa-s3-publisher</prefix>
+      <artifactId>qa-s3-publisher-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>QA S3 Uploader Maven Plugin</name>
       <prefix>qa-s3-uploader</prefix>
       <artifactId>qa-s3-uploader-maven-plugin</artifactId>
