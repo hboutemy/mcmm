@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>leader-election-api-protobufs</artifactId>
   <versioning>
-    <latest>0.892.0</latest>
-    <release>0.892.0</release>
+    <latest>0.893.0</latest>
+    <release>0.893.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -699,7 +699,8 @@
       <version>0.890.0</version>
       <version>0.891.0</version>
       <version>0.892.0</version>
+      <version>0.893.0</version>
     </versions>
-    <lastUpdated>20230711170220</lastUpdated>
+    <lastUpdated>20230712170420</lastUpdated>
   </versioning>
 </metadata>

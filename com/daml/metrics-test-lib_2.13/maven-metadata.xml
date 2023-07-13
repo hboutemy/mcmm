@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>metrics-test-lib_2.13</artifactId>
   <versioning>
-    <latest>2.7.0-snapshot.20230710.11943.0.v20c0149b</latest>
-    <release>2.7.0-snapshot.20230710.11943.0.v20c0149b</release>
+    <latest>2.7.0-snapshot.20230711.11951.0.v6dbda0a7</latest>
+    <release>2.7.0-snapshot.20230711.11951.0.v6dbda0a7</release>
     <versions>
       <version>1.14.0-snapshot.20210518.6953.0.a6c7b86a</version>
       <version>1.14.0-snapshot.20210526.7024.0.aedb9a82</version>
@@ -230,6 +230,7 @@
       <version>2.3.12-snapshot.20230421.10127.0.b799c56c</version>
       <version>2.3.12</version>
       <version>2.3.13</version>
+      <version>2.3.14</version>
       <version>2.4.0-snapshot.20220622.10127.0.c2cd6141</version>
       <version>2.4.0-snapshot.20220623.10129.0.0d1ef104</version>
       <version>2.4.0-snapshot.20220624.10131.0.7cd677e3</version>
@@ -534,7 +535,8 @@
       <version>2.7.0-snapshot.20230705.11934.0.v088aa027</version>
       <version>2.7.0-snapshot.20230706.11941.0.v242fe0f4</version>
       <version>2.7.0-snapshot.20230710.11943.0.v20c0149b</version>
+      <version>2.7.0-snapshot.20230711.11951.0.v6dbda0a7</version>
     </versions>
-    <lastUpdated>20230711024431</lastUpdated>
+    <lastUpdated>20230712102601</lastUpdated>
   </versioning>
 </metadata>

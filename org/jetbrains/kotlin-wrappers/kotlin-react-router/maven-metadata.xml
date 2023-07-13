@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin-wrappers</groupId>
   <artifactId>kotlin-react-router</artifactId>
   <versioning>
-    <latest>6.14.1-pre.594</latest>
-    <release>6.14.1-pre.594</release>
+    <latest>6.14.1-pre.595-compat</latest>
+    <release>6.14.1-pre.595-compat</release>
     <versions>
       <version>6.7.0-pre.481</version>
       <version>6.7.0-pre.481-compat</version>
@@ -148,7 +148,9 @@
       <version>6.14.1-pre.593</version>
       <version>6.14.1-pre.593-compat</version>
       <version>6.14.1-pre.594</version>
+      <version>6.14.1-pre.595</version>
+      <version>6.14.1-pre.595-compat</version>
     </versions>
-    <lastUpdated>20230710211435</lastUpdated>
+    <lastUpdated>20230712062940</lastUpdated>
   </versioning>
 </metadata>

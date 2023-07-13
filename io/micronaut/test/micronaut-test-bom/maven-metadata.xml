@@ -3,8 +3,8 @@
   <groupId>io.micronaut.test</groupId>
   <artifactId>micronaut-test-bom</artifactId>
   <versioning>
-    <latest>4.0.0-M9</latest>
-    <release>4.0.0-M9</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>1.2.0.RC6</version>
       <version>1.2.0</version>
@@ -60,7 +60,8 @@
       <version>4.0.0-M7</version>
       <version>4.0.0-M8</version>
       <version>4.0.0-M9</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20230706075544</lastUpdated>
+    <lastUpdated>20230712093739</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.zepben</groupId>
   <artifactId>evolve-sdk</artifactId>
   <versioning>
-    <latest>0.16.0-SNAPSHOT3</latest>
-    <release>0.16.0-SNAPSHOT3</release>
+    <latest>0.16.0-SNAPSHOT4-HC</latest>
+    <release>0.16.0-SNAPSHOT4-HC</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -104,7 +104,9 @@
       <version>0.16.0-SNAPSHOT1</version>
       <version>0.16.0-SNAPSHOT2</version>
       <version>0.16.0-SNAPSHOT3</version>
+      <version>0.16.0-SNAPSHOT4</version>
+      <version>0.16.0-SNAPSHOT4-HC</version>
     </versions>
-    <lastUpdated>20230526092319</lastUpdated>
+    <lastUpdated>20230712111023</lastUpdated>
   </versioning>
 </metadata>
