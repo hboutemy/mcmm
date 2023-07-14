@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.dynamic.data.mapping.web</artifactId>
   <versioning>
     <latest>5.0.88</latest>
-    <release>5.0.88</release>
+    <release>5.0.89</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -549,7 +549,8 @@
       <version>5.0.86</version>
       <version>5.0.87</version>
       <version>5.0.88</version>
+      <version>5.0.89</version>
     </versions>
-    <lastUpdated>20230706040301</lastUpdated>
+    <lastUpdated>20230713120319</lastUpdated>
   </versioning>
 </metadata>

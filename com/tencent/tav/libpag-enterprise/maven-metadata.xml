@@ -3,8 +3,8 @@
   <groupId>com.tencent.tav</groupId>
   <artifactId>libpag-enterprise</artifactId>
   <versioning>
-    <latest>4.2.100-noffavc</latest>
-    <release>4.2.100-noffavc</release>
+    <latest>4.3.3-noffavc</latest>
+    <release>4.3.3-noffavc</release>
     <versions>
       <version>0.0.119</version>
       <version>0.0.119-nomovie</version>
@@ -13,6 +13,9 @@
       <version>0.8.59</version>
       <version>0.8.59-movie</version>
       <version>0.8.59-noffavc</version>
+      <version>0.13.9</version>
+      <version>0.13.9-movie</version>
+      <version>0.13.9-noffavc</version>
       <version>4.2.0.1</version>
       <version>4.2.0.1-movie</version>
       <version>4.2.0.1-noffavc</version>
@@ -140,7 +143,19 @@
       <version>4.2.100</version>
       <version>4.2.100-movie</version>
       <version>4.2.100-noffavc</version>
+      <version>4.2.101</version>
+      <version>4.2.101-movie</version>
+      <version>4.2.101-noffavc</version>
+      <version>4.3.1</version>
+      <version>4.3.1-movie</version>
+      <version>4.3.1-noffavc</version>
+      <version>4.3.2</version>
+      <version>4.3.2-movie</version>
+      <version>4.3.2-noffavc</version>
+      <version>4.3.3</version>
+      <version>4.3.3-movie</version>
+      <version>4.3.3-noffavc</version>
     </versions>
-    <lastUpdated>20230712100708</lastUpdated>
+    <lastUpdated>20230713124840</lastUpdated>
   </versioning>
 </metadata>
