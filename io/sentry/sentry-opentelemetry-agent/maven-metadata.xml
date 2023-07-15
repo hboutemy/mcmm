@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-opentelemetry-agent</artifactId>
   <versioning>
-    <latest>6.25.1</latest>
-    <release>6.25.1</release>
+    <latest>6.25.2</latest>
+    <release>6.25.2</release>
     <versions>
       <version>6.9.1</version>
       <version>6.9.2</version>
@@ -30,7 +30,8 @@
       <version>6.24.0</version>
       <version>6.25.0</version>
       <version>6.25.1</version>
+      <version>6.25.2</version>
     </versions>
-    <lastUpdated>20230712094726</lastUpdated>
+    <lastUpdated>20230714084806</lastUpdated>
   </versioning>
 </metadata>

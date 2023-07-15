@@ -3,8 +3,8 @@
   <groupId>com.spotify</groupId>
   <artifactId>scio-elasticsearch7_2.12</artifactId>
   <versioning>
-    <latest>0.13.0</latest>
-    <release>0.13.0</release>
+    <latest>0.14.0-dev1</latest>
+    <release>0.14.0-dev1</release>
     <versions>
       <version>0.8.0-alpha2</version>
       <version>0.8.0-beta1</version>
@@ -60,8 +60,10 @@
       <version>0.12.8</version>
       <version>0.13.0-RC1</version>
       <version>0.13.0</version>
+      <version>0.14.0-dev0</version>
+      <version>0.14.0-dev1</version>
       <version>0.12.0-RC1</version>
     </versions>
-    <lastUpdated>20230621174955</lastUpdated>
+    <lastUpdated>20230714205624</lastUpdated>
   </versioning>
 </metadata>

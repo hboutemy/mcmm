@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Classfile Fingerprint Generator</name>
+      <prefix>classfile-fingerprint</prefix>
+      <artifactId>classfile-fingerprint</artifactId>
+    </plugin>
+    <plugin>
       <name>Next Semver</name>
       <prefix>semver</prefix>
       <artifactId>semver</artifactId>
