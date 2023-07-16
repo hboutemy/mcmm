@@ -3,15 +3,17 @@
   <groupId>io.github.rediscala</groupId>
   <artifactId>rediscala_2.12</artifactId>
   <versioning>
-    <latest>1.13.1</latest>
-    <release>1.13.1</release>
+    <latest>1.14.0-pekko</latest>
+    <release>1.14.0-pekko</release>
     <versions>
       <version>1.10.0</version>
       <version>1.11.0</version>
       <version>1.12.0</version>
       <version>1.13.0</version>
       <version>1.13.1</version>
+      <version>1.14.0-akka</version>
+      <version>1.14.0-pekko</version>
     </versions>
-    <lastUpdated>20230506040439</lastUpdated>
+    <lastUpdated>20230715002154</lastUpdated>
   </versioning>
 </metadata>
