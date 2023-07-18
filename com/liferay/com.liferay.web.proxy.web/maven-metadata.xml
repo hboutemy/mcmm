@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.web.proxy.web</artifactId>
   <versioning>
     <latest>5.0.22</latest>
-    <release>5.0.22</release>
+    <release>1.0.35</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -130,7 +130,8 @@
       <version>5.0.20</version>
       <version>5.0.21</version>
       <version>5.0.22</version>
+      <version>1.0.35</version>
     </versions>
-    <lastUpdated>20230706022427</lastUpdated>
+    <lastUpdated>20230717083223</lastUpdated>
   </versioning>
 </metadata>

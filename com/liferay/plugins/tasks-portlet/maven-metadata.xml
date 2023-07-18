@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.plugins</groupId>
   <artifactId>tasks-portlet</artifactId>
   <versioning>
     <latest>7.4.10.1</latest>
-    <release>7.4.10.1</release>
+    <release>7.0.10.79</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -258,7 +258,8 @@
       <version>7.3.10.47</version>
       <version>7.3.10.48</version>
       <version>7.4.10.1</version>
+      <version>7.0.10.79</version>
     </versions>
-    <lastUpdated>20230706050308</lastUpdated>
+    <lastUpdated>20230717074725</lastUpdated>
   </versioning>
 </metadata>

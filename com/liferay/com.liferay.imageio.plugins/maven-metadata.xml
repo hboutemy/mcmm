@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.imageio.plugins</artifactId>
   <versioning>
     <latest>5.0.6</latest>
-    <release>5.0.6</release>
+    <release>1.0.10</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -50,7 +50,8 @@
       <version>5.0.4</version>
       <version>5.0.5</version>
       <version>5.0.6</version>
+      <version>1.0.10</version>
     </versions>
-    <lastUpdated>20230706055707</lastUpdated>
+    <lastUpdated>20230717081338</lastUpdated>
   </versioning>
 </metadata>

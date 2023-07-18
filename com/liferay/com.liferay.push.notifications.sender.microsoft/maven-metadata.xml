@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.push.notifications.sender.microsoft</artifactId>
   <versioning>
     <latest>5.0.15</latest>
-    <release>5.0.15</release>
+    <release>1.0.27</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -116,7 +116,8 @@
       <version>5.0.13</version>
       <version>5.0.14</version>
       <version>5.0.15</version>
+      <version>1.0.27</version>
     </versions>
-    <lastUpdated>20230706042233</lastUpdated>
+    <lastUpdated>20230717091431</lastUpdated>
   </versioning>
 </metadata>

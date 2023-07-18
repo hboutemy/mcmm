@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>docker-maven-plugin</name>
+      <prefix>docker</prefix>
+      <artifactId>docker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Stratio scala-cross-build-maven-plugin Maven Mojo</name>
       <prefix>scala-cross-build</prefix>
       <artifactId>scala-cross-build-maven-plugin</artifactId>

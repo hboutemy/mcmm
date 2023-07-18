@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.image.editor.integration.document.library</artifactId>
   <versioning>
     <latest>4.0.26</latest>
-    <release>4.0.26</release>
+    <release>1.0.45</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -129,7 +129,8 @@
       <version>4.0.24</version>
       <version>4.0.25</version>
       <version>4.0.26</version>
+      <version>1.0.45</version>
     </versions>
-    <lastUpdated>20230706013656</lastUpdated>
+    <lastUpdated>20230717093230</lastUpdated>
   </versioning>
 </metadata>

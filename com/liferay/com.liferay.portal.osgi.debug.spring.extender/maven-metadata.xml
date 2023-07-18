@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.osgi.debug.spring.extender</artifactId>
   <versioning>
     <latest>5.0.11</latest>
-    <release>5.0.11</release>
+    <release>1.0.27</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -112,7 +112,8 @@
       <version>5.0.9</version>
       <version>5.0.10</version>
       <version>5.0.11</version>
+      <version>1.0.27</version>
     </versions>
-    <lastUpdated>20230706044815</lastUpdated>
+    <lastUpdated>20230717082036</lastUpdated>
   </versioning>
 </metadata>
