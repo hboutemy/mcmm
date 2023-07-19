@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>flexicore-plugins-test-plugins Maven Mojo</name>
+      <prefix>flexicoretest</prefix>
+      <artifactId>flexicore-plugin-test-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>metamodel-inheritence-fix-processor</name>
       <prefix>metamodel-inheritence-fix-processor</prefix>
       <artifactId>metamodel-inheritence-fix-processor</artifactId>

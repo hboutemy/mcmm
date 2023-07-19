@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-feature-pack-ee-10-api</artifactId>
   <versioning>
-    <latest>21.1.0.Beta2</latest>
-    <release>21.1.0.Beta2</release>
+    <latest>21.1.0.Final</latest>
+    <release>21.1.0.Final</release>
     <versions>
       <version>19.0.0.Beta17</version>
       <version>19.0.0.Beta18</version>
@@ -27,7 +27,8 @@
       <version>21.0.0.Beta4</version>
       <version>21.1.0.Beta1</version>
       <version>21.1.0.Beta2</version>
+      <version>21.1.0.Final</version>
     </versions>
-    <lastUpdated>20230703121536</lastUpdated>
+    <lastUpdated>20230717115201</lastUpdated>
   </versioning>
 </metadata>

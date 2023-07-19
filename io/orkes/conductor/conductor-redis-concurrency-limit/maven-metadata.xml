@@ -3,8 +3,8 @@
   <groupId>io.orkes.conductor</groupId>
   <artifactId>conductor-redis-concurrency-limit</artifactId>
   <versioning>
-    <latest>3.9.15-orkes</latest>
-    <release>3.9.15-orkes</release>
+    <latest>3.9.16-orkes</latest>
+    <release>3.9.16-orkes</release>
     <versions>
       <version>3.7.3-a</version>
       <version>3.9.0-orkes-g</version>
@@ -27,7 +27,8 @@
       <version>3.9.12-orkes</version>
       <version>3.9.13-orkes</version>
       <version>3.9.15-orkes</version>
+      <version>3.9.16-orkes</version>
     </versions>
-    <lastUpdated>20230707212507</lastUpdated>
+    <lastUpdated>20230718203239</lastUpdated>
   </versioning>
 </metadata>

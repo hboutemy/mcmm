@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Helidon Injection Maven Plugin</name>
+      <prefix>helidon-inject</prefix>
+      <artifactId>helidon-inject-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
