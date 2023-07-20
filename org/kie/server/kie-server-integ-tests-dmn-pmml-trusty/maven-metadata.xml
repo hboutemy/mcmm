@@ -3,8 +3,8 @@
   <groupId>org.kie.server</groupId>
   <artifactId>kie-server-integ-tests-dmn-pmml-trusty</artifactId>
   <versioning>
-    <latest>7.74.0.Final</latest>
-    <release>7.74.0.Final</release>
+    <latest>7.74.1.Final</latest>
+    <release>7.74.1.Final</release>
     <versions>
       <version>7.50.0.Final</version>
       <version>7.51.0.Final</version>
@@ -31,7 +31,8 @@
       <version>7.72.0.Final</version>
       <version>7.73.0.Final</version>
       <version>7.74.0.Final</version>
+      <version>7.74.1.Final</version>
     </versions>
-    <lastUpdated>20230628120251</lastUpdated>
+    <lastUpdated>20230719105050</lastUpdated>
   </versioning>
 </metadata>

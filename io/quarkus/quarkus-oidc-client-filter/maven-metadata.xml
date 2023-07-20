@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-oidc-client-filter</artifactId>
   <versioning>
-    <latest>3.2.0.Final</latest>
-    <release>3.2.0.Final</release>
+    <latest>3.2.1.Final</latest>
+    <release>3.2.1.Final</release>
     <versions>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
@@ -154,7 +154,8 @@
       <version>3.1.3.Final</version>
       <version>3.2.0.CR1</version>
       <version>3.2.0.Final</version>
+      <version>3.2.1.Final</version>
     </versions>
-    <lastUpdated>20230704132300</lastUpdated>
+    <lastUpdated>20230719113903</lastUpdated>
   </versioning>
 </metadata>
