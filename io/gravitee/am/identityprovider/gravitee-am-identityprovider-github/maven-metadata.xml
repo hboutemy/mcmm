@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-github</artifactId>
   <versioning>
-    <latest>3.21.2</latest>
-    <release>3.21.2</release>
+    <latest>3.21.4</latest>
+    <release>3.21.4</release>
     <versions>
       <version>1.6.0</version>
       <version>1.6.1</version>
@@ -233,6 +233,7 @@
       <version>3.19.11</version>
       <version>3.19.12</version>
       <version>3.19.13</version>
+      <version>3.19.16</version>
       <version>3.20.0-alpha.1</version>
       <version>3.20.0-alpha.2</version>
       <version>3.20.0</version>
@@ -244,6 +245,7 @@
       <version>3.20.6</version>
       <version>3.20.7</version>
       <version>3.20.8</version>
+      <version>3.20.10</version>
       <version>3.21.0-alpha.1</version>
       <version>3.21.0-alpha.2</version>
       <version>3.21.0-alpha.3</version>
@@ -252,7 +254,8 @@
       <version>3.21.0</version>
       <version>3.21.1</version>
       <version>3.21.2</version>
+      <version>3.21.4</version>
     </versions>
-    <lastUpdated>20230628205236</lastUpdated>
+    <lastUpdated>20230720170401</lastUpdated>
   </versioning>
 </metadata>
