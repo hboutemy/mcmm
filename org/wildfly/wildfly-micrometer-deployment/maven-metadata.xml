@@ -3,15 +3,16 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-micrometer-deployment</artifactId>
   <versioning>
-    <latest>29.0.0.Beta1</latest>
-    <release>29.0.0.Beta1</release>
+    <latest>29.0.0.Final</latest>
+    <release>29.0.0.Final</release>
     <versions>
       <version>28.0.0.Beta1</version>
       <version>28.0.0.Final</version>
       <version>28.0.1.Final</version>
       <version>29.0.0.Alpha1</version>
       <version>29.0.0.Beta1</version>
+      <version>29.0.0.Final</version>
     </versions>
-    <lastUpdated>20230705183918</lastUpdated>
+    <lastUpdated>20230720170735</lastUpdated>
   </versioning>
 </metadata>

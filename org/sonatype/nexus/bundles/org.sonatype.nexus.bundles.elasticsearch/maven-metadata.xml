@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.bundles</groupId>
   <artifactId>org.sonatype.nexus.bundles.elasticsearch</artifactId>
   <versioning>
-    <latest>3.58.0-01</latest>
-    <release>3.58.0-01</release>
+    <latest>3.58.1-01</latest>
+    <release>3.58.1-01</release>
     <versions>
       <version>3.2.0-01</version>
       <version>3.2.1-01</version>
@@ -121,8 +121,10 @@
       <version>3.55.0-01</version>
       <version>3.56.0-01</version>
       <version>3.57.0-01</version>
+      <version>3.57.1-02</version>
       <version>3.58.0-01</version>
+      <version>3.58.1-01</version>
     </versions>
-    <lastUpdated>20230717100803</lastUpdated>
+    <lastUpdated>20230721221154</lastUpdated>
   </versioning>
 </metadata>
