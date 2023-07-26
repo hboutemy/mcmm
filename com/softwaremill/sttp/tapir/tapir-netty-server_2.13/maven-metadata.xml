@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-netty-server_2.13</artifactId>
   <versioning>
-    <latest>1.6.2</latest>
-    <release>1.6.2</release>
+    <latest>1.6.3</latest>
+    <release>1.6.3</release>
     <versions>
       <version>0.19.0-M9</version>
       <version>0.19.0-M10</version>
@@ -75,7 +75,8 @@
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
+      <version>1.6.3</version>
     </versions>
-    <lastUpdated>20230719165515</lastUpdated>
+    <lastUpdated>20230725173243</lastUpdated>
   </versioning>
 </metadata>
