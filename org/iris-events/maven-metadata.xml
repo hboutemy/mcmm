@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Iris Maven - AsyncAPI merge tool</name>
+      <prefix>asyncapi-merge</prefix>
+      <artifactId>asyncapi-merge-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Iris Maven - AsyncAPI schema generator</name>
+      <prefix>asyncapi-schema-generator</prefix>
+      <artifactId>asyncapi-schema-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Iris Maven - Model generator</name>
+      <prefix>model-generator</prefix>
+      <artifactId>model-generator-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
