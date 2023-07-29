@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Jarfile Hashing Maven Mojo</name>
+      <prefix>slsa-hashing</prefix>
+      <artifactId>slsa-hashing-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

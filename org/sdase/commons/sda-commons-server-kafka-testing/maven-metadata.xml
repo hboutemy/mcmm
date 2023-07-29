@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-server-kafka-testing</artifactId>
   <versioning>
-    <latest>5.2.7</latest>
-    <release>5.2.7</release>
+    <latest>5.2.12</latest>
+    <release>5.2.12</release>
     <versions>
       <version>0.80.6</version>
       <version>0.80.7</version>
@@ -679,6 +679,9 @@
       <version>2.64.76</version>
       <version>2.64.77</version>
       <version>2.64.78</version>
+      <version>2.64.79</version>
+      <version>2.64.80</version>
+      <version>2.64.81</version>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
       <version>3.0.0-rc.1</version>
@@ -811,7 +814,12 @@
       <version>5.2.4</version>
       <version>5.2.6</version>
       <version>5.2.7</version>
+      <version>5.2.8</version>
+      <version>5.2.9</version>
+      <version>5.2.10</version>
+      <version>5.2.11</version>
+      <version>5.2.12</version>
     </versions>
-    <lastUpdated>20230724072258</lastUpdated>
+    <lastUpdated>20230728123743</lastUpdated>
   </versioning>
 </metadata>
