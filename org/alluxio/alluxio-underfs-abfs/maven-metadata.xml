@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-underfs-abfs</artifactId>
   <versioning>
-    <latest>301</latest>
-    <release>301</release>
+    <latest>302</latest>
+    <release>302</release>
     <versions>
       <version>2.4.1-1</version>
       <version>2.4.1-2</version>
@@ -43,7 +43,8 @@
       <version>295</version>
       <version>300</version>
       <version>301</version>
+      <version>302</version>
     </versions>
-    <lastUpdated>20230714171323</lastUpdated>
+    <lastUpdated>20230730052111</lastUpdated>
   </versioning>
 </metadata>

@@ -122,6 +122,11 @@
       <artifactId>tycho-pomgenerator-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Repository Plugin</name>
+      <prefix>tycho-repository</prefix>
+      <artifactId>tycho-repository-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho OSGi Source Plugin</name>
       <prefix>tycho-source</prefix>
       <artifactId>tycho-source-plugin</artifactId>

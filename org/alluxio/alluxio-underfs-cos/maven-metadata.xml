@@ -3,8 +3,8 @@
   <groupId>org.alluxio</groupId>
   <artifactId>alluxio-underfs-cos</artifactId>
   <versioning>
-    <latest>301</latest>
-    <release>301</release>
+    <latest>302</latest>
+    <release>302</release>
     <versions>
       <version>1.8.1</version>
       <version>1.8.2</version>
@@ -61,7 +61,8 @@
       <version>295</version>
       <version>300</version>
       <version>301</version>
+      <version>302</version>
     </versions>
-    <lastUpdated>20230714171326</lastUpdated>
+    <lastUpdated>20230730052113</lastUpdated>
   </versioning>
 </metadata>
