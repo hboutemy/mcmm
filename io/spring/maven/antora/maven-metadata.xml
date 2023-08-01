@@ -6,5 +6,10 @@
       <prefix>antora-component-version</prefix>
       <artifactId>antora-component-version-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>antora-maven-plugin Maven Plugin</name>
+      <prefix>antora</prefix>
+      <artifactId>antora-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>lincheck-jvm</artifactId>
   <versioning>
-    <latest>2.22</latest>
-    <release>2.22</release>
+    <latest>2.23-IDEA-PLUGIN</latest>
+    <release>2.23-IDEA-PLUGIN</release>
     <versions>
       <version>2.12</version>
       <version>2.13</version>
@@ -22,7 +22,9 @@
       <version>2.21-IDEA-PLUGIN-1</version>
       <version>2.21-IDEA-PLUGIN-2</version>
       <version>2.22</version>
+      <version>2.23</version>
+      <version>2.23-IDEA-PLUGIN</version>
     </versions>
-    <lastUpdated>20230717153605</lastUpdated>
+    <lastUpdated>20230731212301</lastUpdated>
   </versioning>
 </metadata>
