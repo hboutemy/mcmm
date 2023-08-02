@@ -3,8 +3,8 @@
   <groupId>com.exponea.sdk</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.7.0-realm</latest>
+    <release>3.7.0-realm</release>
     <versions>
       <version>"2.9.3"</version>
       <version>0.9.2</version>
@@ -76,7 +76,8 @@
       <version>3.6.0</version>
       <version>3.6.1</version>
       <version>3.7.0</version>
+      <version>3.7.0-realm</version>
     </versions>
-    <lastUpdated>20230728131320</lastUpdated>
+    <lastUpdated>20230801112105</lastUpdated>
   </versioning>
 </metadata>

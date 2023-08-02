@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-jobs-service-springboot</artifactId>
   <versioning>
-    <latest>1.41.0.Final</latest>
-    <release>1.41.0.Final</release>
+    <latest>1.42.0.Final</latest>
+    <release>1.42.0.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.1.0.Final</version>
@@ -58,7 +58,8 @@
       <version>1.40.0.Final</version>
       <version>1.40.1.Final</version>
       <version>1.41.0.Final</version>
+      <version>1.42.0.Final</version>
     </versions>
-    <lastUpdated>20230705103025</lastUpdated>
+    <lastUpdated>20230801162048</lastUpdated>
   </versioning>
 </metadata>

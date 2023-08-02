@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.multi.factor.authentication.fido2.credential.api</artifactId>
   <versioning>
     <latest>5.3.0</latest>
-    <release>5.3.0</release>
+    <release>5.3.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -26,7 +26,8 @@
       <version>5.1.0</version>
       <version>5.2.0</version>
       <version>5.3.0</version>
+      <version>5.3.1</version>
     </versions>
-    <lastUpdated>20230706012734</lastUpdated>
+    <lastUpdated>20230801024705</lastUpdated>
   </versioning>
 </metadata>

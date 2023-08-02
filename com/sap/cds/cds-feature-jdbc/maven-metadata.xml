@@ -3,8 +3,8 @@
   <groupId>com.sap.cds</groupId>
   <artifactId>cds-feature-jdbc</artifactId>
   <versioning>
-    <latest>2.0.2</latest>
-    <release>2.0.2</release>
+    <latest>2.1.0</latest>
+    <release>2.1.0</release>
     <versions>
       <version>1.10.0</version>
       <version>1.11.0</version>
@@ -67,9 +67,11 @@
       <version>1.34.1</version>
       <version>1.34.2</version>
       <version>1.34.3</version>
+      <version>1.34.4</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
+      <version>2.1.0</version>
     </versions>
-    <lastUpdated>20230725110425</lastUpdated>
+    <lastUpdated>20230801105346</lastUpdated>
   </versioning>
 </metadata>
