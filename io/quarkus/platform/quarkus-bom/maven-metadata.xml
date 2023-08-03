@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-bom</artifactId>
   <versioning>
-    <latest>3.2.2.Final</latest>
-    <release>3.2.2.Final</release>
+    <latest>3.2.3.Final</latest>
+    <release>3.2.3.Final</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -125,7 +125,8 @@
       <version>3.2.0.Final</version>
       <version>3.2.1.Final</version>
       <version>3.2.2.Final</version>
+      <version>3.2.3.Final</version>
     </versions>
-    <lastUpdated>20230731090605</lastUpdated>
+    <lastUpdated>20230802171207</lastUpdated>
   </versioning>
 </metadata>

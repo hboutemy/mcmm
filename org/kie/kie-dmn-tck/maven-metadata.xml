@@ -3,8 +3,8 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-dmn-tck</artifactId>
   <versioning>
-    <latest>8.42.0.Final</latest>
-    <release>8.42.0.Final</release>
+    <latest>9.42.0.Alpha</latest>
+    <release>9.42.0.Alpha</release>
     <versions>
       <version>7.1.0.Beta3</version>
       <version>7.1.0.Final</version>
@@ -148,7 +148,8 @@
       <version>8.40.0.Final</version>
       <version>8.41.0.Final</version>
       <version>8.42.0.Final</version>
+      <version>9.42.0.Alpha</version>
     </versions>
-    <lastUpdated>20230801161912</lastUpdated>
+    <lastUpdated>20230802121122</lastUpdated>
   </versioning>
 </metadata>

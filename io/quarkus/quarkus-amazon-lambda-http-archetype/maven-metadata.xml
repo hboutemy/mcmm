@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
   <versioning>
-    <latest>3.2.2.Final</latest>
-    <release>3.2.2.Final</release>
+    <latest>3.2.3.Final</latest>
+    <release>3.2.3.Final</release>
     <versions>
       <version>0.27.0</version>
       <version>0.28.0</version>
@@ -217,7 +217,8 @@
       <version>3.2.0.Final</version>
       <version>3.2.1.Final</version>
       <version>3.2.2.Final</version>
+      <version>3.2.3.Final</version>
     </versions>
-    <lastUpdated>20230729131029</lastUpdated>
+    <lastUpdated>20230802114925</lastUpdated>
   </versioning>
 </metadata>
