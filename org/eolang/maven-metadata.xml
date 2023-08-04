@@ -6,5 +6,10 @@
       <prefix>eo</prefix>
       <artifactId>eo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jeo</name>
+      <prefix>jeo</prefix>
+      <artifactId>jeo-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
