@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.gradle.plugins.baseline</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
-    <release>7.0.0</release>
+    <latest>7.0.1</latest>
+    <release>7.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -66,7 +66,8 @@
       <version>6.0.6</version>
       <version>6.0.7</version>
       <version>7.0.0</version>
+      <version>7.0.1</version>
     </versions>
-    <lastUpdated>20230706023123</lastUpdated>
+    <lastUpdated>20230804153705</lastUpdated>
   </versioning>
 </metadata>

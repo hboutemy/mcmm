@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-core-logout</artifactId>
   <versioning>
-    <latest>7.0.0-RC6</latest>
-    <release>7.0.0-RC6</release>
+    <latest>7.0.0-RC7</latest>
+    <release>7.0.0-RC7</release>
     <versions>
       <version>v6.4.0-RC5</version>
       <version>v6.4.0-RC6</version>
@@ -200,7 +200,8 @@
       <version>7.0.0-RC4</version>
       <version>7.0.0-RC5</version>
       <version>7.0.0-RC6</version>
+      <version>7.0.0-RC7</version>
     </versions>
-    <lastUpdated>20230721064613</lastUpdated>
+    <lastUpdated>20230804081937</lastUpdated>
   </versioning>
 </metadata>

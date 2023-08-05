@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JCR Cleaner</name>
+      <prefix>jcrcleaner</prefix>
+      <artifactId>jcrcleaner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
