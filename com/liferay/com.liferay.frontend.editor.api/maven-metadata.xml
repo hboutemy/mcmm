@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.editor.api</artifactId>
   <versioning>
-    <latest>6.0.4</latest>
+    <latest>6.0.5</latest>
     <release>6.0.5</release>
     <versions>
       <version>1.0.0</version>
@@ -17,11 +17,13 @@
       <version>3.0.2</version>
       <version>3.0.3</version>
       <version>3.0.4</version>
+      <version>3.0.5</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -31,16 +33,14 @@
       <version>5.1.3</version>
       <version>5.1.4</version>
       <version>5.1.5</version>
+      <version>5.1.6</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
-      <version>3.0.5</version>
-      <version>4.0.5</version>
-      <version>5.1.6</version>
       <version>6.0.5</version>
     </versions>
-    <lastUpdated>20230730224901</lastUpdated>
+    <lastUpdated>20230807185428</lastUpdated>
   </versioning>
 </metadata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.application.list.taglib</artifactId>
   <versioning>
-    <latest>7.0.6</latest>
+    <latest>7.0.7</latest>
     <release>7.0.7</release>
     <versions>
       <version>1.0.0</version>
@@ -48,6 +48,7 @@
       <version>3.0.12</version>
       <version>3.0.13</version>
       <version>3.0.14</version>
+      <version>3.0.15</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -67,6 +68,7 @@
       <version>4.0.16</version>
       <version>4.0.17</version>
       <version>4.0.18</version>
+      <version>4.0.19</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -84,6 +86,7 @@
       <version>5.0.14</version>
       <version>5.0.15</version>
       <version>5.0.16</version>
+      <version>5.0.17</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -104,11 +107,8 @@
       <version>7.0.4</version>
       <version>7.0.5</version>
       <version>7.0.6</version>
-      <version>3.0.15</version>
-      <version>4.0.19</version>
-      <version>5.0.17</version>
       <version>7.0.7</version>
     </versions>
-    <lastUpdated>20230731030203</lastUpdated>
+    <lastUpdated>20230807194307</lastUpdated>
   </versioning>
 </metadata>

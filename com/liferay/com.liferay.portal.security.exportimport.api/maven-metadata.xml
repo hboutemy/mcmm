@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.exportimport.api</artifactId>
   <versioning>
-    <latest>6.1.5</latest>
+    <latest>6.1.6</latest>
     <release>6.1.6</release>
     <versions>
       <version>1.0.0</version>
@@ -17,11 +17,13 @@
       <version>3.0.1</version>
       <version>3.0.2</version>
       <version>3.0.3</version>
+      <version>3.0.4</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -30,6 +32,7 @@
       <version>5.0.5</version>
       <version>5.0.6</version>
       <version>5.0.7</version>
+      <version>5.0.8</version>
       <version>6.0.0</version>
       <version>6.1.0</version>
       <version>6.1.1</version>
@@ -37,11 +40,8 @@
       <version>6.1.3</version>
       <version>6.1.4</version>
       <version>6.1.5</version>
-      <version>3.0.4</version>
-      <version>4.0.5</version>
-      <version>5.0.8</version>
       <version>6.1.6</version>
     </versions>
-    <lastUpdated>20230730232900</lastUpdated>
+    <lastUpdated>20230807210620</lastUpdated>
   </versioning>
 </metadata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.adaptive.media.journal.web</artifactId>
   <versioning>
-    <latest>5.0.12</latest>
+    <latest>5.0.13</latest>
     <release>5.0.13</release>
     <versions>
       <version>1.0.0</version>
@@ -27,6 +27,7 @@
       <version>2.0.7</version>
       <version>2.0.8</version>
       <version>2.0.9</version>
+      <version>2.0.10</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -36,6 +37,7 @@
       <version>3.0.6</version>
       <version>3.0.7</version>
       <version>3.0.8</version>
+      <version>3.0.9</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -48,6 +50,7 @@
       <version>4.0.9</version>
       <version>4.0.10</version>
       <version>4.0.11</version>
+      <version>4.0.12</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -61,11 +64,8 @@
       <version>5.0.10</version>
       <version>5.0.11</version>
       <version>5.0.12</version>
-      <version>2.0.10</version>
-      <version>3.0.9</version>
-      <version>4.0.12</version>
       <version>5.0.13</version>
     </versions>
-    <lastUpdated>20230731052402</lastUpdated>
+    <lastUpdated>20230807220855</lastUpdated>
   </versioning>
 </metadata>

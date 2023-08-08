@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.frontend.api</artifactId>
   <versioning>
-    <latest>15.0.0</latest>
+    <latest>16.0.1</latest>
     <release>16.0.1</release>
     <versions>
       <version>1.0.0</version>
@@ -44,10 +44,12 @@
       <version>8.4.2</version>
       <version>8.4.3</version>
       <version>8.4.4</version>
+      <version>8.4.5</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
       <version>9.0.3</version>
+      <version>9.0.4</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
@@ -58,6 +60,7 @@
       <version>10.1.1</version>
       <version>10.1.2</version>
       <version>10.1.3</version>
+      <version>10.1.4</version>
       <version>11.0.0</version>
       <version>11.0.1</version>
       <version>12.0.0</version>
@@ -74,11 +77,8 @@
       <version>14.0.3</version>
       <version>15.0.0</version>
       <version>16.0.0</version>
-      <version>8.4.5</version>
-      <version>9.0.4</version>
-      <version>10.1.4</version>
       <version>16.0.1</version>
     </versions>
-    <lastUpdated>20230731072539</lastUpdated>
+    <lastUpdated>20230807184404</lastUpdated>
   </versioning>
 </metadata>

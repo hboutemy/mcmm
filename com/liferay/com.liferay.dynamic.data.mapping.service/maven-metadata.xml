@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.dynamic.data.mapping.service</artifactId>
   <versioning>
-    <latest>7.1.6</latest>
+    <latest>7.1.9</latest>
     <release>7.1.9</release>
     <versions>
       <version>1.0.0</version>
@@ -197,6 +197,7 @@
       <version>2.9.22</version>
       <version>2.9.23</version>
       <version>2.9.24</version>
+      <version>2.9.25</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -344,6 +345,7 @@
       <version>3.0.144</version>
       <version>3.0.145</version>
       <version>3.0.146</version>
+      <version>3.0.147</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -478,6 +480,7 @@
       <version>4.2.37</version>
       <version>4.2.38</version>
       <version>4.2.39</version>
+      <version>4.2.40</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -596,6 +599,9 @@
       <version>5.4.67</version>
       <version>5.4.68</version>
       <version>5.4.69</version>
+      <version>5.4.70</version>
+      <version>5.4.71</version>
+      <version>5.4.72</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -724,16 +730,10 @@
       <version>7.1.4</version>
       <version>7.1.5</version>
       <version>7.1.6</version>
-      <version>5.4.70</version>
       <version>7.1.7</version>
       <version>7.1.8</version>
-      <version>5.4.71</version>
-      <version>2.9.25</version>
-      <version>3.0.147</version>
-      <version>4.2.40</version>
-      <version>5.4.72</version>
       <version>7.1.9</version>
     </versions>
-    <lastUpdated>20230731065828</lastUpdated>
+    <lastUpdated>20230807204513</lastUpdated>
   </versioning>
 </metadata>

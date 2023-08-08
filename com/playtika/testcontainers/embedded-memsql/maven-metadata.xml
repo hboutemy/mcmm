@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-memsql</artifactId>
   <versioning>
-    <latest>3.0.0-RC8</latest>
-    <release>3.0.0-RC8</release>
+    <latest>3.0.0-RC9</latest>
+    <release>3.0.0-RC9</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -119,7 +119,8 @@
       <version>3.0.0-RC6</version>
       <version>3.0.0-RC7</version>
       <version>3.0.0-RC8</version>
+      <version>3.0.0-RC9</version>
     </versions>
-    <lastUpdated>20230616121412</lastUpdated>
+    <lastUpdated>20230807083032</lastUpdated>
   </versioning>
 </metadata>

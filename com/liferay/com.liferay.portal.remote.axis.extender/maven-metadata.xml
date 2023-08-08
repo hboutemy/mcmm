@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.remote.axis.extender</artifactId>
   <versioning>
     <latest>5.0.6</latest>
-    <release>4.0.13</release>
+    <release>5.0.6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -36,6 +36,7 @@
       <version>1.0.27</version>
       <version>1.0.28</version>
       <version>1.0.29</version>
+      <version>1.0.30</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -53,6 +54,7 @@
       <version>2.0.14</version>
       <version>2.0.15</version>
       <version>2.0.16</version>
+      <version>2.0.17</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -69,6 +71,7 @@
       <version>3.0.13</version>
       <version>3.0.14</version>
       <version>3.0.15</version>
+      <version>3.0.16</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -82,6 +85,7 @@
       <version>4.0.10</version>
       <version>4.0.11</version>
       <version>4.0.12</version>
+      <version>4.0.13</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -89,11 +93,7 @@
       <version>5.0.4</version>
       <version>5.0.5</version>
       <version>5.0.6</version>
-      <version>1.0.30</version>
-      <version>2.0.17</version>
-      <version>3.0.16</version>
-      <version>4.0.13</version>
     </versions>
-    <lastUpdated>20230724095314</lastUpdated>
+    <lastUpdated>20230807174429</lastUpdated>
   </versioning>
 </metadata>

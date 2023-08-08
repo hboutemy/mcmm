@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.headless.commerce.admin.catalog.api</artifactId>
   <versioning>
-    <latest>33.0.0</latest>
+    <latest>34.1.0</latest>
     <release>34.1.0</release>
     <versions>
       <version>1.0.0</version>
@@ -142,10 +142,14 @@
       <version>26.1.0</version>
       <version>27.0.0</version>
       <version>27.1.0</version>
+      <version>27.2.0</version>
       <version>28.0.0</version>
       <version>28.1.0</version>
+      <version>28.2.0</version>
       <version>29.0.0</version>
       <version>29.1.0</version>
+      <version>29.1.1</version>
+      <version>29.2.0</version>
       <version>30.0.0</version>
       <version>30.1.0</version>
       <version>31.0.0</version>
@@ -158,12 +162,8 @@
       <version>32.0.0</version>
       <version>33.0.0</version>
       <version>34.0.0</version>
-      <version>29.1.1</version>
-      <version>27.2.0</version>
-      <version>28.2.0</version>
-      <version>29.2.0</version>
       <version>34.1.0</version>
     </versions>
-    <lastUpdated>20230731042032</lastUpdated>
+    <lastUpdated>20230807180539</lastUpdated>
   </versioning>
 </metadata>

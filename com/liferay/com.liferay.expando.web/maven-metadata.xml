@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.expando.web</artifactId>
   <versioning>
-    <latest>5.0.37</latest>
+    <latest>5.0.39</latest>
     <release>5.0.39</release>
     <versions>
       <version>1.0.0</version>
@@ -59,6 +59,7 @@
       <version>1.0.50</version>
       <version>1.0.51</version>
       <version>1.0.52</version>
+      <version>1.0.53</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -100,6 +101,7 @@
       <version>2.0.38</version>
       <version>2.0.39</version>
       <version>2.0.40</version>
+      <version>2.0.41</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -161,6 +163,7 @@
       <version>3.0.58</version>
       <version>3.0.59</version>
       <version>3.0.60</version>
+      <version>3.0.61</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -213,6 +216,8 @@
       <version>4.0.49</version>
       <version>4.0.50</version>
       <version>4.0.51</version>
+      <version>4.0.52</version>
+      <version>4.0.53</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -252,13 +257,8 @@
       <version>5.0.36</version>
       <version>5.0.37</version>
       <version>5.0.38</version>
-      <version>4.0.52</version>
-      <version>1.0.53</version>
-      <version>2.0.41</version>
-      <version>3.0.61</version>
-      <version>4.0.53</version>
       <version>5.0.39</version>
     </versions>
-    <lastUpdated>20230731065906</lastUpdated>
+    <lastUpdated>20230807215639</lastUpdated>
   </versioning>
 </metadata>

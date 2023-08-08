@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>opensocial-portlet</artifactId>
   <versioning>
     <latest>7.4.10.3</latest>
-    <release>7.2.0.69</release>
+    <release>7.4.10.3</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -124,6 +124,7 @@
       <version>7.0.10.116</version>
       <version>7.0.10.117</version>
       <version>7.0.10.118</version>
+      <version>7.0.10.119</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -206,6 +207,7 @@
       <version>7.1.10.80</version>
       <version>7.1.10.81</version>
       <version>7.1.10.82</version>
+      <version>7.1.10.83</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -232,6 +234,7 @@
       <version>7.2.0.24</version>
       <version>7.2.0.25</version>
       <version>7.2.0.39</version>
+      <version>7.2.0.69</version>
       <version>7.2.10.26</version>
       <version>7.2.10.27</version>
       <version>7.2.10.28</version>
@@ -325,10 +328,7 @@
       <version>7.4.10.1</version>
       <version>7.4.10.2</version>
       <version>7.4.10.3</version>
-      <version>7.0.10.119</version>
-      <version>7.1.10.83</version>
-      <version>7.2.0.69</version>
     </versions>
-    <lastUpdated>20230721180756</lastUpdated>
+    <lastUpdated>20230807222451</lastUpdated>
   </versioning>
 </metadata>

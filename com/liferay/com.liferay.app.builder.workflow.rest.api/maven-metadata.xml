@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.app.builder.workflow.rest.api</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
+    <latest>5.1.0</latest>
     <release>5.1.0</release>
     <versions>
       <version>1.0.0</version>
@@ -30,6 +30,6 @@
       <version>5.0.2</version>
       <version>5.1.0</version>
     </versions>
-    <lastUpdated>20230725034150</lastUpdated>
+    <lastUpdated>20230807210745</lastUpdated>
   </versioning>
 </metadata>

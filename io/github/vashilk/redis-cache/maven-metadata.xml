@@ -3,9 +3,10 @@
   <groupId>io.github.vashilk</groupId>
   <artifactId>redis-cache</artifactId>
   <versioning>
-    <latest>1.0.5.5</latest>
-    <release>1.0.5.5</release>
+    <latest>1.0.6-BETA</latest>
+    <release>1.0.6-BETA</release>
     <versions>
+      <version>1.0.0-BETA</version>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -16,7 +17,9 @@
       <version>1.0.5.3</version>
       <version>1.0.5.4</version>
       <version>1.0.5.5</version>
+      <version>1.0.6-BETA</version>
+      <version>1.0-BETA</version>
     </versions>
-    <lastUpdated>20221205071834</lastUpdated>
+    <lastUpdated>20230807165502</lastUpdated>
   </versioning>
 </metadata>
