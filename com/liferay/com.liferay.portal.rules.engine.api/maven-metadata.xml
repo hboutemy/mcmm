@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.rules.engine.api</artifactId>
   <versioning>
-    <latest>7.0.0</latest>
+    <latest>7.0.1</latest>
     <release>7.0.1</release>
     <versions>
       <version>1.0.0</version>
@@ -36,6 +36,7 @@
       <version>3.0.8</version>
       <version>3.0.9</version>
       <version>3.0.10</version>
+      <version>3.0.11</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -45,6 +46,7 @@
       <version>4.0.6</version>
       <version>4.0.7</version>
       <version>4.0.8</version>
+      <version>4.0.9</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -56,17 +58,15 @@
       <version>5.1.4</version>
       <version>5.1.5</version>
       <version>5.1.6</version>
+      <version>5.1.7</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
       <version>7.0.0</version>
-      <version>3.0.11</version>
-      <version>4.0.9</version>
-      <version>5.1.7</version>
       <version>7.0.1</version>
     </versions>
-    <lastUpdated>20230731010415</lastUpdated>
+    <lastUpdated>20230807234531</lastUpdated>
   </versioning>
 </metadata>

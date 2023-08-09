@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.api</artifactId>
   <versioning>
-    <latest>23.0.0</latest>
+    <latest>23.1.1</latest>
     <release>23.1.1</release>
     <versions>
       <version>1.0.0</version>
@@ -52,6 +52,8 @@
       <version>3.7.14</version>
       <version>3.7.15</version>
       <version>3.7.16</version>
+      <version>3.8.0</version>
+      <version>3.8.1</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -106,6 +108,7 @@
       <version>4.4.1</version>
       <version>4.4.2</version>
       <version>4.5.0</version>
+      <version>4.5.1</version>
       <version>5.0.0</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
@@ -156,6 +159,7 @@
       <version>5.5.0</version>
       <version>5.5.1</version>
       <version>5.6.0</version>
+      <version>5.6.1</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -201,6 +205,8 @@
       <version>6.8.5</version>
       <version>6.9.0</version>
       <version>6.10.0</version>
+      <version>6.10.1</version>
+      <version>6.10.2</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -243,14 +249,8 @@
       <version>22.0.1</version>
       <version>23.0.0</version>
       <version>23.1.0</version>
-      <version>6.10.1</version>
-      <version>3.8.0</version>
-      <version>3.8.1</version>
-      <version>4.5.1</version>
-      <version>5.6.1</version>
-      <version>6.10.2</version>
       <version>23.1.1</version>
     </versions>
-    <lastUpdated>20230731054520</lastUpdated>
+    <lastUpdated>20230807230042</lastUpdated>
   </versioning>
 </metadata>

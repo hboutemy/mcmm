@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.external.reference.api</artifactId>
   <versioning>
-    <latest>5.2.0</latest>
+    <latest>5.2.1</latest>
     <release>5.2.1</release>
     <versions>
       <version>1.0.0</version>
@@ -19,6 +19,7 @@
       <version>1.0.10</version>
       <version>1.0.11</version>
       <version>1.1.0</version>
+      <version>1.1.1</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -32,6 +33,7 @@
       <version>2.0.10</version>
       <version>2.0.11</version>
       <version>2.1.0</version>
+      <version>2.1.1</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -46,6 +48,7 @@
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.1.0</version>
+      <version>4.1.1</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -54,11 +57,8 @@
       <version>5.1.0</version>
       <version>5.1.1</version>
       <version>5.2.0</version>
-      <version>1.1.1</version>
-      <version>2.1.1</version>
-      <version>4.1.1</version>
       <version>5.2.1</version>
     </versions>
-    <lastUpdated>20230730224726</lastUpdated>
+    <lastUpdated>20230808003027</lastUpdated>
   </versioning>
 </metadata>

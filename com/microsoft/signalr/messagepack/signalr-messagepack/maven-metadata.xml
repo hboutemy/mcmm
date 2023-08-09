@@ -3,8 +3,8 @@
   <groupId>com.microsoft.signalr.messagepack</groupId>
   <artifactId>signalr-messagepack</artifactId>
   <versioning>
-    <latest>8.0.0-preview.6.23329.11</latest>
-    <release>8.0.0-preview.6.23329.11</release>
+    <latest>8.0.0-preview.7.23375.9</latest>
+    <release>8.0.0-preview.7.23375.9</release>
     <versions>
       <version>5.0.0-rc.1.20451.17</version>
       <version>5.0.0-rc.2.20475.17</version>
@@ -55,6 +55,7 @@
       <version>6.0.18</version>
       <version>6.0.19</version>
       <version>6.0.20</version>
+      <version>6.0.21</version>
       <version>7.0.0-rc.1.22427.2</version>
       <version>7.0.0-rc.2.22476.2</version>
       <version>7.0.0</version>
@@ -73,13 +74,15 @@
       <version>7.0.7</version>
       <version>7.0.8</version>
       <version>7.0.9</version>
+      <version>7.0.10</version>
       <version>8.0.0-preview.1.23112.2</version>
       <version>8.0.0-preview.2.23153.2</version>
       <version>8.0.0-preview.3.23177.8</version>
       <version>8.0.0-preview.4.23260.4</version>
       <version>8.0.0-preview.5.23302.2</version>
       <version>8.0.0-preview.6.23329.11</version>
+      <version>8.0.0-preview.7.23375.9</version>
     </versions>
-    <lastUpdated>20230711131300</lastUpdated>
+    <lastUpdated>20230808122950</lastUpdated>
   </versioning>
 </metadata>

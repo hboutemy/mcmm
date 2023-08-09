@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search</artifactId>
   <versioning>
-    <latest>8.0.74</latest>
+    <latest>8.0.78</latest>
     <release>8.0.78</release>
     <versions>
       <version>1.0.0</version>
@@ -189,6 +189,7 @@
       <version>5.0.68</version>
       <version>5.0.69</version>
       <version>5.0.70</version>
+      <version>5.0.71</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -270,6 +271,7 @@
       <version>6.0.78</version>
       <version>6.0.79</version>
       <version>6.0.80</version>
+      <version>6.0.81</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -335,6 +337,8 @@
       <version>7.0.62</version>
       <version>7.0.63</version>
       <version>7.0.64</version>
+      <version>7.0.65</version>
+      <version>7.0.66</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.0.2</version>
@@ -412,13 +416,9 @@
       <version>8.0.74</version>
       <version>8.0.75</version>
       <version>8.0.76</version>
-      <version>7.0.65</version>
-      <version>5.0.71</version>
-      <version>6.0.81</version>
-      <version>7.0.66</version>
       <version>8.0.77</version>
       <version>8.0.78</version>
     </versions>
-    <lastUpdated>20230801144934</lastUpdated>
+    <lastUpdated>20230808001613</lastUpdated>
   </versioning>
 </metadata>

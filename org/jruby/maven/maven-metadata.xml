@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Gem Maven Mojo</name>
+      <prefix>gem</prefix>
+      <artifactId>gem-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JRuby Maven Mojo</name>
+      <prefix>jruby</prefix>
+      <artifactId>jruby-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Minitest Maven Mojo</name>
+      <prefix>minitest</prefix>
+      <artifactId>minitest-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RSpec Maven Mojo</name>
+      <prefix>rspec</prefix>
+      <artifactId>rspec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RUnit Maven Mojo</name>
+      <prefix>runit</prefix>
+      <artifactId>runit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

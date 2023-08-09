@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.background.task.service</artifactId>
   <versioning>
-    <latest>7.0.49</latest>
+    <latest>7.0.51</latest>
     <release>7.0.51</release>
     <versions>
       <version>1.0.0</version>
@@ -91,6 +91,7 @@
       <version>3.0.61</version>
       <version>3.0.62</version>
       <version>3.0.63</version>
+      <version>3.0.64</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -149,6 +150,7 @@
       <version>4.0.55</version>
       <version>4.0.56</version>
       <version>4.0.57</version>
+      <version>4.0.58</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -202,6 +204,7 @@
       <version>5.0.50</version>
       <version>5.0.51</version>
       <version>5.0.52</version>
+      <version>5.0.53</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -241,6 +244,7 @@
       <version>6.0.36</version>
       <version>6.0.37</version>
       <version>6.0.38</version>
+      <version>6.0.39</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -292,12 +296,8 @@
       <version>7.0.48</version>
       <version>7.0.49</version>
       <version>7.0.50</version>
-      <version>3.0.64</version>
-      <version>4.0.58</version>
-      <version>5.0.53</version>
-      <version>6.0.39</version>
       <version>7.0.51</version>
     </versions>
-    <lastUpdated>20230731023541</lastUpdated>
+    <lastUpdated>20230807230237</lastUpdated>
   </versioning>
 </metadata>

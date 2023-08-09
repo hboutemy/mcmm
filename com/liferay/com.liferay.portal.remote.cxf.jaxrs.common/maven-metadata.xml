@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.remote.cxf.jaxrs.common</artifactId>
   <versioning>
-    <latest>3.1.11</latest>
+    <latest>3.1.12</latest>
     <release>3.1.12</release>
     <versions>
       <version>1.0.0</version>
@@ -32,6 +32,6 @@
       <version>3.1.11</version>
       <version>3.1.12</version>
     </versions>
-    <lastUpdated>20230717082125</lastUpdated>
+    <lastUpdated>20230807235419</lastUpdated>
   </versioning>
 </metadata>
