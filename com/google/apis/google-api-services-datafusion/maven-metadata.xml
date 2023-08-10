@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-datafusion</artifactId>
   <versioning>
-    <latest>v1-rev20230508-2.0.0</latest>
-    <release>v1-rev20230508-2.0.0</release>
+    <latest>v1-rev20230627-2.0.0</latest>
+    <release>v1-rev20230627-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.22.0</version>
@@ -70,6 +70,7 @@
       <version>v1beta1-rev20230320-2.0.0</version>
       <version>v1beta1-rev20230425-2.0.0</version>
       <version>v1beta1-rev20230508-2.0.0</version>
+      <version>v1beta1-rev20230627-2.0.0</version>
       <version>v1-rev20200609-1.30.10</version>
       <version>v1-rev20200803-1.30.10</version>
       <version>v1-rev20200901-1.30.10</version>
@@ -92,7 +93,8 @@
       <version>v1-rev20230320-2.0.0</version>
       <version>v1-rev20230425-2.0.0</version>
       <version>v1-rev20230508-2.0.0</version>
+      <version>v1-rev20230627-2.0.0</version>
     </versions>
-    <lastUpdated>20230513082929</lastUpdated>
+    <lastUpdated>20230809102017</lastUpdated>
   </versioning>
 </metadata>

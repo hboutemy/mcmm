@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-bigquery-execution-tests</artifactId>
   <versioning>
-    <latest>4.22.0</latest>
-    <release>4.22.0</release>
+    <latest>4.22.1</latest>
+    <release>4.22.1</release>
     <versions>
       <version>3.18.2</version>
       <version>3.19.0</version>
@@ -79,7 +79,8 @@
       <version>4.21.0</version>
       <version>4.21.1</version>
       <version>4.22.0</version>
+      <version>4.22.1</version>
     </versions>
-    <lastUpdated>20230808193301</lastUpdated>
+    <lastUpdated>20230809230655</lastUpdated>
   </versioning>
 </metadata>

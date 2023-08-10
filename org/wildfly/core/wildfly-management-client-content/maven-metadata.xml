@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-management-client-content</artifactId>
   <versioning>
-    <latest>21.1.0.Final</latest>
-    <release>21.1.0.Final</release>
+    <latest>22.0.0.Beta1</latest>
+    <release>22.0.0.Beta1</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -354,7 +354,8 @@
       <version>21.1.0.Beta1</version>
       <version>21.1.0.Beta2</version>
       <version>21.1.0.Final</version>
+      <version>22.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20230717115208</lastUpdated>
+    <lastUpdated>20230809124007</lastUpdated>
   </versioning>
 </metadata>

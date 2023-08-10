@@ -3,8 +3,8 @@
   <groupId>io.janstenpickle</groupId>
   <artifactId>trace4cats-opentelemetry-otlp-grpc-exporter_2.13</artifactId>
   <versioning>
-    <latest>0.14.2</latest>
-    <release>0.14.2</release>
+    <latest>0.14.2+8-3b8bd435</latest>
+    <release>0.14.2+8-3b8bd435</release>
     <versions>
       <version>0.0.0+1-7a9df181</version>
       <version>0.0.0+2-5ffb9ec2</version>
@@ -425,7 +425,9 @@
       <version>0.14.1+55-63f54a08</version>
       <version>0.14.1+57-70a70705</version>
       <version>0.14.2</version>
+      <version>0.14.2+6-e00443e9</version>
+      <version>0.14.2+8-3b8bd435</version>
     </versions>
-    <lastUpdated>20230719120117</lastUpdated>
+    <lastUpdated>20230809180912</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-postgres</artifactId>
   <versioning>
-    <latest>2.4.0.Alpha1</latest>
-    <release>2.4.0.Alpha1</release>
+    <latest>2.4.0.Alpha2</latest>
+    <release>2.4.0.Alpha2</release>
     <versions>
       <version>0.4.0</version>
       <version>0.4.1</version>
@@ -157,8 +157,9 @@
       <version>2.3.1.Final</version>
       <version>2.3.2.Final</version>
       <version>2.4.0.Alpha1</version>
+      <version>2.4.0.Alpha2</version>
       <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20230804060901</lastUpdated>
+    <lastUpdated>20230809112438</lastUpdated>
   </versioning>
 </metadata>

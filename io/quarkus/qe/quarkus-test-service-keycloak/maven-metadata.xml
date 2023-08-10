@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-service-keycloak</artifactId>
   <versioning>
-    <latest>1.3.0.Beta23</latest>
-    <release>1.3.0.Beta23</release>
+    <latest>1.3.0.Beta24</latest>
+    <release>1.3.0.Beta24</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -82,7 +82,8 @@
       <version>1.3.0.Beta21</version>
       <version>1.3.0.Beta22</version>
       <version>1.3.0.Beta23</version>
+      <version>1.3.0.Beta24</version>
     </versions>
-    <lastUpdated>20230804105557</lastUpdated>
+    <lastUpdated>20230809163022</lastUpdated>
   </versioning>
 </metadata>
