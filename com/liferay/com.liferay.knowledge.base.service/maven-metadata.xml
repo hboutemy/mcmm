@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.knowledge.base.service</artifactId>
   <versioning>
-    <latest>5.0.74</latest>
-    <release>5.0.74</release>
+    <latest>2.0.78</latest>
+    <release>2.0.78</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -441,7 +441,9 @@
       <version>5.0.72</version>
       <version>5.0.73</version>
       <version>5.0.74</version>
+      <version>5.0.75</version>
+      <version>2.0.78</version>
     </versions>
-    <lastUpdated>20230807232727</lastUpdated>
+    <lastUpdated>20230810184743</lastUpdated>
   </versioning>
 </metadata>

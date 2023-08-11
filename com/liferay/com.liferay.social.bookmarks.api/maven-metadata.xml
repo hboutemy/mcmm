@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.social.bookmarks.api</artifactId>
   <versioning>
-    <latest>4.0.6</latest>
-    <release>4.0.6</release>
+    <latest>5.0.0</latest>
+    <release>5.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -34,7 +34,8 @@
       <version>4.0.4</version>
       <version>4.0.5</version>
       <version>4.0.6</version>
+      <version>5.0.0</version>
     </versions>
-    <lastUpdated>20230807231652</lastUpdated>
+    <lastUpdated>20230810003500</lastUpdated>
   </versioning>
 </metadata>

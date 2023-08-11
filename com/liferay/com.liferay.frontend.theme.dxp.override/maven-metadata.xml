@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.theme.dxp.override</artifactId>
   <versioning>
-    <latest>4.0.48</latest>
-    <release>4.0.48</release>
+    <latest>1.0.22</latest>
+    <release>1.0.22</release>
     <versions>
       <version>1.0.11</version>
       <version>1.0.12</version>
@@ -107,7 +107,8 @@
       <version>4.0.46</version>
       <version>4.0.47</version>
       <version>4.0.48</version>
+      <version>1.0.22</version>
     </versions>
-    <lastUpdated>20230807221939</lastUpdated>
+    <lastUpdated>20230810192733</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.petra.sql.dsl.api</artifactId>
   <versioning>
-    <latest>5.0.1</latest>
-    <release>5.0.1</release>
+    <latest>6.0.0</latest>
+    <release>6.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -25,7 +25,8 @@
       <version>4.0.0</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
+      <version>6.0.0</version>
     </versions>
-    <lastUpdated>20230807210445</lastUpdated>
+    <lastUpdated>20230809231238</lastUpdated>
   </versioning>
 </metadata>

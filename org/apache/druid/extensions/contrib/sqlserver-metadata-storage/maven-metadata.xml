@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions.contrib</groupId>
   <artifactId>sqlserver-metadata-storage</artifactId>
   <versioning>
-    <latest>26.0.0</latest>
-    <release>26.0.0</release>
+    <latest>27.0.0</latest>
+    <release>27.0.0</release>
     <versions>
       <version>0.13.0-incubating</version>
       <version>0.14.0-incubating</version>
@@ -32,7 +32,8 @@
       <version>24.0.2</version>
       <version>25.0.0</version>
       <version>26.0.0</version>
+      <version>27.0.0</version>
     </versions>
-    <lastUpdated>20230523003015</lastUpdated>
+    <lastUpdated>20230810044150</lastUpdated>
   </versioning>
 </metadata>

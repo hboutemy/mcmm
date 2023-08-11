@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-http-json</artifactId>
   <versioning>
-    <latest>0.22.0</latest>
-    <release>0.22.0</release>
+    <latest>0.22.1</latest>
+    <release>0.22.1</release>
     <versions>
       <version>0.9.0</version>
       <version>0.10.0</version>
@@ -51,7 +51,8 @@
       <version>0.21.4</version>
       <version>0.22.0-alpha2</version>
       <version>0.22.0</version>
+      <version>0.22.1</version>
     </versions>
-    <lastUpdated>20230807153847</lastUpdated>
+    <lastUpdated>20230810161335</lastUpdated>
   </versioning>
 </metadata>
