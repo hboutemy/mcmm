@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.workflow.metrics.web</artifactId>
   <versioning>
-    <latest>3.0.64</latest>
-    <release>3.0.64</release>
+    <latest>3.0.65</latest>
+    <release>3.0.65</release>
     <versions>
       <version>1.0.26</version>
       <version>1.0.27</version>
@@ -99,7 +99,8 @@
       <version>3.0.62</version>
       <version>3.0.63</version>
       <version>3.0.64</version>
+      <version>3.0.65</version>
     </versions>
-    <lastUpdated>20230808001217</lastUpdated>
+    <lastUpdated>20230811012124</lastUpdated>
   </versioning>
 </metadata>

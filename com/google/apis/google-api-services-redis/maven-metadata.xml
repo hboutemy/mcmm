@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-redis</artifactId>
   <versioning>
-    <latest>v1-rev20230428-2.0.0</latest>
-    <release>v1-rev20230428-2.0.0</release>
+    <latest>v1-rev20230620-2.0.0</latest>
+    <release>v1-rev20230620-2.0.0</release>
     <versions>
       <version>v1beta1-rev2-1.18.0-rc</version>
       <version>v1beta1-rev2-1.21.0</version>
@@ -160,6 +160,7 @@
       <version>v1beta1-rev20230318-2.0.0</version>
       <version>v1beta1-rev20230418-2.0.0</version>
       <version>v1beta1-rev20230428-2.0.0</version>
+      <version>v1beta1-rev20230620-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.22.0</version>
       <version>v1-rev1-1.23.0</version>
@@ -292,7 +293,8 @@
       <version>v1-rev20230318-2.0.0</version>
       <version>v1-rev20230418-2.0.0</version>
       <version>v1-rev20230428-2.0.0</version>
+      <version>v1-rev20230620-2.0.0</version>
     </versions>
-    <lastUpdated>20230507082203</lastUpdated>
+    <lastUpdated>20230811103617</lastUpdated>
   </versioning>
 </metadata>

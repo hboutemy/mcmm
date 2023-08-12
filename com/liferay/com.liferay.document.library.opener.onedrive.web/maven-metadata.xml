@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.opener.onedrive.web</artifactId>
   <versioning>
-    <latest>3.0.45</latest>
-    <release>3.0.45</release>
+    <latest>3.0.46</latest>
+    <release>3.0.46</release>
     <versions>
       <version>1.0.21</version>
       <version>1.0.22</version>
@@ -119,7 +119,8 @@
       <version>3.0.43</version>
       <version>3.0.44</version>
       <version>3.0.45</version>
+      <version>3.0.46</version>
     </versions>
-    <lastUpdated>20230808000709</lastUpdated>
+    <lastUpdated>20230811011653</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search.tuning.synonyms.web</artifactId>
   <versioning>
-    <latest>3.0.49</latest>
-    <release>3.0.49</release>
+    <latest>3.0.50</latest>
+    <release>3.0.50</release>
     <versions>
       <version>1.0.20</version>
       <version>1.0.21</version>
@@ -105,7 +105,8 @@
       <version>3.0.47</version>
       <version>3.0.48</version>
       <version>3.0.49</version>
+      <version>3.0.50</version>
     </versions>
-    <lastUpdated>20230807220711</lastUpdated>
+    <lastUpdated>20230811012022</lastUpdated>
   </versioning>
 </metadata>

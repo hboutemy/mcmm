@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search.similar.results.web</artifactId>
   <versioning>
-    <latest>3.0.41</latest>
-    <release>3.0.41</release>
+    <latest>3.0.42</latest>
+    <release>3.0.42</release>
     <versions>
       <version>1.0.14</version>
       <version>1.0.15</version>
@@ -98,7 +98,8 @@
       <version>3.0.39</version>
       <version>3.0.40</version>
       <version>3.0.41</version>
+      <version>3.0.42</version>
     </versions>
-    <lastUpdated>20230808002915</lastUpdated>
+    <lastUpdated>20230811011905</lastUpdated>
   </versioning>
 </metadata>
