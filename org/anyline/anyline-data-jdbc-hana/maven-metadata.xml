@@ -3,12 +3,14 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-hana</artifactId>
   <versioning>
-    <latest>8.6.5-20230729</latest>
-    <release>8.6.5-20230729</release>
+    <latest>8.6.5-20230812</latest>
+    <release>8.6.5-20230812</release>
     <versions>
+      <version>8.6.5-jdk17-20230812</version>
       <version>8.6.5-20230725</version>
       <version>8.6.5-20230729</version>
+      <version>8.6.5-20230812</version>
     </versions>
-    <lastUpdated>20230730000909</lastUpdated>
+    <lastUpdated>20230812113848</lastUpdated>
   </versioning>
 </metadata>

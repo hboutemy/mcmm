@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-apigateway</artifactId>
   <versioning>
-    <latest>v1-rev20230426-2.0.0</latest>
-    <release>v1-rev20230426-2.0.0</release>
+    <latest>v1-rev20230802-2.0.0</latest>
+    <release>v1-rev20230802-2.0.0</release>
     <versions>
       <version>v1alpha1-rev20200901-1.30.10</version>
       <version>v1alpha2-rev20200915-1.30.10</version>
@@ -52,7 +52,8 @@
       <version>v1-rev20230125-2.0.0</version>
       <version>v1-rev20230308-2.0.0</version>
       <version>v1-rev20230426-2.0.0</version>
+      <version>v1-rev20230802-2.0.0</version>
     </versions>
-    <lastUpdated>20230810081719</lastUpdated>
+    <lastUpdated>20230812080723</lastUpdated>
   </versioning>
 </metadata>
