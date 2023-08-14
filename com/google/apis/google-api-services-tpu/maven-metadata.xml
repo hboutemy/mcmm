@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-tpu</artifactId>
   <versioning>
-    <latest>v2-rev20230707-2.0.0</latest>
-    <release>v2-rev20230707-2.0.0</release>
+    <latest>v2-rev20230803-2.0.0</latest>
+    <release>v2-rev20230803-2.0.0</release>
     <versions>
       <version>v1alpha1-rev2-1.18.0-rc</version>
       <version>v1alpha1-rev2-1.21.0</version>
@@ -376,7 +376,8 @@
       <version>v2-rev20230316-2.0.0</version>
       <version>v2-rev20230420-2.0.0</version>
       <version>v2-rev20230707-2.0.0</version>
+      <version>v2-rev20230803-2.0.0</version>
     </versions>
-    <lastUpdated>20230812092558</lastUpdated>
+    <lastUpdated>20230813081632</lastUpdated>
   </versioning>
 </metadata>
