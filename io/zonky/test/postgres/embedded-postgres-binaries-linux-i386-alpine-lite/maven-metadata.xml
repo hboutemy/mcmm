@@ -3,8 +3,8 @@
   <groupId>io.zonky.test.postgres</groupId>
   <artifactId>embedded-postgres-binaries-linux-i386-alpine-lite</artifactId>
   <versioning>
-    <latest>15.3.0</latest>
-    <release>15.3.0</release>
+    <latest>15.4.0</latest>
+    <release>15.4.0</release>
     <versions>
       <version>10.4.0</version>
       <version>10.5.0</version>
@@ -52,6 +52,7 @@
       <version>11.18.0</version>
       <version>11.19.0</version>
       <version>11.20.0</version>
+      <version>11.21.0</version>
       <version>12.0.0</version>
       <version>12.1.0</version>
       <version>12.1.0-1</version>
@@ -70,6 +71,7 @@
       <version>12.13.0</version>
       <version>12.14.0</version>
       <version>12.15.0</version>
+      <version>12.16.0</version>
       <version>13.0.0</version>
       <version>13.1.0</version>
       <version>13.1.0-1</version>
@@ -83,6 +85,7 @@
       <version>13.9.0</version>
       <version>13.10.0</version>
       <version>13.11.0</version>
+      <version>13.12.0</version>
       <version>14.0.0</version>
       <version>14.1.0</version>
       <version>14.2.0</version>
@@ -92,11 +95,13 @@
       <version>14.6.0</version>
       <version>14.7.0</version>
       <version>14.8.0</version>
+      <version>14.9.0</version>
       <version>15.0.0</version>
       <version>15.1.0</version>
       <version>15.2.0</version>
       <version>15.3.0</version>
+      <version>15.4.0</version>
     </versions>
-    <lastUpdated>20230515095452</lastUpdated>
+    <lastUpdated>20230814095431</lastUpdated>
   </versioning>
 </metadata>

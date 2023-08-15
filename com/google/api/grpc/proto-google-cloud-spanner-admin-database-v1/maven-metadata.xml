@@ -3,8 +3,8 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-cloud-spanner-admin-database-v1</artifactId>
   <versioning>
-    <latest>6.45.1</latest>
-    <release>6.45.1</release>
+    <latest>6.45.2</latest>
+    <release>6.45.2</release>
     <versions>
       <version>0.1.9</version>
       <version>0.1.10</version>
@@ -261,12 +261,13 @@
       <version>6.44.0</version>
       <version>6.45.0</version>
       <version>6.45.1</version>
+      <version>6.45.2</version>
       <version>3.3.3</version>
       <version>3.3.3-sp.1</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
     </versions>
-    <lastUpdated>20230813064412</lastUpdated>
+    <lastUpdated>20230814192715</lastUpdated>
   </versioning>
 </metadata>

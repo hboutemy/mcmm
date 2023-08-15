@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.studio</groupId>
   <artifactId>wavemaker-workspace-sync-utils</artifactId>
   <versioning>
-    <latest>11.3.6</latest>
-    <release>11.3.6</release>
+    <latest>11.3.6.ee</latest>
+    <release>11.3.6.ee</release>
     <versions>
       <version>9.4.0.10</version>
       <version>9.4.0.12</version>
@@ -85,6 +85,7 @@
       <version>10.16.4.ee</version>
       <version>10.16.5</version>
       <version>10.16.6</version>
+      <version>10.16.6.ee</version>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
       <version>11.0.1.beta</version>
@@ -115,7 +116,8 @@
       <version>11.3.4.ee</version>
       <version>11.3.5</version>
       <version>11.3.6</version>
+      <version>11.3.6.ee</version>
     </versions>
-    <lastUpdated>20230729112104</lastUpdated>
+    <lastUpdated>20230814143639</lastUpdated>
   </versioning>
 </metadata>

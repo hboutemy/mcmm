@@ -3,8 +3,8 @@
   <groupId>dev.feast</groupId>
   <artifactId>feast-serving-client</artifactId>
   <versioning>
-    <latest>0.32.0</latest>
-    <release>0.32.0</release>
+    <latest>0.33.1</latest>
+    <release>0.33.1</release>
     <versions>
       <version>0.18.0</version>
       <version>0.18.1</version>
@@ -43,7 +43,10 @@
       <version>0.31.0</version>
       <version>0.31.1</version>
       <version>0.32.0</version>
+      <version>0.32.1</version>
+      <version>0.33.0</version>
+      <version>0.33.1</version>
     </versions>
-    <lastUpdated>20230717030508</lastUpdated>
+    <lastUpdated>20230814035239</lastUpdated>
   </versioning>
 </metadata>

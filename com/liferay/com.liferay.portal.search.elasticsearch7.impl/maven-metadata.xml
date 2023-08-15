@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search.elasticsearch7.impl</artifactId>
   <versioning>
-    <latest>3.0.33</latest>
-    <release>3.0.33</release>
+    <latest>5.0.65</latest>
+    <release>5.0.65</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -325,9 +325,10 @@
       <version>6.0.91</version>
       <version>6.0.92</version>
       <version>3.0.33</version>
+      <version>5.0.65</version>
       <version>1.0.5</version>
       <version>6.0.50</version>
     </versions>
-    <lastUpdated>20230810191249</lastUpdated>
+    <lastUpdated>20230814155236</lastUpdated>
   </versioning>
 </metadata>
