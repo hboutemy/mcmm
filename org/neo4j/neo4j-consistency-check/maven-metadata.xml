@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-consistency-check</artifactId>
   <versioning>
-    <latest>5.10.0</latest>
-    <release>5.10.0</release>
+    <latest>5.11.0</latest>
+    <release>5.11.0</release>
     <versions>
       <version>1.8.1</version>
       <version>1.8.2</version>
@@ -361,7 +361,8 @@
       <version>5.8.0</version>
       <version>5.9.0</version>
       <version>5.10.0</version>
+      <version>5.11.0</version>
     </versions>
-    <lastUpdated>20230803132718</lastUpdated>
+    <lastUpdated>20230815091930</lastUpdated>
   </versioning>
 </metadata>

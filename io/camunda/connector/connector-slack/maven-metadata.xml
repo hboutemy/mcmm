@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-slack</artifactId>
   <versioning>
-    <latest>0.22.1</latest>
-    <release>0.22.1</release>
+    <latest>0.23.0-alpha1-avro</latest>
+    <release>0.23.0-alpha1-avro</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -52,7 +52,8 @@
       <version>0.22.0-alpha2</version>
       <version>0.22.0</version>
       <version>0.22.1</version>
+      <version>0.23.0-alpha1-avro</version>
     </versions>
-    <lastUpdated>20230810161348</lastUpdated>
+    <lastUpdated>20230815083016</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-runtime-bundle-saas</artifactId>
   <versioning>
-    <latest>0.22.1</latest>
-    <release>0.22.1</release>
+    <latest>0.23.0-alpha1-avro</latest>
+    <release>0.23.0-alpha1-avro</release>
     <versions>
       <version>0.14.0</version>
       <version>0.14.1</version>
@@ -49,7 +49,8 @@
       <version>0.22.0-alpha2</version>
       <version>0.22.0</version>
       <version>0.22.1</version>
+      <version>0.23.0-alpha1-avro</version>
     </versions>
-    <lastUpdated>20230810161343</lastUpdated>
+    <lastUpdated>20230815083012</lastUpdated>
   </versioning>
 </metadata>
