@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-jwt-build</artifactId>
   <versioning>
-    <latest>3.3.0.CR1</latest>
-    <release>3.3.0.CR1</release>
+    <latest>3.3.0</latest>
+    <release>3.3.0</release>
     <versions>
       <version>1.11.0.Beta1</version>
       <version>1.11.0.Beta2</version>
@@ -162,7 +162,8 @@
       <version>3.2.3.Final</version>
       <version>3.2.4.Final</version>
       <version>3.3.0.CR1</version>
+      <version>3.3.0</version>
     </versions>
-    <lastUpdated>20230811122901</lastUpdated>
+    <lastUpdated>20230816132530</lastUpdated>
   </versioning>
 </metadata>
