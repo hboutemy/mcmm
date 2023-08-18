@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-undertow-1.4-bootstrap</artifactId>
   <versioning>
-    <latest>1.28.0-alpha</latest>
-    <release>1.28.0-alpha</release>
+    <latest>1.29.0-alpha</latest>
+    <release>1.29.0-alpha</release>
     <versions>
       <version>1.9.0-alpha</version>
       <version>1.9.1-alpha</version>
@@ -38,7 +38,8 @@
       <version>1.26.0-alpha</version>
       <version>1.27.0-alpha</version>
       <version>1.28.0-alpha</version>
+      <version>1.29.0-alpha</version>
     </versions>
-    <lastUpdated>20230712210052</lastUpdated>
+    <lastUpdated>20230817042459</lastUpdated>
   </versioning>
 </metadata>

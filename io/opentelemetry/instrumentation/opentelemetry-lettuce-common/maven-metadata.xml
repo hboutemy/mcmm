@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-lettuce-common</artifactId>
   <versioning>
-    <latest>1.28.0-alpha</latest>
-    <release>1.28.0-alpha</release>
+    <latest>1.29.0-alpha</latest>
+    <release>1.29.0-alpha</release>
     <versions>
       <version>1.4.0-alpha</version>
       <version>1.4.1-alpha</version>
@@ -51,7 +51,8 @@
       <version>1.26.0-alpha</version>
       <version>1.27.0-alpha</version>
       <version>1.28.0-alpha</version>
+      <version>1.29.0-alpha</version>
     </versions>
-    <lastUpdated>20230712205239</lastUpdated>
+    <lastUpdated>20230817041718</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-v5migrationhelper-engine</artifactId>
   <versioning>
-    <latest>6.2.0.Final</latest>
-    <release>6.2.0.Final</release>
+    <latest>6.2.1.Final</latest>
+    <release>6.2.1.Final</release>
     <versions>
       <version>6.0.7.Final</version>
       <version>6.0.8.Final</version>
@@ -28,6 +28,7 @@
       <version>6.2.0.Beta1</version>
       <version>6.2.0.CR1</version>
       <version>6.2.0.Final</version>
+      <version>6.2.1.Final</version>
       <version>6.0.0.Beta11</version>
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
@@ -40,6 +41,6 @@
       <version>6.0.6.Final</version>
       <version>6.1.0.Alpha1</version>
     </versions>
-    <lastUpdated>20230707081915</lastUpdated>
+    <lastUpdated>20230817150325</lastUpdated>
   </versioning>
 </metadata>

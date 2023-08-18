@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-client</artifactId>
   <versioning>
-    <latest>6.6.2</latest>
-    <release>6.6.2</release>
+    <latest>6.8.0</latest>
+    <release>6.8.0</release>
     <versions>
       <version>3.0.0</version>
       <version>3.1.0</version>
@@ -80,7 +80,8 @@
       <version>6.6.0</version>
       <version>6.6.1</version>
       <version>6.6.2</version>
+      <version>6.8.0</version>
     </versions>
-    <lastUpdated>20230719230155</lastUpdated>
+    <lastUpdated>20230817130448</lastUpdated>
   </versioning>
 </metadata>

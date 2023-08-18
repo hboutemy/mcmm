@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-mapper-orm-batch-jsr352-core-jakarta</artifactId>
   <versioning>
-    <latest>6.2.0.Final</latest>
-    <release>6.2.0.Final</release>
+    <latest>6.2.1.Final</latest>
+    <release>6.2.1.Final</release>
     <versions>
       <version>6.1.0.Beta1</version>
       <version>6.1.0.Beta2</version>
@@ -23,7 +23,8 @@
       <version>6.2.0.Beta1</version>
       <version>6.2.0.CR1</version>
       <version>6.2.0.Final</version>
+      <version>6.2.1.Final</version>
     </versions>
-    <lastUpdated>20230707081904</lastUpdated>
+    <lastUpdated>20230817150315</lastUpdated>
   </versioning>
 </metadata>

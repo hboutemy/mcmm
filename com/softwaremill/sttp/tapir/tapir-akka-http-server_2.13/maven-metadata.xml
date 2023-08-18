@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-akka-http-server_2.13</artifactId>
   <versioning>
-    <latest>1.7.0</latest>
-    <release>1.7.0</release>
+    <latest>1.7.1</latest>
+    <release>1.7.1</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -191,7 +191,8 @@
       <version>1.6.3</version>
       <version>1.6.4</version>
       <version>1.7.0</version>
+      <version>1.7.1</version>
     </versions>
-    <lastUpdated>20230810010047</lastUpdated>
+    <lastUpdated>20230817164536</lastUpdated>
   </versioning>
 </metadata>

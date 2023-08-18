@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-vmmigration</artifactId>
   <versioning>
-    <latest>v1-rev20230803-2.0.0</latest>
-    <release>v1-rev20230803-2.0.0</release>
+    <latest>v1-rev20230810-2.0.0</latest>
+    <release>v1-rev20230810-2.0.0</release>
     <versions>
       <version>v1alpha1-rev20211001-1.32.1</version>
       <version>v1alpha1-rev20211014-1.32.1</version>
@@ -41,6 +41,7 @@
       <version>v1alpha1-rev20230504-2.0.0</version>
       <version>v1alpha1-rev20230515-2.0.0</version>
       <version>v1alpha1-rev20230803-2.0.0</version>
+      <version>v1alpha1-rev20230810-2.0.0</version>
       <version>v1-rev20211001-1.32.1</version>
       <version>v1-rev20211014-1.32.1</version>
       <version>v1-rev20211021-1.32.1</version>
@@ -73,7 +74,8 @@
       <version>v1-rev20230504-2.0.0</version>
       <version>v1-rev20230515-2.0.0</version>
       <version>v1-rev20230803-2.0.0</version>
+      <version>v1-rev20230810-2.0.0</version>
     </versions>
-    <lastUpdated>20230812100321</lastUpdated>
+    <lastUpdated>20230817090030</lastUpdated>
   </versioning>
 </metadata>
