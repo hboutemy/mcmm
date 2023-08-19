@@ -6,5 +6,10 @@
       <prefix>ibizlabcli</prefix>
       <artifactId>ibizlab-generator-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>sshexec</name>
+      <prefix>sshexec</prefix>
+      <artifactId>sshexec</artifactId>
+    </plugin>
   </plugins>
 </metadata>

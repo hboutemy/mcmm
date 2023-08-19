@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-api-undertow</artifactId>
   <versioning>
-    <latest>0.916.0</latest>
-    <release>0.916.0</release>
+    <latest>0.917.0</latest>
+    <release>0.917.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -723,7 +723,8 @@
       <version>0.914.0</version>
       <version>0.915.0</version>
       <version>0.916.0</version>
+      <version>0.917.0</version>
     </versions>
-    <lastUpdated>20230816185923</lastUpdated>
+    <lastUpdated>20230818135806</lastUpdated>
   </versioning>
 </metadata>

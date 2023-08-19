@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-persistence-infinispan-parent</artifactId>
   <versioning>
-    <latest>1.42.0.Final</latest>
-    <release>1.42.0.Final</release>
+    <latest>1.43.0.Final</latest>
+    <release>1.43.0.Final</release>
     <versions>
       <version>1.12.0.Final</version>
       <version>1.13.0.Final</version>
@@ -44,7 +44,8 @@
       <version>1.40.1.Final</version>
       <version>1.41.0.Final</version>
       <version>1.42.0.Final</version>
+      <version>1.43.0.Final</version>
     </versions>
-    <lastUpdated>20230801162041</lastUpdated>
+    <lastUpdated>20230817205748</lastUpdated>
   </versioning>
 </metadata>

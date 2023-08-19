@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-jobs-knative-eventing</artifactId>
   <versioning>
-    <latest>1.42.0.Final</latest>
-    <release>1.42.0.Final</release>
+    <latest>1.43.0.Final</latest>
+    <release>1.43.0.Final</release>
     <versions>
       <version>1.26.0.Final</version>
       <version>1.27.0.Final</version>
@@ -26,7 +26,8 @@
       <version>1.40.1.Final</version>
       <version>1.41.0.Final</version>
       <version>1.42.0.Final</version>
+      <version>1.43.0.Final</version>
     </versions>
-    <lastUpdated>20230801162035</lastUpdated>
+    <lastUpdated>20230817205741</lastUpdated>
   </versioning>
 </metadata>
