@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-cluster</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>4.0.0</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>1.10.0</version>
       <version>1.10.1</version>
@@ -128,7 +128,8 @@
       <version>4.0.0-alpha.3</version>
       <version>4.0.0-alpha.4</version>
       <version>4.0.0</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20230717123743</lastUpdated>
+    <lastUpdated>20230821074919</lastUpdated>
   </versioning>
 </metadata>
