@@ -3,8 +3,8 @@
   <groupId>org.gedcomx.extensions.familysearch</groupId>
   <artifactId>familysearch-api-model</artifactId>
   <versioning>
-    <latest>3.4.0</latest>
-    <release>3.4.0</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>1.0.106.M1</version>
       <version>1.0.111.M1</version>
@@ -244,13 +244,15 @@
       <version>2.154.0</version>
       <version>2.155.0</version>
       <version>2.156.0</version>
+      <version>2.157.0</version>
       <version>3.0.0</version>
       <version>3.1.0</version>
       <version>3.2.0</version>
       <version>3.3.0</version>
       <version>3.4.0</version>
+      <version>3.5.0</version>
       <version>1.0.127.M1</version>
     </versions>
-    <lastUpdated>20230816205326</lastUpdated>
+    <lastUpdated>20230822045056</lastUpdated>
   </versioning>
 </metadata>

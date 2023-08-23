@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>RESTEASY-1056-jetty-bv11</artifactId>
   <versioning>
-    <latest>6.2.4.Final</latest>
-    <release>6.2.4.Final</release>
+    <latest>6.2.5.Final</latest>
+    <release>6.2.5.Final</release>
     <versions>
       <version>3.0.15.Final</version>
       <version>3.0.16.Final</version>
@@ -136,6 +136,7 @@
       <version>5.0.5.Final</version>
       <version>5.0.6.Final</version>
       <version>5.0.7.Final</version>
+      <version>5.0.8.Final</version>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
@@ -152,7 +153,8 @@
       <version>6.2.2.Final</version>
       <version>6.2.3.Final</version>
       <version>6.2.4.Final</version>
+      <version>6.2.5.Final</version>
     </versions>
-    <lastUpdated>20230516030352</lastUpdated>
+    <lastUpdated>20230822010004</lastUpdated>
   </versioning>
 </metadata>
