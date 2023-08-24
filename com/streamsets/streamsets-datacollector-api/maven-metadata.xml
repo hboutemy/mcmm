@@ -3,8 +3,8 @@
   <groupId>com.streamsets</groupId>
   <artifactId>streamsets-datacollector-api</artifactId>
   <versioning>
-    <latest>5.6.0</latest>
-    <release>5.6.0</release>
+    <latest>5.6.1</latest>
+    <release>5.6.1</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0.0</version>
@@ -75,7 +75,8 @@
       <version>5.4.0</version>
       <version>5.5.0</version>
       <version>5.6.0</version>
+      <version>5.6.1</version>
     </versions>
-    <lastUpdated>20230627081526</lastUpdated>
+    <lastUpdated>20230823032948</lastUpdated>
   </versioning>
 </metadata>

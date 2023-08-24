@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Serenity BDD Maven Plugin</name>
       <prefix>serenity</prefix>
       <artifactId>serenity-maven-plugin</artifactId>
     </plugin>

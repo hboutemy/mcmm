@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-lti-service-impl</artifactId>
   <versioning>
-    <latest>14.2</latest>
-    <release>14.2</release>
+    <latest>14.3</latest>
+    <release>14.3</release>
     <versions>
       <version>9.0</version>
       <version>9.1</version>
@@ -61,10 +61,12 @@
       <version>13.6</version>
       <version>13.7</version>
       <version>13.8</version>
+      <version>13.10</version>
       <version>14.0</version>
       <version>14.1</version>
       <version>14.2</version>
+      <version>14.3</version>
     </versions>
-    <lastUpdated>20230809104447</lastUpdated>
+    <lastUpdated>20230823164247</lastUpdated>
   </versioning>
 </metadata>
