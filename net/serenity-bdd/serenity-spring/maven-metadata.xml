@@ -3,8 +3,8 @@
   <groupId>net.serenity-bdd</groupId>
   <artifactId>serenity-spring</artifactId>
   <versioning>
-    <latest>4.0.0-beta-4</latest>
-    <release>4.0.0-beta-4</release>
+    <latest>4.0.0-beta-6</latest>
+    <release>4.0.0-beta-6</release>
     <versions>
       <version>1.0.25</version>
       <version>1.0.26</version>
@@ -430,6 +430,8 @@
       <version>4.0.0-beta-2</version>
       <version>4.0.0-beta-3</version>
       <version>4.0.0-beta-4</version>
+      <version>4.0.0-beta-5</version>
+      <version>4.0.0-beta-6</version>
       <version>1.0.51</version>
       <version>1.0.52</version>
       <version>1.0.53</version>
@@ -441,6 +443,6 @@
       <version>2.4.35</version>
       <version>2.4.42</version>
     </versions>
-    <lastUpdated>20230823144750</lastUpdated>
+    <lastUpdated>20230824174631</lastUpdated>
   </versioning>
 </metadata>

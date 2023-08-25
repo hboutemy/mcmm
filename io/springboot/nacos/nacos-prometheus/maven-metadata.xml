@@ -3,15 +3,16 @@
   <groupId>io.springboot.nacos</groupId>
   <artifactId>nacos-prometheus</artifactId>
   <versioning>
-    <latest>2.2.4</latest>
-    <release>2.2.4</release>
+    <latest>2.2.4-OEM</latest>
+    <release>2.2.4-OEM</release>
     <versions>
       <version>2.2.0</version>
       <version>2.2.0.PIGOEM</version>
       <version>2.2.0.1</version>
       <version>2.2.3</version>
       <version>2.2.4</version>
+      <version>2.2.4-OEM</version>
     </versions>
-    <lastUpdated>20230815131109</lastUpdated>
+    <lastUpdated>20230824141049</lastUpdated>
   </versioning>
 </metadata>
