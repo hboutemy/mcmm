@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>vsphere</artifactId>
   <versioning>
-    <latest>4.6.0-alpha.1692859584+d7c96b9b</latest>
-    <release>4.6.0-alpha.1692859584+d7c96b9b</release>
+    <latest>4.6.0</latest>
+    <release>4.6.0</release>
     <versions>
       <version>4.4.0-alpha.1668632155+d533ab43</version>
       <version>4.4.0-alpha.1673556417+39abf701</version>
@@ -44,7 +44,9 @@
       <version>4.6.0-alpha.1691649597+0a18eb65</version>
       <version>4.6.0-alpha.1691736055+94e7d65b</version>
       <version>4.6.0-alpha.1692859584+d7c96b9b</version>
+      <version>4.6.0-alpha.1692930804+efa9aec2</version>
+      <version>4.6.0</version>
     </versions>
-    <lastUpdated>20230824072121</lastUpdated>
+    <lastUpdated>20230825053800</lastUpdated>
   </versioning>
 </metadata>

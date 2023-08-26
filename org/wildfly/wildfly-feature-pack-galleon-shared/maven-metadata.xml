@@ -3,13 +3,14 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-feature-pack-galleon-shared</artifactId>
   <versioning>
-    <latest>29.0.0.Final</latest>
-    <release>29.0.0.Final</release>
+    <latest>29.0.1.Final</latest>
+    <release>29.0.1.Final</release>
     <versions>
       <version>29.0.0.Alpha1</version>
       <version>29.0.0.Beta1</version>
       <version>29.0.0.Final</version>
+      <version>29.0.1.Final</version>
     </versions>
-    <lastUpdated>20230720170731</lastUpdated>
+    <lastUpdated>20230825160503</lastUpdated>
   </versioning>
 </metadata>

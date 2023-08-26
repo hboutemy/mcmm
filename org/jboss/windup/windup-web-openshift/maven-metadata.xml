@@ -3,8 +3,8 @@
   <groupId>org.jboss.windup</groupId>
   <artifactId>windup-web-openshift</artifactId>
   <versioning>
-    <latest>6.3.0.Final</latest>
-    <release>6.3.0.Final</release>
+    <latest>6.3.1.Final</latest>
+    <release>6.3.1.Final</release>
     <versions>
       <version>4.1.0.Alpha5</version>
       <version>4.1.0.Final</version>
@@ -70,7 +70,8 @@
       <version>6.2.4.Final</version>
       <version>6.2.5.Final</version>
       <version>6.3.0.Final</version>
+      <version>6.3.1.Final</version>
     </versions>
-    <lastUpdated>20230801123654</lastUpdated>
+    <lastUpdated>20230825140856</lastUpdated>
   </versioning>
 </metadata>

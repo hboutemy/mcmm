@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-i18n-pt-BR</artifactId>
   <versioning>
-    <latest>11.0.0-M10</latest>
-    <release>11.0.0-M10</release>
+    <latest>11.0.0-M11</latest>
+    <release>11.0.0-M11</release>
     <versions>
       <version>9.0.14</version>
       <version>9.0.16</version>
@@ -58,6 +58,7 @@
       <version>9.0.76</version>
       <version>9.0.78</version>
       <version>9.0.79</version>
+      <version>9.0.80</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -114,6 +115,7 @@
       <version>10.1.10</version>
       <version>10.1.11</version>
       <version>10.1.12</version>
+      <version>10.1.13</version>
       <version>11.0.0-M1</version>
       <version>11.0.0-M3</version>
       <version>11.0.0-M4</version>
@@ -122,7 +124,8 @@
       <version>11.0.0-M7</version>
       <version>11.0.0-M9</version>
       <version>11.0.0-M10</version>
+      <version>11.0.0-M11</version>
     </versions>
-    <lastUpdated>20230815031142</lastUpdated>
+    <lastUpdated>20230825163245</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-reactive-messaging</artifactId>
   <versioning>
-    <latest>29.0.0.Final</latest>
-    <release>29.0.0.Final</release>
+    <latest>29.0.1.Final</latest>
+    <release>29.0.1.Final</release>
     <versions>
       <version>23.0.0.Beta1</version>
       <version>23.0.0.Final</version>
@@ -38,7 +38,8 @@
       <version>29.0.0.Alpha1</version>
       <version>29.0.0.Beta1</version>
       <version>29.0.0.Final</version>
+      <version>29.0.1.Final</version>
     </versions>
-    <lastUpdated>20230720170737</lastUpdated>
+    <lastUpdated>20230825160509</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-elytron-oidc-client-subsystem</artifactId>
   <versioning>
-    <latest>29.0.0.Final</latest>
-    <release>29.0.0.Final</release>
+    <latest>29.0.1.Final</latest>
+    <release>29.0.1.Final</release>
     <versions>
       <version>25.0.0.Beta1</version>
       <version>25.0.0.Final</version>
@@ -31,7 +31,8 @@
       <version>29.0.0.Alpha1</version>
       <version>29.0.0.Beta1</version>
       <version>29.0.0.Final</version>
+      <version>29.0.1.Final</version>
     </versions>
-    <lastUpdated>20230720170731</lastUpdated>
+    <lastUpdated>20230825160502</lastUpdated>
   </versioning>
 </metadata>
