@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.plugin.entrypoint</groupId>
   <artifactId>gravitee-apim-plugin-entrypoint-http-proxy</artifactId>
   <versioning>
-    <latest>4.0.4</latest>
-    <release>4.0.4</release>
+    <latest>4.0.5</latest>
+    <release>4.0.5</release>
     <versions>
       <version>3.20.0</version>
       <version>3.20.1</version>
@@ -31,7 +31,8 @@
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
     </versions>
-    <lastUpdated>20230818141756</lastUpdated>
+    <lastUpdated>20230828151631</lastUpdated>
   </versioning>
 </metadata>

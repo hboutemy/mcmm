@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-websockets-client-deployment</artifactId>
   <versioning>
-    <latest>3.3.0</latest>
-    <release>3.3.0</release>
+    <latest>3.3.1</latest>
+    <release>3.3.1</release>
     <versions>
       <version>2.1.0.CR1</version>
       <version>2.1.0.Final</version>
@@ -131,7 +131,8 @@
       <version>3.2.5.Final</version>
       <version>3.3.0.CR1</version>
       <version>3.3.0</version>
+      <version>3.3.1</version>
     </versions>
-    <lastUpdated>20230827163009</lastUpdated>
+    <lastUpdated>20230828183830</lastUpdated>
   </versioning>
 </metadata>
