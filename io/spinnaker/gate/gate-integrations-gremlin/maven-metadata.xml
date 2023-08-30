@@ -3,8 +3,8 @@
   <groupId>io.spinnaker.gate</groupId>
   <artifactId>gate-integrations-gremlin</artifactId>
   <versioning>
-    <latest>6.59.0</latest>
-    <release>6.59.0</release>
+    <latest>6.59.1</latest>
+    <release>6.59.1</release>
     <versions>
       <version>6.52.0</version>
       <version>6.53.0</version>
@@ -33,7 +33,8 @@
       <version>6.58.1</version>
       <version>6.58.2</version>
       <version>6.59.0</version>
+      <version>6.59.1</version>
     </versions>
-    <lastUpdated>20230817073321</lastUpdated>
+    <lastUpdated>20230829163015</lastUpdated>
   </versioning>
 </metadata>
