@@ -3,8 +3,8 @@
   <groupId>com.datadoghq</groupId>
   <artifactId>dd-trace-api</artifactId>
   <versioning>
-    <latest>1.19.3</latest>
-    <release>1.19.3</release>
+    <latest>1.20.0</latest>
+    <release>1.20.0</release>
     <versions>
       <version>0.3.0.RC1</version>
       <version>0.3.0.RC2</version>
@@ -190,7 +190,8 @@
       <version>1.19.1</version>
       <version>1.19.2</version>
       <version>1.19.3</version>
+      <version>1.20.0</version>
     </versions>
-    <lastUpdated>20230823153629</lastUpdated>
+    <lastUpdated>20230830155606</lastUpdated>
   </versioning>
 </metadata>

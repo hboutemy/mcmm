@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>features-mdsal-experimental</artifactId>
   <versioning>
-    <latest>12.0.0</latest>
-    <release>12.0.0</release>
+    <latest>12.0.1</latest>
+    <release>12.0.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -136,7 +136,8 @@
       <version>11.0.11</version>
       <version>11.0.12</version>
       <version>12.0.0</version>
+      <version>12.0.1</version>
     </versions>
-    <lastUpdated>20230726161119</lastUpdated>
+    <lastUpdated>20230830165206</lastUpdated>
   </versioning>
 </metadata>
