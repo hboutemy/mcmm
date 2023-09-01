@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jkube</groupId>
   <artifactId>openshift-maven-plugin</artifactId>
   <versioning>
-    <latest>1.13.1</latest>
-    <release>1.13.1</release>
+    <latest>1.14.0</latest>
+    <release>1.14.0</release>
     <versions>
       <version>1.0.0-alpha-1</version>
       <version>1.0.0-alpha-2</version>
@@ -32,7 +32,8 @@
       <version>1.12.0</version>
       <version>1.13.0</version>
       <version>1.13.1</version>
+      <version>1.14.0</version>
     </versions>
-    <lastUpdated>20230616085236</lastUpdated>
+    <lastUpdated>20230831105332</lastUpdated>
   </versioning>
 </metadata>

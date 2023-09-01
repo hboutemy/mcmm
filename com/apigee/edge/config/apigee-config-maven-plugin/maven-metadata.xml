@@ -3,8 +3,8 @@
   <groupId>com.apigee.edge.config</groupId>
   <artifactId>apigee-config-maven-plugin</artifactId>
   <versioning>
-    <latest>2.4.6-rc1</latest>
-    <release>2.4.6-rc1</release>
+    <latest>2.4.6</latest>
+    <release>2.4.6</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -56,7 +56,8 @@
       <version>2.4.5-rc2</version>
       <version>2.4.5</version>
       <version>2.4.6-rc1</version>
+      <version>2.4.6</version>
     </versions>
-    <lastUpdated>20230822005933</lastUpdated>
+    <lastUpdated>20230831204203</lastUpdated>
   </versioning>
 </metadata>
