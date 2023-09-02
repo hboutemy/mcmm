@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-service-consul</artifactId>
   <versioning>
-    <latest>1.3.0.Beta25</latest>
-    <release>1.3.0.Beta25</release>
+    <latest>1.3.0.Beta26</latest>
+    <release>1.3.0.Beta26</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -84,7 +84,8 @@
       <version>1.3.0.Beta23</version>
       <version>1.3.0.Beta24</version>
       <version>1.3.0.Beta25</version>
+      <version>1.3.0.Beta26</version>
     </versions>
-    <lastUpdated>20230829115434</lastUpdated>
+    <lastUpdated>20230901205003</lastUpdated>
   </versioning>
 </metadata>

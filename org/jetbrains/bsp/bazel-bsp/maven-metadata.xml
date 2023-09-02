@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.bsp</groupId>
   <artifactId>bazel-bsp</artifactId>
   <versioning>
-    <latest>3.0.0-20230831-edcfd4b-NIGHTLY</latest>
-    <release>3.0.0-20230831-edcfd4b-NIGHTLY</release>
+    <latest>3.0.0-20230901-f4fb71b-NIGHTLY</latest>
+    <release>3.0.0-20230901-f4fb71b-NIGHTLY</release>
     <versions>
       <version>0.1.0</version>
       <version>1.0.0-RC1</version>
@@ -82,7 +82,8 @@
       <version>3.0.0-20230829-6d11bde-NIGHTLY</version>
       <version>3.0.0-20230830-2e17ea0-NIGHTLY</version>
       <version>3.0.0-20230831-edcfd4b-NIGHTLY</version>
+      <version>3.0.0-20230901-f4fb71b-NIGHTLY</version>
     </versions>
-    <lastUpdated>20230831001022</lastUpdated>
+    <lastUpdated>20230901002603</lastUpdated>
   </versioning>
 </metadata>
