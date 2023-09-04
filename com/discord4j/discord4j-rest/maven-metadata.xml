@@ -3,8 +3,8 @@
   <groupId>com.discord4j</groupId>
   <artifactId>discord4j-rest</artifactId>
   <versioning>
-    <latest>3.3.0-M2</latest>
-    <release>3.3.0-M2</release>
+    <latest>3.3.0-RC1</latest>
+    <release>3.3.0-RC1</release>
     <versions>
       <version>3.0.0.M2</version>
       <version>3.0.0.M3</version>
@@ -57,9 +57,11 @@
       <version>3.2.3</version>
       <version>3.2.4</version>
       <version>3.2.5</version>
+      <version>3.2.6</version>
       <version>3.3.0-M1</version>
       <version>3.3.0-M2</version>
+      <version>3.3.0-RC1</version>
     </versions>
-    <lastUpdated>20230615063234</lastUpdated>
+    <lastUpdated>20230903212114</lastUpdated>
   </versioning>
 </metadata>
