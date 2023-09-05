@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-checkstyle</artifactId>
   <versioning>
-    <latest>6.8.0</latest>
-    <release>6.8.0</release>
+    <latest>6.8.1</latest>
+    <release>6.8.1</release>
     <versions>
       <version>5.7.7</version>
       <version>5.7.8</version>
@@ -35,7 +35,8 @@
       <version>6.6.1</version>
       <version>6.6.2</version>
       <version>6.8.0</version>
+      <version>6.8.1</version>
     </versions>
-    <lastUpdated>20230817130446</lastUpdated>
+    <lastUpdated>20230904004110</lastUpdated>
   </versioning>
 </metadata>

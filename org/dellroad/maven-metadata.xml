@@ -11,5 +11,10 @@
       <prefix>dellroad-stuff</prefix>
       <artifactId>dellroad-stuff-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Hibernate+JPA Schema Generator</name>
+      <prefix>hibernate-jpa-schemagen</prefix>
+      <artifactId>hibernate-jpa-schemagen</artifactId>
+    </plugin>
   </plugins>
 </metadata>
