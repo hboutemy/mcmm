@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-orm-deployment-spi</artifactId>
   <versioning>
-    <latest>3.3.1</latest>
-    <release>3.3.1</release>
+    <latest>3.3.2</latest>
+    <release>3.3.2</release>
     <versions>
       <version>2.10.0.CR1</version>
       <version>2.10.0.Final</version>
@@ -83,7 +83,8 @@
       <version>3.3.0.CR1</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
+      <version>3.3.2</version>
     </versions>
-    <lastUpdated>20230828183336</lastUpdated>
+    <lastUpdated>20230905133721</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-vertx-http</artifactId>
   <versioning>
-    <latest>3.3.1</latest>
-    <release>3.3.1</release>
+    <latest>3.3.2</latest>
+    <release>3.3.2</release>
     <versions>
       <version>0.23.0</version>
       <version>0.23.1</version>
@@ -231,7 +231,8 @@
       <version>3.3.0.CR1</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
+      <version>3.3.2</version>
     </versions>
-    <lastUpdated>20230828183823</lastUpdated>
+    <lastUpdated>20230905134045</lastUpdated>
   </versioning>
 </metadata>

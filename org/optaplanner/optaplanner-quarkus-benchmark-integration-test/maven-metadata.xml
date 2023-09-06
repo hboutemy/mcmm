@@ -3,8 +3,8 @@
   <groupId>org.optaplanner</groupId>
   <artifactId>optaplanner-quarkus-benchmark-integration-test</artifactId>
   <versioning>
-    <latest>9.43.0.Final</latest>
-    <release>9.43.0.Final</release>
+    <latest>9.44.0.Final</latest>
+    <release>9.44.0.Final</release>
     <versions>
       <version>8.15.0.Final</version>
       <version>8.16.0.Final</version>
@@ -38,6 +38,7 @@
       <version>8.41.0.Final</version>
       <version>8.42.0.Final</version>
       <version>8.43.0.Final</version>
+      <version>8.44.0.Final</version>
       <version>9.34.0.Beta1</version>
       <version>9.35.0.Beta2</version>
       <version>9.36.0.Beta3</version>
@@ -47,7 +48,8 @@
       <version>9.41.0.Final</version>
       <version>9.42.0.Final</version>
       <version>9.43.0.Final</version>
+      <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20230817205650</lastUpdated>
+    <lastUpdated>20230905161649</lastUpdated>
   </versioning>
 </metadata>

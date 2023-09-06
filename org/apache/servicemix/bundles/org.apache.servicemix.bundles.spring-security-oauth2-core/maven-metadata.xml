@@ -3,8 +3,8 @@
   <groupId>org.apache.servicemix.bundles</groupId>
   <artifactId>org.apache.servicemix.bundles.spring-security-oauth2-core</artifactId>
   <versioning>
-    <latest>6.1.1_1</latest>
-    <release>6.1.1_1</release>
+    <latest>6.1.3_1</latest>
+    <release>6.1.3_1</release>
     <versions>
       <version>5.0.4.RELEASE_1</version>
       <version>5.0.5.RELEASE_1</version>
@@ -45,12 +45,15 @@
       <version>5.8.0_1</version>
       <version>5.8.1_1</version>
       <version>5.8.4_1</version>
+      <version>5.8.6_1</version>
       <version>6.0.0_1</version>
       <version>6.0.1_1</version>
       <version>6.0.2_1</version>
       <version>6.0.3_1</version>
+      <version>6.0.5_1</version>
       <version>6.1.1_1</version>
+      <version>6.1.3_1</version>
     </versions>
-    <lastUpdated>20230801120914</lastUpdated>
+    <lastUpdated>20230905090147</lastUpdated>
   </versioning>
 </metadata>
