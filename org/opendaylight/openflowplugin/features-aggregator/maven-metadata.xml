@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.openflowplugin</groupId>
   <artifactId>features-aggregator</artifactId>
   <versioning>
-    <latest>0.16.1</latest>
-    <release>0.16.1</release>
+    <latest>0.16.2</latest>
+    <release>0.16.2</release>
     <versions>
       <version>0.4.0-Carbon</version>
       <version>0.4.1-Carbon</version>
@@ -60,7 +60,8 @@
       <version>0.15.3</version>
       <version>0.16.0</version>
       <version>0.16.1</version>
+      <version>0.16.2</version>
     </versions>
-    <lastUpdated>20230626232602</lastUpdated>
+    <lastUpdated>20230906230650</lastUpdated>
   </versioning>
 </metadata>

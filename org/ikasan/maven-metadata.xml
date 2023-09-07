@@ -37,9 +37,19 @@
       <artifactId>ikasan-integration-module-jboss6-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Ikasan Enterprise Scheduler Job Plan Builder Demo</name>
+      <prefix>ikasan-job-plan-builder-demo</prefix>
+      <artifactId>ikasan-job-plan-builder-demo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>IkasanEIP Maven Archetype for the Ikasan Runtime configuration within JBoss6</name>
       <prefix>ikasan-rt-conf-jboss6</prefix>
       <artifactId>ikasan-rt-conf-jboss6-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Ikasan Enterprise Scheduler Distribution Deployment Demo</name>
+      <prefix>ikasan-scheduler-distribution-deployment-demo</prefix>
+      <artifactId>ikasan-scheduler-distribution-deployment-demo-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>IkasanEIP Maven Archetype for a standalone DB to JMS to DB Integration Module</name>

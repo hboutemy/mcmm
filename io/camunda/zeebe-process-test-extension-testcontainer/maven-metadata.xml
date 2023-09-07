@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-extension-testcontainer</artifactId>
   <versioning>
-    <latest>8.3.0-alpha4</latest>
-    <release>8.3.0-alpha4</release>
+    <latest>8.3.0-alpha5</latest>
+    <release>8.3.0-alpha5</release>
     <versions>
       <version>1.4.0-alpha2</version>
       <version>8.0.0-rc1</version>
@@ -26,6 +26,7 @@
       <version>8.0.17</version>
       <version>8.0.18</version>
       <version>8.0.19</version>
+      <version>8.0.20</version>
       <version>8.1.0-alpha1</version>
       <version>8.1.0-alpha2</version>
       <version>8.1.0-alpha3</version>
@@ -47,6 +48,7 @@
       <version>8.1.13</version>
       <version>8.1.14</version>
       <version>8.1.15</version>
+      <version>8.1.16</version>
       <version>8.2.0-alpha1</version>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
@@ -65,12 +67,14 @@
       <version>8.2.10</version>
       <version>8.2.11</version>
       <version>8.2.12</version>
+      <version>8.2.13</version>
       <version>8.3.0-alpha1</version>
       <version>8.3.0-alpha2</version>
       <version>8.3.0-alpha2.2</version>
       <version>8.3.0-alpha3</version>
       <version>8.3.0-alpha4</version>
+      <version>8.3.0-alpha5</version>
     </versions>
-    <lastUpdated>20230816093026</lastUpdated>
+    <lastUpdated>20230906204506</lastUpdated>
   </versioning>
 </metadata>

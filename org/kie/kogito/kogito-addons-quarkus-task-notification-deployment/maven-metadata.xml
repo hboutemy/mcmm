@@ -3,8 +3,8 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>kogito-addons-quarkus-task-notification-deployment</artifactId>
   <versioning>
-    <latest>1.44.0.Final</latest>
-    <release>1.44.0.Final</release>
+    <latest>2.44.0.Alpha</latest>
+    <release>2.44.0.Alpha</release>
     <versions>
       <version>1.12.0.Final</version>
       <version>1.13.0.Final</version>
@@ -46,7 +46,8 @@
       <version>1.42.0.Final</version>
       <version>1.43.0.Final</version>
       <version>1.44.0.Final</version>
+      <version>2.44.0.Alpha</version>
     </versions>
-    <lastUpdated>20230905155620</lastUpdated>
+    <lastUpdated>20230906092047</lastUpdated>
   </versioning>
 </metadata>
