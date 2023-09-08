@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-build-common</artifactId>
   <versioning>
-    <latest>1.9.10</latest>
-    <release>1.9.10</release>
+    <latest>1.9.20-Beta</latest>
+    <release>1.9.20-Beta</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -114,7 +114,8 @@
       <version>1.9.0-RC</version>
       <version>1.9.0</version>
       <version>1.9.10</version>
+      <version>1.9.20-Beta</version>
     </versions>
-    <lastUpdated>20230831092915</lastUpdated>
+    <lastUpdated>20230907152816</lastUpdated>
   </versioning>
 </metadata>
