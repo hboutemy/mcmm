@@ -3,8 +3,8 @@
   <groupId>com.nuodb.hibernate</groupId>
   <artifactId>nuodb-hibernate</artifactId>
   <versioning>
-    <latest>23.0.0-hib6</latest>
-    <release>23.0.0-hib6</release>
+    <latest>23.0.1-hib6</latest>
+    <release>23.0.1-hib6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -46,8 +46,10 @@
       <version>21.0.0-hib5</version>
       <version>22.0.0-hib5</version>
       <version>22.0.1-hib5</version>
+      <version>22.0.2-hib5</version>
       <version>23.0.0-hib6</version>
+      <version>23.0.1-hib6</version>
     </versions>
-    <lastUpdated>20230829161432</lastUpdated>
+    <lastUpdated>20230908140704</lastUpdated>
   </versioning>
 </metadata>
