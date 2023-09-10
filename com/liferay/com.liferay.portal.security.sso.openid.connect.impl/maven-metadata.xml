@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.sso.openid.connect.impl</artifactId>
   <versioning>
-    <latest>7.0.27</latest>
-    <release>7.0.27</release>
+    <latest>7.0.28</latest>
+    <release>7.0.28</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -275,7 +275,8 @@
       <version>7.0.25</version>
       <version>7.0.26</version>
       <version>7.0.27</version>
+      <version>7.0.28</version>
     </versions>
-    <lastUpdated>20230825005753</lastUpdated>
+    <lastUpdated>20230909173505</lastUpdated>
   </versioning>
 </metadata>
