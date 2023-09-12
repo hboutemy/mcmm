@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.kamelets</groupId>
   <artifactId>kamelets-maven-plugin</artifactId>
   <versioning>
-    <latest>4.0.0-RC1</latest>
-    <release>4.0.0-RC1</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.1</version>
@@ -25,7 +25,8 @@
       <version>4.0.0-M2</version>
       <version>4.0.0-M3</version>
       <version>4.0.0-RC1</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20230710075344</lastUpdated>
+    <lastUpdated>20230911044452</lastUpdated>
   </versioning>
 </metadata>

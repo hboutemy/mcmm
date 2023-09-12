@@ -3,12 +3,14 @@
   <groupId>org.wildfly.glow</groupId>
   <artifactId>wildfly-glow-maven-resolver</artifactId>
   <versioning>
-    <latest>1.0.0.Alpha2</latest>
-    <release>1.0.0.Alpha2</release>
+    <latest>1.0.0.Alpha4</latest>
+    <release>1.0.0.Alpha4</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
+      <version>1.0.0.Alpha3</version>
+      <version>1.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20230908103353</lastUpdated>
+    <lastUpdated>20230911111852</lastUpdated>
   </versioning>
 </metadata>

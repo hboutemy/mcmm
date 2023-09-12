@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JAXB Tools :: Hyperjaxb3 :: Maven :: Plugin</name>
+      <prefix>hyperjaxb3</prefix>
+      <artifactId>hyperjaxb3-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JAXB Tools :: Maven Plugin :: Plugin</name>
       <prefix>jaxb</prefix>
       <artifactId>jaxb-maven-plugin</artifactId>
