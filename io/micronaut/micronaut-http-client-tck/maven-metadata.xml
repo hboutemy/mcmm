@@ -3,8 +3,8 @@
   <groupId>io.micronaut</groupId>
   <artifactId>micronaut-http-client-tck</artifactId>
   <versioning>
-    <latest>4.1.3</latest>
-    <release>4.1.3</release>
+    <latest>4.1.5</latest>
+    <release>4.1.5</release>
     <versions>
       <version>4.0.0-M1</version>
       <version>4.0.0-M2</version>
@@ -29,7 +29,9 @@
       <version>4.1.1</version>
       <version>4.1.2</version>
       <version>4.1.3</version>
+      <version>4.1.4</version>
+      <version>4.1.5</version>
     </versions>
-    <lastUpdated>20230831165219</lastUpdated>
+    <lastUpdated>20230912205655</lastUpdated>
   </versioning>
 </metadata>

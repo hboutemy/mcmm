@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.sql</groupId>
   <artifactId>jdbc-socket-factory-core</artifactId>
   <versioning>
-    <latest>1.13.1</latest>
-    <release>1.13.1</release>
+    <latest>1.14.0</latest>
+    <release>1.14.0</release>
     <versions>
       <version>1.0.4</version>
       <version>1.0.5</version>
@@ -37,6 +37,7 @@
       <version>1.12.0</version>
       <version>1.13.0</version>
       <version>1.13.1</version>
+      <version>1.14.0</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.3.0</version>
@@ -54,6 +55,6 @@
       <version>1.6.1</version>
       <version>1.6.2</version>
     </versions>
-    <lastUpdated>20230721155949</lastUpdated>
+    <lastUpdated>20230912163936</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hibernate Based Migration Maven Plugin</name>
+      <prefix>hibernate-based-migration</prefix>
+      <artifactId>hibernate-based-migration-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
