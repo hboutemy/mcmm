@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.asset.auto.tagger.api</artifactId>
   <versioning>
-    <latest>5.3.1</latest>
-    <release>5.3.1</release>
+    <latest>1.3.2</latest>
+    <release>1.3.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -63,7 +63,9 @@
       <version>5.2.0</version>
       <version>5.3.0</version>
       <version>5.3.1</version>
+      <version>2.5.2</version>
+      <version>1.3.2</version>
     </versions>
-    <lastUpdated>20230807212526</lastUpdated>
+    <lastUpdated>20230913185838</lastUpdated>
   </versioning>
 </metadata>

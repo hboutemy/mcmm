@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jdbc-oracle-deployment</artifactId>
   <versioning>
-    <latest>3.4.0.CR1</latest>
-    <release>3.4.0.CR1</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.13.2.Final</version>
       <version>1.13.3.Final</version>
@@ -150,7 +150,8 @@
       <version>3.3.1</version>
       <version>3.3.2</version>
       <version>3.4.0.CR1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20230906102233</lastUpdated>
+    <lastUpdated>20230913141901</lastUpdated>
   </versioning>
 </metadata>

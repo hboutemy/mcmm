@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-security-jpa-deployment</artifactId>
   <versioning>
-    <latest>3.4.0.CR1</latest>
-    <release>3.4.0.CR1</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
@@ -212,7 +212,8 @@
       <version>3.3.1</version>
       <version>3.3.2</version>
       <version>3.4.0.CR1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20230906102449</lastUpdated>
+    <lastUpdated>20230913142052</lastUpdated>
   </versioning>
 </metadata>

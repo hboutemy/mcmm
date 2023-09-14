@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.osgi.web.wab.extender</artifactId>
   <versioning>
-    <latest>6.0.39</latest>
-    <release>6.0.39</release>
+    <latest>4.0.44</latest>
+    <release>4.0.44</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -254,7 +254,9 @@
       <version>5.0.38</version>
       <version>5.0.39</version>
       <version>6.0.39</version>
+      <version>3.0.56</version>
+      <version>4.0.44</version>
     </versions>
-    <lastUpdated>20230909174947</lastUpdated>
+    <lastUpdated>20230913183603</lastUpdated>
   </versioning>
 </metadata>

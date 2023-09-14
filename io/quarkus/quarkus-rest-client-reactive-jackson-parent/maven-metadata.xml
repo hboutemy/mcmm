@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-rest-client-reactive-jackson-parent</artifactId>
   <versioning>
-    <latest>3.4.0.CR1</latest>
-    <release>3.4.0.CR1</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.13.1.Final</version>
       <version>1.13.2.Final</version>
@@ -151,7 +151,8 @@
       <version>3.3.1</version>
       <version>3.3.2</version>
       <version>3.4.0.CR1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20230906102359</lastUpdated>
+    <lastUpdated>20230913142016</lastUpdated>
   </versioning>
 </metadata>
