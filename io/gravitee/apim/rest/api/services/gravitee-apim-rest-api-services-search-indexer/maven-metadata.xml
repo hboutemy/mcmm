@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.rest.api.services</groupId>
   <artifactId>gravitee-apim-rest-api-services-search-indexer</artifactId>
   <versioning>
-    <latest>4.0.7</latest>
-    <release>4.0.7</release>
+    <latest>4.0.8</latest>
+    <release>4.0.8</release>
     <versions>
       <version>3.5.19</version>
       <version>3.5.20</version>
@@ -145,6 +145,7 @@
       <version>3.19.21</version>
       <version>3.19.22</version>
       <version>3.19.23</version>
+      <version>3.19.24</version>
       <version>3.20.0</version>
       <version>3.20.1</version>
       <version>3.20.2</version>
@@ -164,6 +165,7 @@
       <version>3.20.16</version>
       <version>3.20.17</version>
       <version>3.20.18</version>
+      <version>3.20.19</version>
       <version>4.0.0-alpha.2</version>
       <version>4.0.0-alpha.3</version>
       <version>4.0.0-alpha.4</version>
@@ -175,7 +177,8 @@
       <version>4.0.5</version>
       <version>4.0.6</version>
       <version>4.0.7</version>
+      <version>4.0.8</version>
     </versions>
-    <lastUpdated>20230911151804</lastUpdated>
+    <lastUpdated>20230914153844</lastUpdated>
   </versioning>
 </metadata>

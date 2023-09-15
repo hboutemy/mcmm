@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-franceconnect</artifactId>
   <versioning>
-    <latest>3.21.4</latest>
-    <release>3.21.4</release>
+    <latest>3.21.6</latest>
+    <release>3.21.6</release>
     <versions>
       <version>3.3.0</version>
       <version>3.3.1</version>
@@ -182,7 +182,8 @@
       <version>3.21.1</version>
       <version>3.21.2</version>
       <version>3.21.4</version>
+      <version>3.21.6</version>
     </versions>
-    <lastUpdated>20230720170401</lastUpdated>
+    <lastUpdated>20230914192924</lastUpdated>
   </versioning>
 </metadata>

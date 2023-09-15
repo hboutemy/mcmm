@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-procedure-api</artifactId>
   <versioning>
-    <latest>5.11.0</latest>
-    <release>5.11.0</release>
+    <latest>5.12.0</latest>
+    <release>5.12.0</release>
     <versions>
       <version>3.4.0-alpha10</version>
       <version>3.4.0-beta01</version>
@@ -187,7 +187,8 @@
       <version>5.9.0</version>
       <version>5.10.0</version>
       <version>5.11.0</version>
+      <version>5.12.0</version>
     </versions>
-    <lastUpdated>20230906110142</lastUpdated>
+    <lastUpdated>20230914085727</lastUpdated>
   </versioning>
 </metadata>
