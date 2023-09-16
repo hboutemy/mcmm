@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>zookeeper-server-3.8.1</artifactId>
   <versioning>
-    <latest>8.224.19</latest>
-    <release>8.224.19</release>
+    <latest>8.226.19</latest>
+    <release>8.226.19</release>
     <versions>
       <version>8.119.40</version>
       <version>8.120.11</version>
@@ -88,7 +88,8 @@
       <version>8.221.29</version>
       <version>8.223.15</version>
       <version>8.224.19</version>
+      <version>8.226.19</version>
     </versions>
-    <lastUpdated>20230912184552</lastUpdated>
+    <lastUpdated>20230915130913</lastUpdated>
   </versioning>
 </metadata>

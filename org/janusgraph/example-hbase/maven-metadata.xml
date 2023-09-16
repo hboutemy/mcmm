@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>example-hbase</artifactId>
   <versioning>
-    <latest>1.0.0-20230914-202156.69ca01d</latest>
-    <release>1.0.0-20230914-202156.69ca01d</release>
+    <latest>1.0.0-20230914-231825.6681799</latest>
+    <release>1.0.0-20230914-231825.6681799</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -117,6 +117,10 @@
       <version>0.6.4-20230904-095448.bc2095b</version>
       <version>0.6.4-20230904-172159.f486914</version>
       <version>0.6.4-20230906-080834.36b5c72</version>
+      <version>0.6.4-20230915-140251.145452a</version>
+      <version>0.6.4-20230915-172448.3c5f7ab</version>
+      <version>0.6.4-20230915-172749.3ebe6f5</version>
+      <version>0.6.4-20230915-173211.5f3d58b</version>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
       <version>1.0.0-rc2-20230226-113902.ba672b9</version>
@@ -306,7 +310,8 @@
       <version>1.0.0-20230914-113436.442932a</version>
       <version>1.0.0-20230914-114010.69c860d</version>
       <version>1.0.0-20230914-202156.69ca01d</version>
+      <version>1.0.0-20230914-231825.6681799</version>
     </versions>
-    <lastUpdated>20230914203754</lastUpdated>
+    <lastUpdated>20230915174837</lastUpdated>
   </versioning>
 </metadata>
