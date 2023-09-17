@@ -3,12 +3,16 @@
   <groupId>io.github.studeyang</groupId>
   <artifactId>kubernetes-discovery</artifactId>
   <versioning>
-    <latest>2021.0.5_1</latest>
-    <release>2021.0.5_1</release>
+    <latest>2021.0.5C1</latest>
+    <release>2021.0.5C1</release>
     <versions>
+      <version>Finchley.RELEASE</version>
+      <version>Finchley.RELEASE_1</version>
       <version>2021.0.5</version>
       <version>2021.0.5_1</version>
+      <version>2021.0.5_2</version>
+      <version>2021.0.5C1</version>
     </versions>
-    <lastUpdated>20230915103459</lastUpdated>
+    <lastUpdated>20230916024039</lastUpdated>
   </versioning>
 </metadata>
