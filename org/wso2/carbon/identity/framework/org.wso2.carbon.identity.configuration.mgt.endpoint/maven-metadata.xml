@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.configuration.mgt.endpoint</artifactId>
   <versioning>
-    <latest>6.0.15</latest>
-    <release>6.0.15</release>
+    <latest>6.0.101</latest>
+    <release>6.0.101</release>
     <versions>
       <version>5.12.237</version>
       <version>5.12.238</version>
@@ -1284,6 +1284,10 @@
       <version>5.25.164</version>
       <version>5.25.165</version>
       <version>5.25.166</version>
+      <version>5.25.337</version>
+      <version>5.25.338</version>
+      <version>5.25.339</version>
+      <version>5.25.340</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -1300,6 +1304,6 @@
       <version>6.0.13</version>
       <version>6.0.15</version>
     </versions>
-    <lastUpdated>20230424201025</lastUpdated>
+    <lastUpdated>20230918103928</lastUpdated>
   </versioning>
 </metadata>

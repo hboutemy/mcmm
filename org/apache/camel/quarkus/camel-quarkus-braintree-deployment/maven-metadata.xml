@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-braintree-deployment</artifactId>
   <versioning>
-    <latest>3.2.0</latest>
-    <release>3.2.0</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.0.0-M4</version>
       <version>1.0.0-M5</version>
@@ -54,7 +54,8 @@
       <version>3.0.0-RC1</version>
       <version>3.0.0-RC2</version>
       <version>3.2.0</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20230831202358</lastUpdated>
+    <lastUpdated>20230918102454</lastUpdated>
   </versioning>
 </metadata>

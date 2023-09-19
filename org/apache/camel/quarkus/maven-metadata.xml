@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel Quarkus :: Tooling :: Camel K Maven Plugin</name>
+      <prefix>camel-quarkus-camel-k</prefix>
+      <artifactId>camel-quarkus-camel-k-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel Quarkus :: Tooling :: Maven Plugin</name>
       <prefix>camel-quarkus</prefix>
       <artifactId>camel-quarkus-maven-plugin</artifactId>
