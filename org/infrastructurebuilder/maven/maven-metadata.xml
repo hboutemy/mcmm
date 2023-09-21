@@ -7,7 +7,7 @@
       <artifactId>ibversions-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Infrastructurebuilder Properties Maven Plugin</name>
+      <name>Properties Maven Plugin</name>
       <prefix>properties</prefix>
       <artifactId>properties-maven-plugin</artifactId>
     </plugin>
