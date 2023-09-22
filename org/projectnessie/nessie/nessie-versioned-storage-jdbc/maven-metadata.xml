@@ -3,8 +3,8 @@
   <groupId>org.projectnessie.nessie</groupId>
   <artifactId>nessie-versioned-storage-jdbc</artifactId>
   <versioning>
-    <latest>0.70.3</latest>
-    <release>0.70.3</release>
+    <latest>0.71.1</latest>
+    <release>0.71.1</release>
     <versions>
       <version>0.52.0</version>
       <version>0.52.1</version>
@@ -37,7 +37,9 @@
       <version>0.70.1</version>
       <version>0.70.2</version>
       <version>0.70.3</version>
+      <version>0.71.0</version>
+      <version>0.71.1</version>
     </versions>
-    <lastUpdated>20230920150712</lastUpdated>
+    <lastUpdated>20230921151405</lastUpdated>
   </versioning>
 </metadata>
