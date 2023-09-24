@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.app.build</groupId>
   <artifactId>wavemaker-app-build-maven-plugin</artifactId>
   <versioning>
-    <latest>11.4.1</latest>
-    <release>11.4.1</release>
+    <latest>11.4.2</latest>
+    <release>11.4.2</release>
     <versions>
       <version>9.4.0.10</version>
       <version>9.4.0.12</version>
@@ -119,7 +119,8 @@
       <version>11.3.6.ee</version>
       <version>11.4.0</version>
       <version>11.4.1</version>
+      <version>11.4.2</version>
     </versions>
-    <lastUpdated>20230910085737</lastUpdated>
+    <lastUpdated>20230923150815</lastUpdated>
   </versioning>
 </metadata>
