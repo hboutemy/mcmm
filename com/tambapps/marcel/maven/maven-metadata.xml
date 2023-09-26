@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Marcel Maven plugin to compile Marcel projects</name>
+      <name>Marcel Maven</name>
       <prefix>marcel</prefix>
       <artifactId>marcel-maven-plugin</artifactId>
     </plugin>

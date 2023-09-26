@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-broker-shaded</artifactId>
   <versioning>
-    <latest>2.11.2.7</latest>
-    <release>2.11.2.7</release>
+    <latest>2.11.2.8</latest>
+    <release>2.11.2.8</release>
     <versions>
       <version>v2.8.0-rc-202106091140</version>
       <version>v2.8.0-rc-202106121853</version>
@@ -617,7 +617,8 @@
       <version>2.11.2.5-7330b5</version>
       <version>2.11.2.6</version>
       <version>2.11.2.7</version>
+      <version>2.11.2.8</version>
     </versions>
-    <lastUpdated>20230919101226</lastUpdated>
+    <lastUpdated>20230925035050</lastUpdated>
   </versioning>
 </metadata>

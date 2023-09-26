@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-cli-distribution</artifactId>
   <versioning>
-    <latest>0.936.0</latest>
-    <release>0.936.0</release>
+    <latest>0.941.0</latest>
+    <release>0.941.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -750,7 +750,11 @@
       <version>0.934.0</version>
       <version>0.935.0</version>
       <version>0.936.0</version>
+      <version>0.937.0</version>
+      <version>0.938.0</version>
+      <version>0.939.0</version>
+      <version>0.941.0</version>
     </versions>
-    <lastUpdated>20230923104506</lastUpdated>
+    <lastUpdated>20230925151222</lastUpdated>
   </versioning>
 </metadata>
