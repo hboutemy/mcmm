@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-standard-test-bom</artifactId>
   <versioning>
-    <latest>29.0.1.Final</latest>
-    <release>29.0.1.Final</release>
+    <latest>30.0.0.Beta1</latest>
+    <release>30.0.0.Beta1</release>
     <versions>
       <version>28.0.0.Beta1</version>
       <version>28.0.0.Final</version>
@@ -13,7 +13,8 @@
       <version>29.0.0.Beta1</version>
       <version>29.0.0.Final</version>
       <version>29.0.1.Final</version>
+      <version>30.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20230825160524</lastUpdated>
+    <lastUpdated>20230927175337</lastUpdated>
   </versioning>
 </metadata>

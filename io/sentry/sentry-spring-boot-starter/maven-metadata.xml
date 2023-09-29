@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-spring-boot-starter</artifactId>
   <versioning>
-    <latest>6.29.0</latest>
-    <release>6.29.0</release>
+    <latest>6.30.0</latest>
+    <release>6.30.0</release>
     <versions>
       <version>1.7.16</version>
       <version>1.7.17</version>
@@ -154,7 +154,8 @@
       <version>6.27.0</version>
       <version>6.28.0</version>
       <version>6.29.0</version>
+      <version>6.30.0</version>
     </versions>
-    <lastUpdated>20230906073904</lastUpdated>
+    <lastUpdated>20230928081112</lastUpdated>
   </versioning>
 </metadata>

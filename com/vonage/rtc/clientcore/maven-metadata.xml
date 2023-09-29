@@ -3,8 +3,8 @@
   <groupId>com.vonage.rtc</groupId>
   <artifactId>clientcore</artifactId>
   <versioning>
-    <latest>1.2.1-alpha.0</latest>
-    <release>1.2.1-alpha.0</release>
+    <latest>1.2.1-snapshot.17.0</latest>
+    <release>1.2.1-snapshot.17.0</release>
     <versions>
       <version>0.1.3-alpha.5</version>
       <version>0.1.3-alpha.6</version>
@@ -127,8 +127,10 @@
       <version>1.2.0-rc.1</version>
       <version>1.2.0-rc.2</version>
       <version>1.2.0-rc.3</version>
+      <version>1.2.0</version>
       <version>1.2.1-alpha.0</version>
+      <version>1.2.1-snapshot.17.0</version>
     </versions>
-    <lastUpdated>20230927190250</lastUpdated>
+    <lastUpdated>20230928175653</lastUpdated>
   </versioning>
 </metadata>

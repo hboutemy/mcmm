@@ -3,8 +3,8 @@
   <groupId>io.helidon.integrations.cdi</groupId>
   <artifactId>helidon-integrations-cdi-jta-weld</artifactId>
   <versioning>
-    <latest>4.0.0-M2</latest>
-    <release>4.0.0-M2</release>
+    <latest>4.0.0-RC1</latest>
+    <release>4.0.0-RC1</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -80,7 +80,8 @@
       <version>4.0.0-ALPHA6</version>
       <version>4.0.0-M1</version>
       <version>4.0.0-M2</version>
+      <version>4.0.0-RC1</version>
     </versions>
-    <lastUpdated>20230908222153</lastUpdated>
+    <lastUpdated>20230928164001</lastUpdated>
   </versioning>
 </metadata>

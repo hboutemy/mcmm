@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>commons-executors</artifactId>
   <versioning>
-    <latest>0.942.0</latest>
-    <release>0.942.0</release>
+    <latest>0.945.0</latest>
+    <release>0.945.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -755,7 +755,10 @@
       <version>0.939.0</version>
       <version>0.941.0</version>
       <version>0.942.0</version>
+      <version>0.943.0</version>
+      <version>0.944.0</version>
+      <version>0.945.0</version>
     </versions>
-    <lastUpdated>20230927000928</lastUpdated>
+    <lastUpdated>20230928172849</lastUpdated>
   </versioning>
 </metadata>
