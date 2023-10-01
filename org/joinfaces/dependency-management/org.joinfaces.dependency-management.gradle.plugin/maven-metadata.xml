@@ -3,8 +3,8 @@
   <groupId>org.joinfaces.dependency-management</groupId>
   <artifactId>org.joinfaces.dependency-management.gradle.plugin</artifactId>
   <versioning>
-    <latest>5.2.0-m2</latest>
-    <release>5.2.0-m2</release>
+    <latest>5.2.0-m3</latest>
+    <release>5.2.0-m3</release>
     <versions>
       <version>3.3.0-rc4</version>
       <version>3.3.0-rc5</version>
@@ -142,7 +142,8 @@
       <version>5.1.4</version>
       <version>5.2.0-m1</version>
       <version>5.2.0-m2</version>
+      <version>5.2.0-m3</version>
     </versions>
-    <lastUpdated>20230922090912</lastUpdated>
+    <lastUpdated>20230930101647</lastUpdated>
   </versioning>
 </metadata>
