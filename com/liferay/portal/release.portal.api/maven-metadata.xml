@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.portal.api</artifactId>
   <versioning>
     <latest>7.4.3.95-ga95-1</latest>
-    <release>7.4.3.95-ga95-1</release>
+    <release>7.4.3.96-ga96</release>
     <versions>
       <version>7.0.6-ga7</version>
       <version>7.1.1</version>
@@ -119,8 +119,9 @@
       <version>7.4.3.94-ga94</version>
       <version>7.4.3.95-ga95</version>
       <version>7.4.3.95-ga95-1</version>
+      <version>7.4.3.96-ga96</version>
       <version>7.4.1-ga2</version>
     </versions>
-    <lastUpdated>20230929225953</lastUpdated>
+    <lastUpdated>20231002212026</lastUpdated>
   </versioning>
 </metadata>
