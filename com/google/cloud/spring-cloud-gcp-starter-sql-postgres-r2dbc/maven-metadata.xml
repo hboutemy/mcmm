@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>spring-cloud-gcp-starter-sql-postgres-r2dbc</artifactId>
   <versioning>
-    <latest>4.8.0</latest>
-    <release>4.8.0</release>
+    <latest>4.8.1</latest>
+    <release>4.8.1</release>
     <versions>
       <version>3.1.0</version>
       <version>3.2.0</version>
@@ -31,6 +31,7 @@
       <version>3.6.2</version>
       <version>3.6.3</version>
       <version>3.7.0</version>
+      <version>3.7.1</version>
       <version>4.0.0</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
@@ -48,7 +49,8 @@
       <version>4.7.1</version>
       <version>4.7.2</version>
       <version>4.8.0</version>
+      <version>4.8.1</version>
     </versions>
-    <lastUpdated>20230921153122</lastUpdated>
+    <lastUpdated>20231003204341</lastUpdated>
   </versioning>
 </metadata>

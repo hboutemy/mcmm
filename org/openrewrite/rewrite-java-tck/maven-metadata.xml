@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-java-tck</artifactId>
   <versioning>
-    <latest>8.7.0</latest>
-    <release>8.7.0</release>
+    <latest>8.7.2</latest>
+    <release>8.7.2</release>
     <versions>
       <version>7.28.0</version>
       <version>7.29.0</version>
@@ -65,7 +65,9 @@
       <version>8.6.1</version>
       <version>8.6.2</version>
       <version>8.7.0</version>
+      <version>8.7.1</version>
+      <version>8.7.2</version>
     </versions>
-    <lastUpdated>20231002053425</lastUpdated>
+    <lastUpdated>20231003100238</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-gradle</artifactId>
   <versioning>
-    <latest>8.7.0</latest>
-    <release>8.7.0</release>
+    <latest>8.7.2</latest>
+    <release>8.7.2</release>
     <versions>
       <version>7.15.0</version>
       <version>7.15.1</version>
@@ -96,7 +96,9 @@
       <version>8.6.1</version>
       <version>8.6.2</version>
       <version>8.7.0</version>
+      <version>8.7.1</version>
+      <version>8.7.2</version>
     </versions>
-    <lastUpdated>20231002053416</lastUpdated>
+    <lastUpdated>20231003100228</lastUpdated>
   </versioning>
 </metadata>
