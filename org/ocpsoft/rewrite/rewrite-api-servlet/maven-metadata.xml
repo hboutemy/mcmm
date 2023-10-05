@@ -3,8 +3,8 @@
   <groupId>org.ocpsoft.rewrite</groupId>
   <artifactId>rewrite-api-servlet</artifactId>
   <versioning>
-    <latest>6.0.0.Alpha1</latest>
-    <release>6.0.0.Alpha1</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.0.1.Final</version>
@@ -52,8 +52,11 @@
       <version>4.0.0.Alpha1</version>
       <version>5.0.0.Alpha1</version>
       <version>6.0.0.Alpha1</version>
+      <version>8.0.0.Final</version>
+      <version>9.0.0.Final</version>
+      <version>10.0.0.Final</version>
       <version>3.0.0.Alpha8-jboss</version>
     </versions>
-    <lastUpdated>20221017193507</lastUpdated>
+    <lastUpdated>20231004202740</lastUpdated>
   </versioning>
 </metadata>

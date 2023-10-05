@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-blaze-persistence-bom-quarkus-platform-descriptor</artifactId>
   <versioning>
-    <latest>3.4.1</latest>
-    <release>3.4.1</release>
+    <latest>3.4.2</latest>
+    <release>3.4.2</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -119,7 +119,8 @@
       <version>3.3.3</version>
       <version>3.4.0.CR1</version>
       <version>3.4.1</version>
+      <version>3.4.2</version>
     </versions>
-    <lastUpdated>20230920170502</lastUpdated>
+    <lastUpdated>20231004175018</lastUpdated>
   </versioning>
 </metadata>

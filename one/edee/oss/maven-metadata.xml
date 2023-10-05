@@ -6,5 +6,10 @@
       <prefix>babylon</prefix>
       <artifactId>babylon-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>GitHub Release Asset Downloader Maven Plugin</name>
+      <prefix>github-release-asset-downloader</prefix>
+      <artifactId>github-release-asset-downloader-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
