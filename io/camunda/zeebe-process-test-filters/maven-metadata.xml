@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-filters</artifactId>
   <versioning>
-    <latest>8.3.0-rc1</latest>
-    <release>8.3.0-rc1</release>
+    <latest>8.3.0</latest>
+    <release>8.3.0</release>
     <versions>
       <version>1.4.0-alpha2</version>
       <version>8.0.0-rc1</version>
@@ -82,7 +82,8 @@
       <version>8.3.0-alpha6</version>
       <version>8.3.0-rc</version>
       <version>8.3.0-rc1</version>
+      <version>8.3.0</version>
     </versions>
-    <lastUpdated>20231004162409</lastUpdated>
+    <lastUpdated>20231005163937</lastUpdated>
   </versioning>
 </metadata>

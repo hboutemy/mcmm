@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-porting-package-tck</artifactId>
   <versioning>
-    <latest>5.1.1.SP2</latest>
-    <release>5.1.1.SP2</release>
+    <latest>5.1.2.Final</latest>
+    <release>5.1.2.Final</release>
     <versions>
       <version>2.2.7.Final</version>
       <version>2.2.8.Final</version>
@@ -106,7 +106,8 @@
       <version>5.1.1.Final</version>
       <version>5.1.1.SP1</version>
       <version>5.1.1.SP2</version>
+      <version>5.1.2.Final</version>
     </versions>
-    <lastUpdated>20230809084435</lastUpdated>
+    <lastUpdated>20231005192538</lastUpdated>
   </versioning>
 </metadata>
