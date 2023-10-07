@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-nuodb</artifactId>
   <versioning>
-    <latest>13.22.0-jakarta</latest>
-    <release>13.22.0-jakarta</release>
+    <latest>13.22.1-jakarta</latest>
+    <release>13.22.1-jakarta</release>
     <versions>
       <version>13.0.0</version>
       <version>13.1.0</version>
@@ -78,7 +78,9 @@
       <version>13.21.0-jakarta</version>
       <version>13.22.0</version>
       <version>13.22.0-jakarta</version>
+      <version>13.22.1</version>
+      <version>13.22.1-jakarta</version>
     </versions>
-    <lastUpdated>20230830103618</lastUpdated>
+    <lastUpdated>20231006093116</lastUpdated>
   </versioning>
 </metadata>
