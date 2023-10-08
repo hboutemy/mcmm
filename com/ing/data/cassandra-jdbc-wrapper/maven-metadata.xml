@@ -3,8 +3,8 @@
   <groupId>com.ing.data</groupId>
   <artifactId>cassandra-jdbc-wrapper</artifactId>
   <versioning>
-    <latest>4.10.0</latest>
-    <release>4.10.0</release>
+    <latest>4.10.1</latest>
+    <release>4.10.1</release>
     <versions>
       <version>4.4.0</version>
       <version>4.5.0</version>
@@ -14,7 +14,8 @@
       <version>4.9.0</version>
       <version>4.9.1</version>
       <version>4.10.0</version>
+      <version>4.10.1</version>
     </versions>
-    <lastUpdated>20230930122628</lastUpdated>
+    <lastUpdated>20231007104206</lastUpdated>
   </versioning>
 </metadata>
