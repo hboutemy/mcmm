@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.geocoder.bing</artifactId>
   <versioning>
-    <latest>4.0.13</latest>
-    <release>4.0.13</release>
+    <latest>4.0.14</latest>
+    <release>4.0.14</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -69,7 +69,8 @@
       <version>4.0.11</version>
       <version>4.0.12</version>
       <version>4.0.13</version>
+      <version>4.0.14</version>
     </versions>
-    <lastUpdated>20230807181741</lastUpdated>
+    <lastUpdated>20231009041911</lastUpdated>
   </versioning>
 </metadata>

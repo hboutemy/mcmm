@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-authz-yaml</artifactId>
   <versioning>
-    <latest>4.16.0-20230825</latest>
-    <release>4.16.0-20230825</release>
+    <latest>4.17.1-rc1-20231009</latest>
+    <release>4.17.1-rc1-20231009</release>
     <versions>
       <version>3.2.8-20200608</version>
       <version>3.2.9-20200708</version>
@@ -172,7 +172,8 @@
       <version>4.15.0-20230725</version>
       <version>4.16.0-rc1-20230815</version>
       <version>4.16.0-20230825</version>
+      <version>4.17.1-rc1-20231009</version>
     </versions>
-    <lastUpdated>20230825011808</lastUpdated>
+    <lastUpdated>20231009220730</lastUpdated>
   </versioning>
 </metadata>
