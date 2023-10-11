@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>dfsclient</artifactId>
   <versioning>
-    <latest>9.4.0-1</latest>
-    <release>9.4.0-1</release>
+    <latest>9.4.2-1</latest>
+    <release>9.4.2-1</release>
     <versions>
       <version>7.0.10</version>
       <version>7.2.0</version>
@@ -458,6 +458,7 @@
       <version>8.12.54-1</version>
       <version>8.12.56-1</version>
       <version>8.12.58-1</version>
+      <version>8.12.60-1</version>
       <version>9.0.0-1</version>
       <version>9.0.2-1</version>
       <version>9.0.4-1</version>
@@ -482,6 +483,7 @@
       <version>9.0.42-1</version>
       <version>9.0.46-1</version>
       <version>9.0.48-1</version>
+      <version>9.0.50-1</version>
       <version>9.2.0-1</version>
       <version>9.2.2-1</version>
       <version>9.2.4-1</version>
@@ -494,8 +496,10 @@
       <version>9.2.18-1</version>
       <version>9.2.22-1</version>
       <version>9.2.24-1</version>
+      <version>9.2.28-1</version>
       <version>9.4.0-1</version>
+      <version>9.4.2-1</version>
     </versions>
-    <lastUpdated>20231004112322</lastUpdated>
+    <lastUpdated>20231010163450</lastUpdated>
   </versioning>
 </metadata>

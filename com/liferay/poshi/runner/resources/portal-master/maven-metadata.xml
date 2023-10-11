@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.poshi.runner.resources</groupId>
   <artifactId>portal-master</artifactId>
   <versioning>
-    <latest>20180809125253-4fcffaa</latest>
-    <release>20180809125253-4fcffaa</release>
+    <latest>20231010-8bd0f1a</latest>
+    <release>20231010-8bd0f1a</release>
     <versions>
       <version>20190325-acab444</version>
       <version>20200203-b072f5d</version>
@@ -42,8 +42,10 @@
       <version>20180307181535-c60a551</version>
       <version>20180516101758-79be399</version>
       <version>20180809125253-4fcffaa</version>
+      <version>20231010-5b67317</version>
+      <version>20231010-8bd0f1a</version>
       <version>20180306151713-ec1014ec5dfdaeff96c1bc5b24068e49f7e65eed</version>
     </versions>
-    <lastUpdated>20230807202230</lastUpdated>
+    <lastUpdated>20231010165444</lastUpdated>
   </versioning>
 </metadata>
