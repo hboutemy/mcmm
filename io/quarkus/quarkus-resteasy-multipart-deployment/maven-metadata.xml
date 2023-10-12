@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-multipart-deployment</artifactId>
   <versioning>
-    <latest>3.4.2</latest>
-    <release>3.4.2</release>
+    <latest>3.5.0.CR1</latest>
+    <release>3.5.0.CR1</release>
     <versions>
       <version>1.8.1.Final</version>
       <version>1.8.2.Final</version>
@@ -188,7 +188,8 @@
       <version>3.4.0</version>
       <version>3.4.1</version>
       <version>3.4.2</version>
+      <version>3.5.0.CR1</version>
     </versions>
-    <lastUpdated>20231004110847</lastUpdated>
+    <lastUpdated>20231011103207</lastUpdated>
   </versioning>
 </metadata>

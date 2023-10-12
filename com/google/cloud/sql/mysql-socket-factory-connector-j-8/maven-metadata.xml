@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.sql</groupId>
   <artifactId>mysql-socket-factory-connector-j-8</artifactId>
   <versioning>
-    <latest>1.14.0</latest>
-    <release>1.14.0</release>
+    <latest>1.14.1</latest>
+    <release>1.14.1</release>
     <versions>
       <version>1.0.10</version>
       <version>1.0.11</version>
@@ -33,6 +33,7 @@
       <version>1.13.0</version>
       <version>1.13.1</version>
       <version>1.14.0</version>
+      <version>1.14.1</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.3.0</version>
@@ -50,6 +51,6 @@
       <version>1.6.1</version>
       <version>1.6.2</version>
     </versions>
-    <lastUpdated>20230912163936</lastUpdated>
+    <lastUpdated>20231011193244</lastUpdated>
   </versioning>
 </metadata>
