@@ -3,8 +3,8 @@
   <groupId>org.bsc.maven</groupId>
   <artifactId>confluence-reporting-maven-plugin</artifactId>
   <versioning>
-    <latest>7.12</latest>
-    <release>7.12</release>
+    <latest>7.13</latest>
+    <release>7.13</release>
     <versions>
       <version>4.0.0-beta1</version>
       <version>4.0.0</version>
@@ -87,7 +87,8 @@
       <version>7.10</version>
       <version>7.11</version>
       <version>7.12</version>
+      <version>7.13</version>
     </versions>
-    <lastUpdated>20230626114119</lastUpdated>
+    <lastUpdated>20231012173957</lastUpdated>
   </versioning>
 </metadata>

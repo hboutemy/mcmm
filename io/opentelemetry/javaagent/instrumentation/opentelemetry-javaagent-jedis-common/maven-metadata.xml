@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jedis-common</artifactId>
   <versioning>
-    <latest>1.30.0-alpha</latest>
-    <release>1.30.0-alpha</release>
+    <latest>1.31.0-alpha</latest>
+    <release>1.31.0-alpha</release>
     <versions>
       <version>1.11.0-alpha</version>
       <version>1.11.1-alpha</version>
@@ -35,7 +35,8 @@
       <version>1.28.0-alpha</version>
       <version>1.29.0-alpha</version>
       <version>1.30.0-alpha</version>
+      <version>1.31.0-alpha</version>
     </versions>
-    <lastUpdated>20230914104428</lastUpdated>
+    <lastUpdated>20231012192516</lastUpdated>
   </versioning>
 </metadata>

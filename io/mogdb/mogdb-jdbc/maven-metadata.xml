@@ -3,14 +3,17 @@
   <groupId>io.mogdb</groupId>
   <artifactId>mogdb-jdbc</artifactId>
   <versioning>
-    <latest>5.0.0-pg.1</latest>
-    <release>5.0.0-pg.1</release>
+    <latest>5.0.0.2.pg</latest>
+    <release>5.0.0.2.pg</release>
     <versions>
       <version>5.0.0-og</version>
       <version>5.0.0-og.1</version>
       <version>5.0.0-pg</version>
       <version>5.0.0-pg.1</version>
+      <version>5.0.0.2.mg</version>
+      <version>5.0.0.2.og</version>
+      <version>5.0.0.2.pg</version>
     </versions>
-    <lastUpdated>20230714112318</lastUpdated>
+    <lastUpdated>20231012125527</lastUpdated>
   </versioning>
 </metadata>
