@@ -3,8 +3,8 @@
   <groupId>wtf.metio.maven.boms</groupId>
   <artifactId>maven-boms-builder</artifactId>
   <versioning>
-    <latest>2023.10.6</latest>
-    <release>2023.10.6</release>
+    <latest>2023.10.13</latest>
+    <release>2023.10.13</release>
     <versions>
       <version>2021.4.5</version>
       <version>2021.4.9</version>
@@ -119,7 +119,8 @@
       <version>2023.9.22</version>
       <version>2023.9.29</version>
       <version>2023.10.6</version>
+      <version>2023.10.13</version>
     </versions>
-    <lastUpdated>20231006020052</lastUpdated>
+    <lastUpdated>20231013020322</lastUpdated>
   </versioning>
 </metadata>

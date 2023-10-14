@@ -3,8 +3,8 @@
   <groupId>com.dimajix.flowman</groupId>
   <artifactId>flowman-kernel-common</artifactId>
   <versioning>
-    <latest>1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7</latest>
-    <release>1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7</release>
+    <latest>1.1.0-oss-spark3.4-hadoop3.3</latest>
+    <release>1.1.0-oss-spark3.4-hadoop3.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-cdh6-spark2.4-hadoop3.0</version>
@@ -29,7 +29,13 @@
       <version>1.1.0-oss-spark3.0-hadoop3.2</version>
       <version>1.1.0-oss-spark3.1-hadoop2.7</version>
       <version>1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7</version>
+      <version>1.1.0-oss-spark3.1-hadoop3.2</version>
+      <version>1.1.0-oss-spark3.2-hadoop2.7</version>
+      <version>1.1.0-oss-spark3.2-hadoop3.3</version>
+      <version>1.1.0-oss-spark3.3-hadoop2.7</version>
+      <version>1.1.0-oss-spark3.3-hadoop3.3</version>
+      <version>1.1.0-oss-spark3.4-hadoop3.3</version>
     </versions>
-    <lastUpdated>20231012144505</lastUpdated>
+    <lastUpdated>20231013132100</lastUpdated>
   </versioning>
 </metadata>

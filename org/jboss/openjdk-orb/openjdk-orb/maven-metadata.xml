@@ -3,8 +3,8 @@
   <groupId>org.jboss.openjdk-orb</groupId>
   <artifactId>openjdk-orb</artifactId>
   <versioning>
-    <latest>9.0.2.Final</latest>
-    <release>9.0.2.Final</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>8.0.0.Beta1</version>
       <version>8.0.1.Beta1</version>
@@ -34,7 +34,8 @@
       <version>8.1.9.Final</version>
       <version>9.0.1.Final</version>
       <version>9.0.2.Final</version>
+      <version>10.0.0.Final</version>
     </versions>
-    <lastUpdated>20230622172207</lastUpdated>
+    <lastUpdated>20231013134822</lastUpdated>
   </versioning>
 </metadata>
