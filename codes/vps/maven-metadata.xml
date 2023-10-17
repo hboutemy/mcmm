@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Tomcat valve request filter build plugin</name>
+      <prefix>tomcat-valve-request-filter</prefix>
+      <artifactId>tomcat-valve-request-filter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

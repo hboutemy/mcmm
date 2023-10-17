@@ -3,8 +3,8 @@
   <groupId>org.apache.wicket</groupId>
   <artifactId>wicket-parent</artifactId>
   <versioning>
-    <latest>10.0.0-M1</latest>
-    <release>10.0.0-M1</release>
+    <latest>10.0.0-M2</latest>
+    <release>10.0.0-M2</release>
     <versions>
       <version>1.3.0-beta2</version>
       <version>1.3.0-beta3</version>
@@ -189,8 +189,9 @@
       <version>9.14.0</version>
       <version>9.15.0</version>
       <version>10.0.0-M1</version>
+      <version>10.0.0-M2</version>
       <version>7.3.0</version>
     </versions>
-    <lastUpdated>20230918212400</lastUpdated>
+    <lastUpdated>20231016164634</lastUpdated>
   </versioning>
 </metadata>

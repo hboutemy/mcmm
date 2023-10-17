@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-dsl-codegen</artifactId>
   <versioning>
-    <latest>2023.7.0</latest>
-    <release>2023.7.0</release>
+    <latest>2023.7.1</latest>
+    <release>2023.7.1</release>
     <versions>
       <version>2021.1.0</version>
       <version>2021.1.1</version>
@@ -42,11 +42,13 @@
       <version>2022.8.4</version>
       <version>2022.8.5</version>
       <version>2022.9.0</version>
+      <version>2022.9.1</version>
       <version>2023.0.0</version>
       <version>2023.0.1</version>
       <version>2023.0.2</version>
       <version>2023.0.3</version>
       <version>2023.0.4</version>
+      <version>2023.0.5</version>
       <version>2023.1.0</version>
       <version>2023.2.0</version>
       <version>2023.2.1</version>
@@ -58,7 +60,8 @@
       <version>2023.6.0</version>
       <version>2023.6.1</version>
       <version>2023.7.0</version>
+      <version>2023.7.1</version>
     </versions>
-    <lastUpdated>20230906182333</lastUpdated>
+    <lastUpdated>20231016122501</lastUpdated>
   </versioning>
 </metadata>
