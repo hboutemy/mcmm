@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-jgroups-api</artifactId>
   <versioning>
-    <latest>30.0.0.Beta1</latest>
-    <release>30.0.0.Beta1</release>
+    <latest>30.0.0.Final</latest>
+    <release>30.0.0.Final</release>
     <versions>
       <version>9.0.0.Beta1</version>
       <version>9.0.0.Beta2</version>
@@ -103,7 +103,8 @@
       <version>29.0.0.Final</version>
       <version>29.0.1.Final</version>
       <version>30.0.0.Beta1</version>
+      <version>30.0.0.Final</version>
     </versions>
-    <lastUpdated>20230927175240</lastUpdated>
+    <lastUpdated>20231018154427</lastUpdated>
   </versioning>
 </metadata>

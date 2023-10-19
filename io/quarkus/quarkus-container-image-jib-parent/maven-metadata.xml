@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image-jib-parent</artifactId>
   <versioning>
-    <latest>3.5.0.CR1</latest>
-    <release>3.5.0.CR1</release>
+    <latest>3.5.0</latest>
+    <release>3.5.0</release>
     <versions>
       <version>1.3.0.CR1</version>
       <version>1.3.0.CR2</version>
@@ -220,7 +220,8 @@
       <version>3.4.2</version>
       <version>3.4.3</version>
       <version>3.5.0.CR1</version>
+      <version>3.5.0</version>
     </versions>
-    <lastUpdated>20231017080208</lastUpdated>
+    <lastUpdated>20231018125359</lastUpdated>
   </versioning>
 </metadata>

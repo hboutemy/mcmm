@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JavaCC Maven Plugin</name>
+      <prefix>tulipcc</prefix>
+      <artifactId>tulipcc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
