@@ -3,8 +3,8 @@
   <groupId>org.graalvm.nativeimage</groupId>
   <artifactId>native-image-base</artifactId>
   <versioning>
-    <latest>23.1.0</latest>
-    <release>23.1.0</release>
+    <latest>23.1.1</latest>
+    <release>23.1.1</release>
     <versions>
       <version>22.0.0</version>
       <version>22.0.0.2</version>
@@ -21,7 +21,8 @@
       <version>23.0.1</version>
       <version>23.0.2</version>
       <version>23.1.0</version>
+      <version>23.1.1</version>
     </versions>
-    <lastUpdated>20231017142116</lastUpdated>
+    <lastUpdated>20231019185434</lastUpdated>
   </versioning>
 </metadata>

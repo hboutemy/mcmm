@@ -3,8 +3,8 @@
   <groupId>org.ops4j.pax.web.samples</groupId>
   <artifactId>auth-config-fragment-undertow</artifactId>
   <versioning>
-    <latest>9.0.11</latest>
-    <release>9.0.11</release>
+    <latest>9.0.12</latest>
+    <release>9.0.12</release>
     <versions>
       <version>8.0.0</version>
       <version>8.0.1</version>
@@ -29,6 +29,7 @@
       <version>8.0.20</version>
       <version>8.0.21</version>
       <version>8.0.22</version>
+      <version>8.0.23</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -41,7 +42,8 @@
       <version>9.0.9</version>
       <version>9.0.10</version>
       <version>9.0.11</version>
+      <version>9.0.12</version>
     </versions>
-    <lastUpdated>20230901154753</lastUpdated>
+    <lastUpdated>20231019171448</lastUpdated>
   </versioning>
 </metadata>

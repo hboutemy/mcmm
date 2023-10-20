@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.plugins.handlers</groupId>
   <artifactId>gravitee-am-plugins-handlers-botdetection</artifactId>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>3.9.0</version>
       <version>3.9.1</version>
@@ -153,7 +153,8 @@
       <version>4.1.0-alpha.2</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20231016135711</lastUpdated>
+    <lastUpdated>20231019134017</lastUpdated>
   </versioning>
 </metadata>
