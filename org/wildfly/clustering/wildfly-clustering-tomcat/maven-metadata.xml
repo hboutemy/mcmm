@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-tomcat</artifactId>
   <versioning>
-    <latest>19.0.0.Final</latest>
-    <release>19.0.0.Final</release>
+    <latest>20.0.0.Final</latest>
+    <release>20.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Beta1</version>
@@ -38,7 +38,8 @@
       <version>17.0.1.Final</version>
       <version>18.0.0.Final</version>
       <version>19.0.0.Final</version>
+      <version>20.0.0.Final</version>
     </versions>
-    <lastUpdated>20230724210209</lastUpdated>
+    <lastUpdated>20231019224335</lastUpdated>
   </versioning>
 </metadata>

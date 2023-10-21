@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-spring-session-infinispan</artifactId>
   <versioning>
-    <latest>9.0.0.Final</latest>
-    <release>9.0.0.Final</release>
+    <latest>10.0.0.Final</latest>
+    <release>10.0.0.Final</release>
     <versions>
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
@@ -17,7 +17,8 @@
       <version>7.0.1.Final</version>
       <version>8.0.0.Final</version>
       <version>9.0.0.Final</version>
+      <version>10.0.0.Final</version>
     </versions>
-    <lastUpdated>20230724210209</lastUpdated>
+    <lastUpdated>20231019224334</lastUpdated>
   </versioning>
 </metadata>

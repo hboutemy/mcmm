@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>camel-catalog-schema-generator</prefix>
+      <artifactId>camel-catalog-schema-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>hawtio-camel-catalog-schema-generator</prefix>
       <artifactId>hawtio-camel-catalog-schema-generator-plugin</artifactId>
     </plugin>
