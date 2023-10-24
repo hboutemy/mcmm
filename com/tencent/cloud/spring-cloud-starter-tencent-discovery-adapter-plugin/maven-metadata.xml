@@ -3,8 +3,8 @@
   <groupId>com.tencent.cloud</groupId>
   <artifactId>spring-cloud-starter-tencent-discovery-adapter-plugin</artifactId>
   <versioning>
-    <latest>1.12.3-2020.0.6</latest>
-    <release>1.12.3-2020.0.6</release>
+    <latest>1.12.4-2020.0.6</latest>
+    <release>1.12.4-2020.0.6</release>
     <versions>
       <version>1.10.3-2020.0.6</version>
       <version>1.10.3-2021.0.6</version>
@@ -42,8 +42,12 @@
       <version>1.12.2-2020.0.6</version>
       <version>1.12.2-2021.0.8</version>
       <version>1.12.2-2022.0.4</version>
+      <version>1.12.3-Hoxton.SR12</version>
       <version>1.12.3-2020.0.6</version>
+      <version>1.12.3-2021.0.8</version>
+      <version>1.12.3-2022.0.4</version>
+      <version>1.12.4-2020.0.6</version>
     </versions>
-    <lastUpdated>20231012024054</lastUpdated>
+    <lastUpdated>20231023114922</lastUpdated>
   </versioning>
 </metadata>

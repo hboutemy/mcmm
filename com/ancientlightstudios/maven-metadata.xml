@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>quarkus-kotlin-openapi</prefix>
+      <artifactId>quarkus-kotlin-openapi-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>SimpleGen - Maven Plugin</name>
       <prefix>simplegen</prefix>
       <artifactId>simplegen-maven-plugin</artifactId>
