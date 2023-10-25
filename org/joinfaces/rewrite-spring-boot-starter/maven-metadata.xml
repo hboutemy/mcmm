@@ -3,8 +3,8 @@
   <groupId>org.joinfaces</groupId>
   <artifactId>rewrite-spring-boot-starter</artifactId>
   <versioning>
-    <latest>5.2.0-m3</latest>
-    <release>5.2.0-m3</release>
+    <latest>5.2.0-rc1.1</latest>
+    <release>5.2.0-rc1.1</release>
     <versions>
       <version>3.1.0</version>
       <version>3.1.1</version>
@@ -151,7 +151,8 @@
       <version>5.2.0-m1</version>
       <version>5.2.0-m2</version>
       <version>5.2.0-m3</version>
+      <version>5.2.0-rc1.1</version>
     </versions>
-    <lastUpdated>20231019142020</lastUpdated>
+    <lastUpdated>20231024215401</lastUpdated>
   </versioning>
 </metadata>

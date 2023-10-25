@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-simulink</artifactId>
   <versioning>
-    <latest>9.2.2</latest>
-    <release>9.2.2</release>
+    <latest>9.2.3</latest>
+    <release>9.2.3</release>
     <versions>
       <version>6.1.0-rc1</version>
       <version>6.1.0-rc2</version>
@@ -534,6 +534,7 @@
       <version>9.0.12</version>
       <version>9.0.13</version>
       <version>9.0.14</version>
+      <version>9.0.15</version>
       <version>9.1.0-rc1</version>
       <version>9.1.0-rc2</version>
       <version>9.1.0-rc3</version>
@@ -546,13 +547,15 @@
       <version>9.1.5</version>
       <version>9.1.6</version>
       <version>9.1.7</version>
+      <version>9.1.8</version>
       <version>9.2.0-rc1</version>
       <version>9.2.0-rc2</version>
       <version>9.2.0-rc3</version>
       <version>9.2.0</version>
       <version>9.2.1</version>
       <version>9.2.2</version>
+      <version>9.2.3</version>
     </versions>
-    <lastUpdated>20231017152519</lastUpdated>
+    <lastUpdated>20231024125815</lastUpdated>
   </versioning>
 </metadata>

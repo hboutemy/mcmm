@@ -4,7 +4,7 @@
   <artifactId>keycloak-kerberos-federation</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>22.0.4</release>
+    <release>22.0.5</release>
     <versions>
       <version>1.2.0.Beta1</version>
       <version>1.2.0.CR1</version>
@@ -140,8 +140,9 @@
       <version>22.0.2</version>
       <version>22.0.3</version>
       <version>22.0.4</version>
+      <version>22.0.5</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20231004083300</lastUpdated>
+    <lastUpdated>20231024092841</lastUpdated>
   </versioning>
 </metadata>
