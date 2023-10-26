@@ -3,8 +3,8 @@
   <groupId>org.apache.activemq</groupId>
   <artifactId>activemq-jms-pool</artifactId>
   <versioning>
-    <latest>5.18.2</latest>
-    <release>5.18.2</release>
+    <latest>5.18.3</latest>
+    <release>5.18.3</release>
     <versions>
       <version>5.9.0</version>
       <version>5.9.1</version>
@@ -61,10 +61,12 @@
       <version>5.17.3</version>
       <version>5.17.4</version>
       <version>5.17.5</version>
+      <version>5.17.6</version>
       <version>5.18.0</version>
       <version>5.18.1</version>
       <version>5.18.2</version>
+      <version>5.18.3</version>
     </versions>
-    <lastUpdated>20230703041129</lastUpdated>
+    <lastUpdated>20231025162808</lastUpdated>
   </versioning>
 </metadata>

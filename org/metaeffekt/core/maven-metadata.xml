@@ -22,6 +22,10 @@
       <artifactId>ae-jira-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>ae-shell-script-assembler</prefix>
+      <artifactId>ae-shell-script-assembler-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>ae-version</prefix>
       <artifactId>ae-version-maven-plugin</artifactId>
     </plugin>

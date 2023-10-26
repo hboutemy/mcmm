@@ -3,8 +3,8 @@
   <groupId>io.camunda.spring</groupId>
   <artifactId>spring-boot-starter-camunda-test-testcontainer</artifactId>
   <versioning>
-    <latest>8.3.0</latest>
-    <release>8.3.0</release>
+    <latest>8.3.1</latest>
+    <release>8.3.1</release>
     <versions>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
@@ -22,7 +22,9 @@
       <version>8.3.0-rc2</version>
       <version>8.3.0-rc3</version>
       <version>8.3.0</version>
+      <version>8.3.1-rc1</version>
+      <version>8.3.1</version>
     </versions>
-    <lastUpdated>20231011132703</lastUpdated>
+    <lastUpdated>20231025175928</lastUpdated>
   </versioning>
 </metadata>

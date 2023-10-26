@@ -3,8 +3,8 @@
   <groupId>com.nimbusds</groupId>
   <artifactId>infinispan-cachestore-dynamodb</artifactId>
   <versioning>
-    <latest>5.0.2</latest>
-    <release>5.0.2</release>
+    <latest>5.0.3</latest>
+    <release>5.0.3</release>
     <versions>
       <version>1.0</version>
       <version>1.2</version>
@@ -63,7 +63,8 @@
       <version>5.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
+      <version>5.0.3</version>
     </versions>
-    <lastUpdated>20230923195926</lastUpdated>
+    <lastUpdated>20231025084831</lastUpdated>
   </versioning>
 </metadata>
