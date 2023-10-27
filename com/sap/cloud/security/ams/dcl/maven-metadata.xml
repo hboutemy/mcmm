@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>DCL Compiler Plugin</name>
+      <prefix>dcl-compiler</prefix>
+      <artifactId>dcl-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>DCL Surefire Plugin</name>
+      <prefix>dcl-surefire</prefix>
+      <artifactId>dcl-surefire-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

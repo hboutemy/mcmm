@@ -107,7 +107,7 @@
       <artifactId>maven-doap-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache Maven Documentation Checker Plugin</name>
+      <name>(RETIRED) Apache Maven Documentation Checker Plugin</name>
       <prefix>docck</prefix>
       <artifactId>maven-docck-plugin</artifactId>
     </plugin>

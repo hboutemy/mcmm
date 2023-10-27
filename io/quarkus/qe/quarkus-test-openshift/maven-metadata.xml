@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-openshift</artifactId>
   <versioning>
-    <latest>1.3.0.Beta29</latest>
-    <release>1.3.0.Beta29</release>
+    <latest>1.3.0.Beta30</latest>
+    <release>1.3.0.Beta30</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -89,7 +89,8 @@
       <version>1.3.0.Beta27</version>
       <version>1.3.0.Beta28</version>
       <version>1.3.0.Beta29</version>
+      <version>1.3.0.Beta30</version>
     </versions>
-    <lastUpdated>20231020150827</lastUpdated>
+    <lastUpdated>20231026142436</lastUpdated>
   </versioning>
 </metadata>
