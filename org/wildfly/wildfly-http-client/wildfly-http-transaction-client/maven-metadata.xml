@@ -3,8 +3,8 @@
   <groupId>org.wildfly.wildfly-http-client</groupId>
   <artifactId>wildfly-http-transaction-client</artifactId>
   <versioning>
-    <latest>2.0.4.Final</latest>
-    <release>2.0.4.Final</release>
+    <latest>2.0.5.Final</latest>
+    <release>2.0.5.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -69,7 +69,8 @@
       <version>2.0.2.Final</version>
       <version>2.0.3.Final</version>
       <version>2.0.4.Final</version>
+      <version>2.0.5.Final</version>
     </versions>
-    <lastUpdated>20231026065213</lastUpdated>
+    <lastUpdated>20231027110224</lastUpdated>
   </versioning>
 </metadata>

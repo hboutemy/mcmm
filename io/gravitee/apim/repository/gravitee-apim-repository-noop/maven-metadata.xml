@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.repository</groupId>
   <artifactId>gravitee-apim-repository-noop</artifactId>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>4.0.0-alpha.2</version>
       <version>4.0.0-alpha.3</version>
@@ -20,9 +20,11 @@
       <version>4.0.8</version>
       <version>4.0.9</version>
       <version>4.0.10</version>
+      <version>4.0.11</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20231013153715</lastUpdated>
+    <lastUpdated>20231027101501</lastUpdated>
   </versioning>
 </metadata>

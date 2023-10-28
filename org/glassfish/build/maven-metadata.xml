@@ -6,5 +6,10 @@
       <prefix>command-security</prefix>
       <artifactId>command-security-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>GlassFishBuild Maven Plugin</name>
+      <prefix>glassfishbuild</prefix>
+      <artifactId>glassfishbuild-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
