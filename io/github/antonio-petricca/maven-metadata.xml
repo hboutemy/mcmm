@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>File Merger maven plugin</name>
+      <prefix>filemerger</prefix>
+      <artifactId>filemerger-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

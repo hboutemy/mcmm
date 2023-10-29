@@ -3,14 +3,15 @@
   <groupId>org.springframework.cloud.fn</groupId>
   <artifactId>zeromq-supplier</artifactId>
   <versioning>
-    <latest>1.2.1</latest>
-    <release>1.2.1</release>
+    <latest>4.0.0</latest>
+    <release>4.0.0</release>
     <versions>
+      <version>4.0.0</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
     </versions>
-    <lastUpdated>20220601170458</lastUpdated>
+    <lastUpdated>20231028162101</lastUpdated>
   </versioning>
 </metadata>
