@@ -3,8 +3,8 @@
   <groupId>it.vige</groupId>
   <artifactId>alfresco-tests</artifactId>
   <versioning>
-    <latest>7.4.0.5</latest>
-    <release>7.4.0.5</release>
+    <latest>7.4.0.6</latest>
+    <release>7.4.0.6</release>
     <versions>
       <version>4.2.c.0</version>
       <version>4.2.c.1</version>
@@ -266,6 +266,7 @@
       <version>6.2.2.11</version>
       <version>6.2.2.12</version>
       <version>6.2.2.13</version>
+      <version>6.2.2.14</version>
       <version>7.0.0-A20.0</version>
       <version>7.0.0-A20.1</version>
       <version>7.0.0-A20.2</version>
@@ -287,6 +288,7 @@
       <version>7.0.0-A20.18</version>
       <version>7.0.0-A20.19</version>
       <version>7.0.0-A20.20</version>
+      <version>7.0.0-A20.21</version>
       <version>7.1.0.0</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
@@ -303,6 +305,7 @@
       <version>7.1.0.13</version>
       <version>7.1.0.14</version>
       <version>7.1.0.15</version>
+      <version>7.1.0.16</version>
       <version>7.2.0.0</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
@@ -311,6 +314,7 @@
       <version>7.2.0.5</version>
       <version>7.2.0.6</version>
       <version>7.2.0.7</version>
+      <version>7.2.0.8</version>
       <version>7.2.1.0</version>
       <version>7.2.1.1</version>
       <version>7.2.1.2</version>
@@ -320,6 +324,7 @@
       <version>7.2.1.6</version>
       <version>7.2.1.7</version>
       <version>7.2.1.8</version>
+      <version>7.2.1.9</version>
       <version>7.3.0.0</version>
       <version>7.3.0.1</version>
       <version>7.3.0.2</version>
@@ -329,16 +334,19 @@
       <version>7.3.0.6</version>
       <version>7.3.0.7</version>
       <version>7.3.0.8</version>
+      <version>7.3.0.9</version>
       <version>7.4.0.0</version>
       <version>7.4.0.1</version>
       <version>7.4.0.1.1</version>
       <version>7.4.0.1.2</version>
+      <version>7.4.0.1.3</version>
       <version>7.4.0.2</version>
       <version>7.4.0.3</version>
       <version>7.4.0.4</version>
       <version>7.4.0.5</version>
+      <version>7.4.0.6</version>
       <version>7.4.0.1.0</version>
     </versions>
-    <lastUpdated>20231027103056</lastUpdated>
+    <lastUpdated>20231030190527</lastUpdated>
   </versioning>
 </metadata>

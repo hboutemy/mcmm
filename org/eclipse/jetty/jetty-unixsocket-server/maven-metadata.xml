@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-unixsocket-server</artifactId>
   <versioning>
-    <latest>11.0.17</latest>
-    <release>11.0.17</release>
+    <latest>11.0.18</latest>
+    <release>11.0.18</release>
     <versions>
       <version>10.0.0-alpha0</version>
       <version>10.0.0.alpha1</version>
@@ -31,6 +31,7 @@
       <version>10.0.15</version>
       <version>10.0.16</version>
       <version>10.0.17</version>
+      <version>10.0.18</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
@@ -53,7 +54,8 @@
       <version>11.0.15</version>
       <version>11.0.16</version>
       <version>11.0.17</version>
+      <version>11.0.18</version>
     </versions>
-    <lastUpdated>20231010030051</lastUpdated>
+    <lastUpdated>20231030160807</lastUpdated>
   </versioning>
 </metadata>

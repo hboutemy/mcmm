@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>yang-repo-spi</artifactId>
   <versioning>
-    <latest>11.0.3</latest>
-    <release>11.0.3</release>
+    <latest>11.0.4</latest>
+    <release>11.0.4</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -46,6 +46,7 @@
       <version>9.0.7</version>
       <version>9.0.8</version>
       <version>9.0.9</version>
+      <version>9.0.10</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
@@ -63,7 +64,8 @@
       <version>11.0.1</version>
       <version>11.0.2</version>
       <version>11.0.3</version>
+      <version>11.0.4</version>
     </versions>
-    <lastUpdated>20231029223440</lastUpdated>
+    <lastUpdated>20231030135731</lastUpdated>
   </versioning>
 </metadata>

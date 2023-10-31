@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-common-api</artifactId>
   <versioning>
-    <latest>12.0.2</latest>
-    <release>12.0.2</release>
+    <latest>12.0.3</latest>
+    <release>12.0.3</release>
     <versions>
       <version>2.0.0-Beryllium</version>
       <version>2.0.1-Beryllium-SR1</version>
@@ -150,6 +150,7 @@
       <version>10.0.6</version>
       <version>10.0.7</version>
       <version>10.0.8</version>
+      <version>10.0.9</version>
       <version>11.0.0</version>
       <version>11.0.1</version>
       <version>11.0.2</version>
@@ -169,7 +170,8 @@
       <version>12.0.0</version>
       <version>12.0.1</version>
       <version>12.0.2</version>
+      <version>12.0.3</version>
     </versions>
-    <lastUpdated>20231025021132</lastUpdated>
+    <lastUpdated>20231030191524</lastUpdated>
   </versioning>
 </metadata>
