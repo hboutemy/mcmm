@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>odl-controller-mdsal-common</artifactId>
   <versioning>
-    <latest>8.0.2</latest>
-    <release>8.0.2</release>
+    <latest>8.0.3</latest>
+    <release>8.0.3</release>
     <versions>
       <version>1.7.0</version>
       <version>1.7.1</version>
@@ -90,6 +90,7 @@
       <version>6.0.7</version>
       <version>6.0.8</version>
       <version>6.0.9</version>
+      <version>6.0.10</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -105,7 +106,8 @@
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.0.2</version>
+      <version>8.0.3</version>
     </versions>
-    <lastUpdated>20231026071446</lastUpdated>
+    <lastUpdated>20231031094319</lastUpdated>
   </versioning>
 </metadata>

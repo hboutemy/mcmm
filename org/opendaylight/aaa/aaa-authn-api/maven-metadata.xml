@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.aaa</groupId>
   <artifactId>aaa-authn-api</artifactId>
   <versioning>
-    <latest>0.18.2</latest>
-    <release>0.18.2</release>
+    <latest>0.18.3</latest>
+    <release>0.18.3</release>
     <versions>
       <version>0.1.0-Helium</version>
       <version>0.1.1-Helium-SR1</version>
@@ -110,6 +110,8 @@
       <version>0.16.7</version>
       <version>0.16.8</version>
       <version>0.16.9</version>
+      <version>0.16.10</version>
+      <version>0.16.11</version>
       <version>0.17.0</version>
       <version>0.17.1</version>
       <version>0.17.2</version>
@@ -128,7 +130,8 @@
       <version>0.18.0</version>
       <version>0.18.1</version>
       <version>0.18.2</version>
+      <version>0.18.3</version>
     </versions>
-    <lastUpdated>20231026121944</lastUpdated>
+    <lastUpdated>20231031133946</lastUpdated>
   </versioning>
 </metadata>
