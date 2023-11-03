@@ -3,8 +3,8 @@
   <groupId>org.glassfish.tyrus.tests.servlet</groupId>
   <artifactId>tyrus-tests-servlet-inject</artifactId>
   <versioning>
-    <latest>2.1.3</latest>
-    <release>2.1.3</release>
+    <latest>2.1.4</latest>
+    <release>2.1.4</release>
     <versions>
       <version>1.16</version>
       <version>1.17</version>
@@ -29,6 +29,7 @@
       <version>2.1.1</version>
       <version>2.1.2</version>
       <version>2.1.3</version>
+      <version>2.1.4</version>
       <version>1.10</version>
       <version>1.11</version>
       <version>1.11.1</version>
@@ -44,6 +45,6 @@
       <version>1.8.3</version>
       <version>1.9</version>
     </versions>
-    <lastUpdated>20231024092844</lastUpdated>
+    <lastUpdated>20231102120125</lastUpdated>
   </versioning>
 </metadata>

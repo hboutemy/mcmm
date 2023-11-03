@@ -3,8 +3,8 @@
   <groupId>com.netflix.spectator</groupId>
   <artifactId>spectator-ext-gc</artifactId>
   <versioning>
-    <latest>1.7.0</latest>
-    <release>1.7.0</release>
+    <latest>1.7.1</latest>
+    <release>1.7.1</release>
     <versions>
       <version>0.12</version>
       <version>0.13</version>
@@ -200,7 +200,8 @@
       <version>1.6.10</version>
       <version>1.6.11</version>
       <version>1.7.0</version>
+      <version>1.7.1</version>
     </versions>
-    <lastUpdated>20231025211836</lastUpdated>
+    <lastUpdated>20231102172220</lastUpdated>
   </versioning>
 </metadata>

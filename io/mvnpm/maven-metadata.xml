@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>mvnpm locker</name>
+      <prefix>locker</prefix>
+      <artifactId>locker-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Dependency Lock Maven Plugin</name>
       <prefix>locker</prefix>
       <artifactId>maven-locker</artifactId>
