@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>jose-jwt</artifactId>
   <versioning>
-    <latest>6.2.5.Final</latest>
-    <release>6.2.5.Final</release>
+    <latest>6.2.6.Final</latest>
+    <release>6.2.6.Final</release>
     <versions>
       <version>3.0-beta-2</version>
       <version>3.0-beta-3</version>
@@ -171,6 +171,7 @@
       <version>5.0.6.Final</version>
       <version>5.0.7.Final</version>
       <version>5.0.8.Final</version>
+      <version>5.0.9.Final</version>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
@@ -188,7 +189,8 @@
       <version>6.2.3.Final</version>
       <version>6.2.4.Final</version>
       <version>6.2.5.Final</version>
+      <version>6.2.6.Final</version>
     </versions>
-    <lastUpdated>20230822010005</lastUpdated>
+    <lastUpdated>20231102211840</lastUpdated>
   </versioning>
 </metadata>
