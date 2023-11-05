@@ -3,8 +3,8 @@
   <groupId>org.opengauss</groupId>
   <artifactId>opengauss-jdbc</artifactId>
   <versioning>
-    <latest>5.0.0-og</latest>
-    <release>5.0.0-og</release>
+    <latest>5.1.0-og</latest>
+    <release>5.1.0-og</release>
     <versions>
       <version>2.0.1-compatibility</version>
       <version>3.0.0</version>
@@ -14,7 +14,9 @@
       <version>3.1.1-og</version>
       <version>5.0.0</version>
       <version>5.0.0-og</version>
+      <version>5.1.0</version>
+      <version>5.1.0-og</version>
     </versions>
-    <lastUpdated>20230407091128</lastUpdated>
+    <lastUpdated>20231104072816</lastUpdated>
   </versioning>
 </metadata>

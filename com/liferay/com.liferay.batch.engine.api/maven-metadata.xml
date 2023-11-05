@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.batch.engine.api</artifactId>
   <versioning>
-    <latest>23.3.0</latest>
-    <release>23.3.0</release>
+    <latest>13.4.3</latest>
+    <release>13.4.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -154,7 +154,9 @@
       <version>23.1.0</version>
       <version>23.2.0</version>
       <version>23.3.0</version>
+      <version>23.3.1</version>
+      <version>13.4.3</version>
     </versions>
-    <lastUpdated>20231021132525</lastUpdated>
+    <lastUpdated>20231104190435</lastUpdated>
   </versioning>
 </metadata>
