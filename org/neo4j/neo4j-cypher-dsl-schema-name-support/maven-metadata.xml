@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-dsl-schema-name-support</artifactId>
   <versioning>
-    <latest>2023.8.0</latest>
-    <release>2023.8.0</release>
+    <latest>2023.8.1</latest>
+    <release>2023.8.1</release>
     <versions>
       <version>2022.7.2</version>
       <version>2022.7.3</version>
@@ -35,7 +35,8 @@
       <version>2023.7.0</version>
       <version>2023.7.1</version>
       <version>2023.8.0</version>
+      <version>2023.8.1</version>
     </versions>
-    <lastUpdated>20231031104835</lastUpdated>
+    <lastUpdated>20231106105043</lastUpdated>
   </versioning>
 </metadata>
