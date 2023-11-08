@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-server-openapi</artifactId>
   <versioning>
-    <latest>5.8.0</latest>
-    <release>5.8.0</release>
+    <latest>5.8.2</latest>
+    <release>5.8.2</release>
     <versions>
       <version>2.3.0</version>
       <version>2.3.1</version>
@@ -650,6 +650,7 @@
       <version>2.64.109</version>
       <version>2.64.110</version>
       <version>2.64.111</version>
+      <version>2.64.112</version>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
       <version>3.0.0-rc.1</version>
@@ -882,7 +883,9 @@
       <version>5.7.2</version>
       <version>5.7.3</version>
       <version>5.8.0</version>
+      <version>5.8.1</version>
+      <version>5.8.2</version>
     </versions>
-    <lastUpdated>20231106082850</lastUpdated>
+    <lastUpdated>20231107160902</lastUpdated>
   </versioning>
 </metadata>

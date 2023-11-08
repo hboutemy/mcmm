@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>lock-conjure-api-undertow</artifactId>
   <versioning>
-    <latest>0.969.0</latest>
-    <release>0.969.0</release>
+    <latest>0.971.0</latest>
+    <release>0.971.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -779,7 +779,8 @@
       <version>0.966.0</version>
       <version>0.967.0</version>
       <version>0.969.0</version>
+      <version>0.971.0</version>
     </versions>
-    <lastUpdated>20231106135156</lastUpdated>
+    <lastUpdated>20231107183501</lastUpdated>
   </versioning>
 </metadata>
