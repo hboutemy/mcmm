@@ -3,8 +3,8 @@
   <groupId>net.aihelp</groupId>
   <artifactId>android-aihelp-aar</artifactId>
   <versioning>
-    <latest>4.4.1</latest>
-    <release>4.4.1</release>
+    <latest>4.4.2-alpha</latest>
+    <release>4.4.2-alpha</release>
     <versions>
       <version>0.0.12</version>
       <version>0.0.13</version>
@@ -98,6 +98,7 @@
       <version>3.5.3</version>
       <version>3.5.4</version>
       <version>3.5.5</version>
+      <version>3.5.6</version>
       <version>4.0.0-alpha</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
@@ -144,7 +145,8 @@
       <version>4.4.0</version>
       <version>4.4.1-alpha</version>
       <version>4.4.1</version>
+      <version>4.4.2-alpha</version>
     </versions>
-    <lastUpdated>20231031024438</lastUpdated>
+    <lastUpdated>20231108075355</lastUpdated>
   </versioning>
 </metadata>

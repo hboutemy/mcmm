@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elasticsearch-rest-high-level-client-parent</artifactId>
   <versioning>
-    <latest>3.2.7.Final</latest>
-    <release>3.2.7.Final</release>
+    <latest>3.2.8.Final</latest>
+    <release>3.2.8.Final</release>
     <versions>
       <version>1.7.0.CR1</version>
       <version>1.7.0.CR2</version>
@@ -192,7 +192,8 @@
       <version>3.2.5.Final</version>
       <version>3.2.6.Final</version>
       <version>3.2.7.Final</version>
+      <version>3.2.8.Final</version>
     </versions>
-    <lastUpdated>20231019120701</lastUpdated>
+    <lastUpdated>20231108125243</lastUpdated>
   </versioning>
 </metadata>

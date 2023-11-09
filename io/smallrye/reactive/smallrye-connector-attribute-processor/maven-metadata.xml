@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>smallrye-connector-attribute-processor</artifactId>
   <versioning>
-    <latest>4.10.2</latest>
-    <release>4.10.2</release>
+    <latest>4.11.0</latest>
+    <release>4.11.0</release>
     <versions>
       <version>2.0.0</version>
       <version>2.0.1</version>
@@ -49,7 +49,6 @@
       <version>3.12.1</version>
       <version>3.13.0.RC1</version>
       <version>3.13.0</version>
-      <version>3.13.1</version>
       <version>3.14.0</version>
       <version>3.14.1</version>
       <version>3.15.0</version>
@@ -85,14 +84,16 @@
       <version>4.4.0</version>
       <version>4.5.0</version>
       <version>4.6.0</version>
-      <version>4.6.1</version>
       <version>4.7.0</version>
       <version>4.8.0</version>
       <version>4.9.0</version>
       <version>4.10.0</version>
       <version>4.10.1</version>
+      <version>4.11.0</version>
+      <version>3.13.1</version>
       <version>4.10.2</version>
+      <version>4.6.1</version>
     </versions>
-    <lastUpdated>20231107130523</lastUpdated>
+    <lastUpdated>20231108142409</lastUpdated>
   </versioning>
 </metadata>
