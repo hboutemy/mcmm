@@ -3,8 +3,8 @@
   <groupId>org.apache.derby</groupId>
   <artifactId>derbyLocale_pt_BR</artifactId>
   <versioning>
-    <latest>10.16.1.1</latest>
-    <release>10.16.1.1</release>
+    <latest>10.17.1.0</latest>
+    <release>10.17.1.0</release>
     <versions>
       <version>10.6.1.0</version>
       <version>10.6.2.1</version>
@@ -22,6 +22,7 @@
       <version>10.15.1.3</version>
       <version>10.15.2.0</version>
       <version>10.16.1.1</version>
+      <version>10.17.1.0</version>
       <version>10.1.1.0</version>
       <version>10.1.2.1</version>
       <version>10.1.3.1</version>
@@ -34,6 +35,6 @@
       <version>10.5.3.0</version>
       <version>10.5.3.0_1</version>
     </versions>
-    <lastUpdated>20220614171401</lastUpdated>
+    <lastUpdated>20231110180838</lastUpdated>
   </versioning>
 </metadata>
