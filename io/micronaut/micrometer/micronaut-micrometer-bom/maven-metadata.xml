@@ -3,8 +3,8 @@
   <groupId>io.micronaut.micrometer</groupId>
   <artifactId>micronaut-micrometer-bom</artifactId>
   <versioning>
-    <latest>5.1.1</latest>
-    <release>5.1.1</release>
+    <latest>5.1.2</latest>
+    <release>5.1.2</release>
     <versions>
       <version>3.3.0</version>
       <version>3.3.0-TEST</version>
@@ -39,9 +39,11 @@
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
+      <version>5.0.3</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.1.2</version>
     </versions>
-    <lastUpdated>20231110164245</lastUpdated>
+    <lastUpdated>20231111102351</lastUpdated>
   </versioning>
 </metadata>
