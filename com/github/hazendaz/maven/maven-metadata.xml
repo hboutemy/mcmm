@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>coveralls-maven-plugin</name>
+      <prefix>coveralls</prefix>
+      <artifactId>coveralls-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>directory-maven-plugin</name>
       <prefix>directory</prefix>
       <artifactId>directory-maven-plugin</artifactId>
