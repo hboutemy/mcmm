@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SonarDelphi :: Delphi Tokens Generator Maven Plugin</name>
+      <prefix>delphi-tokens-generator</prefix>
+      <artifactId>delphi-tokens-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>SonarDelphi :: License Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
