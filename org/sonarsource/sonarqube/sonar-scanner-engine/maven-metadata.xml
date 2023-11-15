@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.sonarqube</groupId>
   <artifactId>sonar-scanner-engine</artifactId>
   <versioning>
-    <latest>10.2.1.78527</latest>
-    <release>10.2.1.78527</release>
+    <latest>10.3.0.82913</latest>
+    <release>10.3.0.82913</release>
     <versions>
       <version>5.5-RC1</version>
       <version>5.5-RC2</version>
@@ -124,7 +124,8 @@
       <version>10.1.0.73491</version>
       <version>10.2.0.77647</version>
       <version>10.2.1.78527</version>
+      <version>10.3.0.82913</version>
     </versions>
-    <lastUpdated>20231110095515</lastUpdated>
+    <lastUpdated>20231114100002</lastUpdated>
   </versioning>
 </metadata>

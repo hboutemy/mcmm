@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions.contrib</groupId>
   <artifactId>druid-influx-extensions</artifactId>
   <versioning>
-    <latest>27.0.0</latest>
-    <release>27.0.0</release>
+    <latest>28.0.0</latest>
+    <release>28.0.0</release>
     <versions>
       <version>0.14.0-incubating</version>
       <version>0.14.1-incubating</version>
@@ -32,7 +32,8 @@
       <version>25.0.0</version>
       <version>26.0.0</version>
       <version>27.0.0</version>
+      <version>28.0.0</version>
     </versions>
-    <lastUpdated>20230810044011</lastUpdated>
+    <lastUpdated>20231114082807</lastUpdated>
   </versioning>
 </metadata>

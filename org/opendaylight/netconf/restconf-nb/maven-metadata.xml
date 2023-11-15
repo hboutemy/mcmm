@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>restconf-nb</artifactId>
   <versioning>
-    <latest>6.0.4</latest>
-    <release>6.0.4</release>
+    <latest>6.0.5</latest>
+    <release>6.0.5</release>
     <versions>
       <version>4.0.0</version>
       <version>4.0.1</version>
@@ -31,7 +31,8 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.0.4</version>
+      <version>6.0.5</version>
     </versions>
-    <lastUpdated>20231113171912</lastUpdated>
+    <lastUpdated>20231114165502</lastUpdated>
   </versioning>
 </metadata>

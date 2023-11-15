@@ -3,8 +3,8 @@
   <groupId>com.wl4g</groupId>
   <artifactId>infra-integration-feign-istio</artifactId>
   <versioning>
-    <latest>3.1.61</latest>
-    <release>3.1.61</release>
+    <latest>3.1.65</latest>
+    <release>3.1.65</release>
     <versions>
       <version>3.0.0</version>
       <version>3.1.0</version>
@@ -60,7 +60,9 @@
       <version>3.1.59</version>
       <version>3.1.60</version>
       <version>3.1.61</version>
+      <version>3.1.62</version>
+      <version>3.1.65</version>
     </versions>
-    <lastUpdated>20231113165724</lastUpdated>
+    <lastUpdated>20231114165258</lastUpdated>
   </versioning>
 </metadata>
