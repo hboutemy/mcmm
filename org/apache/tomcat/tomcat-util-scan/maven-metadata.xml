@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-util-scan</artifactId>
   <versioning>
-    <latest>11.0.0-M13</latest>
-    <release>11.0.0-M13</release>
+    <latest>11.0.0-M14</latest>
+    <release>11.0.0-M14</release>
     <versions>
       <version>8.0.0-RC10</version>
       <version>8.0.1</version>
@@ -214,6 +214,7 @@
       <version>9.0.80</version>
       <version>9.0.81</version>
       <version>9.0.82</version>
+      <version>9.0.83</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -285,7 +286,8 @@
       <version>11.0.0-M11</version>
       <version>11.0.0-M12</version>
       <version>11.0.0-M13</version>
+      <version>11.0.0-M14</version>
     </versions>
-    <lastUpdated>20231114210724</lastUpdated>
+    <lastUpdated>20231115092809</lastUpdated>
   </versioning>
 </metadata>

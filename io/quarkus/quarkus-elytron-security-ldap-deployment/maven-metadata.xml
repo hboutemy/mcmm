@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elytron-security-ldap-deployment</artifactId>
   <versioning>
-    <latest>3.5.1</latest>
-    <release>3.5.1</release>
+    <latest>3.6.0.CR1</latest>
+    <release>3.6.0.CR1</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -217,7 +217,8 @@
       <version>3.5.0.CR1</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
+      <version>3.6.0.CR1</version>
     </versions>
-    <lastUpdated>20231108125549</lastUpdated>
+    <lastUpdated>20231115105115</lastUpdated>
   </versioning>
 </metadata>

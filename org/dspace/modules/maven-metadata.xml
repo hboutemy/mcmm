@@ -3,8 +3,8 @@
   <groupId>org.dspace</groupId>
   <artifactId>modules</artifactId>
   <versioning>
-    <latest>7.6</latest>
-    <release>7.6</release>
+    <latest>7.6.1</latest>
+    <release>7.6.1</release>
     <versions>
       <version>1.5.2</version>
       <version>1.7.0-rc2</version>
@@ -82,7 +82,8 @@
       <version>7.4</version>
       <version>7.5</version>
       <version>7.6</version>
+      <version>7.6.1</version>
     </versions>
-    <lastUpdated>20230623175301</lastUpdated>
+    <lastUpdated>20231115202939</lastUpdated>
   </versioning>
 </metadata>
