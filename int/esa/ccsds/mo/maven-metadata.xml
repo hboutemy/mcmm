@@ -7,7 +7,7 @@
       <artifactId>StubGenerator</artifactId>
     </plugin>
     <plugin>
-      <name>ESA MO API Generator Maven Plugin</name>
+      <name>ESA MO API Generator - Maven Plugin</name>
       <prefix>api-generator</prefix>
       <artifactId>api-generator-maven-plugin</artifactId>
     </plugin>

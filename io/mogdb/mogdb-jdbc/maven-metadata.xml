@@ -3,8 +3,8 @@
   <groupId>io.mogdb</groupId>
   <artifactId>mogdb-jdbc</artifactId>
   <versioning>
-    <latest>5.0.0.2.pg</latest>
-    <release>5.0.0.2.pg</release>
+    <latest>5.0.0.3.pg</latest>
+    <release>5.0.0.3.pg</release>
     <versions>
       <version>5.0.0-og</version>
       <version>5.0.0-og.1</version>
@@ -13,7 +13,10 @@
       <version>5.0.0.2.mg</version>
       <version>5.0.0.2.og</version>
       <version>5.0.0.2.pg</version>
+      <version>5.0.0.3.mg</version>
+      <version>5.0.0.3.og</version>
+      <version>5.0.0.3.pg</version>
     </versions>
-    <lastUpdated>20231012125527</lastUpdated>
+    <lastUpdated>20231116083007</lastUpdated>
   </versioning>
 </metadata>

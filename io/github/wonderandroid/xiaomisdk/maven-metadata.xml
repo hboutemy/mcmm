@@ -3,8 +3,8 @@
   <groupId>io.github.wonderandroid</groupId>
   <artifactId>xiaomisdk</artifactId>
   <versioning>
-    <latest>1.3.6.14_test3</latest>
-    <release>1.3.6.14_test3</release>
+    <latest>1.3.6.15_disable_ratio</latest>
+    <release>1.3.6.15_disable_ratio</release>
     <versions>
       <version>ratio_1.0.0.0</version>
       <version>ratio_1.0.0.1</version>
@@ -12,6 +12,8 @@
       <version>ratio_1.0.0.3</version>
       <version>ratio_1.0.0.4</version>
       <version>ratio_1.0.0.5</version>
+      <version>ratio_1.0.0.6</version>
+      <version>ratio_1.0.0.7</version>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -93,7 +95,8 @@
       <version>1.3.6.14_test1</version>
       <version>1.3.6.14_test2</version>
       <version>1.3.6.14_test3</version>
+      <version>1.3.6.15_disable_ratio</version>
     </versions>
-    <lastUpdated>20230922073924</lastUpdated>
+    <lastUpdated>20231116095036</lastUpdated>
   </versioning>
 </metadata>

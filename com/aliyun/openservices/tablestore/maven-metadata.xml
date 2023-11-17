@@ -3,8 +3,8 @@
   <groupId>com.aliyun.openservices</groupId>
   <artifactId>tablestore</artifactId>
   <versioning>
-    <latest>5.16.3</latest>
-    <release>5.16.3</release>
+    <latest>5.16.3-time</latest>
+    <release>5.16.3-time</release>
     <versions>
       <version>4.0.0</version>
       <version>4.1.0</version>
@@ -82,7 +82,8 @@
       <version>5.16.1</version>
       <version>5.16.2</version>
       <version>5.16.3</version>
+      <version>5.16.3-time</version>
     </versions>
-    <lastUpdated>20230907055841</lastUpdated>
+    <lastUpdated>20231116073343</lastUpdated>
   </versioning>
 </metadata>
