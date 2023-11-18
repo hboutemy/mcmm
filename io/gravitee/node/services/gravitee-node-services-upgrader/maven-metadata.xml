@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node.services</groupId>
   <artifactId>gravitee-node-services-upgrader</artifactId>
   <versioning>
-    <latest>4.4.0</latest>
-    <release>4.4.0</release>
+    <latest>4.5.0</latest>
+    <release>4.5.0</release>
     <versions>
       <version>1.27.0</version>
       <version>1.27.1</version>
@@ -74,7 +74,8 @@
       <version>4.4.0-alpha.5</version>
       <version>4.4.0-alpha.6</version>
       <version>4.4.0</version>
+      <version>4.5.0</version>
     </versions>
-    <lastUpdated>20231113105327</lastUpdated>
+    <lastUpdated>20231117084739</lastUpdated>
   </versioning>
 </metadata>

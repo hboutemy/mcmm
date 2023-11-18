@@ -3,8 +3,8 @@
   <groupId>pl.allegro.tech.elasticsearch.plugin</groupId>
   <artifactId>elasticsearch-analysis-morfologik</artifactId>
   <versioning>
-    <latest>8.11.0</latest>
-    <release>8.11.0</release>
+    <latest>8.11.1</latest>
+    <release>8.11.1</release>
     <versions>
       <version>2.4.1</version>
       <version>2.4.2</version>
@@ -145,7 +145,8 @@
       <version>8.9.0</version>
       <version>8.10.4</version>
       <version>8.11.0</version>
+      <version>8.11.1</version>
     </versions>
-    <lastUpdated>20231110081743</lastUpdated>
+    <lastUpdated>20231117224937</lastUpdated>
   </versioning>
 </metadata>
