@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-opensearch-rest-common</artifactId>
   <versioning>
-    <latest>1.31.0-alpha</latest>
-    <release>1.31.0-alpha</release>
+    <latest>1.32.0-alpha</latest>
+    <release>1.32.0-alpha</release>
     <versions>
       <version>1.20.0-alpha</version>
       <version>1.20.1-alpha</version>
@@ -22,7 +22,8 @@
       <version>1.29.0-alpha</version>
       <version>1.30.0-alpha</version>
       <version>1.31.0-alpha</version>
+      <version>1.32.0-alpha</version>
     </versions>
-    <lastUpdated>20231012192640</lastUpdated>
+    <lastUpdated>20231118013022</lastUpdated>
   </versioning>
 </metadata>

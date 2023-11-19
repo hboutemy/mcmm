@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-tomcat-7.0</artifactId>
   <versioning>
-    <latest>1.31.0-alpha</latest>
-    <release>1.31.0-alpha</release>
+    <latest>1.32.0-alpha</latest>
+    <release>1.32.0-alpha</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1</version>
@@ -68,7 +68,8 @@
       <version>1.29.0-alpha</version>
       <version>1.30.0-alpha</version>
       <version>1.31.0-alpha</version>
+      <version>1.32.0-alpha</version>
     </versions>
-    <lastUpdated>20231012192855</lastUpdated>
+    <lastUpdated>20231118013242</lastUpdated>
   </versioning>
 </metadata>

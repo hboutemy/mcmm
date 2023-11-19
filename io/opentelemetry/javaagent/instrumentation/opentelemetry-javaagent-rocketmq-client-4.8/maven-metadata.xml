@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-rocketmq-client-4.8</artifactId>
   <versioning>
-    <latest>1.31.0-alpha</latest>
-    <release>1.31.0-alpha</release>
+    <latest>1.32.0-alpha</latest>
+    <release>1.32.0-alpha</release>
     <versions>
       <version>1.1.0-alpha</version>
       <version>1.2.0-alpha</version>
@@ -58,7 +58,8 @@
       <version>1.29.0-alpha</version>
       <version>1.30.0-alpha</version>
       <version>1.31.0-alpha</version>
+      <version>1.32.0-alpha</version>
     </versions>
-    <lastUpdated>20231012192748</lastUpdated>
+    <lastUpdated>20231118013131</lastUpdated>
   </versioning>
 </metadata>
