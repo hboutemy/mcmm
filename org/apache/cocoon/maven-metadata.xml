@@ -13,6 +13,11 @@
     </plugin>
     <plugin>
       <name>Cocoon Maven Javadocs Script Report</name>
+      <prefix>cocoondocs-cleaner</prefix>
+      <artifactId>cocoon-maven-docs-cleaner-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cocoon Maven Javadocs Script Report</name>
       <prefix>cocoonjavadocs-script-report</prefix>
       <artifactId>cocoon-maven-javadocs-script-report</artifactId>
     </plugin>
