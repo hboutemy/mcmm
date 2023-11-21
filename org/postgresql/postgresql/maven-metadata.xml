@@ -3,8 +3,8 @@
   <groupId>org.postgresql</groupId>
   <artifactId>postgresql</artifactId>
   <versioning>
-    <latest>42.6.0</latest>
-    <release>42.6.0</release>
+    <latest>42.7.0</latest>
+    <release>42.7.0</release>
     <versions>
       <version>9.2-1002-jdbc4</version>
       <version>9.2-1003-jdbc3</version>
@@ -183,7 +183,8 @@
       <version>42.5.3</version>
       <version>42.5.4</version>
       <version>42.6.0</version>
+      <version>42.7.0</version>
     </versions>
-    <lastUpdated>20230317221016</lastUpdated>
+    <lastUpdated>20231120190428</lastUpdated>
   </versioning>
 </metadata>
