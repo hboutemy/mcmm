@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Quarkus Kotlin OpenAPI - Maven Plugin</name>
       <prefix>quarkus-kotlin-openapi</prefix>
       <artifactId>quarkus-kotlin-openapi-maven-plugin</artifactId>
     </plugin>

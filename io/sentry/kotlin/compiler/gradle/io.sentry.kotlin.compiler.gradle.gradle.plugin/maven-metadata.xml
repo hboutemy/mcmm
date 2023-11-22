@@ -3,8 +3,8 @@
   <groupId>io.sentry.kotlin.compiler.gradle</groupId>
   <artifactId>io.sentry.kotlin.compiler.gradle.gradle.plugin</artifactId>
   <versioning>
-    <latest>3.14.0</latest>
-    <release>3.14.0</release>
+    <latest>4.0.0-beta.1</latest>
+    <release>4.0.0-beta.1</release>
     <versions>
       <version>3.7.0</version>
       <version>3.8.0</version>
@@ -15,7 +15,8 @@
       <version>3.12.0</version>
       <version>3.13.0</version>
       <version>3.14.0</version>
+      <version>4.0.0-beta.1</version>
     </versions>
-    <lastUpdated>20231018205649</lastUpdated>
+    <lastUpdated>20231121084556</lastUpdated>
   </versioning>
 </metadata>

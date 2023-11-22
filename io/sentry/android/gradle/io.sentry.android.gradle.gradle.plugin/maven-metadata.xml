@@ -3,8 +3,8 @@
   <groupId>io.sentry.android.gradle</groupId>
   <artifactId>io.sentry.android.gradle.gradle.plugin</artifactId>
   <versioning>
-    <latest>3.14.0</latest>
-    <release>3.14.0</release>
+    <latest>4.0.0-beta.1</latest>
+    <release>4.0.0-beta.1</release>
     <versions>
       <version>2.0.0-alpha.2</version>
       <version>2.0.0-alpha.3</version>
@@ -61,7 +61,8 @@
       <version>3.12.0</version>
       <version>3.13.0</version>
       <version>3.14.0</version>
+      <version>4.0.0-beta.1</version>
     </versions>
-    <lastUpdated>20231018205649</lastUpdated>
+    <lastUpdated>20231121084555</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.ironjacamar</groupId>
   <artifactId>ironjacamar-embedded</artifactId>
   <versioning>
-    <latest>3.0.5.Final</latest>
-    <release>3.0.5.Final</release>
+    <latest>3.0.6.Final</latest>
+    <release>3.0.6.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -154,10 +154,12 @@
       <version>3.0.0.Final</version>
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
+      <version>3.0.2.SP1</version>
       <version>3.0.3.Final</version>
       <version>3.0.4.Final</version>
       <version>3.0.5.Final</version>
+      <version>3.0.6.Final</version>
     </versions>
-    <lastUpdated>20230831132914</lastUpdated>
+    <lastUpdated>20231121162731</lastUpdated>
   </versioning>
 </metadata>
