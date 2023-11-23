@@ -3,8 +3,8 @@
   <groupId>com.snowplowanalytics</groupId>
   <artifactId>snowplow-event-recovery-core_2.12</artifactId>
   <versioning>
-    <latest>0.6.1-rc4</latest>
-    <release>0.6.1-rc4</release>
+    <latest>0.6.1</latest>
+    <release>0.6.1</release>
     <versions>
       <version>0.4.0</version>
       <version>0.4.1-rc1</version>
@@ -20,7 +20,11 @@
       <version>0.6.1-rc2</version>
       <version>0.6.1-rc3</version>
       <version>0.6.1-rc4</version>
+      <version>0.6.1-rc5</version>
+      <version>0.6.1-rc6</version>
+      <version>0.6.1-rc7</version>
+      <version>0.6.1</version>
     </versions>
-    <lastUpdated>20231121170841</lastUpdated>
+    <lastUpdated>20231122132924</lastUpdated>
   </versioning>
 </metadata>

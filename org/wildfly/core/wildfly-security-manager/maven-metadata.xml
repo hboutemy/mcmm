@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-security-manager</artifactId>
   <versioning>
-    <latest>23.0.0.Beta1</latest>
-    <release>23.0.0.Beta1</release>
+    <latest>23.0.0.Beta2</latest>
+    <release>23.0.0.Beta2</release>
     <versions>
       <version>3.0.0.Alpha14</version>
       <version>3.0.0.Alpha15</version>
@@ -256,7 +256,8 @@
       <version>22.0.0.Final</version>
       <version>22.0.1.Final</version>
       <version>23.0.0.Beta1</version>
+      <version>23.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20231031123003</lastUpdated>
+    <lastUpdated>20231122135853</lastUpdated>
   </versioning>
 </metadata>

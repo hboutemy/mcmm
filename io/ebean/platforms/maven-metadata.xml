@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>platforms</artifactId>
   <versioning>
-    <latest>13.25.0-jakarta</latest>
-    <release>13.25.0-jakarta</release>
+    <latest>13.25.1-jakarta</latest>
+    <release>13.25.1-jakarta</release>
     <versions>
       <version>13.0.0</version>
       <version>13.1.0</version>
@@ -90,7 +90,9 @@
       <version>13.24.0-jakarta</version>
       <version>13.25.0</version>
       <version>13.25.0-jakarta</version>
+      <version>13.25.1</version>
+      <version>13.25.1-jakarta</version>
     </versions>
-    <lastUpdated>20231106003736</lastUpdated>
+    <lastUpdated>20231122054207</lastUpdated>
   </versioning>
 </metadata>
