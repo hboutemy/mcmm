@@ -30,6 +30,11 @@
     </plugin>
     <plugin>
       <name>${project.artifactId}</name>
+      <prefix>parallel-exec</prefix>
+      <artifactId>parallel-exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.artifactId}</name>
       <prefix>plantuml</prefix>
       <artifactId>plantuml-maven-plugin</artifactId>
     </plugin>

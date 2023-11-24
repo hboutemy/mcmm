@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-ant</artifactId>
   <versioning>
-    <latest>6.4.0.CR1</latest>
-    <release>6.4.0.CR1</release>
+    <latest>6.4.0.Final</latest>
+    <release>6.4.0.Final</release>
     <versions>
       <version>6.0.0.Beta1</version>
       <version>6.0.0.Beta2</version>
@@ -43,8 +43,10 @@
       <version>6.3.0.CR1</version>
       <version>6.3.0.Final</version>
       <version>6.3.1.Final</version>
+      <version>6.3.2.Final</version>
       <version>6.4.0.CR1</version>
+      <version>6.4.0.Final</version>
     </versions>
-    <lastUpdated>20231026011659</lastUpdated>
+    <lastUpdated>20231123150507</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-graalvm</artifactId>
   <versioning>
-    <latest>6.4.0.CR1</latest>
-    <release>6.4.0.CR1</release>
+    <latest>6.4.0.Final</latest>
+    <release>6.4.0.Final</release>
     <versions>
       <version>6.0.0.Alpha5</version>
       <version>6.0.0.Alpha6</version>
@@ -48,8 +48,10 @@
       <version>6.3.0.CR1</version>
       <version>6.3.0.Final</version>
       <version>6.3.1.Final</version>
+      <version>6.3.2.Final</version>
       <version>6.4.0.CR1</version>
+      <version>6.4.0.Final</version>
     </versions>
-    <lastUpdated>20231026011714</lastUpdated>
+    <lastUpdated>20231123150520</lastUpdated>
   </versioning>
 </metadata>

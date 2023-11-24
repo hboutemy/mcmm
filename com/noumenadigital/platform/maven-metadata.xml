@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>NPL Maven Plugin</name>
+      <prefix>npl</prefix>
+      <artifactId>npl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>NPL Maven Plugin</name>
       <prefix>nplpublic</prefix>
       <artifactId>npl-maven-plugin-public</artifactId>
     </plugin>
