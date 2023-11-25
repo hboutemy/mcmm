@@ -3,8 +3,8 @@
   <groupId>io.nextflow</groupId>
   <artifactId>nf-commons</artifactId>
   <versioning>
-    <latest>23.10.0</latest>
-    <release>23.10.0</release>
+    <latest>23.11.0-edge</latest>
+    <release>23.11.0-edge</release>
     <versions>
       <version>19.01.0</version>
       <version>19.01.0-edge</version>
@@ -137,7 +137,8 @@
       <version>23.09.2-edge</version>
       <version>23.09.3-edge</version>
       <version>23.10.0</version>
+      <version>23.11.0-edge</version>
     </versions>
-    <lastUpdated>20231015151327</lastUpdated>
+    <lastUpdated>20231124213853</lastUpdated>
   </versioning>
 </metadata>
