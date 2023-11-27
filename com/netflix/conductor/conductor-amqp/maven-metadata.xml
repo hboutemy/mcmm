@@ -3,8 +3,8 @@
   <groupId>com.netflix.conductor</groupId>
   <artifactId>conductor-amqp</artifactId>
   <versioning>
-    <latest>3.14.0</latest>
-    <release>3.14.0</release>
+    <latest>3.15.0</latest>
+    <release>3.15.0</release>
     <versions>
       <version>3.8.0</version>
       <version>3.8.1</version>
@@ -30,7 +30,8 @@
       <version>3.13.7</version>
       <version>3.13.8</version>
       <version>3.14.0</version>
+      <version>3.15.0</version>
     </versions>
-    <lastUpdated>20230928072137</lastUpdated>
+    <lastUpdated>20231126195323</lastUpdated>
   </versioning>
 </metadata>
