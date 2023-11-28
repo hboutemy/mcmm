@@ -12,12 +12,12 @@
       <artifactId>error-code-crawler-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Project keeper Java project crawler</name>
+      <name>Project Keeper Java project crawler</name>
       <prefix>project-keeper-java-project-crawler</prefix>
       <artifactId>project-keeper-java-project-crawler</artifactId>
     </plugin>
     <plugin>
-      <name>Project keeper maven plugin</name>
+      <name>Project Keeper Maven plugin</name>
       <prefix>project-keeper</prefix>
       <artifactId>project-keeper-maven-plugin</artifactId>
     </plugin>
