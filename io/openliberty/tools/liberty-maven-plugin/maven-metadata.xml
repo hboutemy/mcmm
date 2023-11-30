@@ -3,8 +3,8 @@
   <groupId>io.openliberty.tools</groupId>
   <artifactId>liberty-maven-plugin</artifactId>
   <versioning>
-    <latest>3.9</latest>
-    <release>3.9</release>
+    <latest>3.10</latest>
+    <release>3.10</release>
     <versions>
       <version>3.0-M2</version>
       <version>3.0</version>
@@ -38,7 +38,8 @@
       <version>3.8.1</version>
       <version>3.8.2</version>
       <version>3.9</version>
+      <version>3.10</version>
     </versions>
-    <lastUpdated>20231006144204</lastUpdated>
+    <lastUpdated>20231129171642</lastUpdated>
   </versioning>
 </metadata>

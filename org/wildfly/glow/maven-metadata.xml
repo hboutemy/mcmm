@@ -5,5 +5,9 @@
       <prefix>wildfly-glow-arquillian</prefix>
       <artifactId>wildfly-glow-arquillian-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>wildfly-glow-doc</prefix>
+      <artifactId>wildfly-glow-doc-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
