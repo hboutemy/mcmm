@@ -3,8 +3,8 @@
   <groupId>net.corda</groupId>
   <artifactId>corda-node-driver</artifactId>
   <versioning>
-    <latest>4.10.3</latest>
-    <release>4.10.3</release>
+    <latest>4.11</latest>
+    <release>4.11</release>
     <versions>
       <version>corda-3.0</version>
       <version>1.0.0</version>
@@ -31,7 +31,8 @@
       <version>4.9.8</version>
       <version>4.10</version>
       <version>4.10.3</version>
+      <version>4.11</version>
     </versions>
-    <lastUpdated>20230919101927</lastUpdated>
+    <lastUpdated>20231130171256</lastUpdated>
   </versioning>
 </metadata>

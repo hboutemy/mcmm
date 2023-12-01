@@ -3,8 +3,8 @@
   <groupId>net.corda</groupId>
   <artifactId>corda-test-common</artifactId>
   <versioning>
-    <latest>4.10.3</latest>
-    <release>4.10.3</release>
+    <latest>4.11</latest>
+    <release>4.11</release>
     <versions>
       <version>corda-3.0</version>
       <version>0.14.0</version>
@@ -33,7 +33,8 @@
       <version>4.9.8</version>
       <version>4.10</version>
       <version>4.10.3</version>
+      <version>4.11</version>
     </versions>
-    <lastUpdated>20230919101938</lastUpdated>
+    <lastUpdated>20231130171304</lastUpdated>
   </versioning>
 </metadata>
