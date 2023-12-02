@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-functions-runtime</artifactId>
   <versioning>
-    <latest>3.1.0.6</latest>
-    <release>3.1.0.6</release>
+    <latest>3.1.0.7</latest>
+    <release>3.1.0.7</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -651,7 +651,8 @@
       <version>3.1.0.4</version>
       <version>3.1.0.5</version>
       <version>3.1.0.6</version>
+      <version>3.1.0.7</version>
     </versions>
-    <lastUpdated>20231122065628</lastUpdated>
+    <lastUpdated>20231201032708</lastUpdated>
   </versioning>
 </metadata>

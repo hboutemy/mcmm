@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-jdk9</artifactId>
   <versioning>
-    <latest>1.7.3</latest>
-    <release>1.7.3</release>
+    <latest>1.8.0-RC</latest>
+    <release>1.8.0-RC</release>
     <versions>
       <version>1.3.5</version>
       <version>1.3.5-native-mt</version>
@@ -52,7 +52,8 @@
       <version>1.7.1</version>
       <version>1.7.2</version>
       <version>1.7.3</version>
+      <version>1.8.0-RC</version>
     </versions>
-    <lastUpdated>20230725152311</lastUpdated>
+    <lastUpdated>20231201181446</lastUpdated>
   </versioning>
 </metadata>

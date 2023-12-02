@@ -3,12 +3,13 @@
   <groupId>org.apache.celeborn</groupId>
   <artifactId>celeborn-client-spark-3-shaded_2.12</artifactId>
   <versioning>
-    <latest>0.3.0-incubating</latest>
-    <release>0.3.0-incubating</release>
+    <latest>0.3.1-incubating</latest>
+    <release>0.3.1-incubating</release>
     <versions>
       <version>0.2.1-incubating</version>
       <version>0.3.0-incubating</version>
+      <version>0.3.1-incubating</version>
     </versions>
-    <lastUpdated>20230727124523</lastUpdated>
+    <lastUpdated>20231201064938</lastUpdated>
   </versioning>
 </metadata>
