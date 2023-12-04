@@ -12,7 +12,7 @@
       <artifactId>directory-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven HTMLCompressor Plugin</name>
+      <name>htmlcompressor-maven-plugin</name>
       <prefix>htmlcompressor</prefix>
       <artifactId>htmlcompressor-maven-plugin</artifactId>
     </plugin>

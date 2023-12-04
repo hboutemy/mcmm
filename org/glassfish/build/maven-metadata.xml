@@ -11,5 +11,10 @@
       <prefix>glassfishbuild</prefix>
       <artifactId>glassfishbuild-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Spec Version Maven Plugin</name>
+      <prefix>spec-version</prefix>
+      <artifactId>spec-version-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
