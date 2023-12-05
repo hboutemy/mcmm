@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-server-spring-data-mongo</artifactId>
   <versioning>
-    <latest>5.13.7</latest>
-    <release>5.13.7</release>
+    <latest>5.13.9</latest>
+    <release>5.13.9</release>
     <versions>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
@@ -272,7 +272,8 @@
       <version>5.13.3</version>
       <version>5.13.6</version>
       <version>5.13.7</version>
+      <version>5.13.9</version>
     </versions>
-    <lastUpdated>20231130102709</lastUpdated>
+    <lastUpdated>20231204085052</lastUpdated>
   </versioning>
 </metadata>
