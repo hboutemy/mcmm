@@ -3,8 +3,8 @@
   <groupId>org.eclipse.platform</groupId>
   <artifactId>org.eclipse.equinox.p2.artifact.repository</artifactId>
   <versioning>
-    <latest>1.5.100</latest>
-    <release>1.5.100</release>
+    <latest>1.5.200</latest>
+    <release>1.5.200</release>
     <versions>
       <version>1.1.500</version>
       <version>1.1.600</version>
@@ -28,7 +28,8 @@
       <version>1.4.800</version>
       <version>1.5.0</version>
       <version>1.5.100</version>
+      <version>1.5.200</version>
     </versions>
-    <lastUpdated>20230912035007</lastUpdated>
+    <lastUpdated>20231205053152</lastUpdated>
   </versioning>
 </metadata>

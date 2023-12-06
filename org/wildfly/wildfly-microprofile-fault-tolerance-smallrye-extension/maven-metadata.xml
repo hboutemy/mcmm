@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-microprofile-fault-tolerance-smallrye-extension</artifactId>
   <versioning>
-    <latest>30.0.0.Final</latest>
-    <release>30.0.0.Final</release>
+    <latest>30.0.1.Final</latest>
+    <release>30.0.1.Final</release>
     <versions>
       <version>19.0.0.Beta1</version>
       <version>19.0.0.Beta2</version>
@@ -57,7 +57,8 @@
       <version>29.0.1.Final</version>
       <version>30.0.0.Beta1</version>
       <version>30.0.0.Final</version>
+      <version>30.0.1.Final</version>
     </versions>
-    <lastUpdated>20231018154501</lastUpdated>
+    <lastUpdated>20231205145714</lastUpdated>
   </versioning>
 </metadata>

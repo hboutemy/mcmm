@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-web-undertow</artifactId>
   <versioning>
-    <latest>30.0.0.Final</latest>
-    <release>30.0.0.Final</release>
+    <latest>30.0.1.Final</latest>
+    <release>30.0.1.Final</release>
     <versions>
       <version>8.0.0.Alpha2</version>
       <version>8.0.0.Alpha3</version>
@@ -116,7 +116,8 @@
       <version>29.0.1.Final</version>
       <version>30.0.0.Beta1</version>
       <version>30.0.0.Final</version>
+      <version>30.0.1.Final</version>
     </versions>
-    <lastUpdated>20231018154433</lastUpdated>
+    <lastUpdated>20231205145644</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.netflix.spectator</groupId>
   <artifactId>spectator-ext-log4j2</artifactId>
   <versioning>
-    <latest>1.7.3</latest>
-    <release>1.7.3</release>
+    <latest>1.7.4</latest>
+    <release>1.7.4</release>
     <versions>
       <version>0.17</version>
       <version>0.18</version>
@@ -197,7 +197,8 @@
       <version>1.7.1</version>
       <version>1.7.2</version>
       <version>1.7.3</version>
+      <version>1.7.4</version>
     </versions>
-    <lastUpdated>20231118170946</lastUpdated>
+    <lastUpdated>20231205164136</lastUpdated>
   </versioning>
 </metadata>

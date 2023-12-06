@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-jms-client-bom-builder</artifactId>
   <versioning>
-    <latest>30.0.0.Final</latest>
-    <release>30.0.0.Final</release>
+    <latest>30.0.1.Final</latest>
+    <release>30.0.1.Final</release>
     <versions>
       <version>17.0.0.Beta1</version>
       <version>17.0.0.Final</version>
@@ -60,7 +60,8 @@
       <version>29.0.1.Final</version>
       <version>30.0.0.Beta1</version>
       <version>30.0.0.Final</version>
+      <version>30.0.1.Final</version>
     </versions>
-    <lastUpdated>20231018154419</lastUpdated>
+    <lastUpdated>20231205145625</lastUpdated>
   </versioning>
 </metadata>
