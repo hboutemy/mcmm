@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.message.boards.layout.set.prototype</artifactId>
   <versioning>
-    <latest>5.0.15</latest>
-    <release>5.0.15</release>
+    <latest>1.0.38</latest>
+    <release>1.0.38</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -130,7 +130,8 @@
       <version>5.0.13</version>
       <version>5.0.14</version>
       <version>5.0.15</version>
+      <version>1.0.38</version>
     </versions>
-    <lastUpdated>20230807235447</lastUpdated>
+    <lastUpdated>20231206200305</lastUpdated>
   </versioning>
 </metadata>
