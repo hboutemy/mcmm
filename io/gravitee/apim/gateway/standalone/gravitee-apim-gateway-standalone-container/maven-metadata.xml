@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway.standalone</groupId>
   <artifactId>gravitee-apim-gateway-standalone-container</artifactId>
   <versioning>
-    <latest>4.1.4</latest>
-    <release>4.1.4</release>
+    <latest>4.1.5</latest>
+    <release>4.1.5</release>
     <versions>
       <version>3.5.25</version>
       <version>3.5.26</version>
@@ -147,6 +147,7 @@
       <version>3.20.22</version>
       <version>3.20.23</version>
       <version>3.20.24</version>
+      <version>3.20.25</version>
       <version>4.0.0-alpha.2</version>
       <version>4.0.0-alpha.3</version>
       <version>4.0.0-alpha.4</version>
@@ -164,12 +165,14 @@
       <version>4.0.11</version>
       <version>4.0.12</version>
       <version>4.0.13</version>
+      <version>4.0.14</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
       <version>4.1.2</version>
       <version>4.1.3</version>
       <version>4.1.4</version>
+      <version>4.1.5</version>
     </versions>
-    <lastUpdated>20231124150709</lastUpdated>
+    <lastUpdated>20231207160938</lastUpdated>
   </versioning>
 </metadata>
