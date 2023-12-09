@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>spring-boot-starter-camunda-connectors</artifactId>
   <versioning>
-    <latest>8.4.0-alpha1</latest>
-    <release>8.4.0-alpha1</release>
+    <latest>8.4.0-alpha2</latest>
+    <release>8.4.0-alpha2</release>
     <versions>
       <version>0.19.0-alpha1</version>
       <version>0.19.0-rc3</version>
@@ -33,8 +33,10 @@
       <version>0.23.0</version>
       <version>8.3.0</version>
       <version>8.3.1</version>
+      <version>8.3.2</version>
       <version>8.4.0-alpha1</version>
+      <version>8.4.0-alpha2</version>
     </versions>
-    <lastUpdated>20231113163355</lastUpdated>
+    <lastUpdated>20231208155444</lastUpdated>
   </versioning>
 </metadata>
