@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.ovsdb</groupId>
   <artifactId>southbound-it</artifactId>
   <versioning>
-    <latest>1.17.0</latest>
-    <release>1.17.0</release>
+    <latest>1.17.1</latest>
+    <release>1.17.1</release>
     <versions>
       <version>1.1.0-Lithium</version>
       <version>1.1.1-Lithium-SR1</version>
@@ -78,7 +78,8 @@
       <version>1.16.2</version>
       <version>1.16.3</version>
       <version>1.17.0</version>
+      <version>1.17.1</version>
     </versions>
-    <lastUpdated>20231106010259</lastUpdated>
+    <lastUpdated>20231210080811</lastUpdated>
   </versioning>
 </metadata>
