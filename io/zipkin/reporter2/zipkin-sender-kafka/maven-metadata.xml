@@ -3,8 +3,8 @@
   <groupId>io.zipkin.reporter2</groupId>
   <artifactId>zipkin-sender-kafka</artifactId>
   <versioning>
-    <latest>2.16.4</latest>
-    <release>2.16.4</release>
+    <latest>2.16.5</latest>
+    <release>2.16.5</release>
     <versions>
       <version>2.8.3</version>
       <version>2.8.4</version>
@@ -33,7 +33,8 @@
       <version>2.16.2</version>
       <version>2.16.3</version>
       <version>2.16.4</version>
+      <version>2.16.5</version>
     </versions>
-    <lastUpdated>20230428093658</lastUpdated>
+    <lastUpdated>20231211091748</lastUpdated>
   </versioning>
 </metadata>
