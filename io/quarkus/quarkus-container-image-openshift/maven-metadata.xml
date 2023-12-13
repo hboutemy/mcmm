@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image-openshift</artifactId>
   <versioning>
-    <latest>3.6.1</latest>
-    <release>3.6.1</release>
+    <latest>3.6.3</latest>
+    <release>3.6.3</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -199,7 +199,9 @@
       <version>3.6.0.CR1</version>
       <version>3.6.0</version>
       <version>3.6.1</version>
+      <version>3.6.2</version>
+      <version>3.6.3</version>
     </versions>
-    <lastUpdated>20231205162056</lastUpdated>
+    <lastUpdated>20231212194503</lastUpdated>
   </versioning>
 </metadata>

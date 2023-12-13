@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-runtime-jakarta-xml</artifactId>
   <versioning>
-    <latest>24.1.0.rc01</latest>
-    <release>24.1.0.rc01</release>
+    <latest>24.1.0.release</latest>
+    <release>24.1.0.release</release>
     <versions>
       <version>23.6.0.a20230301-01</version>
       <version>23.6.0.a20230310-01</version>
@@ -23,7 +23,8 @@
       <version>24.1.0.a20231023-01</version>
       <version>24.1.0.a20231027-01</version>
       <version>24.1.0.rc01</version>
+      <version>24.1.0.release</version>
     </versions>
-    <lastUpdated>20231121105958</lastUpdated>
+    <lastUpdated>20231212140502</lastUpdated>
   </versioning>
 </metadata>
