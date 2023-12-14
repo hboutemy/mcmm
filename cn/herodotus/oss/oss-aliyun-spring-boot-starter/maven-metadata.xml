@@ -3,8 +3,8 @@
   <groupId>cn.herodotus.oss</groupId>
   <artifactId>oss-aliyun-spring-boot-starter</artifactId>
   <versioning>
-    <latest>3.2.0.0</latest>
-    <release>3.2.0.0</release>
+    <latest>3.2.0.1</latest>
+    <release>3.2.0.1</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -33,11 +33,13 @@
       <version>3.1.5.8</version>
       <version>3.1.6.0</version>
       <version>3.1.6.1</version>
+      <version>3.1.6.2</version>
       <version>3.2.0-RC1</version>
       <version>3.2.0-RC2</version>
       <version>3.2.0-RC3</version>
       <version>3.2.0.0</version>
+      <version>3.2.0.1</version>
     </versions>
-    <lastUpdated>20231210101131</lastUpdated>
+    <lastUpdated>20231213093047</lastUpdated>
   </versioning>
 </metadata>
