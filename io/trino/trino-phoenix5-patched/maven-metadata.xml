@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-phoenix5-patched</artifactId>
   <versioning>
-    <latest>434</latest>
-    <release>434</release>
+    <latest>435</latest>
+    <release>435</release>
     <versions>
       <version>389</version>
       <version>390</version>
@@ -51,7 +51,8 @@
       <version>432</version>
       <version>433</version>
       <version>434</version>
+      <version>435</version>
     </versions>
-    <lastUpdated>20231130013328</lastUpdated>
+    <lastUpdated>20231214053158</lastUpdated>
   </versioning>
 </metadata>

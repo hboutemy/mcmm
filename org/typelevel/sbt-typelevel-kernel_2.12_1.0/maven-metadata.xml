@@ -3,8 +3,8 @@
   <groupId>org.typelevel</groupId>
   <artifactId>sbt-typelevel-kernel_2.12_1.0</artifactId>
   <versioning>
-    <latest>0.6.3</latest>
-    <release>0.6.3</release>
+    <latest>0.6.4</latest>
+    <release>0.6.4</release>
     <versions>
       <version>0.5.0-RC1</version>
       <version>0.5.0-RC2</version>
@@ -28,6 +28,7 @@
       <version>0.6.1</version>
       <version>0.6.2</version>
       <version>0.6.3</version>
+      <version>0.6.4</version>
       <version>0.4.0</version>
       <version>0.4.0-M1</version>
       <version>0.4.0-M2</version>
@@ -67,6 +68,6 @@
       <version>0.5.0-M8</version>
       <version>0.5.0-M9</version>
     </versions>
-    <lastUpdated>20231201195152</lastUpdated>
+    <lastUpdated>20231214093118</lastUpdated>
   </versioning>
 </metadata>
