@@ -3,12 +3,17 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-uzum-space</artifactId>
   <versioning>
-    <latest>1.5-3d0fc10-server</latest>
-    <release>1.5-3d0fc10-server</release>
+    <latest>1.9-7a60aae-server</latest>
+    <release>1.9-7a60aae-server</release>
     <versions>
       <version>1.5-3d0fc10-client</version>
       <version>1.5-3d0fc10-server</version>
+      <version>1.7-b0ba5d3-server</version>
+      <version>1.8-b227ddb-client</version>
+      <version>1.8-b227ddb-server</version>
+      <version>1.9-7a60aae-client</version>
+      <version>1.9-7a60aae-server</version>
     </versions>
-    <lastUpdated>20231214190025</lastUpdated>
+    <lastUpdated>20231217123807</lastUpdated>
   </versioning>
 </metadata>
