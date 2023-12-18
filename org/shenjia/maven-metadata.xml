@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>compressor-maven-plugin</name>
+      <prefix>compressor</prefix>
+      <artifactId>compressor-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>cryptor-maven-plugin</name>
+      <prefix>cryptor</prefix>
+      <artifactId>cryptor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

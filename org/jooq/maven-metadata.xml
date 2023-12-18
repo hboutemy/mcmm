@@ -6,5 +6,10 @@
       <prefix>jooq-codegen</prefix>
       <artifactId>jooq-codegen-maven</artifactId>
     </plugin>
+    <plugin>
+      <name>jOOQ Migrations Maven</name>
+      <prefix>jooq-migrations</prefix>
+      <artifactId>jooq-migrations-maven</artifactId>
+    </plugin>
   </plugins>
 </metadata>

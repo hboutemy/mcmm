@@ -4,7 +4,7 @@
   <artifactId>keycloak-federation-parent</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>23.0.2</release>
+    <release>23.0.3</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -157,8 +157,9 @@
       <version>23.0.0</version>
       <version>23.0.1</version>
       <version>23.0.2</version>
+      <version>23.0.3</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20231214192331</lastUpdated>
+    <lastUpdated>20231215133356</lastUpdated>
   </versioning>
 </metadata>

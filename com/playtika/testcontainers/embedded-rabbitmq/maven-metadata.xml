@@ -3,8 +3,8 @@
   <groupId>com.playtika.testcontainers</groupId>
   <artifactId>embedded-rabbitmq</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>1.23</version>
       <version>1.24</version>
@@ -109,7 +109,8 @@
       <version>3.0.5</version>
       <version>3.0.6</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20231208082419</lastUpdated>
+    <lastUpdated>20231215105252</lastUpdated>
   </versioning>
 </metadata>

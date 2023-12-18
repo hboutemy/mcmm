@@ -87,7 +87,7 @@
       <artifactId>camel-restdsl-openapi-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Swagger REST DSL Generator Maven plugin</name>
+      <name>Camel :: Maven Plugins :: Swagger REST DSL Generator Maven plugin (deprecated)</name>
       <prefix>camel-restdsl-swagger</prefix>
       <artifactId>camel-restdsl-swagger-plugin</artifactId>
     </plugin>

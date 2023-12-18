@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-hbase-starter</artifactId>
   <versioning>
-    <latest>3.21.2</latest>
-    <release>3.21.2</release>
+    <latest>3.21.3</latest>
+    <release>3.21.3</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -78,7 +78,8 @@
       <version>3.21.0</version>
       <version>3.21.1</version>
       <version>3.21.2</version>
+      <version>3.21.3</version>
     </versions>
-    <lastUpdated>20231213094205</lastUpdated>
+    <lastUpdated>20231215104805</lastUpdated>
   </versioning>
 </metadata>
