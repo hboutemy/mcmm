@@ -2,17 +2,17 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Camel :: Debezium :: Maven plugin</name>
+      <name>Camel :: Debezium :: Maven Plugin</name>
       <prefix>camel-debezium</prefix>
       <artifactId>camel-debezium-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Salesforce :: Maven plugin</name>
+      <name>Camel :: Salesforce :: Maven Plugin</name>
       <prefix>camel-salesforce</prefix>
       <artifactId>camel-salesforce-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: ServiceNow :: Maven plugin</name>
+      <name>Camel :: ServiceNow :: Maven Plugin</name>
       <prefix>camel-servicenow</prefix>
       <artifactId>camel-servicenow-maven-plugin</artifactId>
     </plugin>

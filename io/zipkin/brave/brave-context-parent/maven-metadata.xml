@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-context-parent</artifactId>
   <versioning>
-    <latest>5.16.0</latest>
-    <release>5.16.0</release>
+    <latest>5.17.0</latest>
+    <release>5.17.0</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -125,7 +125,8 @@
       <version>5.15.0</version>
       <version>5.15.1</version>
       <version>5.16.0</version>
+      <version>5.17.0</version>
     </versions>
-    <lastUpdated>20230511065929</lastUpdated>
+    <lastUpdated>20231218062936</lastUpdated>
   </versioning>
 </metadata>

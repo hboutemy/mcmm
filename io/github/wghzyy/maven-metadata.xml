@@ -5,5 +5,10 @@
       <prefix>io.github.wghzyy</prefix>
       <artifactId>io.github.wghzyy</artifactId>
     </plugin>
+    <plugin>
+      <name>maven-plugin</name>
+      <prefix></prefix>
+      <artifactId>maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
