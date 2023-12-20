@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-liquibase-deployment</artifactId>
   <versioning>
-    <latest>3.6.3</latest>
-    <release>3.6.3</release>
+    <latest>3.6.4</latest>
+    <release>3.6.4</release>
     <versions>
       <version>1.3.0.CR2</version>
       <version>1.3.0.Final</version>
@@ -232,7 +232,8 @@
       <version>3.6.1</version>
       <version>3.6.2</version>
       <version>3.6.3</version>
+      <version>3.6.4</version>
     </versions>
-    <lastUpdated>20231212194645</lastUpdated>
+    <lastUpdated>20231219163554</lastUpdated>
   </versioning>
 </metadata>
