@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-cassandra-4</artifactId>
   <versioning>
-    <latest>2.5.0.CR1</latest>
-    <release>2.5.0.CR1</release>
+    <latest>2.5.0.Final</latest>
+    <release>2.5.0.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -60,7 +60,8 @@
       <version>2.5.0.Alpha2</version>
       <version>2.5.0.Beta1</version>
       <version>2.5.0.CR1</version>
+      <version>2.5.0.Final</version>
     </versions>
-    <lastUpdated>20231215181645</lastUpdated>
+    <lastUpdated>20231221093622</lastUpdated>
   </versioning>
 </metadata>
