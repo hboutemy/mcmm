@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Delayed Deployment Plugin for Maven</name>
+      <prefix>delayment</prefix>
+      <artifactId>delayment-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
