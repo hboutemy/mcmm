@@ -12,7 +12,7 @@
       <artifactId>plexus-appserver-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Plexus :: Component Metadata (Maven Plugin)</name>
+      <name>Plexus :: Component Metadata (Maven Plugin) (deprecated)</name>
       <prefix>plexus-component-metadata</prefix>
       <artifactId>plexus-component-metadata</artifactId>
     </plugin>
