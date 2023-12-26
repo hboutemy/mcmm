@@ -16,5 +16,10 @@
       <prefix>jeo</prefix>
       <artifactId>jeo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>opeo-maven-plugin</name>
+      <prefix>opeo</prefix>
+      <artifactId>opeo-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
