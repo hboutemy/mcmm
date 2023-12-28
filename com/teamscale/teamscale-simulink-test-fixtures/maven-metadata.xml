@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-simulink-test-fixtures</artifactId>
   <versioning>
-    <latest>9.4.0-rc3</latest>
-    <release>9.4.0-rc3</release>
+    <latest>9.4.0-rc4</latest>
+    <release>9.4.0-rc4</release>
     <versions>
       <version>6.1.0-rc1</version>
       <version>6.1.0-rc2</version>
@@ -574,6 +574,7 @@
       <version>9.2.9</version>
       <version>9.2.10</version>
       <version>9.2.11</version>
+      <version>9.2.12</version>
       <version>9.3.0-rc1</version>
       <version>9.3.0-rc2</version>
       <version>9.3.0-rc3</version>
@@ -583,10 +584,12 @@
       <version>9.3.3</version>
       <version>9.3.4</version>
       <version>9.3.5</version>
+      <version>9.3.6</version>
       <version>9.4.0-rc1</version>
       <version>9.4.0-rc2</version>
       <version>9.4.0-rc3</version>
+      <version>9.4.0-rc4</version>
     </versions>
-    <lastUpdated>20231219131908</lastUpdated>
+    <lastUpdated>20231227163411</lastUpdated>
   </versioning>
 </metadata>
