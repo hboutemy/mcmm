@@ -3,8 +3,8 @@
   <groupId>cn.404z</groupId>
   <artifactId>tiny-token-spring-boot-starter</artifactId>
   <versioning>
-    <latest>1.6.0.low.lite</latest>
-    <release>1.6.0.low.lite</release>
+    <latest>1.6.1.low.lite</latest>
+    <release>1.6.1.low.lite</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -21,7 +21,12 @@
       <version>1.5.0.low</version>
       <version>1.6.0.lite</version>
       <version>1.6.0.low.lite</version>
+      <version>1.6.1</version>
+      <version>1.6.1.auth</version>
+      <version>1.6.1.lite</version>
+      <version>1.6.1.low</version>
+      <version>1.6.1.low.lite</version>
     </versions>
-    <lastUpdated>20231227071918</lastUpdated>
+    <lastUpdated>20231228034144</lastUpdated>
   </versioning>
 </metadata>

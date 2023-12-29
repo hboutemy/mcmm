@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-binding-dom-codec</artifactId>
   <versioning>
-    <latest>12.0.3</latest>
-    <release>12.0.3</release>
+    <latest>12.0.4</latest>
+    <release>12.0.4</release>
     <versions>
       <version>0.8.0-Beryllium</version>
       <version>0.8.1-Beryllium-SR1</version>
@@ -171,7 +171,8 @@
       <version>12.0.1</version>
       <version>12.0.2</version>
       <version>12.0.3</version>
+      <version>12.0.4</version>
     </versions>
-    <lastUpdated>20231030190519</lastUpdated>
+    <lastUpdated>20231228142114</lastUpdated>
   </versioning>
 </metadata>
