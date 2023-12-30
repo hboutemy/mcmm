@@ -3,8 +3,8 @@
   <groupId>io.github.jan-tennert.supabase</groupId>
   <artifactId>bom</artifactId>
   <versioning>
-    <latest>2.0.2-wasm0</latest>
-    <release>2.0.2-wasm0</release>
+    <latest>2.0.3-dev</latest>
+    <release>2.0.3-dev</release>
     <versions>
       <version>0.6.0-beta-1</version>
       <version>0.6.0-RC-1</version>
@@ -135,7 +135,8 @@
       <version>2.0.2</version>
       <version>2.0.2-dev</version>
       <version>2.0.2-wasm0</version>
+      <version>2.0.3-dev</version>
     </versions>
-    <lastUpdated>20231227144036</lastUpdated>
+    <lastUpdated>20231229230153</lastUpdated>
   </versioning>
 </metadata>

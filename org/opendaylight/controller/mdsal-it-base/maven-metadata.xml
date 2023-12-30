@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>mdsal-it-base</artifactId>
   <versioning>
-    <latest>8.0.3</latest>
-    <release>8.0.3</release>
+    <latest>8.0.4</latest>
+    <release>8.0.4</release>
     <versions>
       <version>1.3.0-Beryllium</version>
       <version>1.3.1-Beryllium-SR1</version>
@@ -126,7 +126,8 @@
       <version>8.0.1</version>
       <version>8.0.2</version>
       <version>8.0.3</version>
+      <version>8.0.4</version>
     </versions>
-    <lastUpdated>20231031094046</lastUpdated>
+    <lastUpdated>20231229062034</lastUpdated>
   </versioning>
 </metadata>
