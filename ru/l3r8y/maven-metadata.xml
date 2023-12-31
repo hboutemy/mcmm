@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>oop-cop</name>
+      <prefix>oop-cop</prefix>
+      <artifactId>oop-cop</artifactId>
+    </plugin>
+    <plugin>
       <name>sa-tan</name>
       <prefix>sa-tan</prefix>
       <artifactId>sa-tan</artifactId>
