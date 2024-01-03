@@ -3,8 +3,8 @@
   <groupId>io.quarkus.http</groupId>
   <artifactId>quarkus-http-websocket-servlet</artifactId>
   <versioning>
-    <latest>5.0.3.Final</latest>
-    <release>5.0.3.Final</release>
+    <latest>5.1.0.Final</latest>
+    <release>5.1.0.Final</release>
     <versions>
       <version>3.1.1.Final</version>
       <version>4.0.0</version>
@@ -25,12 +25,13 @@
       <version>5.0.1.Final</version>
       <version>5.0.2.Final</version>
       <version>5.0.3.Final</version>
+      <version>5.1.0.Final</version>
       <version>3.1.0.Beta1</version>
       <version>3.1.0.Beta2</version>
       <version>3.1.0.Final</version>
       <version>4.0.0.Alpha3</version>
       <version>4.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20230901130915</lastUpdated>
+    <lastUpdated>20240102150558</lastUpdated>
   </versioning>
 </metadata>
