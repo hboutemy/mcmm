@@ -3,8 +3,8 @@
   <groupId>com.vesoft</groupId>
   <artifactId>nebula-flink-connector</artifactId>
   <versioning>
-    <latest>3.5.0</latest>
-    <release>3.5.0</release>
+    <latest>3.7.0-auth</latest>
+    <release>3.7.0-auth</release>
     <versions>
       <version>2.0.0</version>
       <version>2.5.0</version>
@@ -13,7 +13,8 @@
       <version>3.0.0</version>
       <version>3.3.0</version>
       <version>3.5.0</version>
+      <version>3.7.0-auth</version>
     </versions>
-    <lastUpdated>20230519022855</lastUpdated>
+    <lastUpdated>20240103084131</lastUpdated>
   </versioning>
 </metadata>

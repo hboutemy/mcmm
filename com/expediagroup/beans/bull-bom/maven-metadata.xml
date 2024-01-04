@@ -3,8 +3,8 @@
   <groupId>com.expediagroup.beans</groupId>
   <artifactId>bull-bom</artifactId>
   <versioning>
-    <latest>2.2.3</latest>
-    <release>2.2.3</release>
+    <latest>2.2.4</latest>
+    <release>2.2.4</release>
     <versions>
       <version>2.0.0-jdk11</version>
       <version>2.0.1-jdk11</version>
@@ -15,11 +15,13 @@
       <version>2.1.2</version>
       <version>2.1.2-jdk11</version>
       <version>2.1.3-jdk11</version>
+      <version>2.1.4-jdk11</version>
       <version>2.2.0</version>
       <version>2.2.1</version>
       <version>2.2.2</version>
       <version>2.2.3</version>
+      <version>2.2.4</version>
     </versions>
-    <lastUpdated>20221201110518</lastUpdated>
+    <lastUpdated>20240103144230</lastUpdated>
   </versioning>
 </metadata>
