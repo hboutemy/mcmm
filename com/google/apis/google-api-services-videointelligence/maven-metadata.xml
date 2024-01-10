@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-videointelligence</artifactId>
   <versioning>
-    <latest>v1-rev20230706-2.0.0</latest>
-    <release>v1-rev20230706-2.0.0</release>
+    <latest>v1-rev20231214-2.0.0</latest>
+    <release>v1-rev20231214-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -219,6 +219,7 @@
       <version>v1beta2-rev20210902-1.32.1</version>
       <version>v1beta2-rev20210902-2.0.0</version>
       <version>v1beta2-rev20230706-2.0.0</version>
+      <version>v1beta2-rev20231214-2.0.0</version>
       <version>v1p1beta1-rev1-1.18.0-rc</version>
       <version>v1p1beta1-rev1-1.22.0</version>
       <version>v1p1beta1-rev1-1.23.0</version>
@@ -298,6 +299,7 @@
       <version>v1p1beta1-rev20210902-1.32.1</version>
       <version>v1p1beta1-rev20210902-2.0.0</version>
       <version>v1p1beta1-rev20230706-2.0.0</version>
+      <version>v1p1beta1-rev20231214-2.0.0</version>
       <version>v1p2beta1-rev3-1.18.0-rc</version>
       <version>v1p2beta1-rev3-1.22.0</version>
       <version>v1p2beta1-rev3-1.23.0</version>
@@ -346,6 +348,7 @@
       <version>v1p2beta1-rev20210902-1.32.1</version>
       <version>v1p2beta1-rev20210902-2.0.0</version>
       <version>v1p2beta1-rev20230706-2.0.0</version>
+      <version>v1p2beta1-rev20231214-2.0.0</version>
       <version>v1p3beta1-rev1-1.18.0-rc</version>
       <version>v1p3beta1-rev1-1.22.0</version>
       <version>v1p3beta1-rev1-1.23.0</version>
@@ -387,6 +390,7 @@
       <version>v1p3beta1-rev20210902-1.32.1</version>
       <version>v1p3beta1-rev20210902-2.0.0</version>
       <version>v1p3beta1-rev20230706-2.0.0</version>
+      <version>v1p3beta1-rev20231214-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -510,7 +514,8 @@
       <version>v1-rev20190308-1.28.0</version>
       <version>v1-rev20230303-2.0.0</version>
       <version>v1-rev20230706-2.0.0</version>
+      <version>v1-rev20231214-2.0.0</version>
     </versions>
-    <lastUpdated>20230812095205</lastUpdated>
+    <lastUpdated>20240109213127</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.testsuite</groupId>
   <artifactId>nexus-it-suite</artifactId>
   <versioning>
-    <latest>3.64.0-01</latest>
-    <release>3.64.0-01</release>
+    <latest>3.64.0-03</latest>
+    <release>3.64.0-03</release>
     <versions>
       <version>3.17.0-01</version>
       <version>3.17.1-01</version>
@@ -104,7 +104,8 @@
       <version>3.62.0-01</version>
       <version>3.63.0-01</version>
       <version>3.64.0-01</version>
+      <version>3.64.0-03</version>
     </versions>
-    <lastUpdated>20231222010018</lastUpdated>
+    <lastUpdated>20240109143457</lastUpdated>
   </versioning>
 </metadata>
