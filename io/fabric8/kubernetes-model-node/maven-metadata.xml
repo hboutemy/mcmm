@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>kubernetes-model-node</artifactId>
   <versioning>
-    <latest>6.9.2</latest>
-    <release>6.9.2</release>
+    <latest>6.10.0</latest>
+    <release>6.10.0</release>
     <versions>
       <version>4.13.0</version>
       <version>4.13.1</version>
@@ -72,7 +72,8 @@
       <version>6.9.0</version>
       <version>6.9.1</version>
       <version>6.9.2</version>
+      <version>6.10.0</version>
     </versions>
-    <lastUpdated>20231102130441</lastUpdated>
+    <lastUpdated>20240110121817</lastUpdated>
   </versioning>
 </metadata>

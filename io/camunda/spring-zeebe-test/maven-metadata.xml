@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>spring-zeebe-test</artifactId>
   <versioning>
-    <latest>8.4.0-rc1</latest>
-    <release>8.4.0-rc1</release>
+    <latest>8.4.0-rc3</latest>
+    <release>8.4.0-rc3</release>
     <versions>
       <version>1.0.0-rc2</version>
       <version>1.0.0-rc3</version>
@@ -83,6 +83,8 @@
       <version>8.3.4.4</version>
       <version>8.3.4.5</version>
       <version>8.3.4.6</version>
+      <version>8.3.4.7</version>
+      <version>8.3.4.8</version>
       <version>8.4.0-alpha2-rc1</version>
       <version>8.4.0-alpha2-rc2</version>
       <version>8.4.0-alpha2-rc3</version>
@@ -90,7 +92,9 @@
       <version>8.4.0-alpha2-rc5</version>
       <version>8.4.0-alpha2-rc6</version>
       <version>8.4.0-rc1</version>
+      <version>8.4.0-rc2</version>
+      <version>8.4.0-rc3</version>
     </versions>
-    <lastUpdated>20240109180012</lastUpdated>
+    <lastUpdated>20240110182348</lastUpdated>
   </versioning>
 </metadata>

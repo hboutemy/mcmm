@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-okta</artifactId>
   <versioning>
-    <latest>12.0.5</latest>
-    <release>12.0.5</release>
+    <latest>13.0.0</latest>
+    <release>13.0.0</release>
     <versions>
       <version>0.0.3</version>
       <version>0.0.9</version>
@@ -347,7 +347,8 @@
       <version>12.0.3</version>
       <version>12.0.4</version>
       <version>12.0.5</version>
+      <version>13.0.0</version>
     </versions>
-    <lastUpdated>20231130031643</lastUpdated>
+    <lastUpdated>20240110115305</lastUpdated>
   </versioning>
 </metadata>

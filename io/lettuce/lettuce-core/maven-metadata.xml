@@ -3,8 +3,8 @@
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
   <versioning>
-    <latest>6.3.0.RELEASE</latest>
-    <release>6.3.0.RELEASE</release>
+    <latest>6.3.1.RELEASE</latest>
+    <release>6.3.1.RELEASE</release>
     <versions>
       <version>5.0.0.M2</version>
       <version>5.0.0.RC1</version>
@@ -72,7 +72,8 @@
       <version>6.2.6.RELEASE</version>
       <version>6.2.7.RELEASE</version>
       <version>6.3.0.RELEASE</version>
+      <version>6.3.1.RELEASE</version>
     </versions>
-    <lastUpdated>20231115093917</lastUpdated>
+    <lastUpdated>20240110090926</lastUpdated>
   </versioning>
 </metadata>
