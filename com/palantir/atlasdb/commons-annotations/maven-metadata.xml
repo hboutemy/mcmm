@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>commons-annotations</artifactId>
   <versioning>
-    <latest>0.1007.0-rc2</latest>
-    <release>0.1007.0-rc2</release>
+    <latest>0.1010.0-rc1</latest>
+    <release>0.1010.0-rc1</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -829,7 +829,12 @@
       <version>0.1006.0</version>
       <version>0.1007.0-rc1</version>
       <version>0.1007.0-rc2</version>
+      <version>0.1009.0-rc1</version>
+      <version>0.1009.0-rc2</version>
+      <version>0.1009.0-rc4</version>
+      <version>0.1009.0</version>
+      <version>0.1010.0-rc1</version>
     </versions>
-    <lastUpdated>20240110225926</lastUpdated>
+    <lastUpdated>20240111234508</lastUpdated>
   </versioning>
 </metadata>
