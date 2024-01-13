@@ -6,5 +6,30 @@
       <prefix>arcmutate</prefix>
       <artifactId>arcmutate-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>pitest-azure-maven</name>
+      <prefix>pitest-azure</prefix>
+      <artifactId>pitest-azure-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>pitest-bitbucket-maven</name>
+      <prefix>pitest-bitbucket</prefix>
+      <artifactId>pitest-bitbucket-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>pitest-git-maven</name>
+      <prefix>pitest-git</prefix>
+      <artifactId>pitest-git-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>pitest-github-maven</name>
+      <prefix>pitest-github</prefix>
+      <artifactId>pitest-github-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>pitest-gitlab-maven</name>
+      <prefix>pitest-gitlab</prefix>
+      <artifactId>pitest-gitlab-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

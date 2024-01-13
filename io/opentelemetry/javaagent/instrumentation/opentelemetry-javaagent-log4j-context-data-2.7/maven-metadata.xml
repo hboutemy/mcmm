@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-log4j-context-data-2.7</artifactId>
   <versioning>
-    <latest>1.32.0-alpha</latest>
-    <release>1.32.0-alpha</release>
+    <latest>2.0.0-alpha</latest>
+    <release>2.0.0-alpha</release>
     <versions>
       <version>1.10.0-alpha</version>
       <version>1.10.1-alpha</version>
@@ -39,7 +39,8 @@
       <version>1.30.0-alpha</version>
       <version>1.31.0-alpha</version>
       <version>1.32.0-alpha</version>
+      <version>2.0.0-alpha</version>
     </versions>
-    <lastUpdated>20231118012953</lastUpdated>
+    <lastUpdated>20240112221242</lastUpdated>
   </versioning>
 </metadata>
