@@ -6,5 +6,10 @@
       <prefix>artifact-spy</prefix>
       <artifactId>artifact-spy-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Unleash Maven Plugin</name>
+      <prefix>unleash</prefix>
+      <artifactId>unleash-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
