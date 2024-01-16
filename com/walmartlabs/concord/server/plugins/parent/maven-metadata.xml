@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.server.plugins</groupId>
   <artifactId>parent</artifactId>
   <versioning>
-    <latest>2.7.0</latest>
-    <release>2.7.0</release>
+    <latest>2.8.0</latest>
+    <release>2.8.0</release>
     <versions>
       <version>1.18.0</version>
       <version>1.18.1</version>
@@ -144,7 +144,8 @@
       <version>2.5.0</version>
       <version>2.6.0</version>
       <version>2.7.0</version>
+      <version>2.8.0</version>
     </versions>
-    <lastUpdated>20240108152412</lastUpdated>
+    <lastUpdated>20240115201149</lastUpdated>
   </versioning>
 </metadata>

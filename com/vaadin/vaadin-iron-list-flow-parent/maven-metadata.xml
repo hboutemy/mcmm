@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-iron-list-flow-parent</artifactId>
   <versioning>
-    <latest>23.3.31</latest>
-    <release>23.3.31</release>
+    <latest>23.3.32</latest>
+    <release>23.3.32</release>
     <versions>
       <version>1.3.0</version>
       <version>2.0.0</version>
@@ -83,6 +83,7 @@
       <version>14.10.12</version>
       <version>14.11.0</version>
       <version>14.11.1</version>
+      <version>14.11.2</version>
       <version>18.0.0</version>
       <version>18.0.1</version>
       <version>18.0.2</version>
@@ -242,7 +243,8 @@
       <version>23.3.29</version>
       <version>23.3.30</version>
       <version>23.3.31</version>
+      <version>23.3.32</version>
     </versions>
-    <lastUpdated>20240108121837</lastUpdated>
+    <lastUpdated>20240115133519</lastUpdated>
   </versioning>
 </metadata>
