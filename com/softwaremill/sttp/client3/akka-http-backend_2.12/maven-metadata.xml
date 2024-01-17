@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.client3</groupId>
   <artifactId>akka-http-backend_2.12</artifactId>
   <versioning>
-    <latest>3.9.1</latest>
-    <release>3.9.1</release>
+    <latest>3.9.2</latest>
+    <release>3.9.2</release>
     <versions>
       <version>3.0.0-RC4</version>
       <version>3.0.0-RC5</version>
@@ -83,7 +83,8 @@
       <version>3.8.16</version>
       <version>3.9.0</version>
       <version>3.9.1</version>
+      <version>3.9.2</version>
     </versions>
-    <lastUpdated>20231108094540</lastUpdated>
+    <lastUpdated>20240116132914</lastUpdated>
   </versioning>
 </metadata>

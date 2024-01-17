@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-orc</artifactId>
   <versioning>
-    <latest>1.18.0</latest>
-    <release>1.18.0</release>
+    <latest>1.18.1</latest>
+    <release>1.18.1</release>
     <versions>
       <version>1.15.0</version>
       <version>1.15.1</version>
@@ -19,7 +19,8 @@
       <version>1.17.1</version>
       <version>1.17.2</version>
       <version>1.18.0</version>
+      <version>1.18.1</version>
     </versions>
-    <lastUpdated>20231128052615</lastUpdated>
+    <lastUpdated>20240116072256</lastUpdated>
   </versioning>
 </metadata>
