@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-amazon-lambda-xray-parent</artifactId>
   <versioning>
-    <latest>3.6.6</latest>
-    <release>3.6.6</release>
+    <latest>3.7.0.CR1</latest>
+    <release>3.7.0.CR1</release>
     <versions>
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
@@ -237,7 +237,8 @@
       <version>3.6.4</version>
       <version>3.6.5</version>
       <version>3.6.6</version>
+      <version>3.7.0.CR1</version>
     </versions>
-    <lastUpdated>20240116112228</lastUpdated>
+    <lastUpdated>20240117124030</lastUpdated>
   </versioning>
 </metadata>

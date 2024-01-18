@@ -3,8 +3,8 @@
   <groupId>com.gammarer</groupId>
   <artifactId>aws-rds-database-running-scheduler</artifactId>
   <versioning>
-    <latest>0.5.15</latest>
-    <release>0.5.15</release>
+    <latest>1.1.1</latest>
+    <release>1.1.1</release>
     <versions>
       <version>0.3.34</version>
       <version>0.3.35</version>
@@ -41,7 +41,10 @@
       <version>0.5.13</version>
       <version>0.5.14</version>
       <version>0.5.15</version>
+      <version>1.0.0</version>
+      <version>1.1.0</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20231227162324</lastUpdated>
+    <lastUpdated>20240117162636</lastUpdated>
   </versioning>
 </metadata>
