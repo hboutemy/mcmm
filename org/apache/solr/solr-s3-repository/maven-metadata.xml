@@ -3,8 +3,8 @@
   <groupId>org.apache.solr</groupId>
   <artifactId>solr-s3-repository</artifactId>
   <versioning>
-    <latest>9.4.0</latest>
-    <release>9.4.0</release>
+    <latest>9.4.1</latest>
+    <release>9.4.1</release>
     <versions>
       <version>8.10.0</version>
       <version>8.10.1</version>
@@ -18,7 +18,8 @@
       <version>9.2.1</version>
       <version>9.3.0</version>
       <version>9.4.0</version>
+      <version>9.4.1</version>
     </versions>
-    <lastUpdated>20231015021820</lastUpdated>
+    <lastUpdated>20240118153708</lastUpdated>
   </versioning>
 </metadata>
