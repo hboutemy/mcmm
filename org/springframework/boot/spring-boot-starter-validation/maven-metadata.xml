@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-validation</artifactId>
   <versioning>
-    <latest>3.2.1</latest>
-    <release>3.2.1</release>
+    <latest>3.2.2</latest>
+    <release>3.2.2</release>
     <versions>
       <version>1.3.0.RELEASE</version>
       <version>1.3.1.RELEASE</version>
@@ -189,9 +189,11 @@
       <version>3.1.5</version>
       <version>3.1.6</version>
       <version>3.1.7</version>
+      <version>3.1.8</version>
       <version>3.2.0</version>
       <version>3.2.1</version>
+      <version>3.2.2</version>
     </versions>
-    <lastUpdated>20231221125454</lastUpdated>
+    <lastUpdated>20240119192659</lastUpdated>
   </versioning>
 </metadata>

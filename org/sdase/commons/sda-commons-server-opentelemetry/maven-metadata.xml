@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-server-opentelemetry</artifactId>
   <versioning>
-    <latest>6.1.3</latest>
-    <release>6.1.3</release>
+    <latest>6.1.6</latest>
+    <release>6.1.6</release>
     <versions>
       <version>3.0.0-alpha.1</version>
       <version>3.0.0-alpha.2</version>
@@ -302,7 +302,10 @@
       <version>6.1.1</version>
       <version>6.1.2</version>
       <version>6.1.3</version>
+      <version>6.1.4</version>
+      <version>6.1.5</version>
+      <version>6.1.6</version>
     </versions>
-    <lastUpdated>20240118175337</lastUpdated>
+    <lastUpdated>20240119172235</lastUpdated>
   </versioning>
 </metadata>
