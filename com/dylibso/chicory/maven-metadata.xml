@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Chicory - Test Gen Maven Plugin</name>
+      <prefix>test-gen</prefix>
+      <artifactId>test-gen-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Chicory - Wasm Support Maven Plugin</name>
+      <prefix>wasm-support</prefix>
+      <artifactId>wasm-support-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

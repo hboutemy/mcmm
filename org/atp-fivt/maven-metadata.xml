@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven project export plugin</name>
+      <prefix>export</prefix>
+      <artifactId>export-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
