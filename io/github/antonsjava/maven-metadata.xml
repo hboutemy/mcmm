@@ -6,5 +6,10 @@
       <prefix>sb-splitter</prefix>
       <artifactId>sb-splitter-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>script-plugin</name>
+      <prefix>script</prefix>
+      <artifactId>script-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

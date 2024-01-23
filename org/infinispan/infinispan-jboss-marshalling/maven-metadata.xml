@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-jboss-marshalling</artifactId>
   <versioning>
-    <latest>15.0.0.Dev06</latest>
-    <release>15.0.0.Dev06</release>
+    <latest>15.0.0.Dev07</latest>
+    <release>15.0.0.Dev07</release>
     <versions>
       <version>10.0.0.Beta5</version>
       <version>10.0.0.CR1</version>
@@ -136,14 +136,16 @@
       <version>14.0.19.Final</version>
       <version>14.0.20.Final</version>
       <version>14.0.21.Final</version>
+      <version>14.0.22.Final</version>
       <version>15.0.0.Dev01</version>
       <version>15.0.0.Dev02</version>
       <version>15.0.0.Dev03</version>
       <version>15.0.0.Dev04</version>
       <version>15.0.0.Dev05</version>
       <version>15.0.0.Dev06</version>
+      <version>15.0.0.Dev07</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20231222085134</lastUpdated>
+    <lastUpdated>20240122160050</lastUpdated>
   </versioning>
 </metadata>
