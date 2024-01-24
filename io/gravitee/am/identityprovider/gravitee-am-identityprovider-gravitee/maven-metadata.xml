@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-gravitee</artifactId>
   <versioning>
-    <latest>4.2.1</latest>
-    <release>4.2.1</release>
+    <latest>4.2.2</latest>
+    <release>4.2.2</release>
     <versions>
       <version>3.10.0</version>
       <version>3.10.1</version>
@@ -154,6 +154,7 @@
       <version>4.0.5</version>
       <version>4.0.6</version>
       <version>4.0.7</version>
+      <version>4.0.9</version>
       <version>4.1.0-alpha.2</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
@@ -166,10 +167,12 @@
       <version>4.1.8</version>
       <version>4.1.9</version>
       <version>4.1.10</version>
+      <version>4.1.11</version>
       <version>4.2.0-alpha.1</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
+      <version>4.2.2</version>
     </versions>
-    <lastUpdated>20240122182333</lastUpdated>
+    <lastUpdated>20240123144838</lastUpdated>
   </versioning>
 </metadata>

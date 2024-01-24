@@ -3,8 +3,8 @@
   <groupId>it.unibo.alchemist</groupId>
   <artifactId>alchemist-web-renderer-jvm</artifactId>
   <versioning>
-    <latest>29.5.1</latest>
-    <release>29.5.1</release>
+    <latest>30.0.1</latest>
+    <release>30.0.1</release>
     <versions>
       <version>25.14.4</version>
       <version>25.14.5</version>
@@ -62,7 +62,9 @@
       <version>29.4.0</version>
       <version>29.5.0</version>
       <version>29.5.1</version>
+      <version>30.0.0</version>
+      <version>30.0.1</version>
     </versions>
-    <lastUpdated>20240121125937</lastUpdated>
+    <lastUpdated>20240123203354</lastUpdated>
   </versioning>
 </metadata>

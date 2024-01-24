@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-subsystem-test-tests</artifactId>
   <versioning>
-    <latest>23.0.0.Final</latest>
-    <release>23.0.0.Final</release>
+    <latest>23.0.1.Final</latest>
+    <release>23.0.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -367,7 +367,8 @@
       <version>23.0.0.Beta4</version>
       <version>23.0.0.Beta5</version>
       <version>23.0.0.Final</version>
+      <version>23.0.1.Final</version>
     </versions>
-    <lastUpdated>20240122123808</lastUpdated>
+    <lastUpdated>20240123105548</lastUpdated>
   </versioning>
 </metadata>

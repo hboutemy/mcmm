@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>test-evidence-scalatest_2.13</artifactId>
   <versioning>
-    <latest>3.0.0-snapshot.20240119.12605.0.vaa5f01df</latest>
-    <release>3.0.0-snapshot.20240119.12605.0.vaa5f01df</release>
+    <latest>3.0.0-snapshot.20240122.12612.0.v3b5dce66</latest>
+    <release>3.0.0-snapshot.20240122.12612.0.v3b5dce66</release>
     <versions>
       <version>2.1.0-snapshot.20220322.9591.0.d10f6785</version>
       <version>2.1.0-snapshot.20220323.9607.0.a88079e4</version>
@@ -523,6 +523,7 @@
       <version>2.8.0-snapshot.20231206.12407.0.vb5eee4a3</version>
       <version>2.8.0-snapshot.20231208.12408.0.v26c09db6</version>
       <version>2.8.0</version>
+      <version>2.8.1-snapshot.20240122.12412.0.vdb13f8a1</version>
       <version>2.9.0-snapshot.20231123.12407.0.v7070966b</version>
       <version>2.9.0-snapshot.20231124.12411.0.v646a74e2</version>
       <version>2.9.0-snapshot.20231125.12413.0.v5775dc1f</version>
@@ -553,6 +554,7 @@
       <version>2.9.0-snapshot.20240117.12568.0.v33ead92f</version>
       <version>2.9.0-snapshot.20240118.12569.0.va1512fac</version>
       <version>2.9.0-snapshot.20240119.12571.0.va0af76d3</version>
+      <version>2.9.0-snapshot.20240122.12575.0.va7068332</version>
       <version>3.0.0-snapshot.20240109.12547.0.v54009a41</version>
       <version>3.0.0-snapshot.20240110.12560.0.v57656042</version>
       <version>3.0.0-snapshot.20240111.12564.0.v88a271b5</version>
@@ -563,7 +565,8 @@
       <version>3.0.0-snapshot.20240117.12593.0.vc6cf5b78</version>
       <version>3.0.0-snapshot.20240118.12598.0.v39ea5890</version>
       <version>3.0.0-snapshot.20240119.12605.0.vaa5f01df</version>
+      <version>3.0.0-snapshot.20240122.12612.0.v3b5dce66</version>
     </versions>
-    <lastUpdated>20240121013317</lastUpdated>
+    <lastUpdated>20240123221756</lastUpdated>
   </versioning>
 </metadata>

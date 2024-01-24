@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-core-feature-pack-parent</artifactId>
   <versioning>
-    <latest>23.0.0.Final</latest>
-    <release>23.0.0.Final</release>
+    <latest>23.0.1.Final</latest>
+    <release>23.0.1.Final</release>
     <versions>
       <version>13.0.0.Beta1</version>
       <version>13.0.0.Beta2</version>
@@ -108,7 +108,8 @@
       <version>23.0.0.Beta4</version>
       <version>23.0.0.Beta5</version>
       <version>23.0.0.Final</version>
+      <version>23.0.1.Final</version>
     </versions>
-    <lastUpdated>20240122123753</lastUpdated>
+    <lastUpdated>20240123105534</lastUpdated>
   </versioning>
 </metadata>

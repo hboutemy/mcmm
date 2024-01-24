@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-installation-manager</artifactId>
   <versioning>
-    <latest>23.0.0.Final</latest>
-    <release>23.0.0.Final</release>
+    <latest>23.0.1.Final</latest>
+    <release>23.0.1.Final</release>
     <versions>
       <version>21.0.0.Beta1</version>
       <version>21.0.0.Beta2</version>
@@ -26,7 +26,8 @@
       <version>23.0.0.Beta4</version>
       <version>23.0.0.Beta5</version>
       <version>23.0.0.Final</version>
+      <version>23.0.1.Final</version>
     </versions>
-    <lastUpdated>20240122123800</lastUpdated>
+    <lastUpdated>20240123105540</lastUpdated>
   </versioning>
 </metadata>
