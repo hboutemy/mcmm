@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-spanner</artifactId>
   <versioning>
-    <latest>v1-rev20240104-2.0.0</latest>
-    <release>v1-rev20240104-2.0.0</release>
+    <latest>v1-rev20240120-2.0.0</latest>
+    <release>v1-rev20240120-2.0.0</release>
     <versions>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.20.0</version>
@@ -346,7 +346,8 @@
       <version>v1-rev20231101-2.0.0</version>
       <version>v1-rev20231202-2.0.0</version>
       <version>v1-rev20240104-2.0.0</version>
+      <version>v1-rev20240120-2.0.0</version>
     </versions>
-    <lastUpdated>20240109145758</lastUpdated>
+    <lastUpdated>20240124103020</lastUpdated>
   </versioning>
 </metadata>

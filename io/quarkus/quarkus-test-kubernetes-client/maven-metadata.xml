@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-test-kubernetes-client</artifactId>
   <versioning>
-    <latest>3.7.0.CR1</latest>
-    <release>3.7.0.CR1</release>
+    <latest>3.7.0</latest>
+    <release>3.7.0</release>
     <versions>
       <version>0.19.0</version>
       <version>0.19.1</version>
@@ -267,7 +267,8 @@
       <version>3.6.6</version>
       <version>3.6.7</version>
       <version>3.7.0.CR1</version>
+      <version>3.7.0</version>
     </versions>
-    <lastUpdated>20240123114126</lastUpdated>
+    <lastUpdated>20240124113427</lastUpdated>
   </versioning>
 </metadata>

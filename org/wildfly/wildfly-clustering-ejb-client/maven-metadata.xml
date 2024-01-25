@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ejb-client</artifactId>
   <versioning>
-    <latest>31.0.0.Beta1</latest>
-    <release>31.0.0.Beta1</release>
+    <latest>31.0.0.Final</latest>
+    <release>31.0.0.Final</release>
     <versions>
       <version>25.0.0.Final</version>
       <version>25.0.1.Final</version>
@@ -35,7 +35,8 @@
       <version>30.0.0.Final</version>
       <version>30.0.1.Final</version>
       <version>31.0.0.Beta1</version>
+      <version>31.0.0.Final</version>
     </versions>
-    <lastUpdated>20231220145131</lastUpdated>
+    <lastUpdated>20240124180910</lastUpdated>
   </versioning>
 </metadata>

@@ -3,14 +3,15 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>resteasy-spring-boot-bom</artifactId>
   <versioning>
-    <latest>6.1.0.Beta1</latest>
-    <release>6.1.0.Beta1</release>
+    <latest>6.1.0.Final</latest>
+    <release>6.1.0.Final</release>
     <versions>
       <version>6.0.2.Final</version>
       <version>6.0.3.Final</version>
       <version>6.0.4.Final</version>
       <version>6.1.0.Beta1</version>
+      <version>6.1.0.Final</version>
     </versions>
-    <lastUpdated>20231010155819</lastUpdated>
+    <lastUpdated>20240124161944</lastUpdated>
   </versioning>
 </metadata>

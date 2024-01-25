@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-reactive-type-converters-parent</artifactId>
   <versioning>
-    <latest>3.7.0.CR1</latest>
-    <release>3.7.0.CR1</release>
+    <latest>3.7.0</latest>
+    <release>3.7.0</release>
     <versions>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -279,7 +279,8 @@
       <version>3.6.6</version>
       <version>3.6.7</version>
       <version>3.7.0.CR1</version>
+      <version>3.7.0</version>
     </versions>
-    <lastUpdated>20240123114106</lastUpdated>
+    <lastUpdated>20240124113408</lastUpdated>
   </versioning>
 </metadata>
