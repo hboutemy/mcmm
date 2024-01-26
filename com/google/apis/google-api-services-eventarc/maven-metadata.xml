@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-eventarc</artifactId>
   <versioning>
-    <latest>v1-rev20240102-2.0.0</latest>
-    <release>v1-rev20240102-2.0.0</release>
+    <latest>v1-rev20240119-2.0.0</latest>
+    <release>v1-rev20240119-2.0.0</release>
     <versions>
       <version>v1beta1-rev20201015-1.30.10</version>
       <version>v1beta1-rev20201023-1.30.10</version>
@@ -38,6 +38,7 @@
       <version>v1beta1-rev20230421-2.0.0</version>
       <version>v1beta1-rev20230804-2.0.0</version>
       <version>v1beta1-rev20240102-2.0.0</version>
+      <version>v1beta1-rev20240119-2.0.0</version>
       <version>v1-rev20210113-1.31.0</version>
       <version>v1-rev20210218-1.31.0</version>
       <version>v1-rev20210312-1.31.0</version>
@@ -84,7 +85,8 @@
       <version>v1-rev20230918-2.0.0</version>
       <version>v1-rev20230929-2.0.0</version>
       <version>v1-rev20240102-2.0.0</version>
+      <version>v1-rev20240119-2.0.0</version>
     </versions>
-    <lastUpdated>20240109123334</lastUpdated>
+    <lastUpdated>20240125092827</lastUpdated>
   </versioning>
 </metadata>

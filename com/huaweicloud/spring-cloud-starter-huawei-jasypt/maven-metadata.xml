@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-starter-huawei-jasypt</artifactId>
   <versioning>
-    <latest>1.11.5-2022.0.x</latest>
-    <release>1.11.5-2022.0.x</release>
+    <latest>1.11.6-2023.0.x</latest>
+    <release>1.11.6-2023.0.x</release>
     <versions>
       <version>1.7.1-2020.0.x</version>
       <version>1.8.0-Hoxton</version>
@@ -53,7 +53,10 @@
       <version>1.11.4-2022.0.x</version>
       <version>1.11.5-2021.0.x</version>
       <version>1.11.5-2022.0.x</version>
+      <version>1.11.6-2021.0.x</version>
+      <version>1.11.6-2022.0.x</version>
+      <version>1.11.6-2023.0.x</version>
     </versions>
-    <lastUpdated>20240108093752</lastUpdated>
+    <lastUpdated>20240125094323</lastUpdated>
   </versioning>
 </metadata>

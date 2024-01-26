@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-alipay</artifactId>
   <versioning>
-    <latest>8.7.1-20240122</latest>
-    <release>8.7.1-20240122</release>
+    <latest>8.7.1-20240125</latest>
+    <release>8.7.1-20240125</release>
     <versions>
       <version>8.3.1</version>
       <version>8.3.2</version>
@@ -258,6 +258,7 @@
       <version>8.7.1-jdk17-20240101</version>
       <version>8.7.1-jdk17-20240122</version>
       <version>8.7.1-jdk17-20240123</version>
+      <version>8.7.1-jdk17-20240125</version>
       <version>8.7.1-jdk21-20231215</version>
       <version>8.7.1-jdk21-20231222</version>
       <version>8.7.1-jdk21-20231223</version>
@@ -266,6 +267,7 @@
       <version>8.7.1-jdk21-20240109</version>
       <version>8.7.1-jdk21-20240122</version>
       <version>8.7.1-jdk21-20240123</version>
+      <version>8.7.1-jdk21-20240125</version>
       <version>8.7.1-20231105</version>
       <version>8.7.1-20231107</version>
       <version>8.7.1-20231108</version>
@@ -289,7 +291,8 @@
       <version>8.7.1-20240109</version>
       <version>8.7.1-20240120</version>
       <version>8.7.1-20240122</version>
+      <version>8.7.1-20240125</version>
     </versions>
-    <lastUpdated>20240122140429</lastUpdated>
+    <lastUpdated>20240125132111</lastUpdated>
   </versioning>
 </metadata>

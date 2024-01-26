@@ -7,7 +7,7 @@
       <artifactId>licenses-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Quickstarts documentation plugin</name>
+      <name>WildFly Quickstarts documentation plugin</name>
       <prefix>quickstart-documentation</prefix>
       <artifactId>quickstart-documentation-plugin</artifactId>
     </plugin>

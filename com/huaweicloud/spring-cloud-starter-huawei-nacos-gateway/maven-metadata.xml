@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-starter-huawei-nacos-gateway</artifactId>
   <versioning>
-    <latest>1.11.5-2022.0.x</latest>
-    <release>1.11.5-2022.0.x</release>
+    <latest>1.11.6-2023.0.x</latest>
+    <release>1.11.6-2023.0.x</release>
     <versions>
       <version>1.10.11-2021.0.x</version>
       <version>1.10.12-2021.0.x</version>
@@ -21,7 +21,10 @@
       <version>1.11.4-2022.0.x</version>
       <version>1.11.5-2021.0.x</version>
       <version>1.11.5-2022.0.x</version>
+      <version>1.11.6-2021.0.x</version>
+      <version>1.11.6-2022.0.x</version>
+      <version>1.11.6-2023.0.x</version>
     </versions>
-    <lastUpdated>20231228014936</lastUpdated>
+    <lastUpdated>20240125094326</lastUpdated>
   </versioning>
 </metadata>
