@@ -3,8 +3,8 @@
   <groupId>com.google.http-client</groupId>
   <artifactId>google-http-client-findbugs</artifactId>
   <versioning>
-    <latest>1.43.3</latest>
-    <release>1.43.3</release>
+    <latest>1.44.1</latest>
+    <release>1.44.1</release>
     <versions>
       <version>1.40.0</version>
       <version>1.40.1</version>
@@ -25,6 +25,7 @@
       <version>1.43.1</version>
       <version>1.43.2</version>
       <version>1.43.3</version>
+      <version>1.44.1</version>
       <version>1.15.0-rc</version>
       <version>1.16.0-rc</version>
       <version>1.17.0-rc</version>
@@ -62,6 +63,6 @@
       <version>1.39.2</version>
       <version>1.39.2-sp.1</version>
     </versions>
-    <lastUpdated>20230621185849</lastUpdated>
+    <lastUpdated>20240126200617</lastUpdated>
   </versioning>
 </metadata>
