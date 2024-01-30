@@ -47,6 +47,11 @@
       <artifactId>tycho-ds-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Eclipse Plugin</name>
+      <prefix>tycho-eclipse</prefix>
+      <artifactId>tycho-eclipse-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho GPG plugin</name>
       <prefix>tycho-gpg</prefix>
       <artifactId>tycho-gpg-plugin</artifactId>

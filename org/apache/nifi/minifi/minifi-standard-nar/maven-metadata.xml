@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi.minifi</groupId>
   <artifactId>minifi-standard-nar</artifactId>
   <versioning>
-    <latest>2.0.0-M1</latest>
-    <release>2.0.0-M1</release>
+    <latest>2.0.0-M2</latest>
+    <release>2.0.0-M2</release>
     <versions>
       <version>0.0.1</version>
       <version>0.1.0</version>
@@ -33,7 +33,8 @@
       <version>1.23.2</version>
       <version>1.24.0</version>
       <version>2.0.0-M1</version>
+      <version>2.0.0-M2</version>
     </versions>
-    <lastUpdated>20231128031409</lastUpdated>
+    <lastUpdated>20240129140239</lastUpdated>
   </versioning>
 </metadata>
