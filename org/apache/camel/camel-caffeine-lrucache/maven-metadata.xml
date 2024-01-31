@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-caffeine-lrucache</artifactId>
   <versioning>
-    <latest>3.22.0</latest>
-    <release>3.22.0</release>
+    <latest>3.22.1</latest>
+    <release>3.22.1</release>
     <versions>
       <version>3.0.0-M3</version>
       <version>3.0.0-M4</version>
@@ -86,7 +86,8 @@
       <version>3.21.3</version>
       <version>3.21.4</version>
       <version>3.22.0</version>
+      <version>3.22.1</version>
     </versions>
-    <lastUpdated>20240129110340</lastUpdated>
+    <lastUpdated>20240130100134</lastUpdated>
   </versioning>
 </metadata>

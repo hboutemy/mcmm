@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>eks</artifactId>
   <versioning>
-    <latest>2.2.0-alpha.1706548750+62b0c2c7</latest>
-    <release>2.2.0-alpha.1706548750+62b0c2c7</release>
+    <latest>2.3.0-alpha.1706633163+a7375eed</latest>
+    <release>2.3.0-alpha.1706633163+a7375eed</release>
     <versions>
       <version>0.0.1</version>
       <version>0.37.1</version>
@@ -55,7 +55,9 @@
       <version>2.2.0-alpha.1706306899+160a7531</version>
       <version>2.2.0-alpha.1706319172+f43b1d81</version>
       <version>2.2.0-alpha.1706548750+62b0c2c7</version>
+      <version>2.2.0</version>
+      <version>2.3.0-alpha.1706633163+a7375eed</version>
     </versions>
-    <lastUpdated>20240129192231</lastUpdated>
+    <lastUpdated>20240130173456</lastUpdated>
   </versioning>
 </metadata>
