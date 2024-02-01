@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Selenic Maven Plugin</name>
+      <prefix>selenic</prefix>
+      <artifactId>selenic-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>SOAtest Maven Plugin</name>
       <prefix>soatest</prefix>
       <artifactId>soatest-maven-plugin</artifactId>

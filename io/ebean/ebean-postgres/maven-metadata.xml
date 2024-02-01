@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-postgres</artifactId>
   <versioning>
-    <latest>13.26.0-jakarta</latest>
-    <release>13.26.0-jakarta</release>
+    <latest>13.26.1-jakarta-rc1</latest>
+    <release>13.26.1-jakarta-rc1</release>
     <versions>
       <version>13.0.0</version>
       <version>13.1.0</version>
@@ -96,7 +96,8 @@
       <version>13.25.2-jakarta</version>
       <version>13.26.0</version>
       <version>13.26.0-jakarta</version>
+      <version>13.26.1-jakarta-rc1</version>
     </versions>
-    <lastUpdated>20240120093713</lastUpdated>
+    <lastUpdated>20240131073600</lastUpdated>
   </versioning>
 </metadata>
