@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-jdbc-jakarta</artifactId>
   <versioning>
-    <latest>14.0.22.Final</latest>
-    <release>14.0.22.Final</release>
+    <latest>14.0.24.Final</latest>
+    <release>14.0.24.Final</release>
     <versions>
       <version>14.0.0.CR2</version>
       <version>14.0.0.Final</version>
@@ -30,7 +30,9 @@
       <version>14.0.20.Final</version>
       <version>14.0.21.Final</version>
       <version>14.0.22.Final</version>
+      <version>14.0.23.Final</version>
+      <version>14.0.24.Final</version>
     </versions>
-    <lastUpdated>20240122071832</lastUpdated>
+    <lastUpdated>20240201170948</lastUpdated>
   </versioning>
 </metadata>

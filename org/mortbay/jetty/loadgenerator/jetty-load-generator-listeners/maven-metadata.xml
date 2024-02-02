@@ -3,8 +3,8 @@
   <groupId>org.mortbay.jetty.loadgenerator</groupId>
   <artifactId>jetty-load-generator-listeners</artifactId>
   <versioning>
-    <latest>4.0.5</latest>
-    <release>4.0.5</release>
+    <latest>4.0.6</latest>
+    <release>4.0.6</release>
     <versions>
       <version>1.0.0-BETA0</version>
       <version>1.0.0</version>
@@ -31,6 +31,7 @@
       <version>2.1.5</version>
       <version>2.1.6</version>
       <version>2.1.7</version>
+      <version>2.1.8</version>
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
@@ -39,6 +40,7 @@
       <version>3.1.5</version>
       <version>3.1.6</version>
       <version>3.1.7</version>
+      <version>3.1.8</version>
       <version>4.0.0.alpha2</version>
       <version>4.0.0.alpha3</version>
       <version>4.0.0.beta0</version>
@@ -50,7 +52,8 @@
       <version>4.0.2</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
+      <version>4.0.6</version>
     </versions>
-    <lastUpdated>20231220085831</lastUpdated>
+    <lastUpdated>20240201080227</lastUpdated>
   </versioning>
 </metadata>

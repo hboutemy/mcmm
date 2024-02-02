@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring-boot-starter-tests</artifactId>
   <versioning>
-    <latest>14.0.22.Final</latest>
-    <release>14.0.22.Final</release>
+    <latest>14.0.24.Final</latest>
+    <release>14.0.24.Final</release>
     <versions>
       <version>11.0.6.Final</version>
       <version>12.0.0.CR1</version>
@@ -93,8 +93,10 @@
       <version>14.0.20.Final</version>
       <version>14.0.21.Final</version>
       <version>14.0.22.Final</version>
+      <version>14.0.23.Final</version>
+      <version>14.0.24.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20240122071920</lastUpdated>
+    <lastUpdated>20240201171043</lastUpdated>
   </versioning>
 </metadata>
