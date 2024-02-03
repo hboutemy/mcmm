@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-envers</artifactId>
   <versioning>
-    <latest>6.4.2.Final</latest>
-    <release>6.4.2.Final</release>
+    <latest>6.4.3.Final</latest>
+    <release>6.4.3.Final</release>
     <versions>
       <version>3.5.0.Beta-1</version>
       <version>3.5.0-Beta-2</version>
@@ -325,6 +325,7 @@
       <version>6.4.0.Final</version>
       <version>6.4.1.Final</version>
       <version>6.4.2.Final</version>
+      <version>6.4.3.Final</version>
       <version>4.1.2</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
@@ -338,6 +339,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20240130161238</lastUpdated>
+    <lastUpdated>20240202093035</lastUpdated>
   </versioning>
 </metadata>

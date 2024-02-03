@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-server-benchmark-client</artifactId>
   <versioning>
-    <latest>0.1022.0</latest>
-    <release>0.1022.0</release>
+    <latest>0.1023.0</latest>
+    <release>0.1023.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -851,7 +851,9 @@
       <version>0.1020.0-rc2</version>
       <version>0.1020.0</version>
       <version>0.1022.0</version>
+      <version>0.1023.0-rc1</version>
+      <version>0.1023.0</version>
     </versions>
-    <lastUpdated>20240130200121</lastUpdated>
+    <lastUpdated>20240202175608</lastUpdated>
   </versioning>
 </metadata>
