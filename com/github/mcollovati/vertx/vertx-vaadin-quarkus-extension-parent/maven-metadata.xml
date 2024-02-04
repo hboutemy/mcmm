@@ -3,8 +3,8 @@
   <groupId>com.github.mcollovati.vertx</groupId>
   <artifactId>vertx-vaadin-quarkus-extension-parent</artifactId>
   <versioning>
-    <latest>23.4.0-beta1</latest>
-    <release>23.4.0-beta1</release>
+    <latest>24.3.0-alpha1</latest>
+    <release>24.3.0-alpha1</release>
     <versions>
       <version>23.3.1</version>
       <version>23.3.2</version>
@@ -14,7 +14,9 @@
       <version>23.4.0-alpha2</version>
       <version>23.4.0-alpha3</version>
       <version>23.4.0-beta1</version>
+      <version>23.4.0</version>
+      <version>24.3.0-alpha1</version>
     </versions>
-    <lastUpdated>20240105095251</lastUpdated>
+    <lastUpdated>20240203194740</lastUpdated>
   </versioning>
 </metadata>
