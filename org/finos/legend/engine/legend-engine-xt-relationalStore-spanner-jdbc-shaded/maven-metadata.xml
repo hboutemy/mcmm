@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-spanner-jdbc-shaded</artifactId>
   <versioning>
-    <latest>4.38.0</latest>
-    <release>4.38.0</release>
+    <latest>4.38.1</latest>
+    <release>4.38.1</release>
     <versions>
       <version>3.31.0</version>
       <version>3.32.0</version>
@@ -107,7 +107,8 @@
       <version>4.37.7</version>
       <version>4.37.8</version>
       <version>4.38.0</version>
+      <version>4.38.1</version>
     </versions>
-    <lastUpdated>20240201185500</lastUpdated>
+    <lastUpdated>20240204105400</lastUpdated>
   </versioning>
 </metadata>
