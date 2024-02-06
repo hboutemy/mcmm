@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.ovsdb</groupId>
   <artifactId>schema.openvswitch</artifactId>
   <versioning>
-    <latest>1.17.1</latest>
-    <release>1.17.1</release>
+    <latest>1.17.2</latest>
+    <release>1.17.2</release>
     <versions>
       <version>1.0.0-Helium</version>
       <version>1.0.1-Helium-SR1</version>
@@ -85,7 +85,8 @@
       <version>1.16.3</version>
       <version>1.17.0</version>
       <version>1.17.1</version>
+      <version>1.17.2</version>
     </versions>
-    <lastUpdated>20231210080655</lastUpdated>
+    <lastUpdated>20240205084227</lastUpdated>
   </versioning>
 </metadata>
