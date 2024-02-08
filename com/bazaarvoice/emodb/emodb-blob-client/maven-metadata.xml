@@ -3,8 +3,8 @@
   <groupId>com.bazaarvoice.emodb</groupId>
   <artifactId>emodb-blob-client</artifactId>
   <versioning>
-    <latest>6.5.60</latest>
-    <release>6.5.60</release>
+    <latest>6.5.63</latest>
+    <release>6.5.63</release>
     <versions>
       <version>1.0.1-migration</version>
       <version>5.4.1</version>
@@ -186,7 +186,10 @@
       <version>6.5.57</version>
       <version>6.5.58</version>
       <version>6.5.60</version>
+      <version>6.5.61</version>
+      <version>6.5.62</version>
+      <version>6.5.63</version>
     </versions>
-    <lastUpdated>20240206092941</lastUpdated>
+    <lastUpdated>20240207070041</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-sqladmin</artifactId>
   <versioning>
-    <latest>v1-rev20240201-2.0.0</latest>
-    <release>v1-rev20240201-2.0.0</release>
+    <latest>v1-rev20240205-2.0.0</latest>
+    <release>v1-rev20240205-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.13.2-beta</version>
       <version>v1beta1-rev1-1.14.2-beta</version>
@@ -904,6 +904,7 @@
       <version>v1beta4-rev20240115-2.0.0</version>
       <version>v1beta4-rev20240123-2.0.0</version>
       <version>v1beta4-rev20240201-2.0.0</version>
+      <version>v1beta4-rev20240205-2.0.0</version>
       <version>v1-rev20210608-1.31.5</version>
       <version>v1-rev20210608-1.32.1</version>
       <version>v1-rev20210627-1.32.1</version>
@@ -956,7 +957,8 @@
       <version>v1-rev20240115-2.0.0</version>
       <version>v1-rev20240123-2.0.0</version>
       <version>v1-rev20240201-2.0.0</version>
+      <version>v1-rev20240205-2.0.0</version>
     </versions>
-    <lastUpdated>20240202095431</lastUpdated>
+    <lastUpdated>20240207095018</lastUpdated>
   </versioning>
 </metadata>
