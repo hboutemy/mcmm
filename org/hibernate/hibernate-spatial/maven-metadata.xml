@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-spatial</artifactId>
   <versioning>
-    <latest>6.4.3.Final</latest>
-    <release>6.4.3.Final</release>
+    <latest>6.4.4.Final</latest>
+    <release>6.4.4.Final</release>
     <versions>
       <version>5.0.0.Beta2</version>
       <version>5.0.0.CR1</version>
@@ -92,6 +92,7 @@
       <version>5.3.33.Final</version>
       <version>5.3.34.Final</version>
       <version>5.3.35.Final</version>
+      <version>5.3.36.Final</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.CR2</version>
       <version>5.4.0.Final</version>
@@ -212,6 +213,7 @@
       <version>6.4.1.Final</version>
       <version>6.4.2.Final</version>
       <version>6.4.3.Final</version>
+      <version>6.4.4.Final</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
       <version>5.1.15.Final</version>
@@ -224,6 +226,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20240202093037</lastUpdated>
+    <lastUpdated>20240208132827</lastUpdated>
   </versioning>
 </metadata>

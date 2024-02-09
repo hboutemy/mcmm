@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>trino</artifactId>
   <versioning>
-    <latest>1.19.4</latest>
-    <release>1.19.4</release>
+    <latest>1.19.5</latest>
+    <release>1.19.5</release>
     <versions>
       <version>1.15.3</version>
       <version>1.16.0</version>
@@ -27,7 +27,8 @@
       <version>1.19.2</version>
       <version>1.19.3</version>
       <version>1.19.4</version>
+      <version>1.19.5</version>
     </versions>
-    <lastUpdated>20240125161100</lastUpdated>
+    <lastUpdated>20240208155256</lastUpdated>
   </versioning>
 </metadata>
