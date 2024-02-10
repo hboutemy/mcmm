@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.factor</groupId>
   <artifactId>gravitee-am-factor-recovery-code</artifactId>
   <versioning>
-    <latest>3.21.15</latest>
-    <release>3.21.15</release>
+    <latest>3.21.17</latest>
+    <release>3.21.17</release>
     <versions>
       <version>3.17.0</version>
       <version>3.17.1</version>
@@ -69,6 +69,7 @@
       <version>3.20.13</version>
       <version>3.20.16</version>
       <version>3.20.18</version>
+      <version>3.20.19</version>
       <version>3.21.0-alpha.1</version>
       <version>3.21.0-alpha.2</version>
       <version>3.21.0-alpha.3</version>
@@ -83,7 +84,8 @@
       <version>3.21.9</version>
       <version>3.21.12</version>
       <version>3.21.15</version>
+      <version>3.21.17</version>
     </versions>
-    <lastUpdated>20240122182303</lastUpdated>
+    <lastUpdated>20240209105923</lastUpdated>
   </versioning>
 </metadata>
