@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>JDBC DAO code generator</name>
+      <prefix>emsql</prefix>
+      <artifactId>emsql-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>record fixed format plugin</name>
       <prefix>recfm</prefix>
       <artifactId>recfm-maven-plugin</artifactId>
