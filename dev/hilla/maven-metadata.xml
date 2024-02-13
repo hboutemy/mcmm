@@ -7,7 +7,7 @@
       <artifactId>engine-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven Plugin for Hilla Engine</name>
+      <name>Hilla Maven plugin</name>
       <prefix>hilla</prefix>
       <artifactId>hilla-maven-plugin</artifactId>
     </plugin>

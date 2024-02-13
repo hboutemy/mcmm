@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-auth-util</artifactId>
   <versioning>
-    <latest>2.2.3.Final</latest>
-    <release>2.2.3.Final</release>
+    <latest>2.3.0.Final</latest>
+    <release>2.3.0.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.CR2</version>
@@ -120,7 +120,8 @@
       <version>2.2.1.Final</version>
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
+      <version>2.3.0.Final</version>
     </versions>
-    <lastUpdated>20240115212556</lastUpdated>
+    <lastUpdated>20240212164246</lastUpdated>
   </versioning>
 </metadata>
