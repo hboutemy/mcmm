@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-microbenchmark-oracle</artifactId>
   <versioning>
-    <latest>2.6.0.Alpha1</latest>
-    <release>2.6.0.Alpha1</release>
+    <latest>2.6.0.Alpha2</latest>
+    <release>2.6.0.Alpha2</release>
     <versions>
       <version>1.4.2.Final</version>
       <version>1.5.0.Beta1</version>
@@ -99,7 +99,8 @@
       <version>2.5.0.Final</version>
       <version>2.5.1.Final</version>
       <version>2.6.0.Alpha1</version>
+      <version>2.6.0.Alpha2</version>
     </versions>
-    <lastUpdated>20240130162409</lastUpdated>
+    <lastUpdated>20240213110509</lastUpdated>
   </versioning>
 </metadata>

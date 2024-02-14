@@ -3,8 +3,8 @@
   <groupId>com.hazelcast</groupId>
   <artifactId>hazelcast-spring</artifactId>
   <versioning>
-    <latest>5.3.6</latest>
-    <release>5.3.6</release>
+    <latest>5.4.0-BETA-2</latest>
+    <release>5.4.0-BETA-2</release>
     <versions>
       <version>1.9.2</version>
       <version>1.9.2.1</version>
@@ -242,6 +242,7 @@
       <version>5.3.4</version>
       <version>5.3.5</version>
       <version>5.3.6</version>
+      <version>5.4.0-BETA-2</version>
       <version>1.9.1</version>
       <version>1.9.1-RC2</version>
       <version>2.6.10</version>
@@ -250,6 +251,6 @@
       <version>3.4.4</version>
       <version>3.5</version>
     </versions>
-    <lastUpdated>20231109133539</lastUpdated>
+    <lastUpdated>20240213205804</lastUpdated>
   </versioning>
 </metadata>
