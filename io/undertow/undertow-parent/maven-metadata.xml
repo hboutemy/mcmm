@@ -3,8 +3,8 @@
   <groupId>io.undertow</groupId>
   <artifactId>undertow-parent</artifactId>
   <versioning>
-    <latest>2.3.10.Final</latest>
-    <release>2.3.10.Final</release>
+    <latest>2.3.11.Final</latest>
+    <release>2.3.11.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -303,6 +303,7 @@
       <version>2.2.26.Final</version>
       <version>2.2.27.Final</version>
       <version>2.2.28.Final</version>
+      <version>2.2.29.Final</version>
       <version>2.3.0.Alpha1</version>
       <version>2.3.0.Alpha2</version>
       <version>2.3.0.Beta1</version>
@@ -317,7 +318,8 @@
       <version>2.3.8.Final</version>
       <version>2.3.9.Final</version>
       <version>2.3.10.Final</version>
+      <version>2.3.11.Final</version>
     </versions>
-    <lastUpdated>20231017154231</lastUpdated>
+    <lastUpdated>20240214200919</lastUpdated>
   </versioning>
 </metadata>

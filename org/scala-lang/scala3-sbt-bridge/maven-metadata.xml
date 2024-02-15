@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-sbt-bridge</artifactId>
   <versioning>
-    <latest>3.4.1-RC1-bin-20240212-c529a48-NIGHTLY</latest>
-    <release>3.4.1-RC1-bin-20240212-c529a48-NIGHTLY</release>
+    <latest>3.4.2-RC1-bin-20240213-8776677-NIGHTLY</latest>
+    <release>3.4.2-RC1-bin-20240213-8776677-NIGHTLY</release>
     <versions>
       <version>3.0.0-M1</version>
       <version>3.0.0-M1-bin-20201015-8c56525-NIGHTLY</version>
@@ -800,6 +800,7 @@
       <version>3.3.2-RC1-bin-20230724-ce1ce99-NIGHTLY</version>
       <version>3.3.2-RC2</version>
       <version>3.3.2-RC3</version>
+      <version>3.3.2</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -914,6 +915,8 @@
       <version>3.4.0-RC2</version>
       <version>3.4.0-RC3</version>
       <version>3.4.0-RC4</version>
+      <version>3.4.0</version>
+      <version>3.4.1-RC1</version>
       <version>3.4.1-RC1-bin-20240122-ca18f4a-NIGHTLY</version>
       <version>3.4.1-RC1-bin-20240123-fff24b1-NIGHTLY</version>
       <version>3.4.1-RC1-bin-20240124-7c3edc5-NIGHTLY</version>
@@ -932,7 +935,8 @@
       <version>3.4.1-RC1-bin-20240209-067ec20-NIGHTLY</version>
       <version>3.4.1-RC1-bin-20240210-6efcdba-NIGHTLY</version>
       <version>3.4.1-RC1-bin-20240212-c529a48-NIGHTLY</version>
+      <version>3.4.2-RC1-bin-20240213-8776677-NIGHTLY</version>
     </versions>
-    <lastUpdated>20240213042436</lastUpdated>
+    <lastUpdated>20240214200315</lastUpdated>
   </versioning>
 </metadata>
