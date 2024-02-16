@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-quarkus-server-parent</artifactId>
   <versioning>
-    <latest>15.0.0.Dev08</latest>
-    <release>15.0.0.Dev08</release>
+    <latest>15.0.0.Dev10</latest>
+    <release>15.0.0.Dev10</release>
     <versions>
       <version>15.0.0.Dev01</version>
       <version>15.0.0.Dev02</version>
@@ -14,7 +14,9 @@
       <version>15.0.0.Dev06</version>
       <version>15.0.0.Dev07</version>
       <version>15.0.0.Dev08</version>
+      <version>15.0.0.Dev09</version>
+      <version>15.0.0.Dev10</version>
     </versions>
-    <lastUpdated>20240130164550</lastUpdated>
+    <lastUpdated>20240215212806</lastUpdated>
   </versioning>
 </metadata>

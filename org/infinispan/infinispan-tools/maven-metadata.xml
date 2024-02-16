@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-tools</artifactId>
   <versioning>
-    <latest>15.0.0.Dev08</latest>
-    <release>15.0.0.Dev08</release>
+    <latest>15.0.0.Dev10</latest>
+    <release>15.0.0.Dev10</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -336,8 +336,10 @@
       <version>15.0.0.Dev06</version>
       <version>15.0.0.Dev07</version>
       <version>15.0.0.Dev08</version>
+      <version>15.0.0.Dev09</version>
+      <version>15.0.0.Dev10</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20240201171051</lastUpdated>
+    <lastUpdated>20240215212822</lastUpdated>
   </versioning>
 </metadata>

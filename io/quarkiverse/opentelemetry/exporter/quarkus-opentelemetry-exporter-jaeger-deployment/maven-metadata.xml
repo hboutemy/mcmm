@@ -3,14 +3,15 @@
   <groupId>io.quarkiverse.opentelemetry.exporter</groupId>
   <artifactId>quarkus-opentelemetry-exporter-jaeger-deployment</artifactId>
   <versioning>
-    <latest>2.0.0.Final</latest>
-    <release>2.0.0.Final</release>
+    <latest>3.5.0.Final</latest>
+    <release>3.5.0.Final</release>
     <versions>
       <version>1.0.0.Final</version>
       <version>1.1.0.Final</version>
       <version>1.1.1.Final</version>
       <version>2.0.0.Final</version>
+      <version>3.5.0.Final</version>
     </versions>
-    <lastUpdated>20230417161728</lastUpdated>
+    <lastUpdated>20240215171308</lastUpdated>
   </versioning>
 </metadata>

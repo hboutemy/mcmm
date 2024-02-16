@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-core</artifactId>
   <versioning>
-    <latest>13.26.1-jakarta</latest>
-    <release>13.26.1-jakarta</release>
+    <latest>14.0.0-javax</latest>
+    <release>14.0.0-javax</release>
     <versions>
       <version>12.5.0</version>
       <version>12.5.1</version>
@@ -141,7 +141,9 @@
       <version>13.26.1</version>
       <version>13.26.1-jakarta-rc1</version>
       <version>13.26.1-jakarta</version>
+      <version>14.0.0</version>
+      <version>14.0.0-javax</version>
     </versions>
-    <lastUpdated>20240210001718</lastUpdated>
+    <lastUpdated>20240215101333</lastUpdated>
   </versioning>
 </metadata>

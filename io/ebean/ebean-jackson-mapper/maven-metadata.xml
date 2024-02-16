@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-jackson-mapper</artifactId>
   <versioning>
-    <latest>13.26.1-jakarta</latest>
-    <release>13.26.1-jakarta</release>
+    <latest>14.0.0-javax</latest>
+    <release>14.0.0-javax</release>
     <versions>
       <version>13.10.0</version>
       <version>13.10.1</version>
@@ -77,7 +77,9 @@
       <version>13.26.1</version>
       <version>13.26.1-jakarta-rc1</version>
       <version>13.26.1-jakarta</version>
+      <version>14.0.0</version>
+      <version>14.0.0-javax</version>
     </versions>
-    <lastUpdated>20240210001721</lastUpdated>
+    <lastUpdated>20240215101335</lastUpdated>
   </versioning>
 </metadata>
