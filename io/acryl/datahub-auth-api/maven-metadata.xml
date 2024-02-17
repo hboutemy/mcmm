@@ -3,8 +3,8 @@
   <groupId>io.acryl</groupId>
   <artifactId>datahub-auth-api</artifactId>
   <versioning>
-    <latest>0.12.1-6rc2</latest>
-    <release>0.12.1-6rc2</release>
+    <latest>0.12.1-6rc3</latest>
+    <release>0.12.1-6rc3</release>
     <versions>
       <version>0.9.3-3rc3</version>
       <version>0.9.3-3rc4</version>
@@ -211,7 +211,8 @@
       <version>0.12.1-5</version>
       <version>0.12.1-6rc1</version>
       <version>0.12.1-6rc2</version>
+      <version>0.12.1-6rc3</version>
     </versions>
-    <lastUpdated>20240214123834</lastUpdated>
+    <lastUpdated>20240216131105</lastUpdated>
   </versioning>
 </metadata>

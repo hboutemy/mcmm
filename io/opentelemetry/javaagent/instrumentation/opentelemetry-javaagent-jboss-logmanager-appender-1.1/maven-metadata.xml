@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jboss-logmanager-appender-1.1</artifactId>
   <versioning>
-    <latest>2.0.0-alpha</latest>
-    <release>2.0.0-alpha</release>
+    <latest>2.1.0-alpha</latest>
+    <release>2.1.0-alpha</release>
     <versions>
       <version>1.15.0-alpha</version>
       <version>1.16.0-alpha</version>
@@ -32,7 +32,8 @@
       <version>1.32.0-alpha</version>
       <version>1.32.1-alpha</version>
       <version>2.0.0-alpha</version>
+      <version>2.1.0-alpha</version>
     </versions>
-    <lastUpdated>20240202162837</lastUpdated>
+    <lastUpdated>20240216054209</lastUpdated>
   </versioning>
 </metadata>

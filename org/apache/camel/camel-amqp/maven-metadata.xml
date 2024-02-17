@@ -3,8 +3,8 @@
   <groupId>org.apache.camel</groupId>
   <artifactId>camel-amqp</artifactId>
   <versioning>
-    <latest>4.3.0</latest>
-    <release>4.3.0</release>
+    <latest>4.4.0</latest>
+    <release>4.4.0</release>
     <versions>
       <version>1.6.1</version>
       <version>1.6.2</version>
@@ -231,12 +231,13 @@
       <version>4.1.0</version>
       <version>4.2.0</version>
       <version>4.3.0</version>
+      <version>4.4.0</version>
       <version>1.3.0</version>
       <version>1.4.0</version>
       <version>1.5.0</version>
       <version>1.6.0</version>
       <version>2.0-M1</version>
     </versions>
-    <lastUpdated>20240201102404</lastUpdated>
+    <lastUpdated>20240216160535</lastUpdated>
   </versioning>
 </metadata>
