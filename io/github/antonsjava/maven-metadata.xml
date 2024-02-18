@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>deps-size-plugin</name>
+      <prefix>deps-size</prefix>
+      <artifactId>deps-size-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sb-splitter-plugin</name>
       <prefix>sb-splitter</prefix>
       <artifactId>sb-splitter-plugin</artifactId>

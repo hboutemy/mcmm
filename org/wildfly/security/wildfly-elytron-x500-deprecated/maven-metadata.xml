@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-x500-deprecated</artifactId>
   <versioning>
-    <latest>2.3.0.Final</latest>
-    <release>2.3.0.Final</release>
+    <latest>2.3.1.Final</latest>
+    <release>2.3.1.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.CR2</version>
@@ -117,7 +117,8 @@
       <version>2.2.2.Final</version>
       <version>2.2.3.Final</version>
       <version>2.3.0.Final</version>
+      <version>2.3.1.Final</version>
     </versions>
-    <lastUpdated>20240214212808</lastUpdated>
+    <lastUpdated>20240216231008</lastUpdated>
   </versioning>
 </metadata>
