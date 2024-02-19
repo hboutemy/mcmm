@@ -3,13 +3,16 @@
   <groupId>dev.shreyaspatil.generativeai</groupId>
   <artifactId>generativeai-google-iossimulatorarm64</artifactId>
   <versioning>
-    <latest>0.1.2-0.0.1-wasm</latest>
-    <release>0.1.2-0.0.1-wasm</release>
+    <latest>0.2.0-1.0.0-wasm</latest>
+    <release>0.2.0-1.0.0-wasm</release>
     <versions>
+      <version>v0.2.0-1.0.0</version>
       <version>0.1.2-0.0.1</version>
       <version>0.1.2-0.0.1-kmp</version>
       <version>0.1.2-0.0.1-wasm</version>
+      <version>0.2.0-1.0.0</version>
+      <version>0.2.0-1.0.0-wasm</version>
     </versions>
-    <lastUpdated>20240121134648</lastUpdated>
+    <lastUpdated>20240218113918</lastUpdated>
   </versioning>
 </metadata>
