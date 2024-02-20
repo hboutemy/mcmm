@@ -3,8 +3,8 @@
   <groupId>io.github.clescot</groupId>
   <artifactId>kafka-connect-http-connectors</artifactId>
   <versioning>
-    <latest>0.7.103</latest>
-    <release>0.7.103</release>
+    <latest>0.7.110</latest>
+    <release>0.7.110</release>
     <versions>
       <version>0.2.135</version>
       <version>0.2.136</version>
@@ -196,7 +196,14 @@
       <version>0.7.101</version>
       <version>0.7.102</version>
       <version>0.7.103</version>
+      <version>0.7.104</version>
+      <version>0.7.105</version>
+      <version>0.7.106</version>
+      <version>0.7.107</version>
+      <version>0.7.108</version>
+      <version>0.7.109</version>
+      <version>0.7.110</version>
     </versions>
-    <lastUpdated>20240201112509</lastUpdated>
+    <lastUpdated>20240219154730</lastUpdated>
   </versioning>
 </metadata>

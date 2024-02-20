@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions</groupId>
   <artifactId>druid-parquet-extensions</artifactId>
   <versioning>
-    <latest>28.0.1</latest>
-    <release>28.0.1</release>
+    <latest>29.0.0</latest>
+    <release>29.0.0</release>
     <versions>
       <version>0.14.0-incubating</version>
       <version>0.14.1-incubating</version>
@@ -34,7 +34,8 @@
       <version>27.0.0</version>
       <version>28.0.0</version>
       <version>28.0.1</version>
+      <version>29.0.0</version>
     </versions>
-    <lastUpdated>20231218055813</lastUpdated>
+    <lastUpdated>20240219090748</lastUpdated>
   </versioning>
 </metadata>

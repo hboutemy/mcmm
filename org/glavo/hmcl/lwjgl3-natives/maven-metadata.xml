@@ -3,15 +3,16 @@
   <groupId>org.glavo.hmcl</groupId>
   <artifactId>lwjgl3-natives</artifactId>
   <versioning>
-    <latest>3.3.1-rc2-linux-mips64el</latest>
-    <release>3.3.1-rc2-linux-mips64el</release>
+    <latest>3.3.4-rc1-linux-loongarch64</latest>
+    <release>3.3.4-rc1-linux-loongarch64</release>
     <versions>
       <version>3.3.1-rc1-linux-loongarch64</version>
       <version>3.3.1-rc1-linux-loongarch64_ow</version>
       <version>3.3.1-rc1-linux-mips64el</version>
       <version>3.3.1-rc1-linux-riscv64</version>
       <version>3.3.1-rc2-linux-mips64el</version>
+      <version>3.3.4-rc1-linux-loongarch64</version>
     </versions>
-    <lastUpdated>20230823041309</lastUpdated>
+    <lastUpdated>20240219173126</lastUpdated>
   </versioning>
 </metadata>
