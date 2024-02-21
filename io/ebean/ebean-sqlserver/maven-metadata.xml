@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-sqlserver</artifactId>
   <versioning>
-    <latest>14.0.0-javax</latest>
-    <release>14.0.0-javax</release>
+    <latest>15.0.0-RC</latest>
+    <release>15.0.0-RC</release>
     <versions>
       <version>13.0.0</version>
       <version>13.1.0</version>
@@ -101,7 +101,8 @@
       <version>13.26.1-jakarta</version>
       <version>14.0.0</version>
       <version>14.0.0-javax</version>
+      <version>15.0.0-RC</version>
     </versions>
-    <lastUpdated>20240215101346</lastUpdated>
+    <lastUpdated>20240220082323</lastUpdated>
   </versioning>
 </metadata>

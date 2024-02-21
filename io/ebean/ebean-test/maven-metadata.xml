@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-test</artifactId>
   <versioning>
-    <latest>14.0.0-javax</latest>
-    <release>14.0.0-javax</release>
+    <latest>15.0.0-RC</latest>
+    <release>15.0.0-RC</release>
     <versions>
       <version>11.42.1</version>
       <version>11.42.3</version>
@@ -175,7 +175,8 @@
       <version>13.26.1-jakarta</version>
       <version>14.0.0</version>
       <version>14.0.0-javax</version>
+      <version>15.0.0-RC</version>
     </versions>
-    <lastUpdated>20240215101410</lastUpdated>
+    <lastUpdated>20240220082343</lastUpdated>
   </versioning>
 </metadata>

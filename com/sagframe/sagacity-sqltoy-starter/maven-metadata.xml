@@ -3,8 +3,8 @@
   <groupId>com.sagframe</groupId>
   <artifactId>sagacity-sqltoy-starter</artifactId>
   <versioning>
-    <latest>5.3.67</latest>
-    <release>5.3.67</release>
+    <latest>5.3.68</latest>
+    <release>5.3.68</release>
     <versions>
       <version>4.9.9</version>
       <version>4.9.10</version>
@@ -1020,6 +1020,8 @@
       <version>5.2.92</version>
       <version>5.2.93</version>
       <version>5.2.94</version>
+      <version>5.2.95.RC1</version>
+      <version>5.2.95</version>
       <version>5.3.0.RC1</version>
       <version>5.3.0</version>
       <version>5.3.1</version>
@@ -1102,8 +1104,9 @@
       <version>5.3.64</version>
       <version>5.3.65</version>
       <version>5.3.67</version>
+      <version>5.3.68</version>
       <version>4.18.47</version>
     </versions>
-    <lastUpdated>20240207043403</lastUpdated>
+    <lastUpdated>20240220124850</lastUpdated>
   </versioning>
 </metadata>
