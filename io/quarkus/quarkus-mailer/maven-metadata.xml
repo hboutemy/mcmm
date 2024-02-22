@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-mailer</artifactId>
   <versioning>
-    <latest>3.8.0.CR1</latest>
-    <release>3.8.0.CR1</release>
+    <latest>3.8.0</latest>
+    <release>3.8.0</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1</version>
@@ -278,8 +278,10 @@
       <version>3.7.1</version>
       <version>3.7.2</version>
       <version>3.7.3</version>
+      <version>3.7.4</version>
       <version>3.8.0.CR1</version>
+      <version>3.8.0</version>
     </versions>
-    <lastUpdated>20240214113729</lastUpdated>
+    <lastUpdated>20240221113758</lastUpdated>
   </versioning>
 </metadata>

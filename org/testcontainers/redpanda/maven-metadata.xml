@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>redpanda</artifactId>
   <versioning>
-    <latest>1.19.5</latest>
-    <release>1.19.5</release>
+    <latest>1.19.6</latest>
+    <release>1.19.6</release>
     <versions>
       <version>1.17.4</version>
       <version>1.17.5</version>
@@ -19,7 +19,8 @@
       <version>1.19.3</version>
       <version>1.19.4</version>
       <version>1.19.5</version>
+      <version>1.19.6</version>
     </versions>
-    <lastUpdated>20240208155247</lastUpdated>
+    <lastUpdated>20240221224326</lastUpdated>
   </versioning>
 </metadata>

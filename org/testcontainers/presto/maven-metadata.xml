@@ -3,8 +3,8 @@
   <groupId>org.testcontainers</groupId>
   <artifactId>presto</artifactId>
   <versioning>
-    <latest>1.19.5</latest>
-    <release>1.19.5</release>
+    <latest>1.19.6</latest>
+    <release>1.19.6</release>
     <versions>
       <version>1.13.0</version>
       <version>1.14.0</version>
@@ -38,7 +38,8 @@
       <version>1.19.3</version>
       <version>1.19.4</version>
       <version>1.19.5</version>
+      <version>1.19.6</version>
     </versions>
-    <lastUpdated>20240208155243</lastUpdated>
+    <lastUpdated>20240221224320</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-cluster</artifactId>
   <versioning>
-    <latest>5.5.2</latest>
-    <release>5.5.2</release>
+    <latest>5.6.1</latest>
+    <release>5.6.1</release>
     <versions>
       <version>1.10.0</version>
       <version>1.10.1</version>
@@ -163,7 +163,9 @@
       <version>5.5.0</version>
       <version>5.5.1</version>
       <version>5.5.2</version>
+      <version>5.6.0</version>
+      <version>5.6.1</version>
     </versions>
-    <lastUpdated>20240214135615</lastUpdated>
+    <lastUpdated>20240221073650</lastUpdated>
   </versioning>
 </metadata>

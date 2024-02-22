@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-ke-analytics</artifactId>
   <versioning>
-    <latest>1.40-9e7543d-server</latest>
-    <release>1.40-9e7543d-server</release>
+    <latest>1.42-730f14f-server</latest>
+    <release>1.42-730f14f-server</release>
     <versions>
       <version>1.1-c06abca-client</version>
       <version>1.1-c06abca-server</version>
@@ -69,7 +69,11 @@
       <version>1.39-3b8dc72-server</version>
       <version>1.40-9e7543d-client</version>
       <version>1.40-9e7543d-server</version>
+      <version>1.41-d3f9892-client</version>
+      <version>1.41-d3f9892-server</version>
+      <version>1.42-730f14f-client</version>
+      <version>1.42-730f14f-server</version>
     </versions>
-    <lastUpdated>20231203180850</lastUpdated>
+    <lastUpdated>20240221175615</lastUpdated>
   </versioning>
 </metadata>

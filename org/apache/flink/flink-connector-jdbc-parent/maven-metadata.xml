@@ -3,15 +3,18 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-connector-jdbc-parent</artifactId>
   <versioning>
-    <latest>3.1.1-1.17</latest>
-    <release>3.1.1-1.17</release>
+    <latest>3.1.2-1.18</latest>
+    <release>3.1.2-1.18</release>
     <versions>
       <version>3.0.0-1.16</version>
       <version>3.1.0-1.16</version>
       <version>3.1.0-1.17</version>
       <version>3.1.1-1.16</version>
       <version>3.1.1-1.17</version>
+      <version>3.1.2-1.16</version>
+      <version>3.1.2-1.17</version>
+      <version>3.1.2-1.18</version>
     </versions>
-    <lastUpdated>20230627072937</lastUpdated>
+    <lastUpdated>20240221100731</lastUpdated>
   </versioning>
 </metadata>
