@@ -3,8 +3,8 @@
   <groupId>io.micronaut.openapi</groupId>
   <artifactId>micronaut-openapi-bom</artifactId>
   <versioning>
-    <latest>6.6.0</latest>
-    <release>6.6.0</release>
+    <latest>6.6.2</latest>
+    <release>6.6.2</release>
     <versions>
       <version>4.3.0</version>
       <version>4.4.0</version>
@@ -57,7 +57,9 @@
       <version>6.5.0</version>
       <version>6.5.1</version>
       <version>6.6.0</version>
+      <version>6.6.1</version>
+      <version>6.6.2</version>
     </versions>
-    <lastUpdated>20240221114314</lastUpdated>
+    <lastUpdated>20240222140142</lastUpdated>
   </versioning>
 </metadata>

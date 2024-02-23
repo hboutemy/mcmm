@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 6</name>
+      <prefix>hibernate6-ddl</prefix>
+      <artifactId>hibernate6-ddl-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
