@@ -3,8 +3,8 @@
   <groupId>com.linkedin.coral</groupId>
   <artifactId>coral-spark-plan</artifactId>
   <versioning>
-    <latest>2.2.27-li-trino-hotfix</latest>
-    <release>2.2.27-li-trino-hotfix</release>
+    <latest>2.2.28-li-trino-hotfix</latest>
+    <release>2.2.28-li-trino-hotfix</release>
     <versions>
       <version>1.0.9</version>
       <version>1.0.10</version>
@@ -310,7 +310,8 @@
       <version>2.2.26</version>
       <version>2.2.27</version>
       <version>2.2.27-li-trino-hotfix</version>
+      <version>2.2.28-li-trino-hotfix</version>
     </versions>
-    <lastUpdated>20240213020809</lastUpdated>
+    <lastUpdated>20240223183603</lastUpdated>
   </versioning>
 </metadata>

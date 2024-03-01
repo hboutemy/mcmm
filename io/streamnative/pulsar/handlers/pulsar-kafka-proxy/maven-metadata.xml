@@ -3,8 +3,8 @@
   <groupId>io.streamnative.pulsar.handlers</groupId>
   <artifactId>pulsar-kafka-proxy</artifactId>
   <versioning>
-    <latest>3.1.2.1</latest>
-    <release>3.1.2.1</release>
+    <latest>3.1.2.2</latest>
+    <release>3.1.2.2</release>
     <versions>
       <version>2.11.2.3</version>
       <version>2.11.2.4</version>
@@ -43,7 +43,8 @@
       <version>3.1.1.1</version>
       <version>3.1.1.2</version>
       <version>3.1.2.1</version>
+      <version>3.1.2.2</version>
     </versions>
-    <lastUpdated>20240217054232</lastUpdated>
+    <lastUpdated>20240223214726</lastUpdated>
   </versioning>
 </metadata>

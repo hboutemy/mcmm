@@ -3,8 +3,8 @@
   <groupId>org.joinfaces</groupId>
   <artifactId>tobago-spring-boot-starter</artifactId>
   <versioning>
-    <latest>5.2.2</latest>
-    <release>5.2.2</release>
+    <latest>5.2.3</latest>
+    <release>5.2.3</release>
     <versions>
       <version>4.1.0-m2</version>
       <version>4.1.0-m3</version>
@@ -133,6 +133,7 @@
       <version>5.1.6</version>
       <version>5.1.7</version>
       <version>5.1.8</version>
+      <version>5.1.9</version>
       <version>5.2.0-m1</version>
       <version>5.2.0-m2</version>
       <version>5.2.0-m3</version>
@@ -141,7 +142,8 @@
       <version>5.2.0</version>
       <version>5.2.1</version>
       <version>5.2.2</version>
+      <version>5.2.3</version>
     </versions>
-    <lastUpdated>20240120003621</lastUpdated>
+    <lastUpdated>20240223001514</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.occurrent</groupId>
   <artifactId>subscription-mongodb-spring-blocking-competing-consumer-strategy</artifactId>
   <versioning>
-    <latest>0.17.0</latest>
-    <release>0.17.0</release>
+    <latest>0.17.1</latest>
+    <release>0.17.1</release>
     <versions>
       <version>0.9.0</version>
       <version>0.10.0</version>
@@ -37,7 +37,8 @@
       <version>0.16.10</version>
       <version>0.16.11</version>
       <version>0.17.0</version>
+      <version>0.17.1</version>
     </versions>
-    <lastUpdated>20240120072303</lastUpdated>
+    <lastUpdated>20240223140242</lastUpdated>
   </versioning>
 </metadata>

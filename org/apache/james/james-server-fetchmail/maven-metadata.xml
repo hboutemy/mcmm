@@ -3,8 +3,8 @@
   <groupId>org.apache.james</groupId>
   <artifactId>james-server-fetchmail</artifactId>
   <versioning>
-    <latest>3.8.0</latest>
-    <release>3.8.0</release>
+    <latest>3.8.1</latest>
+    <release>3.8.1</release>
     <versions>
       <version>3.0-beta3</version>
       <version>3.0-beta4</version>
@@ -26,8 +26,10 @@
       <version>3.7.2</version>
       <version>3.7.3</version>
       <version>3.7.4</version>
+      <version>3.7.5</version>
       <version>3.8.0</version>
+      <version>3.8.1</version>
     </versions>
-    <lastUpdated>20230608075041</lastUpdated>
+    <lastUpdated>20240223155643</lastUpdated>
   </versioning>
 </metadata>

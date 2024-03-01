@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-tracing</artifactId>
   <versioning>
-    <latest>5.8.0</latest>
-    <release>5.8.0</release>
+    <latest>5.8.1</latest>
+    <release>5.8.1</release>
     <versions>
       <version>1.16.0</version>
       <version>1.16.1</version>
@@ -154,7 +154,8 @@
       <version>5.6.0</version>
       <version>5.6.1</version>
       <version>5.8.0</version>
+      <version>5.8.1</version>
     </versions>
-    <lastUpdated>20240222155425</lastUpdated>
+    <lastUpdated>20240223074103</lastUpdated>
   </versioning>
 </metadata>
