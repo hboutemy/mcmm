@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-tests-support-custom-log-component-deployment</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.8.0</latest>
+    <release>3.8.0</release>
     <versions>
       <version>1.0.0-CR2</version>
       <version>1.0.0-CR3</version>
@@ -57,7 +57,8 @@
       <version>3.5.0</version>
       <version>3.6.0</version>
       <version>3.7.0</version>
+      <version>3.8.0</version>
     </versions>
-    <lastUpdated>20240129082322</lastUpdated>
+    <lastUpdated>20240225221323</lastUpdated>
   </versioning>
 </metadata>
