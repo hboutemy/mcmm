@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-jboss-runner-tck</artifactId>
   <versioning>
-    <latest>6.0.0.Alpha1</latest>
-    <release>6.0.0.Alpha1</release>
+    <latest>6.0.0.Beta1</latest>
+    <release>6.0.0.Beta1</release>
     <versions>
       <version>2.2.7.Final</version>
       <version>2.2.8.Final</version>
@@ -107,7 +107,8 @@
       <version>5.1.1.SP2</version>
       <version>5.1.2.Final</version>
       <version>6.0.0.Alpha1</version>
+      <version>6.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20231026090801</lastUpdated>
+    <lastUpdated>20240226122919</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-bom</artifactId>
   <versioning>
-    <latest>8.18.0</latest>
-    <release>8.18.0</release>
+    <latest>8.18.1</latest>
+    <release>8.18.1</release>
     <versions>
       <version>7.22.0</version>
       <version>7.23.0</version>
@@ -128,7 +128,8 @@
       <version>8.17.0</version>
       <version>8.17.1</version>
       <version>8.18.0</version>
+      <version>8.18.1</version>
     </versions>
-    <lastUpdated>20240224131508</lastUpdated>
+    <lastUpdated>20240226191357</lastUpdated>
   </versioning>
 </metadata>
