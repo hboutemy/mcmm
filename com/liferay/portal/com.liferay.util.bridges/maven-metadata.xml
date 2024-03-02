@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.util.bridges</artifactId>
   <versioning>
@@ -30,6 +30,7 @@
       <version>4.0.3</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
+      <version>4.0.6</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -39,6 +40,7 @@
       <version>5.0.6</version>
       <version>5.0.7</version>
       <version>5.0.8</version>
+      <version>5.0.9</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -52,6 +54,7 @@
       <version>6.0.10</version>
       <version>6.0.11</version>
       <version>6.0.12</version>
+      <version>6.0.13</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -80,10 +83,7 @@
       <version>9.0.9</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
-      <version>5.0.9</version>
-      <version>6.0.13</version>
-      <version>4.0.6</version>
     </versions>
-    <lastUpdated>20231206150200</lastUpdated>
+    <lastUpdated>20240131101625</lastUpdated>
   </versioning>
 </metadata>

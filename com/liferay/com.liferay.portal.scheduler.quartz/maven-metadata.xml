@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.scheduler.quartz</artifactId>
   <versioning>
-    <latest>7.0.37</latest>
-    <release>7.0.37</release>
+    <latest>7.0.38</latest>
+    <release>7.0.38</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -42,6 +42,7 @@
       <version>3.0.16</version>
       <version>3.0.17</version>
       <version>3.0.18</version>
+      <version>3.0.19</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -60,6 +61,7 @@
       <version>4.0.15</version>
       <version>4.0.16</version>
       <version>4.0.17</version>
+      <version>4.0.18</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -77,6 +79,7 @@
       <version>5.0.14</version>
       <version>5.0.15</version>
       <version>5.0.16</version>
+      <version>5.0.17</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -95,6 +98,7 @@
       <version>6.0.15</version>
       <version>6.0.16</version>
       <version>6.0.17</version>
+      <version>6.0.18</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -129,15 +133,12 @@
       <version>7.0.31</version>
       <version>7.0.32</version>
       <version>7.0.33</version>
-      <version>4.0.18</version>
-      <version>6.0.18</version>
       <version>7.0.34</version>
-      <version>5.0.17</version>
       <version>7.0.35</version>
       <version>7.0.36</version>
-      <version>3.0.19</version>
       <version>7.0.37</version>
+      <version>7.0.38</version>
     </versions>
-    <lastUpdated>20240107072922</lastUpdated>
+    <lastUpdated>20240207142650</lastUpdated>
   </versioning>
 </metadata>

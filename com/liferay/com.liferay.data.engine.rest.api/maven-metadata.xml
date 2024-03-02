@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.data.engine.rest.api</artifactId>
   <versioning>
-    <latest>31.2.4</latest>
-    <release>31.2.4</release>
+    <latest>31.2.5</latest>
+    <release>31.2.5</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -118,11 +118,13 @@
       <version>27.0.1</version>
       <version>27.1.0</version>
       <version>27.2.0</version>
+      <version>27.2.1</version>
       <version>28.0.0</version>
       <version>28.0.1</version>
       <version>28.1.0</version>
       <version>28.1.1</version>
       <version>28.2.0</version>
+      <version>28.3.0</version>
       <version>29.0.0</version>
       <version>30.0.0</version>
       <version>30.0.1</version>
@@ -138,7 +140,8 @@
       <version>31.2.2</version>
       <version>31.2.3</version>
       <version>31.2.4</version>
+      <version>31.2.5</version>
     </versions>
-    <lastUpdated>20240124234441</lastUpdated>
+    <lastUpdated>20240228104938</lastUpdated>
   </versioning>
 </metadata>

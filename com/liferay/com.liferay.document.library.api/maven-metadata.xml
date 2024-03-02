@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.document.library.api</artifactId>
   <versioning>
-    <latest>6.10.5</latest>
-    <release>6.10.5</release>
+    <latest>24.3.0</latest>
+    <release>24.3.0</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -54,6 +54,8 @@
       <version>3.7.16</version>
       <version>3.8.0</version>
       <version>3.8.1</version>
+      <version>3.8.2</version>
+      <version>3.8.3</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -109,6 +111,8 @@
       <version>4.4.2</version>
       <version>4.5.0</version>
       <version>4.5.1</version>
+      <version>4.5.2</version>
+      <version>4.5.3</version>
       <version>5.0.0</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
@@ -160,6 +164,8 @@
       <version>5.5.1</version>
       <version>5.6.0</version>
       <version>5.6.1</version>
+      <version>5.6.2</version>
+      <version>5.6.3</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -207,6 +213,10 @@
       <version>6.10.0</version>
       <version>6.10.1</version>
       <version>6.10.2</version>
+      <version>6.10.3</version>
+      <version>6.10.4</version>
+      <version>6.10.5</version>
+      <version>6.10.6</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -253,16 +263,11 @@
       <version>23.1.2</version>
       <version>23.2.0</version>
       <version>23.3.0</version>
-      <version>6.10.3</version>
       <version>24.0.0</version>
-      <version>6.10.4</version>
       <version>24.1.0</version>
       <version>24.2.0</version>
-      <version>3.8.2</version>
-      <version>4.5.2</version>
-      <version>5.6.2</version>
-      <version>6.10.5</version>
+      <version>24.3.0</version>
     </versions>
-    <lastUpdated>20231207174953</lastUpdated>
+    <lastUpdated>20240229141008</lastUpdated>
   </versioning>
 </metadata>

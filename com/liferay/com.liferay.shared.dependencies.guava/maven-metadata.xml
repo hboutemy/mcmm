@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.shared.dependencies.guava</artifactId>
   <versioning>
@@ -9,13 +9,14 @@
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
+      <version>3.0.0</version>
       <version>4.0.0</version>
       <version>5.0.0</version>
       <version>6.0.0</version>
-      <version>3.0.0</version>
+      <version>7.0.0</version>
       <version>8.0.0</version>
       <version>9.0.0</version>
     </versions>
-    <lastUpdated>20231217212611</lastUpdated>
+    <lastUpdated>20240228112137</lastUpdated>
   </versioning>
 </metadata>

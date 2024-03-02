@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.push.notifications.sender.android</artifactId>
   <versioning>
-    <latest>1.0.39</latest>
-    <release>1.0.39</release>
+    <latest>3.0.11</latest>
+    <release>3.0.11</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -45,6 +45,7 @@
       <version>1.0.36</version>
       <version>1.0.37</version>
       <version>1.0.38</version>
+      <version>1.0.39</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -92,8 +93,7 @@
       <version>3.0.9</version>
       <version>3.0.10</version>
       <version>3.0.11</version>
-      <version>1.0.39</version>
     </versions>
-    <lastUpdated>20231206173440</lastUpdated>
+    <lastUpdated>20240131090934</lastUpdated>
   </versioning>
 </metadata>

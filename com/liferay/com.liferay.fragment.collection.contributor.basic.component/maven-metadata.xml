@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.fragment.collection.contributor.basic.component</artifactId>
   <versioning>
@@ -73,6 +73,8 @@
       <version>1.0.64</version>
       <version>1.0.65</version>
       <version>1.0.66</version>
+      <version>1.0.67</version>
+      <version>1.0.68</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -148,6 +150,9 @@
       <version>2.0.72</version>
       <version>2.0.73</version>
       <version>2.0.74</version>
+      <version>2.0.75</version>
+      <version>2.0.76</version>
+      <version>2.0.77</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -182,13 +187,10 @@
       <version>3.0.31</version>
       <version>3.0.32</version>
       <version>3.0.33</version>
-      <version>2.0.75</version>
       <version>3.0.34</version>
-      <version>1.0.67</version>
-      <version>2.0.76</version>
       <version>3.0.35</version>
       <version>3.0.36</version>
     </versions>
-    <lastUpdated>20240124152953</lastUpdated>
+    <lastUpdated>20240228081118</lastUpdated>
   </versioning>
 </metadata>

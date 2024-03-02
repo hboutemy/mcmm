@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.fapi</groupId>
   <artifactId>gravitee-am-fapi-resource-api</artifactId>
   <versioning>
-    <latest>4.2.4</latest>
-    <release>4.2.4</release>
+    <latest>4.2.5</latest>
+    <release>4.2.5</release>
     <versions>
       <version>3.12.0</version>
       <version>3.12.1</version>
@@ -128,6 +128,7 @@
       <version>3.21.15</version>
       <version>3.21.17</version>
       <version>3.21.18</version>
+      <version>3.21.19</version>
       <version>4.0.0</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
@@ -138,6 +139,7 @@
       <version>4.0.9</version>
       <version>4.0.10</version>
       <version>4.0.11</version>
+      <version>4.0.12</version>
       <version>4.1.0-alpha.2</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
@@ -154,13 +156,15 @@
       <version>4.1.12</version>
       <version>4.1.13</version>
       <version>4.1.14</version>
+      <version>4.1.15</version>
       <version>4.2.0-alpha.1</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
       <version>4.2.2</version>
       <version>4.2.3</version>
       <version>4.2.4</version>
+      <version>4.2.5</version>
     </versions>
-    <lastUpdated>20240220094723</lastUpdated>
+    <lastUpdated>20240229135409</lastUpdated>
   </versioning>
 </metadata>

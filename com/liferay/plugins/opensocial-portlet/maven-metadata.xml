@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>opensocial-portlet</artifactId>
   <versioning>
-    <latest>7.3.10.51</latest>
-    <release>7.3.10.51</release>
+    <latest>7.4.10.3</latest>
+    <release>7.4.10.3</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -84,6 +84,7 @@
       <version>7.0.0.76</version>
       <version>7.0.0.77</version>
       <version>7.0.0.78</version>
+      <version>7.0.0.120</version>
       <version>7.0.10.79</version>
       <version>7.0.10.80</version>
       <version>7.0.10.81</version>
@@ -125,6 +126,7 @@
       <version>7.0.10.117</version>
       <version>7.0.10.118</version>
       <version>7.0.10.119</version>
+      <version>7.0.10.121</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
       <version>7.1.0.3</version>
@@ -208,6 +210,9 @@
       <version>7.1.10.81</version>
       <version>7.1.10.82</version>
       <version>7.1.10.83</version>
+      <version>7.1.10.84</version>
+      <version>7.1.10.85</version>
+      <version>7.1.10.86</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -277,6 +282,9 @@
       <version>7.2.10.66</version>
       <version>7.2.10.67</version>
       <version>7.2.10.68</version>
+      <version>7.2.10.70</version>
+      <version>7.2.10.71</version>
+      <version>7.2.10.72</version>
       <version>7.3.10.1</version>
       <version>7.3.10.2</version>
       <version>7.3.10.3</version>
@@ -325,18 +333,14 @@
       <version>7.3.10.46</version>
       <version>7.3.10.47</version>
       <version>7.3.10.48</version>
+      <version>7.3.10.49</version>
+      <version>7.3.10.50</version>
+      <version>7.3.10.51</version>
+      <version>7.3.10.52</version>
       <version>7.4.10.1</version>
       <version>7.4.10.2</version>
       <version>7.4.10.3</version>
-      <version>7.3.10.49</version>
-      <version>7.1.10.84</version>
-      <version>7.2.10.70</version>
-      <version>7.3.10.50</version>
-      <version>7.0.0.120</version>
-      <version>7.1.10.85</version>
-      <version>7.2.10.71</version>
-      <version>7.3.10.51</version>
     </versions>
-    <lastUpdated>20231207173807</lastUpdated>
+    <lastUpdated>20240228103318</lastUpdated>
   </versioning>
 </metadata>

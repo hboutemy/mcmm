@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.product.navigation.personal.menu.api</artifactId>
   <versioning>
-    <latest>4.2.0</latest>
-    <release>4.2.0</release>
+    <latest>5.1.0</latest>
+    <release>5.1.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -38,6 +38,7 @@
       <version>1.2.13</version>
       <version>1.2.14</version>
       <version>1.2.15</version>
+      <version>1.2.16</version>
       <version>2.0.0</version>
       <version>2.0.1</version>
       <version>2.0.2</version>
@@ -62,6 +63,7 @@
       <version>2.0.21</version>
       <version>2.0.22</version>
       <version>2.0.23</version>
+      <version>2.0.24</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -79,7 +81,10 @@
       <version>4.1.2</version>
       <version>4.1.3</version>
       <version>4.2.0</version>
+      <version>5.0.0</version>
+      <version>5.0.1</version>
+      <version>5.1.0</version>
     </versions>
-    <lastUpdated>20231118115416</lastUpdated>
+    <lastUpdated>20240229135446</lastUpdated>
   </versioning>
 </metadata>

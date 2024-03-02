@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.marketplace.service</artifactId>
   <versioning>
@@ -103,6 +103,7 @@
       <version>3.0.56</version>
       <version>3.0.57</version>
       <version>3.0.58</version>
+      <version>3.0.59</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -160,6 +161,7 @@
       <version>4.0.54</version>
       <version>4.0.55</version>
       <version>4.0.56</version>
+      <version>4.0.57</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -202,6 +204,7 @@
       <version>5.0.39</version>
       <version>5.0.40</version>
       <version>5.0.41</version>
+      <version>5.0.42</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -237,6 +240,7 @@
       <version>6.0.32</version>
       <version>6.0.33</version>
       <version>6.0.34</version>
+      <version>6.0.35</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -283,16 +287,12 @@
       <version>7.0.43</version>
       <version>7.0.44</version>
       <version>7.0.45</version>
-      <version>6.0.35</version>
-      <version>4.0.57</version>
-      <version>5.0.42</version>
       <version>7.0.46</version>
       <version>7.0.47</version>
       <version>7.0.48</version>
       <version>7.0.49</version>
-      <version>3.0.59</version>
       <version>7.0.50</version>
     </versions>
-    <lastUpdated>20240107072431</lastUpdated>
+    <lastUpdated>20240131085257</lastUpdated>
   </versioning>
 </metadata>

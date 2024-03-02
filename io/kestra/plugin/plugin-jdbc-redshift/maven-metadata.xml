@@ -3,8 +3,8 @@
   <groupId>io.kestra.plugin</groupId>
   <artifactId>plugin-jdbc-redshift</artifactId>
   <versioning>
-    <latest>0.14.0</latest>
-    <release>0.14.0</release>
+    <latest>0.15.0</latest>
+    <release>0.15.0</release>
     <versions>
       <version>0.2.8</version>
       <version>0.3.0</version>
@@ -26,7 +26,8 @@
       <version>0.12.0</version>
       <version>0.13.0</version>
       <version>0.14.0</version>
+      <version>0.15.0</version>
     </versions>
-    <lastUpdated>20240121204046</lastUpdated>
+    <lastUpdated>20240229164722</lastUpdated>
   </versioning>
 </metadata>
