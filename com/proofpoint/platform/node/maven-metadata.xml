@@ -3,8 +3,8 @@
   <groupId>com.proofpoint.platform</groupId>
   <artifactId>node</artifactId>
   <versioning>
-    <latest>3.14</latest>
-    <release>3.14</release>
+    <latest>3.15</latest>
+    <release>3.15</release>
     <versions>
       <version>0.44</version>
       <version>0.45</version>
@@ -258,8 +258,9 @@
       <version>3.12</version>
       <version>3.13</version>
       <version>3.14</version>
+      <version>3.15</version>
       <version>1.22</version>
     </versions>
-    <lastUpdated>20240226204936</lastUpdated>
+    <lastUpdated>20240301031831</lastUpdated>
   </versioning>
 </metadata>

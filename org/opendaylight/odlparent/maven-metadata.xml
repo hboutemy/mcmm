@@ -8,6 +8,11 @@
     </plugin>
     <plugin>
       <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>features-test</prefix>
+      <artifactId>features-test-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
       <prefix>filter-manifest</prefix>
       <artifactId>filter-manifest-plugin</artifactId>
     </plugin>
