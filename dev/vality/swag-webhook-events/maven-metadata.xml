@@ -3,8 +3,8 @@
   <groupId>dev.vality</groupId>
   <artifactId>swag-webhook-events</artifactId>
   <versioning>
-    <latest>1.117-e621c83-server</latest>
-    <release>1.117-e621c83-server</release>
+    <latest>1.122-9daaca8-server</latest>
+    <release>1.122-9daaca8-server</release>
     <versions>
       <version>1.1-b58fe32-client</version>
       <version>1.1-b58fe32-server</version>
@@ -42,7 +42,11 @@
       <version>1.112-a02ceb6-server</version>
       <version>1.117-e621c83-client</version>
       <version>1.117-e621c83-server</version>
+      <version>1.120-bbf49ec-client</version>
+      <version>1.120-bbf49ec-server</version>
+      <version>1.122-9daaca8-client</version>
+      <version>1.122-9daaca8-server</version>
     </versions>
-    <lastUpdated>20240226072624</lastUpdated>
+    <lastUpdated>20240228150952</lastUpdated>
   </versioning>
 </metadata>
