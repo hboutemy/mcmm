@@ -3,8 +3,8 @@
   <groupId>com.gu</groupId>
   <artifactId>content-api-firehose-client_2.12</artifactId>
   <versioning>
-    <latest>1.0.13-PREVIEW.rt-dbremove-travis-file.2024-01-10T1738.6e259255</latest>
-    <release>1.0.13-PREVIEW.rt-dbremove-travis-file.2024-01-10T1738.6e259255</release>
+    <latest>1.0.16-PREVIEW.dbfix-snyk-high-in-ion-java.2024-03-04T1724.ed749646</latest>
+    <release>1.0.16-PREVIEW.dbfix-snyk-high-in-ion-java.2024-03-04T1724.ed749646</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -25,7 +25,10 @@
       <version>1.0.12</version>
       <version>1.0.13</version>
       <version>1.0.13-PREVIEW.rt-dbremove-travis-file.2024-01-10T1738.6e259255</version>
+      <version>1.0.15</version>
+      <version>1.0.15-PREVIEW.dbfix-snyk-high-in-commons-compress.2024-03-04T1100.508c7e6b</version>
+      <version>1.0.16-PREVIEW.dbfix-snyk-high-in-ion-java.2024-03-04T1724.ed749646</version>
     </versions>
-    <lastUpdated>20240115152130</lastUpdated>
+    <lastUpdated>20240304172938</lastUpdated>
   </versioning>
 </metadata>

@@ -4,7 +4,7 @@
   <artifactId>keycloak-saml-core</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>23.0.7</release>
+    <release>24.0.0</release>
     <versions>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Beta2</version>
@@ -153,8 +153,9 @@
       <version>23.0.5</version>
       <version>23.0.6</version>
       <version>23.0.7</version>
+      <version>24.0.0</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20240222083913</lastUpdated>
+    <lastUpdated>20240304092059</lastUpdated>
   </versioning>
 </metadata>
