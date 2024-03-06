@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Micronaut Import Maven Plugin</name>
+      <prefix>micronaut-import</prefix>
+      <artifactId>micronaut-import-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

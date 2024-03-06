@@ -3,13 +3,17 @@
   <groupId>com.tangzc</groupId>
   <artifactId>mybatis-plus-ext-annotation</artifactId>
   <versioning>
-    <latest>3.5.5-EXT560-boot3</latest>
-    <release>3.5.5-EXT560-boot3</release>
+    <latest>3.5.5-EXT601-beta</latest>
+    <release>3.5.5-EXT601-beta</release>
     <versions>
+      <version>3.5.5-EXT600-beta</version>
+      <version>3.5.5-EXT601-beta</version>
       <version>1.1.0</version>
       <version>1.1.2</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
+      <version>1.2.10</version>
+      <version>1.2.11</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.2.4</version>
@@ -18,10 +22,10 @@
       <version>1.2.7</version>
       <version>1.2.8</version>
       <version>1.2.9</version>
-      <version>1.2.10</version>
-      <version>1.2.11</version>
       <version>1.3.0</version>
       <version>1.3.1</version>
+      <version>1.3.10</version>
+      <version>1.3.11</version>
       <version>1.3.2</version>
       <version>1.3.3</version>
       <version>1.3.4</version>
@@ -30,8 +34,6 @@
       <version>1.3.7</version>
       <version>1.3.8</version>
       <version>1.3.9</version>
-      <version>1.3.10</version>
-      <version>1.3.11</version>
       <version>3.5.2-EXT140</version>
       <version>3.5.2-EXT141</version>
       <version>3.5.2-EXT142</version>
@@ -100,6 +102,6 @@
       <version>3.5.5-EXT560</version>
       <version>3.5.5-EXT560-boot3</version>
     </versions>
-    <lastUpdated>20240205064625</lastUpdated>
+    <lastUpdated>20240305101709</lastUpdated>
   </versioning>
 </metadata>

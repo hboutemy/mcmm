@@ -3,8 +3,8 @@
   <groupId>io.quarkus.http</groupId>
   <artifactId>quarkus-http-vertx-backend</artifactId>
   <versioning>
-    <latest>5.2.0.Final</latest>
-    <release>5.2.0.Final</release>
+    <latest>5.2.1.Final</latest>
+    <release>5.2.1.Final</release>
     <versions>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
@@ -56,6 +56,7 @@
       <version>5.0.3.Final</version>
       <version>5.1.0.Final</version>
       <version>5.2.0.Final</version>
+      <version>5.2.1.Final</version>
       <version>3.1.0.Beta1</version>
       <version>3.1.0.Beta2</version>
       <version>3.1.0.Final</version>
@@ -63,6 +64,6 @@
       <version>4.0.0.Alpha3</version>
       <version>4.0.0.Alpha4</version>
     </versions>
-    <lastUpdated>20240301133800</lastUpdated>
+    <lastUpdated>20240305191217</lastUpdated>
   </versioning>
 </metadata>

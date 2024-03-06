@@ -3,8 +3,8 @@
   <groupId>io.camunda.spring</groupId>
   <artifactId>java-common</artifactId>
   <versioning>
-    <latest>8.4.2-rc1</latest>
-    <release>8.4.2-rc1</release>
+    <latest>8.5.0-rc1</latest>
+    <release>8.5.0-rc1</release>
     <versions>
       <version>8.3.2-rc1</version>
       <version>8.3.2-rc2</version>
@@ -26,6 +26,7 @@
       <version>8.3.4.8</version>
       <version>8.3.5</version>
       <version>8.3.6-rc1</version>
+      <version>8.3.6-rc2</version>
       <version>8.4.0-alpha2-rc1</version>
       <version>8.4.0-alpha2-rc2</version>
       <version>8.4.0-alpha2-rc3</version>
@@ -40,7 +41,9 @@
       <version>8.4.1-rc2</version>
       <version>8.4.1</version>
       <version>8.4.2-rc1</version>
+      <version>8.4.2-rc2</version>
+      <version>8.5.0-rc1</version>
     </versions>
-    <lastUpdated>20240222145004</lastUpdated>
+    <lastUpdated>20240305153204</lastUpdated>
   </versioning>
 </metadata>

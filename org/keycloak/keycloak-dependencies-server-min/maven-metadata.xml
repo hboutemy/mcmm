@@ -4,7 +4,7 @@
   <artifactId>keycloak-dependencies-server-min</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>24.0.0</release>
+    <release>24.0.1</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -163,8 +163,9 @@
       <version>23.0.6</version>
       <version>23.0.7</version>
       <version>24.0.0</version>
+      <version>24.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20240304092059</lastUpdated>
+    <lastUpdated>20240305080226</lastUpdated>
   </versioning>
 </metadata>
