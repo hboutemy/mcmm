@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-storage-redis</artifactId>
   <versioning>
-    <latest>2.6.0.Alpha2</latest>
-    <release>2.6.0.Alpha2</release>
+    <latest>2.6.0.Beta1</latest>
+    <release>2.6.0.Beta1</release>
     <versions>
       <version>2.1.0.Alpha1</version>
       <version>2.1.0.Alpha2</version>
@@ -48,7 +48,8 @@
       <version>2.5.1.Final</version>
       <version>2.6.0.Alpha1</version>
       <version>2.6.0.Alpha2</version>
+      <version>2.6.0.Beta1</version>
     </versions>
-    <lastUpdated>20240213110522</lastUpdated>
+    <lastUpdated>20240306091238</lastUpdated>
   </versioning>
 </metadata>

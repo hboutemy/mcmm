@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud</groupId>
   <artifactId>neo-java-web-maven-plugin</artifactId>
   <versioning>
-    <latest>4.70.8</latest>
-    <release>4.70.8</release>
+    <latest>4.71.11</latest>
+    <release>4.71.11</release>
     <versions>
       <version>1.53.18.2</version>
       <version>1.54.23.3</version>
@@ -475,6 +475,7 @@
       <version>3.195.5</version>
       <version>3.196.6</version>
       <version>3.197.3</version>
+      <version>3.198.5</version>
       <version>4.1.9</version>
       <version>4.2.4</version>
       <version>4.3.8</version>
@@ -544,7 +545,8 @@
       <version>4.68.9</version>
       <version>4.69.7</version>
       <version>4.70.8</version>
+      <version>4.71.11</version>
     </versions>
-    <lastUpdated>20240221131413</lastUpdated>
+    <lastUpdated>20240306153856</lastUpdated>
   </versioning>
 </metadata>
