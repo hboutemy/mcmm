@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>jackson-datatype-feel</artifactId>
   <versioning>
-    <latest>8.5.0-alpha1</latest>
-    <release>8.5.0-alpha1</release>
+    <latest>8.5.0-alpha2</latest>
+    <release>8.5.0-alpha2</release>
     <versions>
       <version>0.22.0-alpha2</version>
       <version>0.22.0</version>
@@ -19,6 +19,7 @@
       <version>8.3.5</version>
       <version>8.3.6</version>
       <version>8.3.7</version>
+      <version>8.3.8</version>
       <version>8.4.0-alpha1</version>
       <version>8.4.0-alpha2</version>
       <version>8.4.0</version>
@@ -26,8 +27,10 @@
       <version>8.4.2</version>
       <version>8.4.3</version>
       <version>8.4.4</version>
+      <version>8.4.5</version>
       <version>8.5.0-alpha1</version>
+      <version>8.5.0-alpha2</version>
     </versions>
-    <lastUpdated>20240209100049</lastUpdated>
+    <lastUpdated>20240307120649</lastUpdated>
   </versioning>
 </metadata>

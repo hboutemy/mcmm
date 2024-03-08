@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-opentelemetry-exporter-jaeger</artifactId>
   <versioning>
-    <latest>3.8.1</latest>
-    <release>3.8.1</release>
+    <latest>3.8.2</latest>
+    <release>3.8.2</release>
     <versions>
       <version>1.13.0.Final</version>
       <version>1.13.1.Final</version>
@@ -190,7 +190,8 @@
       <version>3.8.0.CR1</version>
       <version>3.8.0</version>
       <version>3.8.1</version>
+      <version>3.8.2</version>
     </versions>
-    <lastUpdated>20240228103118</lastUpdated>
+    <lastUpdated>20240307115020</lastUpdated>
   </versioning>
 </metadata>

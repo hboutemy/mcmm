@@ -3,8 +3,8 @@
   <groupId>com.revenuecat.purchases</groupId>
   <artifactId>purchases-custom-entitlement-computation</artifactId>
   <versioning>
-    <latest>7.7.0</latest>
-    <release>7.7.0</release>
+    <latest>7.7.1</latest>
+    <release>7.7.1</release>
     <versions>
       <version>6.8.0</version>
       <version>6.9.0</version>
@@ -14,6 +14,7 @@
       <version>6.9.4</version>
       <version>6.9.5</version>
       <version>6.9.6</version>
+      <version>6.9.7</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.1.0-beta.1</version>
@@ -44,7 +45,8 @@
       <version>7.5.2</version>
       <version>7.6.0</version>
       <version>7.7.0</version>
+      <version>7.7.1</version>
     </versions>
-    <lastUpdated>20240304205505</lastUpdated>
+    <lastUpdated>20240307174430</lastUpdated>
   </versioning>
 </metadata>
