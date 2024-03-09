@@ -14,6 +14,10 @@
       <artifactId>ae-inventory-enrichment-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>ae-inventory-overview-html-report</prefix>
+      <artifactId>ae-inventory-overview-html-report</artifactId>
+    </plugin>
+    <plugin>
       <prefix>ae-mirror</prefix>
       <artifactId>ae-mirror-plugin</artifactId>
     </plugin>
