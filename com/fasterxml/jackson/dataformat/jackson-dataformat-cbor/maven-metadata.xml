@@ -3,8 +3,8 @@
   <groupId>com.fasterxml.jackson.dataformat</groupId>
   <artifactId>jackson-dataformat-cbor</artifactId>
   <versioning>
-    <latest>2.16.1</latest>
-    <release>2.16.1</release>
+    <latest>2.17.0-rc1</latest>
+    <release>2.17.0-rc1</release>
     <versions>
       <version>2.3.2</version>
       <version>2.3.3</version>
@@ -130,8 +130,9 @@
       <version>2.16.0-rc1</version>
       <version>2.16.0</version>
       <version>2.16.1</version>
+      <version>2.16.2</version>
       <version>2.5.4</version>
     </versions>
-    <lastUpdated>20240215180545</lastUpdated>
+    <lastUpdated>20240309191949</lastUpdated>
   </versioning>
 </metadata>
