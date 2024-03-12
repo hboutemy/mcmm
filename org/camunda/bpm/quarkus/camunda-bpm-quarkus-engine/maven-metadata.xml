@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.quarkus</groupId>
   <artifactId>camunda-bpm-quarkus-engine</artifactId>
   <versioning>
-    <latest>7.21.0-alpha3</latest>
-    <release>7.21.0-alpha3</release>
+    <latest>7.21.0-alpha4</latest>
+    <release>7.21.0-alpha4</release>
     <versions>
       <version>7.16.0-alpha4</version>
       <version>7.16.0-alpha5</version>
@@ -39,7 +39,8 @@
       <version>7.21.0-alpha1</version>
       <version>7.21.0-alpha2</version>
       <version>7.21.0-alpha3</version>
+      <version>7.21.0-alpha4</version>
     </versions>
-    <lastUpdated>20240212094707</lastUpdated>
+    <lastUpdated>20240311094418</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-coroutines-reactor</artifactId>
   <versioning>
-    <latest>1.8.0</latest>
-    <release>1.8.0</release>
+    <latest>1.8.1-Beta</latest>
+    <release>1.8.1-Beta</release>
     <versions>
       <version>0.19-alpha-4</version>
       <version>0.19</version>
@@ -113,7 +113,8 @@
       <version>1.8.0-RC</version>
       <version>1.8.0-RC2</version>
       <version>1.8.0</version>
+      <version>1.8.1-Beta</version>
     </versions>
-    <lastUpdated>20240215144239</lastUpdated>
+    <lastUpdated>20240311171758</lastUpdated>
   </versioning>
 </metadata>
