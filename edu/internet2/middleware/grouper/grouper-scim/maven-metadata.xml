@@ -3,8 +3,8 @@
   <groupId>edu.internet2.middleware.grouper</groupId>
   <artifactId>grouper-scim</artifactId>
   <versioning>
-    <latest>5.8.4</latest>
-    <release>5.8.4</release>
+    <latest>5.8.5</latest>
+    <release>5.8.5</release>
     <versions>
       <version>1.99.1</version>
       <version>1.99.2</version>
@@ -137,6 +137,7 @@
       <version>4.10.3</version>
       <version>4.10.4</version>
       <version>4.11.1</version>
+      <version>4.11.2</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -157,7 +158,8 @@
       <version>5.8.2</version>
       <version>5.8.3</version>
       <version>5.8.4</version>
+      <version>5.8.5</version>
     </versions>
-    <lastUpdated>20240305054339</lastUpdated>
+    <lastUpdated>20240310014934</lastUpdated>
   </versioning>
 </metadata>
