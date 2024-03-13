@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>co.elastic.apm</groupId>
   <artifactId>android-sdk</artifactId>
   <versioning>
-    <latest>1.13.1</latest>
-    <release>1.13.1</release>
+    <latest>0.15.0</latest>
+    <release>0.15.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -23,6 +23,6 @@
       <version>0.15.0</version>
       <version>1.13.1</version>
     </versions>
-    <lastUpdated>20240311095004</lastUpdated>
+    <lastUpdated>20240312175838</lastUpdated>
   </versioning>
 </metadata>

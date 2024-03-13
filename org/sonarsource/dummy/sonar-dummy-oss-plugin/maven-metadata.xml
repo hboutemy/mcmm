@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.dummy</groupId>
   <artifactId>sonar-dummy-oss-plugin</artifactId>
   <versioning>
-    <latest>2.6.0.5336</latest>
-    <release>2.6.0.5336</release>
+    <latest>2.6.0.5443</latest>
+    <release>2.6.0.5443</release>
     <versions>
       <version>2.5.0.62</version>
       <version>2.5.0.85</version>
@@ -54,6 +54,10 @@
       <version>2.6.0.5328</version>
       <version>2.6.0.5332</version>
       <version>2.6.0.5336</version>
+      <version>2.6.0.5430</version>
+      <version>2.6.0.5434</version>
+      <version>2.6.0.5438</version>
+      <version>2.6.0.5443</version>
       <version>2.6.0.5371</version>
       <version>2.6.0.5374</version>
       <version>2.6.0.5380</version>
@@ -61,6 +65,6 @@
       <version>2.6.0.5414</version>
       <version>2.6.0.5420</version>
     </versions>
-    <lastUpdated>20240209130644</lastUpdated>
+    <lastUpdated>20240312155105</lastUpdated>
   </versioning>
 </metadata>

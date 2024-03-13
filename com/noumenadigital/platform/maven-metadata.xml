@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>NPL Maven Plugin</name>
+      <name>${project.artifactId}</name>
       <prefix>npl</prefix>
       <artifactId>npl-maven-plugin</artifactId>
     </plugin>
