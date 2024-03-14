@@ -3,8 +3,8 @@
   <groupId>cn.org.opendfl</groupId>
   <artifactId>openim-java-sdk</artifactId>
   <versioning>
-    <latest>0.6-springboot3</latest>
-    <release>0.6-springboot3</release>
+    <latest>0.7-nospring</latest>
+    <release>0.7-nospring</release>
     <versions>
       <version>0.1</version>
       <version>0.2</version>
@@ -15,7 +15,8 @@
       <version>0.6-nospring</version>
       <version>0.6-springboot2</version>
       <version>0.6-springboot3</version>
+      <version>0.7-nospring</version>
     </versions>
-    <lastUpdated>20230927150341</lastUpdated>
+    <lastUpdated>20240313143730</lastUpdated>
   </versioning>
 </metadata>

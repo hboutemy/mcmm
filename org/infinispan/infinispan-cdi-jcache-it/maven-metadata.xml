@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cdi-jcache-it</artifactId>
   <versioning>
-    <latest>14.0.25.Final</latest>
-    <release>14.0.25.Final</release>
+    <latest>14.0.26.Final</latest>
+    <release>14.0.26.Final</release>
     <versions>
       <version>6.0.0.CR1</version>
       <version>6.0.0.Final</version>
@@ -298,8 +298,9 @@
       <version>14.0.23.Final</version>
       <version>14.0.24.Final</version>
       <version>14.0.25.Final</version>
+      <version>14.0.26.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20240222192834</lastUpdated>
+    <lastUpdated>20240313121728</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>scylla-hadoop-util</artifactId>
   <versioning>
-    <latest>1.1.0-20240312-133228.5ab45bd</latest>
-    <release>1.1.0-20240312-133228.5ab45bd</release>
+    <latest>1.1.0-20240313-131849.01c897c</latest>
+    <release>1.1.0-20240313-131849.01c897c</release>
     <versions>
       <version>1.0.0-rc2</version>
       <version>1.0.0-rc2-20230226-113902.ba672b9</version>
@@ -240,6 +240,8 @@
       <version>1.0.1-20240312-132606.32a51a6</version>
       <version>1.0.1-20240312-132939.1de2165</version>
       <version>1.0.1-20240312-133042.809bbdd</version>
+      <version>1.0.1-20240313-194655.f0a08f9</version>
+      <version>1.0.1-20240313-195124.cc6d1af</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -301,7 +303,9 @@
       <version>1.1.0-20240309-134522.41ee631</version>
       <version>1.1.0-20240312-072738.e955783</version>
       <version>1.1.0-20240312-133228.5ab45bd</version>
+      <version>1.1.0-20240313-091223.330e794</version>
+      <version>1.1.0-20240313-131849.01c897c</version>
     </versions>
-    <lastUpdated>20240312135316</lastUpdated>
+    <lastUpdated>20240313200102</lastUpdated>
   </versioning>
 </metadata>

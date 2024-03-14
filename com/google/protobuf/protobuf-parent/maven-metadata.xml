@@ -3,8 +3,8 @@
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-parent</artifactId>
   <versioning>
-    <latest>4.26.0-RC3</latest>
-    <release>4.26.0-RC3</release>
+    <latest>4.26.0</latest>
+    <release>4.26.0</release>
     <versions>
       <version>3.0.0-beta-3</version>
       <version>3.0.0-beta-4</version>
@@ -143,8 +143,9 @@
       <version>4.26.0-RC1</version>
       <version>4.26.0-RC2</version>
       <version>4.26.0-RC3</version>
+      <version>4.26.0</version>
       <version>3.22.0-RC1</version>
     </versions>
-    <lastUpdated>20240229005135</lastUpdated>
+    <lastUpdated>20240313183306</lastUpdated>
   </versioning>
 </metadata>

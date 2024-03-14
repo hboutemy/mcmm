@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>client-java-proto</artifactId>
   <versioning>
-    <latest>20.0.0-legacy</latest>
-    <release>20.0.0-legacy</release>
+    <latest>20.0.1</latest>
+    <release>20.0.1</release>
     <versions>
       <version>0.2</version>
       <version>1.0.0-beta1</version>
@@ -61,7 +61,8 @@
       <version>19.0.0</version>
       <version>20.0.0</version>
       <version>20.0.0-legacy</version>
+      <version>20.0.1</version>
     </versions>
-    <lastUpdated>20240210033755</lastUpdated>
+    <lastUpdated>20240313165353</lastUpdated>
   </versioning>
 </metadata>

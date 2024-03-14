@@ -3,8 +3,8 @@
   <groupId>org.neo4j.build</groupId>
   <artifactId>build-resources</artifactId>
   <versioning>
-    <latest>5.17.0</latest>
-    <release>5.17.0</release>
+    <latest>5.18.0</latest>
+    <release>5.18.0</release>
     <versions>
       <version>3.4.1</version>
       <version>3.4.3</version>
@@ -193,7 +193,8 @@
       <version>5.15.0</version>
       <version>5.16.0</version>
       <version>5.17.0</version>
+      <version>5.18.0</version>
     </versions>
-    <lastUpdated>20240228101618</lastUpdated>
+    <lastUpdated>20240313065911</lastUpdated>
   </versioning>
 </metadata>
