@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-java-http-client</artifactId>
   <versioning>
-    <latest>2.1.0-alpha</latest>
-    <release>2.1.0-alpha</release>
+    <latest>2.2.0-alpha</latest>
+    <release>2.2.0-alpha</release>
     <versions>
       <version>1.25.0-alpha</version>
       <version>1.25.1-alpha</version>
@@ -19,7 +19,8 @@
       <version>1.33.0-alpha</version>
       <version>2.0.0-alpha</version>
       <version>2.1.0-alpha</version>
+      <version>2.2.0-alpha</version>
     </versions>
-    <lastUpdated>20240228184702</lastUpdated>
+    <lastUpdated>20240314222013</lastUpdated>
   </versioning>
 </metadata>

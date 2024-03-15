@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.search.solr8.impl</artifactId>
   <versioning>
-    <latest>5.0.23</latest>
-    <release>5.0.23</release>
+    <latest>5.0.24</latest>
+    <release>5.0.24</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -102,7 +102,8 @@
       <version>5.0.21</version>
       <version>5.0.22</version>
       <version>5.0.23</version>
+      <version>5.0.24</version>
     </versions>
-    <lastUpdated>20240228113036</lastUpdated>
+    <lastUpdated>20240314105845</lastUpdated>
   </versioning>
 </metadata>

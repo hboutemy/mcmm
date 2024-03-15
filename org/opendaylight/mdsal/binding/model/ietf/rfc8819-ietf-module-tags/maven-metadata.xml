@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.binding.model.ietf</groupId>
   <artifactId>rfc8819-ietf-module-tags</artifactId>
   <versioning>
-    <latest>13.0.0</latest>
-    <release>13.0.0</release>
+    <latest>13.0.1</latest>
+    <release>13.0.1</release>
     <versions>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -46,7 +46,8 @@
       <version>12.0.3</version>
       <version>12.0.4</version>
       <version>13.0.0</version>
+      <version>13.0.1</version>
     </versions>
-    <lastUpdated>20240120151950</lastUpdated>
+    <lastUpdated>20240314072315</lastUpdated>
   </versioning>
 </metadata>

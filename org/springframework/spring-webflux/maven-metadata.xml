@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-webflux</artifactId>
   <versioning>
-    <latest>6.1.4</latest>
-    <release>6.1.4</release>
+    <latest>6.1.5</latest>
+    <release>6.1.5</release>
     <versions>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
@@ -107,6 +107,7 @@
       <version>5.3.30</version>
       <version>5.3.31</version>
       <version>5.3.32</version>
+      <version>5.3.33</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -125,12 +126,14 @@
       <version>6.0.15</version>
       <version>6.0.16</version>
       <version>6.0.17</version>
+      <version>6.0.18</version>
       <version>6.1.0</version>
       <version>6.1.1</version>
       <version>6.1.2</version>
       <version>6.1.3</version>
       <version>6.1.4</version>
+      <version>6.1.5</version>
     </versions>
-    <lastUpdated>20240215135839</lastUpdated>
+    <lastUpdated>20240314102154</lastUpdated>
   </versioning>
 </metadata>

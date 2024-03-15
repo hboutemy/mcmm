@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-expression-language</artifactId>
   <versioning>
-    <latest>8.5.0-alpha2</latest>
-    <release>8.5.0-alpha2</release>
+    <latest>8.5.0-RC1</latest>
+    <release>8.5.0-RC1</release>
     <versions>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
@@ -177,7 +177,8 @@
       <version>8.4.5</version>
       <version>8.5.0-alpha1</version>
       <version>8.5.0-alpha2</version>
+      <version>8.5.0-RC1</version>
     </versions>
-    <lastUpdated>20240306095027</lastUpdated>
+    <lastUpdated>20240314114037</lastUpdated>
   </versioning>
 </metadata>
