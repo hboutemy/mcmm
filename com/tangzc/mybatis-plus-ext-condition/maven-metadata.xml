@@ -3,9 +3,12 @@
   <groupId>com.tangzc</groupId>
   <artifactId>mybatis-plus-ext-condition</artifactId>
   <versioning>
-    <latest>3.5.5-EXT617</latest>
-    <release>3.5.5-EXT617</release>
+    <latest>3.5.5-EXT618</latest>
+    <release>3.5.5-EXT618</release>
     <versions>
+      <version>3.5.5-EXT618</version>
+      <version>1.2.10</version>
+      <version>1.2.11</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.2.4</version>
@@ -14,10 +17,10 @@
       <version>1.2.7</version>
       <version>1.2.8</version>
       <version>1.2.9</version>
-      <version>1.2.10</version>
-      <version>1.2.11</version>
       <version>1.3.0</version>
       <version>1.3.1</version>
+      <version>1.3.10</version>
+      <version>1.3.11</version>
       <version>1.3.2</version>
       <version>1.3.3</version>
       <version>1.3.4</version>
@@ -26,8 +29,6 @@
       <version>1.3.7</version>
       <version>1.3.8</version>
       <version>1.3.9</version>
-      <version>1.3.10</version>
-      <version>1.3.11</version>
       <version>3.5.2-EXT140</version>
       <version>3.5.2-EXT141</version>
       <version>3.5.2-EXT142</version>
@@ -106,6 +107,6 @@
       <version>3.5.5-EXT616</version>
       <version>3.5.5-EXT617</version>
     </versions>
-    <lastUpdated>20240314031640</lastUpdated>
+    <lastUpdated>20240315151715</lastUpdated>
   </versioning>
 </metadata>

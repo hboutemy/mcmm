@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.tapir</groupId>
   <artifactId>tapir-armeria-server_2.13</artifactId>
   <versioning>
-    <latest>1.9.11</latest>
-    <release>1.9.11</release>
+    <latest>1.10.0</latest>
+    <release>1.10.0</release>
     <versions>
       <version>0.20.0-M10</version>
       <version>0.20.0</version>
@@ -84,7 +84,8 @@
       <version>1.9.9</version>
       <version>1.9.10</version>
       <version>1.9.11</version>
+      <version>1.10.0</version>
     </versions>
-    <lastUpdated>20240306174645</lastUpdated>
+    <lastUpdated>20240315110034</lastUpdated>
   </versioning>
 </metadata>

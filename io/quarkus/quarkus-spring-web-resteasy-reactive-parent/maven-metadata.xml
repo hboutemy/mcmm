@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-web-resteasy-reactive-parent</artifactId>
   <versioning>
-    <latest>3.8.2</latest>
-    <release>3.8.2</release>
+    <latest>3.8.3</latest>
+    <release>3.8.3</release>
     <versions>
       <version>2.5.0.CR1</version>
       <version>2.5.0.Final</version>
@@ -154,7 +154,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.8.2</version>
+      <version>3.8.3</version>
     </versions>
-    <lastUpdated>20240314145823</lastUpdated>
+    <lastUpdated>20240315165432</lastUpdated>
   </versioning>
 </metadata>
