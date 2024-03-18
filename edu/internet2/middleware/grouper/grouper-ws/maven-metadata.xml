@@ -3,8 +3,8 @@
   <groupId>edu.internet2.middleware.grouper</groupId>
   <artifactId>grouper-ws</artifactId>
   <versioning>
-    <latest>5.8.5</latest>
-    <release>5.8.5</release>
+    <latest>5.8.7</latest>
+    <release>5.8.7</release>
     <versions>
       <version>1.99.1</version>
       <version>1.99.2</version>
@@ -135,6 +135,7 @@
       <version>4.10.4</version>
       <version>4.11.1</version>
       <version>4.11.2</version>
+      <version>4.11.3</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -156,7 +157,8 @@
       <version>5.8.3</version>
       <version>5.8.4</version>
       <version>5.8.5</version>
+      <version>5.8.7</version>
     </versions>
-    <lastUpdated>20240310014937</lastUpdated>
+    <lastUpdated>20240317213708</lastUpdated>
   </versioning>
 </metadata>

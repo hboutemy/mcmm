@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Git Mantra</name>
+      <prefix>gmantra</prefix>
+      <artifactId>gmantra-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JCR Cleaner</name>
       <prefix>jcrcleaner</prefix>
       <artifactId>jcrcleaner-maven-plugin</artifactId>
