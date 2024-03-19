@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-local</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.1.0</latest>
+    <release>10.1.0</release>
     <versions>
       <version>0.0.7</version>
       <version>0.0.8</version>
@@ -627,7 +627,8 @@
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>10.0.0</version>
+      <version>10.1.0</version>
     </versions>
-    <lastUpdated>20240110113842</lastUpdated>
+    <lastUpdated>20240318084727</lastUpdated>
   </versioning>
 </metadata>

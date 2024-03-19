@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Agent Embedder Maven Plugin</name>
+      <prefix>agent-embedder</prefix>
+      <artifactId>agent-embedder-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>AspectJ Maven Plugin</name>
       <prefix>aspectj</prefix>
       <artifactId>aspectj-maven-plugin</artifactId>

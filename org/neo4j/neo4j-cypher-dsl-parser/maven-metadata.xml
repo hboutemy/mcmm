@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-dsl-parser</artifactId>
   <versioning>
-    <latest>2023.9.4</latest>
-    <release>2023.9.4</release>
+    <latest>2023.9.5</latest>
+    <release>2023.9.5</release>
     <versions>
       <version>2021.3.0</version>
       <version>2021.3.1</version>
@@ -60,7 +60,8 @@
       <version>2023.9.2</version>
       <version>2023.9.3</version>
       <version>2023.9.4</version>
+      <version>2023.9.5</version>
     </versions>
-    <lastUpdated>20240226120440</lastUpdated>
+    <lastUpdated>20240318140525</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>lock-conjure-api-jersey</artifactId>
   <versioning>
-    <latest>0.1056.0</latest>
-    <release>0.1056.0</release>
+    <latest>0.1059.0</latest>
+    <release>0.1059.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -883,12 +883,16 @@
       <version>0.1050.0</version>
       <version>0.1051.0-rc1</version>
       <version>0.1051.0-rc3</version>
+      <version>0.1051.0-rc4</version>
       <version>0.1051.0</version>
       <version>0.1053.0</version>
       <version>0.1054.0</version>
       <version>0.1055.0</version>
       <version>0.1056.0</version>
+      <version>0.1057.0</version>
+      <version>0.1058.0</version>
+      <version>0.1059.0</version>
     </versions>
-    <lastUpdated>20240316145111</lastUpdated>
+    <lastUpdated>20240318190923</lastUpdated>
   </versioning>
 </metadata>

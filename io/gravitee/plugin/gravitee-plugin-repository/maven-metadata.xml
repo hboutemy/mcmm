@@ -3,8 +3,8 @@
   <groupId>io.gravitee.plugin</groupId>
   <artifactId>gravitee-plugin-repository</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.2.0-alpha.1</latest>
+    <release>3.2.0-alpha.1</release>
     <versions>
       <version>1.12.0</version>
       <version>1.13.0</version>
@@ -48,7 +48,8 @@
       <version>2.2.1</version>
       <version>3.0.0</version>
       <version>3.1.0</version>
+      <version>3.2.0-alpha.1</version>
     </versions>
-    <lastUpdated>20240125094607</lastUpdated>
+    <lastUpdated>20240318104633</lastUpdated>
   </versioning>
 </metadata>
