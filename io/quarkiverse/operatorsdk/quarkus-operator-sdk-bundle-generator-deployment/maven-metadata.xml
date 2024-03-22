@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.operatorsdk</groupId>
   <artifactId>quarkus-operator-sdk-bundle-generator-deployment</artifactId>
   <versioning>
-    <latest>6.6.5</latest>
-    <release>6.6.5</release>
+    <latest>6.6.6</latest>
+    <release>6.6.6</release>
     <versions>
       <version>4.0.0.Beta1</version>
       <version>4.0.0.Beta2</version>
@@ -62,7 +62,8 @@
       <version>6.6.3</version>
       <version>6.6.4</version>
       <version>6.6.5</version>
+      <version>6.6.6</version>
     </versions>
-    <lastUpdated>20240319215703</lastUpdated>
+    <lastUpdated>20240321144257</lastUpdated>
   </versioning>
 </metadata>

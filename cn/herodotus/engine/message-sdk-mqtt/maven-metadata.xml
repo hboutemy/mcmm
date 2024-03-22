@@ -3,8 +3,8 @@
   <groupId>cn.herodotus.engine</groupId>
   <artifactId>message-sdk-mqtt</artifactId>
   <versioning>
-    <latest>3.2.3.3</latest>
-    <release>3.2.3.3</release>
+    <latest>3.2.4.0</latest>
+    <release>3.2.4.0</release>
     <versions>
       <version>3.1.3.6</version>
       <version>3.1.4.0</version>
@@ -38,6 +38,7 @@
       <version>3.1.9.0</version>
       <version>3.1.9.1</version>
       <version>3.1.9.2</version>
+      <version>3.1.10.0</version>
       <version>3.2.0-RC1</version>
       <version>3.2.0-RC2</version>
       <version>3.2.0-RC3</version>
@@ -60,7 +61,8 @@
       <version>3.2.3.1</version>
       <version>3.2.3.2</version>
       <version>3.2.3.3</version>
+      <version>3.2.4.0</version>
     </versions>
-    <lastUpdated>20240313043810</lastUpdated>
+    <lastUpdated>20240321130621</lastUpdated>
   </versioning>
 </metadata>

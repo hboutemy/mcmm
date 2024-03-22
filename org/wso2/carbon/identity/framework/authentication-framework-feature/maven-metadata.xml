@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>authentication-framework-feature</artifactId>
   <versioning>
-    <latest>7.0.107</latest>
-    <release>7.0.107</release>
+    <latest>7.0.110</latest>
+    <release>7.0.110</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -2258,6 +2258,7 @@
       <version>5.25.687</version>
       <version>5.25.694</version>
       <version>5.25.697</version>
+      <version>5.25.698</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -2299,7 +2300,9 @@
       <version>7.0.105</version>
       <version>7.0.106</version>
       <version>7.0.107</version>
+      <version>7.0.109</version>
+      <version>7.0.110</version>
     </versions>
-    <lastUpdated>20240320161449</lastUpdated>
+    <lastUpdated>20240321162907</lastUpdated>
   </versioning>
 </metadata>
