@@ -552,7 +552,7 @@
       <artifactId>springws-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>SQL Plugin for Maven</name>
+      <name>SQL Maven Plugin</name>
       <prefix>sql</prefix>
       <artifactId>sql-maven-plugin</artifactId>
     </plugin>

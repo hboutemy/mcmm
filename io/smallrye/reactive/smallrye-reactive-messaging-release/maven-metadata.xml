@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>smallrye-reactive-messaging-release</artifactId>
   <versioning>
-    <latest>4.19.0-M2</latest>
-    <release>4.19.0-M2</release>
+    <latest>4.19.0</latest>
+    <release>4.19.0</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -109,10 +109,11 @@
       <version>4.18.0</version>
       <version>4.19.0-M1</version>
       <version>4.19.0-M2</version>
+      <version>4.19.0</version>
       <version>3.13.1</version>
       <version>4.10.2</version>
       <version>4.6.1</version>
     </versions>
-    <lastUpdated>20240314100219</lastUpdated>
+    <lastUpdated>20240319131444</lastUpdated>
   </versioning>
 </metadata>

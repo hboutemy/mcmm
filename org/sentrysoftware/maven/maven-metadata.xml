@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>MetricsHub Connector Maven Plugin</name>
+      <prefix>metricshub-connector</prefix>
+      <artifactId>metricshub-connector-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
