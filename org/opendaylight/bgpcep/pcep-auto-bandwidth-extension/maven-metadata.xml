@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>pcep-auto-bandwidth-extension</artifactId>
   <versioning>
-    <latest>0.21.2</latest>
-    <release>0.21.2</release>
+    <latest>0.21.3</latest>
+    <release>0.21.3</release>
     <versions>
       <version>0.4.4-Lithium-SR4</version>
       <version>0.5.0-Beryllium</version>
@@ -112,10 +112,12 @@
       <version>0.20.4</version>
       <version>0.20.5</version>
       <version>0.20.6</version>
+      <version>0.20.7</version>
       <version>0.21.0</version>
       <version>0.21.1</version>
       <version>0.21.2</version>
+      <version>0.21.3</version>
     </versions>
-    <lastUpdated>20240318061504</lastUpdated>
+    <lastUpdated>20240320071440</lastUpdated>
   </versioning>
 </metadata>
