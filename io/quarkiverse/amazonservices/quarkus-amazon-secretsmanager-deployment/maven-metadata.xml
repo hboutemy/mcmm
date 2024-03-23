@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.amazonservices</groupId>
   <artifactId>quarkus-amazon-secretsmanager-deployment</artifactId>
   <versioning>
-    <latest>2.13.0</latest>
-    <release>2.13.0</release>
+    <latest>2.13.1</latest>
+    <release>2.13.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -65,7 +65,8 @@
       <version>2.12.1</version>
       <version>2.12.2</version>
       <version>2.13.0</version>
+      <version>2.13.1</version>
     </versions>
-    <lastUpdated>20240321224914</lastUpdated>
+    <lastUpdated>20240322192808</lastUpdated>
   </versioning>
 </metadata>
