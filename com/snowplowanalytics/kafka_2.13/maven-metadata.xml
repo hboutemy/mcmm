@@ -3,8 +3,8 @@
   <groupId>com.snowplowanalytics</groupId>
   <artifactId>kafka_2.13</artifactId>
   <versioning>
-    <latest>0.5.0</latest>
-    <release>0.5.0</release>
+    <latest>0.5.1</latest>
+    <release>0.5.1</release>
     <versions>
       <version>0.1.0-M1</version>
       <version>0.1.0-M2</version>
@@ -38,7 +38,8 @@
       <version>0.5.0-M1</version>
       <version>0.5.0-M2</version>
       <version>0.5.0</version>
+      <version>0.5.1</version>
     </versions>
-    <lastUpdated>20240319084308</lastUpdated>
+    <lastUpdated>20240325154043</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-workload-server-distribution</artifactId>
   <versioning>
-    <latest>0.1065.0</latest>
-    <release>0.1065.0</release>
+    <latest>0.1066.0</latest>
+    <release>0.1066.0</release>
     <versions>
       <version>0.820.0</version>
       <version>0.821.0</version>
@@ -299,7 +299,9 @@
       <version>0.1063.0</version>
       <version>0.1064.0</version>
       <version>0.1065.0</version>
+      <version>0.1066.0-rc1</version>
+      <version>0.1066.0</version>
     </versions>
-    <lastUpdated>20240322162138</lastUpdated>
+    <lastUpdated>20240325220405</lastUpdated>
   </versioning>
 </metadata>
