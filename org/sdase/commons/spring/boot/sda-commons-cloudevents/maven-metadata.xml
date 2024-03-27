@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons.spring.boot</groupId>
   <artifactId>sda-commons-cloudevents</artifactId>
   <versioning>
-    <latest>4.1.14</latest>
-    <release>4.1.14</release>
+    <latest>4.1.16</latest>
+    <release>4.1.16</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -201,7 +201,9 @@
       <version>4.1.12</version>
       <version>4.1.13</version>
       <version>4.1.14</version>
+      <version>4.1.15</version>
+      <version>4.1.16</version>
     </versions>
-    <lastUpdated>20240322105601</lastUpdated>
+    <lastUpdated>20240326135533</lastUpdated>
   </versioning>
 </metadata>

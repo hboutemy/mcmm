@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-analytics</artifactId>
   <versioning>
-    <latest>1.18-866c95b-server</latest>
-    <release>1.18-866c95b-server</release>
+    <latest>1.20-2da4633-server</latest>
+    <release>1.20-2da4633-server</release>
     <versions>
       <version>1.2-2b531ba-client</version>
       <version>1.2-2b531ba-server</version>
@@ -38,7 +38,11 @@
       <version>1.17-c1af6cb-server</version>
       <version>1.18-866c95b-client</version>
       <version>1.18-866c95b-server</version>
+      <version>1.19-23d4328-client</version>
+      <version>1.19-23d4328-server</version>
+      <version>1.20-2da4633-client</version>
+      <version>1.20-2da4633-server</version>
     </versions>
-    <lastUpdated>20240325193434</lastUpdated>
+    <lastUpdated>20240326171151</lastUpdated>
   </versioning>
 </metadata>
