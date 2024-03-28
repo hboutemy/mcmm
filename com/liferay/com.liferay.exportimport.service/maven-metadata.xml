@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.exportimport.service</artifactId>
   <versioning>
@@ -415,6 +415,7 @@
       <version>7.0.66</version>
       <version>7.0.67</version>
       <version>7.0.68</version>
+      <version>7.0.69</version>
       <version>8.0.0</version>
       <version>8.0.1</version>
       <version>8.0.2</version>
@@ -522,6 +523,6 @@
       <version>8.0.104</version>
       <version>8.0.105</version>
     </versions>
-    <lastUpdated>20240314111342</lastUpdated>
+    <lastUpdated>20240327095830</lastUpdated>
   </versioning>
 </metadata>

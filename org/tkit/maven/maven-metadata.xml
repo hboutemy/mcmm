@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>tkit-docs-quarkus-plugin</name>
+      <prefix>tkit-docs-quarkus</prefix>
+      <artifactId>tkit-docs-quarkus-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>tkit-liquibase-plugin</name>
       <prefix>tkit-liquibase</prefix>
       <artifactId>tkit-liquibase-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>com.bazaarvoice.emodb</groupId>
   <artifactId>emodb-common-zookeeper</artifactId>
   <versioning>
-    <latest>6.5.114</latest>
-    <release>6.5.114</release>
+    <latest>6.5.117</latest>
+    <release>6.5.117</release>
     <versions>
       <version>1.0.1-migration</version>
       <version>5.4.1</version>
@@ -228,7 +228,10 @@
       <version>6.5.110</version>
       <version>6.5.111</version>
       <version>6.5.114</version>
+      <version>6.5.115</version>
+      <version>6.5.116</version>
+      <version>6.5.117</version>
     </versions>
-    <lastUpdated>20240326122837</lastUpdated>
+    <lastUpdated>20240327123736</lastUpdated>
   </versioning>
 </metadata>

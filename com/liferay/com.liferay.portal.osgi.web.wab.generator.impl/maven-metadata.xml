@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.osgi.web.wab.generator.impl</artifactId>
   <versioning>
@@ -149,6 +149,7 @@
       <version>3.0.23</version>
       <version>3.0.24</version>
       <version>3.0.25</version>
+      <version>3.0.26</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -198,6 +199,6 @@
       <version>4.0.46</version>
       <version>4.0.47</version>
     </versions>
-    <lastUpdated>20240314105103</lastUpdated>
+    <lastUpdated>20240327122615</lastUpdated>
   </versioning>
 </metadata>

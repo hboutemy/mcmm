@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.antisamy</artifactId>
   <versioning>
@@ -145,6 +145,7 @@
       <version>4.0.44</version>
       <version>4.0.45</version>
       <version>4.0.46</version>
+      <version>4.0.47</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -193,6 +194,7 @@
       <version>5.0.45</version>
       <version>5.0.46</version>
       <version>5.0.47</version>
+      <version>5.0.48</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -229,6 +231,6 @@
       <version>6.0.33</version>
       <version>6.0.34</version>
     </versions>
-    <lastUpdated>20240229141752</lastUpdated>
+    <lastUpdated>20240327103504</lastUpdated>
   </versioning>
 </metadata>

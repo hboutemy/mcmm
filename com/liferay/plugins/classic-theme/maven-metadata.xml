@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>classic-theme</artifactId>
   <versioning>
@@ -207,6 +207,7 @@
       <version>3.0.66</version>
       <version>3.0.67</version>
       <version>3.0.68</version>
+      <version>3.0.69</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -313,6 +314,7 @@
       <version>4.0.103</version>
       <version>4.0.104</version>
       <version>4.0.105</version>
+      <version>4.0.106</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -403,6 +405,6 @@
       <version>5.0.87</version>
       <version>5.0.88</version>
     </versions>
-    <lastUpdated>20240229134356</lastUpdated>
+    <lastUpdated>20240327111136</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-contract-stub-runner-boot</artifactId>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>1.2.3.RELEASE</version>
       <version>1.2.4.RELEASE</version>
@@ -52,12 +52,13 @@
       <version>4.0.5</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
       <version>2.2.7.RELEASE</version>
       <version>2.2.8.RELEASE</version>
       <version>3.0.2</version>
       <version>3.0.3</version>
       <version>3.0.4</version>
     </versions>
-    <lastUpdated>20240126194144</lastUpdated>
+    <lastUpdated>20240327181430</lastUpdated>
   </versioning>
 </metadata>
