@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>test-common-upgrade-tests-java-3.0.0-1.dev</artifactId>
   <versioning>
-    <latest>2.9.0-snapshot.20240326.12707.0.vf255482d</latest>
-    <release>2.9.0-snapshot.20240326.12707.0.vf255482d</release>
+    <latest>2.9.0-adhoc.20240328.12709.0.v3c29b5ea</latest>
+    <release>2.9.0-adhoc.20240328.12709.0.v3c29b5ea</release>
     <versions>
       <version>2.9.0-snapshot.20240205.12604.0.v4c3fd9db</version>
       <version>2.9.0-snapshot.20240206.12605.0.v7e2bdfee</version>
@@ -46,7 +46,9 @@
       <version>2.9.0-snapshot.20240325.12704.0.va30104d0</version>
       <version>2.9.0-snapshot.20240325.12705.0.vc300e035</version>
       <version>2.9.0-snapshot.20240326.12707.0.vf255482d</version>
+      <version>2.9.0-snapshot.20240328.12710.0.v4ae44840</version>
+      <version>2.9.0-adhoc.20240328.12709.0.v3c29b5ea</version>
     </versions>
-    <lastUpdated>20240327030432</lastUpdated>
+    <lastUpdated>20240328113349</lastUpdated>
   </versioning>
 </metadata>

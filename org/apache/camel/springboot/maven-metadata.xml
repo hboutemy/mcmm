@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Camel SB Tooling :: Config Generator Maven Plugin</name>
+      <prefix>camel-spring-boot-config-generator</prefix>
+      <artifactId>camel-spring-boot-config-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel SB Tooling :: Docs Maven Plugin</name>
       <prefix>camel-spring-boot-docs</prefix>
       <artifactId>camel-spring-boot-docs-maven-plugin</artifactId>

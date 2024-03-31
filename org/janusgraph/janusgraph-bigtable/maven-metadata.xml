@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-bigtable</artifactId>
   <versioning>
-    <latest>1.1.0-20240314-143324.cd91c52</latest>
-    <release>1.1.0-20240314-143324.cd91c52</release>
+    <latest>1.1.0-20240328-160353.1d4e237</latest>
+    <release>1.1.0-20240328-160353.1d4e237</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -437,6 +437,7 @@
       <version>1.0.1-20240315-080607.d1fcb52</version>
       <version>1.0.1-20240315-104008.1654bea</version>
       <version>1.0.1-20240315-104451.761b6fa</version>
+      <version>1.0.1-20240328-160731.bd06491</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -504,7 +505,9 @@
       <version>1.1.0-20240314-131103.19d8b62</version>
       <version>1.1.0-20240314-131601.d609460</version>
       <version>1.1.0-20240314-143324.cd91c52</version>
+      <version>1.1.0-20240328-110448.c8792aa</version>
+      <version>1.1.0-20240328-160353.1d4e237</version>
     </versions>
-    <lastUpdated>20240315105605</lastUpdated>
+    <lastUpdated>20240328161818</lastUpdated>
   </versioning>
 </metadata>
