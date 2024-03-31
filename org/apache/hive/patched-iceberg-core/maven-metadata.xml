@@ -3,12 +3,13 @@
   <groupId>org.apache.hive</groupId>
   <artifactId>patched-iceberg-core</artifactId>
   <versioning>
-    <latest>patched-1.3.0-4.0.0-beta-1</latest>
-    <release>patched-1.3.0-4.0.0-beta-1</release>
+    <latest>patched-1.4.3-4.0.0</latest>
+    <release>patched-1.4.3-4.0.0</release>
     <versions>
       <version>patched-0.14.1-4.0.0-alpha-2</version>
       <version>patched-1.3.0-4.0.0-beta-1</version>
+      <version>patched-1.4.3-4.0.0</version>
     </versions>
-    <lastUpdated>20230815064043</lastUpdated>
+    <lastUpdated>20240329182241</lastUpdated>
   </versioning>
 </metadata>
