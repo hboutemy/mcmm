@@ -12,6 +12,11 @@
       <artifactId>freemarker-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>native-helper-maven-plugin</name>
+      <prefix>native-helper</prefix>
+      <artifactId>native-helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>query-export-maven-plugin</name>
       <prefix>query-export</prefix>
       <artifactId>query-export-maven-plugin</artifactId>
