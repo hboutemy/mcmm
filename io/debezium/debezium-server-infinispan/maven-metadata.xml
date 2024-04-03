@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-infinispan</artifactId>
   <versioning>
-    <latest>2.6.0.CR1</latest>
-    <release>2.6.0.CR1</release>
+    <latest>2.6.0.Final</latest>
+    <release>2.6.0.Final</release>
     <versions>
       <version>2.2.0.Alpha1</version>
       <version>2.2.0.Alpha2</version>
@@ -44,7 +44,8 @@
       <version>2.6.0.Alpha2</version>
       <version>2.6.0.Beta1</version>
       <version>2.6.0.CR1</version>
+      <version>2.6.0.Final</version>
     </versions>
-    <lastUpdated>20240327094846</lastUpdated>
+    <lastUpdated>20240402094045</lastUpdated>
   </versioning>
 </metadata>

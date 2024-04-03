@@ -11,5 +11,10 @@
       <prefix>unleash</prefix>
       <artifactId>unleash-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Unsigner Plugin for Maven</name>
+      <prefix>unsigner</prefix>
+      <artifactId>unsigner-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

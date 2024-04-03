@@ -3,8 +3,8 @@
   <groupId>uk.gov.justice.service.hmpps</groupId>
   <artifactId>hmpps-sqs-spring-boot-autoconfigure</artifactId>
   <versioning>
-    <latest>3.1.1</latest>
-    <release>3.1.1</release>
+    <latest>3.1.2</latest>
+    <release>3.1.2</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -62,7 +62,8 @@
       <version>3.0.0</version>
       <version>3.1.0</version>
       <version>3.1.1</version>
+      <version>3.1.2</version>
     </versions>
-    <lastUpdated>20240131134021</lastUpdated>
+    <lastUpdated>20240402120452</lastUpdated>
   </versioning>
 </metadata>
