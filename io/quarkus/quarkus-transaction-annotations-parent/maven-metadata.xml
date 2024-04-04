@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-transaction-annotations-parent</artifactId>
   <versioning>
-    <latest>3.9.1</latest>
-    <release>3.9.1</release>
+    <latest>3.9.2</latest>
+    <release>3.9.2</release>
     <versions>
       <version>2.8.0.Final</version>
       <version>2.8.1.Final</version>
@@ -138,7 +138,8 @@
       <version>3.9.0.CR2</version>
       <version>3.9.0</version>
       <version>3.9.1</version>
+      <version>3.9.2</version>
     </versions>
-    <lastUpdated>20240327104945</lastUpdated>
+    <lastUpdated>20240403103524</lastUpdated>
   </versioning>
 </metadata>

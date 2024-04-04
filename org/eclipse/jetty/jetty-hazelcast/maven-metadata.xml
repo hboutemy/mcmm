@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-hazelcast</artifactId>
   <versioning>
-    <latest>12.0.7</latest>
-    <release>12.0.7</release>
+    <latest>12.0.8</latest>
+    <release>12.0.8</release>
     <versions>
       <version>9.3.21.M0</version>
       <version>9.3.21.RC0</version>
@@ -144,7 +144,8 @@
       <version>12.0.5</version>
       <version>12.0.6</version>
       <version>12.0.7</version>
+      <version>12.0.8</version>
     </versions>
-    <lastUpdated>20240306145719</lastUpdated>
+    <lastUpdated>20240403130120</lastUpdated>
   </versioning>
 </metadata>

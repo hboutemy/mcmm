@@ -3,8 +3,8 @@
   <groupId>com.gu.play-secret-rotation</groupId>
   <artifactId>play-v29_2.13</artifactId>
   <versioning>
-    <latest>7.1.1</latest>
-    <release>7.1.1</release>
+    <latest>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077</latest>
+    <release>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077</release>
     <versions>
       <version>0.39</version>
       <version>0.40</version>
@@ -26,7 +26,11 @@
       <version>7.0.0</version>
       <version>7.1.0</version>
       <version>7.1.1</version>
+      <version>8.0.0</version>
+      <version>8.0.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1117.eca69ca4</version>
+      <version>8.1.0</version>
+      <version>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077</version>
     </versions>
-    <lastUpdated>20240308122921</lastUpdated>
+    <lastUpdated>20240403154022</lastUpdated>
   </versioning>
 </metadata>
