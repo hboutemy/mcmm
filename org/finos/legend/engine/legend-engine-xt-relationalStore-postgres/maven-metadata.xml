@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-postgres</artifactId>
   <versioning>
-    <latest>4.42.3</latest>
-    <release>4.42.3</release>
+    <latest>4.43.0</latest>
+    <release>4.43.0</release>
     <versions>
       <version>4.18.2</version>
       <version>4.18.3</version>
@@ -74,7 +74,8 @@
       <version>4.42.1</version>
       <version>4.42.2</version>
       <version>4.42.3</version>
+      <version>4.43.0</version>
     </versions>
-    <lastUpdated>20240328062506</lastUpdated>
+    <lastUpdated>20240404025920</lastUpdated>
   </versioning>
 </metadata>

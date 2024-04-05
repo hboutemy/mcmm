@@ -3,8 +3,8 @@
   <groupId>io.grpc</groupId>
   <artifactId>grpc-xds</artifactId>
   <versioning>
-    <latest>1.62.2</latest>
-    <release>1.62.2</release>
+    <latest>1.63.0</latest>
+    <release>1.63.0</release>
     <versions>
       <version>1.28.0</version>
       <version>1.28.1</version>
@@ -96,7 +96,8 @@
       <version>1.61.0</version>
       <version>1.61.1</version>
       <version>1.62.2</version>
+      <version>1.63.0</version>
     </versions>
-    <lastUpdated>20240226233642</lastUpdated>
+    <lastUpdated>20240404191506</lastUpdated>
   </versioning>
 </metadata>
