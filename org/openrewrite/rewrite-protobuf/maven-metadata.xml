@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-protobuf</artifactId>
   <versioning>
-    <latest>8.23.1</latest>
-    <release>8.23.1</release>
+    <latest>8.23.2</latest>
+    <release>8.23.2</release>
     <versions>
       <version>7.19.0</version>
       <version>7.20.0</version>
@@ -141,7 +141,8 @@
       <version>8.22.0</version>
       <version>8.23.0</version>
       <version>8.23.1</version>
+      <version>8.23.2</version>
     </versions>
-    <lastUpdated>20240328163915</lastUpdated>
+    <lastUpdated>20240405170131</lastUpdated>
   </versioning>
 </metadata>

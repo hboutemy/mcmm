@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-ejb-spi</artifactId>
   <versioning>
-    <latest>31.0.0.Final</latest>
-    <release>31.0.0.Final</release>
+    <latest>32.0.0.Beta1</latest>
+    <release>32.0.0.Beta1</release>
     <versions>
       <version>8.0.0.CR1</version>
       <version>8.0.0.Final</version>
@@ -115,7 +115,8 @@
       <version>30.0.1.Final</version>
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
+      <version>32.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20240124180911</lastUpdated>
+    <lastUpdated>20240405121812</lastUpdated>
   </versioning>
 </metadata>

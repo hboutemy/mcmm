@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.identityprovider</groupId>
   <artifactId>gravitee-am-identityprovider-azure-ad</artifactId>
   <versioning>
-    <latest>3.21.21</latest>
-    <release>3.21.21</release>
+    <latest>3.21.22</latest>
+    <release>3.21.22</release>
     <versions>
       <version>3.2.0</version>
       <version>3.2.1</version>
@@ -204,7 +204,8 @@
       <version>3.21.19</version>
       <version>3.21.20</version>
       <version>3.21.21</version>
+      <version>3.21.22</version>
     </versions>
-    <lastUpdated>20240328173324</lastUpdated>
+    <lastUpdated>20240405124231</lastUpdated>
   </versioning>
 </metadata>
