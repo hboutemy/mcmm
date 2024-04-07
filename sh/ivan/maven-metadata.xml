@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>java-to-yup-maven-plugin</name>
+      <prefix>java-to-yup</prefix>
+      <artifactId>java-to-yup-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>java-to-zod-maven-plugin</name>
+      <prefix>java-to-zod</prefix>
+      <artifactId>java-to-zod-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
