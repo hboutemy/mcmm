@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.output.adapter.http</artifactId>
   <versioning>
-    <latest>9.29.70</latest>
-    <release>9.29.70</release>
+    <latest>9.29.120</latest>
+    <release>9.29.120</release>
     <versions>
       <version>6.6.63</version>
       <version>6.6.64</version>
@@ -1648,7 +1648,8 @@
       <version>9.29.68</version>
       <version>9.29.69</version>
       <version>9.29.70</version>
+      <version>9.29.120</version>
     </versions>
-    <lastUpdated>20240321150652</lastUpdated>
+    <lastUpdated>20240407162909</lastUpdated>
   </versioning>
 </metadata>
