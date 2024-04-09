@@ -3,15 +3,16 @@
   <groupId>org.apache.tomee.itests</groupId>
   <artifactId>ejb</artifactId>
   <versioning>
-    <latest>8.0.16</latest>
-    <release>8.0.16</release>
+    <latest>10.0.0-M1</latest>
+    <release>10.0.0-M1</release>
     <versions>
       <version>8.0.12</version>
       <version>8.0.13</version>
       <version>8.0.14</version>
       <version>8.0.15</version>
       <version>8.0.16</version>
+      <version>10.0.0-M1</version>
     </versions>
-    <lastUpdated>20231102192101</lastUpdated>
+    <lastUpdated>20240408072808</lastUpdated>
   </versioning>
 </metadata>

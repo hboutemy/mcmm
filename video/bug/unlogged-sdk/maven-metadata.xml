@@ -3,8 +3,8 @@
   <groupId>video.bug</groupId>
   <artifactId>unlogged-sdk</artifactId>
   <versioning>
-    <latest>0.3.9</latest>
-    <release>0.3.9</release>
+    <latest>0.3.10-jakarta-exlucded</latest>
+    <release>0.3.10-jakarta-exlucded</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -118,7 +118,9 @@
       <version>0.3.7</version>
       <version>0.3.8</version>
       <version>0.3.9</version>
+      <version>0.3.10</version>
+      <version>0.3.10-jakarta-exlucded</version>
     </versions>
-    <lastUpdated>20240402084144</lastUpdated>
+    <lastUpdated>20240408100240</lastUpdated>
   </versioning>
 </metadata>

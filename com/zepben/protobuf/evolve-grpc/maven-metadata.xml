@@ -3,8 +3,8 @@
   <groupId>com.zepben.protobuf</groupId>
   <artifactId>evolve-grpc</artifactId>
   <versioning>
-    <latest>0.27.0-SNAPSHOT5</latest>
-    <release>0.27.0-SNAPSHOT5</release>
+    <latest>0.28.0-SNAPSHOT3</latest>
+    <release>0.28.0-SNAPSHOT3</release>
     <versions>
       <version>0.3.0</version>
       <version>0.3.1</version>
@@ -101,7 +101,11 @@
       <version>0.27.0-SNAPSHOT3</version>
       <version>0.27.0-SNAPSHOT4</version>
       <version>0.27.0-SNAPSHOT5</version>
+      <version>0.27.0</version>
+      <version>0.28.0-SNAPSHOT1</version>
+      <version>0.28.0-SNAPSHOT2</version>
+      <version>0.28.0-SNAPSHOT3</version>
     </versions>
-    <lastUpdated>20240214055421</lastUpdated>
+    <lastUpdated>20240408064838</lastUpdated>
   </versioning>
 </metadata>
