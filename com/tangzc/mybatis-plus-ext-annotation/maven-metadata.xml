@@ -3,8 +3,8 @@
   <groupId>com.tangzc</groupId>
   <artifactId>mybatis-plus-ext-annotation</artifactId>
   <versioning>
-    <latest>3.5.5-EXT640</latest>
-    <release>3.5.5-EXT640</release>
+    <latest>3.5.6-EXT650</latest>
+    <release>3.5.6-EXT650</release>
     <versions>
       <version>3.5.5-EXT600-beta</version>
       <version>3.5.5-EXT601-beta</version>
@@ -23,6 +23,8 @@
       <version>3.5.5-EXT630</version>
       <version>3.5.5-EXT631</version>
       <version>3.5.5-EXT640</version>
+      <version>3.5.5-EXT650</version>
+      <version>3.5.6-EXT650</version>
       <version>1.1.0</version>
       <version>1.1.2</version>
       <version>1.2.0</version>
@@ -117,6 +119,6 @@
       <version>3.5.5-EXT560</version>
       <version>3.5.5-EXT560-boot3</version>
     </versions>
-    <lastUpdated>20240330063529</lastUpdated>
+    <lastUpdated>20240409140950</lastUpdated>
   </versioning>
 </metadata>

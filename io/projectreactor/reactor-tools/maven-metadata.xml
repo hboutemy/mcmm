@@ -3,8 +3,8 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-tools</artifactId>
   <versioning>
-    <latest>3.6.4</latest>
-    <release>3.6.4</release>
+    <latest>3.6.5</latest>
+    <release>3.6.5</release>
     <versions>
       <version>3.3.0.RELEASE</version>
       <version>3.3.1.RELEASE</version>
@@ -64,6 +64,7 @@
       <version>3.4.34</version>
       <version>3.4.35</version>
       <version>3.4.36</version>
+      <version>3.4.37</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
       <version>3.5.2</version>
@@ -80,14 +81,16 @@
       <version>3.5.13</version>
       <version>3.5.14</version>
       <version>3.5.15</version>
+      <version>3.5.16</version>
       <version>3.6.0</version>
       <version>3.6.1</version>
       <version>3.6.2</version>
       <version>3.6.3</version>
       <version>3.6.4</version>
+      <version>3.6.5</version>
       <version>3.3.15.RELEASE</version>
       <version>3.4.4</version>
     </versions>
-    <lastUpdated>20240312100205</lastUpdated>
+    <lastUpdated>20240409120557</lastUpdated>
   </versioning>
 </metadata>

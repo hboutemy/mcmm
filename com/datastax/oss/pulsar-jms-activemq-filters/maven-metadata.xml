@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>pulsar-jms-activemq-filters</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>4.1.0-alpha</latest>
+    <release>4.1.0-alpha</release>
     <versions>
       <version>2.3.2</version>
       <version>2.3.3</version>
@@ -26,7 +26,8 @@
       <version>3.2.1</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
+      <version>4.1.0-alpha</version>
     </versions>
-    <lastUpdated>20230619153624</lastUpdated>
+    <lastUpdated>20240409203958</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.gu.play-secret-rotation</groupId>
   <artifactId>play-v29_3</artifactId>
   <versioning>
-    <latest>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa</latest>
-    <release>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa</release>
+    <latest>9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225</latest>
+    <release>9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225</release>
     <versions>
       <version>0.39</version>
       <version>0.40</version>
@@ -32,7 +32,10 @@
       <version>8.2.0</version>
       <version>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077</version>
       <version>8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa</version>
+      <version>8.2.1</version>
+      <version>8.2.1-PREVIEW.fix-dropping-play-27.2024-04-09T1528.d1a385ed</version>
+      <version>9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225</version>
     </versions>
-    <lastUpdated>20240404154804</lastUpdated>
+    <lastUpdated>20240409172333</lastUpdated>
   </versioning>
 </metadata>
