@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-solr</artifactId>
   <versioning>
-    <latest>1.1.0-20240409-231120.6907209</latest>
-    <release>1.1.0-20240409-231120.6907209</release>
+    <latest>1.1.0-20240410-144054.a87ba3d</latest>
+    <release>1.1.0-20240410-144054.a87ba3d</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -443,6 +443,7 @@
       <version>1.0.1-20240403-065415.af792ee</version>
       <version>1.0.1-20240403-080421.a985a1e</version>
       <version>1.0.1-20240403-104246.ec97ec4</version>
+      <version>1.0.1-20240410-082727.f2d324c</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -515,7 +516,9 @@
       <version>1.1.0-20240402-095836.e17af53</version>
       <version>1.1.0-20240402-134518.ab3a801</version>
       <version>1.1.0-20240409-231120.6907209</version>
+      <version>1.1.0-20240410-083119.22a2207</version>
+      <version>1.1.0-20240410-144054.a87ba3d</version>
     </versions>
-    <lastUpdated>20240409232101</lastUpdated>
+    <lastUpdated>20240410145838</lastUpdated>
   </versioning>
 </metadata>

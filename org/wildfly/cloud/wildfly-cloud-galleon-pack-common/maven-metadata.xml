@@ -3,8 +3,8 @@
   <groupId>org.wildfly.cloud</groupId>
   <artifactId>wildfly-cloud-galleon-pack-common</artifactId>
   <versioning>
-    <latest>7.0.0.Beta1</latest>
-    <release>7.0.0.Beta1</release>
+    <latest>7.0.0.Beta2</latest>
+    <release>7.0.0.Beta2</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -42,7 +42,8 @@
       <version>5.0.2.Final</version>
       <version>6.0.0.Final</version>
       <version>7.0.0.Beta1</version>
+      <version>7.0.0.Beta2</version>
     </versions>
-    <lastUpdated>20240405133639</lastUpdated>
+    <lastUpdated>20240410150312</lastUpdated>
   </versioning>
 </metadata>

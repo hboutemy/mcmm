@@ -3,8 +3,8 @@
   <groupId>io.github.sinaweibosdk</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <latest>13.10.2-config-patch</latest>
-    <release>13.10.2-config-patch</release>
+    <latest>13.10.2-without-build</latest>
+    <release>13.10.2-without-build</release>
     <versions>
       <version>11.6.0</version>
       <version>11.8.0</version>
@@ -24,7 +24,8 @@
       <version>13.10.1</version>
       <version>13.10.2</version>
       <version>13.10.2-config-patch</version>
+      <version>13.10.2-without-build</version>
     </versions>
-    <lastUpdated>20240408075541</lastUpdated>
+    <lastUpdated>20240410075050</lastUpdated>
   </versioning>
 </metadata>

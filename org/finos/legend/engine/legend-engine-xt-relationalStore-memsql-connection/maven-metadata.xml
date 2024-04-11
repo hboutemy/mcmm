@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-memsql-connection</artifactId>
   <versioning>
-    <latest>4.43.1</latest>
-    <release>4.43.1</release>
+    <latest>4.43.2</latest>
+    <release>4.43.2</release>
     <versions>
       <version>4.25.1</version>
       <version>4.25.2</version>
@@ -66,7 +66,8 @@
       <version>4.42.6</version>
       <version>4.43.0</version>
       <version>4.43.1</version>
+      <version>4.43.2</version>
     </versions>
-    <lastUpdated>20240409223554</lastUpdated>
+    <lastUpdated>20240410223626</lastUpdated>
   </versioning>
 </metadata>

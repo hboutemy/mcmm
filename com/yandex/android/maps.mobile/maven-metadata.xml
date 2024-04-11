@@ -3,8 +3,8 @@
   <groupId>com.yandex.android</groupId>
   <artifactId>maps.mobile</artifactId>
   <versioning>
-    <latest>4.5.2-navikit</latest>
-    <release>4.5.2-navikit</release>
+    <latest>4.6.0-beta-navikit-flutter</latest>
+    <release>4.6.0-beta-navikit-flutter</release>
     <versions>
       <version>4.0.0-full</version>
       <version>4.0.0-lite</version>
@@ -35,7 +35,10 @@
       <version>4.5.2-full</version>
       <version>4.5.2-lite</version>
       <version>4.5.2-navikit</version>
+      <version>4.6.0-beta-full-flutter</version>
+      <version>4.6.0-beta-lite-flutter</version>
+      <version>4.6.0-beta-navikit-flutter</version>
     </versions>
-    <lastUpdated>20240406073514</lastUpdated>
+    <lastUpdated>20240410090634</lastUpdated>
   </versioning>
 </metadata>
