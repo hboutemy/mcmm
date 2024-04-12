@@ -3,8 +3,8 @@
   <groupId>com.linkedin.coral</groupId>
   <artifactId>coral-service</artifactId>
   <versioning>
-    <latest>2.2.30</latest>
-    <release>2.2.30</release>
+    <latest>2.2.32</latest>
+    <release>2.2.32</release>
     <versions>
       <version>2.0.130</version>
       <version>2.0.131</version>
@@ -95,7 +95,9 @@
       <version>2.2.29</version>
       <version>2.2.29-li-trino-hotfix</version>
       <version>2.2.30</version>
+      <version>2.2.31</version>
+      <version>2.2.32</version>
     </versions>
-    <lastUpdated>20240407093337</lastUpdated>
+    <lastUpdated>20240411175840</lastUpdated>
   </versioning>
 </metadata>

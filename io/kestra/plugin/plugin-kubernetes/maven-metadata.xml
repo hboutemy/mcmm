@@ -3,8 +3,8 @@
   <groupId>io.kestra.plugin</groupId>
   <artifactId>plugin-kubernetes</artifactId>
   <versioning>
-    <latest>0.15.3</latest>
-    <release>0.15.3</release>
+    <latest>0.16.0</latest>
+    <release>0.16.0</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -31,7 +31,8 @@
       <version>0.15.1</version>
       <version>0.15.2</version>
       <version>0.15.3</version>
+      <version>0.16.0</version>
     </versions>
-    <lastUpdated>20240312114505</lastUpdated>
+    <lastUpdated>20240411163205</lastUpdated>
   </versioning>
 </metadata>

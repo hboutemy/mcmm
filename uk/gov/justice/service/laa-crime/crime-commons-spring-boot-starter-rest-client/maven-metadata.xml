@@ -3,8 +3,8 @@
   <groupId>uk.gov.justice.service.laa-crime</groupId>
   <artifactId>crime-commons-spring-boot-starter-rest-client</artifactId>
   <versioning>
-    <latest>3.3.0</latest>
-    <release>3.3.0</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -47,7 +47,9 @@
       <version>2.26.0</version>
       <version>3.2.0</version>
       <version>3.3.0</version>
+      <version>3.3.1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20240409085747</lastUpdated>
+    <lastUpdated>20240411111112</lastUpdated>
   </versioning>
 </metadata>
