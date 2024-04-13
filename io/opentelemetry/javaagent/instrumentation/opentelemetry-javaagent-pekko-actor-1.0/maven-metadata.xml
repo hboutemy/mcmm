@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-pekko-actor-1.0</artifactId>
   <versioning>
-    <latest>2.2.0-alpha</latest>
-    <release>2.2.0-alpha</release>
+    <latest>2.3.0-alpha</latest>
+    <release>2.3.0-alpha</release>
     <versions>
       <version>1.31.0-alpha</version>
       <version>1.32.0-alpha</version>
@@ -14,7 +14,8 @@
       <version>2.0.0-alpha</version>
       <version>2.1.0-alpha</version>
       <version>2.2.0-alpha</version>
+      <version>2.3.0-alpha</version>
     </versions>
-    <lastUpdated>20240320121621</lastUpdated>
+    <lastUpdated>20240412003901</lastUpdated>
   </versioning>
 </metadata>

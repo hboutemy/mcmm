@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-osgi-bundles-kpm</artifactId>
   <versioning>
-    <latest>0.41.9</latest>
-    <release>0.41.9</release>
+    <latest>0.41.10</latest>
+    <release>0.41.10</release>
     <versions>
       <version>0.39.9</version>
       <version>0.39.10</version>
@@ -38,7 +38,8 @@
       <version>0.41.6</version>
       <version>0.41.7</version>
       <version>0.41.9</version>
+      <version>0.41.10</version>
     </versions>
-    <lastUpdated>20240315004046</lastUpdated>
+    <lastUpdated>20240412222510</lastUpdated>
   </versioning>
 </metadata>

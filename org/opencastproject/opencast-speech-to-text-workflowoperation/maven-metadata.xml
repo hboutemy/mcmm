@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-speech-to-text-workflowoperation</artifactId>
   <versioning>
-    <latest>15.1</latest>
-    <release>15.1</release>
+    <latest>15.3</latest>
+    <release>15.3</release>
     <versions>
       <version>11.3</version>
       <version>11.4</version>
@@ -46,9 +46,12 @@
       <version>14.6</version>
       <version>14.7</version>
       <version>14.8</version>
+      <version>14.9</version>
       <version>15.0</version>
       <version>15.1</version>
+      <version>15.2</version>
+      <version>15.3</version>
     </versions>
-    <lastUpdated>20240411043938</lastUpdated>
+    <lastUpdated>20240412215229</lastUpdated>
   </versioning>
 </metadata>

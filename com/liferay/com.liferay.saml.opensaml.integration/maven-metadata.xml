@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.saml.opensaml.integration</artifactId>
   <versioning>
-    <latest>6.2.12</latest>
-    <release>6.2.12</release>
+    <latest>6.2.13</latest>
+    <release>6.2.13</release>
     <versions>
       <version>1.1.38</version>
       <version>1.1.39</version>
@@ -236,7 +236,8 @@
       <version>6.2.10</version>
       <version>6.2.11</version>
       <version>6.2.12</version>
+      <version>6.2.13</version>
     </versions>
-    <lastUpdated>20240321120713</lastUpdated>
+    <lastUpdated>20240412091518</lastUpdated>
   </versioning>
 </metadata>

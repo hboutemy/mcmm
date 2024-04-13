@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.captcha.api</artifactId>
   <versioning>
-    <latest>6.1.0</latest>
-    <release>6.1.0</release>
+    <latest>6.1.1</latest>
+    <release>6.1.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -184,7 +184,8 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.1.0</version>
+      <version>6.1.1</version>
     </versions>
-    <lastUpdated>20240228112337</lastUpdated>
+    <lastUpdated>20240412055614</lastUpdated>
   </versioning>
 </metadata>

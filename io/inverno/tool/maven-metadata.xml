@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Inverno Maven Plugin</name>
+      <name>io.inverno.tool.maven</name>
       <prefix>inverno</prefix>
       <artifactId>inverno-maven-plugin</artifactId>
     </plugin>

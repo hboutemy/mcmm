@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-resp</artifactId>
   <versioning>
-    <latest>15.0.0.Dev10</latest>
-    <release>15.0.0.Dev10</release>
+    <latest>15.0.1.Final</latest>
+    <release>15.0.1.Final</release>
     <versions>
       <version>14.0.0.CR1</version>
       <version>14.0.0.CR2</version>
@@ -51,7 +51,8 @@
       <version>15.0.0.Dev08</version>
       <version>15.0.0.Dev09</version>
       <version>15.0.0.Dev10</version>
+      <version>15.0.1.Final</version>
     </versions>
-    <lastUpdated>20240318171535</lastUpdated>
+    <lastUpdated>20240412075405</lastUpdated>
   </versioning>
 </metadata>

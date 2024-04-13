@@ -6,5 +6,10 @@
       <prefix>json-schema-validator</prefix>
       <artifactId>json-schema-validator</artifactId>
     </plugin>
+    <plugin>
+      <name>Json Schema Validator Maven Plugin</name>
+      <prefix>json-validator</prefix>
+      <artifactId>json-validator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
