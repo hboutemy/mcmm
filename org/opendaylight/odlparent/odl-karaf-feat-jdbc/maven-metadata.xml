@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>odl-karaf-feat-jdbc</artifactId>
   <versioning>
-    <latest>13.0.11</latest>
-    <release>13.0.11</release>
+    <latest>13.1.0</latest>
+    <release>13.1.0</release>
     <versions>
       <version>1.8.0-Carbon</version>
       <version>1.8.1-Carbon</version>
@@ -157,7 +157,8 @@
       <version>13.0.9</version>
       <version>13.0.10</version>
       <version>13.0.11</version>
+      <version>13.1.0</version>
     </versions>
-    <lastUpdated>20240301211537</lastUpdated>
+    <lastUpdated>20240414092018</lastUpdated>
   </versioning>
 </metadata>

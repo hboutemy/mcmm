@@ -13,7 +13,17 @@
     </plugin>
     <plugin>
       <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>feattest</prefix>
+      <artifactId>features-test-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
       <prefix>filter-manifest</prefix>
+      <artifactId>filter-manifest-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>fmanifest</prefix>
       <artifactId>filter-manifest-plugin</artifactId>
     </plugin>
     <plugin>
@@ -34,6 +44,11 @@
     <plugin>
       <name>ODL :: odlparent :: ${project.artifactId}</name>
       <prefix>template-feature</prefix>
+      <artifactId>template-feature-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>ODL :: odlparent :: ${project.artifactId}</name>
+      <prefix>feattmpl</prefix>
       <artifactId>template-feature-plugin</artifactId>
     </plugin>
   </plugins>
