@@ -3,8 +3,8 @@
   <groupId>org.apache.tinkerpop</groupId>
   <artifactId>hadoop-gremlin</artifactId>
   <versioning>
-    <latest>3.7.1</latest>
-    <release>3.7.1</release>
+    <latest>3.7.2</latest>
+    <release>3.7.2</release>
     <versions>
       <version>3.0.0.M8-incubating</version>
       <version>3.0.0.M9-incubating</version>
@@ -74,9 +74,11 @@
       <version>3.6.4</version>
       <version>3.6.5</version>
       <version>3.6.6</version>
+      <version>3.6.7</version>
       <version>3.7.0</version>
       <version>3.7.1</version>
+      <version>3.7.2</version>
     </versions>
-    <lastUpdated>20231204204525</lastUpdated>
+    <lastUpdated>20240415165405</lastUpdated>
   </versioning>
 </metadata>

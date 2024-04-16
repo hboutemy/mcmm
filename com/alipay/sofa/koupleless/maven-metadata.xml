@@ -5,5 +5,9 @@
       <prefix>koupleless-base-build</prefix>
       <artifactId>koupleless-base-build-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>koupleless-test-suite</prefix>
+      <artifactId>koupleless-test-suite</artifactId>
+    </plugin>
   </plugins>
 </metadata>
