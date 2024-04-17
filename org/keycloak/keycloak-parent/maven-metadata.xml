@@ -4,7 +4,7 @@
   <artifactId>keycloak-parent</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>24.0.2</release>
+    <release>24.0.3</release>
     <versions>
       <version>1.0-alpha-1</version>
       <version>1.0-alpha-1-12062013</version>
@@ -175,8 +175,9 @@
       <version>24.0.0</version>
       <version>24.0.1</version>
       <version>24.0.2</version>
+      <version>24.0.3</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20240324221316</lastUpdated>
+    <lastUpdated>20240416165936</lastUpdated>
   </versioning>
 </metadata>

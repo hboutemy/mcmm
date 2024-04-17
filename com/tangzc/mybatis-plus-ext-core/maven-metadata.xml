@@ -3,8 +3,8 @@
   <groupId>com.tangzc</groupId>
   <artifactId>mybatis-plus-ext-core</artifactId>
   <versioning>
-    <latest>3.5.6-EXT650</latest>
-    <release>3.5.6-EXT650</release>
+    <latest>3.5.6-EXT660</latest>
+    <release>3.5.6-EXT660</release>
     <versions>
       <version>3.5.5-EXT614</version>
       <version>3.5.5-EXT615</version>
@@ -19,6 +19,7 @@
       <version>3.5.5-EXT640</version>
       <version>3.5.5-EXT650</version>
       <version>3.5.6-EXT650</version>
+      <version>3.5.6-EXT660</version>
       <version>1.1.0</version>
       <version>1.1.2</version>
       <version>1.2.0</version>
@@ -119,6 +120,6 @@
       <version>3.5.5-EXT612-beta</version>
       <version>3.5.5-EXT613-beta</version>
     </versions>
-    <lastUpdated>20240409140949</lastUpdated>
+    <lastUpdated>20240416154831</lastUpdated>
   </versioning>
 </metadata>

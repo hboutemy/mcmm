@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-java-17</artifactId>
   <versioning>
-    <latest>8.23.2</latest>
-    <release>8.23.2</release>
+    <latest>8.23.3</latest>
+    <release>8.23.3</release>
     <versions>
       <version>7.24.0</version>
       <version>7.24.1</version>
@@ -135,7 +135,8 @@
       <version>8.23.0</version>
       <version>8.23.1</version>
       <version>8.23.2</version>
+      <version>8.23.3</version>
     </versions>
-    <lastUpdated>20240405170112</lastUpdated>
+    <lastUpdated>20240416152755</lastUpdated>
   </versioning>
 </metadata>

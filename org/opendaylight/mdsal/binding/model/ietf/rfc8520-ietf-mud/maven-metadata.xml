@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal.binding.model.ietf</groupId>
   <artifactId>rfc8520-ietf-mud</artifactId>
   <versioning>
-    <latest>13.0.1</latest>
-    <release>13.0.1</release>
+    <latest>13.0.2</latest>
+    <release>13.0.2</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -129,7 +129,8 @@
       <version>12.0.5</version>
       <version>13.0.0</version>
       <version>13.0.1</version>
+      <version>13.0.2</version>
     </versions>
-    <lastUpdated>20240319093452</lastUpdated>
+    <lastUpdated>20240416111459</lastUpdated>
   </versioning>
 </metadata>
