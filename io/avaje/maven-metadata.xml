@@ -6,6 +6,10 @@
       <artifactId>avaje-inject-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>avaje-provides</prefix>
+      <artifactId>avaje-provides-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>openapi-maven-plugin</name>
       <prefix>openapi</prefix>
       <artifactId>openapi-maven-plugin</artifactId>

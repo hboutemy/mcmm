@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-rt-ws-security</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.10.0.CR1</latest>
+    <release>3.10.0.CR1</release>
     <versions>
       <version>0.14.0</version>
       <version>1.0.0</version>
@@ -75,7 +75,8 @@
       <version>3.8.2</version>
       <version>3.8.3</version>
       <version>3.9.0</version>
+      <version>3.10.0.CR1</version>
     </versions>
-    <lastUpdated>20240410123809</lastUpdated>
+    <lastUpdated>20240417070722</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-rest-client-mutiny-deployment</artifactId>
   <versioning>
-    <latest>3.8.3</latest>
-    <release>3.8.3</release>
+    <latest>3.8.4</latest>
+    <release>3.8.4</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.Final</version>
@@ -221,7 +221,8 @@
       <version>3.8.1</version>
       <version>3.8.2</version>
       <version>3.8.3</version>
+      <version>3.8.4</version>
     </versions>
-    <lastUpdated>20240416125454</lastUpdated>
+    <lastUpdated>20240417101042</lastUpdated>
   </versioning>
 </metadata>

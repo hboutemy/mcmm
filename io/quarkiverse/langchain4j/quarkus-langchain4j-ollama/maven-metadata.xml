@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-ollama</artifactId>
   <versioning>
-    <latest>0.11.0</latest>
-    <release>0.11.0</release>
+    <latest>0.11.1</latest>
+    <release>0.11.1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -35,7 +35,8 @@
       <version>0.10.3</version>
       <version>0.10.4</version>
       <version>0.11.0</version>
+      <version>0.11.1</version>
     </versions>
-    <lastUpdated>20240416163938</lastUpdated>
+    <lastUpdated>20240417091116</lastUpdated>
   </versioning>
 </metadata>

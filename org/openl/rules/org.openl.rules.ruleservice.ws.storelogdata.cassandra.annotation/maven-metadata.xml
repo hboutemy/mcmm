@@ -3,8 +3,8 @@
   <groupId>org.openl.rules</groupId>
   <artifactId>org.openl.rules.ruleservice.ws.storelogdata.cassandra.annotation</artifactId>
   <versioning>
-    <latest>5.27.5</latest>
-    <release>5.27.5</release>
+    <latest>5.27.6</latest>
+    <release>5.27.6</release>
     <versions>
       <version>5.23.0</version>
       <version>5.23.1</version>
@@ -78,7 +78,8 @@
       <version>5.27.3</version>
       <version>5.27.4</version>
       <version>5.27.5</version>
+      <version>5.27.6</version>
     </versions>
-    <lastUpdated>20240327093332</lastUpdated>
+    <lastUpdated>20240417104035</lastUpdated>
   </versioning>
 </metadata>
