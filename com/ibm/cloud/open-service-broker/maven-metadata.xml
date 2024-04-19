@@ -3,8 +3,8 @@
   <groupId>com.ibm.cloud</groupId>
   <artifactId>open-service-broker</artifactId>
   <versioning>
-    <latest>0.53.1</latest>
-    <release>0.53.1</release>
+    <latest>0.53.3</latest>
+    <release>0.53.3</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.1</version>
@@ -137,7 +137,9 @@
       <version>0.52.0</version>
       <version>0.53.0</version>
       <version>0.53.1</version>
+      <version>0.53.2</version>
+      <version>0.53.3</version>
     </versions>
-    <lastUpdated>20240410140201</lastUpdated>
+    <lastUpdated>20240418194428</lastUpdated>
   </versioning>
 </metadata>

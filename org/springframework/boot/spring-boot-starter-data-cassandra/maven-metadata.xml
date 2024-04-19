@@ -3,8 +3,8 @@
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-data-cassandra</artifactId>
   <versioning>
-    <latest>3.2.4</latest>
-    <release>3.2.4</release>
+    <latest>3.2.5</latest>
+    <release>3.2.5</release>
     <versions>
       <version>1.3.0.RELEASE</version>
       <version>1.3.1.RELEASE</version>
@@ -192,12 +192,14 @@
       <version>3.1.8</version>
       <version>3.1.9</version>
       <version>3.1.10</version>
+      <version>3.1.11</version>
       <version>3.2.0</version>
       <version>3.2.1</version>
       <version>3.2.2</version>
       <version>3.2.3</version>
       <version>3.2.4</version>
+      <version>3.2.5</version>
     </versions>
-    <lastUpdated>20240321110451</lastUpdated>
+    <lastUpdated>20240418175939</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-jcache-tck-runner-remote</artifactId>
   <versioning>
-    <latest>15.0.1.Final</latest>
-    <release>15.0.1.Final</release>
+    <latest>15.0.2.Final</latest>
+    <release>15.0.2.Final</release>
     <versions>
       <version>10.1.1.Final</version>
       <version>10.1.2.Final</version>
@@ -143,8 +143,9 @@
       <version>15.0.0.Dev09</version>
       <version>15.0.0.Dev10</version>
       <version>15.0.1.Final</version>
+      <version>15.0.2.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20240416124435</lastUpdated>
+    <lastUpdated>20240418154236</lastUpdated>
   </versioning>
 </metadata>
