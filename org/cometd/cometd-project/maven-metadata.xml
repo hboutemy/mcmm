@@ -3,8 +3,8 @@
   <groupId>org.cometd</groupId>
   <artifactId>cometd-project</artifactId>
   <versioning>
-    <latest>8.0.0.beta2</latest>
-    <release>8.0.0.beta2</release>
+    <latest>8.0.0.beta3</latest>
+    <release>8.0.0.beta3</release>
     <versions>
       <version>1.0.beta0</version>
       <version>1.0.beta1</version>
@@ -138,6 +138,7 @@
       <version>5.0.15</version>
       <version>5.0.16</version>
       <version>5.0.17</version>
+      <version>5.0.18</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -151,6 +152,7 @@
       <version>6.0.10</version>
       <version>6.0.11</version>
       <version>6.0.12</version>
+      <version>6.0.13</version>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
@@ -164,10 +166,12 @@
       <version>7.0.10</version>
       <version>7.0.11</version>
       <version>7.0.12</version>
+      <version>7.0.13</version>
       <version>8.0.0.beta0</version>
       <version>8.0.0.beta1</version>
       <version>8.0.0.beta2</version>
+      <version>8.0.0.beta3</version>
     </versions>
-    <lastUpdated>20240214165339</lastUpdated>
+    <lastUpdated>20240419180824</lastUpdated>
   </versioning>
 </metadata>

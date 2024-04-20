@@ -3,8 +3,8 @@
   <groupId>io.undertow</groupId>
   <artifactId>undertow-benchmarks</artifactId>
   <versioning>
-    <latest>2.3.12.Final</latest>
-    <release>2.3.12.Final</release>
+    <latest>2.3.13.Final</latest>
+    <release>2.3.13.Final</release>
     <versions>
       <version>2.0.21.Final</version>
       <version>2.0.22.Final</version>
@@ -69,6 +69,7 @@
       <version>2.2.29.Final</version>
       <version>2.2.30.Final</version>
       <version>2.2.31.Final</version>
+      <version>2.2.32.Final</version>
       <version>2.3.0.Alpha1</version>
       <version>2.3.0.Alpha2</version>
       <version>2.3.0.Beta1</version>
@@ -85,7 +86,8 @@
       <version>2.3.10.Final</version>
       <version>2.3.11.Final</version>
       <version>2.3.12.Final</version>
+      <version>2.3.13.Final</version>
     </versions>
-    <lastUpdated>20240315003135</lastUpdated>
+    <lastUpdated>20240419062304</lastUpdated>
   </versioning>
 </metadata>

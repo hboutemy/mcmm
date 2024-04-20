@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Klass Compiler Plugin</name>
+      <prefix>klass-compiler</prefix>
+      <artifactId>klass-compiler-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Dropwizard</name>
+      <prefix>klass-generator-dropwizard</prefix>
+      <artifactId>klass-generator-dropwizard-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Data Transfer Object</name>
+      <prefix>klass-generator-dto</prefix>
+      <artifactId>klass-generator-dto-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: GraphQL Fragments</name>
+      <prefix>klass-generator-graphql-fragment</prefix>
+      <artifactId>klass-generator-graphql-fragment-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: GraphQL Reladomo Finder</name>
+      <prefix>klass-generator-graphql-reladomo-finder</prefix>
+      <artifactId>klass-generator-graphql-reladomo-finder-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: GraphQL Schema</name>
+      <prefix>klass-generator-graphql-schema</prefix>
+      <artifactId>klass-generator-graphql-schema-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: GraphQL Query Schema</name>
+      <prefix>klass-generator-graphql-schema-query</prefix>
+      <artifactId>klass-generator-graphql-schema-query-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Json Views</name>
+      <prefix>klass-generator-json-view</prefix>
+      <artifactId>klass-generator-json-view-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Klass HTML</name>
+      <prefix>klass-generator-klass-html</prefix>
+      <artifactId>klass-generator-klass-html-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Projections</name>
+      <prefix>klass-generator-klass-projection</prefix>
+      <artifactId>klass-generator-klass-projection-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Klass Services</name>
+      <prefix>klass-generator-klass-service</prefix>
+      <artifactId>klass-generator-klass-service-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Liquibase Schema</name>
+      <prefix>klass-generator-liquibase-schema</prefix>
+      <artifactId>klass-generator-liquibase-schema-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Java Constants Meta Model</name>
+      <prefix>klass-generator-meta-constants</prefix>
+      <artifactId>klass-generator-meta-constants-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: React PropTypes</name>
+      <prefix>klass-generator-react-prop-type</prefix>
+      <artifactId>klass-generator-react-prop-type-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Reladomo Concrete Classes</name>
+      <prefix>klass-generator-reladomo-concrete-class</prefix>
+      <artifactId>klass-generator-reladomo-concrete-class-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Reladomo Merge Hooks</name>
+      <prefix>klass-generator-reladomo-merge-hooks</prefix>
+      <artifactId>klass-generator-reladomo-merge-hooks-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Reladomo</name>
+      <prefix>klass-generator-reladomo</prefix>
+      <artifactId>klass-generator-reladomo-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Reladomo Readable Interfaces</name>
+      <prefix>klass-generator-reladomo-readable-interface</prefix>
+      <artifactId>klass-generator-reladomo-readable-interface-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Relational Schema</name>
+      <prefix>klass-generator-relational-schema</prefix>
+      <artifactId>klass-generator-relational-schema-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Service Resource</name>
+      <prefix>klass-generator-service-resources</prefix>
+      <artifactId>klass-generator-service-resources-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Klass Generator Plugin: Nomnoml UML Diagram</name>
+      <prefix>klass-generator-uml-nomnoml</prefix>
+      <artifactId>klass-generator-uml-nomnoml-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
