@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>api-resource-management-feature</artifactId>
   <versioning>
-    <latest>7.1.31</latest>
-    <release>7.1.31</release>
+    <latest>7.1.34</latest>
+    <release>7.1.34</release>
     <versions>
       <version>5.25.337</version>
       <version>5.25.338</version>
@@ -97,7 +97,10 @@
       <version>7.1.29</version>
       <version>7.1.30</version>
       <version>7.1.31</version>
+      <version>7.1.32</version>
+      <version>7.1.33</version>
+      <version>7.1.34</version>
     </versions>
-    <lastUpdated>20240419141713</lastUpdated>
+    <lastUpdated>20240420164641</lastUpdated>
   </versioning>
 </metadata>
