@@ -261,6 +261,11 @@
       <artifactId>wso2-maven-package-prepare-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven MI Synapse Plugin</name>
+      <prefix>wso2-mi-synapse</prefix>
+      <artifactId>wso2-mi-synapse-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>wso2-release-helper-plugin</name>
       <prefix>wso2-release-helper</prefix>
       <artifactId>wso2-release-helper-plugin</artifactId>
