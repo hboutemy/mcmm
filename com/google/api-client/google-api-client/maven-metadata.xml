@@ -3,8 +3,8 @@
   <groupId>com.google.api-client</groupId>
   <artifactId>google-api-client</artifactId>
   <versioning>
-    <latest>2.4.0</latest>
-    <release>2.4.0</release>
+    <latest>2.4.1</latest>
+    <release>2.4.1</release>
     <versions>
       <version>1.32.1</version>
       <version>1.32.2</version>
@@ -27,6 +27,7 @@
       <version>2.2.0</version>
       <version>2.3.0</version>
       <version>2.4.0</version>
+      <version>2.4.1</version>
       <version>1.10.0-beta</version>
       <version>1.10.1-beta</version>
       <version>1.10.2-beta</version>
@@ -88,6 +89,6 @@
       <version>1.8.0-beta</version>
       <version>1.9.0-beta</version>
     </versions>
-    <lastUpdated>20240313200259</lastUpdated>
+    <lastUpdated>20240423200825</lastUpdated>
   </versioning>
 </metadata>
