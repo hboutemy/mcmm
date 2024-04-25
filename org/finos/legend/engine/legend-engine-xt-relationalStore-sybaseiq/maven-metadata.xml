@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-sybaseiq</artifactId>
   <versioning>
-    <latest>4.43.4</latest>
-    <release>4.43.4</release>
+    <latest>4.44.1</latest>
+    <release>4.44.1</release>
     <versions>
       <version>4.26.0</version>
       <version>4.26.3</version>
@@ -67,7 +67,9 @@
       <version>4.43.2</version>
       <version>4.43.3</version>
       <version>4.43.4</version>
+      <version>4.44.0</version>
+      <version>4.44.1</version>
     </versions>
-    <lastUpdated>20240417143700</lastUpdated>
+    <lastUpdated>20240424160336</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.extension.examples</groupId>
   <artifactId>camunda-platform-7-keycloak-examples-sso-kubernetes</artifactId>
   <versioning>
-    <latest>7.21.0</latest>
-    <release>7.21.0</release>
+    <latest>7.21.1</latest>
+    <release>7.21.1</release>
     <versions>
       <version>7.17.0</version>
       <version>7.18.0</version>
@@ -12,7 +12,8 @@
       <version>7.20.0</version>
       <version>7.20.1</version>
       <version>7.21.0</version>
+      <version>7.21.1</version>
     </versions>
-    <lastUpdated>20240422122741</lastUpdated>
+    <lastUpdated>20240424085655</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-storage-filesys</artifactId>
   <versioning>
-    <latest>5.2.0-20240410</latest>
-    <release>5.2.0-20240410</release>
+    <latest>5.2.1-rc1-20240424</latest>
+    <release>5.2.1-rc1-20240424</release>
     <versions>
       <version>2.1.0</version>
       <version>2.1.1</version>
@@ -315,7 +315,8 @@
       <version>5.2.0-rc4-20240409</version>
       <version>5.2.0-rc5-20240409</version>
       <version>5.2.0-20240410</version>
+      <version>5.2.1-rc1-20240424</version>
     </versions>
-    <lastUpdated>20240410214911</lastUpdated>
+    <lastUpdated>20240424211246</lastUpdated>
   </versioning>
 </metadata>

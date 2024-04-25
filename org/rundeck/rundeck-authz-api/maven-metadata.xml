@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-authz-api</artifactId>
   <versioning>
-    <latest>5.2.0-20240410</latest>
-    <release>5.2.0-20240410</release>
+    <latest>5.2.1-rc1-20240424</latest>
+    <release>5.2.1-rc1-20240424</release>
     <versions>
       <version>3.2.7-20200515</version>
       <version>3.2.8-20200608</version>
@@ -208,7 +208,8 @@
       <version>5.2.0-rc4-20240409</version>
       <version>5.2.0-rc5-20240409</version>
       <version>5.2.0-20240410</version>
+      <version>5.2.1-rc1-20240424</version>
     </versions>
-    <lastUpdated>20240410214853</lastUpdated>
+    <lastUpdated>20240424211227</lastUpdated>
   </versioning>
 </metadata>
