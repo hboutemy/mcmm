@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-feature-pack-parent</artifactId>
   <versioning>
-    <latest>32.0.0.Beta1</latest>
-    <release>32.0.0.Beta1</release>
+    <latest>32.0.0.Final</latest>
+    <release>32.0.0.Final</release>
     <versions>
       <version>23.0.0.Beta1</version>
       <version>23.0.0.Final</version>
@@ -45,7 +45,8 @@
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
       <version>32.0.0.Beta1</version>
+      <version>32.0.0.Final</version>
     </versions>
-    <lastUpdated>20240405121849</lastUpdated>
+    <lastUpdated>20240424233746</lastUpdated>
   </versioning>
 </metadata>

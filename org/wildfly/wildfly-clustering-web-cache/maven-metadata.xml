@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-web-cache</artifactId>
   <versioning>
-    <latest>32.0.0.Beta1</latest>
-    <release>32.0.0.Beta1</release>
+    <latest>32.0.0.Final</latest>
+    <release>32.0.0.Final</release>
     <versions>
       <version>17.0.0.Beta1</version>
       <version>17.0.0.Final</version>
@@ -67,7 +67,8 @@
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
       <version>32.0.0.Beta1</version>
+      <version>32.0.0.Final</version>
     </versions>
-    <lastUpdated>20240405121821</lastUpdated>
+    <lastUpdated>20240424233718</lastUpdated>
   </versioning>
 </metadata>

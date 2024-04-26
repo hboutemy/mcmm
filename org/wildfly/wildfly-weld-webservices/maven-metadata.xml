@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-weld-webservices</artifactId>
   <versioning>
-    <latest>32.0.0.Beta1</latest>
-    <release>32.0.0.Beta1</release>
+    <latest>32.0.0.Final</latest>
+    <release>32.0.0.Final</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -85,7 +85,8 @@
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
       <version>32.0.0.Beta1</version>
+      <version>32.0.0.Final</version>
     </versions>
-    <lastUpdated>20240405121918</lastUpdated>
+    <lastUpdated>20240424233815</lastUpdated>
   </versioning>
 </metadata>
