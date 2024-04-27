@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>NIOInspector</name>
+      <prefix>NIOInspector</prefix>
+      <artifactId>NIOInspector</artifactId>
+    </plugin>
+    <plugin>
       <name>NonDex Maven Plugin</name>
       <prefix>nondex</prefix>
       <artifactId>nondex-maven-plugin</artifactId>
