@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-jira-parent</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.10.0</latest>
+    <release>3.10.0</release>
     <versions>
       <version>1.0.0-M4</version>
       <version>1.0.0-M5</version>
@@ -64,7 +64,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.9.0</version>
+      <version>3.10.0</version>
     </versions>
-    <lastUpdated>20240324180149</lastUpdated>
+    <lastUpdated>20240428110528</lastUpdated>
   </versioning>
 </metadata>
