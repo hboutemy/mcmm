@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-memsql-execution</artifactId>
   <versioning>
-    <latest>4.44.1</latest>
-    <release>4.44.1</release>
+    <latest>4.44.2</latest>
+    <release>4.44.2</release>
     <versions>
       <version>4.11.1</version>
       <version>4.12.1</version>
@@ -98,7 +98,8 @@
       <version>4.43.4</version>
       <version>4.44.0</version>
       <version>4.44.1</version>
+      <version>4.44.2</version>
     </versions>
-    <lastUpdated>20240424160313</lastUpdated>
+    <lastUpdated>20240429191047</lastUpdated>
   </versioning>
 </metadata>

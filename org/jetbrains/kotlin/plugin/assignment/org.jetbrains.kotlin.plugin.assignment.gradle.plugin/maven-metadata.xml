@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin.plugin.assignment</groupId>
   <artifactId>org.jetbrains.kotlin.plugin.assignment.gradle.plugin</artifactId>
   <versioning>
-    <latest>2.0.0-RC1</latest>
-    <release>2.0.0-RC1</release>
+    <latest>2.0.0-RC2</latest>
+    <release>2.0.0-RC2</release>
     <versions>
       <version>1.8.0-Beta</version>
       <version>1.8.0-RC</version>
@@ -36,7 +36,8 @@
       <version>2.0.0-Beta4</version>
       <version>2.0.0-Beta5</version>
       <version>2.0.0-RC1</version>
+      <version>2.0.0-RC2</version>
     </versions>
-    <lastUpdated>20240409075132</lastUpdated>
+    <lastUpdated>20240429070858</lastUpdated>
   </versioning>
 </metadata>
