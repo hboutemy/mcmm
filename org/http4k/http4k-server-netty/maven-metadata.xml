@@ -3,8 +3,8 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-server-netty</artifactId>
   <versioning>
-    <latest>5.17.0.0</latest>
-    <release>5.17.0.0</release>
+    <latest>5.18.2.0</latest>
+    <release>5.18.2.0</release>
     <versions>
       <version>0.21.0</version>
       <version>0.22.0</version>
@@ -661,9 +661,11 @@
       <version>5.16.1.0</version>
       <version>5.16.2.0</version>
       <version>5.17.0.0</version>
+      <version>5.18.1.0</version>
+      <version>5.18.2.0</version>
       <version>2.18.4</version>
       <version>4.0.0.0</version>
     </versions>
-    <lastUpdated>20240426115629</lastUpdated>
+    <lastUpdated>20240430143702</lastUpdated>
   </versioning>
 </metadata>
