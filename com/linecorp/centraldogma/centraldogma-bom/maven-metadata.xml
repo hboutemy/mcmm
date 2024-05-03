@@ -3,8 +3,8 @@
   <groupId>com.linecorp.centraldogma</groupId>
   <artifactId>centraldogma-bom</artifactId>
   <versioning>
-    <latest>0.65.0</latest>
-    <release>0.65.0</release>
+    <latest>0.65.1</latest>
+    <release>0.65.1</release>
     <versions>
       <version>0.21.0</version>
       <version>0.21.1</version>
@@ -113,7 +113,8 @@
       <version>0.64.2</version>
       <version>0.64.3</version>
       <version>0.65.0</version>
+      <version>0.65.1</version>
     </versions>
-    <lastUpdated>20240423081839</lastUpdated>
+    <lastUpdated>20240502072617</lastUpdated>
   </versioning>
 </metadata>
