@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-kubernetes</artifactId>
   <versioning>
-    <latest>5.14.0</latest>
-    <release>5.14.0</release>
+    <latest>5.14.1</latest>
+    <release>5.14.1</release>
     <versions>
       <version>1.18.0</version>
       <version>1.18.1</version>
@@ -159,7 +159,8 @@
       <version>5.12.4</version>
       <version>5.13.0</version>
       <version>5.14.0</version>
+      <version>5.14.1</version>
     </versions>
-    <lastUpdated>20240502081337</lastUpdated>
+    <lastUpdated>20240503155419</lastUpdated>
   </versioning>
 </metadata>

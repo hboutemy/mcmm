@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-jpamodelgen</artifactId>
   <versioning>
-    <latest>7.0.0.Alpha1</latest>
-    <release>7.0.0.Alpha1</release>
+    <latest>7.0.0.Alpha2</latest>
+    <release>7.0.0.Alpha2</release>
     <versions>
       <version>6.0.0.Alpha1</version>
       <version>6.0.0.Alpha2</version>
@@ -80,7 +80,8 @@
       <version>6.5.0.Final</version>
       <version>6.6.0.Alpha1</version>
       <version>7.0.0.Alpha1</version>
+      <version>7.0.0.Alpha2</version>
     </versions>
-    <lastUpdated>20240426120045</lastUpdated>
+    <lastUpdated>20240503164657</lastUpdated>
   </versioning>
 </metadata>
