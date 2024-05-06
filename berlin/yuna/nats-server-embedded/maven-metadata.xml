@@ -3,8 +3,8 @@
   <groupId>berlin.yuna</groupId>
   <artifactId>nats-server-embedded</artifactId>
   <versioning>
-    <latest>2.10.15-rc.1</latest>
-    <release>2.10.15-rc.1</release>
+    <latest>2.10.15-rc.2</latest>
+    <release>2.10.15-rc.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -229,7 +229,8 @@
       <version>2.10.13-rc.3</version>
       <version>2.10.14</version>
       <version>2.10.15-rc.1</version>
+      <version>2.10.15-rc.2</version>
     </versions>
-    <lastUpdated>20240424101429</lastUpdated>
+    <lastUpdated>20240505101234</lastUpdated>
   </versioning>
 </metadata>

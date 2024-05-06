@@ -3,8 +3,8 @@
   <groupId>com.graphhopper</groupId>
   <artifactId>directions-api-client-hc</artifactId>
   <versioning>
-    <latest>9.0-pre1</latest>
-    <release>9.0-pre1</release>
+    <latest>9.1</latest>
+    <release>9.1</release>
     <versions>
       <version>client_hc_no_vehicle</version>
       <version>feature_1850_01</version>
@@ -146,7 +146,8 @@
       <version>8.0</version>
       <version>9.0</version>
       <version>9.0-pre1</version>
+      <version>9.1</version>
     </versions>
-    <lastUpdated>20240422105832</lastUpdated>
+    <lastUpdated>20240505155354</lastUpdated>
   </versioning>
 </metadata>
