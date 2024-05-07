@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-nebula</artifactId>
   <versioning>
-    <latest>8.7.2-20240501</latest>
-    <release>8.7.2-20240501</release>
+    <latest>8.7.2-20240506</latest>
+    <release>8.7.2-20240506</release>
     <versions>
       <version>8.7.1-jdk17-20240301</version>
       <version>8.7.1-jdk17-20240321</version>
@@ -12,6 +12,7 @@
       <version>8.7.1-jdk17-20240415</version>
       <version>8.7.1-jdk17-20240416</version>
       <version>8.7.1-jdk17-20240419</version>
+      <version>8.7.1-jdk17-20240505</version>
       <version>8.7.1-jdk21-20240301</version>
       <version>8.7.1-jdk21-20240321</version>
       <version>8.7.1-jdk21-20240329</version>
@@ -21,6 +22,7 @@
       <version>8.7.1-jdk21-20240419</version>
       <version>8.7.1-jdk21-20240425</version>
       <version>8.7.1-jdk21-20240426</version>
+      <version>8.7.1-jdk21-20240505</version>
       <version>8.7.1-20240301</version>
       <version>8.7.1-20240302</version>
       <version>8.7.1-20240313</version>
@@ -35,12 +37,19 @@
       <version>8.7.1-20240415</version>
       <version>8.7.1-20240416</version>
       <version>8.7.1-20240419</version>
+      <version>8.7.1-20240505</version>
       <version>8.7.1-202404110</version>
       <version>8.7.2-jdk17-20240501</version>
+      <version>8.7.2-jdk17-20240505</version>
+      <version>8.7.2-jdk17-20240506</version>
       <version>8.7.2-jdk21-20240501</version>
+      <version>8.7.2-jdk21-20240505</version>
+      <version>8.7.2-jdk21-20240506</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
+      <version>8.7.2-20240505</version>
+      <version>8.7.2-20240506</version>
     </versions>
-    <lastUpdated>20240501145346</lastUpdated>
+    <lastUpdated>20240506122855</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-secrets-plugin-handler</artifactId>
   <versioning>
-    <latest>5.14.1</latest>
-    <release>5.14.1</release>
+    <latest>5.14.2</latest>
+    <release>5.14.2</release>
     <versions>
       <version>4.4.0-alpha.1</version>
       <version>4.4.0-alpha.2</version>
@@ -52,7 +52,8 @@
       <version>5.13.0</version>
       <version>5.14.0</version>
       <version>5.14.1</version>
+      <version>5.14.2</version>
     </versions>
-    <lastUpdated>20240503155427</lastUpdated>
+    <lastUpdated>20240506124409</lastUpdated>
   </versioning>
 </metadata>
