@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-wia-test-fixtures</artifactId>
   <versioning>
-    <latest>9.7.0</latest>
-    <release>9.7.0</release>
+    <latest>9.7.1</latest>
+    <release>9.7.1</release>
     <versions>
       <version>8.5.0</version>
       <version>8.5.1</version>
@@ -230,6 +230,7 @@
       <version>9.4.14</version>
       <version>9.4.15</version>
       <version>9.4.16</version>
+      <version>9.4.17</version>
       <version>9.5.0-rc1</version>
       <version>9.5.0-rc2</version>
       <version>9.5.0-rc3</version>
@@ -245,6 +246,7 @@
       <version>9.5.10</version>
       <version>9.5.11</version>
       <version>9.5.12</version>
+      <version>9.5.13</version>
       <version>9.6.0-rc2</version>
       <version>9.6.0-rc3</version>
       <version>9.6.0</version>
@@ -254,12 +256,14 @@
       <version>9.6.4</version>
       <version>9.6.5</version>
       <version>9.6.6</version>
+      <version>9.6.7</version>
       <version>9.7.0-rc1</version>
       <version>9.7.0-rc2</version>
       <version>9.7.0-rc3</version>
       <version>9.7.0</version>
+      <version>9.7.1</version>
       <version>9.4.0</version>
     </versions>
-    <lastUpdated>20240430205803</lastUpdated>
+    <lastUpdated>20240507130640</lastUpdated>
   </versioning>
 </metadata>

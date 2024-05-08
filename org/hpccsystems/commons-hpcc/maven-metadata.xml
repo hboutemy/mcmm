@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>commons-hpcc</artifactId>
   <versioning>
-    <latest>9.6.8-2</latest>
-    <release>9.6.8-2</release>
+    <latest>9.6.10-1</latest>
+    <release>9.6.10-1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.2</version>
@@ -533,6 +533,7 @@
       <version>9.0.100-1</version>
       <version>9.0.102-1</version>
       <version>9.0.104-1</version>
+      <version>9.0.106-1</version>
       <version>9.2.0-1</version>
       <version>9.2.2-1</version>
       <version>9.2.4-1</version>
@@ -572,6 +573,7 @@
       <version>9.2.78-1</version>
       <version>9.2.80-1</version>
       <version>9.2.82-1</version>
+      <version>9.2.84-1</version>
       <version>9.4.0-1</version>
       <version>9.4.2-1</version>
       <version>9.4.8-1</version>
@@ -599,6 +601,7 @@
       <version>9.4.54-1</version>
       <version>9.4.56-1</version>
       <version>9.4.56-2</version>
+      <version>9.4.58-1</version>
       <version>9.6.0-1</version>
       <version>9.6.2-1</version>
       <version>9.6.4-1</version>
@@ -606,7 +609,8 @@
       <version>9.6.6-2</version>
       <version>9.6.8-1</version>
       <version>9.6.8-2</version>
+      <version>9.6.10-1</version>
     </versions>
-    <lastUpdated>20240502110916</lastUpdated>
+    <lastUpdated>20240507160701</lastUpdated>
   </versioning>
 </metadata>

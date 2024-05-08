@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.outbound.auth.facebook</groupId>
   <artifactId>org.wso2.carbon.identity.application.authenticator.facebook</artifactId>
   <versioning>
-    <latest>5.2.4</latest>
-    <release>5.2.4</release>
+    <latest>5.2.13</latest>
+    <release>5.2.13</release>
     <versions>
       <version>5.1.10</version>
       <version>5.1.11</version>
@@ -23,7 +23,8 @@
       <version>5.2.1</version>
       <version>5.2.2</version>
       <version>5.2.4</version>
+      <version>5.2.13</version>
     </versions>
-    <lastUpdated>20230918084533</lastUpdated>
+    <lastUpdated>20240507105113</lastUpdated>
   </versioning>
 </metadata>
