@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-hibernate-parent</artifactId>
   <versioning>
-    <latest>15.0.2.Final</latest>
-    <release>15.0.2.Final</release>
+    <latest>15.0.3.Final</latest>
+    <release>15.0.3.Final</release>
     <versions>
       <version>9.2.0.CR1</version>
       <version>9.2.0.CR2</version>
@@ -217,8 +217,9 @@
       <version>15.0.0.Dev10</version>
       <version>15.0.1.Final</version>
       <version>15.0.2.Final</version>
+      <version>15.0.3.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20240419082004</lastUpdated>
+    <lastUpdated>20240508073824</lastUpdated>
   </versioning>
 </metadata>

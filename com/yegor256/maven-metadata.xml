@@ -6,5 +6,10 @@
       <prefix>antlr2ebnf</prefix>
       <artifactId>antlr2ebnf-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jping-maven-plugin</name>
+      <prefix>jping</prefix>
+      <artifactId>jping-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

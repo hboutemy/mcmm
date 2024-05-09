@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-antdb</artifactId>
   <versioning>
-    <latest>8.7.2-20240506</latest>
-    <release>8.7.2-20240506</release>
+    <latest>8.7.2-20240508</latest>
+    <release>8.7.2-20240508</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -90,6 +90,7 @@
       <version>8.7.1-jdk17-20240416</version>
       <version>8.7.1-jdk17-20240419</version>
       <version>8.7.1-jdk17-20240505</version>
+      <version>8.7.1-jdk17-20240508</version>
       <version>8.7.1-jdk21-20231215</version>
       <version>8.7.1-jdk21-20231222</version>
       <version>8.7.1-jdk21-20231223</version>
@@ -109,6 +110,7 @@
       <version>8.7.1-jdk21-20240425</version>
       <version>8.7.1-jdk21-20240426</version>
       <version>8.7.1-jdk21-20240505</version>
+      <version>8.7.1-jdk21-20240508</version>
       <version>8.7.1-20231105</version>
       <version>8.7.1-20231107</version>
       <version>8.7.1-20231108</version>
@@ -158,15 +160,18 @@
       <version>8.7.1-20240416</version>
       <version>8.7.1-20240419</version>
       <version>8.7.1-20240505</version>
+      <version>8.7.1-20240508</version>
       <version>8.7.1-202404110</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
       <version>8.7.2-jdk17-20240507</version>
+      <version>8.7.2-jdk17-20240508</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
       <version>8.7.2-jdk21-20240507</version>
+      <version>8.7.2-jdk21-20240508</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -175,7 +180,8 @@
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
       <version>8.7.2-20240506</version>
+      <version>8.7.2-20240508</version>
     </versions>
-    <lastUpdated>20240507115243</lastUpdated>
+    <lastUpdated>20240508062954</lastUpdated>
   </versioning>
 </metadata>
