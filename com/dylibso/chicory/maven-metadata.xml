@@ -7,6 +7,11 @@
       <artifactId>test-gen-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Chicory - WASI Test Gen Maven Plugin</name>
+      <prefix>wasi-test-gen</prefix>
+      <artifactId>wasi-test-gen-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Chicory - Wasm Support Maven Plugin</name>
       <prefix>wasm-support</prefix>
       <artifactId>wasm-support-plugin</artifactId>

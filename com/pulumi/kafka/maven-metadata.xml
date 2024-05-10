@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>kafka</artifactId>
   <versioning>
-    <latest>3.8.0-alpha.1715089862+35e7486</latest>
-    <release>3.8.0-alpha.1715089862+35e7486</release>
+    <latest>3.8.0-alpha.1715267369+a751acf</latest>
+    <release>3.8.0-alpha.1715267369+a751acf</release>
     <versions>
       <version>3.4.0-alpha.1668657809+94038ed5</version>
       <version>3.4.0-alpha.1673556106+5e32e354</version>
@@ -110,6 +110,9 @@
       <version>3.7.0-alpha.1710413939+0c16e2ce</version>
       <version>3.7.0</version>
       <version>3.7.1</version>
+      <version>3.7.2</version>
+      <version>3.7.3-beta.1</version>
+      <version>3.7.3</version>
       <version>3.8.0-alpha.1710917137+a0ad74cc</version>
       <version>3.8.0-alpha.1710995365+e6f2db57</version>
       <version>3.8.0-alpha.1711027318+e740bde0</version>
@@ -129,7 +132,10 @@
       <version>3.8.0-alpha.1714563775+58afb36</version>
       <version>3.8.0-alpha.1715089266+ec4ed4c</version>
       <version>3.8.0-alpha.1715089862+35e7486</version>
+      <version>3.8.0-alpha.1715233851+6ab9e70</version>
+      <version>3.8.0-alpha.1715245833+3dad44a</version>
+      <version>3.8.0-alpha.1715267369+a751acf</version>
     </versions>
-    <lastUpdated>20240507141730</lastUpdated>
+    <lastUpdated>20240509173154</lastUpdated>
   </versioning>
 </metadata>

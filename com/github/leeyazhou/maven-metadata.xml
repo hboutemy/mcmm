@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Git Code Format Maven Plugin</name>
+      <prefix>git-code-format</prefix>
+      <artifactId>git-code-format-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

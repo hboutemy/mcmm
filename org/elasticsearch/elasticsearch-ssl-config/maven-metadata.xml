@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-ssl-config</artifactId>
   <versioning>
-    <latest>8.13.3</latest>
-    <release>8.13.3</release>
+    <latest>8.13.4</latest>
+    <release>8.13.4</release>
     <versions>
       <version>6.7.0</version>
       <version>6.7.1</version>
@@ -161,7 +161,8 @@
       <version>8.13.1</version>
       <version>8.13.2</version>
       <version>8.13.3</version>
+      <version>8.13.4</version>
     </versions>
-    <lastUpdated>20240502093219</lastUpdated>
+    <lastUpdated>20240509123232</lastUpdated>
   </versioning>
 </metadata>
