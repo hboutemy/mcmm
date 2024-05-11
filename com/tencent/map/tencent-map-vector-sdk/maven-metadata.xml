@@ -3,8 +3,8 @@
   <groupId>com.tencent.map</groupId>
   <artifactId>tencent-map-vector-sdk</artifactId>
   <versioning>
-    <latest>5.6.0</latest>
-    <release>5.6.0</release>
+    <latest>5.6.0-lite</latest>
+    <release>5.6.0-lite</release>
     <versions>
       <version>2.1.7.14</version>
       <version>2.1.7.16</version>
@@ -227,7 +227,8 @@
       <version>5.5.1</version>
       <version>5.5.4</version>
       <version>5.6.0</version>
+      <version>5.6.0-lite</version>
     </versions>
-    <lastUpdated>20240430035653</lastUpdated>
+    <lastUpdated>20240510080959</lastUpdated>
   </versioning>
 </metadata>

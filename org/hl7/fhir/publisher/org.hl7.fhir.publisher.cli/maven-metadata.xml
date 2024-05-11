@@ -3,8 +3,8 @@
   <groupId>org.hl7.fhir.publisher</groupId>
   <artifactId>org.hl7.fhir.publisher.cli</artifactId>
   <versioning>
-    <latest>1.6.6</latest>
-    <release>1.6.6</release>
+    <latest>1.6.7</latest>
+    <release>1.6.7</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -187,7 +187,8 @@
       <version>1.6.3</version>
       <version>1.6.5</version>
       <version>1.6.6</version>
+      <version>1.6.7</version>
     </versions>
-    <lastUpdated>20240423092346</lastUpdated>
+    <lastUpdated>20240510061552</lastUpdated>
   </versioning>
 </metadata>

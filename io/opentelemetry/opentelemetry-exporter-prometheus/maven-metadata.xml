@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-exporter-prometheus</artifactId>
   <versioning>
-    <latest>1.37.0-alpha</latest>
-    <release>1.37.0-alpha</release>
+    <latest>1.38.0-alpha</latest>
+    <release>1.38.0-alpha</release>
     <versions>
       <version>0.10.0</version>
       <version>0.11.0</version>
@@ -65,7 +65,8 @@
       <version>1.35.0-alpha</version>
       <version>1.36.0-alpha</version>
       <version>1.37.0-alpha</version>
+      <version>1.38.0-alpha</version>
     </versions>
-    <lastUpdated>20240405180805</lastUpdated>
+    <lastUpdated>20240510152737</lastUpdated>
   </versioning>
 </metadata>

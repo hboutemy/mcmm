@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-google-drive</artifactId>
   <versioning>
-    <latest>8.5.1</latest>
-    <release>8.5.1</release>
+    <latest>8.5.2</latest>
+    <release>8.5.2</release>
     <versions>
       <version>0.4.0-rc1</version>
       <version>0.4.0</version>
@@ -80,7 +80,8 @@
       <version>8.5.0-alpha2</version>
       <version>8.5.0</version>
       <version>8.5.1</version>
+      <version>8.5.2</version>
     </versions>
-    <lastUpdated>20240502141903</lastUpdated>
+    <lastUpdated>20240510105054</lastUpdated>
   </versioning>
 </metadata>
