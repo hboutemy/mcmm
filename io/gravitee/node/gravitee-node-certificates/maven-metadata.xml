@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-certificates</artifactId>
   <versioning>
-    <latest>5.14.2</latest>
-    <release>5.14.2</release>
+    <latest>5.14.3</latest>
+    <release>5.14.3</release>
     <versions>
       <version>1.19.0</version>
       <version>1.19.1</version>
@@ -130,6 +130,7 @@
       <version>4.8.3</version>
       <version>4.8.4</version>
       <version>4.8.5</version>
+      <version>4.8.6</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -158,7 +159,8 @@
       <version>5.14.0</version>
       <version>5.14.1</version>
       <version>5.14.2</version>
+      <version>5.14.3</version>
     </versions>
-    <lastUpdated>20240508090250</lastUpdated>
+    <lastUpdated>20240513072824</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.streamnative.tests</groupId>
   <artifactId>docker-images</artifactId>
   <versioning>
-    <latest>4.16.5.1</latest>
-    <release>4.16.5.1</release>
+    <latest>4.17.0.1</latest>
+    <release>4.17.0.1</release>
     <versions>
       <version>branch-4.14.7.1_d4</version>
       <version>master-rc-daily</version>
@@ -718,7 +718,9 @@
       <version>4.15.5.1</version>
       <version>4.16.4.1</version>
       <version>4.16.5.1</version>
+      <version>4.16.5.2</version>
+      <version>4.17.0.1</version>
     </versions>
-    <lastUpdated>20240511023525</lastUpdated>
+    <lastUpdated>20240513042008</lastUpdated>
   </versioning>
 </metadata>

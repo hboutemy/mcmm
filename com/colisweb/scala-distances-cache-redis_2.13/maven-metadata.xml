@@ -3,8 +3,8 @@
   <groupId>com.colisweb</groupId>
   <artifactId>scala-distances-cache-redis_2.13</artifactId>
   <versioning>
-    <latest>10.1.1</latest>
-    <release>10.1.1</release>
+    <latest>10.2.0-alpha</latest>
+    <release>10.2.0-alpha</release>
     <versions>
       <version>4.1.1</version>
       <version>6.1.0</version>
@@ -41,7 +41,9 @@
       <version>10.1.0-RC1</version>
       <version>10.1.0</version>
       <version>10.1.1</version>
+      <version>10.1.2</version>
+      <version>10.2.0-alpha</version>
     </versions>
-    <lastUpdated>20240315165925</lastUpdated>
+    <lastUpdated>20240513140341</lastUpdated>
   </versioning>
 </metadata>

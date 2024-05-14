@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-spanner</artifactId>
   <versioning>
-    <latest>2.7.0.Alpha1</latest>
-    <release>2.7.0.Alpha1</release>
+    <latest>2.7.0.Alpha2</latest>
+    <release>2.7.0.Alpha2</release>
     <versions>
       <version>2.1.0.Beta1</version>
       <version>2.1.0.Final</version>
@@ -53,7 +53,8 @@
       <version>2.6.0.Final</version>
       <version>2.6.1.Final</version>
       <version>2.7.0.Alpha1</version>
+      <version>2.7.0.Alpha2</version>
     </versions>
-    <lastUpdated>20240425102558</lastUpdated>
+    <lastUpdated>20240513074917</lastUpdated>
   </versioning>
 </metadata>

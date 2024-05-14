@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId>
   <artifactId>org.wso2.carbon.identity.client.attestation.filter</artifactId>
   <versioning>
-    <latest>7.0.67</latest>
-    <release>7.0.67</release>
+    <latest>7.0.69</latest>
+    <release>7.0.69</release>
     <versions>
       <version>6.11.237</version>
       <version>6.11.238</version>
@@ -39,7 +39,9 @@
       <version>7.0.65</version>
       <version>7.0.66</version>
       <version>7.0.67</version>
+      <version>7.0.68</version>
+      <version>7.0.69</version>
     </versions>
-    <lastUpdated>20240510035441</lastUpdated>
+    <lastUpdated>20240513111950</lastUpdated>
   </versioning>
 </metadata>
