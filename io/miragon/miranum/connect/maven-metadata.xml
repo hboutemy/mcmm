@@ -14,4 +14,11 @@
     </versions>
     <lastUpdated>20231130083538</lastUpdated>
   </versioning>
+  <plugins>
+    <plugin>
+      <name>element-templates-generator-maven-plugin</name>
+      <prefix>element-templates-generator</prefix>
+      <artifactId>element-templates-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
 </metadata>

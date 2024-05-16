@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-mongodb-panache-common-parent</artifactId>
   <versioning>
-    <latest>3.10.0</latest>
-    <release>3.10.0</release>
+    <latest>3.11.0.CR1</latest>
+    <release>3.11.0.CR1</release>
     <versions>
       <version>1.8.0.CR1</version>
       <version>1.8.0.Final</version>
@@ -237,7 +237,9 @@
       <version>3.9.5</version>
       <version>3.10.0.CR1</version>
       <version>3.10.0</version>
+      <version>3.10.1</version>
+      <version>3.11.0.CR1</version>
     </versions>
-    <lastUpdated>20240426171636</lastUpdated>
+    <lastUpdated>20240515123718</lastUpdated>
   </versioning>
 </metadata>
