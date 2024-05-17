@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>engine</prefix>
+      <artifactId>engine-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.artifactId}</name>
       <prefix>npl</prefix>
       <artifactId>npl-maven-plugin</artifactId>

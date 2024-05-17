@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.compose</groupId>
   <artifactId>gradle-plugin-internal-jdk-version-probe</artifactId>
   <versioning>
-    <latest>1.6.10-rc02</latest>
-    <release>1.6.10-rc02</release>
+    <latest>1.6.10-rc03</latest>
+    <release>1.6.10-rc03</release>
     <versions>
       <version>1.5.0-beta01</version>
       <version>1.5.0-beta02</version>
@@ -32,7 +32,8 @@
       <version>1.6.10-beta03</version>
       <version>1.6.10-rc01</version>
       <version>1.6.10-rc02</version>
+      <version>1.6.10-rc03</version>
     </versions>
-    <lastUpdated>20240514112429</lastUpdated>
+    <lastUpdated>20240516171444</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>infinispan-embedded-query</artifactId>
   <versioning>
-    <latest>11.0.20</latest>
-    <release>11.0.20</release>
+    <latest>11.0.21</latest>
+    <release>11.0.21</release>
     <versions>
       <version>9.4.17.v20190418</version>
       <version>9.4.18.v20190429</version>
@@ -72,6 +72,7 @@
       <version>10.0.18</version>
       <version>10.0.19</version>
       <version>10.0.20</version>
+      <version>10.0.21</version>
       <version>11.0.0-alpha0</version>
       <version>11.0.0.beta1</version>
       <version>11.0.0.beta2</version>
@@ -97,7 +98,8 @@
       <version>11.0.18</version>
       <version>11.0.19</version>
       <version>11.0.20</version>
+      <version>11.0.21</version>
     </versions>
-    <lastUpdated>20240213173416</lastUpdated>
+    <lastUpdated>20240516083507</lastUpdated>
   </versioning>
 </metadata>
