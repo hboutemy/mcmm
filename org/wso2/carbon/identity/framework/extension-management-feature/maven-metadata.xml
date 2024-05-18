@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>extension-management-feature</artifactId>
   <versioning>
-    <latest>7.2.19</latest>
-    <release>7.2.19</release>
+    <latest>7.2.24</latest>
+    <release>7.2.24</release>
     <versions>
       <version>5.25.337</version>
       <version>5.25.338</version>
@@ -141,7 +141,12 @@
       <version>7.2.17</version>
       <version>7.2.18</version>
       <version>7.2.19</version>
+      <version>7.2.20</version>
+      <version>7.2.21</version>
+      <version>7.2.22</version>
+      <version>7.2.23</version>
+      <version>7.2.24</version>
     </versions>
-    <lastUpdated>20240516074048</lastUpdated>
+    <lastUpdated>20240517115245</lastUpdated>
   </versioning>
 </metadata>

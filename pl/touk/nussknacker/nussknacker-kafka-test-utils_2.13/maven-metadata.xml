@@ -3,8 +3,8 @@
   <groupId>pl.touk.nussknacker</groupId>
   <artifactId>nussknacker-kafka-test-utils_2.13</artifactId>
   <versioning>
-    <latest>1.15.0-RC2</latest>
-    <release>1.15.0-RC2</release>
+    <latest>1.15.0</latest>
+    <release>1.15.0</release>
     <versions>
       <version>1.8.0-RC1</version>
       <version>1.8.0</version>
@@ -43,8 +43,9 @@
       <version>1.14.0</version>
       <version>1.15.0-RC1</version>
       <version>1.15.0-RC2</version>
+      <version>1.15.0</version>
       <version>1.13.0-RC1</version>
     </versions>
-    <lastUpdated>20240506101831</lastUpdated>
+    <lastUpdated>20240517132110</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.configuration.mgt.core</artifactId>
   <versioning>
-    <latest>7.2.19</latest>
-    <release>7.2.19</release>
+    <latest>7.2.24</latest>
+    <release>7.2.24</release>
     <versions>
       <version>5.12.237</version>
       <version>5.12.238</version>
@@ -1440,7 +1440,12 @@
       <version>7.2.17</version>
       <version>7.2.18</version>
       <version>7.2.19</version>
+      <version>7.2.20</version>
+      <version>7.2.21</version>
+      <version>7.2.22</version>
+      <version>7.2.23</version>
+      <version>7.2.24</version>
     </versions>
-    <lastUpdated>20240516074109</lastUpdated>
+    <lastUpdated>20240517115306</lastUpdated>
   </versioning>
 </metadata>
