@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-netty-4-common</artifactId>
   <versioning>
-    <latest>2.3.0-alpha</latest>
-    <release>2.3.0-alpha</release>
+    <latest>2.4.0-alpha</latest>
+    <release>2.4.0-alpha</release>
     <versions>
       <version>1.19.0-alpha</version>
       <version>1.19.1-alpha</version>
@@ -34,7 +34,8 @@
       <version>2.1.0-alpha</version>
       <version>2.2.0-alpha</version>
       <version>2.3.0-alpha</version>
+      <version>2.4.0-alpha</version>
     </versions>
-    <lastUpdated>20240420120022</lastUpdated>
+    <lastUpdated>20240518025718</lastUpdated>
   </versioning>
 </metadata>
