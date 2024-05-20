@@ -3,8 +3,8 @@
   <groupId>cn.herodotus.engine</groupId>
   <artifactId>oauth2-sdk-management</artifactId>
   <versioning>
-    <latest>3.2.5.3</latest>
-    <release>3.2.5.3</release>
+    <latest>3.2.5.4</latest>
+    <release>3.2.5.4</release>
     <versions>
       <version>3.0.6.3</version>
       <version>3.0.6.4</version>
@@ -71,6 +71,7 @@
       <version>3.1.11.0</version>
       <version>3.1.11.1</version>
       <version>3.1.11.2</version>
+      <version>3.1.11.3</version>
       <version>3.2.0-RC1</version>
       <version>3.2.0-RC2</version>
       <version>3.2.0-RC3</version>
@@ -101,7 +102,8 @@
       <version>3.2.5.1</version>
       <version>3.2.5.2</version>
       <version>3.2.5.3</version>
+      <version>3.2.5.4</version>
     </versions>
-    <lastUpdated>20240511143024</lastUpdated>
+    <lastUpdated>20240519082033</lastUpdated>
   </versioning>
 </metadata>
