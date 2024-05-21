@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-dialect-relational</artifactId>
   <versioning>
-    <latest>8.7.2-20240518</latest>
-    <release>8.7.2-20240518</release>
+    <latest>8.7.2-20240520</latest>
+    <release>8.7.2-20240520</release>
     <versions>
       <version>8.7.1-jdk17-20231203</version>
       <version>8.7.1-jdk17-20231209</version>
@@ -115,6 +115,7 @@
       <version>8.7.2-jdk21-20240516</version>
       <version>8.7.2-jdk21-20240517</version>
       <version>8.7.2-jdk21-20240518</version>
+      <version>8.7.2-jdk21-20240520</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -130,7 +131,8 @@
       <version>8.7.2-20240515</version>
       <version>8.7.2-20240516</version>
       <version>8.7.2-20240518</version>
+      <version>8.7.2-20240520</version>
     </versions>
-    <lastUpdated>20240517092526</lastUpdated>
+    <lastUpdated>20240520131920</lastUpdated>
   </versioning>
 </metadata>

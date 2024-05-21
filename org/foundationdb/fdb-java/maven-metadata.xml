@@ -3,8 +3,8 @@
   <groupId>org.foundationdb</groupId>
   <artifactId>fdb-java</artifactId>
   <versioning>
-    <latest>7.3.41</latest>
-    <release>7.3.41</release>
+    <latest>7.3.43</latest>
+    <release>7.3.43</release>
     <versions>
       <version>5.2.5</version>
       <version>5.2.8</version>
@@ -139,7 +139,9 @@
       <version>7.3.39</version>
       <version>7.3.40</version>
       <version>7.3.41</version>
+      <version>7.3.42</version>
+      <version>7.3.43</version>
     </versions>
-    <lastUpdated>20240515211631</lastUpdated>
+    <lastUpdated>20240520222954</lastUpdated>
   </versioning>
 </metadata>
