@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-dataflow-common-flyway</artifactId>
   <versioning>
-    <latest>2.11.2</latest>
-    <release>2.11.2</release>
+    <latest>2.11.3</latest>
+    <release>2.11.3</release>
     <versions>
       <version>2.5.0.RELEASE</version>
       <version>2.5.1.RELEASE</version>
@@ -34,7 +34,8 @@
       <version>2.11.0</version>
       <version>2.11.1</version>
       <version>2.11.2</version>
+      <version>2.11.3</version>
     </versions>
-    <lastUpdated>20240111181636</lastUpdated>
+    <lastUpdated>20240521021213</lastUpdated>
   </versioning>
 </metadata>

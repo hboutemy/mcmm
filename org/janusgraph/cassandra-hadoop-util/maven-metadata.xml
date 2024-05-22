@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>cassandra-hadoop-util</artifactId>
   <versioning>
-    <latest>1.1.0-20240517-192918.a2e3521</latest>
-    <release>1.1.0-20240517-192918.a2e3521</release>
+    <latest>1.1.0-20240521-172632.092492f</latest>
+    <release>1.1.0-20240521-172632.092492f</release>
     <versions>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
@@ -344,6 +344,8 @@
       <version>1.0.1-20240514-123630.b4803a1</version>
       <version>1.0.1-20240516-140043.dcd55d6</version>
       <version>1.0.1-20240517-083557.97db6d8</version>
+      <version>1.0.1-20240521-170624.903f98f</version>
+      <version>1.0.1-20240521-170951.b163b05</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -460,7 +462,10 @@
       <version>1.1.0-20240517-095454.a5f5af7</version>
       <version>1.1.0-20240517-191943.0361d66</version>
       <version>1.1.0-20240517-192918.a2e3521</version>
+      <version>1.1.0-20240521-125158.ecd2fca</version>
+      <version>1.1.0-20240521-171853.28d1d19</version>
+      <version>1.1.0-20240521-172632.092492f</version>
     </versions>
-    <lastUpdated>20240517194420</lastUpdated>
+    <lastUpdated>20240521174141</lastUpdated>
   </versioning>
 </metadata>
