@@ -3,8 +3,8 @@
   <groupId>com.disneystreaming.smithy</groupId>
   <artifactId>smithy-language-server</artifactId>
   <versioning>
-    <latest>0.0.30</latest>
-    <release>0.0.30</release>
+    <latest>0.0.30-pr146-smithyfmt</latest>
+    <release>0.0.30-pr146-smithyfmt</release>
     <versions>
       <version>0.0.0+0-a002eae7</version>
       <version>0.0.0+0-a8bfc343</version>
@@ -82,7 +82,9 @@
       <version>0.0.28</version>
       <version>0.0.29</version>
       <version>0.0.30</version>
+      <version>0.0.30-pr146</version>
+      <version>0.0.30-pr146-smithyfmt</version>
     </versions>
-    <lastUpdated>20240306124524</lastUpdated>
+    <lastUpdated>20240522172324</lastUpdated>
   </versioning>
 </metadata>

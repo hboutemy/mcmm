@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-rest-qute-parent</artifactId>
   <versioning>
-    <latest>3.11.0.CR1</latest>
-    <release>3.11.0.CR1</release>
+    <latest>3.11.0</latest>
+    <release>3.11.0</release>
     <versions>
       <version>3.9.0.CR1</version>
       <version>3.9.0.CR2</version>
@@ -17,8 +17,10 @@
       <version>3.10.0.CR1</version>
       <version>3.10.0</version>
       <version>3.10.1</version>
+      <version>3.10.2</version>
       <version>3.11.0.CR1</version>
+      <version>3.11.0</version>
     </versions>
-    <lastUpdated>20240515123835</lastUpdated>
+    <lastUpdated>20240522121226</lastUpdated>
   </versioning>
 </metadata>

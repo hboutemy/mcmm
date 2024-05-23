@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-elasticsearch</artifactId>
   <versioning>
-    <latest>8.7.2-20240521</latest>
-    <release>8.7.2-20240521</release>
+    <latest>8.7.2-20240522</latest>
+    <release>8.7.2-20240522</release>
     <versions>
       <version>8.6.3-20230630</version>
       <version>8.6.5-jdk17-20230712</version>
@@ -158,6 +158,7 @@
       <version>8.7.2-jdk17-20240516</version>
       <version>8.7.2-jdk17-20240517</version>
       <version>8.7.2-jdk17-20240521</version>
+      <version>8.7.2-jdk17-20240522</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -172,6 +173,7 @@
       <version>8.7.2-jdk21-20240519</version>
       <version>8.7.2-jdk21-20240520</version>
       <version>8.7.2-jdk21-20240521</version>
+      <version>8.7.2-jdk21-20240522</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -186,7 +188,8 @@
       <version>8.7.2-20240519</version>
       <version>8.7.2-20240520</version>
       <version>8.7.2-20240521</version>
+      <version>8.7.2-20240522</version>
     </versions>
-    <lastUpdated>20240521133214</lastUpdated>
+    <lastUpdated>20240522135844</lastUpdated>
   </versioning>
 </metadata>

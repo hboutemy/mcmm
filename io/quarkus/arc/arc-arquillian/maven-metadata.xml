@@ -3,8 +3,8 @@
   <groupId>io.quarkus.arc</groupId>
   <artifactId>arc-arquillian</artifactId>
   <versioning>
-    <latest>3.11.0.CR1</latest>
-    <release>3.11.0.CR1</release>
+    <latest>3.11.0</latest>
+    <release>3.11.0</release>
     <versions>
       <version>3.0.0.Alpha6</version>
       <version>3.0.0.Beta1</version>
@@ -83,8 +83,10 @@
       <version>3.10.0.CR1</version>
       <version>3.10.0</version>
       <version>3.10.1</version>
+      <version>3.10.2</version>
       <version>3.11.0.CR1</version>
+      <version>3.11.0</version>
     </versions>
-    <lastUpdated>20240515123419</lastUpdated>
+    <lastUpdated>20240522120814</lastUpdated>
   </versioning>
 </metadata>
