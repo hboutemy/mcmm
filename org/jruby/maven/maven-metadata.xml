@@ -2,6 +2,16 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Bundler Maven Mojo</name>
+      <prefix>bundler</prefix>
+      <artifactId>bundler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Cucumber Maven Mojo</name>
+      <prefix>cucumber</prefix>
+      <artifactId>cucumber-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Gem Maven Mojo</name>
       <prefix>gem</prefix>
       <artifactId>gem-maven-plugin</artifactId>
@@ -15,6 +25,11 @@
       <name>Minitest Maven Mojo</name>
       <prefix>minitest</prefix>
       <artifactId>minitest-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Rake Maven Mojo</name>
+      <prefix>rake</prefix>
+      <artifactId>rake-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>RSpec Maven Mojo</name>

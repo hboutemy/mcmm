@@ -3,8 +3,8 @@
   <groupId>io.atlassian.fugue</groupId>
   <artifactId>fugue-retry</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.0.1</latest>
+    <release>5.0.1</release>
     <versions>
       <version>4.6.1</version>
       <version>4.6.2</version>
@@ -14,6 +14,7 @@
       <version>5.0.0-m01</version>
       <version>5.0.0-m02</version>
       <version>5.0.0</version>
+      <version>5.0.1</version>
       <version>4.0.0</version>
       <version>4.0.0-rc1</version>
       <version>4.0.1</version>
@@ -27,6 +28,6 @@
       <version>4.5.0</version>
       <version>4.5.1</version>
     </versions>
-    <lastUpdated>20220210175620</lastUpdated>
+    <lastUpdated>20240523111337</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Payara Cloud Maven Plugin</name>
+      <prefix>payara-cloud</prefix>
+      <artifactId>payara-cloud-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Payara Micro Maven Plugin</name>
       <prefix>payara-micro</prefix>
       <artifactId>payara-micro-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>org.liquibase.ext</groupId>
   <artifactId>liquibase-vertica</artifactId>
   <versioning>
-    <latest>4.27.0</latest>
-    <release>4.27.0</release>
+    <latest>4.28.0</latest>
+    <release>4.28.0</release>
     <versions>
       <version>3.9.0</version>
       <version>3.10.0</version>
@@ -33,7 +33,8 @@
       <version>4.25.1</version>
       <version>4.26.0</version>
       <version>4.27.0</version>
+      <version>4.28.0</version>
     </versions>
-    <lastUpdated>20240329163611</lastUpdated>
+    <lastUpdated>20240523010139</lastUpdated>
   </versioning>
 </metadata>
