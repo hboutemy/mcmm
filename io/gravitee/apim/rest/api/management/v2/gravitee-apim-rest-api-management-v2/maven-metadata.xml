@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.rest.api.management.v2</groupId>
   <artifactId>gravitee-apim-rest-api-management-v2</artifactId>
   <versioning>
-    <latest>4.3.4</latest>
-    <release>4.3.4</release>
+    <latest>4.3.5</latest>
+    <release>4.3.5</release>
     <versions>
       <version>4.0.0-alpha.2</version>
       <version>4.0.0-alpha.3</version>
@@ -34,6 +34,7 @@
       <version>4.0.22</version>
       <version>4.0.23</version>
       <version>4.0.24</version>
+      <version>4.0.25</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
       <version>4.1.2</version>
@@ -50,6 +51,7 @@
       <version>4.1.13</version>
       <version>4.1.14</version>
       <version>4.1.15</version>
+      <version>4.1.16</version>
       <version>4.2.0-alpha.2</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
@@ -61,13 +63,15 @@
       <version>4.2.7</version>
       <version>4.2.8</version>
       <version>4.2.9</version>
+      <version>4.2.10</version>
       <version>4.3.0-alpha.2</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
       <version>4.3.2</version>
       <version>4.3.3</version>
       <version>4.3.4</version>
+      <version>4.3.5</version>
     </versions>
-    <lastUpdated>20240510190009</lastUpdated>
+    <lastUpdated>20240524084031</lastUpdated>
   </versioning>
 </metadata>
