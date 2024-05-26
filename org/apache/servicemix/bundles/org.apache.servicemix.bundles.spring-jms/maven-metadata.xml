@@ -3,8 +3,8 @@
   <groupId>org.apache.servicemix.bundles</groupId>
   <artifactId>org.apache.servicemix.bundles.spring-jms</artifactId>
   <versioning>
-    <latest>6.1.5_1</latest>
-    <release>6.1.5_1</release>
+    <latest>6.1.6_1</latest>
+    <release>6.1.6_1</release>
     <versions>
       <version>3.2.7.RELEASE_1</version>
       <version>3.2.7.RELEASE_2</version>
@@ -186,6 +186,7 @@
       <version>5.3.30_1</version>
       <version>5.3.31_1</version>
       <version>5.3.33_1</version>
+      <version>5.3.34_1</version>
       <version>6.0.2_1</version>
       <version>6.0.3_1</version>
       <version>6.0.4_1</version>
@@ -197,9 +198,11 @@
       <version>6.0.12_1</version>
       <version>6.0.14_1</version>
       <version>6.0.18_1</version>
+      <version>6.0.19_1</version>
       <version>6.1.2_1</version>
       <version>6.1.5_1</version>
+      <version>6.1.6_1</version>
     </versions>
-    <lastUpdated>20240403085438</lastUpdated>
+    <lastUpdated>20240525054537</lastUpdated>
   </versioning>
 </metadata>

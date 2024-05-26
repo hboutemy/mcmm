@@ -3,8 +3,8 @@
   <groupId>io.zipkin.zipkin2</groupId>
   <artifactId>zipkin-storage-mysql-v1</artifactId>
   <versioning>
-    <latest>3.3.0</latest>
-    <release>3.3.0</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>2.9.0</version>
       <version>2.9.1</version>
@@ -111,7 +111,9 @@
       <version>3.2.0</version>
       <version>3.2.1</version>
       <version>3.3.0</version>
+      <version>3.3.1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20240416070754</lastUpdated>
+    <lastUpdated>20240525234353</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>lsq</prefix>
+      <artifactId>lsq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RPT-Full Maven Plugin</name>
+      <prefix>rpt-full</prefix>
+      <artifactId>rpt-full-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>RPT Maven Plugin</name>
+      <prefix>rpt</prefix>
+      <artifactId>rpt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>tdb2</prefix>
+      <artifactId>tdb2-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-crm</artifactId>
   <versioning>
-    <latest>1.16-e87864f-server</latest>
-    <release>1.16-e87864f-server</release>
+    <latest>1.18-0a83d0e-server</latest>
+    <release>1.18-0a83d0e-server</release>
     <versions>
       <version>1.3-9548589-client</version>
       <version>1.3-9548589-server</version>
@@ -34,7 +34,9 @@
       <version>1.15-8dfa405-server</version>
       <version>1.16-e87864f-client</version>
       <version>1.16-e87864f-server</version>
+      <version>1.18-0a83d0e-client</version>
+      <version>1.18-0a83d0e-server</version>
     </versions>
-    <lastUpdated>20240212174243</lastUpdated>
+    <lastUpdated>20240525143636</lastUpdated>
   </versioning>
 </metadata>
