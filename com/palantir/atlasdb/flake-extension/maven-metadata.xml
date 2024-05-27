@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>flake-extension</artifactId>
   <versioning>
-    <latest>0.1088.0-rc1</latest>
-    <release>0.1088.0-rc1</release>
+    <latest>0.1088.0-rc5</latest>
+    <release>0.1088.0-rc5</release>
     <versions>
       <version>0.973.0</version>
       <version>0.974.0</version>
@@ -155,7 +155,10 @@
       <version>0.1086.0</version>
       <version>0.1087.0</version>
       <version>0.1088.0-rc1</version>
+      <version>0.1088.0-rc2</version>
+      <version>0.1088.0-rc4</version>
+      <version>0.1088.0-rc5</version>
     </versions>
-    <lastUpdated>20240525223034</lastUpdated>
+    <lastUpdated>20240526212436</lastUpdated>
   </versioning>
 </metadata>
