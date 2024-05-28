@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>timelock-api-objects</artifactId>
   <versioning>
-    <latest>0.1088.0-rc5</latest>
-    <release>0.1088.0-rc5</release>
+    <latest>0.1088.0-rc6</latest>
+    <release>0.1088.0-rc6</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -931,7 +931,8 @@
       <version>0.1088.0-rc2</version>
       <version>0.1088.0-rc4</version>
       <version>0.1088.0-rc5</version>
+      <version>0.1088.0-rc6</version>
     </versions>
-    <lastUpdated>20240526212511</lastUpdated>
+    <lastUpdated>20240527155829</lastUpdated>
   </versioning>
 </metadata>

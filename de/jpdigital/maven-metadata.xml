@@ -47,6 +47,21 @@
       <artifactId>hibernate56-ddl-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven DDL generator plugin for Hibernate 6.2</name>
+      <prefix>hibernate62-ddl</prefix>
+      <artifactId>hibernate62-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 6.4</name>
+      <prefix>hibernate64-ddl</prefix>
+      <artifactId>hibernate64-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven DDL generator plugin for Hibernate 6.5</name>
+      <prefix>hibernate65-ddl</prefix>
+      <artifactId>hibernate65-ddl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven plugin for OWLAPI Simplex</name>
       <prefix>owlapi-simplex</prefix>
       <artifactId>owlapi-simplex-maven-plugin</artifactId>

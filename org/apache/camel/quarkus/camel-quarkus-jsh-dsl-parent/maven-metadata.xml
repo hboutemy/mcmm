@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-jsh-dsl-parent</artifactId>
   <versioning>
-    <latest>3.10.0</latest>
-    <release>3.10.0</release>
+    <latest>3.11.0</latest>
+    <release>3.11.0</release>
     <versions>
       <version>2.16.0</version>
       <version>3.0.0-M1</version>
@@ -24,7 +24,8 @@
       <version>3.8.2</version>
       <version>3.9.0</version>
       <version>3.10.0</version>
+      <version>3.11.0</version>
     </versions>
-    <lastUpdated>20240503131221</lastUpdated>
+    <lastUpdated>20240527091441</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>mangoo I/O maven plugin</name>
       <prefix>mangooio</prefix>
       <artifactId>mangooio-maven-plugin</artifactId>
     </plugin>
