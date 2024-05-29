@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>checkstyle</artifactId>
   <versioning>
-    <latest>13.1.2</latest>
-    <release>13.1.2</release>
+    <latest>13.1.3</latest>
+    <release>13.1.3</release>
     <versions>
       <version>0.0.1-Lithium</version>
       <version>0.0.2-Lithium-SR1</version>
@@ -176,7 +176,8 @@
       <version>13.1.0</version>
       <version>13.1.1</version>
       <version>13.1.2</version>
+      <version>13.1.3</version>
     </versions>
-    <lastUpdated>20240504161402</lastUpdated>
+    <lastUpdated>20240528091600</lastUpdated>
   </versioning>
 </metadata>

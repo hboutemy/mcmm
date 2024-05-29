@@ -3,8 +3,8 @@
   <groupId>com.google.api-client</groupId>
   <artifactId>google-api-client-bom</artifactId>
   <versioning>
-    <latest>2.5.1</latest>
-    <release>2.5.1</release>
+    <latest>2.6.0</latest>
+    <release>2.6.0</release>
     <versions>
       <version>1.32.1</version>
       <version>1.32.2</version>
@@ -30,6 +30,7 @@
       <version>2.4.1</version>
       <version>2.5.0</version>
       <version>2.5.1</version>
+      <version>2.6.0</version>
       <version>1.27.0</version>
       <version>1.27.1</version>
       <version>1.28.0</version>
@@ -57,6 +58,6 @@
       <version>1.31.4</version>
       <version>1.31.5</version>
     </versions>
-    <lastUpdated>20240516192832</lastUpdated>
+    <lastUpdated>20240528190739</lastUpdated>
   </versioning>
 </metadata>
