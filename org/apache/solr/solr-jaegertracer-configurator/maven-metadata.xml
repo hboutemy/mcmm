@@ -3,8 +3,8 @@
   <groupId>org.apache.solr</groupId>
   <artifactId>solr-jaegertracer-configurator</artifactId>
   <versioning>
-    <latest>9.6.0</latest>
-    <release>9.6.0</release>
+    <latest>9.6.1</latest>
+    <release>9.6.1</release>
     <versions>
       <version>8.2.0</version>
       <version>8.3.0</version>
@@ -39,7 +39,8 @@
       <version>9.4.1</version>
       <version>9.5.0</version>
       <version>9.6.0</version>
+      <version>9.6.1</version>
     </versions>
-    <lastUpdated>20240427184410</lastUpdated>
+    <lastUpdated>20240529205814</lastUpdated>
   </versioning>
 </metadata>

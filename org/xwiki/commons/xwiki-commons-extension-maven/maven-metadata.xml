@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-extension-maven</artifactId>
   <versioning>
-    <latest>16.4.0-rc-1</latest>
-    <release>16.4.0-rc-1</release>
+    <latest>16.4.0</latest>
+    <release>16.4.0</release>
     <versions>
       <version>9.0-rc-1</version>
       <version>9.0</version>
@@ -303,7 +303,8 @@
       <version>16.3.0</version>
       <version>16.3.1</version>
       <version>16.4.0-rc-1</version>
+      <version>16.4.0</version>
     </versions>
-    <lastUpdated>20240527090655</lastUpdated>
+    <lastUpdated>20240529111305</lastUpdated>
   </versioning>
 </metadata>
