@@ -17,6 +17,11 @@
       <artifactId>legend-pure-maven-generation-par</artifactId>
     </plugin>
     <plugin>
+      <name>Legend Pure - Maven - Plugin Generation PCT</name>
+      <prefix>legend-puregeneration-pct</prefix>
+      <artifactId>legend-pure-maven-generation-pct</artifactId>
+    </plugin>
+    <plugin>
       <name>Legend Pure - Maven - Plugin Compiled JAR</name>
       <prefix>legend-purejava-compiled</prefix>
       <artifactId>legend-pure-maven-java-compiled</artifactId>
