@@ -3,14 +3,15 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-ee-feature-pack-product-conf</artifactId>
   <versioning>
-    <latest>32.0.0.Final</latest>
-    <release>32.0.0.Final</release>
+    <latest>32.0.1.Final</latest>
+    <release>32.0.1.Final</release>
     <versions>
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
       <version>32.0.0.Beta1</version>
       <version>32.0.0.Final</version>
+      <version>32.0.1.Final</version>
     </versions>
-    <lastUpdated>20240424233744</lastUpdated>
+    <lastUpdated>20240531100009</lastUpdated>
   </versioning>
 </metadata>
