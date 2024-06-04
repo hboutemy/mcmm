@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>mongodbatlas</artifactId>
   <versioning>
-    <latest>3.16.0-alpha.1717135188</latest>
-    <release>3.16.0-alpha.1717135188</release>
+    <latest>3.16.0-alpha.1717451284</latest>
+    <release>3.16.0-alpha.1717451284</release>
     <versions>
       <version>3.5.1</version>
       <version>3.5.2</version>
@@ -163,6 +163,8 @@
       <version>3.15.0</version>
       <version>3.15.1-alpha.1717002391</version>
       <version>3.15.1</version>
+      <version>3.15.2-alpha.1717414339</version>
+      <version>3.15.2</version>
       <version>3.16.0-alpha.1714542594+d1fc0fb</version>
       <version>3.16.0-alpha.1714564242+f6d5566</version>
       <version>3.16.0-alpha.1715061170+323b04d</version>
@@ -174,7 +176,9 @@
       <version>3.16.0-alpha.1716510655</version>
       <version>3.16.0-alpha.1716962104</version>
       <version>3.16.0-alpha.1717135188</version>
+      <version>3.16.0-alpha.1717450826</version>
+      <version>3.16.0-alpha.1717451284</version>
     </versions>
-    <lastUpdated>20240531063328</lastUpdated>
+    <lastUpdated>20240603221104</lastUpdated>
   </versioning>
 </metadata>

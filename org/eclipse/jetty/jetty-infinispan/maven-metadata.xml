@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-infinispan</artifactId>
   <versioning>
-    <latest>12.0.9</latest>
-    <release>12.0.9</release>
+    <latest>12.0.10</latest>
+    <release>12.0.10</release>
     <versions>
       <version>9.1.6.v20160112</version>
       <version>9.3.0.RC0</version>
@@ -109,7 +109,8 @@
       <version>12.0.7</version>
       <version>12.0.8</version>
       <version>12.0.9</version>
+      <version>12.0.10</version>
     </versions>
-    <lastUpdated>20240507152629</lastUpdated>
+    <lastUpdated>20240603142624</lastUpdated>
   </versioning>
 </metadata>
