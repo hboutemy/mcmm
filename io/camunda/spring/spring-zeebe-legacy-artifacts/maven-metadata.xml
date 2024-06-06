@@ -3,8 +3,8 @@
   <groupId>io.camunda.spring</groupId>
   <artifactId>spring-zeebe-legacy-artifacts</artifactId>
   <versioning>
-    <latest>8.5.3</latest>
-    <release>8.5.3</release>
+    <latest>8.5.4</latest>
+    <release>8.5.4</release>
     <versions>
       <version>8.2.0-alpha2</version>
       <version>8.2.0-alpha3</version>
@@ -64,6 +64,9 @@
       <version>8.4.2</version>
       <version>8.4.3</version>
       <version>8.4.4</version>
+      <version>8.4.5</version>
+      <version>8.4.6-rc1</version>
+      <version>8.4.6</version>
       <version>8.5.0-alpha2</version>
       <version>8.5.0-rc1</version>
       <version>8.5.0-rc2</version>
@@ -71,7 +74,8 @@
       <version>8.5.1</version>
       <version>8.5.2</version>
       <version>8.5.3</version>
+      <version>8.5.4</version>
     </versions>
-    <lastUpdated>20240515150230</lastUpdated>
+    <lastUpdated>20240605115837</lastUpdated>
   </versioning>
 </metadata>

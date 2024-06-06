@@ -3,8 +3,8 @@
   <groupId>org.graylog.plugins</groupId>
   <artifactId>graylog-plugin-parent</artifactId>
   <versioning>
-    <latest>6.0.2</latest>
-    <release>6.0.2</release>
+    <latest>6.0.3</latest>
+    <release>6.0.3</release>
     <versions>
       <version>2.2.0-alpha.1</version>
       <version>2.2.0-alpha.2</version>
@@ -209,10 +209,12 @@
       <version>5.2.5</version>
       <version>5.2.6</version>
       <version>5.2.7</version>
+      <version>5.2.8</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
+      <version>6.0.3</version>
     </versions>
-    <lastUpdated>20240522124752</lastUpdated>
+    <lastUpdated>20240605151532</lastUpdated>
   </versioning>
 </metadata>

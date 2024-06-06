@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-junit5-mockito</artifactId>
   <versioning>
-    <latest>3.11.0</latest>
-    <release>3.11.0</release>
+    <latest>3.11.1</latest>
+    <release>3.11.1</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -247,6 +247,7 @@
       <version>3.8.2</version>
       <version>3.8.3</version>
       <version>3.8.4</version>
+      <version>3.8.5</version>
       <version>3.9.0.CR1</version>
       <version>3.9.0.CR2</version>
       <version>3.9.0</version>
@@ -261,7 +262,8 @@
       <version>3.10.2</version>
       <version>3.11.0.CR1</version>
       <version>3.11.0</version>
+      <version>3.11.1</version>
     </versions>
-    <lastUpdated>20240522121032</lastUpdated>
+    <lastUpdated>20240605110948</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.tencent.qqmini</groupId>
   <artifactId>minigame_external</artifactId>
   <versioning>
-    <latest>1.70.2_mp</latest>
-    <release>1.70.2_mp</release>
+    <latest>1.71.0</latest>
+    <release>1.71.0</release>
     <versions>
       <version>0.0.0.999</version>
       <version>1.56.0</version>
@@ -68,9 +68,14 @@
       <version>1.70.1_mp</version>
       <version>1.70.1_support</version>
       <version>1.70.1.1_support</version>
+      <version>1.70.1.2_support</version>
       <version>1.70.2</version>
+      <version>1.70.2_1</version>
       <version>1.70.2_mp</version>
+      <version>1.70.2_txsp</version>
+      <version>1.70.2.2_txsp</version>
+      <version>1.71.0</version>
     </versions>
-    <lastUpdated>20240531061130</lastUpdated>
+    <lastUpdated>20240605121701</lastUpdated>
   </versioning>
 </metadata>
