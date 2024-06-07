@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-runtime-javax-xml</artifactId>
   <versioning>
-    <latest>24.7.0.rc01</latest>
-    <release>24.7.0.rc01</release>
+    <latest>24.7.0.release</latest>
+    <release>24.7.0.release</release>
     <versions>
       <version>23.6.0.a20230301-01</version>
       <version>23.6.0.a20230310-01</version>
@@ -40,7 +40,8 @@
       <version>24.1.10.release</version>
       <version>24.7.0.a20240423-01</version>
       <version>24.7.0.rc01</version>
+      <version>24.7.0.release</version>
     </versions>
-    <lastUpdated>20240527150101</lastUpdated>
+    <lastUpdated>20240606083603</lastUpdated>
   </versioning>
 </metadata>

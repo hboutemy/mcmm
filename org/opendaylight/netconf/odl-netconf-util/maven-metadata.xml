@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>odl-netconf-util</artifactId>
   <versioning>
-    <latest>7.0.5</latest>
-    <release>7.0.5</release>
+    <latest>7.0.6</latest>
+    <release>7.0.6</release>
     <versions>
       <version>1.2.0-Carbon</version>
       <version>1.2.1-Carbon</version>
@@ -117,7 +117,8 @@
       <version>7.0.3</version>
       <version>7.0.4</version>
       <version>7.0.5</version>
+      <version>7.0.6</version>
     </versions>
-    <lastUpdated>20240520071041</lastUpdated>
+    <lastUpdated>20240606151113</lastUpdated>
   </versioning>
 </metadata>

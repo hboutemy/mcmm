@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-valuetypes</artifactId>
   <versioning>
-    <latest>24.7.0.rc01</latest>
-    <release>24.7.0.rc01</release>
+    <latest>24.7.0.release</latest>
+    <release>24.7.0.release</release>
     <versions>
       <version>3.13.0</version>
       <version>3.13.1</version>
@@ -193,7 +193,8 @@
       <version>24.1.10.release</version>
       <version>24.7.0.a20240423-01</version>
       <version>24.7.0.rc01</version>
+      <version>24.7.0.release</version>
     </versions>
-    <lastUpdated>20240528062230</lastUpdated>
+    <lastUpdated>20240606083614</lastUpdated>
   </versioning>
 </metadata>

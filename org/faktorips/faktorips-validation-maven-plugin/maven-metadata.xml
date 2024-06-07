@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-validation-maven-plugin</artifactId>
   <versioning>
-    <latest>24.7.0.rc01</latest>
-    <release>24.7.0.rc01</release>
+    <latest>24.7.0.release</latest>
+    <release>24.7.0.release</release>
     <versions>
       <version>23.1.0.a20230109-01</version>
       <version>23.1.0.a20230123-02</version>
@@ -44,7 +44,8 @@
       <version>24.1.10.release</version>
       <version>24.7.0.a20240423-01</version>
       <version>24.7.0.rc01</version>
+      <version>24.7.0.release</version>
     </versions>
-    <lastUpdated>20240527150110</lastUpdated>
+    <lastUpdated>20240606083613</lastUpdated>
   </versioning>
 </metadata>

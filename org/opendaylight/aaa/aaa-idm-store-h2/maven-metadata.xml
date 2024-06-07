@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.aaa</groupId>
   <artifactId>aaa-idm-store-h2</artifactId>
   <versioning>
-    <latest>0.19.4</latest>
-    <release>0.19.4</release>
+    <latest>0.19.5</latest>
+    <release>0.19.5</release>
     <versions>
       <version>0.14.2</version>
       <version>0.14.3</version>
@@ -64,12 +64,14 @@
       <version>0.18.3</version>
       <version>0.18.4</version>
       <version>0.18.5</version>
+      <version>0.18.6</version>
       <version>0.19.0</version>
       <version>0.19.1</version>
       <version>0.19.2</version>
       <version>0.19.3</version>
       <version>0.19.4</version>
+      <version>0.19.5</version>
     </versions>
-    <lastUpdated>20240516123156</lastUpdated>
+    <lastUpdated>20240606193948</lastUpdated>
   </versioning>
 </metadata>

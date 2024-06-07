@@ -3,9 +3,10 @@
   <groupId>com.instabug.library</groupId>
   <artifactId>instabug-plugin</artifactId>
   <versioning>
-    <latest>13.1.1</latest>
-    <release>13.1.1</release>
+    <latest>13.1.1-no-diagnostics</latest>
+    <release>13.1.1-no-diagnostics</release>
     <versions>
+      <version>1.0.0-no-diagnostics</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.1.0</version>
@@ -78,7 +79,8 @@
       <version>13.0.3</version>
       <version>13.1.0</version>
       <version>13.1.1</version>
+      <version>13.1.1-no-diagnostics</version>
     </versions>
-    <lastUpdated>20240603170840</lastUpdated>
+    <lastUpdated>20240606093845</lastUpdated>
   </versioning>
 </metadata>
