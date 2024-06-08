@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-components-security-keycloak</artifactId>
   <versioning>
-    <latest>10.5.5</latest>
-    <release>10.5.5</release>
+    <latest>10.5.7</latest>
+    <release>10.5.7</release>
     <versions>
       <version>7.2.0</version>
       <version>7.7.7</version>
@@ -109,7 +109,9 @@
       <version>10.5.3</version>
       <version>10.5.4</version>
       <version>10.5.5</version>
+      <version>10.5.6</version>
+      <version>10.5.7</version>
     </versions>
-    <lastUpdated>20240605133355</lastUpdated>
+    <lastUpdated>20240607161101</lastUpdated>
   </versioning>
 </metadata>
