@@ -3,8 +3,8 @@
   <groupId>redis.clients</groupId>
   <artifactId>jedis</artifactId>
   <versioning>
-    <latest>5.2.0-beta3</latest>
-    <release>5.2.0-beta3</release>
+    <latest>5.2.0-beta4</latest>
+    <release>5.2.0-beta4</release>
     <versions>
       <version>jedis-3.6.2</version>
       <version>1.3.0</version>
@@ -126,7 +126,8 @@
       <version>5.2.0-beta1</version>
       <version>5.2.0-beta2</version>
       <version>5.2.0-beta3</version>
+      <version>5.2.0-beta4</version>
     </versions>
-    <lastUpdated>20240606190556</lastUpdated>
+    <lastUpdated>20240610190234</lastUpdated>
   </versioning>
 </metadata>

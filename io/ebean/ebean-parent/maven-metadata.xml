@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-parent</artifactId>
   <versioning>
-    <latest>15.3.0</latest>
-    <release>15.3.0</release>
+    <latest>15.3.1</latest>
+    <release>15.3.1</release>
     <versions>
       <version>12.5.0</version>
       <version>12.5.1</version>
@@ -154,12 +154,15 @@
       <version>14.1.0-javax</version>
       <version>14.3.0</version>
       <version>14.3.0-javax</version>
+      <version>14.3.1</version>
+      <version>14.3.1-javax</version>
       <version>15.0.0-RC</version>
       <version>15.0.1</version>
       <version>15.0.2</version>
       <version>15.1.0</version>
       <version>15.3.0</version>
+      <version>15.3.1</version>
     </versions>
-    <lastUpdated>20240514121524</lastUpdated>
+    <lastUpdated>20240610081800</lastUpdated>
   </versioning>
 </metadata>

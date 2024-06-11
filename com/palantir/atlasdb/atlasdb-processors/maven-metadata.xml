@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-processors</artifactId>
   <versioning>
-    <latest>0.1099.0-rc1</latest>
-    <release>0.1099.0-rc1</release>
+    <latest>0.1099.0</latest>
+    <release>0.1099.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -924,6 +924,7 @@
       <version>0.1082.0</version>
       <version>0.1083.0</version>
       <version>0.1084.0-rc1</version>
+      <version>0.1084.0-rc2</version>
       <version>0.1084.0</version>
       <version>0.1085.0</version>
       <version>0.1086.0</version>
@@ -947,7 +948,8 @@
       <version>0.1098.0-rc2</version>
       <version>0.1098.0</version>
       <version>0.1099.0-rc1</version>
+      <version>0.1099.0</version>
     </versions>
-    <lastUpdated>20240607205108</lastUpdated>
+    <lastUpdated>20240610155440</lastUpdated>
   </versioning>
 </metadata>

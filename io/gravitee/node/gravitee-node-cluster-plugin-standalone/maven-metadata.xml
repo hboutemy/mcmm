@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-cluster-plugin-standalone</artifactId>
   <versioning>
-    <latest>5.14.6</latest>
-    <release>5.14.6</release>
+    <latest>5.14.7</latest>
+    <release>5.14.7</release>
     <versions>
       <version>3.1.0-alpha.2</version>
       <version>3.1.0-alpha.3</version>
@@ -86,7 +86,8 @@
       <version>5.14.4</version>
       <version>5.14.5</version>
       <version>5.14.6</version>
+      <version>5.14.7</version>
     </versions>
-    <lastUpdated>20240607085038</lastUpdated>
+    <lastUpdated>20240610124337</lastUpdated>
   </versioning>
 </metadata>

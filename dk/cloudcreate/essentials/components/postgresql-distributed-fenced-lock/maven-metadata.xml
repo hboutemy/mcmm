@@ -3,8 +3,8 @@
   <groupId>dk.cloudcreate.essentials.components</groupId>
   <artifactId>postgresql-distributed-fenced-lock</artifactId>
   <versioning>
-    <latest>0.40.9</latest>
-    <release>0.40.9</release>
+    <latest>0.40.10</latest>
+    <release>0.40.10</release>
     <versions>
       <version>0.1.2</version>
       <version>0.1.3</version>
@@ -73,7 +73,8 @@
       <version>0.40.7</version>
       <version>0.40.8</version>
       <version>0.40.9</version>
+      <version>0.40.10</version>
     </versions>
-    <lastUpdated>20240502080240</lastUpdated>
+    <lastUpdated>20240610084755</lastUpdated>
   </versioning>
 </metadata>

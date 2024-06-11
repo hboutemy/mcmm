@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.dmn</groupId>
   <artifactId>camunda-engine-dmn-root</artifactId>
   <versioning>
-    <latest>7.22.0-alpha1</latest>
-    <release>7.22.0-alpha1</release>
+    <latest>7.22.0-alpha2</latest>
+    <release>7.22.0-alpha2</release>
     <versions>
       <version>7.4.0-alpha2</version>
       <version>7.4.0-alpha3</version>
@@ -113,7 +113,8 @@
       <version>7.21.0-alpha5</version>
       <version>7.21.0</version>
       <version>7.22.0-alpha1</version>
+      <version>7.22.0-alpha2</version>
     </versions>
-    <lastUpdated>20240513131701</lastUpdated>
+    <lastUpdated>20240610112107</lastUpdated>
   </versioning>
 </metadata>
