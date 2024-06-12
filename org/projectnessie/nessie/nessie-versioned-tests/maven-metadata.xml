@@ -3,8 +3,8 @@
   <groupId>org.projectnessie.nessie</groupId>
   <artifactId>nessie-versioned-tests</artifactId>
   <versioning>
-    <latest>0.83.2</latest>
-    <release>0.83.2</release>
+    <latest>0.90.2</latest>
+    <release>0.90.2</release>
     <versions>
       <version>0.51.1</version>
       <version>0.52.0</version>
@@ -65,7 +65,9 @@
       <version>0.83.0</version>
       <version>0.83.1</version>
       <version>0.83.2</version>
+      <version>0.90.1</version>
+      <version>0.90.2</version>
     </versions>
-    <lastUpdated>20240523174632</lastUpdated>
+    <lastUpdated>20240611213218</lastUpdated>
   </versioning>
 </metadata>

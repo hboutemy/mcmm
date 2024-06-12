@@ -17,6 +17,11 @@
       <artifactId>flow-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Plugin for Hilla Engine</name>
+      <prefix>hilla</prefix>
+      <artifactId>hilla-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Vaadin Maven plugin</name>
       <prefix>vaadin</prefix>
       <artifactId>vaadin-maven-plugin</artifactId>

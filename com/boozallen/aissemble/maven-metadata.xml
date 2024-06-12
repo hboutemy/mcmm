@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>aiSSEMBLE::Foundation::Maven Plugins::Artifact Plugin</name>
+      <prefix>artifacts</prefix>
+      <artifactId>artifacts-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>aiSSEMBLE::Foundation::MDA</name>
+      <prefix>foundation-mda</prefix>
+      <artifactId>foundation-mda</artifactId>
+    </plugin>
+    <plugin>
+      <name>aiSSEMBLE::Foundation::Maven Plugins::Model Plugin</name>
+      <prefix>foundation-model</prefix>
+      <artifactId>foundation-model-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>aiSSEMBLE::Foundation::Maven Plugins::MDA Maven Plugin</name>
+      <prefix>mda</prefix>
+      <artifactId>mda-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

@@ -3,8 +3,8 @@
   <groupId>com.cognite.spark.datasource</groupId>
   <artifactId>cdf-spark-datasource_2.12</artifactId>
   <versioning>
-    <latest>3.17.1109</latest>
-    <release>3.17.1109</release>
+    <latest>3.17.1111</latest>
+    <release>3.17.1111</release>
     <versions>
       <version>1.1.0</version>
       <version>1.2.0</version>
@@ -213,7 +213,9 @@
       <version>3.16.1107</version>
       <version>3.16.1108</version>
       <version>3.17.1109</version>
+      <version>3.17.1110</version>
+      <version>3.17.1111</version>
     </versions>
-    <lastUpdated>20240610110034</lastUpdated>
+    <lastUpdated>20240611160339</lastUpdated>
   </versioning>
 </metadata>

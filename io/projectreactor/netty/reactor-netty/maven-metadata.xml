@@ -3,8 +3,8 @@
   <groupId>io.projectreactor.netty</groupId>
   <artifactId>reactor-netty</artifactId>
   <versioning>
-    <latest>1.1.19</latest>
-    <release>1.1.19</release>
+    <latest>1.1.20</latest>
+    <release>1.1.20</release>
     <versions>
       <version>0.8.0.RELEASE</version>
       <version>0.8.1.RELEASE</version>
@@ -100,6 +100,7 @@
       <version>1.0.43</version>
       <version>1.0.44</version>
       <version>1.0.45</version>
+      <version>1.0.46</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -120,9 +121,10 @@
       <version>1.1.17</version>
       <version>1.1.18</version>
       <version>1.1.19</version>
+      <version>1.1.20</version>
       <version>0.9.18.RELEASE</version>
       <version>1.0.5</version>
     </versions>
-    <lastUpdated>20240514100238</lastUpdated>
+    <lastUpdated>20240611102954</lastUpdated>
   </versioning>
 </metadata>
