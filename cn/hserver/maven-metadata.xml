@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>hserverbuild</prefix>
+      <artifactId>hserver-plugin-build</artifactId>
+    </plugin>
+    <plugin>
       <prefix>hserver</prefix>
       <artifactId>hserver-plugin-maven</artifactId>
     </plugin>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>esbuild plugin for Maven</name>
+      <prefix>esbuild</prefix>
+      <artifactId>esbuild-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>mvnpm locker</name>
       <prefix>locker</prefix>
       <artifactId>locker-maven-plugin</artifactId>

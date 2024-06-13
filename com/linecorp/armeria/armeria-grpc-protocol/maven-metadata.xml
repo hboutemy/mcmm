@@ -3,8 +3,8 @@
   <groupId>com.linecorp.armeria</groupId>
   <artifactId>armeria-grpc-protocol</artifactId>
   <versioning>
-    <latest>1.28.4</latest>
-    <release>1.28.4</release>
+    <latest>1.29.0</latest>
+    <release>1.29.0</release>
     <versions>
       <version>0.84.0</version>
       <version>0.85.0</version>
@@ -106,7 +106,8 @@
       <version>1.28.2</version>
       <version>1.28.3</version>
       <version>1.28.4</version>
+      <version>1.29.0</version>
     </versions>
-    <lastUpdated>20240429133707</lastUpdated>
+    <lastUpdated>20240612085747</lastUpdated>
   </versioning>
 </metadata>
