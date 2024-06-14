@@ -3,8 +3,8 @@
   <groupId>com.hubspot</groupId>
   <artifactId>basepom</artifactId>
   <versioning>
-    <latest>59.9</latest>
-    <release>59.9</release>
+    <latest>59.10</latest>
+    <release>59.10</release>
     <versions>
       <version>10.0</version>
       <version>10.1</version>
@@ -68,7 +68,8 @@
       <version>59.7</version>
       <version>59.8</version>
       <version>59.9</version>
+      <version>59.10</version>
     </versions>
-    <lastUpdated>20240510125100</lastUpdated>
+    <lastUpdated>20240613150725</lastUpdated>
   </versioning>
 </metadata>

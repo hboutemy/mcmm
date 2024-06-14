@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-file</artifactId>
   <versioning>
-    <latest>3.3.0.1</latest>
-    <release>3.3.0.1</release>
+    <latest>3.3.0.2</latest>
+    <release>3.3.0.2</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -716,7 +716,8 @@
       <version>3.2.3.2</version>
       <version>3.2.3.3</version>
       <version>3.3.0.1</version>
+      <version>3.3.0.2</version>
     </versions>
-    <lastUpdated>20240607083610</lastUpdated>
+    <lastUpdated>20240613144528</lastUpdated>
   </versioning>
 </metadata>

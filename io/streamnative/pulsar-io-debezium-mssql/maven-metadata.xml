@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-debezium-mssql</artifactId>
   <versioning>
-    <latest>3.3.0.1</latest>
-    <release>3.3.0.1</release>
+    <latest>3.3.0.2</latest>
+    <release>3.3.0.2</release>
     <versions>
       <version>master-rc-daily</version>
       <version>2.9.0.0-rc-1</version>
@@ -437,7 +437,8 @@
       <version>3.2.3.2</version>
       <version>3.2.3.3</version>
       <version>3.3.0.1</version>
+      <version>3.3.0.2</version>
     </versions>
-    <lastUpdated>20240607083603</lastUpdated>
+    <lastUpdated>20240613144521</lastUpdated>
   </versioning>
 </metadata>

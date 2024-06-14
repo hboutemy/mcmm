@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-oxm</artifactId>
   <versioning>
-    <latest>6.1.8</latest>
-    <release>6.1.8</release>
+    <latest>6.1.9</latest>
+    <release>6.1.9</release>
     <versions>
       <version>3.0.0.RELEASE</version>
       <version>3.0.1.RELEASE</version>
@@ -204,6 +204,7 @@
       <version>5.3.34</version>
       <version>5.3.35</version>
       <version>5.3.36</version>
+      <version>5.3.37</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -226,6 +227,7 @@
       <version>6.0.19</version>
       <version>6.0.20</version>
       <version>6.0.21</version>
+      <version>6.0.22</version>
       <version>6.1.0</version>
       <version>6.1.1</version>
       <version>6.1.2</version>
@@ -235,7 +237,8 @@
       <version>6.1.6</version>
       <version>6.1.7</version>
       <version>6.1.8</version>
+      <version>6.1.9</version>
     </versions>
-    <lastUpdated>20240522171245</lastUpdated>
+    <lastUpdated>20240613112324</lastUpdated>
   </versioning>
 </metadata>

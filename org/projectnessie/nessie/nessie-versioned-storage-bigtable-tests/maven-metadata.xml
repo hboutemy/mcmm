@@ -3,8 +3,8 @@
   <groupId>org.projectnessie.nessie</groupId>
   <artifactId>nessie-versioned-storage-bigtable-tests</artifactId>
   <versioning>
-    <latest>0.90.2</latest>
-    <release>0.90.2</release>
+    <latest>0.90.4</latest>
+    <release>0.90.4</release>
     <versions>
       <version>0.77.0</version>
       <version>0.77.1</version>
@@ -19,7 +19,8 @@
       <version>0.83.2</version>
       <version>0.90.1</version>
       <version>0.90.2</version>
+      <version>0.90.4</version>
     </versions>
-    <lastUpdated>20240611213012</lastUpdated>
+    <lastUpdated>20240613202454</lastUpdated>
   </versioning>
 </metadata>

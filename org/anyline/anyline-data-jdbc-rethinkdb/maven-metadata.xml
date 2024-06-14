@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-rethinkdb</artifactId>
   <versioning>
-    <latest>8.7.2-20240612</latest>
-    <release>8.7.2-20240612</release>
+    <latest>8.7.2-20240613</latest>
+    <release>8.7.2-20240613</release>
     <versions>
       <version>8.6.1-20221001</version>
       <version>8.6.1-20221002</version>
@@ -258,6 +258,7 @@
       <version>8.7.2-jdk17-20240607</version>
       <version>8.7.2-jdk17-20240611</version>
       <version>8.7.2-jdk17-20240612</version>
+      <version>8.7.2-jdk17-20240613</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -279,6 +280,7 @@
       <version>8.7.2-jdk21-20240607</version>
       <version>8.7.2-jdk21-20240611</version>
       <version>8.7.2-jdk21-20240612</version>
+      <version>8.7.2-jdk21-20240613</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -305,7 +307,8 @@
       <version>8.7.2-20240607</version>
       <version>8.7.2-20240611</version>
       <version>8.7.2-20240612</version>
+      <version>8.7.2-20240613</version>
     </versions>
-    <lastUpdated>20240612161127</lastUpdated>
+    <lastUpdated>20240613093039</lastUpdated>
   </versioning>
 </metadata>
