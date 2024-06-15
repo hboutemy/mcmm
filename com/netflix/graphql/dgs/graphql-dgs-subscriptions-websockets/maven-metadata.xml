@@ -3,8 +3,8 @@
   <groupId>com.netflix.graphql.dgs</groupId>
   <artifactId>graphql-dgs-subscriptions-websockets</artifactId>
   <versioning>
-    <latest>9.0.0</latest>
-    <release>9.0.0</release>
+    <latest>9.0.1</latest>
+    <release>9.0.1</release>
     <versions>
       <version>3.0.11</version>
       <version>3.1.0</version>
@@ -146,7 +146,8 @@
       <version>8.6.1</version>
       <version>8.7.1</version>
       <version>9.0.0</version>
+      <version>9.0.1</version>
     </versions>
-    <lastUpdated>20240531232359</lastUpdated>
+    <lastUpdated>20240614185450</lastUpdated>
   </versioning>
 </metadata>

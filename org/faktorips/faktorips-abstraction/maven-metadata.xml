@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>faktorips-abstraction</artifactId>
   <versioning>
-    <latest>24.7.0.release</latest>
-    <release>24.7.0.release</release>
+    <latest>24.7.1.release</latest>
+    <release>24.7.1.release</release>
     <versions>
       <version>22.6.0-m02</version>
       <version>22.6.0-rc01</version>
@@ -18,6 +18,7 @@
       <version>22.6.5</version>
       <version>22.6.6</version>
       <version>22.6.8</version>
+      <version>22.6.10</version>
       <version>22.12.0.a20221005-01</version>
       <version>22.12.0.a20221114-01</version>
       <version>22.12.0.a20221117-02</version>
@@ -85,7 +86,8 @@
       <version>24.7.0.a20240423-01</version>
       <version>24.7.0.rc01</version>
       <version>24.7.0.release</version>
+      <version>24.7.1.release</version>
     </versions>
-    <lastUpdated>20240612081847</lastUpdated>
+    <lastUpdated>20240614125701</lastUpdated>
   </versioning>
 </metadata>
