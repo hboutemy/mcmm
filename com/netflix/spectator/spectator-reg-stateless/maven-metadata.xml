@@ -3,8 +3,8 @@
   <groupId>com.netflix.spectator</groupId>
   <artifactId>spectator-reg-stateless</artifactId>
   <versioning>
-    <latest>1.7.13</latest>
-    <release>1.7.13</release>
+    <latest>1.7.14</latest>
+    <release>1.7.14</release>
     <versions>
       <version>0.74.0</version>
       <version>0.74.1</version>
@@ -141,7 +141,8 @@
       <version>1.7.10</version>
       <version>1.7.12</version>
       <version>1.7.13</version>
+      <version>1.7.14</version>
     </versions>
-    <lastUpdated>20240522191114</lastUpdated>
+    <lastUpdated>20240617011041</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-play-ws-2.1</artifactId>
   <versioning>
-    <latest>2.4.0-alpha</latest>
-    <release>2.4.0-alpha</release>
+    <latest>2.5.0-alpha</latest>
+    <release>2.5.0-alpha</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -81,7 +81,8 @@
       <version>2.2.0-alpha</version>
       <version>2.3.0-alpha</version>
       <version>2.4.0-alpha</version>
+      <version>2.5.0-alpha</version>
     </versions>
-    <lastUpdated>20240521112911</lastUpdated>
+    <lastUpdated>20240617173106</lastUpdated>
   </versioning>
 </metadata>

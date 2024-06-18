@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-restlet-2.0</artifactId>
   <versioning>
-    <latest>2.4.0-alpha</latest>
-    <release>2.4.0-alpha</release>
+    <latest>2.5.0-alpha</latest>
+    <release>2.5.0-alpha</release>
     <versions>
       <version>1.9.0-alpha</version>
       <version>1.9.1-alpha</version>
@@ -52,7 +52,8 @@
       <version>2.2.0-alpha</version>
       <version>2.3.0-alpha</version>
       <version>2.4.0-alpha</version>
+      <version>2.5.0-alpha</version>
     </versions>
-    <lastUpdated>20240521112957</lastUpdated>
+    <lastUpdated>20240617173201</lastUpdated>
   </versioning>
 </metadata>

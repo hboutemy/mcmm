@@ -3,8 +3,8 @@
   <groupId>com.agorapulse</groupId>
   <artifactId>micronaut-amazon-awssdk-sns</artifactId>
   <versioning>
-    <latest>3.1.4</latest>
-    <release>3.1.4</release>
+    <latest>3.1.6</latest>
+    <release>3.1.6</release>
     <versions>
       <version>1.3.7.6</version>
       <version>1.4.0</version>
@@ -112,7 +112,9 @@
       <version>3.1.2</version>
       <version>3.1.3</version>
       <version>3.1.4</version>
+      <version>3.1.5</version>
+      <version>3.1.6</version>
     </versions>
-    <lastUpdated>20240614073223</lastUpdated>
+    <lastUpdated>20240617153457</lastUpdated>
   </versioning>
 </metadata>
