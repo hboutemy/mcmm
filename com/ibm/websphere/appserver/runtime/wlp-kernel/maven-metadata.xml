@@ -3,8 +3,8 @@
   <groupId>com.ibm.websphere.appserver.runtime</groupId>
   <artifactId>wlp-kernel</artifactId>
   <versioning>
-    <latest>24.0.0.5</latest>
-    <release>24.0.0.5</release>
+    <latest>24.0.0.6</latest>
+    <release>24.0.0.6</release>
     <versions>
       <version>8.5.5.8</version>
       <version>8.5.5.9</version>
@@ -84,7 +84,8 @@
       <version>24.0.0.3</version>
       <version>24.0.0.4</version>
       <version>24.0.0.5</version>
+      <version>24.0.0.6</version>
     </versions>
-    <lastUpdated>20240521050930</lastUpdated>
+    <lastUpdated>20240618060108</lastUpdated>
   </versioning>
 </metadata>
