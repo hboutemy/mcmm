@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-micrometer-registry-prometheus-deployment</artifactId>
   <versioning>
-    <latest>3.12.0.CR1</latest>
-    <release>3.12.0.CR1</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
@@ -226,8 +226,10 @@
       <version>3.11.0</version>
       <version>3.11.1</version>
       <version>3.11.2</version>
+      <version>3.11.3</version>
       <version>3.12.0.CR1</version>
+      <version>3.12.0</version>
     </versions>
-    <lastUpdated>20240612170747</lastUpdated>
+    <lastUpdated>20240619102158</lastUpdated>
   </versioning>
 </metadata>

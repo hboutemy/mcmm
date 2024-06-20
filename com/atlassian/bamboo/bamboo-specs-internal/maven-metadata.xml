@@ -3,8 +3,8 @@
   <groupId>com.atlassian.bamboo</groupId>
   <artifactId>bamboo-specs-internal</artifactId>
   <versioning>
-    <latest>10.0.0-m01-BAM-25673-6</latest>
-    <release>10.0.0-m01-BAM-25673-6</release>
+    <latest>10.0.0-rc1</latest>
+    <release>10.0.0-rc1</release>
     <versions>
       <version>6.2.6</version>
       <version>6.2.7</version>
@@ -205,6 +205,7 @@
       <version>10.0.0-m01-BAM-25673-4</version>
       <version>10.0.0-m01-BAM-25673-5</version>
       <version>10.0.0-m01-BAM-25673-6</version>
+      <version>10.0.0-rc1</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -224,6 +225,6 @@
       <version>6.2.5</version>
       <version>6.3.0-rc3</version>
     </versions>
-    <lastUpdated>20240618152805</lastUpdated>
+    <lastUpdated>20240619101409</lastUpdated>
   </versioning>
 </metadata>

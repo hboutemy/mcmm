@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-instrumentation-api-semconv</artifactId>
   <versioning>
-    <latest>1.33.3-alpha</latest>
-    <release>1.33.3-alpha</release>
+    <latest>1.33.4-alpha</latest>
+    <release>1.33.4-alpha</release>
     <versions>
       <version>1.13.0-alpha</version>
       <version>1.13.1-alpha</version>
@@ -38,7 +38,8 @@
       <version>1.33.1-alpha</version>
       <version>1.33.2-alpha</version>
       <version>1.33.3-alpha</version>
+      <version>1.33.4-alpha</version>
     </versions>
-    <lastUpdated>20240521111846</lastUpdated>
+    <lastUpdated>20240619104325</lastUpdated>
   </versioning>
 </metadata>

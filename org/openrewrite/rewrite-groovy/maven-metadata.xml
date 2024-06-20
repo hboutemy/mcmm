@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-groovy</artifactId>
   <versioning>
-    <latest>8.27.4</latest>
-    <release>8.27.4</release>
+    <latest>8.28.1</latest>
+    <release>8.28.1</release>
     <versions>
       <version>7.15.0</version>
       <version>7.15.1</version>
@@ -163,7 +163,9 @@
       <version>8.27.2</version>
       <version>8.27.3</version>
       <version>8.27.4</version>
+      <version>8.28.0</version>
+      <version>8.28.1</version>
     </versions>
-    <lastUpdated>20240607214632</lastUpdated>
+    <lastUpdated>20240619165207</lastUpdated>
   </versioning>
 </metadata>

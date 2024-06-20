@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-deployment</artifactId>
   <versioning>
-    <latest>3.12.0.CR1</latest>
-    <release>3.12.0.CR1</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -96,8 +96,9 @@
       <version>3.11.0</version>
       <version>3.11.1</version>
       <version>3.12.0.CR1</version>
+      <version>3.12.0</version>
       <version>0.1</version>
     </versions>
-    <lastUpdated>20240612151021</lastUpdated>
+    <lastUpdated>20240619160852</lastUpdated>
   </versioning>
 </metadata>

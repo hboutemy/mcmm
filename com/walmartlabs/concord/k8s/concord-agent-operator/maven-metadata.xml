@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.k8s</groupId>
   <artifactId>concord-agent-operator</artifactId>
   <versioning>
-    <latest>2.12.0</latest>
-    <release>2.12.0</release>
+    <latest>2.13.0</latest>
+    <release>2.13.0</release>
     <versions>
       <version>1.17.0</version>
       <version>1.18.0</version>
@@ -152,7 +152,8 @@
       <version>2.11.0</version>
       <version>2.11.1</version>
       <version>2.12.0</version>
+      <version>2.13.0</version>
     </versions>
-    <lastUpdated>20240613010032</lastUpdated>
+    <lastUpdated>20240619182449</lastUpdated>
   </versioning>
 </metadata>

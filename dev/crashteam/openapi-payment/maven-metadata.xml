@@ -3,8 +3,8 @@
   <groupId>dev.crashteam</groupId>
   <artifactId>openapi-payment</artifactId>
   <versioning>
-    <latest>1.20-58802e8-server</latest>
-    <release>1.20-58802e8-server</release>
+    <latest>1.21-c81397b-server</latest>
+    <release>1.21-c81397b-server</release>
     <versions>
       <version>1.3-a5821e5-client</version>
       <version>1.3-a5821e5-server</version>
@@ -40,7 +40,9 @@
       <version>1.19-5f9cd85-server</version>
       <version>1.20-58802e8-client</version>
       <version>1.20-58802e8-server</version>
+      <version>1.21-c81397b-client</version>
+      <version>1.21-c81397b-server</version>
     </versions>
-    <lastUpdated>20240609101712</lastUpdated>
+    <lastUpdated>20240619134505</lastUpdated>
   </versioning>
 </metadata>
