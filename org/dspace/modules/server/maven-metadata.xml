@@ -3,8 +3,8 @@
   <groupId>org.dspace.modules</groupId>
   <artifactId>server</artifactId>
   <versioning>
-    <latest>8.0-rc1</latest>
-    <release>8.0-rc1</release>
+    <latest>8.0</latest>
+    <release>8.0</release>
     <versions>
       <version>7.0-beta1</version>
       <version>7.0-beta2</version>
@@ -23,7 +23,8 @@
       <version>7.6</version>
       <version>7.6.1</version>
       <version>8.0-rc1</version>
+      <version>8.0</version>
     </versions>
-    <lastUpdated>20240405220611</lastUpdated>
+    <lastUpdated>20240621195212</lastUpdated>
   </versioning>
 </metadata>

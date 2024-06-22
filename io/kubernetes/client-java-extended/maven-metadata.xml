@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>client-java-extended</artifactId>
   <versioning>
-    <latest>20.0.1-legacy</latest>
-    <release>20.0.1-legacy</release>
+    <latest>21.0.0-legacy</latest>
+    <release>21.0.0-legacy</release>
     <versions>
       <version>5.0.0</version>
       <version>6.0.1</version>
@@ -50,7 +50,9 @@
       <version>20.0.0-legacy</version>
       <version>20.0.1</version>
       <version>20.0.1-legacy</version>
+      <version>21.0.0</version>
+      <version>21.0.0-legacy</version>
     </versions>
-    <lastUpdated>20240323150559</lastUpdated>
+    <lastUpdated>20240621175802</lastUpdated>
   </versioning>
 </metadata>

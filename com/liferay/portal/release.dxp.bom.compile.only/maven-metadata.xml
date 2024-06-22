@@ -3,8 +3,8 @@
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.bom.compile.only</artifactId>
   <versioning>
-    <latest>2024.q2.0</latest>
-    <release>2024.q2.0</release>
+    <latest>2023.q3.1</latest>
+    <release>2023.q3.1</release>
     <versions>
       <version>7.0.10.fp60</version>
       <version>7.0.10.fp61</version>
@@ -298,6 +298,9 @@
       <version>2023.q4.8</version>
       <version>2023.q4.9</version>
       <version>2024.q1.1</version>
+      <version>2024.q1.10</version>
+      <version>2024.q1.11</version>
+      <version>2024.q1.12</version>
       <version>2024.q1.2</version>
       <version>2024.q1.3</version>
       <version>2024.q1.4</version>
@@ -306,12 +309,9 @@
       <version>2024.q1.7</version>
       <version>2024.q1.8</version>
       <version>2024.q1.9</version>
-      <version>2024.q1.10</version>
-      <version>2024.q1.11</version>
-      <version>2024.q1.12</version>
       <version>2024.q2.0</version>
       <version>2024.q2.1</version>
     </versions>
-    <lastUpdated>20240619101554</lastUpdated>
+    <lastUpdated>20240621142830</lastUpdated>
   </versioning>
 </metadata>

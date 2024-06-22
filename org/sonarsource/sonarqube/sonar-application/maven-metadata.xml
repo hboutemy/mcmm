@@ -3,8 +3,8 @@
   <groupId>org.sonarsource.sonarqube</groupId>
   <artifactId>sonar-application</artifactId>
   <versioning>
-    <latest>10.5.1.90531</latest>
-    <release>10.5.1.90531</release>
+    <latest>10.6.0.92116</latest>
+    <release>10.6.0.92116</release>
     <versions>
       <version>6.2-RC3</version>
       <version>6.2</version>
@@ -112,7 +112,8 @@
       <version>10.4.1.88267</version>
       <version>10.5.0.89998</version>
       <version>10.5.1.90531</version>
+      <version>10.6.0.92116</version>
     </versions>
-    <lastUpdated>20240430082353</lastUpdated>
+    <lastUpdated>20240621135410</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.micronaut.build.internal.quality-checks</groupId>
   <artifactId>io.micronaut.build.internal.quality-checks.gradle.plugin</artifactId>
   <versioning>
-    <latest>7.1.2</latest>
-    <release>7.1.2</release>
+    <latest>7.1.3</latest>
+    <release>7.1.3</release>
     <versions>
       <version>5.2.0</version>
       <version>5.2.1</version>
@@ -82,7 +82,8 @@
       <version>7.1.0</version>
       <version>7.1.1</version>
       <version>7.1.2</version>
+      <version>7.1.3</version>
     </versions>
-    <lastUpdated>20240612072633</lastUpdated>
+    <lastUpdated>20240621152205</lastUpdated>
   </versioning>
 </metadata>

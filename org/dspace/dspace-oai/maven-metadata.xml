@@ -3,8 +3,8 @@
   <groupId>org.dspace</groupId>
   <artifactId>dspace-oai</artifactId>
   <versioning>
-    <latest>8.0-rc1</latest>
-    <release>8.0-rc1</release>
+    <latest>8.0</latest>
+    <release>8.0</release>
     <versions>
       <version>1.5-alpha</version>
       <version>1.5.0-beta1</version>
@@ -100,7 +100,8 @@
       <version>7.6</version>
       <version>7.6.1</version>
       <version>8.0-rc1</version>
+      <version>8.0</version>
     </versions>
-    <lastUpdated>20240405220602</lastUpdated>
+    <lastUpdated>20240621195139</lastUpdated>
   </versioning>
 </metadata>
