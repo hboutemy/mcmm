@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-dependency</artifactId>
   <versioning>
-    <latest>8.7.2-20240621</latest>
-    <release>8.7.2-20240621</release>
+    <latest>8.7.2-20240623</latest>
+    <release>8.7.2-20240623</release>
     <versions>
       <version>8.3.1</version>
       <version>8.3.2</version>
@@ -368,6 +368,7 @@
       <version>8.7.2-jdk17-20240618</version>
       <version>8.7.2-jdk17-20240619</version>
       <version>8.7.2-jdk17-20240621</version>
+      <version>8.7.2-jdk17-20240623</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -397,6 +398,7 @@
       <version>8.7.2-jdk21-20240619</version>
       <version>8.7.2-jdk21-20240620</version>
       <version>8.7.2-jdk21-20240621</version>
+      <version>8.7.2-jdk21-20240623</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -425,7 +427,9 @@
       <version>8.7.2-20240618</version>
       <version>8.7.2-20240619</version>
       <version>8.7.2-20240621</version>
+      <version>8.7.2-20240622</version>
+      <version>8.7.2-20240623</version>
     </versions>
-    <lastUpdated>20240621054830</lastUpdated>
+    <lastUpdated>20240623114242</lastUpdated>
   </versioning>
 </metadata>
