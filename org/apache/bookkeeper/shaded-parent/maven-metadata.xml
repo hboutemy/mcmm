@@ -3,8 +3,8 @@
   <groupId>org.apache.bookkeeper</groupId>
   <artifactId>shaded-parent</artifactId>
   <versioning>
-    <latest>4.17.0</latest>
-    <release>4.17.0</release>
+    <latest>4.17.1</latest>
+    <release>4.17.1</release>
     <versions>
       <version>4.6.1</version>
       <version>4.6.2</version>
@@ -45,8 +45,10 @@
       <version>4.16.3</version>
       <version>4.16.4</version>
       <version>4.16.5</version>
+      <version>4.16.6</version>
       <version>4.17.0</version>
+      <version>4.17.1</version>
     </versions>
-    <lastUpdated>20240417114944</lastUpdated>
+    <lastUpdated>20240624004546</lastUpdated>
   </versioning>
 </metadata>

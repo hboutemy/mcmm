@@ -3,11 +3,12 @@
   <groupId>ai.superstream</groupId>
   <artifactId>kafka-clients</artifactId>
   <versioning>
-    <latest>3.7.0</latest>
-    <release>3.7.0</release>
+    <latest>3.7.01-beta</latest>
+    <release>3.7.01-beta</release>
     <versions>
       <version>3.7.0-beta2</version>
       <version>3.7.0</version>
+      <version>3.7.01-beta</version>
       <version>0.0.1-alpha2</version>
       <version>0.0.1-alpha3</version>
       <version>3.0.1</version>
@@ -83,6 +84,6 @@
       <version>3.7.1-alpha2</version>
       <version>3.7.1-alpha3</version>
     </versions>
-    <lastUpdated>20240616131008</lastUpdated>
+    <lastUpdated>20240624080449</lastUpdated>
   </versioning>
 </metadata>
