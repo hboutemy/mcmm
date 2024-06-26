@@ -3,8 +3,8 @@
   <groupId>com.tencent.qqmini</groupId>
   <artifactId>extra_union_ad</artifactId>
   <versioning>
-    <latest>1.71.2_automotive</latest>
-    <release>1.71.2_automotive</release>
+    <latest>1.71.2_support_mp</latest>
+    <release>1.71.2_support_mp</release>
     <versions>
       <version>0.0.0.999</version>
       <version>1.56.0</version>
@@ -79,7 +79,9 @@
       <version>1.71.1</version>
       <version>1.71.2</version>
       <version>1.71.2_automotive</version>
+      <version>1.71.2_support</version>
+      <version>1.71.2_support_mp</version>
     </versions>
-    <lastUpdated>20240624030130</lastUpdated>
+    <lastUpdated>20240625113042</lastUpdated>
   </versioning>
 </metadata>

@@ -3,11 +3,12 @@
   <groupId>com.datadoghq</groupId>
   <artifactId>dd-sdk-android-trace-otel</artifactId>
   <versioning>
-    <latest>2.11.0</latest>
-    <release>2.11.0</release>
+    <latest>2.11.0-debug</latest>
+    <release>2.11.0-debug</release>
     <versions>
       <version>2.11.0</version>
+      <version>2.11.0-debug</version>
     </versions>
-    <lastUpdated>20240620111831</lastUpdated>
+    <lastUpdated>20240625163739</lastUpdated>
   </versioning>
 </metadata>

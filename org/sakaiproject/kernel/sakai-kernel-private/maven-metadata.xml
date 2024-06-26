@@ -3,8 +3,8 @@
   <groupId>org.sakaiproject.kernel</groupId>
   <artifactId>sakai-kernel-private</artifactId>
   <versioning>
-    <latest>22.4</latest>
-    <release>22.4</release>
+    <latest>22.5</latest>
+    <release>22.5</release>
     <versions>
       <version>1.3.0-b03</version>
       <version>1.3.0-b04</version>
@@ -59,7 +59,8 @@
       <version>22.2</version>
       <version>22.3</version>
       <version>22.4</version>
+      <version>22.5</version>
     </versions>
-    <lastUpdated>20231211062819</lastUpdated>
+    <lastUpdated>20240625215247</lastUpdated>
   </versioning>
 </metadata>

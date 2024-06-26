@@ -3,8 +3,8 @@
   <groupId>com.datadoghq</groupId>
   <artifactId>dd-sdk-android-rx</artifactId>
   <versioning>
-    <latest>2.11.0</latest>
-    <release>2.11.0</release>
+    <latest>2.11.0-debug</latest>
+    <release>2.11.0-debug</release>
     <versions>
       <version>1.8.1</version>
       <version>1.9.0-alpha1</version>
@@ -66,7 +66,8 @@
       <version>2.10.0</version>
       <version>2.10.1</version>
       <version>2.11.0</version>
+      <version>2.11.0-debug</version>
     </versions>
-    <lastUpdated>20240620111719</lastUpdated>
+    <lastUpdated>20240625162705</lastUpdated>
   </versioning>
 </metadata>

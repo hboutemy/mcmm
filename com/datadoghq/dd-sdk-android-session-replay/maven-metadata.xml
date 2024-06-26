@@ -3,8 +3,8 @@
   <groupId>com.datadoghq</groupId>
   <artifactId>dd-sdk-android-session-replay</artifactId>
   <versioning>
-    <latest>2.11.0</latest>
-    <release>2.11.0</release>
+    <latest>2.11.0-debug</latest>
+    <release>2.11.0-debug</release>
     <versions>
       <version>1.16.0-beta1</version>
       <version>1.16.0</version>
@@ -37,7 +37,8 @@
       <version>2.10.0</version>
       <version>2.10.1</version>
       <version>2.11.0</version>
+      <version>2.11.0-debug</version>
     </versions>
-    <lastUpdated>20240620112549</lastUpdated>
+    <lastUpdated>20240625162502</lastUpdated>
   </versioning>
 </metadata>
