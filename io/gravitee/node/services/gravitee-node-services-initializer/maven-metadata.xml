@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node.services</groupId>
   <artifactId>gravitee-node-services-initializer</artifactId>
   <versioning>
-    <latest>5.18.3</latest>
-    <release>5.18.3</release>
+    <latest>5.19.0</latest>
+    <release>5.19.0</release>
     <versions>
       <version>1.27.0</version>
       <version>1.27.1</version>
@@ -144,7 +144,8 @@
       <version>5.18.1</version>
       <version>5.18.2</version>
       <version>5.18.3</version>
+      <version>5.19.0</version>
     </versions>
-    <lastUpdated>20240624082016</lastUpdated>
+    <lastUpdated>20240626082805</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-jetty</artifactId>
   <versioning>
-    <latest>5.18.3</latest>
-    <release>5.18.3</release>
+    <latest>5.19.0</latest>
+    <release>5.19.0</release>
     <versions>
       <version>1.7.0</version>
       <version>1.7.1</version>
@@ -214,7 +214,8 @@
       <version>5.18.1</version>
       <version>5.18.2</version>
       <version>5.18.3</version>
+      <version>5.19.0</version>
     </versions>
-    <lastUpdated>20240624081945</lastUpdated>
+    <lastUpdated>20240626082731</lastUpdated>
   </versioning>
 </metadata>

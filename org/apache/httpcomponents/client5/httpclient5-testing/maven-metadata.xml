@@ -3,8 +3,8 @@
   <groupId>org.apache.httpcomponents.client5</groupId>
   <artifactId>httpclient5-testing</artifactId>
   <versioning>
-    <latest>5.4-alpha2</latest>
-    <release>5.4-alpha2</release>
+    <latest>5.4-beta1</latest>
+    <release>5.4-beta1</release>
     <versions>
       <version>5.0-alpha2</version>
       <version>5.0-alpha3</version>
@@ -37,7 +37,8 @@
       <version>5.3.1</version>
       <version>5.4-alpha1</version>
       <version>5.4-alpha2</version>
+      <version>5.4-beta1</version>
     </versions>
-    <lastUpdated>20240311083445</lastUpdated>
+    <lastUpdated>20240626120811</lastUpdated>
   </versioning>
 </metadata>

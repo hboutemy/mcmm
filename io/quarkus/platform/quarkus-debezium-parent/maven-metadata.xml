@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-debezium-parent</artifactId>
   <versioning>
-    <latest>3.12.0.CR1</latest>
-    <release>3.12.0.CR1</release>
+    <latest>3.12.0</latest>
+    <release>3.12.0</release>
     <versions>
       <version>2.0.0.Final</version>
       <version>2.0.1.Final</version>
@@ -182,7 +182,8 @@
       <version>3.11.2</version>
       <version>3.11.3</version>
       <version>3.12.0.CR1</version>
+      <version>3.12.0</version>
     </versions>
-    <lastUpdated>20240619135530</lastUpdated>
+    <lastUpdated>20240626071518</lastUpdated>
   </versioning>
 </metadata>
