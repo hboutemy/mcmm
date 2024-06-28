@@ -3,8 +3,8 @@
   <groupId>org.mortbay.jasper</groupId>
   <artifactId>jasper-jsp</artifactId>
   <versioning>
-    <latest>11.0.0-M20</latest>
-    <release>11.0.0-M20</release>
+    <latest>11.0.0-M21</latest>
+    <release>11.0.0-M21</release>
     <versions>
       <version>8.0.3.v20140313</version>
       <version>8.0.9.M0</version>
@@ -34,6 +34,7 @@
       <version>8.5.54</version>
       <version>8.5.68</version>
       <version>8.5.70</version>
+      <version>8.5.100</version>
       <version>9.0.14</version>
       <version>9.0.14.1</version>
       <version>9.0.19</version>
@@ -42,6 +43,7 @@
       <version>9.0.52</version>
       <version>9.0.83</version>
       <version>9.0.83.1</version>
+      <version>9.0.90</version>
       <version>10.0.0-M5</version>
       <version>10.0.0-M7</version>
       <version>10.0.0-M10</version>
@@ -56,9 +58,11 @@
       <version>10.1.5</version>
       <version>10.1.7</version>
       <version>10.1.16</version>
+      <version>10.1.25</version>
       <version>11.0.0-M19</version>
       <version>11.0.0-M20</version>
+      <version>11.0.0-M21</version>
     </versions>
-    <lastUpdated>20240527030420</lastUpdated>
+    <lastUpdated>20240627014257</lastUpdated>
   </versioning>
 </metadata>

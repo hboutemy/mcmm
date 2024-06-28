@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Dependency Resolver Plugin for Maven</name>
+      <prefix>dependency-resolver</prefix>
+      <artifactId>dependency-resolver-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Test Parser Plugin for Maven</name>
       <prefix>test-parser</prefix>
       <artifactId>test-parser-plugin</artifactId>

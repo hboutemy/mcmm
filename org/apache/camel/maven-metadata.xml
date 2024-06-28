@@ -82,7 +82,7 @@
       <artifactId>camel-resources-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: OpenApi REST DSL Generator Maven plugin</name>
+      <name>Camel :: Maven Plugins :: OpenApi REST DSL Generator Maven Plugin</name>
       <prefix>camel-restdsl-openapi</prefix>
       <artifactId>camel-restdsl-openapi-plugin</artifactId>
     </plugin>
