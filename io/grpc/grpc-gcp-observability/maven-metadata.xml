@@ -3,8 +3,8 @@
   <groupId>io.grpc</groupId>
   <artifactId>grpc-gcp-observability</artifactId>
   <versioning>
-    <latest>1.64.0</latest>
-    <release>1.64.0</release>
+    <latest>1.65.0</latest>
+    <release>1.65.0</release>
     <versions>
       <version>1.46.0</version>
       <version>1.46.1</version>
@@ -49,7 +49,8 @@
       <version>1.63.0</version>
       <version>1.63.1</version>
       <version>1.64.0</version>
+      <version>1.65.0</version>
     </versions>
-    <lastUpdated>20240517035338</lastUpdated>
+    <lastUpdated>20240628044506</lastUpdated>
   </versioning>
 </metadata>

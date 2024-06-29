@@ -3,8 +3,8 @@
   <groupId>org.sdase.commons</groupId>
   <artifactId>sda-commons-shared-wiremock-testing</artifactId>
   <versioning>
-    <latest>7.0.13</latest>
-    <release>7.0.13</release>
+    <latest>7.0.15</latest>
+    <release>7.0.15</release>
     <versions>
       <version>6.0.0-rc.1</version>
       <version>6.0.0-rc.2</version>
@@ -244,7 +244,9 @@
       <version>7.0.11</version>
       <version>7.0.12</version>
       <version>7.0.13</version>
+      <version>7.0.14</version>
+      <version>7.0.15</version>
     </versions>
-    <lastUpdated>20240627080121</lastUpdated>
+    <lastUpdated>20240628100109</lastUpdated>
   </versioning>
 </metadata>

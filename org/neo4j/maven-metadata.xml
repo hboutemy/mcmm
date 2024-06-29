@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Cypher ANTLR4 Parser Listener Generator Plugin</name>
+      <prefix>antlr-parser-listener</prefix>
+      <artifactId>antlr-parser-listener-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Neo4j - Cypher ANTLR4 parser plugin</name>
       <prefix>neo4j-cypher-antlr-parser-listener</prefix>
       <artifactId>neo4j-cypher-antlr-parser-listener-maven-plugin</artifactId>

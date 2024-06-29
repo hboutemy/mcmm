@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-jmx</artifactId>
   <versioning>
-    <latest>450</latest>
-    <release>450</release>
+    <latest>451</latest>
+    <release>451</release>
     <versions>
       <version>351</version>
       <version>352</version>
@@ -104,7 +104,8 @@
       <version>448</version>
       <version>449</version>
       <version>450</version>
+      <version>451</version>
     </versions>
-    <lastUpdated>20240620025729</lastUpdated>
+    <lastUpdated>20240628000820</lastUpdated>
   </versioning>
 </metadata>
