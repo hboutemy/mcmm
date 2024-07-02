@@ -3,8 +3,8 @@
   <groupId>pl.morgwai.base</groupId>
   <artifactId>servlet-scopes</artifactId>
   <versioning>
-    <latest>16.2-javax</latest>
-    <release>16.2-javax</release>
+    <latest>16.3-javax</latest>
+    <release>16.3-javax</release>
     <versions>
       <version>1.0-alpha1</version>
       <version>1.0-alpha2</version>
@@ -97,7 +97,9 @@
       <version>16.1-javax</version>
       <version>16.2-jakarta</version>
       <version>16.2-javax</version>
+      <version>16.3-jakarta</version>
+      <version>16.3-javax</version>
     </versions>
-    <lastUpdated>20240619125039</lastUpdated>
+    <lastUpdated>20240701203343</lastUpdated>
   </versioning>
 </metadata>
