@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>PUI9 Liquibase Maven Plugin</name>
+      <prefix>pui9-liquibase</prefix>
+      <artifactId>pui9-liquibase-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

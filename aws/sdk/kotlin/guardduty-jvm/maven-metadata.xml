@@ -3,8 +3,8 @@
   <groupId>aws.sdk.kotlin</groupId>
   <artifactId>guardduty-jvm</artifactId>
   <versioning>
-    <latest>1.2.44</latest>
-    <release>1.2.44</release>
+    <latest>1.2.45</latest>
+    <release>1.2.45</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1-beta</version>
@@ -235,7 +235,8 @@
       <version>1.2.42</version>
       <version>1.2.43</version>
       <version>1.2.44</version>
+      <version>1.2.45</version>
     </versions>
-    <lastUpdated>20240701202623</lastUpdated>
+    <lastUpdated>20240702185914</lastUpdated>
   </versioning>
 </metadata>
