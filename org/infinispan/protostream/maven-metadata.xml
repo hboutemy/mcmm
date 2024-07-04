@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>ProtoStream - backwards compatibility maven plugin</name>
+      <prefix>proto-schema-compatibility</prefix>
+      <artifactId>proto-schema-compatibility-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

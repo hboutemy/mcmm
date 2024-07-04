@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-jms-spi-deployment</artifactId>
   <versioning>
-    <latest>3.12.0</latest>
-    <release>3.12.0</release>
+    <latest>3.12.1</latest>
+    <release>3.12.1</release>
     <versions>
       <version>2.16.2.Final</version>
       <version>2.16.3.Final</version>
@@ -105,7 +105,8 @@
       <version>3.11.3</version>
       <version>3.12.0.CR1</version>
       <version>3.12.0</version>
+      <version>3.12.1</version>
     </versions>
-    <lastUpdated>20240619102117</lastUpdated>
+    <lastUpdated>20240703105942</lastUpdated>
   </versioning>
 </metadata>

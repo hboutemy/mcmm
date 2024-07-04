@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>hosted-tenant-base</artifactId>
   <versioning>
-    <latest>8.364.5</latest>
-    <release>8.364.5</release>
+    <latest>8.367.14</latest>
+    <release>8.367.14</release>
     <versions>
       <version>7.237.14</version>
       <version>7.238.12</version>
@@ -544,7 +544,9 @@
       <version>8.362.16</version>
       <version>8.363.17</version>
       <version>8.364.5</version>
+      <version>8.365.21</version>
+      <version>8.367.14</version>
     </versions>
-    <lastUpdated>20240701132548</lastUpdated>
+    <lastUpdated>20240703162724</lastUpdated>
   </versioning>
 </metadata>

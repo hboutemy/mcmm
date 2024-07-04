@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>SmallRye Certificate Generator - Maven Plugin</name>
+      <prefix>smallrye-certificate-generator</prefix>
+      <artifactId>smallrye-certificate-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

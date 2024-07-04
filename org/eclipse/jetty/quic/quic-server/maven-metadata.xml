@@ -3,8 +3,8 @@
   <groupId>org.eclipse.jetty.quic</groupId>
   <artifactId>quic-server</artifactId>
   <versioning>
-    <latest>11.0.21</latest>
-    <release>11.0.21</release>
+    <latest>11.0.22</latest>
+    <release>11.0.22</release>
     <versions>
       <version>10.0.8</version>
       <version>10.0.9</version>
@@ -20,6 +20,7 @@
       <version>10.0.19</version>
       <version>10.0.20</version>
       <version>10.0.21</version>
+      <version>10.0.22</version>
       <version>11.0.8</version>
       <version>11.0.9</version>
       <version>11.0.10</version>
@@ -34,7 +35,8 @@
       <version>11.0.19</version>
       <version>11.0.20</version>
       <version>11.0.21</version>
+      <version>11.0.22</version>
     </versions>
-    <lastUpdated>20240516083624</lastUpdated>
+    <lastUpdated>20240703222109</lastUpdated>
   </versioning>
 </metadata>
