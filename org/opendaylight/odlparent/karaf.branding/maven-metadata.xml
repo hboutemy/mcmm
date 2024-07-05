@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>karaf.branding</artifactId>
   <versioning>
-    <latest>13.1.3</latest>
-    <release>13.1.3</release>
+    <latest>14.0.0</latest>
+    <release>14.0.0</release>
     <versions>
       <version>1.7.0-Boron</version>
       <version>1.7.1-Boron-SR1</version>
@@ -167,7 +167,8 @@
       <version>13.1.1</version>
       <version>13.1.2</version>
       <version>13.1.3</version>
+      <version>14.0.0</version>
     </versions>
-    <lastUpdated>20240528091726</lastUpdated>
+    <lastUpdated>20240704095046</lastUpdated>
   </versioning>
 </metadata>

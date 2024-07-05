@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-hibernate-cache-v62</artifactId>
   <versioning>
-    <latest>15.0.5.Final</latest>
-    <release>15.0.5.Final</release>
+    <latest>15.1.0.Dev01</latest>
+    <release>15.1.0.Dev01</release>
     <versions>
       <version>14.0.8.Final</version>
       <version>14.0.9.Final</version>
@@ -45,7 +45,8 @@
       <version>15.0.3.Final</version>
       <version>15.0.4.Final</version>
       <version>15.0.5.Final</version>
+      <version>15.1.0.Dev01</version>
     </versions>
-    <lastUpdated>20240618210616</lastUpdated>
+    <lastUpdated>20240704135935</lastUpdated>
   </versioning>
 </metadata>
