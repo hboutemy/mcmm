@@ -3,8 +3,8 @@
   <groupId>org.jgroups</groupId>
   <artifactId>jgroups</artifactId>
   <versioning>
-    <latest>5.3.7.Final</latest>
-    <release>5.3.7.Final</release>
+    <latest>5.3.8.Final</latest>
+    <release>5.3.8.Final</release>
     <versions>
       <version>2.6.17.GA</version>
       <version>2.6.20.Final</version>
@@ -264,6 +264,7 @@
       <version>5.2.24.Final</version>
       <version>5.2.25.Final</version>
       <version>5.2.26.Final</version>
+      <version>5.2.27.Final</version>
       <version>5.3.0.Final</version>
       <version>5.3.1.Final</version>
       <version>5.3.2.Final</version>
@@ -272,11 +273,12 @@
       <version>5.3.5.Final</version>
       <version>5.3.6.Final</version>
       <version>5.3.7.Final</version>
+      <version>5.3.8.Final</version>
       <version>3.6.15.Final</version>
       <version>3.6.4</version>
       <version>4.0.14.Final</version>
       <version>5.2.3.Final</version>
     </versions>
-    <lastUpdated>20240522071937</lastUpdated>
+    <lastUpdated>20240705133502</lastUpdated>
   </versioning>
 </metadata>

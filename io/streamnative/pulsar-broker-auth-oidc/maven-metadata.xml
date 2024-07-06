@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-broker-auth-oidc</artifactId>
   <versioning>
-    <latest>3.3.0.4</latest>
-    <release>3.3.0.4</release>
+    <latest>3.3.0.5</latest>
+    <release>3.3.0.5</release>
     <versions>
       <version>3.0.0.1-rc1</version>
       <version>3.0.0.1</version>
@@ -74,7 +74,8 @@
       <version>3.3.0.2</version>
       <version>3.3.0.3</version>
       <version>3.3.0.4</version>
+      <version>3.3.0.5</version>
     </versions>
-    <lastUpdated>20240704152629</lastUpdated>
+    <lastUpdated>20240705074241</lastUpdated>
   </versioning>
 </metadata>
