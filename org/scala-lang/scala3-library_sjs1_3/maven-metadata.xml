@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-library_sjs1_3</artifactId>
   <versioning>
-    <latest>3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY</latest>
-    <release>3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY</release>
+    <latest>3.6.0-RC1-bin-20240705-ab48a55-NIGHTLY</latest>
+    <release>3.6.0-RC1-bin-20240705-ab48a55-NIGHTLY</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1-RC1</version>
@@ -656,6 +656,7 @@
       <version>3.3.4-RC1-bin-20240628-f38e5e0-NIGHTLY</version>
       <version>3.3.4-RC1-bin-20240702-b705d91-NIGHTLY</version>
       <version>3.3.4-RC1-bin-20240703-4126175-NIGHTLY</version>
+      <version>3.3.4-RC1-bin-20240705-9981e81-NIGHTLY</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -891,7 +892,8 @@
       <version>3.5.1-RC1-bin-20240628-1efbb92-NIGHTLY</version>
       <version>3.6.0-RC1-bin-20240702-cd8c5ed-NIGHTLY</version>
       <version>3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY</version>
+      <version>3.6.0-RC1-bin-20240705-ab48a55-NIGHTLY</version>
     </versions>
-    <lastUpdated>20240704142614</lastUpdated>
+    <lastUpdated>20240706041714</lastUpdated>
   </versioning>
 </metadata>

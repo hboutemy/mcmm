@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-voltdb</artifactId>
   <versioning>
-    <latest>8.7.2-20240705</latest>
-    <release>8.7.2-20240705</release>
+    <latest>8.7.2-20240706</latest>
+    <release>8.7.2-20240706</release>
     <versions>
       <version>8.6.5-20230927</version>
       <version>8.6.5-20231001</version>
@@ -143,6 +143,7 @@
       <version>8.7.2-jdk17-20240701</version>
       <version>8.7.2-jdk17-20240702</version>
       <version>8.7.2-jdk17-20240705</version>
+      <version>8.7.2-jdk17-20240706</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -176,6 +177,7 @@
       <version>8.7.2-jdk21-20240701</version>
       <version>8.7.2-jdk21-20240702</version>
       <version>8.7.2-jdk21-20240705</version>
+      <version>8.7.2-jdk21-20240706</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -218,7 +220,8 @@
       <version>8.7.2-20240702</version>
       <version>8.7.2-20240703</version>
       <version>8.7.2-20240705</version>
+      <version>8.7.2-20240706</version>
     </versions>
-    <lastUpdated>20240705092830</lastUpdated>
+    <lastUpdated>20240706164624</lastUpdated>
   </versioning>
 </metadata>
