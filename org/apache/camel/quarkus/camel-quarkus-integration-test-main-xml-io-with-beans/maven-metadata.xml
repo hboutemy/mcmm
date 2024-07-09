@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-test-main-xml-io-with-beans</artifactId>
   <versioning>
-    <latest>3.8.2</latest>
-    <release>3.8.2</release>
+    <latest>3.8.3</latest>
+    <release>3.8.3</release>
     <versions>
       <version>2.13.3</version>
       <version>3.0.0-M1</version>
@@ -22,7 +22,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.8.2</version>
+      <version>3.8.3</version>
     </versions>
-    <lastUpdated>20240503124843</lastUpdated>
+    <lastUpdated>20240708075347</lastUpdated>
   </versioning>
 </metadata>

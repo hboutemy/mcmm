@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-cloudera</artifactId>
   <versioning>
-    <latest>8.7.2-20240707</latest>
-    <release>8.7.2-20240707</release>
+    <latest>8.7.2-20240708</latest>
+    <release>8.7.2-20240708</release>
     <versions>
       <version>8.7.1-jdk17-20240220</version>
       <version>8.7.1-jdk17-20240221</version>
@@ -96,6 +96,7 @@
       <version>8.7.2-jdk17-20240705</version>
       <version>8.7.2-jdk17-20240706</version>
       <version>8.7.2-jdk17-20240707</version>
+      <version>8.7.2-jdk17-20240708</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -131,6 +132,7 @@
       <version>8.7.2-jdk21-20240705</version>
       <version>8.7.2-jdk21-20240706</version>
       <version>8.7.2-jdk21-20240707</version>
+      <version>8.7.2-jdk21-20240708</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -175,7 +177,8 @@
       <version>8.7.2-20240705</version>
       <version>8.7.2-20240706</version>
       <version>8.7.2-20240707</version>
+      <version>8.7.2-20240708</version>
     </versions>
-    <lastUpdated>20240707085450</lastUpdated>
+    <lastUpdated>20240708144434</lastUpdated>
   </versioning>
 </metadata>
