@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-data-collector</artifactId>
   <versioning>
-    <latest>5.21.0</latest>
-    <release>5.21.0</release>
+    <latest>5.21.2</latest>
+    <release>5.21.2</release>
     <versions>
       <version>3.5.1</version>
       <version>3.5.2</version>
@@ -172,7 +172,8 @@
       <version>5.19.0</version>
       <version>5.20.0</version>
       <version>5.21.0</version>
+      <version>5.21.2</version>
     </versions>
-    <lastUpdated>20240704091132</lastUpdated>
+    <lastUpdated>20240709094047</lastUpdated>
   </versioning>
 </metadata>

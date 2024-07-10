@@ -3,8 +3,8 @@
   <groupId>com.gu.etag-caching</groupId>
   <artifactId>aws-s3-sdk-v2_2.12</artifactId>
   <versioning>
-    <latest>3.0.11</latest>
-    <release>3.0.11</release>
+    <latest>4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a</latest>
+    <release>4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -74,7 +74,9 @@
       <version>3.0.9</version>
       <version>3.0.10</version>
       <version>3.0.11</version>
+      <version>3.0.12</version>
+      <version>4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a</version>
     </versions>
-    <lastUpdated>20240702122907</lastUpdated>
+    <lastUpdated>20240709170744</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-firestore</artifactId>
   <versioning>
-    <latest>v1-rev20240617-2.0.0</latest>
-    <release>v1-rev20240617-2.0.0</release>
+    <latest>v1-rev20240626-2.0.0</latest>
+    <release>v1-rev20240626-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.21.0</version>
@@ -445,7 +445,8 @@
       <version>v1-rev20240521-2.0.0</version>
       <version>v1-rev20240610-2.0.0</version>
       <version>v1-rev20240617-2.0.0</version>
+      <version>v1-rev20240626-2.0.0</version>
     </versions>
-    <lastUpdated>20240622081632</lastUpdated>
+    <lastUpdated>20240709082523</lastUpdated>
   </versioning>
 </metadata>
