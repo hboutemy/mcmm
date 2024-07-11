@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-cloud-config-client-deployment</artifactId>
   <versioning>
-    <latest>3.12.1</latest>
-    <release>3.12.1</release>
+    <latest>3.12.2</latest>
+    <release>3.12.2</release>
     <versions>
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
@@ -276,7 +276,8 @@
       <version>3.12.0.CR1</version>
       <version>3.12.0</version>
       <version>3.12.1</version>
+      <version>3.12.2</version>
     </versions>
-    <lastUpdated>20240703110252</lastUpdated>
+    <lastUpdated>20240710100542</lastUpdated>
   </versioning>
 </metadata>

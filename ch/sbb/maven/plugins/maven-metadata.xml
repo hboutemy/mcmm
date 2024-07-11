@@ -7,6 +7,11 @@
       <artifactId>iib-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Markdown to HTML Maven Plugin</name>
+      <prefix>markdown2html</prefix>
+      <artifactId>markdown2html-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>maven-wmb7-plugin Maven Mojo</name>
       <prefix>wmb7</prefix>
       <artifactId>maven-wmb7-plugin</artifactId>

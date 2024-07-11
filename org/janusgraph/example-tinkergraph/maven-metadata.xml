@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>example-tinkergraph</artifactId>
   <versioning>
-    <latest>1.1.0-20240708-125007.1e098d6</latest>
-    <release>1.1.0-20240708-125007.1e098d6</release>
+    <latest>1.1.0-20240710-131218.1efb00a</latest>
+    <release>1.1.0-20240710-131218.1efb00a</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -499,6 +499,8 @@
       <version>1.0.1-20240612-113912.925eeb9</version>
       <version>1.0.1-20240612-172147.d3657d1</version>
       <version>1.0.1-20240613-101210.9e861ec</version>
+      <version>1.0.1-20240710-101044.86e0126</version>
+      <version>1.0.1-20240710-132427.0aef3b5</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -636,7 +638,10 @@
       <version>1.1.0-20240625-141312.d255396</version>
       <version>1.1.0-20240628-052016.a3393a1</version>
       <version>1.1.0-20240708-125007.1e098d6</version>
+      <version>1.1.0-20240710-101340.e33ce37</version>
+      <version>1.1.0-20240710-125722.0154bf9</version>
+      <version>1.1.0-20240710-131218.1efb00a</version>
     </versions>
-    <lastUpdated>20240708130617</lastUpdated>
+    <lastUpdated>20240710134100</lastUpdated>
   </versioning>
 </metadata>

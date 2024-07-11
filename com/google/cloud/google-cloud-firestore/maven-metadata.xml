@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-firestore</artifactId>
   <versioning>
-    <latest>3.22.0</latest>
-    <release>3.22.0</release>
+    <latest>3.23.1</latest>
+    <release>3.23.1</release>
     <versions>
       <version>0.25.0-beta</version>
       <version>0.26.0-beta</version>
@@ -228,7 +228,9 @@
       <version>3.21.5</version>
       <version>3.21.6</version>
       <version>3.22.0</version>
+      <version>3.23.0</version>
+      <version>3.23.1</version>
     </versions>
-    <lastUpdated>20240628015203</lastUpdated>
+    <lastUpdated>20240710204322</lastUpdated>
   </versioning>
 </metadata>
