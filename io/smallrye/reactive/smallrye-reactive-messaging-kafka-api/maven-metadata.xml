@@ -3,8 +3,8 @@
   <groupId>io.smallrye.reactive</groupId>
   <artifactId>smallrye-reactive-messaging-kafka-api</artifactId>
   <versioning>
-    <latest>4.22.0-M1</latest>
-    <release>4.22.0-M1</release>
+    <latest>4.22.0</latest>
+    <release>4.22.0</release>
     <versions>
       <version>3.6.0</version>
       <version>3.7.0</version>
@@ -77,10 +77,11 @@
       <version>4.20.0</version>
       <version>4.21.0</version>
       <version>4.22.0-M1</version>
+      <version>4.22.0</version>
       <version>3.13.1</version>
       <version>4.10.2</version>
       <version>4.6.1</version>
     </versions>
-    <lastUpdated>20240705184053</lastUpdated>
+    <lastUpdated>20240711232330</lastUpdated>
   </versioning>
 </metadata>

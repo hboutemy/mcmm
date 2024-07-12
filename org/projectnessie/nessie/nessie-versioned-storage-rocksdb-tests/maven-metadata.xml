@@ -3,8 +3,8 @@
   <groupId>org.projectnessie.nessie</groupId>
   <artifactId>nessie-versioned-storage-rocksdb-tests</artifactId>
   <versioning>
-    <latest>0.91.3</latest>
-    <release>0.91.3</release>
+    <latest>0.92.0</latest>
+    <release>0.92.0</release>
     <versions>
       <version>0.77.0</version>
       <version>0.77.1</version>
@@ -24,7 +24,8 @@
       <version>0.91.1</version>
       <version>0.91.2</version>
       <version>0.91.3</version>
+      <version>0.92.0</version>
     </versions>
-    <lastUpdated>20240628094806</lastUpdated>
+    <lastUpdated>20240711144305</lastUpdated>
   </versioning>
 </metadata>
