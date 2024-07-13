@@ -3,8 +3,8 @@
   <groupId>io.trino</groupId>
   <artifactId>trino-thrift-testing-server</artifactId>
   <versioning>
-    <latest>451</latest>
-    <release>451</release>
+    <latest>452</latest>
+    <release>452</release>
     <versions>
       <version>351</version>
       <version>352</version>
@@ -105,7 +105,8 @@
       <version>449</version>
       <version>450</version>
       <version>451</version>
+      <version>452</version>
     </versions>
-    <lastUpdated>20240628001754</lastUpdated>
+    <lastUpdated>20240712033730</lastUpdated>
   </versioning>
 </metadata>

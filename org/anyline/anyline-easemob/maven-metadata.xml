@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-easemob</artifactId>
   <versioning>
-    <latest>8.7.2-20240710</latest>
-    <release>8.7.2-20240710</release>
+    <latest>8.7.2-20240712</latest>
+    <release>8.7.2-20240712</release>
     <versions>
       <version>8.3.1</version>
       <version>8.3.2</version>
@@ -363,6 +363,7 @@
       <version>8.7.2-jdk17-20240707</version>
       <version>8.7.2-jdk17-20240708</version>
       <version>8.7.2-jdk17-20240709</version>
+      <version>8.7.2-jdk17-20240712</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -399,6 +400,7 @@
       <version>8.7.2-jdk21-20240707</version>
       <version>8.7.2-jdk21-20240708</version>
       <version>8.7.2-jdk21-20240709</version>
+      <version>8.7.2-jdk21-20240712</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -442,7 +444,8 @@
       <version>8.7.2-20240708</version>
       <version>8.7.2-20240709</version>
       <version>8.7.2-20240710</version>
+      <version>8.7.2-20240712</version>
     </versions>
-    <lastUpdated>20240710092119</lastUpdated>
+    <lastUpdated>20240712050828</lastUpdated>
   </versioning>
 </metadata>
