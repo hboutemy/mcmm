@@ -3,13 +3,15 @@
   <groupId>com.appcompats.androidx</groupId>
   <artifactId>default</artifactId>
   <versioning>
-    <latest>core</latest>
-    <release>core</release>
+    <latest>core-ktx</latest>
+    <release>core-ktx</release>
     <versions>
-      <version>core</version>
+      <version>core-ktx</version>
+      <version>core-common</version>
       <version>2.9.5</version>
+      <version>core</version>
       <version>tools</version>
     </versions>
-    <lastUpdated>20240713092932</lastUpdated>
+    <lastUpdated>20240715065301</lastUpdated>
   </versioning>
 </metadata>
