@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.calendar.service</artifactId>
   <versioning>
@@ -423,6 +423,7 @@
       <version>5.0.65</version>
       <version>5.0.66</version>
       <version>5.0.67</version>
+      <version>5.0.68</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -500,6 +501,6 @@
       <version>6.0.74</version>
       <version>6.0.75</version>
     </versions>
-    <lastUpdated>20240701193012</lastUpdated>
+    <lastUpdated>20240716112102</lastUpdated>
   </versioning>
 </metadata>

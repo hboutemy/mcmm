@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.headless.admin.workflow.client</artifactId>
   <versioning>
@@ -87,6 +87,7 @@
       <version>3.0.28</version>
       <version>3.0.29</version>
       <version>3.0.30</version>
+      <version>3.0.31</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -119,6 +120,6 @@
       <version>4.0.29</version>
       <version>4.0.30</version>
     </versions>
-    <lastUpdated>20240603202430</lastUpdated>
+    <lastUpdated>20240716115134</lastUpdated>
   </versioning>
 </metadata>

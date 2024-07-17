@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.fragment.entry.processor.editable</artifactId>
   <versioning>
@@ -136,6 +136,7 @@
       <version>3.0.43</version>
       <version>3.0.44</version>
       <version>3.0.45</version>
+      <version>3.0.46</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -197,6 +198,6 @@
       <version>4.0.58</version>
       <version>4.0.59</version>
     </versions>
-    <lastUpdated>20240617221810</lastUpdated>
+    <lastUpdated>20240716112137</lastUpdated>
   </versioning>
 </metadata>

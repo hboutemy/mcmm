@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.opensearch</groupId>
   <artifactId>quarkus-opensearch-java-client-deployment</artifactId>
   <versioning>
-    <latest>1.9.3</latest>
-    <release>1.9.3</release>
+    <latest>1.9.4</latest>
+    <release>1.9.4</release>
     <versions>
       <version>0.2.0</version>
       <version>0.2.1</version>
@@ -38,6 +38,7 @@
       <version>1.6.5</version>
       <version>1.6.7</version>
       <version>1.6.8</version>
+      <version>1.6.9</version>
       <version>1.7.0</version>
       <version>1.7.1</version>
       <version>1.7.3</version>
@@ -48,7 +49,8 @@
       <version>1.8.4</version>
       <version>1.9.2</version>
       <version>1.9.3</version>
+      <version>1.9.4</version>
     </versions>
-    <lastUpdated>20240623101433</lastUpdated>
+    <lastUpdated>20240716225052</lastUpdated>
   </versioning>
 </metadata>

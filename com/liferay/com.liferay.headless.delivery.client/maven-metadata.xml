@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.headless.delivery.client</artifactId>
   <versioning>
@@ -103,6 +103,7 @@
       <version>3.0.35</version>
       <version>3.0.36</version>
       <version>3.0.37</version>
+      <version>3.0.38</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -187,6 +188,6 @@
       <version>4.0.81</version>
       <version>4.0.82</version>
     </versions>
-    <lastUpdated>20240701192344</lastUpdated>
+    <lastUpdated>20240716090836</lastUpdated>
   </versioning>
 </metadata>

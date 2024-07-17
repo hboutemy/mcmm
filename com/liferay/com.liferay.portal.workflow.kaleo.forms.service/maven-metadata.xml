@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.workflow.kaleo.forms.service</artifactId>
   <versioning>
@@ -72,6 +72,7 @@
       <version>4.0.42</version>
       <version>4.0.43</version>
       <version>4.0.44</version>
+      <version>4.0.45</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -123,6 +124,6 @@
       <version>5.0.48</version>
       <version>5.0.49</version>
     </versions>
-    <lastUpdated>20240702074935</lastUpdated>
+    <lastUpdated>20240716113726</lastUpdated>
   </versioning>
 </metadata>

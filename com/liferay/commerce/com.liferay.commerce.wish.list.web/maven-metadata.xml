@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.wish.list.web</artifactId>
   <versioning>
@@ -82,6 +82,7 @@
       <version>3.0.18</version>
       <version>3.0.19</version>
       <version>3.0.20</version>
+      <version>3.0.21</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -126,6 +127,6 @@
       <version>4.0.41</version>
       <version>4.0.42</version>
     </versions>
-    <lastUpdated>20240701195658</lastUpdated>
+    <lastUpdated>20240716082533</lastUpdated>
   </versioning>
 </metadata>

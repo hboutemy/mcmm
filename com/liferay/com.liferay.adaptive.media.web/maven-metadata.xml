@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.adaptive.media.web</artifactId>
   <versioning>
@@ -288,6 +288,7 @@
       <version>4.0.65</version>
       <version>4.0.66</version>
       <version>4.0.67</version>
+      <version>4.0.68</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -373,6 +374,6 @@
       <version>5.0.82</version>
       <version>5.0.83</version>
     </versions>
-    <lastUpdated>20240701192756</lastUpdated>
+    <lastUpdated>20240716114949</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.headless.commerce.admin.inventory.client</artifactId>
   <versioning>
@@ -101,6 +101,7 @@
       <version>3.0.31</version>
       <version>3.0.32</version>
       <version>3.0.33</version>
+      <version>3.0.34</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -137,6 +138,6 @@
       <version>4.0.33</version>
       <version>4.0.34</version>
     </versions>
-    <lastUpdated>20240603202834</lastUpdated>
+    <lastUpdated>20240716085329</lastUpdated>
   </versioning>
 </metadata>

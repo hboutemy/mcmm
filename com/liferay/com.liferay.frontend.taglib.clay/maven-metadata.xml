@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.taglib.clay</artifactId>
   <versioning>
@@ -213,6 +213,7 @@
       <version>6.6.22</version>
       <version>6.6.23</version>
       <version>6.6.24</version>
+      <version>6.6.25</version>
       <version>7.1.0</version>
       <version>7.1.1</version>
       <version>7.1.2</version>
@@ -357,6 +358,6 @@
       <version>15.0.0</version>
       <version>15.0.1</version>
     </versions>
-    <lastUpdated>20240617200327</lastUpdated>
+    <lastUpdated>20240716094652</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.oauth2.provider.rest</artifactId>
   <versioning>
@@ -202,6 +202,7 @@
       <version>3.0.48</version>
       <version>3.0.49</version>
       <version>3.0.50</version>
+      <version>3.0.51</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -264,6 +265,6 @@
       <version>4.0.59</version>
       <version>4.0.60</version>
     </versions>
-    <lastUpdated>20240617201229</lastUpdated>
+    <lastUpdated>20240716113745</lastUpdated>
   </versioning>
 </metadata>

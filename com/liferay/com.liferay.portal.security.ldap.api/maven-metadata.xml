@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.ldap.api</artifactId>
   <versioning>
@@ -172,6 +172,7 @@
       <version>3.0.49</version>
       <version>3.0.50</version>
       <version>3.0.51</version>
+      <version>3.0.52</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -197,6 +198,6 @@
       <version>8.0.1</version>
       <version>8.1.0</version>
     </versions>
-    <lastUpdated>20240502210635</lastUpdated>
+    <lastUpdated>20240716114552</lastUpdated>
   </versioning>
 </metadata>

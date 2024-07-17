@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.contacts.web</artifactId>
   <versioning>
@@ -293,6 +293,7 @@
       <version>4.0.63</version>
       <version>4.0.64</version>
       <version>4.0.65</version>
+      <version>4.0.66</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -354,6 +355,6 @@
       <version>5.0.58</version>
       <version>5.0.59</version>
     </versions>
-    <lastUpdated>20240617231459</lastUpdated>
+    <lastUpdated>20240716093506</lastUpdated>
   </versioning>
 </metadata>

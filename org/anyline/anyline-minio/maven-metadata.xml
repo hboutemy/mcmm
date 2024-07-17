@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-minio</artifactId>
   <versioning>
-    <latest>8.7.2-20240715</latest>
-    <release>8.7.2-20240715</release>
+    <latest>8.7.2-20240716</latest>
+    <release>8.7.2-20240716</release>
     <versions>
       <version>8.5.3-20220601</version>
       <version>8.5.3-20220609</version>
@@ -303,6 +303,7 @@
       <version>8.7.2-jdk17-20240708</version>
       <version>8.7.2-jdk17-20240709</version>
       <version>8.7.2-jdk17-20240712</version>
+      <version>8.7.2-jdk17-20240716</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -341,6 +342,7 @@
       <version>8.7.2-jdk21-20240709</version>
       <version>8.7.2-jdk21-20240712</version>
       <version>8.7.2-jdk21-20240715</version>
+      <version>8.7.2-jdk21-20240716</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -386,7 +388,8 @@
       <version>8.7.2-20240710</version>
       <version>8.7.2-20240712</version>
       <version>8.7.2-20240715</version>
+      <version>8.7.2-20240716</version>
     </versions>
-    <lastUpdated>20240715075353</lastUpdated>
+    <lastUpdated>20240716145341</lastUpdated>
   </versioning>
 </metadata>
