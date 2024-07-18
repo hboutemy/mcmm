@@ -3,22 +3,21 @@
   <groupId>com.airbyte</groupId>
   <artifactId>api</artifactId>
   <versioning>
-    <latest>1.4.1</latest>
-    <release>1.4.1</release>
+    <latest>1.5.8</latest>
+    <release>1.5.8</release>
     <versions>
+      <version>1.5.8</version>
+      <version>0.0.10</version>
       <version>0.0.6</version>
       <version>0.0.7</version>
-      <version>0.0.10</version>
       <version>0.1.1</version>
-      <version>0.2.0</version>
-      <version>0.2.1</version>
-      <version>0.5.2</version>
-      <version>0.5.3</version>
       <version>0.12.1</version>
       <version>0.14.1</version>
       <version>0.15.1</version>
       <version>0.16.2</version>
       <version>0.18.4</version>
+      <version>0.2.0</version>
+      <version>0.2.1</version>
       <version>0.33.0</version>
       <version>0.35.0</version>
       <version>0.36.2</version>
@@ -26,8 +25,11 @@
       <version>0.46.0</version>
       <version>0.48.0</version>
       <version>0.49.2</version>
+      <version>0.5.2</version>
+      <version>0.5.3</version>
       <version>1.4.1</version>
+      <version>1.5.7</version>
     </versions>
-    <lastUpdated>20240527192959</lastUpdated>
+    <lastUpdated>20240717032022</lastUpdated>
   </versioning>
 </metadata>

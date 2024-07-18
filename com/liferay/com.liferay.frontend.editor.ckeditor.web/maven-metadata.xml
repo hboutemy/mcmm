@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.frontend.editor.ckeditor.web</artifactId>
   <versioning>
-    <latest>5.0.97</latest>
-    <release>5.0.97</release>
+    <latest>5.0.98</latest>
+    <release>5.0.98</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -424,7 +424,8 @@
       <version>5.0.95</version>
       <version>5.0.96</version>
       <version>5.0.97</version>
+      <version>5.0.98</version>
     </versions>
-    <lastUpdated>20240716093822</lastUpdated>
+    <lastUpdated>20240717051007</lastUpdated>
   </versioning>
 </metadata>

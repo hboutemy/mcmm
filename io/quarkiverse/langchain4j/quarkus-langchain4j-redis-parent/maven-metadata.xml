@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-redis-parent</artifactId>
   <versioning>
-    <latest>0.16.3</latest>
-    <release>0.16.3</release>
+    <latest>0.16.4</latest>
+    <release>0.16.4</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -49,7 +49,8 @@
       <version>0.16.1</version>
       <version>0.16.2</version>
       <version>0.16.3</version>
+      <version>0.16.4</version>
     </versions>
-    <lastUpdated>20240715172336</lastUpdated>
+    <lastUpdated>20240717155326</lastUpdated>
   </versioning>
 </metadata>

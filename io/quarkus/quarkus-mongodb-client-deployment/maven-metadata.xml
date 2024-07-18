@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-mongodb-client-deployment</artifactId>
   <versioning>
-    <latest>3.12.2</latest>
-    <release>3.12.2</release>
+    <latest>3.13.0.CR1</latest>
+    <release>3.13.0.CR1</release>
     <versions>
       <version>0.19.0</version>
       <version>0.19.1</version>
@@ -305,7 +305,9 @@
       <version>3.12.0</version>
       <version>3.12.1</version>
       <version>3.12.2</version>
+      <version>3.12.3</version>
+      <version>3.13.0.CR1</version>
     </versions>
-    <lastUpdated>20240710100316</lastUpdated>
+    <lastUpdated>20240717105259</lastUpdated>
   </versioning>
 </metadata>

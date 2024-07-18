@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-reactive-panache-kotlin</artifactId>
   <versioning>
-    <latest>3.12.2</latest>
-    <release>3.12.2</release>
+    <latest>3.13.0.CR1</latest>
+    <release>3.13.0.CR1</release>
     <versions>
       <version>2.14.0.CR1</version>
       <version>2.14.0.Final</version>
@@ -120,7 +120,9 @@
       <version>3.12.0</version>
       <version>3.12.1</version>
       <version>3.12.2</version>
+      <version>3.12.3</version>
+      <version>3.13.0.CR1</version>
     </versions>
-    <lastUpdated>20240710100202</lastUpdated>
+    <lastUpdated>20240717105059</lastUpdated>
   </versioning>
 </metadata>

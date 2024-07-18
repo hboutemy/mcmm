@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.flags.taglib</artifactId>
   <versioning>
-    <latest>6.1.20</latest>
-    <release>6.1.20</release>
+    <latest>6.1.21</latest>
+    <release>6.1.21</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0</version>
@@ -230,7 +230,8 @@
       <version>6.1.18</version>
       <version>6.1.19</version>
       <version>6.1.20</version>
+      <version>6.1.21</version>
     </versions>
-    <lastUpdated>20240716095647</lastUpdated>
+    <lastUpdated>20240717050553</lastUpdated>
   </versioning>
 </metadata>

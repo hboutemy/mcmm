@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf.services.sts.systests</groupId>
   <artifactId>cxf-services-sts-systests-itests</artifactId>
   <versioning>
-    <latest>3.6.3</latest>
-    <release>3.6.3</release>
+    <latest>3.6.4</latest>
+    <release>3.6.4</release>
     <versions>
       <version>3.0.7</version>
       <version>3.0.8</version>
@@ -79,11 +79,13 @@
       <version>3.5.6</version>
       <version>3.5.7</version>
       <version>3.5.8</version>
+      <version>3.5.9</version>
       <version>3.6.0</version>
       <version>3.6.1</version>
       <version>3.6.2</version>
       <version>3.6.3</version>
+      <version>3.6.4</version>
     </versions>
-    <lastUpdated>20240312204712</lastUpdated>
+    <lastUpdated>20240717215516</lastUpdated>
   </versioning>
 </metadata>

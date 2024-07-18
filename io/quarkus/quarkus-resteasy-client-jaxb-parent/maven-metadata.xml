@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-client-jaxb-parent</artifactId>
   <versioning>
-    <latest>3.12.2</latest>
-    <release>3.12.2</release>
+    <latest>3.13.0.CR1</latest>
+    <release>3.13.0.CR1</release>
     <versions>
       <version>3.7.0.CR1</version>
       <version>3.7.0</version>
@@ -40,7 +40,9 @@
       <version>3.12.0</version>
       <version>3.12.1</version>
       <version>3.12.2</version>
+      <version>3.12.3</version>
+      <version>3.13.0.CR1</version>
     </versions>
-    <lastUpdated>20240710100438</lastUpdated>
+    <lastUpdated>20240717105451</lastUpdated>
   </versioning>
 </metadata>
