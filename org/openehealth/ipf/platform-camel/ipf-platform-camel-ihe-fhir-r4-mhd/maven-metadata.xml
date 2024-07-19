@@ -3,8 +3,8 @@
   <groupId>org.openehealth.ipf.platform-camel</groupId>
   <artifactId>ipf-platform-camel-ihe-fhir-r4-mhd</artifactId>
   <versioning>
-    <latest>5.0-m1</latest>
-    <release>5.0-m1</release>
+    <latest>5.0-m2</latest>
+    <release>5.0-m2</release>
     <versions>
       <version>3.6.0</version>
       <version>3.6.1</version>
@@ -43,7 +43,8 @@
       <version>4.8-m7</version>
       <version>4.8.0</version>
       <version>5.0-m1</version>
+      <version>5.0-m2</version>
     </versions>
-    <lastUpdated>20240508225537</lastUpdated>
+    <lastUpdated>20240718191957</lastUpdated>
   </versioning>
 </metadata>
