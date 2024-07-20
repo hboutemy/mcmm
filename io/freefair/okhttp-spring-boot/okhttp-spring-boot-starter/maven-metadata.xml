@@ -3,8 +3,8 @@
   <groupId>io.freefair.okhttp-spring-boot</groupId>
   <artifactId>okhttp-spring-boot-starter</artifactId>
   <versioning>
-    <latest>3.3.0-M2</latest>
-    <release>3.3.0-M2</release>
+    <latest>3.3.2</latest>
+    <release>3.3.2</release>
     <versions>
       <version>unspecified</version>
       <version>2.1.0</version>
@@ -123,8 +123,10 @@
       <version>3.2.3</version>
       <version>3.2.4</version>
       <version>3.2.5</version>
+      <version>3.2.8</version>
       <version>3.3.0-M2</version>
+      <version>3.3.2</version>
     </versions>
-    <lastUpdated>20240418204914</lastUpdated>
+    <lastUpdated>20240719163427</lastUpdated>
   </versioning>
 </metadata>
