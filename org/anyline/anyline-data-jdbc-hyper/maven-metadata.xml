@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-hyper</artifactId>
   <versioning>
-    <latest>8.7.2-20240719</latest>
-    <release>8.7.2-20240719</release>
+    <latest>8.7.2-20240720</latest>
+    <release>8.7.2-20240720</release>
     <versions>
       <version>8.7.1-jdk17-20231130</version>
       <version>8.7.1-jdk17-20231203</version>
@@ -137,6 +137,7 @@
       <version>8.7.2-jdk17-20240717</version>
       <version>8.7.2-jdk17-20240718</version>
       <version>8.7.2-jdk17-20240719</version>
+      <version>8.7.2-jdk17-20240720</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -180,6 +181,7 @@
       <version>8.7.2-jdk21-20240717</version>
       <version>8.7.2-jdk21-20240718</version>
       <version>8.7.2-jdk21-20240719</version>
+      <version>8.7.2-jdk21-20240720</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -234,7 +236,8 @@
       <version>8.7.2-20240717</version>
       <version>8.7.2-20240718</version>
       <version>8.7.2-20240719</version>
+      <version>8.7.2-20240720</version>
     </versions>
-    <lastUpdated>20240719084757</lastUpdated>
+    <lastUpdated>20240720145932</lastUpdated>
   </versioning>
 </metadata>
