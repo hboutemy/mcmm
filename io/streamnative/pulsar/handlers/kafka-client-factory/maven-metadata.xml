@@ -3,8 +3,8 @@
   <groupId>io.streamnative.pulsar.handlers</groupId>
   <artifactId>kafka-client-factory</artifactId>
   <versioning>
-    <latest>3.3.0.6</latest>
-    <release>3.3.0.6</release>
+    <latest>3.3.0.7</latest>
+    <release>3.3.0.7</release>
     <versions>
       <version>2.8.0.5</version>
       <version>2.8.0.6</version>
@@ -299,7 +299,8 @@
       <version>3.3.0.4</version>
       <version>3.3.0.5</version>
       <version>3.3.0.6</version>
+      <version>3.3.0.7</version>
     </versions>
-    <lastUpdated>20240718072238</lastUpdated>
+    <lastUpdated>20240721113659</lastUpdated>
   </versioning>
 </metadata>

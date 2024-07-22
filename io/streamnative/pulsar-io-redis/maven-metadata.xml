@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-redis</artifactId>
   <versioning>
-    <latest>3.3.0.6</latest>
-    <release>3.3.0.6</release>
+    <latest>3.3.0.7</latest>
+    <release>3.3.0.7</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -725,7 +725,8 @@
       <version>3.3.0.4</version>
       <version>3.3.0.5</version>
       <version>3.3.0.6</version>
+      <version>3.3.0.7</version>
     </versions>
-    <lastUpdated>20240718065733</lastUpdated>
+    <lastUpdated>20240721111312</lastUpdated>
   </versioning>
 </metadata>
