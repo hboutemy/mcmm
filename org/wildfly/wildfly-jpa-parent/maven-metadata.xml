@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-jpa-parent</artifactId>
   <versioning>
-    <latest>33.0.0.Beta1</latest>
-    <release>33.0.0.Beta1</release>
+    <latest>33.0.0.Final</latest>
+    <release>33.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -108,7 +108,8 @@
       <version>32.0.0.Final</version>
       <version>32.0.1.Final</version>
       <version>33.0.0.Beta1</version>
+      <version>33.0.0.Final</version>
     </versions>
-    <lastUpdated>20240703174944</lastUpdated>
+    <lastUpdated>20240722201118</lastUpdated>
   </versioning>
 </metadata>

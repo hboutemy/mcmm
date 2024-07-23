@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-hive</artifactId>
   <versioning>
-    <latest>8.7.2-20240720</latest>
-    <release>8.7.2-20240720</release>
+    <latest>8.7.2-20240722</latest>
+    <release>8.7.2-20240722</release>
     <versions>
       <version>8.6.5-jdk17-20230812</version>
       <version>8.6.5-jdk17-20230815</version>
@@ -173,6 +173,7 @@
       <version>8.7.2-jdk17-20240718</version>
       <version>8.7.2-jdk17-20240719</version>
       <version>8.7.2-jdk17-20240720</version>
+      <version>8.7.2-jdk17-20240722</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -217,6 +218,7 @@
       <version>8.7.2-jdk21-20240718</version>
       <version>8.7.2-jdk21-20240719</version>
       <version>8.7.2-jdk21-20240720</version>
+      <version>8.7.2-jdk21-20240722</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -272,7 +274,8 @@
       <version>8.7.2-20240718</version>
       <version>8.7.2-20240719</version>
       <version>8.7.2-20240720</version>
+      <version>8.7.2-20240722</version>
     </versions>
-    <lastUpdated>20240720145930</lastUpdated>
+    <lastUpdated>20240722035125</lastUpdated>
   </versioning>
 </metadata>
