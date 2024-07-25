@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>flow-bom</artifactId>
   <versioning>
-    <latest>24.4.4</latest>
-    <release>24.4.4</release>
+    <latest>24.4.5</latest>
+    <release>24.4.5</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -387,12 +387,14 @@
       <version>24.3.11</version>
       <version>24.3.12</version>
       <version>24.3.13</version>
+      <version>24.3.14</version>
       <version>24.4.0</version>
       <version>24.4.1</version>
       <version>24.4.2</version>
       <version>24.4.3</version>
       <version>24.4.4</version>
+      <version>24.4.5</version>
     </versions>
-    <lastUpdated>20240723164331</lastUpdated>
+    <lastUpdated>20240724153741</lastUpdated>
   </versioning>
 </metadata>

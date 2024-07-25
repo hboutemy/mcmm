@@ -3,8 +3,8 @@
   <groupId>com.codacy</groupId>
   <artifactId>events-plugin_2.13</artifactId>
   <versioning>
-    <latest>11.1.1_akka_2.6_circe_0.14</latest>
-    <release>11.1.1_akka_2.6_circe_0.14</release>
+    <latest>12.0.1_akka_2.6_circe_0.14</latest>
+    <release>12.0.1_akka_2.6_circe_0.14</release>
     <versions>
       <version>7.1.0_akka_2.6_circe_0.12</version>
       <version>7.1.0_akka_2.6_circe_0.14</version>
@@ -132,7 +132,11 @@
       <version>11.1.0_akka_2.6_circe_0.14</version>
       <version>11.1.1_akka_2.6_circe_0.12</version>
       <version>11.1.1_akka_2.6_circe_0.14</version>
+      <version>12.0.0_akka_2.6_circe_0.12</version>
+      <version>12.0.0_akka_2.6_circe_0.14</version>
+      <version>12.0.1_akka_2.6_circe_0.12</version>
+      <version>12.0.1_akka_2.6_circe_0.14</version>
     </versions>
-    <lastUpdated>20240705130816</lastUpdated>
+    <lastUpdated>20240724165843</lastUpdated>
   </versioning>
 </metadata>

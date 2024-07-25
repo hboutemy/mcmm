@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.nimbusds.jwt</artifactId>
   <versioning>
-    <latest>9.30.2.LIFERAY-PATCHED-1</latest>
-    <release>9.30.2.LIFERAY-PATCHED-1</release>
+    <latest>9.40.LIFERAY-PATCHED-1</latest>
+    <release>9.40.LIFERAY-PATCHED-1</release>
     <versions>
       <version>9.30.2.LIFERAY-PATCHED-1</version>
+      <version>9.40.LIFERAY-PATCHED-1</version>
     </versions>
-    <lastUpdated>20230706064142</lastUpdated>
+    <lastUpdated>20240724093431</lastUpdated>
   </versioning>
 </metadata>
