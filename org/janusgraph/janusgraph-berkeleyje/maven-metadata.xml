@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-berkeleyje</artifactId>
   <versioning>
-    <latest>1.1.0-20240723-081238.10fe40a</latest>
-    <release>1.1.0-20240723-081238.10fe40a</release>
+    <latest>1.1.0-20240725-225722.13619a1</latest>
+    <release>1.1.0-20240725-225722.13619a1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -514,6 +514,8 @@
       <version>1.0.1-20240723-075948.c4e698a</version>
       <version>1.0.1-20240723-080324.695a5f8</version>
       <version>1.0.1-20240723-080643.cd86b31</version>
+      <version>1.0.1-20240725-125651.b315f1d</version>
+      <version>1.0.1-20240725-144321.b30df90</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -665,7 +667,11 @@
       <version>1.1.0-20240722-141328.4ac4b74</version>
       <version>1.1.0-20240723-080556.0bac678</version>
       <version>1.1.0-20240723-081238.10fe40a</version>
+      <version>1.1.0-20240725-125334.bca47c5</version>
+      <version>1.1.0-20240725-224039.8321b15</version>
+      <version>1.1.0-20240725-225243.caac463</version>
+      <version>1.1.0-20240725-225722.13619a1</version>
     </versions>
-    <lastUpdated>20240723093318</lastUpdated>
+    <lastUpdated>20240725231504</lastUpdated>
   </versioning>
 </metadata>

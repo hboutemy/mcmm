@@ -3,8 +3,8 @@
   <groupId>uk.gov.justice.service.hmpps</groupId>
   <artifactId>hmpps-sqs-spring-boot-starter</artifactId>
   <versioning>
-    <latest>4.1.0</latest>
-    <release>4.1.0</release>
+    <latest>4.2.0-beta</latest>
+    <release>4.2.0-beta</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -72,7 +72,8 @@
       <version>4.1.0-beta-3</version>
       <version>4.1.0-beta-4</version>
       <version>4.1.0</version>
+      <version>4.2.0-beta</version>
     </versions>
-    <lastUpdated>20240724104906</lastUpdated>
+    <lastUpdated>20240725143024</lastUpdated>
   </versioning>
 </metadata>
