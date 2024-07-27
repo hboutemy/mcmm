@@ -3,13 +3,14 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-spring-bom</artifactId>
   <versioning>
-    <latest>12.0.0.Final</latest>
-    <release>12.0.0.Final</release>
+    <latest>13.0.0.Final</latest>
+    <release>13.0.0.Final</release>
     <versions>
       <version>11.0.0.Final</version>
       <version>11.0.1.Final</version>
       <version>12.0.0.Final</version>
+      <version>13.0.0.Final</version>
     </versions>
-    <lastUpdated>20240317205308</lastUpdated>
+    <lastUpdated>20240726121255</lastUpdated>
   </versioning>
 </metadata>
