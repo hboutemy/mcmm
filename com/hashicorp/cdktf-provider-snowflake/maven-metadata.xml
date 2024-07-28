@@ -3,8 +3,8 @@
   <groupId>com.hashicorp</groupId>
   <artifactId>cdktf-provider-snowflake</artifactId>
   <versioning>
-    <latest>11.9.0</latest>
-    <release>11.9.0</release>
+    <latest>11.10.0</latest>
+    <release>11.10.0</release>
     <versions>
       <version>0.0.0</version>
       <version>0.0.1</version>
@@ -321,7 +321,8 @@
       <version>11.7.0</version>
       <version>11.8.0</version>
       <version>11.9.0</version>
+      <version>11.10.0</version>
     </versions>
-    <lastUpdated>20240711032742</lastUpdated>
+    <lastUpdated>20240727032703</lastUpdated>
   </versioning>
 </metadata>
