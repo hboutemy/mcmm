@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-discoveryengine</artifactId>
   <versioning>
-    <latest>v1-rev20240704-2.0.0</latest>
-    <release>v1-rev20240704-2.0.0</release>
+    <latest>v1-rev20240715-2.0.0</latest>
+    <release>v1-rev20240715-2.0.0</release>
     <versions>
       <version>v1alpha-rev20221103-2.0.0</version>
       <version>v1alpha-rev20221107-2.0.0</version>
@@ -60,6 +60,7 @@
       <version>v1alpha-rev20240617-2.0.0</version>
       <version>v1alpha-rev20240701-2.0.0</version>
       <version>v1alpha-rev20240704-2.0.0</version>
+      <version>v1alpha-rev20240715-2.0.0</version>
       <version>v1beta-rev20221103-2.0.0</version>
       <version>v1beta-rev20221107-2.0.0</version>
       <version>v1beta-rev20221130-2.0.0</version>
@@ -114,6 +115,7 @@
       <version>v1beta-rev20240617-2.0.0</version>
       <version>v1beta-rev20240701-2.0.0</version>
       <version>v1beta-rev20240704-2.0.0</version>
+      <version>v1beta-rev20240715-2.0.0</version>
       <version>v1-rev20240409-2.0.0</version>
       <version>v1-rev20240415-2.0.0</version>
       <version>v1-rev20240502-2.0.0</version>
@@ -124,7 +126,8 @@
       <version>v1-rev20240617-2.0.0</version>
       <version>v1-rev20240701-2.0.0</version>
       <version>v1-rev20240704-2.0.0</version>
+      <version>v1-rev20240715-2.0.0</version>
     </versions>
-    <lastUpdated>20240711081221</lastUpdated>
+    <lastUpdated>20240728080226</lastUpdated>
   </versioning>
 </metadata>
