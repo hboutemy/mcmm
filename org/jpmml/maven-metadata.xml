@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Minify Apache Maven Plugin</name>
+      <prefix>minify</prefix>
+      <artifactId>minify-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JPMML Maven plugin</name>
       <prefix>pmml</prefix>
       <artifactId>pmml-maven-plugin</artifactId>

@@ -7,6 +7,11 @@
       <artifactId>helidon-archetype-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Helidon Build Cache Maven Plugin</name>
+      <prefix>helidon-build-cache</prefix>
+      <artifactId>helidon-build-cache-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Helidon CLI Maven Plugin</name>
       <prefix>helidon-cli</prefix>
       <artifactId>helidon-cli-maven-plugin</artifactId>
@@ -17,7 +22,7 @@
       <artifactId>helidon-enforcer-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Helidon Build Helper Maven Plugin</name>
+      <name>Helidon Javadoc Maven Plugin</name>
       <prefix>helidon-javadoc</prefix>
       <artifactId>helidon-javadoc-maven-plugin</artifactId>
     </plugin>

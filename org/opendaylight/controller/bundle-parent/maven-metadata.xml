@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>bundle-parent</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.0.1</latest>
+    <release>10.0.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -84,7 +84,8 @@
       <version>9.0.3</version>
       <version>9.0.4</version>
       <version>10.0.0</version>
+      <version>10.0.1</version>
     </versions>
-    <lastUpdated>20240726155329</lastUpdated>
+    <lastUpdated>20240729091432</lastUpdated>
   </versioning>
 </metadata>
