@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-aliyun-oss</artifactId>
   <versioning>
-    <latest>8.7.2-20240728</latest>
-    <release>8.7.2-20240728</release>
+    <latest>8.7.2-20240730</latest>
+    <release>8.7.2-20240730</release>
     <versions>
       <version>8.5.5-8.5.5-20220801</version>
       <version>8.5.5-20220725</version>
@@ -306,6 +306,7 @@
       <version>8.7.2-jdk17-20240726</version>
       <version>8.7.2-jdk17-20240727</version>
       <version>8.7.2-jdk17-20240728</version>
+      <version>8.7.2-jdk17-20240730</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -352,6 +353,7 @@
       <version>8.7.2-jdk21-20240726</version>
       <version>8.7.2-jdk21-20240727</version>
       <version>8.7.2-jdk21-20240728</version>
+      <version>8.7.2-jdk21-20240730</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -406,7 +408,8 @@
       <version>8.7.2-20240726</version>
       <version>8.7.2-20240727</version>
       <version>8.7.2-20240728</version>
+      <version>8.7.2-20240730</version>
     </versions>
-    <lastUpdated>20240728041324</lastUpdated>
+    <lastUpdated>20240730132951</lastUpdated>
   </versioning>
 </metadata>

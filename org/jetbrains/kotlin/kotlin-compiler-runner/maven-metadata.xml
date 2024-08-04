@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-compiler-runner</artifactId>
   <versioning>
-    <latest>2.0.20-Beta2</latest>
-    <release>2.0.20-Beta2</release>
+    <latest>2.0.20-RC</latest>
+    <release>2.0.20-RC</release>
     <versions>
       <version>0.9.0-native</version>
       <version>0.9.1-native</version>
@@ -144,7 +144,8 @@
       <version>2.0.10-RC2</version>
       <version>2.0.20-Beta1</version>
       <version>2.0.20-Beta2</version>
+      <version>2.0.20-RC</version>
     </versions>
-    <lastUpdated>20240729095245</lastUpdated>
+    <lastUpdated>20240730075843</lastUpdated>
   </versioning>
 </metadata>

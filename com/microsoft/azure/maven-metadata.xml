@@ -17,6 +17,11 @@
       <artifactId>azure-relay</artifactId>
     </plugin>
     <plugin>
+      <name>Azure SDK for Java Build Tool Maven Plugin</name>
+      <prefix>azure-sdk-build-tool</prefix>
+      <artifactId>azure-sdk-build-tool-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>azure-servicebus-jms</name>
       <prefix>azure-servicebus-jms</prefix>
       <artifactId>azure-servicebus-jms</artifactId>
