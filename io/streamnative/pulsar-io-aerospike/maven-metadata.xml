@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-aerospike</artifactId>
   <versioning>
-    <latest>3.3.0.7</latest>
-    <release>3.3.0.7</release>
+    <latest>3.3.0.9</latest>
+    <release>3.3.0.9</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -729,7 +729,8 @@
       <version>3.3.0.5</version>
       <version>3.3.0.6</version>
       <version>3.3.0.7</version>
+      <version>3.3.0.9</version>
     </versions>
-    <lastUpdated>20240801075844</lastUpdated>
+    <lastUpdated>20240804020815</lastUpdated>
   </versioning>
 </metadata>
