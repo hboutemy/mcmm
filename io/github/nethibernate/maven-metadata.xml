@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>FakeTime Maven Plugin</name>
+      <prefix>faketime</prefix>
+      <artifactId>faketime-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Protocol Buffers Plugin</name>
       <prefix>protobuf</prefix>
       <artifactId>protobuf-maven-plugin</artifactId>
