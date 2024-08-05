@@ -3,8 +3,8 @@
   <groupId>org.hibernate.orm.tooling</groupId>
   <artifactId>hibernate-enhance-maven-plugin</artifactId>
   <versioning>
-    <latest>7.0.0.Alpha3</latest>
-    <release>7.0.0.Alpha3</release>
+    <latest>7.0.0.Beta1</latest>
+    <release>7.0.0.Beta1</release>
     <versions>
       <version>4.2.9.Final</version>
       <version>4.2.10.Final</version>
@@ -264,6 +264,7 @@
       <version>7.0.0.Alpha1</version>
       <version>7.0.0.Alpha2</version>
       <version>7.0.0.Alpha3</version>
+      <version>7.0.0.Beta1</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
       <version>5.1.15.Final</version>
@@ -278,6 +279,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20240703075536</lastUpdated>
+    <lastUpdated>20240801135801</lastUpdated>
   </versioning>
 </metadata>

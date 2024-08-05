@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-qa-abstracts</artifactId>
   <versioning>
-    <latest>8.6.0-alpha4-rc1</latest>
-    <release>8.6.0-alpha4-rc1</release>
+    <latest>8.6.0-alpha4-rc2</latest>
+    <release>8.6.0-alpha4-rc2</release>
     <versions>
       <version>8.1.0-alpha1</version>
       <version>8.1.0-alpha2</version>
@@ -123,7 +123,8 @@
       <version>8.6.0-alpha3-rc3</version>
       <version>8.6.0-alpha3</version>
       <version>8.6.0-alpha4-rc1</version>
+      <version>8.6.0-alpha4-rc2</version>
     </versions>
-    <lastUpdated>20240730165948</lastUpdated>
+    <lastUpdated>20240801180507</lastUpdated>
   </versioning>
 </metadata>

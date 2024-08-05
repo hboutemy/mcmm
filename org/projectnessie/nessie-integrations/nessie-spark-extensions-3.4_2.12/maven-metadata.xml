@@ -3,8 +3,8 @@
   <groupId>org.projectnessie.nessie-integrations</groupId>
   <artifactId>nessie-spark-extensions-3.4_2.12</artifactId>
   <versioning>
-    <latest>0.94.3</latest>
-    <release>0.94.3</release>
+    <latest>0.94.4</latest>
+    <release>0.94.4</release>
     <versions>
       <version>0.61.0</version>
       <version>0.62.0</version>
@@ -64,7 +64,8 @@
       <version>0.94.1</version>
       <version>0.94.2</version>
       <version>0.94.3</version>
+      <version>0.94.4</version>
     </versions>
-    <lastUpdated>20240729064001</lastUpdated>
+    <lastUpdated>20240801095737</lastUpdated>
   </versioning>
 </metadata>
