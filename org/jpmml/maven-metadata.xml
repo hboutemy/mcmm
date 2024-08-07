@@ -7,6 +7,11 @@
       <artifactId>minify-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Packager Apache Maven Plugin</name>
+      <prefix>packager</prefix>
+      <artifactId>packager-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JPMML Maven plugin</name>
       <prefix>pmml</prefix>
       <artifactId>pmml-maven-plugin</artifactId>
