@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-sinodb</artifactId>
   <versioning>
-    <latest>8.7.2-20240807</latest>
-    <release>8.7.2-20240807</release>
+    <latest>8.7.2-20240808</latest>
+    <release>8.7.2-20240808</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -208,6 +208,8 @@
       <version>8.7.2-jdk17-20240730</version>
       <version>8.7.2-jdk17-20240801</version>
       <version>8.7.2-jdk17-20240805</version>
+      <version>8.7.2-jdk17-20240807</version>
+      <version>8.7.2-jdk17-20240808</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -261,6 +263,7 @@
       <version>8.7.2-jdk21-20240801</version>
       <version>8.7.2-jdk21-20240805</version>
       <version>8.7.2-jdk21-20240807</version>
+      <version>8.7.2-jdk21-20240808</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -325,7 +328,8 @@
       <version>8.7.2-20240803</version>
       <version>8.7.2-20240805</version>
       <version>8.7.2-20240807</version>
+      <version>8.7.2-20240808</version>
     </versions>
-    <lastUpdated>20240807152059</lastUpdated>
+    <lastUpdated>20240808093236</lastUpdated>
   </versioning>
 </metadata>

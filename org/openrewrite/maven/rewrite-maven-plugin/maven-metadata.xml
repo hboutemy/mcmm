@@ -3,8 +3,8 @@
   <groupId>org.openrewrite.maven</groupId>
   <artifactId>rewrite-maven-plugin</artifactId>
   <versioning>
-    <latest>5.37.1</latest>
-    <release>5.37.1</release>
+    <latest>5.38.1</latest>
+    <release>5.38.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -188,7 +188,9 @@
       <version>5.36.0</version>
       <version>5.37.0</version>
       <version>5.37.1</version>
+      <version>5.38.0</version>
+      <version>5.38.1</version>
     </versions>
-    <lastUpdated>20240801052553</lastUpdated>
+    <lastUpdated>20240808225635</lastUpdated>
   </versioning>
 </metadata>
