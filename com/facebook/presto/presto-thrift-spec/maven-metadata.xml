@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-thrift-spec</artifactId>
   <versioning>
-    <latest>0.288</latest>
-    <release>0.288</release>
+    <latest>0.288.1</latest>
+    <release>0.288.1</release>
     <versions>
       <version>0.247</version>
       <version>0.248</version>
@@ -69,7 +69,8 @@
       <version>0.286</version>
       <version>0.287</version>
       <version>0.288</version>
+      <version>0.288.1</version>
     </versions>
-    <lastUpdated>20240707054710</lastUpdated>
+    <lastUpdated>20240809231102</lastUpdated>
   </versioning>
 </metadata>

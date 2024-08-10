@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-mapper-pojo-standalone</artifactId>
   <versioning>
-    <latest>7.2.0.CR1</latest>
-    <release>7.2.0.CR1</release>
+    <latest>7.2.0.Final</latest>
+    <release>7.2.0.Final</release>
     <versions>
       <version>6.2.0.Alpha1</version>
       <version>6.2.0.Alpha2</version>
@@ -28,7 +28,8 @@
       <version>7.2.0.Alpha1</version>
       <version>7.2.0.Alpha2</version>
       <version>7.2.0.CR1</version>
+      <version>7.2.0.Final</version>
     </versions>
-    <lastUpdated>20240807065742</lastUpdated>
+    <lastUpdated>20240809124713</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-influxdb</artifactId>
   <versioning>
-    <latest>8.7.2-20240808</latest>
-    <release>8.7.2-20240808</release>
+    <latest>8.7.2-20240810</latest>
+    <release>8.7.2-20240810</release>
     <versions>
       <version>8.7.2-jdk17-20240715</version>
       <version>8.7.2-jdk17-20240716</version>
@@ -22,6 +22,7 @@
       <version>8.7.2-jdk17-20240806</version>
       <version>8.7.2-jdk17-20240807</version>
       <version>8.7.2-jdk17-20240808</version>
+      <version>8.7.2-jdk17-20240809</version>
       <version>8.7.2-jdk21-20240715</version>
       <version>8.7.2-jdk21-20240716</version>
       <version>8.7.2-jdk21-20240717</version>
@@ -36,6 +37,7 @@
       <version>8.7.2-jdk21-20240805</version>
       <version>8.7.2-jdk21-20240807</version>
       <version>8.7.2-jdk21-20240808</version>
+      <version>8.7.2-jdk21-20240809</version>
       <version>8.7.2-20240715</version>
       <version>8.7.2-20240716</version>
       <version>8.7.2-20240717</version>
@@ -52,7 +54,9 @@
       <version>8.7.2-20240806</version>
       <version>8.7.2-20240807</version>
       <version>8.7.2-20240808</version>
+      <version>8.7.2-20240809</version>
+      <version>8.7.2-20240810</version>
     </versions>
-    <lastUpdated>20240808092058</lastUpdated>
+    <lastUpdated>20240809152211</lastUpdated>
   </versioning>
 </metadata>

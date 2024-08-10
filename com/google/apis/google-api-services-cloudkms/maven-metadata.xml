@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudkms</artifactId>
   <versioning>
-    <latest>v1-rev20240723-2.0.0</latest>
-    <release>v1-rev20240723-2.0.0</release>
+    <latest>v1-rev20240801-2.0.0</latest>
+    <release>v1-rev20240801-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.20.0</version>
@@ -451,7 +451,8 @@
       <version>v1-rev20240611-2.0.0</version>
       <version>v1-rev20240613-2.0.0</version>
       <version>v1-rev20240723-2.0.0</version>
+      <version>v1-rev20240801-2.0.0</version>
     </versions>
-    <lastUpdated>20240731080257</lastUpdated>
+    <lastUpdated>20240809075831</lastUpdated>
   </versioning>
 </metadata>

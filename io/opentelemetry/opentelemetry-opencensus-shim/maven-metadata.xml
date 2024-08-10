@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-opencensus-shim</artifactId>
   <versioning>
-    <latest>1.40.0-alpha</latest>
-    <release>1.40.0-alpha</release>
+    <latest>1.41.0-alpha</latest>
+    <release>1.41.0-alpha</release>
     <versions>
       <version>0.10.0</version>
       <version>0.11.0</version>
@@ -68,7 +68,8 @@
       <version>1.38.0-alpha</version>
       <version>1.39.0-alpha</version>
       <version>1.40.0-alpha</version>
+      <version>1.41.0-alpha</version>
     </versions>
-    <lastUpdated>20240705222840</lastUpdated>
+    <lastUpdated>20240809155543</lastUpdated>
   </versioning>
 </metadata>

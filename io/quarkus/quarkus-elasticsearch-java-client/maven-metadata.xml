@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-elasticsearch-java-client</artifactId>
   <versioning>
-    <latest>3.13.1</latest>
-    <release>3.13.1</release>
+    <latest>3.13.2</latest>
+    <release>3.13.2</release>
     <versions>
       <version>3.0.0.Alpha4</version>
       <version>3.0.0.Alpha5</version>
@@ -100,7 +100,8 @@
       <version>3.13.0.CR1</version>
       <version>3.13.0</version>
       <version>3.13.1</version>
+      <version>3.13.2</version>
     </versions>
-    <lastUpdated>20240807121325</lastUpdated>
+    <lastUpdated>20240809102744</lastUpdated>
   </versioning>
 </metadata>
