@@ -3,8 +3,8 @@
   <groupId>org.apache.spark</groupId>
   <artifactId>spark-hadoop-cloud_2.12</artifactId>
   <versioning>
-    <latest>3.5.1</latest>
-    <release>3.5.1</release>
+    <latest>3.5.2</latest>
+    <release>3.5.2</release>
     <versions>
       <version>3.2.0</version>
       <version>3.2.1</version>
@@ -22,7 +22,8 @@
       <version>3.4.3</version>
       <version>3.5.0</version>
       <version>3.5.1</version>
+      <version>3.5.2</version>
     </versions>
-    <lastUpdated>20240418081657</lastUpdated>
+    <lastUpdated>20240810134331</lastUpdated>
   </versioning>
 </metadata>
