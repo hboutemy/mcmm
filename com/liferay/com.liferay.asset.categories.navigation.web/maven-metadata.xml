@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.asset.categories.navigation.web</artifactId>
   <versioning>
-    <latest>6.0.36</latest>
-    <release>6.0.36</release>
+    <latest>6.0.37</latest>
+    <release>6.0.37</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -236,7 +236,8 @@
       <version>6.0.34</version>
       <version>6.0.35</version>
       <version>6.0.36</version>
+      <version>6.0.37</version>
     </versions>
-    <lastUpdated>20240716100103</lastUpdated>
+    <lastUpdated>20240812001825</lastUpdated>
   </versioning>
 </metadata>
