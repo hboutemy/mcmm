@@ -3,8 +3,8 @@
   <groupId>com.microsoft.signalr</groupId>
   <artifactId>signalr</artifactId>
   <versioning>
-    <latest>9.0.0-preview.6.24328.4</latest>
-    <release>9.0.0-preview.6.24328.4</release>
+    <latest>9.0.0-preview.7.24406.2</latest>
+    <release>9.0.0-preview.7.24406.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-preview3-35501</version>
@@ -125,6 +125,7 @@
       <version>6.0.30</version>
       <version>6.0.31</version>
       <version>6.0.32</version>
+      <version>6.0.33</version>
       <version>7.0.0-rc.1.22427.2</version>
       <version>7.0.0-rc.2.22476.2</version>
       <version>7.0.0</version>
@@ -171,13 +172,15 @@
       <version>8.0.5</version>
       <version>8.0.6</version>
       <version>8.0.7</version>
+      <version>8.0.8</version>
       <version>9.0.0-preview.1.24081.5</version>
       <version>9.0.0-preview.2.24128.4</version>
       <version>9.0.0-preview.3.24172.13</version>
       <version>9.0.0-preview.4.24267.6</version>
       <version>9.0.0-preview.5.24306.11</version>
       <version>9.0.0-preview.6.24328.4</version>
+      <version>9.0.0-preview.7.24406.2</version>
     </versions>
-    <lastUpdated>20240709123631</lastUpdated>
+    <lastUpdated>20240813125656</lastUpdated>
   </versioning>
 </metadata>
