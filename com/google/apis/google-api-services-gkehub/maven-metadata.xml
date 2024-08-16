@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-gkehub</artifactId>
   <versioning>
-    <latest>v2alpha-rev20230804-2.0.0</latest>
-    <release>v2alpha-rev20230804-2.0.0</release>
+    <latest>v2beta-rev20240809-2.0.0</latest>
+    <release>v2beta-rev20240809-2.0.0</release>
     <versions>
       <version>v1alpha2-rev20210305-1.31.0</version>
       <version>v1alpha2-rev20210315-1.31.0</version>
@@ -235,6 +235,7 @@
       <version>v1beta-rev20240511-2.0.0</version>
       <version>v1beta-rev20240706-2.0.0</version>
       <version>v1beta-rev20240727-2.0.0</version>
+      <version>v1beta-rev20240809-2.0.0</version>
       <version>v1-rev20210305-1.31.0</version>
       <version>v1-rev20210315-1.31.0</version>
       <version>v1-rev20210322-1.31.0</version>
@@ -311,6 +312,7 @@
       <version>v1-rev20240623-2.0.0</version>
       <version>v1-rev20240706-2.0.0</version>
       <version>v1-rev20240727-2.0.0</version>
+      <version>v1-rev20240809-2.0.0</version>
       <version>v2alpha-rev20220204-1.32.1</version>
       <version>v2alpha-rev20220303-1.32.1</version>
       <version>v2alpha-rev20220318-1.32.1</version>
@@ -319,7 +321,8 @@
       <version>v2alpha-rev20230310-2.0.0</version>
       <version>v2alpha-rev20230424-2.0.0</version>
       <version>v2alpha-rev20230804-2.0.0</version>
+      <version>v2beta-rev20240809-2.0.0</version>
     </versions>
-    <lastUpdated>20240807082738</lastUpdated>
+    <lastUpdated>20240815081457</lastUpdated>
   </versioning>
 </metadata>

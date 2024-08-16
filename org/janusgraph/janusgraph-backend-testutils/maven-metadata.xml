@@ -3,8 +3,8 @@
   <groupId>org.janusgraph</groupId>
   <artifactId>janusgraph-backend-testutils</artifactId>
   <versioning>
-    <latest>1.1.0-20240814-130106.bf4227f</latest>
-    <release>1.1.0-20240814-130106.bf4227f</release>
+    <latest>1.1.0-20240815-063824.8233c8b</latest>
+    <release>1.1.0-20240815-063824.8233c8b</release>
     <versions>
       <version>0.5.0</version>
       <version>0.5.1</version>
@@ -521,6 +521,8 @@
       <version>1.0.1-20240806-071344.ae7b25e</version>
       <version>1.0.1-20240806-071648.ba2d662</version>
       <version>1.0.1-20240810-233513.dea1c2c</version>
+      <version>1.0.1-20240815-145505.7882861</version>
+      <version>1.0.1-20240815-150153.8231588</version>
       <version>1.1.0-20231025-183335.6232a7c</version>
       <version>1.1.0-20231027-015303.09d49b2</version>
       <version>1.1.0-20231103-151124.2dc3a12</version>
@@ -692,7 +694,8 @@
       <version>1.1.0-20240810-194200.5918830</version>
       <version>1.1.0-20240814-125421.af00639</version>
       <version>1.1.0-20240814-130106.bf4227f</version>
+      <version>1.1.0-20240815-063824.8233c8b</version>
     </versions>
-    <lastUpdated>20240814131909</lastUpdated>
+    <lastUpdated>20240815151855</lastUpdated>
   </versioning>
 </metadata>

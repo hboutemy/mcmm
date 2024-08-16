@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-package-filesystem-storage</artifactId>
   <versioning>
-    <latest>3.3.1.1</latest>
-    <release>3.3.1.1</release>
+    <latest>4.0.0-SNAPSHOT.ursa</latest>
+    <release>4.0.0-SNAPSHOT.ursa</release>
     <versions>
       <version>master-rc-daily</version>
       <version>2.10.0.0-rc-1</version>
@@ -181,6 +181,7 @@
       <version>2.10.4.8</version>
       <version>2.10.5.1</version>
       <version>2.10.5.2-5ce22c</version>
+      <version>2.10.5.3-a41ecf</version>
       <version>2.10.5.3</version>
       <version>2.10.5.4</version>
       <version>2.10.5.4-681bb8</version>
@@ -343,7 +344,9 @@
       <version>3.3.0.7</version>
       <version>3.3.0.9</version>
       <version>3.3.1.1</version>
+      <version>3.4.0-SNAPSHOT.ursa0815</version>
+      <version>4.0.0-SNAPSHOT.ursa</version>
     </versions>
-    <lastUpdated>20240814021605</lastUpdated>
+    <lastUpdated>20240815101851</lastUpdated>
   </versioning>
 </metadata>

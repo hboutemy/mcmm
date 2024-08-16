@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-client-tools-api</artifactId>
   <versioning>
-    <latest>3.3.1.1</latest>
-    <release>3.3.1.1</release>
+    <latest>4.0.0-SNAPSHOT.ursa</latest>
+    <release>4.0.0-SNAPSHOT.ursa</release>
     <versions>
       <version>master-rc-daily</version>
       <version>2.11.0.0-rc2</version>
@@ -120,7 +120,9 @@
       <version>3.3.0.7</version>
       <version>3.3.0.9</version>
       <version>3.3.1.1</version>
+      <version>3.4.0-SNAPSHOT.ursa0815</version>
+      <version>4.0.0-SNAPSHOT.ursa</version>
     </versions>
-    <lastUpdated>20240814021457</lastUpdated>
+    <lastUpdated>20240815101738</lastUpdated>
   </versioning>
 </metadata>

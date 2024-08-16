@@ -3,8 +3,8 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-client-reactive-producer-cache-caffeine-shaded</artifactId>
   <versioning>
-    <latest>0.5.6</latest>
-    <release>0.5.6</release>
+    <latest>0.5.7</latest>
+    <release>0.5.7</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
@@ -15,7 +15,8 @@
       <version>0.5.4</version>
       <version>0.5.5</version>
       <version>0.5.6</version>
+      <version>0.5.7</version>
     </versions>
-    <lastUpdated>20240616200029</lastUpdated>
+    <lastUpdated>20240815201336</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.artemis</groupId>
   <artifactId>quarkus-artemis-jms-ra-deployment</artifactId>
   <versioning>
-    <latest>3.4.1</latest>
-    <release>3.4.1</release>
+    <latest>3.5.0.CR1</latest>
+    <release>3.5.0.CR1</release>
     <versions>
       <version>3.0.4</version>
       <version>3.0.5</version>
@@ -24,7 +24,8 @@
       <version>3.3.0</version>
       <version>3.4.0</version>
       <version>3.4.1</version>
+      <version>3.5.0.CR1</version>
     </versions>
-    <lastUpdated>20240802152225</lastUpdated>
+    <lastUpdated>20240815154806</lastUpdated>
   </versioning>
 </metadata>

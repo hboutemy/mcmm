@@ -3,8 +3,8 @@
   <groupId>io.streamnative.tests</groupId>
   <artifactId>java-test-plugins</artifactId>
   <versioning>
-    <latest>3.3.1.1</latest>
-    <release>3.3.1.1</release>
+    <latest>4.0.0-SNAPSHOT.ursa</latest>
+    <release>4.0.0-SNAPSHOT.ursa</release>
     <versions>
       <version>master-rc-daily</version>
       <version>3.0.0.1-rc1</version>
@@ -84,7 +84,9 @@
       <version>3.3.0.7</version>
       <version>3.3.0.9</version>
       <version>3.3.1.1</version>
+      <version>3.4.0-SNAPSHOT.ursa0815</version>
+      <version>4.0.0-SNAPSHOT.ursa</version>
     </versions>
-    <lastUpdated>20240814021627</lastUpdated>
+    <lastUpdated>20240815101903</lastUpdated>
   </versioning>
 </metadata>
