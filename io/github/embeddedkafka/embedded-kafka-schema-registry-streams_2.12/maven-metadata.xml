@@ -3,8 +3,8 @@
   <groupId>io.github.embeddedkafka</groupId>
   <artifactId>embedded-kafka-schema-registry-streams_2.12</artifactId>
   <versioning>
-    <latest>7.6.2</latest>
-    <release>7.6.2</release>
+    <latest>7.7.0</latest>
+    <release>7.7.0</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.0.1</version>
@@ -40,7 +40,8 @@
       <version>7.6.1</version>
       <version>7.6.1.1</version>
       <version>7.6.2</version>
+      <version>7.7.0</version>
     </versions>
-    <lastUpdated>20240816112915</lastUpdated>
+    <lastUpdated>20240818080629</lastUpdated>
   </versioning>
 </metadata>
