@@ -3,8 +3,8 @@
   <groupId>com.ritense.valtimo</groupId>
   <artifactId>keycloak-iam</artifactId>
   <versioning>
-    <latest>12.1.1.RELEASE</latest>
-    <release>12.1.1.RELEASE</release>
+    <latest>12.2.0.RELEASE</latest>
+    <release>12.2.0.RELEASE</release>
     <versions>
       <version>9.0.0.RELEASE</version>
       <version>9.1.0.RELEASE</version>
@@ -73,7 +73,9 @@
       <version>12.0.1.RELEASE</version>
       <version>12.1.0.RELEASE</version>
       <version>12.1.1.RELEASE</version>
+      <version>12.1.2.RELEASE</version>
+      <version>12.2.0.RELEASE</version>
     </versions>
-    <lastUpdated>20240813095514</lastUpdated>
+    <lastUpdated>20240819193032</lastUpdated>
   </versioning>
 </metadata>

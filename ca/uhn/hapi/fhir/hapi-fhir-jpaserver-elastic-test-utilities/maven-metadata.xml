@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-jpaserver-elastic-test-utilities</artifactId>
   <versioning>
-    <latest>7.2.2</latest>
-    <release>7.2.2</release>
+    <latest>7.4.0</latest>
+    <release>7.4.0</release>
     <versions>
       <version>6.2.0</version>
       <version>6.2.1</version>
@@ -42,7 +42,8 @@
       <version>7.2.0</version>
       <version>7.2.1</version>
       <version>7.2.2</version>
+      <version>7.4.0</version>
     </versions>
-    <lastUpdated>20240724223708</lastUpdated>
+    <lastUpdated>20240819223510</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.owasp</groupId>
   <artifactId>csrfguard-extensions</artifactId>
   <versioning>
-    <latest>4.3.0-jakarta</latest>
-    <release>4.3.0-jakarta</release>
+    <latest>4.4.0-jakarta</latest>
+    <release>4.4.0-jakarta</release>
     <versions>
       <version>4.0.0</version>
       <version>4.1.1</version>
@@ -15,7 +15,9 @@
       <version>4.2.1</version>
       <version>4.3.0</version>
       <version>4.3.0-jakarta</version>
+      <version>4.4.0</version>
+      <version>4.4.0-jakarta</version>
     </versions>
-    <lastUpdated>20230602234910</lastUpdated>
+    <lastUpdated>20240819183551</lastUpdated>
   </versioning>
 </metadata>

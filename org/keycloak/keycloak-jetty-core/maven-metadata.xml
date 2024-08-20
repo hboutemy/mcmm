@@ -4,7 +4,7 @@
   <artifactId>keycloak-jetty-core</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>24.0.5</release>
+    <release>25.0.3</release>
     <versions>
       <version>1.1.0.Beta2</version>
       <version>1.1.0.Final</version>
@@ -158,8 +158,9 @@
       <version>24.0.3</version>
       <version>24.0.4</version>
       <version>24.0.5</version>
+      <version>25.0.3</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20240604052513</lastUpdated>
+    <lastUpdated>20240819074851</lastUpdated>
   </versioning>
 </metadata>

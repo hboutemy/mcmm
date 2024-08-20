@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-spring-boot-sample-server-jersey</artifactId>
   <versioning>
-    <latest>7.2.2</latest>
-    <release>7.2.2</release>
+    <latest>7.4.0</latest>
+    <release>7.4.0</release>
     <versions>
       <version>5.6.5</version>
       <version>5.7.7</version>
@@ -53,7 +53,8 @@
       <version>7.2.0</version>
       <version>7.2.1</version>
       <version>7.2.2</version>
+      <version>7.4.0</version>
     </versions>
-    <lastUpdated>20240724223821</lastUpdated>
+    <lastUpdated>20240819223530</lastUpdated>
   </versioning>
 </metadata>
