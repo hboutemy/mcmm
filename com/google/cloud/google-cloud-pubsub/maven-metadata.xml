@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-pubsub</artifactId>
   <versioning>
-    <latest>1.132.0</latest>
-    <release>1.132.0</release>
+    <latest>1.132.1</latest>
+    <release>1.132.1</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
@@ -300,10 +300,11 @@
       <version>1.130.1</version>
       <version>1.131.0</version>
       <version>1.132.0</version>
+      <version>1.132.1</version>
       <version>1.111.0-sp.1</version>
       <version>1.111.1</version>
       <version>1.111.2</version>
     </versions>
-    <lastUpdated>20240801204229</lastUpdated>
+    <lastUpdated>20240820202252</lastUpdated>
   </versioning>
 </metadata>

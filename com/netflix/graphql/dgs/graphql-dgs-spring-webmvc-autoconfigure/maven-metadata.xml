@@ -3,8 +3,8 @@
   <groupId>com.netflix.graphql.dgs</groupId>
   <artifactId>graphql-dgs-spring-webmvc-autoconfigure</artifactId>
   <versioning>
-    <latest>9.0.4</latest>
-    <release>9.0.4</release>
+    <latest>9.1.0</latest>
+    <release>9.1.0</release>
     <versions>
       <version>3.0.11</version>
       <version>3.1.0</version>
@@ -150,7 +150,8 @@
       <version>9.0.2</version>
       <version>9.0.3</version>
       <version>9.0.4</version>
+      <version>9.1.0</version>
     </versions>
-    <lastUpdated>20240711165951</lastUpdated>
+    <lastUpdated>20240820002013</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.kalix</groupId>
   <artifactId>kalix-maven-archetype-event-sourced-entity</artifactId>
   <versioning>
-    <latest>1.5.1-8-8f9a86fa</latest>
-    <release>1.5.1-8-8f9a86fa</release>
+    <latest>1.5.2</latest>
+    <release>1.5.2</release>
     <versions>
       <version>0.11.0-M1</version>
       <version>0.11.0-M2</version>
@@ -100,7 +100,10 @@
       <version>1.5.1-6-1a08578f</version>
       <version>1.5.1-7-cd3e4331</version>
       <version>1.5.1-8-8f9a86fa</version>
+      <version>1.5.1-9-66e2f213</version>
+      <version>1.5.1-10-fb99adda</version>
+      <version>1.5.2</version>
     </versions>
-    <lastUpdated>20240819133902</lastUpdated>
+    <lastUpdated>20240820105036</lastUpdated>
   </versioning>
 </metadata>

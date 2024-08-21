@@ -3,8 +3,8 @@
   <groupId>io.github.dawdler-series</groupId>
   <artifactId>dawdler-boot-web-dependencies</artifactId>
   <versioning>
-    <latest>1.0.7-jdk1.8-RELEASES</latest>
-    <release>1.0.7-jdk1.8-RELEASES</release>
+    <latest>1.0.8-jdk21-RELEASES</latest>
+    <release>1.0.8-jdk21-RELEASES</release>
     <versions>
       <version>1.0.2-jdk17-RELEASES</version>
       <version>1.0.2-jdk1.8-RELEASES</version>
@@ -13,6 +13,9 @@
       <version>1.0.6-jdk21-RELEASES</version>
       <version>1.0.6-jdk17-RELEASES</version>
       <version>1.0.7-jdk1.8-RELEASES</version>
+      <version>1.0.8-jdk17-RELEASES</version>
+      <version>1.0.8-jdk1.8-RELEASES</version>
+      <version>1.0.8-jdk21-RELEASES</version>
       <version>1.0.2-jdk21-RELEASES</version>
       <version>1.0.7-jdk17-RELEASES</version>
       <version>1.0.7-jdk21-RELEASES</version>
@@ -23,6 +26,6 @@
       <version>21.2-jdk21-RELEASES</version>
       <version>21.4-jdk21-RELEASES</version>
     </versions>
-    <lastUpdated>20240731093712</lastUpdated>
+    <lastUpdated>20240820023732</lastUpdated>
   </versioning>
 </metadata>

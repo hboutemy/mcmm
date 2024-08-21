@@ -3,16 +3,18 @@
   <groupId>org.jboss.resteasy</groupId>
   <artifactId>jetty-integration-tests</artifactId>
   <versioning>
-    <latest>7.0.0.Alpha2</latest>
-    <release>7.0.0.Alpha2</release>
+    <latest>7.0.0.Alpha3</latest>
+    <release>7.0.0.Alpha3</release>
     <versions>
       <version>6.2.6.Final</version>
       <version>6.2.7.Final</version>
       <version>6.2.8.Final</version>
       <version>6.2.9.Final</version>
+      <version>6.2.10.Final</version>
       <version>7.0.0.Alpha1</version>
       <version>7.0.0.Alpha2</version>
+      <version>7.0.0.Alpha3</version>
     </versions>
-    <lastUpdated>20240521154847</lastUpdated>
+    <lastUpdated>20240819200105</lastUpdated>
   </versioning>
 </metadata>
