@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-messaging-kafka-parent</artifactId>
   <versioning>
-    <latest>3.14.0.CR1</latest>
-    <release>3.14.0.CR1</release>
+    <latest>3.14.0</latest>
+    <release>3.14.0</release>
     <versions>
       <version>3.9.0.CR1</version>
       <version>3.9.0.CR2</version>
@@ -34,7 +34,8 @@
       <version>3.13.2</version>
       <version>3.13.3</version>
       <version>3.14.0.CR1</version>
+      <version>3.14.0</version>
     </versions>
-    <lastUpdated>20240820094415</lastUpdated>
+    <lastUpdated>20240821102622</lastUpdated>
   </versioning>
 </metadata>

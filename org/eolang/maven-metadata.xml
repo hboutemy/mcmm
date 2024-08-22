@@ -7,6 +7,11 @@
       <artifactId>eo-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>jeo</name>
+      <prefix>hone</prefix>
+      <artifactId>hone-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>ineo</name>
       <prefix>ineo</prefix>
       <artifactId>ineo-maven-plugin</artifactId>

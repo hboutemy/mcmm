@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-vertx-http-dev-ui-spi</artifactId>
   <versioning>
-    <latest>3.14.0.CR1</latest>
-    <release>3.14.0.CR1</release>
+    <latest>3.14.0</latest>
+    <release>3.14.0</release>
     <versions>
       <version>3.0.0.Alpha5</version>
       <version>3.0.0.Alpha6</version>
@@ -102,7 +102,8 @@
       <version>3.13.2</version>
       <version>3.13.3</version>
       <version>3.14.0.CR1</version>
+      <version>3.14.0</version>
     </versions>
-    <lastUpdated>20240820094719</lastUpdated>
+    <lastUpdated>20240821102933</lastUpdated>
   </versioning>
 </metadata>

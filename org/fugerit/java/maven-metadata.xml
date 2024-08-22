@@ -7,6 +7,11 @@
       <artifactId>fj-daogen-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>fj-doc-maven-plugin</name>
+      <prefix>fj-doc</prefix>
+      <artifactId>fj-doc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Freemarker Maven Plugin</name>
       <prefix>freemarker</prefix>
       <artifactId>freemarker-maven-plugin</artifactId>

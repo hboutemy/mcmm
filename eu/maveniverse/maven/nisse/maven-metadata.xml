@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>3</prefix>
+      <artifactId>plugin3</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
