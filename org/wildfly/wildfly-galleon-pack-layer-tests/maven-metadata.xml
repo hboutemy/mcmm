@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-galleon-pack-layer-tests</artifactId>
   <versioning>
-    <latest>33.0.0.Final</latest>
-    <release>33.0.0.Final</release>
+    <latest>33.0.1.Final</latest>
+    <release>33.0.1.Final</release>
     <versions>
       <version>30.0.0.Beta1</version>
       <version>30.0.0.Final</version>
@@ -16,7 +16,8 @@
       <version>32.0.1.Final</version>
       <version>33.0.0.Beta1</version>
       <version>33.0.0.Final</version>
+      <version>33.0.1.Final</version>
     </versions>
-    <lastUpdated>20240722201117</lastUpdated>
+    <lastUpdated>20240822154832</lastUpdated>
   </versioning>
 </metadata>

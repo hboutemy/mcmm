@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-nats-jetstream</artifactId>
   <versioning>
-    <latest>3.0.0.Alpha2</latest>
-    <release>3.0.0.Alpha2</release>
+    <latest>3.0.0.Beta1</latest>
+    <release>3.0.0.Beta1</release>
     <versions>
       <version>2.1.0.Alpha2</version>
       <version>2.1.0.Beta1</version>
@@ -62,7 +62,8 @@
       <version>2.7.1.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Alpha2</version>
+      <version>3.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20240808160753</lastUpdated>
+    <lastUpdated>20240822082828</lastUpdated>
   </versioning>
 </metadata>

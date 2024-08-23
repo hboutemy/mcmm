@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-web-container</artifactId>
   <versioning>
-    <latest>33.0.0.Final</latest>
-    <release>33.0.0.Final</release>
+    <latest>33.0.1.Final</latest>
+    <release>33.0.1.Final</release>
     <versions>
       <version>17.0.0.Alpha1</version>
       <version>17.0.0.Beta1</version>
@@ -72,7 +72,8 @@
       <version>32.0.1.Final</version>
       <version>33.0.0.Beta1</version>
       <version>33.0.0.Final</version>
+      <version>33.0.1.Final</version>
     </versions>
-    <lastUpdated>20240722201050</lastUpdated>
+    <lastUpdated>20240822154809</lastUpdated>
   </versioning>
 </metadata>
