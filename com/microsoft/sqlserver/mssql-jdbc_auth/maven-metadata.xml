@@ -3,8 +3,8 @@
   <groupId>com.microsoft.sqlserver</groupId>
   <artifactId>mssql-jdbc_auth</artifactId>
   <versioning>
-    <latest>12.8.0.x86</latest>
-    <release>12.8.0.x86</release>
+    <latest>12.8.1.x86</latest>
+    <release>12.8.1.x86</release>
     <versions>
       <version>8.1.1.x64-preview</version>
       <version>8.1.1.x86-preview</version>
@@ -92,7 +92,9 @@
       <version>12.7.1.x86-preview</version>
       <version>12.8.0.x64</version>
       <version>12.8.0.x86</version>
+      <version>12.8.1.x64</version>
+      <version>12.8.1.x86</version>
     </versions>
-    <lastUpdated>20240731184436</lastUpdated>
+    <lastUpdated>20240822235912</lastUpdated>
   </versioning>
 </metadata>

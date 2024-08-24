@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven: ${project.artifactId}</name>
+      <prefix>avro-kotlin</prefix>
+      <artifactId>avro-kotlin-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

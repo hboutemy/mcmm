@@ -3,8 +3,8 @@
   <groupId>org.sonatype.buildsupport</groupId>
   <artifactId>public-parent</artifactId>
   <versioning>
-    <latest>47</latest>
-    <release>47</release>
+    <latest>49</latest>
+    <release>49</release>
     <versions>
       <version>1</version>
       <version>3</version>
@@ -51,7 +51,9 @@
       <version>45</version>
       <version>46</version>
       <version>47</version>
+      <version>48</version>
+      <version>49</version>
     </versions>
-    <lastUpdated>20240509232151</lastUpdated>
+    <lastUpdated>20240823031758</lastUpdated>
   </versioning>
 </metadata>
