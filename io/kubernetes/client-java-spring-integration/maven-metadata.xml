@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>client-java-spring-integration</artifactId>
   <versioning>
-    <latest>21.0.1</latest>
-    <release>21.0.1</release>
+    <latest>21.0.1-legacy</latest>
+    <release>21.0.1-legacy</release>
     <versions>
       <version>8.0.2</version>
       <version>9.0.0</version>
@@ -48,7 +48,8 @@
       <version>21.0.0</version>
       <version>21.0.0-legacy</version>
       <version>21.0.1</version>
+      <version>21.0.1-legacy</version>
     </versions>
-    <lastUpdated>20240730155156</lastUpdated>
+    <lastUpdated>20240824184441</lastUpdated>
   </versioning>
 </metadata>
