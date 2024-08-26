@@ -3,8 +3,8 @@
   <groupId>io.atleon</groupId>
   <artifactId>atleon-schema-registry-confluent</artifactId>
   <versioning>
-    <latest>0.28.1</latest>
-    <release>0.28.1</release>
+    <latest>0.28.2</latest>
+    <release>0.28.2</release>
     <versions>
       <version>0.17.0</version>
       <version>0.17.1</version>
@@ -38,7 +38,8 @@
       <version>0.27.3</version>
       <version>0.28.0</version>
       <version>0.28.1</version>
+      <version>0.28.2</version>
     </versions>
-    <lastUpdated>20240807182635</lastUpdated>
+    <lastUpdated>20240825234414</lastUpdated>
   </versioning>
 </metadata>

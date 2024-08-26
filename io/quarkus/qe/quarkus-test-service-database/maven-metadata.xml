@@ -3,8 +3,8 @@
   <groupId>io.quarkus.qe</groupId>
   <artifactId>quarkus-test-service-database</artifactId>
   <versioning>
-    <latest>1.5.0.Beta13</latest>
-    <release>1.5.0.Beta13</release>
+    <latest>1.5.0.Beta14</latest>
+    <release>1.5.0.Beta14</release>
     <versions>
       <version>0.0.9</version>
       <version>0.0.10</version>
@@ -119,7 +119,8 @@
       <version>1.5.0.Beta11</version>
       <version>1.5.0.Beta12</version>
       <version>1.5.0.Beta13</version>
+      <version>1.5.0.Beta14</version>
     </versions>
-    <lastUpdated>20240815121443</lastUpdated>
+    <lastUpdated>20240825210002</lastUpdated>
   </versioning>
 </metadata>
