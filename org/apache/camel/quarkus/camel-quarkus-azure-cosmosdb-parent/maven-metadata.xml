@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-azure-cosmosdb-parent</artifactId>
   <versioning>
-    <latest>3.13.0</latest>
-    <release>3.13.0</release>
+    <latest>3.14.0</latest>
+    <release>3.14.0</release>
     <versions>
       <version>2.0.0-M1</version>
       <version>2.0.0-M2</version>
@@ -53,7 +53,8 @@
       <version>3.11.0</version>
       <version>3.12.0</version>
       <version>3.13.0</version>
+      <version>3.14.0</version>
     </versions>
-    <lastUpdated>20240729063027</lastUpdated>
+    <lastUpdated>20240826074436</lastUpdated>
   </versioning>
 </metadata>

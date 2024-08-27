@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-qdrant-deployment</artifactId>
   <versioning>
-    <latest>0.17.0</latest>
-    <release>0.17.0</release>
+    <latest>0.17.1</latest>
+    <release>0.17.1</release>
     <versions>
       <version>0.10.0</version>
       <version>0.10.1</version>
@@ -29,7 +29,8 @@
       <version>0.16.4</version>
       <version>0.17.0.CR1</version>
       <version>0.17.0</version>
+      <version>0.17.1</version>
     </versions>
-    <lastUpdated>20240801145624</lastUpdated>
+    <lastUpdated>20240826112546</lastUpdated>
   </versioning>
 </metadata>

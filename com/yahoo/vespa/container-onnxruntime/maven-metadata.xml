@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>container-onnxruntime</artifactId>
   <versioning>
-    <latest>8.398.4</latest>
-    <release>8.398.4</release>
+    <latest>8.399.59</latest>
+    <release>8.399.59</release>
     <versions>
       <version>8.98.34</version>
       <version>8.99.32</version>
@@ -241,7 +241,8 @@
       <version>8.396.18</version>
       <version>8.397.20</version>
       <version>8.398.4</version>
+      <version>8.399.59</version>
     </versions>
-    <lastUpdated>20240822145203</lastUpdated>
+    <lastUpdated>20240826120201</lastUpdated>
   </versioning>
 </metadata>
