@@ -3,8 +3,8 @@
   <groupId>com.microsoft.azure.kusto</groupId>
   <artifactId>kusto-data</artifactId>
   <versioning>
-    <latest>5.1.1</latest>
-    <release>5.1.1</release>
+    <latest>5.2.0</latest>
+    <release>5.2.0</release>
     <versions>
       <version>${revision}</version>
       <version>1.0.0-BETA-02</version>
@@ -60,7 +60,8 @@
       <version>5.0.5</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.2.0</version>
     </versions>
-    <lastUpdated>20240725132808</lastUpdated>
+    <lastUpdated>20240827093203</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jboss.resteasy.microprofile</groupId>
   <artifactId>microprofile-rest-client-tck</artifactId>
   <versioning>
-    <latest>3.0.0.Beta1</latest>
-    <release>3.0.0.Beta1</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -20,7 +20,8 @@
       <version>2.1.5.Final</version>
       <version>3.0.0.Alpha1</version>
       <version>3.0.0.Beta1</version>
+      <version>3.0.0.Final</version>
     </versions>
-    <lastUpdated>20240626170932</lastUpdated>
+    <lastUpdated>20240827162220</lastUpdated>
   </versioning>
 </metadata>
