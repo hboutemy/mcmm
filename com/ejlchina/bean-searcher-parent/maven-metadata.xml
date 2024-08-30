@@ -3,8 +3,8 @@
   <groupId>com.ejlchina</groupId>
   <artifactId>bean-searcher-parent</artifactId>
   <versioning>
-    <latest>3.8.2</latest>
-    <release>3.8.2</release>
+    <latest>3.8.2.relocation</latest>
+    <release>3.8.2.relocation</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -45,7 +45,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.8.2</version>
+      <version>3.8.2.relocation</version>
     </versions>
-    <lastUpdated>20220916085711</lastUpdated>
+    <lastUpdated>20240829095757</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Manifest Maven Plugin</name>
+      <prefix>manifest</prefix>
+      <artifactId>manifest-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Tinkar Maven Plugin</name>
+      <prefix>tinkar</prefix>
+      <artifactId>tinkar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Unzip Maven Plugin</name>
+      <prefix>unzip</prefix>
+      <artifactId>unzip-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
