@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>spring-cloud-gcp-starter-sql-mysql-r2dbc</artifactId>
   <versioning>
-    <latest>3.8.7</latest>
-    <release>3.8.7</release>
+    <latest>3.8.8</latest>
+    <release>3.8.8</release>
     <versions>
       <version>3.1.0</version>
       <version>3.2.0</version>
@@ -48,7 +48,8 @@
       <version>3.8.5</version>
       <version>3.8.6</version>
       <version>3.8.7</version>
+      <version>3.8.8</version>
     </versions>
-    <lastUpdated>20240815152710</lastUpdated>
+    <lastUpdated>20240829232917</lastUpdated>
   </versioning>
 </metadata>

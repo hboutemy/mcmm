@@ -3,8 +3,8 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-mapper-orm-coordination-outbox-polling</artifactId>
   <versioning>
-    <latest>7.2.0.Final</latest>
-    <release>7.2.0.Final</release>
+    <latest>7.2.1.Final</latest>
+    <release>7.2.1.Final</release>
     <versions>
       <version>6.1.0.Beta1</version>
       <version>6.1.0.Beta2</version>
@@ -37,11 +37,13 @@
       <version>7.1.0.CR1</version>
       <version>7.1.0.Final</version>
       <version>7.1.1.Final</version>
+      <version>7.1.2.Final</version>
       <version>7.2.0.Alpha1</version>
       <version>7.2.0.Alpha2</version>
       <version>7.2.0.CR1</version>
       <version>7.2.0.Final</version>
+      <version>7.2.1.Final</version>
     </versions>
-    <lastUpdated>20240809124708</lastUpdated>
+    <lastUpdated>20240830194845</lastUpdated>
   </versioning>
 </metadata>

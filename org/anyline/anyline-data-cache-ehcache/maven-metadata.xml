@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-cache-ehcache</artifactId>
   <versioning>
-    <latest>8.7.2-20240823</latest>
-    <release>8.7.2-20240823</release>
+    <latest>8.7.2-20240831</latest>
+    <release>8.7.2-20240831</release>
     <versions>
       <version>8.7.1-jdk17-20231203</version>
       <version>8.7.1-jdk17-20231209</version>
@@ -89,6 +89,7 @@
       <version>8.7.2-jdk11-20240820</version>
       <version>8.7.2-jdk11-20240826</version>
       <version>8.7.2-jdk11-20240827</version>
+      <version>8.7.2-jdk11-20240830</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
@@ -142,6 +143,7 @@
       <version>8.7.2-jdk17-20240815</version>
       <version>8.7.2-jdk17-20240819</version>
       <version>8.7.2-jdk17-20240827</version>
+      <version>8.7.2-jdk17-20240830</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -260,7 +262,9 @@
       <version>8.7.2-20240815</version>
       <version>8.7.2-20240819</version>
       <version>8.7.2-20240823</version>
+      <version>8.7.2-20240830</version>
+      <version>8.7.2-20240831</version>
     </versions>
-    <lastUpdated>20240827085654</lastUpdated>
+    <lastUpdated>20240830173835</lastUpdated>
   </versioning>
 </metadata>

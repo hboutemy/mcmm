@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-tidb</artifactId>
   <versioning>
-    <latest>8.7.2-20240825</latest>
-    <release>8.7.2-20240825</release>
+    <latest>8.7.2-20240831</latest>
+    <release>8.7.2-20240831</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -162,6 +162,7 @@
       <version>8.7.2-jdk11-20240819</version>
       <version>8.7.2-jdk11-20240826</version>
       <version>8.7.2-jdk11-20240827</version>
+      <version>8.7.2-jdk11-20240830</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
@@ -346,7 +347,9 @@
       <version>8.7.2-20240819</version>
       <version>8.7.2-20240823</version>
       <version>8.7.2-20240825</version>
+      <version>8.7.2-20240830</version>
+      <version>8.7.2-20240831</version>
     </versions>
-    <lastUpdated>20240827102214</lastUpdated>
+    <lastUpdated>20240830180723</lastUpdated>
   </versioning>
 </metadata>
