@@ -6,5 +6,10 @@
       <prefix>ironjacamar-validator</prefix>
       <artifactId>ironjacamar-validator-maven</artifactId>
     </plugin>
+    <plugin>
+      <name>IronJacamar: Validator Maven</name>
+      <prefix>verify</prefix>
+      <artifactId>ironjacamar-validator-maven</artifactId>
+    </plugin>
   </plugins>
 </metadata>
