@@ -3,8 +3,8 @@
   <groupId>org.danilopianini.gradle-java-qa</groupId>
   <artifactId>org.danilopianini.gradle-java-qa.gradle.plugin</artifactId>
   <versioning>
-    <latest>1.61.0</latest>
-    <release>1.61.0</release>
+    <latest>1.64.0</latest>
+    <release>1.64.0</release>
     <versions>
       <version>0.30.2</version>
       <version>0.31.0</version>
@@ -91,7 +91,10 @@
       <version>1.60.1</version>
       <version>1.60.2</version>
       <version>1.61.0</version>
+      <version>1.62.0</version>
+      <version>1.63.0</version>
+      <version>1.64.0</version>
     </versions>
-    <lastUpdated>20240809044850</lastUpdated>
+    <lastUpdated>20240901223328</lastUpdated>
   </versioning>
 </metadata>
