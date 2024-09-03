@@ -3,16 +3,10 @@
   <groupId>me.meeco</groupId>
   <artifactId>holder-wallet-api-kotlin-sdk</artifactId>
   <versioning>
-    <latest>5.9.0-develop.20240830003629.61f60ef</latest>
-    <release>5.9.0-develop.20240830003629.61f60ef</release>
+    <latest>5.9.0-develop.20240902011740.4ef3686</latest>
+    <release>5.9.0-develop.20240902011740.4ef3686</release>
     <versions>
-      <version>5.8.0-develop.20240816030246.64e36b6</version>
-      <version>5.8.0-stage.20240816162735.c64f1b2</version>
-      <version>5.8.0-develop.20240816070926.f37a512</version>
-      <version>5.8.0-stage.20240816102039.2b06a41</version>
-      <version>5.8.0</version>
-      <version>5.9.0-develop.20240826103833.5f92319</version>
-      <version>5.9.0-develop.20240830003629.61f60ef</version>
+      <version>5.9.0-develop.20240902011740.4ef3686</version>
       <version>0.0.1-beta</version>
       <version>0.0.1-beta.1</version>
       <version>4.0.0-develop.20240228165513.7f8bdd6</version>
@@ -142,12 +136,19 @@
       <version>5.7.2-develop.20240802143315.a6706ca</version>
       <version>5.7.2-develop.20240809040647.4f2c462</version>
       <version>5.7.2-develop.20240809041855.77201af</version>
+      <version>5.8.0</version>
       <version>5.8.0-develop.20240812160701.8606209</version>
       <version>5.8.0-develop.20240813080601.3a35b84</version>
       <version>5.8.0-develop.20240813153101.33a864e</version>
       <version>5.8.0-develop.20240813170222.fff5bf4</version>
+      <version>5.8.0-develop.20240816030246.64e36b6</version>
+      <version>5.8.0-develop.20240816070926.f37a512</version>
       <version>5.8.0-develop.20240816162701.01be34d</version>
+      <version>5.8.0-stage.20240816102039.2b06a41</version>
+      <version>5.8.0-stage.20240816162735.c64f1b2</version>
+      <version>5.9.0-develop.20240826103833.5f92319</version>
+      <version>5.9.0-develop.20240830003629.61f60ef</version>
     </versions>
-    <lastUpdated>20240830005106</lastUpdated>
+    <lastUpdated>20240902012726</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>odl-mdsal-rfc8294-netty</artifactId>
   <versioning>
-    <latest>14.0.1</latest>
-    <release>14.0.1</release>
+    <latest>14.0.2</latest>
+    <release>14.0.2</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
@@ -90,7 +90,8 @@
       <version>13.0.6</version>
       <version>14.0.0</version>
       <version>14.0.1</version>
+      <version>14.0.2</version>
     </versions>
-    <lastUpdated>20240830170541</lastUpdated>
+    <lastUpdated>20240902161506</lastUpdated>
   </versioning>
 </metadata>
