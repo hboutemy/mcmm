@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>transport-api</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
     <versions>
       <version>4.0.3</version>
       <version>4.0.4</version>
@@ -42,8 +42,10 @@
       <version>7.0.6</version>
       <version>7.0.7</version>
       <version>7.0.8</version>
+      <version>7.0.9</version>
       <version>8.0.0</version>
+      <version>8.0.1</version>
     </versions>
-    <lastUpdated>20240902090640</lastUpdated>
+    <lastUpdated>20240903174550</lastUpdated>
   </versioning>
 </metadata>

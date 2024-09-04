@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>vespa-osgi-testrunner</artifactId>
   <versioning>
-    <latest>8.402.27</latest>
-    <release>8.402.27</release>
+    <latest>8.403.12</latest>
+    <release>8.403.12</release>
     <versions>
       <version>7.241.12</version>
       <version>7.242.24</version>
@@ -570,7 +570,8 @@
       <version>8.400.15</version>
       <version>8.401.18</version>
       <version>8.402.27</version>
+      <version>8.403.12</version>
     </versions>
-    <lastUpdated>20240902120039</lastUpdated>
+    <lastUpdated>20240903114821</lastUpdated>
   </versioning>
 </metadata>

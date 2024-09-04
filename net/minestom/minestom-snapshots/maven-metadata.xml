@@ -7,6 +7,7 @@
     <release>7320437640</release>
     <versions>
       <version>a1e1dbd8fe</version>
+      <version>a3dec124aa</version>
       <version>a5e0641444</version>
       <version>a9f6d9f02b</version>
       <version>a31d239b51</version>
@@ -18,6 +19,8 @@
       <version>b0b31d4664</version>
       <version>b0e38f14b9</version>
       <version>b0f811d5ba</version>
+      <version>b1ad94cd1b</version>
+      <version>b1c34cc9d7</version>
       <version>b3aa996e1d</version>
       <version>b05bfd9689</version>
       <version>b5c35e0144</version>
@@ -47,6 +50,9 @@
       <version>better-swept-entity-collision-api-cff5a8af91</version>
       <version>biome-fix-b0980be620</version>
       <version>biome-fix-1af2f452dd</version>
+      <version>block-properties-1bbf5bc4d9</version>
+      <version>block-properties-24ea2c5e9c</version>
+      <version>block-properties-245ecc290a</version>
       <version>buffer-type-interface-2edd0cf1c0</version>
       <version>c5a145cf8b</version>
       <version>c7efa827a5</version>
@@ -171,6 +177,18 @@
       <version>lib-module-f28cb9104f</version>
       <version>lib-module-fa98503c8c</version>
       <version>lib-module-fe69d18da4</version>
+      <version>light-cleanup-b3d299c0dc</version>
+      <version>light-cleanup-01e8b1c524</version>
+      <version>light-cleanup-6ed2d7c6d7</version>
+      <version>light-cleanup-6f7634008e</version>
+      <version>light-cleanup-9a4917fc8a</version>
+      <version>light-cleanup-93eb5ece4e</version>
+      <version>light-cleanup-392ae65e18</version>
+      <version>light-cleanup-3922a066e0</version>
+      <version>light-cleanup-887456d678</version>
+      <version>light-cleanup-abb1666b01</version>
+      <version>light-cleanup-d84c3faea0</version>
+      <version>light-cleanup-da59b15943</version>
       <version>light-getter-b878dd553e</version>
       <version>light-getter-6b572e02e5</version>
       <version>light-getter-8aedc8d04e</version>
@@ -196,6 +214,8 @@
       <version>metadata-holder-651ff36c28</version>
       <version>metadata-holder-8303281a0c</version>
       <version>metadata-holder-ae076b3dee</version>
+      <version>namespace-record-69ed217db6</version>
+      <version>namespace-record-ba402f9d10</version>
       <version>next-b76a020598</version>
       <version>next-b818b97165</version>
       <version>next-0544d43c47</version>
@@ -223,6 +243,9 @@
       <version>recipe_manager_cleanup-642d8f4e09</version>
       <version>relative-batch-improvement-f23345041d</version>
       <version>remove_fakeplayer-918168684a</version>
+      <version>shape-optimization-1280ef2251</version>
+      <version>shape-optimization-4145181658</version>
+      <version>shape-optimization-e10a8e8e5c</version>
       <version>static-packet-id-b95a6eb5b4</version>
       <version>static-packet-id-3cf25a1514</version>
       <version>static-packet-id-5f8b659666</version>
@@ -291,6 +314,7 @@
       <version>2b661fd48f</version>
       <version>2be6f9c507</version>
       <version>2c73b4b8f0</version>
+      <version>2d92fa6657</version>
       <version>2f5bb97908</version>
       <version>2fd79d05ee</version>
       <version>2ff143a61d</version>
@@ -314,6 +338,7 @@
       <version>5caa7ce348</version>
       <version>5cb192157c</version>
       <version>5eb1eeaa22</version>
+      <version>5ec42c6ba9</version>
       <version>6b8a4e4cc9</version>
       <version>6b660a4e6a</version>
       <version>6c5cd6544e</version>
@@ -353,6 +378,7 @@
       <version>59ea880d26</version>
       <version>60a83fd39b</version>
       <version>60fc9ebd28</version>
+      <version>61f7b61fa9</version>
       <version>63f02929ed</version>
       <version>65f75bb059</version>
       <version>66dc936cd6</version>
@@ -417,6 +443,6 @@
       <version>0c9527118a</version>
       <version>0f81bc31ff</version>
     </versions>
-    <lastUpdated>20240828190401</lastUpdated>
+    <lastUpdated>20240903234933</lastUpdated>
   </versioning>
 </metadata>

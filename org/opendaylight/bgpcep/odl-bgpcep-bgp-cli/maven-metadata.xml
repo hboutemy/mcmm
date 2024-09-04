@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>odl-bgpcep-bgp-cli</artifactId>
   <versioning>
-    <latest>0.22.0</latest>
-    <release>0.22.0</release>
+    <latest>0.22.1</latest>
+    <release>0.22.1</release>
     <versions>
       <version>0.7.0-Carbon</version>
       <version>0.7.1-Carbon</version>
@@ -113,8 +113,10 @@
       <version>0.21.6</version>
       <version>0.21.7</version>
       <version>0.21.8</version>
+      <version>0.21.9</version>
       <version>0.22.0</version>
+      <version>0.22.1</version>
     </versions>
-    <lastUpdated>20240902131743</lastUpdated>
+    <lastUpdated>20240903202429</lastUpdated>
   </versioning>
 </metadata>
