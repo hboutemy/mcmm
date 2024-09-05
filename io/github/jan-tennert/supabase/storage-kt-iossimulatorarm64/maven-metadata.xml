@@ -3,8 +3,8 @@
   <groupId>io.github.jan-tennert.supabase</groupId>
   <artifactId>storage-kt-iossimulatorarm64</artifactId>
   <versioning>
-    <latest>2.6.0-wasm0</latest>
-    <release>2.6.0-wasm0</release>
+    <latest>2.6.1-dev</latest>
+    <release>2.6.1-dev</release>
     <versions>
       <version>0.8.4-ios-2</version>
       <version>0.8.5-ios</version>
@@ -154,7 +154,8 @@
       <version>2.6.0</version>
       <version>2.6.0-coil3</version>
       <version>2.6.0-wasm0</version>
+      <version>2.6.1-dev</version>
     </versions>
-    <lastUpdated>20240817122650</lastUpdated>
+    <lastUpdated>20240904194623</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.idp.v1</artifactId>
   <versioning>
-    <latest>1.2.224</latest>
-    <release>1.2.224</release>
+    <latest>1.2.226</latest>
+    <release>1.2.226</release>
     <versions>
       <version>1.0.52</version>
       <version>1.0.53</version>
@@ -315,7 +315,9 @@
       <version>1.2.206</version>
       <version>1.2.223</version>
       <version>1.2.224</version>
+      <version>1.2.225</version>
+      <version>1.2.226</version>
     </versions>
-    <lastUpdated>20240903083821</lastUpdated>
+    <lastUpdated>20240904190233</lastUpdated>
   </versioning>
 </metadata>

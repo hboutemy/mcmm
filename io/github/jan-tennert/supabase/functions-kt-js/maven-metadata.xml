@@ -3,8 +3,8 @@
   <groupId>io.github.jan-tennert.supabase</groupId>
   <artifactId>functions-kt-js</artifactId>
   <versioning>
-    <latest>2.6.0-wasm0</latest>
-    <release>2.6.0-wasm0</release>
+    <latest>2.6.1-dev</latest>
+    <release>2.6.1-dev</release>
     <versions>
       <version>0.5.0-beta-1</version>
       <version>0.5.0-beta-2</version>
@@ -212,7 +212,8 @@
       <version>2.6.0</version>
       <version>2.6.0-coil3</version>
       <version>2.6.0-wasm0</version>
+      <version>2.6.1-dev</version>
     </versions>
-    <lastUpdated>20240817122451</lastUpdated>
+    <lastUpdated>20240904194431</lastUpdated>
   </versioning>
 </metadata>

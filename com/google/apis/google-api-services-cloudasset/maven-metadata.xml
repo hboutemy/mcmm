@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudasset</artifactId>
   <versioning>
-    <latest>v1-rev20240823-2.0.0</latest>
-    <release>v1-rev20240823-2.0.0</release>
+    <latest>v1-rev20240831-2.0.0</latest>
+    <release>v1-rev20240831-2.0.0</release>
     <versions>
       <version>v1beta1-rev1-1.18.0-rc</version>
       <version>v1beta1-rev1-1.22.0</version>
@@ -594,7 +594,8 @@
       <version>v1-rev20240803-2.0.0</version>
       <version>v1-rev20240816-2.0.0</version>
       <version>v1-rev20240823-2.0.0</version>
+      <version>v1-rev20240831-2.0.0</version>
     </versions>
-    <lastUpdated>20240828080526</lastUpdated>
+    <lastUpdated>20240904075704</lastUpdated>
   </versioning>
 </metadata>

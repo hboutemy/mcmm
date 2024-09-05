@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-platform-bom-maven-plugin</artifactId>
   <versioning>
-    <latest>0.0.109</latest>
-    <release>0.0.109</release>
+    <latest>0.0.111</latest>
+    <release>0.0.111</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -111,11 +111,13 @@
       <version>0.0.107</version>
       <version>0.0.108</version>
       <version>0.0.109</version>
+      <version>0.0.110</version>
+      <version>0.0.111</version>
       <version>0.0.10</version>
       <version>0.0.7</version>
       <version>0.0.8</version>
       <version>0.0.9</version>
     </versions>
-    <lastUpdated>20240903163357</lastUpdated>
+    <lastUpdated>20240904202054</lastUpdated>
   </versioning>
 </metadata>

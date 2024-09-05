@@ -3,8 +3,8 @@
   <groupId>io.gravitee.cockpit</groupId>
   <artifactId>gravitee-cockpit-api</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.4</latest>
+    <release>3.1.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -98,7 +98,9 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
+      <version>3.1.4</version>
     </versions>
-    <lastUpdated>20240830073058</lastUpdated>
+    <lastUpdated>20240904133722</lastUpdated>
   </versioning>
 </metadata>
