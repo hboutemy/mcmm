@@ -3,8 +3,8 @@
   <groupId>org.kill-bill.billing</groupId>
   <artifactId>killbill-platform-lifecycle</artifactId>
   <versioning>
-    <latest>0.41.10</latest>
-    <release>0.41.10</release>
+    <latest>0.41.11</latest>
+    <release>0.41.11</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -146,7 +146,8 @@
       <version>0.41.7</version>
       <version>0.41.9</version>
       <version>0.41.10</version>
+      <version>0.41.11</version>
     </versions>
-    <lastUpdated>20240412222457</lastUpdated>
+    <lastUpdated>20240905052514</lastUpdated>
   </versioning>
 </metadata>
