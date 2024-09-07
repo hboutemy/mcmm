@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-client</artifactId>
   <versioning>
-    <latest>0.1144.0-rc4</latest>
-    <release>0.1144.0-rc4</release>
+    <latest>0.1144.0</latest>
+    <release>0.1144.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -1005,7 +1005,10 @@
       <version>0.1143.0</version>
       <version>0.1144.0-rc3</version>
       <version>0.1144.0-rc4</version>
+      <version>0.1144.0-rc5</version>
+      <version>0.1144.0-rc6</version>
+      <version>0.1144.0</version>
     </versions>
-    <lastUpdated>20240905205223</lastUpdated>
+    <lastUpdated>20240906141644</lastUpdated>
   </versioning>
 </metadata>
