@@ -3,13 +3,15 @@
   <groupId>org.dromara.dynamictp</groupId>
   <artifactId>dynamic-tp-example-adapter-apache-dubbo-3.2.10</artifactId>
   <versioning>
-    <latest>1.1.8-beta</latest>
-    <release>1.1.8-beta</release>
+    <latest>1.1.8-3.x</latest>
+    <release>1.1.8-3.x</release>
     <versions>
       <version>1.1.7</version>
       <version>1.1.7-3.x</version>
       <version>1.1.8-beta</version>
+      <version>1.1.8</version>
+      <version>1.1.8-3.x</version>
     </versions>
-    <lastUpdated>20240602154828</lastUpdated>
+    <lastUpdated>20240907134055</lastUpdated>
   </versioning>
 </metadata>
