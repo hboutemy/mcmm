@@ -3,8 +3,8 @@
   <groupId>com.facebook.presto</groupId>
   <artifactId>presto-iceberg</artifactId>
   <versioning>
-    <latest>0.288.1</latest>
-    <release>0.288.1</release>
+    <latest>0.289</latest>
+    <release>0.289</release>
     <versions>
       <version>0.254</version>
       <version>0.254.1</version>
@@ -59,7 +59,8 @@
       <version>0.287</version>
       <version>0.288</version>
       <version>0.288.1</version>
+      <version>0.289</version>
     </versions>
-    <lastUpdated>20240809230823</lastUpdated>
+    <lastUpdated>20240909205342</lastUpdated>
   </versioning>
 </metadata>

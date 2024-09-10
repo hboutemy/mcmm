@@ -3,8 +3,8 @@
   <groupId>com.tencent.qqmini</groupId>
   <artifactId>extra_ad</artifactId>
   <versioning>
-    <latest>1.71.5.3</latest>
-    <release>1.71.5.3</release>
+    <latest>1.71.5.3_support_ITC</latest>
+    <release>1.71.5.3_support_ITC</release>
     <versions>
       <version>0.0.0.999</version>
       <version>1.56.0</version>
@@ -97,7 +97,9 @@
       <version>1.71.5.1_mp</version>
       <version>1.71.5.2_mp</version>
       <version>1.71.5.3</version>
+      <version>1.71.5.3_automotive</version>
+      <version>1.71.5.3_support_ITC</version>
     </versions>
-    <lastUpdated>20240903045151</lastUpdated>
+    <lastUpdated>20240909122751</lastUpdated>
   </versioning>
 </metadata>

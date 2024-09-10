@@ -3,8 +3,8 @@
   <groupId>org.open-metadata</groupId>
   <artifactId>openmetadata-shaded-deps</artifactId>
   <versioning>
-    <latest>1.5.2</latest>
-    <release>1.5.2</release>
+    <latest>1.5.3</latest>
+    <release>1.5.3</release>
     <versions>
       <version>1.2.0-beta1</version>
       <version>1.2.0-beta2</version>
@@ -45,7 +45,8 @@
       <version>1.5.0</version>
       <version>1.5.1</version>
       <version>1.5.2</version>
+      <version>1.5.3</version>
     </versions>
-    <lastUpdated>20240902103215</lastUpdated>
+    <lastUpdated>20240909145033</lastUpdated>
   </versioning>
 </metadata>

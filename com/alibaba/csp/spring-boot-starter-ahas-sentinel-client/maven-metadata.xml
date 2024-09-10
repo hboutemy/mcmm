@@ -3,8 +3,8 @@
   <groupId>com.alibaba.csp</groupId>
   <artifactId>spring-boot-starter-ahas-sentinel-client</artifactId>
   <versioning>
-    <latest>1.11.7</latest>
-    <release>1.11.7</release>
+    <latest>1.11.7-safe</latest>
+    <release>1.11.7-safe</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-paas</version>
@@ -91,7 +91,8 @@
       <version>1.11.5</version>
       <version>1.11.6</version>
       <version>1.11.7</version>
+      <version>1.11.7-safe</version>
     </versions>
-    <lastUpdated>20230602075928</lastUpdated>
+    <lastUpdated>20240909075600</lastUpdated>
   </versioning>
 </metadata>
