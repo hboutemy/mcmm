@@ -3,8 +3,8 @@
   <groupId>org.wildfly.extras.graphql</groupId>
   <artifactId>wildfly-microprofile-graphql-parent</artifactId>
   <versioning>
-    <latest>2.4.2.Final</latest>
-    <release>2.4.2.Final</release>
+    <latest>2.5.1.Final</latest>
+    <release>2.5.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Beta1</version>
@@ -27,7 +27,9 @@
       <version>2.4.0.Final</version>
       <version>2.4.1.Final</version>
       <version>2.4.2.Final</version>
+      <version>2.5.0.Final</version>
+      <version>2.5.1.Final</version>
     </versions>
-    <lastUpdated>20240909112442</lastUpdated>
+    <lastUpdated>20240910082907</lastUpdated>
   </versioning>
 </metadata>

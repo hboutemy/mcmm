@@ -3,8 +3,8 @@
   <groupId>io.github.valdemargr</groupId>
   <artifactId>gql-client-codegen-sbt_2.12_1.0</artifactId>
   <versioning>
-    <latest>0.3.6</latest>
-    <release>0.3.6</release>
+    <latest>0.4.1</latest>
+    <release>0.4.1</release>
     <versions>
       <version>0.2.8-53-954db74</version>
       <version>0.2.8-57-ad50319</version>
@@ -126,6 +126,10 @@
       <version>0.3.5-32-7fc9c04</version>
       <version>0.3.5-34-2566465</version>
       <version>0.3.6</version>
+      <version>0.3.6-31-5d99e2d</version>
+      <version>0.4.0</version>
+      <version>0.4.0-2-a5aeb50</version>
+      <version>0.4.1</version>
       <version>0.1-28b5c64</version>
       <version>0.1-305cbf3</version>
       <version>0.1-5287e33</version>
@@ -201,6 +205,6 @@
       <version>0.2.8-8-afa1bbe</version>
       <version>0.2.8-9-234bc2a</version>
     </versions>
-    <lastUpdated>20240705131329</lastUpdated>
+    <lastUpdated>20240910044705</lastUpdated>
   </versioning>
 </metadata>

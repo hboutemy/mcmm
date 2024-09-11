@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-check-api</artifactId>
   <versioning>
-    <latest>2024.7.0</latest>
-    <release>2024.7.0</release>
+    <latest>2024.7.1</latest>
+    <release>2024.7.1</release>
     <versions>
       <version>5.9.0-rc1</version>
       <version>5.9.0-rc3</version>
@@ -721,6 +721,7 @@
       <version>9.7.16</version>
       <version>9.7.17</version>
       <version>9.7.18</version>
+      <version>9.7.19</version>
       <version>9.8.0-rc1</version>
       <version>9.8.0-rc2</version>
       <version>9.8.0-rc3</version>
@@ -737,6 +738,7 @@
       <version>9.8.10</version>
       <version>9.8.11</version>
       <version>9.8.12</version>
+      <version>9.8.13</version>
       <version>9.9.0-rc1</version>
       <version>9.9.0-rc2</version>
       <version>9.9.0-rc3</version>
@@ -747,12 +749,14 @@
       <version>9.9.4</version>
       <version>9.9.5</version>
       <version>9.9.6</version>
+      <version>9.9.7</version>
       <version>2024.7.0-rc1</version>
       <version>2024.7.0-rc2</version>
       <version>2024.7.0-rc3</version>
       <version>2024.7.0</version>
+      <version>2024.7.1</version>
       <version>9.4.0</version>
     </versions>
-    <lastUpdated>20240903152210</lastUpdated>
+    <lastUpdated>20240910181114</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.acryl</groupId>
   <artifactId>datahub-protobuf</artifactId>
   <versioning>
-    <latest>0.14.0-5rc3</latest>
-    <release>0.14.0-5rc3</release>
+    <latest>0.14.0-5</latest>
+    <release>0.14.0-5</release>
     <versions>
       <version>0.8.44-2rc1</version>
       <version>0.8.44-2rc2</version>
@@ -392,7 +392,11 @@
       <version>0.14.0-5rc1</version>
       <version>0.14.0-5rc2</version>
       <version>0.14.0-5rc3</version>
+      <version>0.14.0-5rc4</version>
+      <version>0.14.0-5rc5</version>
+      <version>0.14.0-5rc6</version>
+      <version>0.14.0-5</version>
     </versions>
-    <lastUpdated>20240909104607</lastUpdated>
+    <lastUpdated>20240910195703</lastUpdated>
   </versioning>
 </metadata>

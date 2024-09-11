@@ -2,6 +2,10 @@
 <metadata>
   <plugins>
     <plugin>
+      <prefix>jasperreports</prefix>
+      <artifactId>jasperreports-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jasperreports-plugin</name>
       <prefix>jasperreports</prefix>
       <artifactId>jasperreports-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.cloud</groupId>
   <artifactId>wildfly-preview-cloud-galleon-pack</artifactId>
   <versioning>
-    <latest>7.0.1.Final</latest>
-    <release>7.0.1.Final</release>
+    <latest>7.0.2.Final</latest>
+    <release>7.0.2.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -45,7 +45,8 @@
       <version>7.0.0.Beta2</version>
       <version>7.0.0.Final</version>
       <version>7.0.1.Final</version>
+      <version>7.0.2.Final</version>
     </versions>
-    <lastUpdated>20240626124931</lastUpdated>
+    <lastUpdated>20240910092546</lastUpdated>
   </versioning>
 </metadata>

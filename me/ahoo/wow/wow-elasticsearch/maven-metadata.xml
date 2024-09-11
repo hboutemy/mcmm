@@ -3,8 +3,8 @@
   <groupId>me.ahoo.wow</groupId>
   <artifactId>wow-elasticsearch</artifactId>
   <versioning>
-    <latest>3.12.6</latest>
-    <release>3.12.6</release>
+    <latest>3.12.9</latest>
+    <release>3.12.9</release>
     <versions>
       <version>0.5.0</version>
       <version>1.8.15</version>
@@ -264,7 +264,9 @@
       <version>3.12.3</version>
       <version>3.12.5</version>
       <version>3.12.6</version>
+      <version>3.12.8</version>
+      <version>3.12.9</version>
     </versions>
-    <lastUpdated>20240906082650</lastUpdated>
+    <lastUpdated>20240910151024</lastUpdated>
   </versioning>
 </metadata>

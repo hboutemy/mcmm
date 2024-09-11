@@ -3,8 +3,8 @@
   <groupId>org.graalvm.buildtools.native</groupId>
   <artifactId>org.graalvm.buildtools.native.gradle.plugin</artifactId>
   <versioning>
-    <latest>0.10.2</latest>
-    <release>0.10.2</release>
+    <latest>0.10.3</latest>
+    <release>0.10.3</release>
     <versions>
       <version>0.9.0</version>
       <version>0.9.1</version>
@@ -39,7 +39,8 @@
       <version>0.10.0</version>
       <version>0.10.1</version>
       <version>0.10.2</version>
+      <version>0.10.3</version>
     </versions>
-    <lastUpdated>20240517125434</lastUpdated>
+    <lastUpdated>20240910105137</lastUpdated>
   </versioning>
 </metadata>
