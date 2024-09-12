@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-dialect-time-series</artifactId>
   <versioning>
-    <latest>8.7.2-20240909</latest>
-    <release>8.7.2-20240909</release>
+    <latest>8.7.2-20240911</latest>
+    <release>8.7.2-20240911</release>
     <versions>
       <version>8.7.1-jdk17-20231203</version>
       <version>8.7.1-jdk17-20231209</version>
@@ -156,6 +156,7 @@
       <version>8.7.2-jdk17-20240827</version>
       <version>8.7.2-jdk17-20240830</version>
       <version>8.7.2-jdk17-20240902</version>
+      <version>8.7.2-jdk17-20240911</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -216,6 +217,7 @@
       <version>8.7.2-jdk21-20240819</version>
       <version>8.7.2-jdk21-20240827</version>
       <version>8.7.2-jdk21-20240902</version>
+      <version>8.7.2-jdk21-20240911</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -288,7 +290,8 @@
       <version>8.7.2-20240901</version>
       <version>8.7.2-20240905</version>
       <version>8.7.2-20240909</version>
+      <version>8.7.2-20240911</version>
     </versions>
-    <lastUpdated>20240910003245</lastUpdated>
+    <lastUpdated>20240911045650</lastUpdated>
   </versioning>
 </metadata>

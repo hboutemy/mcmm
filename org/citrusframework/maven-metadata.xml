@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Citrus :: Tools :: Remote :: Maven Plugin</name>
+      <prefix>citrus-remote</prefix>
+      <artifactId>citrus-remote-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

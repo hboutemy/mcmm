@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-container-image</artifactId>
   <versioning>
-    <latest>3.14.2</latest>
-    <release>3.14.2</release>
+    <latest>3.15.0.CR1</latest>
+    <release>3.15.0.CR1</release>
     <versions>
       <version>1.8.2.Final</version>
       <version>1.8.3.Final</version>
@@ -257,7 +257,9 @@
       <version>3.14.0</version>
       <version>3.14.1</version>
       <version>3.14.2</version>
+      <version>3.14.3</version>
+      <version>3.15.0.CR1</version>
     </versions>
-    <lastUpdated>20240904093331</lastUpdated>
+    <lastUpdated>20240911102525</lastUpdated>
   </versioning>
 </metadata>

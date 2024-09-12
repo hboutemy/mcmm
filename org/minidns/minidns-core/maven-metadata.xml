@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.minidns</groupId>
   <artifactId>minidns-core</artifactId>
   <versioning>
@@ -15,7 +15,6 @@
       <version>0.4.0-alpha1</version>
       <version>0.4.0-alpha2</version>
       <version>0.4.0-alpha3</version>
-      <version>0.4.0-alpha4</version>
       <version>0.4.0-alpha5</version>
       <version>0.4.0-alpha6</version>
       <version>1.0.0</version>
@@ -25,7 +24,8 @@
       <version>1.0.4</version>
       <version>1.0.5</version>
       <version>1.1.0-alpha2</version>
+      <version>0.4.0-alpha4</version>
     </versions>
-    <lastUpdated>20240401193908</lastUpdated>
+    <lastUpdated>20240911001548</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.minio</groupId>
   <artifactId>quarkus-minio-native-deployment</artifactId>
   <versioning>
-    <latest>3.7.5</latest>
-    <release>3.7.5</release>
+    <latest>3.7.6</latest>
+    <release>3.7.6</release>
     <versions>
       <version>2.10.3</version>
       <version>3.0.0.Alpha3</version>
@@ -16,7 +16,8 @@
       <version>3.7.2</version>
       <version>3.7.3</version>
       <version>3.7.5</version>
+      <version>3.7.6</version>
     </versions>
-    <lastUpdated>20240626090304</lastUpdated>
+    <lastUpdated>20240911065040</lastUpdated>
   </versioning>
 </metadata>
