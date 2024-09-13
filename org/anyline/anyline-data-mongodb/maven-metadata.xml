@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-mongodb</artifactId>
   <versioning>
-    <latest>8.7.2-20240911</latest>
-    <release>8.7.2-20240911</release>
+    <latest>8.7.2-20240912</latest>
+    <release>8.7.2-20240912</release>
     <versions>
       <version>8.6.1-20221001</version>
       <version>8.6.1-20221002</version>
@@ -301,6 +301,7 @@
       <version>8.7.2-jdk17-20240830</version>
       <version>8.7.2-jdk17-20240902</version>
       <version>8.7.2-jdk17-20240911</version>
+      <version>8.7.2-jdk17-20240912</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -362,6 +363,7 @@
       <version>8.7.2-jdk21-20240827</version>
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
+      <version>8.7.2-jdk21-20240912</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -430,7 +432,8 @@
       <version>8.7.2-20240905</version>
       <version>8.7.2-20240909</version>
       <version>8.7.2-20240911</version>
+      <version>8.7.2-20240912</version>
     </versions>
-    <lastUpdated>20240911045659</lastUpdated>
+    <lastUpdated>20240912055445</lastUpdated>
   </versioning>
 </metadata>
