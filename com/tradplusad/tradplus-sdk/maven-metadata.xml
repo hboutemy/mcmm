@@ -3,8 +3,8 @@
   <groupId>com.tradplusad</groupId>
   <artifactId>tradplus-sdk</artifactId>
   <versioning>
-    <latest>12.4.10.1</latest>
-    <release>12.4.10.1</release>
+    <latest>12.5.0.1</latest>
+    <release>12.5.0.1</release>
     <versions>
       <version>5.2.9</version>
       <version>5.6.3</version>
@@ -356,6 +356,8 @@
       <version>12.4.0.1</version>
       <version>12.4.10</version>
       <version>12.4.10.1</version>
+      <version>12.5.0</version>
+      <version>12.5.0.1</version>
       <version>6.2.3.01</version>
       <version>6.2.4.01</version>
       <version>6.4.05</version>
@@ -380,6 +382,6 @@
       <version>6.9.0.1.1.0101</version>
       <version>7.9.0.01</version>
     </versions>
-    <lastUpdated>20240830091434</lastUpdated>
+    <lastUpdated>20240913104530</lastUpdated>
   </versioning>
 </metadata>

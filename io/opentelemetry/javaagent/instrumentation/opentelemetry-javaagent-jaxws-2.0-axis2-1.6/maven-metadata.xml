@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jaxws-2.0-axis2-1.6</artifactId>
   <versioning>
-    <latest>2.7.0-alpha</latest>
-    <release>2.7.0-alpha</release>
+    <latest>2.8.0-alpha</latest>
+    <release>2.8.0-alpha</release>
     <versions>
       <version>1.0.0-alpha</version>
       <version>1.0.1-alpha</version>
@@ -77,7 +77,8 @@
       <version>2.5.0-alpha</version>
       <version>2.6.0-alpha</version>
       <version>2.7.0-alpha</version>
+      <version>2.8.0-alpha</version>
     </versions>
-    <lastUpdated>20240822134405</lastUpdated>
+    <lastUpdated>20240913212842</lastUpdated>
   </versioning>
 </metadata>
