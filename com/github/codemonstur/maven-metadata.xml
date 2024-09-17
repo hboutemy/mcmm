@@ -23,6 +23,11 @@
     </plugin>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>check-license</prefix>
+      <artifactId>maven-check-license</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>slate4j</prefix>
       <artifactId>slate4j</artifactId>
     </plugin>

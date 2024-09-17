@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-uxdb</artifactId>
   <versioning>
-    <latest>8.7.2-20240912</latest>
-    <release>8.7.2-20240912</release>
+    <latest>8.7.2-20240916</latest>
+    <release>8.7.2-20240916</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -282,6 +282,7 @@
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
       <version>8.7.2-jdk21-20240912</version>
+      <version>8.7.2-jdk21-20240916</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -358,7 +359,8 @@
       <version>8.7.2-20240909</version>
       <version>8.7.2-20240911</version>
       <version>8.7.2-20240912</version>
+      <version>8.7.2-20240916</version>
     </versions>
-    <lastUpdated>20240912082534</lastUpdated>
+    <lastUpdated>20240916145819</lastUpdated>
   </versioning>
 </metadata>

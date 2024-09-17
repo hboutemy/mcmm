@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-archetype-application</artifactId>
   <versioning>
-    <latest>24.4.11</latest>
-    <release>24.4.11</release>
+    <latest>24.4.12</latest>
+    <release>24.4.12</release>
     <versions>
       <version>7.0.0.beta1</version>
       <version>7.0.0.beta2</version>
@@ -386,6 +386,7 @@
       <version>14.11.12</version>
       <version>14.11.13</version>
       <version>14.12.0</version>
+      <version>14.12.1</version>
       <version>16.0.0</version>
       <version>19.0.0</version>
       <version>19.0.1</version>
@@ -546,6 +547,7 @@
       <version>23.5.0</version>
       <version>23.5.1</version>
       <version>23.5.4</version>
+      <version>23.5.5</version>
       <version>24.0.0</version>
       <version>24.0.1</version>
       <version>24.0.2</version>
@@ -621,7 +623,8 @@
       <version>24.4.8</version>
       <version>24.4.9</version>
       <version>24.4.11</version>
+      <version>24.4.12</version>
     </versions>
-    <lastUpdated>20240910123006</lastUpdated>
+    <lastUpdated>20240916110354</lastUpdated>
   </versioning>
 </metadata>

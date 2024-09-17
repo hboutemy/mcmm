@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-environment-spring-data</artifactId>
   <versioning>
-    <latest>8.7.2-20240912</latest>
-    <release>8.7.2-20240912</release>
+    <latest>8.7.2-20240916</latest>
+    <release>8.7.2-20240916</release>
     <versions>
       <version>8.7.2-jdk11-20240816</version>
       <version>8.7.2-jdk11-20240819</version>
@@ -25,6 +25,7 @@
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
       <version>8.7.2-jdk21-20240912</version>
+      <version>8.7.2-jdk21-20240916</version>
       <version>8.7.2-20240815</version>
       <version>8.7.2-20240819</version>
       <version>8.7.2-20240823</version>
@@ -36,7 +37,8 @@
       <version>8.7.2-20240909</version>
       <version>8.7.2-20240911</version>
       <version>8.7.2-20240912</version>
+      <version>8.7.2-20240916</version>
     </versions>
-    <lastUpdated>20240912081542</lastUpdated>
+    <lastUpdated>20240916132333</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.wildfly.bom</groupId>
   <artifactId>wildfly-client</artifactId>
   <versioning>
-    <latest>33.0.1.Final</latest>
-    <release>33.0.1.Final</release>
+    <latest>33.0.2.Final</latest>
+    <release>33.0.2.Final</release>
     <versions>
       <version>14.0.0.Beta2</version>
       <version>14.0.0.Final</version>
@@ -77,7 +77,8 @@
       <version>33.0.0.Beta1</version>
       <version>33.0.0.Final</version>
       <version>33.0.1.Final</version>
+      <version>33.0.2.Final</version>
     </versions>
-    <lastUpdated>20240822154758</lastUpdated>
+    <lastUpdated>20240916175401</lastUpdated>
   </versioning>
 </metadata>

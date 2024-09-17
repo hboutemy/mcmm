@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-cache</artifactId>
   <versioning>
-    <latest>8.7.2-20240912</latest>
-    <release>8.7.2-20240912</release>
+    <latest>8.7.2-20240916</latest>
+    <release>8.7.2-20240916</release>
     <versions>
       <version>8.7.1-jdk17-20231203</version>
       <version>8.7.1-jdk17-20231209</version>
@@ -206,6 +206,7 @@
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
       <version>8.7.2-jdk21-20240912</version>
+      <version>8.7.2-jdk21-20240916</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -277,7 +278,8 @@
       <version>8.7.2-20240909</version>
       <version>8.7.2-20240911</version>
       <version>8.7.2-20240912</version>
+      <version>8.7.2-20240916</version>
     </versions>
-    <lastUpdated>20240912080415</lastUpdated>
+    <lastUpdated>20240916130926</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>it.vige</groupId>
   <artifactId>alfresco-tests</artifactId>
   <versioning>
-    <latest>23.2.1.8</latest>
-    <release>23.2.1.8</release>
+    <latest>23.2.1.9</latest>
+    <release>23.2.1.9</release>
     <versions>
       <version>4.2.c.0</version>
       <version>4.2.c.1</version>
@@ -21,6 +21,7 @@
       <version>4.2.c.12</version>
       <version>4.2.c.13</version>
       <version>4.2.c.15</version>
+      <version>4.2.c.16</version>
       <version>4.2.6.6.0</version>
       <version>4.2.6.6.1</version>
       <version>4.2.6.6.2</version>
@@ -57,6 +58,7 @@
       <version>4.2.6.6.35</version>
       <version>4.2.6.6.36</version>
       <version>4.2.6.6.38</version>
+      <version>4.2.6.6.39</version>
       <version>4.2.8.0</version>
       <version>4.2.8.1</version>
       <version>4.2.8.2</version>
@@ -73,6 +75,7 @@
       <version>4.2.8.15</version>
       <version>4.2.8.16</version>
       <version>4.2.8.18</version>
+      <version>4.2.8.19</version>
       <version>5.0.d.0</version>
       <version>5.0.d.1</version>
       <version>5.0.d.2</version>
@@ -106,6 +109,7 @@
       <version>5.0.d.32</version>
       <version>5.0.d.33</version>
       <version>5.0.d.35</version>
+      <version>5.0.d.36</version>
       <version>5.1.g.0</version>
       <version>5.1.g.1</version>
       <version>5.1.g.2</version>
@@ -139,6 +143,7 @@
       <version>5.1.g.32</version>
       <version>5.1.g.33</version>
       <version>5.1.g.35</version>
+      <version>5.1.g.36</version>
       <version>5.2.f.0</version>
       <version>5.2.f.1</version>
       <version>5.2.f.2</version>
@@ -173,12 +178,14 @@
       <version>5.2.f.33</version>
       <version>5.2.f.34</version>
       <version>5.2.f.36</version>
+      <version>5.2.f.37</version>
       <version>5.2.g.0</version>
       <version>5.2.g.1</version>
       <version>5.2.g.2</version>
       <version>5.2.g.3</version>
       <version>5.2.g.4</version>
       <version>5.2.g.6</version>
+      <version>5.2.g.7</version>
       <version>5.2.7.0</version>
       <version>5.2.7.1</version>
       <version>5.2.7.2</version>
@@ -212,6 +219,7 @@
       <version>5.2.7.32</version>
       <version>5.2.7.33</version>
       <version>5.2.7.35</version>
+      <version>5.2.7.36</version>
       <version>6.0.0-ea.0</version>
       <version>6.0.0-ea.1</version>
       <version>6.0.0-ea.2</version>
@@ -249,6 +257,7 @@
       <version>6.0.0-ea.36</version>
       <version>6.0.0-ea.37</version>
       <version>6.0.0-ea.39</version>
+      <version>6.0.0-ea.40</version>
       <version>6.0.2-ea.0</version>
       <version>6.0.2-ea.1</version>
       <version>6.0.2-ea.2</version>
@@ -274,6 +283,7 @@
       <version>6.0.2-ea.24</version>
       <version>6.0.2-ea.25</version>
       <version>6.0.2-ea.27</version>
+      <version>6.0.2-ea.28</version>
       <version>6.1.0-ea.0</version>
       <version>6.1.0-ea.1</version>
       <version>6.1.0-ea.2</version>
@@ -312,6 +322,7 @@
       <version>6.1.0-ea.35</version>
       <version>6.1.0-ea.36</version>
       <version>6.1.0-ea.37</version>
+      <version>6.1.0-ea.38</version>
       <version>6.2.0-ea.0</version>
       <version>6.2.0-ea.1</version>
       <version>6.2.0-ea.2</version>
@@ -352,6 +363,7 @@
       <version>6.2.0-ea.37</version>
       <version>6.2.0-ea.38</version>
       <version>6.2.0-ea.39</version>
+      <version>6.2.0-ea.40</version>
       <version>6.2.2.0</version>
       <version>6.2.2.1</version>
       <version>6.2.2.2</version>
@@ -378,6 +390,7 @@
       <version>6.2.2.23</version>
       <version>6.2.2.24</version>
       <version>6.2.2.25</version>
+      <version>6.2.2.26</version>
       <version>7.0.0-A20.0</version>
       <version>7.0.0-A20.1</version>
       <version>7.0.0-A20.2</version>
@@ -411,6 +424,7 @@
       <version>7.0.0-A20.30</version>
       <version>7.0.0-A20.31</version>
       <version>7.0.0-A20.32</version>
+      <version>7.0.0-A20.33</version>
       <version>7.1.0.0</version>
       <version>7.1.0.1</version>
       <version>7.1.0.2</version>
@@ -440,6 +454,7 @@
       <version>7.1.0.26</version>
       <version>7.1.0.27</version>
       <version>7.1.0.28</version>
+      <version>7.1.0.29</version>
       <version>7.2.0.0</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
@@ -461,6 +476,7 @@
       <version>7.2.0.18</version>
       <version>7.2.0.19</version>
       <version>7.2.0.20</version>
+      <version>7.2.0.21</version>
       <version>7.2.1.0</version>
       <version>7.2.1.1</version>
       <version>7.2.1.2</version>
@@ -483,6 +499,7 @@
       <version>7.2.1.19</version>
       <version>7.2.1.20</version>
       <version>7.2.1.21</version>
+      <version>7.2.1.22</version>
       <version>7.3.0.0</version>
       <version>7.3.0.1</version>
       <version>7.3.0.2</version>
@@ -504,6 +521,7 @@
       <version>7.3.0.19</version>
       <version>7.3.0.20</version>
       <version>7.3.0.21</version>
+      <version>7.3.0.22</version>
       <version>7.4.0.0</version>
       <version>7.4.0.1</version>
       <version>7.4.0.1.1</version>
@@ -519,6 +537,7 @@
       <version>7.4.0.1.12</version>
       <version>7.4.0.1.13</version>
       <version>7.4.0.1.15</version>
+      <version>7.4.0.1.16</version>
       <version>7.4.0.2</version>
       <version>7.4.0.3</version>
       <version>7.4.0.4</version>
@@ -534,6 +553,7 @@
       <version>7.4.0.15</version>
       <version>7.4.0.16</version>
       <version>7.4.0.18</version>
+      <version>7.4.0.19</version>
       <version>7.4.1.1.0</version>
       <version>7.4.1.1.1</version>
       <version>7.4.1.1.2</version>
@@ -543,6 +563,7 @@
       <version>7.4.1.1.6</version>
       <version>7.4.1.1.7</version>
       <version>7.4.1.1.9</version>
+      <version>7.4.1.1.10</version>
       <version>7.4.1.3.0</version>
       <version>7.4.1.3.1</version>
       <version>7.4.1.3.2</version>
@@ -552,6 +573,7 @@
       <version>7.4.1.3.7</version>
       <version>7.4.1.3.8</version>
       <version>7.4.1.3.10</version>
+      <version>7.4.1.3.11</version>
       <version>23.1.0.0</version>
       <version>23.1.0.1</version>
       <version>23.1.0.2</version>
@@ -561,6 +583,7 @@
       <version>23.1.0.7</version>
       <version>23.1.0.8</version>
       <version>23.1.0.10</version>
+      <version>23.1.0.11</version>
       <version>23.2.1.0</version>
       <version>23.2.1.1</version>
       <version>23.2.1.2</version>
@@ -568,8 +591,9 @@
       <version>23.2.1.5</version>
       <version>23.2.1.6</version>
       <version>23.2.1.8</version>
+      <version>23.2.1.9</version>
       <version>7.4.0.1.0</version>
     </versions>
-    <lastUpdated>20240913065111</lastUpdated>
+    <lastUpdated>20240916195455</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.vaadin</groupId>
   <artifactId>vaadin-platform-javadoc</artifactId>
   <versioning>
-    <latest>24.4.11</latest>
-    <release>24.4.11</release>
+    <latest>24.4.12</latest>
+    <release>24.4.12</release>
     <versions>
       <version>12.0.0</version>
       <version>12.0.1</version>
@@ -171,6 +171,7 @@
       <version>14.11.12</version>
       <version>14.11.13</version>
       <version>14.12.0</version>
+      <version>14.12.1</version>
       <version>15.0.0</version>
       <version>15.0.1</version>
       <version>15.0.2</version>
@@ -365,6 +366,7 @@
       <version>23.5.2</version>
       <version>23.5.3</version>
       <version>23.5.4</version>
+      <version>23.5.5</version>
       <version>24.0.0</version>
       <version>24.0.1</version>
       <version>24.0.2</version>
@@ -441,7 +443,8 @@
       <version>24.4.9</version>
       <version>24.4.10</version>
       <version>24.4.11</version>
+      <version>24.4.12</version>
     </versions>
-    <lastUpdated>20240910121423</lastUpdated>
+    <lastUpdated>20240916095641</lastUpdated>
   </versioning>
 </metadata>

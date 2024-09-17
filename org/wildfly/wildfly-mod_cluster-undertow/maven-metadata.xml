@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-mod_cluster-undertow</artifactId>
   <versioning>
-    <latest>33.0.1.Final</latest>
-    <release>33.0.1.Final</release>
+    <latest>33.0.2.Final</latest>
+    <release>33.0.2.Final</release>
     <versions>
       <version>8.0.0.Alpha3</version>
       <version>8.0.0.Alpha4</version>
@@ -124,7 +124,8 @@
       <version>33.0.0.Beta1</version>
       <version>33.0.0.Final</version>
       <version>33.0.1.Final</version>
+      <version>33.0.2.Final</version>
     </versions>
-    <lastUpdated>20240822154839</lastUpdated>
+    <lastUpdated>20240916175442</lastUpdated>
   </versioning>
 </metadata>
