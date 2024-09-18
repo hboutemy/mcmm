@@ -3,14 +3,17 @@
   <groupId>com.github.hiwepy</groupId>
   <artifactId>spring-cloud-gateway-swagger2</artifactId>
   <versioning>
-    <latest>1.0.3.RELEASE</latest>
-    <release>1.0.3.RELEASE</release>
+    <latest>2023.0.x.20240823.RELEASE</latest>
+    <release>2023.0.x.20240823.RELEASE</release>
     <versions>
+      <version>Hoxton.x.20240823.RELEASE</version>
       <version>1.0.0.RELEASE</version>
       <version>1.0.1.RELEASE</version>
       <version>1.0.2.RELEASE</version>
       <version>1.0.3.RELEASE</version>
+      <version>2021.0.x.20240823.RELEASE</version>
+      <version>2023.0.x.20240823.RELEASE</version>
     </versions>
-    <lastUpdated>20210610072047</lastUpdated>
+    <lastUpdated>20240917154321</lastUpdated>
   </versioning>
 </metadata>

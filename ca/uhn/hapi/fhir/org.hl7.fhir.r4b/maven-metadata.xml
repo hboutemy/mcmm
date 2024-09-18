@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>org.hl7.fhir.r4b</artifactId>
   <versioning>
-    <latest>6.3.25</latest>
-    <release>6.3.25</release>
+    <latest>6.3.26</latest>
+    <release>6.3.26</release>
     <versions>
       <version>5.6.22</version>
       <version>5.6.23</version>
@@ -192,7 +192,8 @@
       <version>6.3.23</version>
       <version>6.3.24</version>
       <version>6.3.25</version>
+      <version>6.3.26</version>
     </versions>
-    <lastUpdated>20240911180045</lastUpdated>
+    <lastUpdated>20240917213141</lastUpdated>
   </versioning>
 </metadata>

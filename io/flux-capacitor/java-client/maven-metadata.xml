@@ -3,8 +3,8 @@
   <groupId>io.flux-capacitor</groupId>
   <artifactId>java-client</artifactId>
   <versioning>
-    <latest>0.1011.0</latest>
-    <release>0.1011.0</release>
+    <latest>0.1015.0</latest>
+    <release>0.1015.0</release>
     <versions>
       <version>add-index-to-aggregate</version>
       <version>add-previous-aggregate</version>
@@ -953,7 +953,11 @@
       <version>0.1009.0</version>
       <version>0.1010.0</version>
       <version>0.1011.0</version>
+      <version>0.1012.0</version>
+      <version>0.1013.0</version>
+      <version>0.1014.0</version>
+      <version>0.1015.0</version>
     </versions>
-    <lastUpdated>20240916220203</lastUpdated>
+    <lastUpdated>20240917141748</lastUpdated>
   </versioning>
 </metadata>
