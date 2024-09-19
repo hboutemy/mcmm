@@ -3,14 +3,16 @@
   <groupId>io.crossplane.compositefunctions</groupId>
   <artifactId>crossplane-parent</artifactId>
   <versioning>
-    <latest>1.15.0-delta</latest>
-    <release>1.15.0-delta</release>
+    <latest>1.15.0-echo</latest>
+    <release>1.15.0-echo</release>
     <versions>
       <version>=1.15.0-alpha</version>
       <version>1.15.0-beta</version>
       <version>1.15.0-charlie</version>
       <version>1.15.0-delta</version>
+      <version>v1.15.0-echo</version>
+      <version>1.15.0-echo</version>
     </versions>
-    <lastUpdated>20240903141220</lastUpdated>
+    <lastUpdated>20240918190905</lastUpdated>
   </versioning>
 </metadata>

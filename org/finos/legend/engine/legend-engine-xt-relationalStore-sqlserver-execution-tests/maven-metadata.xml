@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-sqlserver-execution-tests</artifactId>
   <versioning>
-    <latest>4.57.0</latest>
-    <release>4.57.0</release>
+    <latest>4.57.1</latest>
+    <release>4.57.1</release>
     <versions>
       <version>3.15.3</version>
       <version>3.16.0</version>
@@ -188,7 +188,8 @@
       <version>4.55.4</version>
       <version>4.56.0</version>
       <version>4.57.0</version>
+      <version>4.57.1</version>
     </versions>
-    <lastUpdated>20240913143940</lastUpdated>
+    <lastUpdated>20240918164702</lastUpdated>
   </versioning>
 </metadata>

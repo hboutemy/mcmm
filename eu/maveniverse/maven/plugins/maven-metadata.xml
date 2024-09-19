@@ -3,6 +3,11 @@
   <plugins>
     <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
+      <prefix>nisse3</prefix>
+      <artifactId>nisse-plugin3</artifactId>
+    </plugin>
+    <plugin>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>toolbox</prefix>
       <artifactId>toolbox</artifactId>
     </plugin>
