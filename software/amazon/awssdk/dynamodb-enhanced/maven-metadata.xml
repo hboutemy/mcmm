@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>dynamodb-enhanced</artifactId>
   <versioning>
-    <latest>2.28.4</latest>
-    <release>2.28.4</release>
+    <latest>2.28.5</latest>
+    <release>2.28.5</release>
     <versions>
       <version>2.7.29-PREVIEW</version>
       <version>2.7.30-PREVIEW</version>
@@ -1211,7 +1211,8 @@
       <version>2.28.2</version>
       <version>2.28.3</version>
       <version>2.28.4</version>
+      <version>2.28.5</version>
     </versions>
-    <lastUpdated>20240918203437</lastUpdated>
+    <lastUpdated>20240919202951</lastUpdated>
   </versioning>
 </metadata>

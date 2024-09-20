@@ -132,6 +132,11 @@
       <artifactId>tycho-repository-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho SBOM model extension</name>
+      <prefix>tycho-sbom</prefix>
+      <artifactId>tycho-sbom</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho OSGi Source Plugin</name>
       <prefix>tycho-source</prefix>
       <artifactId>tycho-source-plugin</artifactId>
