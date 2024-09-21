@@ -3,8 +3,8 @@
   <groupId>io.deltastream</groupId>
   <artifactId>flink-connector-snowflake</artifactId>
   <versioning>
-    <latest>1.0.11-1.18</latest>
-    <release>1.0.11-1.18</release>
+    <latest>1.0.12rc3-1.18-j11</latest>
+    <release>1.0.12rc3-1.18-j11</release>
     <versions>
       <version>1.0.7rc1-1.17</version>
       <version>1.0.7-1.17</version>
@@ -13,7 +13,9 @@
       <version>1.0.9-1.18</version>
       <version>1.0.10-1.18</version>
       <version>1.0.11-1.18</version>
+      <version>1.0.12rc3-1.18</version>
+      <version>1.0.12rc3-1.18-j11</version>
     </versions>
-    <lastUpdated>20240603212511</lastUpdated>
+    <lastUpdated>20240920213136</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.agorapulse</groupId>
   <artifactId>micronaut-aws-sdk-sqs-annotation-processor</artifactId>
   <versioning>
-    <latest>3.1.14</latest>
-    <release>3.1.14</release>
+    <latest>3.2.0</latest>
+    <release>3.2.0</release>
     <versions>
       <version>1.7.3-micronaut-1.0</version>
       <version>1.7.3-micronaut-2.0</version>
@@ -106,7 +106,8 @@
       <version>3.1.12</version>
       <version>3.1.13</version>
       <version>3.1.14</version>
+      <version>3.2.0</version>
     </versions>
-    <lastUpdated>20240730131557</lastUpdated>
+    <lastUpdated>20240920091637</lastUpdated>
   </versioning>
 </metadata>

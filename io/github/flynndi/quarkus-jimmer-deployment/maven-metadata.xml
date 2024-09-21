@@ -3,8 +3,8 @@
   <groupId>io.github.flynndi</groupId>
   <artifactId>quarkus-jimmer-deployment</artifactId>
   <versioning>
-    <latest>0.0.1.CR27</latest>
-    <release>0.0.1.CR27</release>
+    <latest>0.0.1.CR28</latest>
+    <release>0.0.1.CR28</release>
     <versions>
       <version>0.0.1.CR22</version>
       <version>0.0.1.CR23</version>
@@ -12,6 +12,7 @@
       <version>0.0.1.CR25</version>
       <version>0.0.1.CR26</version>
       <version>0.0.1.CR27</version>
+      <version>0.0.1.CR28</version>
       <version>0.0.1.CR1</version>
       <version>0.0.1.CR10</version>
       <version>0.0.1.CR11</version>
@@ -38,6 +39,6 @@
       <version>Beta</version>
       <version>preview</version>
     </versions>
-    <lastUpdated>20240910003141</lastUpdated>
+    <lastUpdated>20240920082559</lastUpdated>
   </versioning>
 </metadata>

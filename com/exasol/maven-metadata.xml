@@ -21,5 +21,10 @@
       <prefix>project-keeper</prefix>
       <artifactId>project-keeper-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Quality Summarizer Maven Plugin</name>
+      <prefix>quality-summarizer</prefix>
+      <artifactId>quality-summarizer-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
