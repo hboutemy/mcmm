@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-citus</artifactId>
   <versioning>
-    <latest>8.7.2-20240916</latest>
-    <release>8.7.2-20240916</release>
+    <latest>8.7.2-20240923</latest>
+    <release>8.7.2-20240923</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -366,7 +366,9 @@
       <version>8.7.2-20240911</version>
       <version>8.7.2-20240912</version>
       <version>8.7.2-20240916</version>
+      <version>8.7.2-20240922</version>
+      <version>8.7.2-20240923</version>
     </versions>
-    <lastUpdated>20240920034447</lastUpdated>
+    <lastUpdated>20240923074845</lastUpdated>
   </versioning>
 </metadata>
