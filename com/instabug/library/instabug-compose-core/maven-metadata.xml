@@ -3,8 +3,8 @@
   <groupId>com.instabug.library</groupId>
   <artifactId>instabug-compose-core</artifactId>
   <versioning>
-    <latest>13.4.1</latest>
-    <release>13.4.1</release>
+    <latest>13.4.1-no-diagnostics</latest>
+    <release>13.4.1-no-diagnostics</release>
     <versions>
       <version>1.0.0-no-diagnostics</version>
       <version>12.1.0</version>
@@ -32,7 +32,8 @@
       <version>13.3.0</version>
       <version>13.4.0</version>
       <version>13.4.1</version>
+      <version>13.4.1-no-diagnostics</version>
     </versions>
-    <lastUpdated>20240917131622</lastUpdated>
+    <lastUpdated>20240924105918</lastUpdated>
   </versioning>
 </metadata>

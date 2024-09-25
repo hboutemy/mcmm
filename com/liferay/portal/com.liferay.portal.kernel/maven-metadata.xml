@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.portal.kernel</artifactId>
   <versioning>
@@ -1103,7 +1103,8 @@
       <version>147.1.0</version>
       <version>148.0.0</version>
       <version>149.0.0</version>
+      <version>150.0.0</version>
     </versions>
-    <lastUpdated>20240906103154</lastUpdated>
+    <lastUpdated>20240924201133</lastUpdated>
   </versioning>
 </metadata>

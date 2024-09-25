@@ -3,9 +3,10 @@
   <groupId>org.hibernate.ogm</groupId>
   <artifactId>hibernate-ogm-bom</artifactId>
   <versioning>
-    <latest>5.4.1.Final</latest>
-    <release>5.4.1.Final</release>
+    <latest>5.4.2.Final</latest>
+    <release>5.4.2.Final</release>
     <versions>
+      <version>5.4.2.Final</version>
       <version>4.1.0.Beta6</version>
       <version>4.1.0.Beta7</version>
       <version>4.1.0.Beta8</version>
@@ -45,6 +46,6 @@
       <version>5.4.0.Final</version>
       <version>5.4.1.Final</version>
     </versions>
-    <lastUpdated>20181218123421</lastUpdated>
+    <lastUpdated>20240924162911</lastUpdated>
   </versioning>
 </metadata>

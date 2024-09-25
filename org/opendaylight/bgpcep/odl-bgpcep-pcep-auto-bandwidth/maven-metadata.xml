@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>odl-bgpcep-pcep-auto-bandwidth</artifactId>
   <versioning>
-    <latest>0.22.3</latest>
-    <release>0.22.3</release>
+    <latest>0.22.4</latest>
+    <release>0.22.4</release>
     <versions>
       <version>0.7.0-Carbon</version>
       <version>0.7.1-Carbon</version>
@@ -114,11 +114,13 @@
       <version>0.21.7</version>
       <version>0.21.8</version>
       <version>0.21.9</version>
+      <version>0.21.10</version>
       <version>0.22.0</version>
       <version>0.22.1</version>
       <version>0.22.2</version>
       <version>0.22.3</version>
+      <version>0.22.4</version>
     </versions>
-    <lastUpdated>20240923214132</lastUpdated>
+    <lastUpdated>20240924174510</lastUpdated>
   </versioning>
 </metadata>

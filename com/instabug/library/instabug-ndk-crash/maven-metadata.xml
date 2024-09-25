@@ -3,8 +3,8 @@
   <groupId>com.instabug.library</groupId>
   <artifactId>instabug-ndk-crash</artifactId>
   <versioning>
-    <latest>13.4.1</latest>
-    <release>13.4.1</release>
+    <latest>13.4.1-no-diagnostics</latest>
+    <release>13.4.1-no-diagnostics</release>
     <versions>
       <version>1.0.0-no-diagnostics</version>
       <version>10.5.0</version>
@@ -75,7 +75,8 @@
       <version>13.3.0</version>
       <version>13.4.0</version>
       <version>13.4.1</version>
+      <version>13.4.1-no-diagnostics</version>
     </versions>
-    <lastUpdated>20240917131632</lastUpdated>
+    <lastUpdated>20240924105926</lastUpdated>
   </versioning>
 </metadata>
