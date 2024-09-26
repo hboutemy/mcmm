@@ -3,8 +3,8 @@
   <groupId>org.camunda.bpm.qa</groupId>
   <artifactId>engine-variable-test</artifactId>
   <versioning>
-    <latest>7.22.0-alpha5</latest>
-    <release>7.22.0-alpha5</release>
+    <latest>7.22.0-alpha6</latest>
+    <release>7.22.0-alpha6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.2</version>
@@ -73,7 +73,8 @@
       <version>7.22.0-alpha3</version>
       <version>7.22.0-alpha4</version>
       <version>7.22.0-alpha5</version>
+      <version>7.22.0-alpha6</version>
     </versions>
-    <lastUpdated>20240909121830</lastUpdated>
+    <lastUpdated>20240925103100</lastUpdated>
   </versioning>
 </metadata>

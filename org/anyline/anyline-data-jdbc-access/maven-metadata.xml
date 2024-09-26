@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-access</artifactId>
   <versioning>
-    <latest>8.7.2-20240923</latest>
-    <release>8.7.2-20240923</release>
+    <latest>8.7.2-20240925</latest>
+    <release>8.7.2-20240925</release>
     <versions>
       <version>8.7.2-jdk11-20240826</version>
       <version>8.7.2-jdk11-20240827</version>
@@ -18,11 +18,13 @@
       <version>8.7.2-jdk17-20240912</version>
       <version>8.7.2-jdk17-20240919</version>
       <version>8.7.2-jdk17-20240920</version>
+      <version>8.7.2-jdk17-20240925</version>
       <version>8.7.2-jdk21-20240827</version>
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
       <version>8.7.2-jdk21-20240912</version>
       <version>8.7.2-jdk21-20240916</version>
+      <version>8.7.2-jdk21-20240925</version>
       <version>8.7.2-20240823</version>
       <version>8.7.2-20240825</version>
       <version>8.7.2-20240830</version>
@@ -35,7 +37,8 @@
       <version>8.7.2-20240916</version>
       <version>8.7.2-20240922</version>
       <version>8.7.2-20240923</version>
+      <version>8.7.2-20240925</version>
     </versions>
-    <lastUpdated>20240923074842</lastUpdated>
+    <lastUpdated>20240925080756</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>openshift-model-clusterautoscaling</artifactId>
   <versioning>
-    <latest>6.13.3</latest>
-    <release>6.13.3</release>
+    <latest>6.13.4</latest>
+    <release>6.13.4</release>
     <versions>
       <version>5.5.0</version>
       <version>5.6.0</version>
@@ -57,7 +57,8 @@
       <version>6.13.1</version>
       <version>6.13.2</version>
       <version>6.13.3</version>
+      <version>6.13.4</version>
     </versions>
-    <lastUpdated>20240813102217</lastUpdated>
+    <lastUpdated>20240925091204</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.codehaus.cargo</groupId>
   <artifactId>cargo-archetype-webapp-single-module</artifactId>
   <versioning>
-    <latest>1.10.14</latest>
-    <release>1.10.14</release>
+    <latest>1.10.15</latest>
+    <release>1.10.15</release>
     <versions>
       <version>1.4.14</version>
       <version>1.4.15</version>
@@ -78,6 +78,7 @@
       <version>1.10.12</version>
       <version>1.10.13</version>
       <version>1.10.14</version>
+      <version>1.10.15</version>
       <version>0.3.1</version>
       <version>1.0</version>
       <version>1.0-alpha-1</version>
@@ -129,6 +130,6 @@
       <version>1.4.8</version>
       <version>1.4.9</version>
     </versions>
-    <lastUpdated>20240702195717</lastUpdated>
+    <lastUpdated>20240925214057</lastUpdated>
   </versioning>
 </metadata>

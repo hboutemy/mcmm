@@ -3,8 +3,8 @@
   <groupId>com.sagframe</groupId>
   <artifactId>sagacity-sqltoy-spring</artifactId>
   <versioning>
-    <latest>5.6.23.jre8</latest>
-    <release>5.6.23.jre8</release>
+    <latest>5.6.24.RC2.jre8</latest>
+    <release>5.6.24.RC2.jre8</release>
     <versions>
       <version>5.4.0.jre8</version>
       <version>5.4.1.jre8</version>
@@ -107,7 +107,11 @@
       <version>5.6.23.RC3.jre8</version>
       <version>5.6.23</version>
       <version>5.6.23.jre8</version>
+      <version>5.6.24.RC1</version>
+      <version>5.6.24.RC1.jre8</version>
+      <version>5.6.24.RC2</version>
+      <version>5.6.24.RC2.jre8</version>
     </versions>
-    <lastUpdated>20240920020832</lastUpdated>
+    <lastUpdated>20240925071710</lastUpdated>
   </versioning>
 </metadata>
