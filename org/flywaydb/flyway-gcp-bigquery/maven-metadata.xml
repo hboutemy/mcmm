@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-gcp-bigquery</artifactId>
   <versioning>
-    <latest>10.18.1</latest>
-    <release>10.18.1</release>
+    <latest>10.18.2</latest>
+    <release>10.18.2</release>
     <versions>
       <version>7.11.0-beta</version>
       <version>7.11.1-beta</version>
@@ -141,7 +141,8 @@
       <version>10.17.3</version>
       <version>10.18.0</version>
       <version>10.18.1</version>
+      <version>10.18.2</version>
     </versions>
-    <lastUpdated>20240924114750</lastUpdated>
+    <lastUpdated>20240926101420</lastUpdated>
   </versioning>
 </metadata>

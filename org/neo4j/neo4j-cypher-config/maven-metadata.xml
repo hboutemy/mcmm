@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-config</artifactId>
   <versioning>
-    <latest>5.23.0</latest>
-    <release>5.23.0</release>
+    <latest>5.24.0</latest>
+    <release>5.24.0</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -94,7 +94,8 @@
       <version>5.21.2</version>
       <version>5.22.0</version>
       <version>5.23.0</version>
+      <version>5.24.0</version>
     </versions>
-    <lastUpdated>20240903124916</lastUpdated>
+    <lastUpdated>20240926103225</lastUpdated>
   </versioning>
 </metadata>

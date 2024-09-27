@@ -3,8 +3,8 @@
   <groupId>org.jooq</groupId>
   <artifactId>jooq-codegen-maven</artifactId>
   <versioning>
-    <latest>3.19.12</latest>
-    <release>3.19.12</release>
+    <latest>3.19.13</latest>
+    <release>3.19.13</release>
     <versions>
       <version>1.6.7</version>
       <version>1.6.8</version>
@@ -210,6 +210,7 @@
       <version>3.17.26</version>
       <version>3.17.27</version>
       <version>3.17.28</version>
+      <version>3.17.29</version>
       <version>3.18.0</version>
       <version>3.18.1</version>
       <version>3.18.2</version>
@@ -229,6 +230,7 @@
       <version>3.18.17</version>
       <version>3.18.18</version>
       <version>3.18.19</version>
+      <version>3.18.20</version>
       <version>3.19.0</version>
       <version>3.19.1</version>
       <version>3.19.2</version>
@@ -241,7 +243,8 @@
       <version>3.19.10</version>
       <version>3.19.11</version>
       <version>3.19.12</version>
+      <version>3.19.13</version>
     </versions>
-    <lastUpdated>20240923072949</lastUpdated>
+    <lastUpdated>20240926104101</lastUpdated>
   </versioning>
 </metadata>

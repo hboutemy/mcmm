@@ -3,14 +3,15 @@
   <groupId>org.scalikejdbc</groupId>
   <artifactId>scalikejdbc-mapper-generator_2.12_1.0</artifactId>
   <versioning>
-    <latest>4.3.1</latest>
-    <release>4.3.1</release>
+    <latest>4.3.2</latest>
+    <release>4.3.2</release>
     <versions>
       <version>4.1.0</version>
       <version>4.2.0</version>
       <version>4.2.1</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
+      <version>4.3.2</version>
       <version>3.1.0</version>
       <version>3.2.0</version>
       <version>3.2.0-RC1</version>
@@ -35,6 +36,6 @@
       <version>4.0.0-RC1</version>
       <version>4.0.0-RC2</version>
     </versions>
-    <lastUpdated>20240718071828</lastUpdated>
+    <lastUpdated>20240926050118</lastUpdated>
   </versioning>
 </metadata>
