@@ -3,8 +3,8 @@
   <groupId>com.fasterxml.jackson.module</groupId>
   <artifactId>jackson-module-afterburner</artifactId>
   <versioning>
-    <latest>2.18.0-rc1</latest>
-    <release>2.18.0-rc1</release>
+    <latest>2.18.0</latest>
+    <release>2.18.0</release>
     <versions>
       <version>1.9.4</version>
       <version>2.0.0-RC1</version>
@@ -154,8 +154,9 @@
       <version>2.17.1</version>
       <version>2.17.2</version>
       <version>2.18.0-rc1</version>
+      <version>2.18.0</version>
       <version>2.5.4</version>
     </versions>
-    <lastUpdated>20240830184635</lastUpdated>
+    <lastUpdated>20240927032450</lastUpdated>
   </versioning>
 </metadata>
