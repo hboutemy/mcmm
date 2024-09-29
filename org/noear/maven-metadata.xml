@@ -6,6 +6,10 @@
       <artifactId>solon-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <prefix>waad</prefix>
+      <artifactId>waad-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>weed3</prefix>
       <artifactId>weed3-maven-plugin</artifactId>
     </plugin>
