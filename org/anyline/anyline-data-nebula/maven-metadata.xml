@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-nebula</artifactId>
   <versioning>
-    <latest>8.7.2-20240925</latest>
-    <release>8.7.2-20240925</release>
+    <latest>8.7.2-20240930</latest>
+    <release>8.7.2-20240930</release>
     <versions>
       <version>8.7.1-jdk17-20240301</version>
       <version>8.7.1-jdk17-20240321</version>
@@ -111,6 +111,7 @@
       <version>8.7.2-jdk17-20240919</version>
       <version>8.7.2-jdk17-20240920</version>
       <version>8.7.2-jdk17-20240925</version>
+      <version>8.7.2-jdk17-20240930</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240515</version>
@@ -170,6 +171,7 @@
       <version>8.7.2-jdk21-20240912</version>
       <version>8.7.2-jdk21-20240916</version>
       <version>8.7.2-jdk21-20240925</version>
+      <version>8.7.2-jdk21-20240930</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -244,7 +246,8 @@
       <version>8.7.2-20240922</version>
       <version>8.7.2-20240923</version>
       <version>8.7.2-20240925</version>
+      <version>8.7.2-20240930</version>
     </versions>
-    <lastUpdated>20240925075416</lastUpdated>
+    <lastUpdated>20240930084426</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-tool-xar-integration-tests</artifactId>
   <versioning>
-    <latest>16.8.0-rc-1</latest>
-    <release>16.8.0-rc-1</release>
+    <latest>16.8.0</latest>
+    <release>16.8.0</release>
     <versions>
       <version>12.10.11</version>
       <version>13.4.6</version>
@@ -130,6 +130,7 @@
       <version>16.7.0</version>
       <version>16.7.1</version>
       <version>16.8.0-rc-1</version>
+      <version>16.8.0</version>
       <version>10.0</version>
       <version>10.1</version>
       <version>10.1-rc-1</version>
@@ -469,6 +470,6 @@
       <version>9.9-rc-1</version>
       <version>9.9-rc-2</version>
     </versions>
-    <lastUpdated>20240917121557</lastUpdated>
+    <lastUpdated>20240930154637</lastUpdated>
   </versioning>
 </metadata>

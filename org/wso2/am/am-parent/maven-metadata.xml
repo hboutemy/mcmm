@@ -3,8 +3,8 @@
   <groupId>org.wso2.am</groupId>
   <artifactId>am-parent</artifactId>
   <versioning>
-    <latest>4.2.0</latest>
-    <release>4.2.0</release>
+    <latest>4.4.0-m2</latest>
+    <release>4.4.0-m2</release>
     <versions>
       <version>v3.0.0-m3</version>
       <version>1.10.0</version>
@@ -87,7 +87,8 @@
       <version>4.2.0-beta</version>
       <version>4.2.0-m1</version>
       <version>4.2.0</version>
+      <version>4.4.0-alpha</version>
     </versions>
-    <lastUpdated>20230331063634</lastUpdated>
+    <lastUpdated>20240930142759</lastUpdated>
   </versioning>
 </metadata>

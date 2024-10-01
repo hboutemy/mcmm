@@ -3,8 +3,8 @@
   <groupId>org.jetbrains</groupId>
   <artifactId>sbt-idea-plugin_2.12_1.0</artifactId>
   <versioning>
-    <latest>4.0.0-RC17</latest>
-    <release>4.0.0-RC17</release>
+    <latest>4.0.0-RC19</latest>
+    <release>4.0.0-RC19</release>
     <versions>
       <version>3.20.5</version>
       <version>3.20.6</version>
@@ -36,6 +36,7 @@
       <version>4.0.0-RC15</version>
       <version>4.0.0-RC16</version>
       <version>4.0.0-RC17</version>
+      <version>4.0.0-RC19</version>
       <version>3.10.0</version>
       <version>3.10.4</version>
       <version>3.11.0</version>
@@ -102,6 +103,6 @@
       <version>3.9.6</version>
       <version>3.9.7</version>
     </versions>
-    <lastUpdated>20240813182740</lastUpdated>
+    <lastUpdated>20240930160850</lastUpdated>
   </versioning>
 </metadata>
