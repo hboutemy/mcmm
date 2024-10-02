@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-runtime-application</artifactId>
   <versioning>
-    <latest>8.6.0-alpha5</latest>
-    <release>8.6.0-alpha5</release>
+    <latest>8.6.2</latest>
+    <release>8.6.2</release>
     <versions>
       <version>0.20.3</version>
       <version>0.21.0</version>
@@ -65,7 +65,9 @@
       <version>8.6.0-alpha3.1</version>
       <version>8.6.0-alpha4</version>
       <version>8.6.0-alpha5</version>
+      <version>8.6.1</version>
+      <version>8.6.2</version>
     </versions>
-    <lastUpdated>20240909120756</lastUpdated>
+    <lastUpdated>20241001170446</lastUpdated>
   </versioning>
 </metadata>

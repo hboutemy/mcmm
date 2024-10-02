@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.feature</artifactId>
   <versioning>
-    <latest>9.30.10</latest>
-    <release>9.30.10</release>
+    <latest>9.30.11</latest>
+    <release>9.30.11</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -2749,7 +2749,8 @@
       <version>9.30.8</version>
       <version>9.30.9</version>
       <version>9.30.10</version>
+      <version>9.30.11</version>
     </versions>
-    <lastUpdated>20240928094144</lastUpdated>
+    <lastUpdated>20241001101806</lastUpdated>
   </versioning>
 </metadata>

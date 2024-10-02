@@ -3,8 +3,8 @@
   <groupId>org.apache.jackrabbit</groupId>
   <artifactId>oak-store-spi</artifactId>
   <versioning>
-    <latest>1.68.0</latest>
-    <release>1.68.0</release>
+    <latest>1.70.0</latest>
+    <release>1.70.0</release>
     <versions>
       <version>1.7.0</version>
       <version>1.7.1</version>
@@ -119,7 +119,8 @@
       <version>1.64.0</version>
       <version>1.66.0</version>
       <version>1.68.0</version>
+      <version>1.70.0</version>
     </versions>
-    <lastUpdated>20240912071749</lastUpdated>
+    <lastUpdated>20241001044107</lastUpdated>
   </versioning>
 </metadata>
