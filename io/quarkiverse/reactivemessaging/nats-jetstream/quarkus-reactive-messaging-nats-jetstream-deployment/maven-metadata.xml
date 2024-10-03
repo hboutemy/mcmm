@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.reactivemessaging.nats-jetstream</groupId>
   <artifactId>quarkus-reactive-messaging-nats-jetstream-deployment</artifactId>
   <versioning>
-    <latest>3.15.0</latest>
-    <release>3.15.0</release>
+    <latest>3.15.1</latest>
+    <release>3.15.1</release>
     <versions>
       <version>1.12.0</version>
       <version>1.12.1</version>
@@ -14,7 +14,8 @@
       <version>1.13.3</version>
       <version>1.14.0</version>
       <version>3.15.0</version>
+      <version>3.15.1</version>
     </versions>
-    <lastUpdated>20241001075727</lastUpdated>
+    <lastUpdated>20241002124158</lastUpdated>
   </versioning>
 </metadata>

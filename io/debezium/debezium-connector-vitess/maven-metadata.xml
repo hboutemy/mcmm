@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-connector-vitess</artifactId>
   <versioning>
-    <latest>3.0.0.CR2</latest>
-    <release>3.0.0.CR2</release>
+    <latest>3.0.0.Final</latest>
+    <release>3.0.0.Final</release>
     <versions>
       <version>1.4.0.Alpha1</version>
       <version>1.4.0.Alpha2</version>
@@ -126,8 +126,9 @@
       <version>3.0.0.Beta1</version>
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
+      <version>3.0.0.Final</version>
       <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20240925104857</lastUpdated>
+    <lastUpdated>20241002102421</lastUpdated>
   </versioning>
 </metadata>

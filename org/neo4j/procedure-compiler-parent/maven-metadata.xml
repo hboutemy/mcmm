@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>procedure-compiler-parent</artifactId>
   <versioning>
-    <latest>5.24.0</latest>
-    <release>5.24.0</release>
+    <latest>5.24.1</latest>
+    <release>5.24.1</release>
     <versions>
       <version>3.1.5</version>
       <version>3.1.6</version>
@@ -263,7 +263,8 @@
       <version>5.22.0</version>
       <version>5.23.0</version>
       <version>5.24.0</version>
+      <version>5.24.1</version>
     </versions>
-    <lastUpdated>20240926103411</lastUpdated>
+    <lastUpdated>20241002183036</lastUpdated>
   </versioning>
 </metadata>
