@@ -3,8 +3,8 @@
   <groupId>live.100ms</groupId>
   <artifactId>webrtc</artifactId>
   <versioning>
-    <latest>m111-hms-1.9</latest>
-    <release>m111-hms-1.9</release>
+    <latest>main</latest>
+    <release>main</release>
     <versions>
       <version>m97</version>
       <version>m97-hms-1.0</version>
@@ -19,7 +19,9 @@
       <version>m107-hms-1.8</version>
       <version>m111-hms-1.8</version>
       <version>m111-hms-1.9</version>
+      <version>m111-hms-1.91</version>
+      <version>main</version>
     </versions>
-    <lastUpdated>20240418092725</lastUpdated>
+    <lastUpdated>20241004153035</lastUpdated>
   </versioning>
 </metadata>
