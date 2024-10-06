@@ -3,8 +3,8 @@
   <groupId>io.helidon.applications</groupId>
   <artifactId>helidon-se</artifactId>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -81,6 +81,7 @@
       <version>3.2.7</version>
       <version>3.2.8</version>
       <version>3.2.9</version>
+      <version>3.2.10</version>
       <version>4.0.0-ALPHA1</version>
       <version>4.0.0-ALPHA2</version>
       <version>4.0.0-ALPHA3</version>
@@ -105,7 +106,8 @@
       <version>4.0.11</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20240925215234</lastUpdated>
+    <lastUpdated>20241005171752</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-server-testdriver-core</artifactId>
   <versioning>
-    <latest>15.1.0.Dev03</latest>
-    <release>15.1.0.Dev03</release>
+    <latest>15.1.0.Dev04</latest>
+    <release>15.1.0.Dev04</release>
     <versions>
       <version>10.1.4.Final</version>
       <version>10.1.5.Final</version>
@@ -159,8 +159,9 @@
       <version>15.1.0.Dev01</version>
       <version>15.1.0.Dev02</version>
       <version>15.1.0.Dev03</version>
+      <version>15.1.0.Dev04</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20241004150950</lastUpdated>
+    <lastUpdated>20241005101613</lastUpdated>
   </versioning>
 </metadata>

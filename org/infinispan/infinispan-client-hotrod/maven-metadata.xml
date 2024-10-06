@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-client-hotrod</artifactId>
   <versioning>
-    <latest>15.1.0.Dev03</latest>
-    <release>15.1.0.Dev03</release>
+    <latest>15.1.0.Dev04</latest>
+    <release>15.1.0.Dev04</release>
     <versions>
       <version>5.0.0.FINAL</version>
       <version>5.0.1.FINAL</version>
@@ -405,8 +405,9 @@
       <version>15.1.0.Dev01</version>
       <version>15.1.0.Dev02</version>
       <version>15.1.0.Dev03</version>
+      <version>15.1.0.Dev04</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20241004150914</lastUpdated>
+    <lastUpdated>20241005101536</lastUpdated>
   </versioning>
 </metadata>
