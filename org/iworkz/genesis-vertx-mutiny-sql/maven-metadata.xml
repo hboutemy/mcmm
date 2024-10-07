@@ -3,8 +3,8 @@
   <groupId>org.iworkz</groupId>
   <artifactId>genesis-vertx-mutiny-sql</artifactId>
   <versioning>
-    <latest>1.0.66</latest>
-    <release>1.0.66</release>
+    <latest>1.0.66-javax</latest>
+    <release>1.0.66-javax</release>
     <versions>
       <version>1.0.29</version>
       <version>1.0.30</version>
@@ -42,8 +42,10 @@
       <version>1.0.63</version>
       <version>1.0.64</version>
       <version>1.0.65</version>
+      <version>1.0.65-javax</version>
       <version>1.0.66</version>
+      <version>1.0.66-javax</version>
     </versions>
-    <lastUpdated>20241004131731</lastUpdated>
+    <lastUpdated>20241006184723</lastUpdated>
   </versioning>
 </metadata>
