@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.operatorsdk</groupId>
   <artifactId>quarkus-operator-sdk-integration-tests</artifactId>
   <versioning>
-    <latest>6.8.2</latest>
-    <release>6.8.2</release>
+    <latest>6.8.3</latest>
+    <release>6.8.3</release>
     <versions>
       <version>1.8.0.CR1</version>
       <version>1.8.0</version>
@@ -95,7 +95,8 @@
       <version>6.8.0</version>
       <version>6.8.1</version>
       <version>6.8.2</version>
+      <version>6.8.3</version>
     </versions>
-    <lastUpdated>20241004184417</lastUpdated>
+    <lastUpdated>20241008124643</lastUpdated>
   </versioning>
 </metadata>
