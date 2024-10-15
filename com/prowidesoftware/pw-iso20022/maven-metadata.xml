@@ -3,8 +3,8 @@
   <groupId>com.prowidesoftware</groupId>
   <artifactId>pw-iso20022</artifactId>
   <versioning>
-    <latest>SRU2024-9.5.4</latest>
-    <release>SRU2024-9.5.4</release>
+    <latest>SRU2024-10.2.3</latest>
+    <release>SRU2024-10.2.3</release>
     <versions>
       <version>SRU2020-9.1.2</version>
       <version>SRU2020-9.1.3</version>
@@ -56,7 +56,11 @@
       <version>SRU2024-9.5.2</version>
       <version>SRU2024-9.5.3</version>
       <version>SRU2024-9.5.4</version>
+      <version>SRU2024-10.2.0</version>
+      <version>SRU2024-10.2.1</version>
+      <version>SRU2024-10.2.2</version>
+      <version>SRU2024-10.2.3</version>
     </versions>
-    <lastUpdated>20241010224729</lastUpdated>
+    <lastUpdated>20241011033533</lastUpdated>
   </versioning>
 </metadata>
