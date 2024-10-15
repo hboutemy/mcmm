@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-process-test-api</artifactId>
   <versioning>
-    <latest>8.6.0</latest>
-    <release>8.6.0</release>
+    <latest>8.6.3</latest>
+    <release>8.6.3</release>
     <versions>
       <version>1.4.0-alpha2</version>
       <version>8.0.0-rc1</version>
@@ -164,7 +164,10 @@
       <version>8.6.0-alpha5</version>
       <version>8.6.0-rc1</version>
       <version>8.6.0</version>
+      <version>8.6.1</version>
+      <version>8.6.2</version>
+      <version>8.6.3</version>
     </versions>
-    <lastUpdated>20241002142607</lastUpdated>
+    <lastUpdated>20241011182542</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-maven-plugin</artifactId>
   <versioning>
-    <latest>15.6.0</latest>
-    <release>15.6.0</release>
+    <latest>15.7.0</latest>
+    <release>15.7.0</release>
     <versions>
       <version>10.1.1</version>
       <version>10.1.2</version>
@@ -203,6 +203,7 @@
       <version>14.5.2</version>
       <version>14.6.0</version>
       <version>14.6.1</version>
+      <version>14.7.0</version>
       <version>15.0.1</version>
       <version>15.0.2</version>
       <version>15.1.0</version>
@@ -214,7 +215,8 @@
       <version>15.5.1</version>
       <version>15.5.2</version>
       <version>15.6.0</version>
+      <version>15.7.0</version>
     </versions>
-    <lastUpdated>20241008051346</lastUpdated>
+    <lastUpdated>20241010103156</lastUpdated>
   </versioning>
 </metadata>

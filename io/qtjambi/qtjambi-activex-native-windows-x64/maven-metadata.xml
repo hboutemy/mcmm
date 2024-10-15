@@ -3,8 +3,8 @@
   <groupId>io.qtjambi</groupId>
   <artifactId>qtjambi-activex-native-windows-x64</artifactId>
   <versioning>
-    <latest>6.6.3</latest>
-    <release>6.6.3</release>
+    <latest>6.7.3</latest>
+    <release>6.7.3</release>
     <versions>
       <version>5.15.5</version>
       <version>5.15.6</version>
@@ -21,6 +21,7 @@
       <version>5.15.17</version>
       <version>5.15.18</version>
       <version>5.15.20</version>
+      <version>5.15.23</version>
       <version>6.2.3</version>
       <version>6.2.4</version>
       <version>6.2.5</version>
@@ -52,7 +53,8 @@
       <version>6.6.1</version>
       <version>6.6.2</version>
       <version>6.6.3</version>
+      <version>6.7.3</version>
     </versions>
-    <lastUpdated>20240406225424</lastUpdated>
+    <lastUpdated>20241009210602</lastUpdated>
   </versioning>
 </metadata>

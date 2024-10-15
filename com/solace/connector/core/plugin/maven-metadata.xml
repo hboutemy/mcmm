@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Build Resource Processor Maven Plugin</name>
+      <prefix>build-resource-processor</prefix>
+      <artifactId>build-resource-processor-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

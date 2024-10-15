@@ -3,20 +3,20 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.21.1-tspythonapidocupdate.22.2c86c28</latest>
-    <release>3.21.1-tspythonapidocupdate.22.2c86c28</release>
+    <latest>3.21.1-ddcimockcsharp.22.2d47e0a</latest>
+    <release>3.21.1-ddcimockcsharp.22.2d47e0a</release>
     <versions>
-      <version>3.21.1-ddcimockcsharp.19.7bbea60</version>
-      <version>3.21.1-ddcimockcsharp.19.7c19d40</version>
-      <version>3.21.1-ddusestringview.21.26e6cb7</version>
-      <version>3.21.1-tspythonapidocupdate.22.d564ad3</version>
-      <version>3.21.1-tspythonapidocupdate.22.2c86c28</version>
-      <version>3.21.1-edge.22.b63f015</version>
-      <version>3.21.1-ddtestcppmock.46.03c556c</version>
+      <version>3.21.1-ddcimockcsharp.21.ee5d504</version>
+      <version>3.21.1-ddcimockcsharp.21.3be4c2c</version>
+      <version>3.21.1-ddcimockcsharp.21.7273b0b</version>
+      <version>3.21.1-ddcimockcsharp.21.7a835c6</version>
+      <version>3.21.1-ddcimockcsharp.22.2d47e0a</version>
+      <version>3.21.1-ddcimockcsharp.22.c47b2c2</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
       <version>3.21.0-test-SNAP-001</version>
+      <version>3.21.1-ddbuildfixcpp.48.b97920b</version>
       <version>3.21.1-ddcimockcsharp.19.0d51ecb</version>
       <version>3.21.1-ddcimockcsharp.19.2381a76</version>
       <version>3.21.1-ddcimockcsharp.19.3892b06</version>
@@ -25,6 +25,8 @@
       <version>3.21.1-ddcimockcsharp.19.51b3585</version>
       <version>3.21.1-ddcimockcsharp.19.5b1c08f</version>
       <version>3.21.1-ddcimockcsharp.19.708a8a5</version>
+      <version>3.21.1-ddcimockcsharp.19.7bbea60</version>
+      <version>3.21.1-ddcimockcsharp.19.7c19d40</version>
       <version>3.21.1-ddcimockcsharp.19.8a59501</version>
       <version>3.21.1-ddcimockcsharp.19.8d4f0ba</version>
       <version>3.21.1-ddcimockcsharp.19.a101f06</version>
@@ -35,6 +37,36 @@
       <version>3.21.1-ddcimockcsharp.19.d374df5</version>
       <version>3.21.1-ddcimockcsharp.19.ed40657</version>
       <version>3.21.1-ddcimockcsharp.19.f16599c</version>
+      <version>3.21.1-ddcimockcsharp.20.1b64160</version>
+      <version>3.21.1-ddcimockcsharp.21.10e1050</version>
+      <version>3.21.1-ddcimockcsharp.21.1244d9c</version>
+      <version>3.21.1-ddcimockcsharp.21.2130f2b</version>
+      <version>3.21.1-ddcimockcsharp.21.2f3e1a4</version>
+      <version>3.21.1-ddcimockcsharp.21.2f7a74b</version>
+      <version>3.21.1-ddcimockcsharp.21.45d9098</version>
+      <version>3.21.1-ddcimockcsharp.21.73fdd3b</version>
+      <version>3.21.1-ddcimockcsharp.21.7d6d455</version>
+      <version>3.21.1-ddcimockcsharp.21.80b6f7b</version>
+      <version>3.21.1-ddcimockcsharp.21.a66b1bb</version>
+      <version>3.21.1-ddcimockcsharp.21.b56c4ae</version>
+      <version>3.21.1-ddcimockcsharp.21.e0c255c</version>
+      <version>3.21.1-ddcimockcsharp.21.eda7c31</version>
+      <version>3.21.1-ddcimockcsharp.21.ef77017</version>
+      <version>3.21.1-ddcimockcsharp.22.6b6deda</version>
+      <version>3.21.1-ddcimockcsharp.24.162d8cf</version>
+      <version>3.21.1-ddcimockcsharp.24.7b928b0</version>
+      <version>3.21.1-ddcimockcsharp.24.839a935</version>
+      <version>3.21.1-ddcimockcsharp.24.ae78b90</version>
+      <version>3.21.1-ddcimockcsharp.24.baa367d</version>
+      <version>3.21.1-ddcimockcsharp.24.e11402b</version>
+      <version>3.21.1-ddcimockcsharp.25.14a17f0</version>
+      <version>3.21.1-ddcimockcsharp.25.94afee3</version>
+      <version>3.21.1-ddcimockcsharp.25.e32642f</version>
+      <version>3.21.1-ddcimockcsharp.26.816a97e</version>
+      <version>3.21.1-ddcimockcsharp.26.a59b685</version>
+      <version>3.21.1-ddcimockcsharp.27.a5dca29</version>
+      <version>3.21.1-ddcimockcsharp.28.785c530</version>
+      <version>3.21.1-ddcimockcsharp.59.e191590</version>
       <version>3.21.1-ddhandleevent.19.a3232a0</version>
       <version>3.21.1-ddhandleevent.4.69ef9ad</version>
       <version>3.21.1-ddtestcppmock.29.aa694ea</version>
@@ -106,13 +138,24 @@
       <version>3.21.1-ddtestcppmock.38.eb8345d</version>
       <version>3.21.1-ddtestcppmock.38.ef7c6a0</version>
       <version>3.21.1-ddtestcppmock.38.f5b50f4</version>
+      <version>3.21.1-ddtestcppmock.46.03c556c</version>
+      <version>3.21.1-ddusestringview.21.26e6cb7</version>
       <version>3.21.1-edge.15.8e73cae</version>
       <version>3.21.1-edge.18.e9bdf8a</version>
       <version>3.21.1-edge.20.852a9b1</version>
+      <version>3.21.1-edge.22.b63f015</version>
+      <version>3.21.1-edge.47.bb6d2bb</version>
+      <version>3.21.1-edge.49.717de43</version>
+      <version>3.21.1-flrust.69.65b0f8f</version>
+      <version>3.21.1-flrust.71.b12fbf8</version>
       <version>3.21.1-jdfixcijavaversion.14.6a60974</version>
       <version>3.21.1-jdfixcijavaversion.15.a02381f</version>
       <version>3.21.1-tspythonapidocupdate.21.0f4eb19</version>
+      <version>3.21.1-tspythonapidocupdate.21.be8e99a</version>
+      <version>3.21.1-tspythonapidocupdate.22.2c86c28</version>
+      <version>3.21.1-tspythonapidocupdate.22.a33f5d0</version>
+      <version>3.21.1-tspythonapidocupdate.22.d564ad3</version>
     </versions>
-    <lastUpdated>20241007162851</lastUpdated>
+    <lastUpdated>20241010153320</lastUpdated>
   </versioning>
 </metadata>
