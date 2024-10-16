@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee</groupId>
   <artifactId>microprofile-jwt-itests</artifactId>
   <versioning>
-    <latest>10.0.0-M2</latest>
-    <release>10.0.0-M2</release>
+    <latest>10.0.0-M3</latest>
+    <release>10.0.0-M3</release>
     <versions>
       <version>8.0.0-M3</version>
       <version>8.0.0</version>
@@ -33,7 +33,8 @@
       <version>9.1.3</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M2</version>
+      <version>10.0.0-M3</version>
     </versions>
-    <lastUpdated>20240723062005</lastUpdated>
+    <lastUpdated>20241014062731</lastUpdated>
   </versioning>
 </metadata>

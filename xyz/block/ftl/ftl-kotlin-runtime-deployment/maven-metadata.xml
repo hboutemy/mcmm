@@ -3,8 +3,8 @@
   <groupId>xyz.block.ftl</groupId>
   <artifactId>ftl-kotlin-runtime-deployment</artifactId>
   <versioning>
-    <latest>0.379.1</latest>
-    <release>0.379.1</release>
+    <latest>0.382.0</latest>
+    <release>0.382.0</release>
     <versions>
       <version>jvm-publish</version>
       <version>main</version>
@@ -47,7 +47,11 @@
       <version>0.378.2</version>
       <version>0.379.0</version>
       <version>0.379.1</version>
+      <version>0.380.0</version>
+      <version>0.381.0</version>
+      <version>0.381.1</version>
+      <version>0.382.0</version>
     </versions>
-    <lastUpdated>20241013235235</lastUpdated>
+    <lastUpdated>20241014022659</lastUpdated>
   </versioning>
 </metadata>
