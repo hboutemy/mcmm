@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-feature-spec-gen</artifactId>
   <versioning>
-    <latest>7.2.0.Final</latest>
-    <release>7.2.0.Final</release>
+    <latest>7.2.1.Final</latest>
+    <release>7.2.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -165,7 +165,8 @@
       <version>7.1.1.Final</version>
       <version>7.1.2.Final</version>
       <version>7.2.0.Final</version>
+      <version>7.2.1.Final</version>
     </versions>
-    <lastUpdated>20241009145616</lastUpdated>
+    <lastUpdated>20241015080142</lastUpdated>
   </versioning>
 </metadata>

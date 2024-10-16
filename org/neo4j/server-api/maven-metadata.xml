@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>server-api</artifactId>
   <versioning>
-    <latest>5.24.1</latest>
-    <release>5.24.1</release>
+    <latest>5.24.2</latest>
+    <release>5.24.2</release>
     <versions>
       <version>1.3.M03</version>
       <version>1.3.M04</version>
@@ -435,7 +435,8 @@
       <version>5.23.0</version>
       <version>5.24.0</version>
       <version>5.24.1</version>
+      <version>5.24.2</version>
     </versions>
-    <lastUpdated>20241008140735</lastUpdated>
+    <lastUpdated>20241015145732</lastUpdated>
   </versioning>
 </metadata>
