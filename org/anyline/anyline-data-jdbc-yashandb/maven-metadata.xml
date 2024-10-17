@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-yashandb</artifactId>
   <versioning>
-    <latest>8.7.2-20241012</latest>
-    <release>8.7.2-20241012</release>
+    <latest>8.7.2-20241016</latest>
+    <release>8.7.2-20241016</release>
     <versions>
       <version>8.7.2-jdk11-20240911</version>
       <version>8.7.2-jdk11-20240912</version>
@@ -25,6 +25,7 @@
       <version>8.7.2-jdk21-20241009</version>
       <version>8.7.2-jdk21-20241010</version>
       <version>8.7.2-jdk21-20241015</version>
+      <version>8.7.2-jdk21-20241016</version>
       <version>8.7.2-20240905</version>
       <version>8.7.2-20240909</version>
       <version>8.7.2-20240911</version>
@@ -36,7 +37,8 @@
       <version>8.7.2-20240930</version>
       <version>8.7.2-20241011</version>
       <version>8.7.2-20241012</version>
+      <version>8.7.2-20241016</version>
     </versions>
-    <lastUpdated>20241015064434</lastUpdated>
+    <lastUpdated>20241016131541</lastUpdated>
   </versioning>
 </metadata>

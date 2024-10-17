@@ -7,6 +7,11 @@
       <artifactId>adt-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Docker Compose Maven Plugin</name>
+      <prefix>docker-compose</prefix>
+      <artifactId>docker-compose-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Apache Maven Dependency Plugin</name>
       <prefix>link-dependencies</prefix>
       <artifactId>link-dependencies-maven-plugin</artifactId>

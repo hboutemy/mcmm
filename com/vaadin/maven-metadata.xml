@@ -22,7 +22,12 @@
       <artifactId>hilla-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Vaadin Plug-in for Maven</name>
+      <name>ui-tests Maven Plugin</name>
+      <prefix>ui-tests</prefix>
+      <artifactId>ui-tests-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Vaadin Maven plugin</name>
       <prefix>vaadin</prefix>
       <artifactId>vaadin-maven-plugin</artifactId>
     </plugin>

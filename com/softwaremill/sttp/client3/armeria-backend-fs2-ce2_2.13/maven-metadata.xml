@@ -3,8 +3,8 @@
   <groupId>com.softwaremill.sttp.client3</groupId>
   <artifactId>armeria-backend-fs2-ce2_2.13</artifactId>
   <versioning>
-    <latest>3.10.0</latest>
-    <release>3.10.0</release>
+    <latest>3.10.1</latest>
+    <release>3.10.1</release>
     <versions>
       <version>3.3.0-RC1</version>
       <version>3.3.0-RC2</version>
@@ -69,7 +69,8 @@
       <version>3.9.7</version>
       <version>3.9.8</version>
       <version>3.10.0</version>
+      <version>3.10.1</version>
     </versions>
-    <lastUpdated>20241002085311</lastUpdated>
+    <lastUpdated>20241016063359</lastUpdated>
   </versioning>
 </metadata>
