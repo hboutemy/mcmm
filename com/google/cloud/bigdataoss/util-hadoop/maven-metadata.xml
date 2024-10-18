@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.bigdataoss</groupId>
   <artifactId>util-hadoop</artifactId>
   <versioning>
-    <latest>3.0.2</latest>
-    <release>3.0.2</release>
+    <latest>3.0.3</latest>
+    <release>3.0.3</release>
     <versions>
       <version>hadoop1-1.9.5</version>
       <version>hadoop1-1.9.6</version>
@@ -199,7 +199,8 @@
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
+      <version>3.0.3</version>
     </versions>
-    <lastUpdated>20240806102651</lastUpdated>
+    <lastUpdated>20241017061915</lastUpdated>
   </versioning>
 </metadata>

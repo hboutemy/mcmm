@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-weld-parent</artifactId>
   <versioning>
-    <latest>34.0.0.Beta1</latest>
-    <release>34.0.0.Beta1</release>
+    <latest>34.0.0.Final</latest>
+    <release>34.0.0.Final</release>
     <versions>
       <version>11.0.0.Alpha1</version>
       <version>11.0.0.Beta1</version>
@@ -92,7 +92,8 @@
       <version>33.0.1.Final</version>
       <version>33.0.2.Final</version>
       <version>34.0.0.Beta1</version>
+      <version>34.0.0.Final</version>
     </versions>
-    <lastUpdated>20240925161817</lastUpdated>
+    <lastUpdated>20241017135552</lastUpdated>
   </versioning>
 </metadata>

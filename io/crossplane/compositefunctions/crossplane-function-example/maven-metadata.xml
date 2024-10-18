@@ -3,18 +3,20 @@
   <groupId>io.crossplane.compositefunctions</groupId>
   <artifactId>crossplane-function-example</artifactId>
   <versioning>
-    <latest>1.17.0-beta</latest>
-    <release>1.17.0-beta</release>
+    <latest>1.17.0-charlie</latest>
+    <release>1.17.0-charlie</release>
     <versions>
       <version>1.15.0-delta</version>
       <version>v1.15.0-echo</version>
       <version>1.15.0-echo</version>
       <version>1.17.0-alpha</version>
       <version>1.17.0-beta</version>
+      <version>1.17.0-charlie</version>
       <version>1.15.0-beta</version>
       <version>1.15.0-charlie</version>
+      <version>1.17.0-delta</version>
       <version>=1.15.0-alpha</version>
     </versions>
-    <lastUpdated>20241011132809</lastUpdated>
+    <lastUpdated>20241017131433</lastUpdated>
   </versioning>
 </metadata>

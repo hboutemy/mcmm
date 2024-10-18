@@ -4,7 +4,7 @@
   <artifactId>keycloak-dependencies-server-all</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>26.0.0</release>
+    <release>26.0.1</release>
     <versions>
       <version>1.0-beta-4</version>
       <version>1.0-rc-1</version>
@@ -176,8 +176,9 @@
       <version>25.0.5</version>
       <version>25.0.6</version>
       <version>26.0.0</version>
+      <version>26.0.1</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20241004065301</lastUpdated>
+    <lastUpdated>20241017132921</lastUpdated>
   </versioning>
 </metadata>

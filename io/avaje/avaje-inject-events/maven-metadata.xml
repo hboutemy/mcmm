@@ -3,8 +3,8 @@
   <groupId>io.avaje</groupId>
   <artifactId>avaje-inject-events</artifactId>
   <versioning>
-    <latest>10.4</latest>
-    <release>10.4</release>
+    <latest>10.4-javax</latest>
+    <release>10.4-javax</release>
     <versions>
       <version>10.0-RC6</version>
       <version>10.0-RC7</version>
@@ -24,7 +24,8 @@
       <version>10.3-javax</version>
       <version>10.4-RC1</version>
       <version>10.4</version>
+      <version>10.4-javax</version>
     </versions>
-    <lastUpdated>20240915073458</lastUpdated>
+    <lastUpdated>20241017055108</lastUpdated>
   </versioning>
 </metadata>

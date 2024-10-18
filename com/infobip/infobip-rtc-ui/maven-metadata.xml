@@ -3,8 +3,8 @@
   <groupId>com.infobip</groupId>
   <artifactId>infobip-rtc-ui</artifactId>
   <versioning>
-    <latest>13.0.1</latest>
-    <release>13.0.1</release>
+    <latest>13.0.2-rc2</latest>
+    <release>13.0.2-rc2</release>
     <versions>
       <version>1.11.1</version>
       <version>1.11.2</version>
@@ -82,7 +82,9 @@
       <version>13.0.0</version>
       <version>13.0.X</version>
       <version>13.0.1</version>
+      <version>13.0.2-rc</version>
+      <version>13.0.2-rc2</version>
     </versions>
-    <lastUpdated>20241016152948</lastUpdated>
+    <lastUpdated>20241017134601</lastUpdated>
   </versioning>
 </metadata>

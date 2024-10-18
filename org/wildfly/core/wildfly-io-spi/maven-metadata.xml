@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-io-spi</artifactId>
   <versioning>
-    <latest>26.0.0.Final</latest>
-    <release>26.0.0.Final</release>
+    <latest>26.0.1.Final</latest>
+    <release>26.0.1.Final</release>
     <versions>
       <version>24.0.0.Final</version>
       <version>24.0.1.Final</version>
@@ -22,7 +22,8 @@
       <version>26.0.0.Beta4</version>
       <version>26.0.0.Beta5</version>
       <version>26.0.0.Final</version>
+      <version>26.0.1.Final</version>
     </versions>
-    <lastUpdated>20241007085339</lastUpdated>
+    <lastUpdated>20241016220507</lastUpdated>
   </versioning>
 </metadata>
