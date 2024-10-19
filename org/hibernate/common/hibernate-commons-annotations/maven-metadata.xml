@@ -3,8 +3,8 @@
   <groupId>org.hibernate.common</groupId>
   <artifactId>hibernate-commons-annotations</artifactId>
   <versioning>
-    <latest>7.0.1.Final</latest>
-    <release>7.0.1.Final</release>
+    <latest>7.0.2.Final</latest>
+    <release>7.0.2.Final</release>
     <versions>
       <version>5.1.1.Final</version>
       <version>5.1.2.Final</version>
@@ -19,6 +19,7 @@
       <version>6.0.6.Final</version>
       <version>7.0.0.Final</version>
       <version>7.0.1.Final</version>
+      <version>7.0.2.Final</version>
       <version>4.0.0.CR1</version>
       <version>4.0.0.CR2</version>
       <version>4.0.0.Final</version>
@@ -35,6 +36,6 @@
       <version>5.0.5.Final</version>
       <version>5.1.0.Final</version>
     </versions>
-    <lastUpdated>20240611214454</lastUpdated>
+    <lastUpdated>20241018144551</lastUpdated>
   </versioning>
 </metadata>

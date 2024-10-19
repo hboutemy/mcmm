@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-jpaserver-base</artifactId>
   <versioning>
-    <latest>7.4.3</latest>
-    <release>7.4.3</release>
+    <latest>7.4.4</latest>
+    <release>7.4.4</release>
     <versions>
       <version>0.9</version>
       <version>1.0</version>
@@ -119,7 +119,8 @@
       <version>7.4.0</version>
       <version>7.4.2</version>
       <version>7.4.3</version>
+      <version>7.4.4</version>
     </versions>
-    <lastUpdated>20240930204527</lastUpdated>
+    <lastUpdated>20241018232352</lastUpdated>
   </versioning>
 </metadata>
