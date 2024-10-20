@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-aws</artifactId>
   <versioning>
-    <latest>4.0.0.0</latest>
-    <release>4.0.0.0</release>
+    <latest>4.0.0.1</latest>
+    <release>4.0.0.1</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -706,6 +706,7 @@
       <version>3.0.6.6</version>
       <version>3.0.6.7</version>
       <version>3.0.6.8</version>
+      <version>3.0.7.1</version>
       <version>3.1.0.1</version>
       <version>3.1.0.2</version>
       <version>3.1.0.3</version>
@@ -753,7 +754,8 @@
       <version>3.4.0-SNAPSHOT.ursa0815</version>
       <version>4.0.0-SNAPSHOT.ursa</version>
       <version>4.0.0.0</version>
+      <version>4.0.0.1</version>
     </versions>
-    <lastUpdated>20241017053049</lastUpdated>
+    <lastUpdated>20241019132031</lastUpdated>
   </versioning>
 </metadata>
