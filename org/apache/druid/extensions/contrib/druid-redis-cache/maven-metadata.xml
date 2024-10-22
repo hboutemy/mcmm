@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions.contrib</groupId>
   <artifactId>druid-redis-cache</artifactId>
   <versioning>
-    <latest>30.0.1</latest>
-    <release>30.0.1</release>
+    <latest>31.0.0</latest>
+    <release>31.0.0</release>
     <versions>
       <version>0.13.0-incubating</version>
       <version>0.14.0-incubating</version>
@@ -38,7 +38,8 @@
       <version>29.0.0</version>
       <version>30.0.0</version>
       <version>30.0.1</version>
+      <version>31.0.0</version>
     </versions>
-    <lastUpdated>20240916034323</lastUpdated>
+    <lastUpdated>20241021164843</lastUpdated>
   </versioning>
 </metadata>

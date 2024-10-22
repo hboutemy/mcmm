@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>blueprint</artifactId>
   <versioning>
-    <latest>10.0.3</latest>
-    <release>10.0.3</release>
+    <latest>10.0.4</latest>
+    <release>10.0.4</release>
     <versions>
       <version>0.5.0-Boron</version>
       <version>0.5.1-Boron-SR1</version>
@@ -137,7 +137,8 @@
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>10.0.3</version>
+      <version>10.0.4</version>
     </versions>
-    <lastUpdated>20241018144827</lastUpdated>
+    <lastUpdated>20241021215244</lastUpdated>
   </versioning>
 </metadata>

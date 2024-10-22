@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-crypto</artifactId>
   <versioning>
-    <latest>6.3.3</latest>
-    <release>6.3.3</release>
+    <latest>6.3.4</latest>
+    <release>6.3.4</release>
     <versions>
       <version>3.1.0.RELEASE</version>
       <version>3.1.1.RELEASE</version>
@@ -168,6 +168,7 @@
       <version>5.7.10</version>
       <version>5.7.11</version>
       <version>5.7.12</version>
+      <version>5.7.13</version>
       <version>5.8.0</version>
       <version>5.8.1</version>
       <version>5.8.2</version>
@@ -182,6 +183,7 @@
       <version>5.8.11</version>
       <version>5.8.12</version>
       <version>5.8.13</version>
+      <version>5.8.15</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -208,11 +210,13 @@
       <version>6.2.4</version>
       <version>6.2.5</version>
       <version>6.2.6</version>
+      <version>6.2.7</version>
       <version>6.3.0</version>
       <version>6.3.1</version>
       <version>6.3.2</version>
       <version>6.3.3</version>
+      <version>6.3.4</version>
     </versions>
-    <lastUpdated>20240821161401</lastUpdated>
+    <lastUpdated>20241021174706</lastUpdated>
   </versioning>
 </metadata>
