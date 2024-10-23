@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Byte Code Update Maven Plugin</name>
+      <prefix>bytecode-update</prefix>
+      <artifactId>bytecode-update-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

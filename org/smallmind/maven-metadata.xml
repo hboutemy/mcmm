@@ -7,6 +7,11 @@
       <artifactId>maven-jaxws-mojo</artifactId>
     </plugin>
     <plugin>
+      <name>schema-validation-maven-plugin</name>
+      <prefix>schema-validation</prefix>
+      <artifactId>schema-validation-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Schema-Validation-Plugin</name>
       <prefix>schema-validation</prefix>
       <artifactId>schema-validation-plugin</artifactId>
@@ -15,6 +20,11 @@
       <name>Smallmind-JavaFX-Mojo</name>
       <prefix>smallmind-javafx-mojo</prefix>
       <artifactId>smallmind-javafx-mojo</artifactId>
+    </plugin>
+    <plugin>
+      <name>License</name>
+      <prefix>smallmind-license</prefix>
+      <artifactId>smallmind-license-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>License</name>

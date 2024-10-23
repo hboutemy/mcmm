@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>cloud-tenant-cd</artifactId>
   <versioning>
-    <latest>8.426.8</latest>
-    <release>8.426.8</release>
+    <latest>8.428.5</latest>
+    <release>8.428.5</release>
     <versions>
       <version>7.237.14</version>
       <version>7.238.12</version>
@@ -596,7 +596,9 @@
       <version>8.424.11</version>
       <version>8.425.13</version>
       <version>8.426.8</version>
+      <version>8.427.34</version>
+      <version>8.428.5</version>
     </versions>
-    <lastUpdated>20241017110056</lastUpdated>
+    <lastUpdated>20241022114333</lastUpdated>
   </versioning>
 </metadata>
