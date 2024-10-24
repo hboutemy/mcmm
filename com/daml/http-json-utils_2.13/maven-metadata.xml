@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>http-json-utils_2.13</artifactId>
   <versioning>
-    <latest>3.2.0-adhoc.20241021.13367.0.vfac3fe4a</latest>
-    <release>3.2.0-adhoc.20241021.13367.0.vfac3fe4a</release>
+    <latest>3.2.0-adhoc.20241022.13368.0.vcd5fbc53</latest>
+    <release>3.2.0-adhoc.20241022.13368.0.vcd5fbc53</release>
     <versions>
       <version>0.0.0</version>
       <version>1.11.0-snapshot.20210217.6338.0.ba6ba901</version>
@@ -967,6 +967,7 @@
       <version>2.10.0-snapshot.20241017.13013.0.vfdb00602</version>
       <version>2.10.0-snapshot.20241018.13016.0.v3621b0df</version>
       <version>2.10.0-snapshot.20241021.13017.0.vfac10709</version>
+      <version>2.10.0-snapshot.20241022.13020.0.v61dad494</version>
       <version>2.10.0-adhoc.20240830.12942.0.v3e4e9451</version>
       <version>2.10.0-adhoc.20240926.12977.0.vf09a26b8</version>
       <version>2.10.0-adhoc.20240930.12985.0.v0bdf66d5</version>
@@ -1179,9 +1180,11 @@
       <version>3.2.0-snapshot.20241016.13356.0.v9758b97f</version>
       <version>3.2.0-snapshot.20241018.13363.0.v6c393cb8</version>
       <version>3.2.0-snapshot.20241021.13365.0.v3f43ae4e</version>
+      <version>3.2.0-snapshot.20241022.13369.0.vbfd1215d</version>
       <version>3.2.0-adhoc.20240826.13247.0.v8d88a081</version>
       <version>3.2.0-adhoc.20241021.13367.0.vfac3fe4a</version>
+      <version>3.2.0-adhoc.20241022.13368.0.vcd5fbc53</version>
     </versions>
-    <lastUpdated>20241022131331</lastUpdated>
+    <lastUpdated>20241023122452</lastUpdated>
   </versioning>
 </metadata>

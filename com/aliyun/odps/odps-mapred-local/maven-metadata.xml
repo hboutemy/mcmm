@@ -3,8 +3,8 @@
   <groupId>com.aliyun.odps</groupId>
   <artifactId>odps-mapred-local</artifactId>
   <versioning>
-    <latest>0.50.1-public</latest>
-    <release>0.50.1-public</release>
+    <latest>0.50.3-public</latest>
+    <release>0.50.3-public</release>
     <versions>
       <version>0.24.0-public</version>
       <version>0.26.2-public</version>
@@ -68,7 +68,9 @@
       <version>0.50.0-rc1</version>
       <version>0.50.0-public</version>
       <version>0.50.1-public</version>
+      <version>0.50.2-public</version>
+      <version>0.50.3-public</version>
     </versions>
-    <lastUpdated>20241011022802</lastUpdated>
+    <lastUpdated>20241023093815</lastUpdated>
   </versioning>
 </metadata>
