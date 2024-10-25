@@ -7,6 +7,11 @@
       <artifactId>adt-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>dgs-codegen-maven-plugin</name>
+      <prefix>dgs-codegen</prefix>
+      <artifactId>dgs-codegen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Docker Compose Maven Plugin</name>
       <prefix>docker-compose</prefix>
       <artifactId>docker-compose-maven-plugin</artifactId>

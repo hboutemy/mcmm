@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-azure-servicebus-starter</artifactId>
   <versioning>
-    <latest>4.8.0</latest>
-    <release>4.8.0</release>
+    <latest>4.8.1</latest>
+    <release>4.8.1</release>
     <versions>
       <version>3.12.0</version>
       <version>3.13.0</version>
@@ -75,7 +75,8 @@
       <version>4.6.0</version>
       <version>4.7.0</version>
       <version>4.8.0</version>
+      <version>4.8.1</version>
     </versions>
-    <lastUpdated>20241021113111</lastUpdated>
+    <lastUpdated>20241024135206</lastUpdated>
   </versioning>
 </metadata>

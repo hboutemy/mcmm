@@ -3,8 +3,8 @@
   <groupId>io.smallrye</groupId>
   <artifactId>smallrye-fault-tolerance-autoconfig-processor</artifactId>
   <versioning>
-    <latest>6.5.0</latest>
-    <release>6.5.0</release>
+    <latest>6.6.0</latest>
+    <release>6.6.0</release>
     <versions>
       <version>5.2.0</version>
       <version>5.2.1</version>
@@ -34,7 +34,9 @@
       <version>6.4.0</version>
       <version>6.4.1</version>
       <version>6.5.0</version>
+      <version>6.6.0-RC2</version>
+      <version>6.6.0</version>
     </versions>
-    <lastUpdated>20241011113136</lastUpdated>
+    <lastUpdated>20241024151147</lastUpdated>
   </versioning>
 </metadata>

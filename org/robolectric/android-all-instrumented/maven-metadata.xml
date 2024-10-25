@@ -3,8 +3,8 @@
   <groupId>org.robolectric</groupId>
   <artifactId>android-all-instrumented</artifactId>
   <versioning>
-    <latest>14-robolectric-10818077-i6</latest>
-    <release>14-robolectric-10818077-i6</release>
+    <latest>15-robolectric-12543294-i7</latest>
+    <release>15-robolectric-12543294-i7</release>
     <versions>
       <version>4.1.2_r1-robolectric-r1-i1</version>
       <version>4.1.2_r1-robolectric-r1-i2</version>
@@ -30,75 +30,90 @@
       <version>5.0.2_r3-robolectric-r0-i4</version>
       <version>5.0.2_r3-robolectric-r0-i5</version>
       <version>5.0.2_r3-robolectric-r0-i6</version>
+      <version>5.0.2_r3-robolectric-r0-i7</version>
       <version>5.1.1_r9-robolectric-r2-i1</version>
       <version>5.1.1_r9-robolectric-r2-i2</version>
       <version>5.1.1_r9-robolectric-r2-i3</version>
       <version>5.1.1_r9-robolectric-r2-i4</version>
       <version>5.1.1_r9-robolectric-r2-i5</version>
       <version>5.1.1_r9-robolectric-r2-i6</version>
+      <version>5.1.1_r9-robolectric-r2-i7</version>
       <version>6.0.1_r3-robolectric-r1-i1</version>
       <version>6.0.1_r3-robolectric-r1-i2</version>
       <version>6.0.1_r3-robolectric-r1-i3</version>
       <version>6.0.1_r3-robolectric-r1-i4</version>
       <version>6.0.1_r3-robolectric-r1-i5</version>
       <version>6.0.1_r3-robolectric-r1-i6</version>
+      <version>6.0.1_r3-robolectric-r1-i7</version>
       <version>7.0.0_r1-robolectric-r1-i1</version>
       <version>7.0.0_r1-robolectric-r1-i2</version>
       <version>7.0.0_r1-robolectric-r1-i3</version>
       <version>7.0.0_r1-robolectric-r1-i4</version>
       <version>7.0.0_r1-robolectric-r1-i5</version>
       <version>7.0.0_r1-robolectric-r1-i6</version>
+      <version>7.0.0_r1-robolectric-r1-i7</version>
       <version>7.1.0_r7-robolectric-r1-i1</version>
       <version>7.1.0_r7-robolectric-r1-i2</version>
       <version>7.1.0_r7-robolectric-r1-i3</version>
       <version>7.1.0_r7-robolectric-r1-i4</version>
       <version>7.1.0_r7-robolectric-r1-i5</version>
       <version>7.1.0_r7-robolectric-r1-i6</version>
+      <version>7.1.0_r7-robolectric-r1-i7</version>
       <version>8.0.0_r4-robolectric-r1-i1</version>
       <version>8.0.0_r4-robolectric-r1-i2</version>
       <version>8.0.0_r4-robolectric-r1-i3</version>
       <version>8.0.0_r4-robolectric-r1-i4</version>
       <version>8.0.0_r4-robolectric-r1-i5</version>
       <version>8.0.0_r4-robolectric-r1-i6</version>
+      <version>8.0.0_r4-robolectric-r1-i7</version>
       <version>8.1.0-robolectric-4611349-i1</version>
       <version>8.1.0-robolectric-4611349-i2</version>
       <version>8.1.0-robolectric-4611349-i3</version>
       <version>8.1.0-robolectric-4611349-i4</version>
       <version>8.1.0-robolectric-4611349-i5</version>
       <version>8.1.0-robolectric-4611349-i6</version>
+      <version>8.1.0-robolectric-4611349-i7</version>
       <version>9-robolectric-4913185-2-i1</version>
       <version>9-robolectric-4913185-2-i2</version>
       <version>9-robolectric-4913185-2-i3</version>
       <version>9-robolectric-4913185-2-i4</version>
       <version>9-robolectric-4913185-2-i5</version>
       <version>9-robolectric-4913185-2-i6</version>
+      <version>9-robolectric-4913185-2-i7</version>
       <version>10-robolectric-5803371-i1</version>
       <version>10-robolectric-5803371-i2</version>
       <version>10-robolectric-5803371-i3</version>
       <version>10-robolectric-5803371-i4</version>
       <version>10-robolectric-5803371-i5</version>
       <version>10-robolectric-5803371-i6</version>
+      <version>10-robolectric-5803371-i7</version>
       <version>11-robolectric-6757853-i1</version>
       <version>11-robolectric-6757853-i2</version>
       <version>11-robolectric-6757853-i3</version>
       <version>11-robolectric-6757853-i4</version>
       <version>11-robolectric-6757853-i5</version>
       <version>11-robolectric-6757853-i6</version>
+      <version>11-robolectric-6757853-i7</version>
       <version>12-robolectric-7732740-i2</version>
       <version>12-robolectric-7732740-i3</version>
       <version>12-robolectric-7732740-i4</version>
       <version>12-robolectric-7732740-i5</version>
       <version>12-robolectric-7732740-i6</version>
+      <version>12-robolectric-7732740-i7</version>
       <version>12.1-robolectric-8229987-i4</version>
       <version>12.1-robolectric-8229987-i5</version>
       <version>12.1-robolectric-8229987-i6</version>
+      <version>12.1-robolectric-8229987-i7</version>
       <version>13-robolectric-9030017-i4</version>
       <version>13-robolectric-9030017-i5</version>
       <version>13-robolectric-9030017-i6</version>
+      <version>13-robolectric-9030017-i7</version>
       <version>14-robolectric-10818077-i4</version>
       <version>14-robolectric-10818077-i5</version>
       <version>14-robolectric-10818077-i6</version>
+      <version>14-robolectric-10818077-i7</version>
+      <version>15-robolectric-12543294-i7</version>
     </versions>
-    <lastUpdated>20240329202731</lastUpdated>
+    <lastUpdated>20241024163957</lastUpdated>
   </versioning>
 </metadata>

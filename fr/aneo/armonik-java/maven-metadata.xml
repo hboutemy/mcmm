@@ -3,11 +3,12 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.21.1-ddcimockcsharp.60.f5d0fee</latest>
-    <release>3.21.1-ddcimockcsharp.60.f5d0fee</release>
+    <latest>3.21.1-edge.52.513d76b</latest>
+    <release>3.21.1-edge.52.513d76b</release>
     <versions>
-      <version>3.21.1-ddcimockcsharp.60.f5d0fee</version>
-      <version>3.21.1-ddcimockcsharp.60.a2fa7f1</version>
+      <version>3.21.1-ddcimockcsharp.60.7475f50</version>
+      <version>3.21.1-ddcimockcsharp.60.5e131be</version>
+      <version>3.21.1-edge.52.513d76b</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -71,20 +72,28 @@
       <version>3.21.1-ddcimockcsharp.59.e191590</version>
       <version>3.21.1-ddcimockcsharp.60.003c637</version>
       <version>3.21.1-ddcimockcsharp.60.0237ea8</version>
+      <version>3.21.1-ddcimockcsharp.60.035e8cf</version>
+      <version>3.21.1-ddcimockcsharp.60.070c2c0</version>
+      <version>3.21.1-ddcimockcsharp.60.07644f7</version>
       <version>3.21.1-ddcimockcsharp.60.0a55a6c</version>
       <version>3.21.1-ddcimockcsharp.60.0a6e6cf</version>
       <version>3.21.1-ddcimockcsharp.60.0cc2f2b</version>
       <version>3.21.1-ddcimockcsharp.60.0d33855</version>
+      <version>3.21.1-ddcimockcsharp.60.0dc6694</version>
       <version>3.21.1-ddcimockcsharp.60.15187f3</version>
       <version>3.21.1-ddcimockcsharp.60.186035a</version>
       <version>3.21.1-ddcimockcsharp.60.1aee53d</version>
       <version>3.21.1-ddcimockcsharp.60.1b8c20e</version>
+      <version>3.21.1-ddcimockcsharp.60.1edf8d1</version>
       <version>3.21.1-ddcimockcsharp.60.1f3de98</version>
       <version>3.21.1-ddcimockcsharp.60.2261202</version>
+      <version>3.21.1-ddcimockcsharp.60.2862530</version>
       <version>3.21.1-ddcimockcsharp.60.2a83ca5</version>
       <version>3.21.1-ddcimockcsharp.60.2b70c19</version>
       <version>3.21.1-ddcimockcsharp.60.2c9cd22</version>
       <version>3.21.1-ddcimockcsharp.60.2fa8b07</version>
+      <version>3.21.1-ddcimockcsharp.60.30c6d64</version>
+      <version>3.21.1-ddcimockcsharp.60.32a3965</version>
       <version>3.21.1-ddcimockcsharp.60.32e34f5</version>
       <version>3.21.1-ddcimockcsharp.60.338c3d6</version>
       <version>3.21.1-ddcimockcsharp.60.33bdc67</version>
@@ -102,6 +111,7 @@
       <version>3.21.1-ddcimockcsharp.60.5b43b95</version>
       <version>3.21.1-ddcimockcsharp.60.5d553c0</version>
       <version>3.21.1-ddcimockcsharp.60.62d6fb1</version>
+      <version>3.21.1-ddcimockcsharp.60.665014a</version>
       <version>3.21.1-ddcimockcsharp.60.6682d45</version>
       <version>3.21.1-ddcimockcsharp.60.66a6013</version>
       <version>3.21.1-ddcimockcsharp.60.6b0760a</version>
@@ -109,12 +119,16 @@
       <version>3.21.1-ddcimockcsharp.60.6e0caab</version>
       <version>3.21.1-ddcimockcsharp.60.70eaf52</version>
       <version>3.21.1-ddcimockcsharp.60.7210ec2</version>
+      <version>3.21.1-ddcimockcsharp.60.72835ab</version>
       <version>3.21.1-ddcimockcsharp.60.72cf5ae</version>
       <version>3.21.1-ddcimockcsharp.60.738b5c1</version>
+      <version>3.21.1-ddcimockcsharp.60.745338f</version>
       <version>3.21.1-ddcimockcsharp.60.75f5c40</version>
       <version>3.21.1-ddcimockcsharp.60.76a3c1f</version>
       <version>3.21.1-ddcimockcsharp.60.773c5ae</version>
+      <version>3.21.1-ddcimockcsharp.60.77f2f82</version>
       <version>3.21.1-ddcimockcsharp.60.7b57d63</version>
+      <version>3.21.1-ddcimockcsharp.60.7d8eae1</version>
       <version>3.21.1-ddcimockcsharp.60.80451b5</version>
       <version>3.21.1-ddcimockcsharp.60.81eaf8a</version>
       <version>3.21.1-ddcimockcsharp.60.8814ad8</version>
@@ -126,29 +140,48 @@
       <version>3.21.1-ddcimockcsharp.60.9b18435</version>
       <version>3.21.1-ddcimockcsharp.60.9d06fe8</version>
       <version>3.21.1-ddcimockcsharp.60.9d0d84c</version>
+      <version>3.21.1-ddcimockcsharp.60.9e57649</version>
+      <version>3.21.1-ddcimockcsharp.60.9f0e277</version>
       <version>3.21.1-ddcimockcsharp.60.a00c46f</version>
+      <version>3.21.1-ddcimockcsharp.60.a2fa7f1</version>
+      <version>3.21.1-ddcimockcsharp.60.a6f6e20</version>
       <version>3.21.1-ddcimockcsharp.60.a91466b</version>
+      <version>3.21.1-ddcimockcsharp.60.a9b76ea</version>
       <version>3.21.1-ddcimockcsharp.60.ab10f38</version>
       <version>3.21.1-ddcimockcsharp.60.ac1a58e</version>
+      <version>3.21.1-ddcimockcsharp.60.ae24d30</version>
+      <version>3.21.1-ddcimockcsharp.60.ae8ab1c</version>
       <version>3.21.1-ddcimockcsharp.60.b0d7f5f</version>
+      <version>3.21.1-ddcimockcsharp.60.b10fb8c</version>
       <version>3.21.1-ddcimockcsharp.60.b118ad9</version>
       <version>3.21.1-ddcimockcsharp.60.b5558d1</version>
+      <version>3.21.1-ddcimockcsharp.60.b73877b</version>
       <version>3.21.1-ddcimockcsharp.60.be2fd52</version>
+      <version>3.21.1-ddcimockcsharp.60.be74857</version>
+      <version>3.21.1-ddcimockcsharp.60.bef9353</version>
+      <version>3.21.1-ddcimockcsharp.60.c10e363</version>
       <version>3.21.1-ddcimockcsharp.60.c2e36d8</version>
       <version>3.21.1-ddcimockcsharp.60.c336ef8</version>
+      <version>3.21.1-ddcimockcsharp.60.c5228c1</version>
       <version>3.21.1-ddcimockcsharp.60.c6b6551</version>
       <version>3.21.1-ddcimockcsharp.60.cb2a770</version>
+      <version>3.21.1-ddcimockcsharp.60.ceec31b</version>
       <version>3.21.1-ddcimockcsharp.60.d30056e</version>
       <version>3.21.1-ddcimockcsharp.60.d4a7807</version>
       <version>3.21.1-ddcimockcsharp.60.dd29b53</version>
+      <version>3.21.1-ddcimockcsharp.60.ddf3d40</version>
+      <version>3.21.1-ddcimockcsharp.60.e0b9044</version>
       <version>3.21.1-ddcimockcsharp.60.e8696e5</version>
       <version>3.21.1-ddcimockcsharp.60.e978930</version>
+      <version>3.21.1-ddcimockcsharp.60.eaf1b8e</version>
       <version>3.21.1-ddcimockcsharp.60.ebbb5bd</version>
       <version>3.21.1-ddcimockcsharp.60.ebd5873</version>
       <version>3.21.1-ddcimockcsharp.60.f134a88</version>
       <version>3.21.1-ddcimockcsharp.60.f481af1</version>
+      <version>3.21.1-ddcimockcsharp.60.f5d0fee</version>
       <version>3.21.1-ddcimockcsharp.60.f72b84c</version>
       <version>3.21.1-ddcimockcsharp.60.fc3ce92</version>
+      <version>3.21.1-ddcimockcsharp.60.fd55ab5</version>
       <version>3.21.1-ddcimockcsharp.60.ffd17b7</version>
       <version>3.21.1-ddcimockcsharp.61.15c331a</version>
       <version>3.21.1-ddcimockcsharp.61.2552510</version>
@@ -253,6 +286,6 @@
       <version>3.21.1-tspythonapidocupdate.22.a33f5d0</version>
       <version>3.21.1-tspythonapidocupdate.22.d564ad3</version>
     </versions>
-    <lastUpdated>20241023163246</lastUpdated>
+    <lastUpdated>20241024151605</lastUpdated>
   </versioning>
 </metadata>
