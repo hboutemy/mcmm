@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-hana</artifactId>
   <versioning>
-    <latest>8.7.2-20241022</latest>
-    <release>8.7.2-20241022</release>
+    <latest>8.7.2-20241025</latest>
+    <release>8.7.2-20241025</release>
     <versions>
       <version>8.6.5-jdk17-20230812</version>
       <version>8.6.5-jdk17-20230815</version>
@@ -271,6 +271,7 @@
       <version>8.7.2-jdk21-20241016</version>
       <version>8.7.2-jdk21-20241018</version>
       <version>8.7.2-jdk21-20241022</version>
+      <version>8.7.2-jdk21-20241025</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -359,7 +360,8 @@
       <version>8.7.2-20241016</version>
       <version>8.7.2-20241018</version>
       <version>8.7.2-20241022</version>
+      <version>8.7.2-20241025</version>
     </versions>
-    <lastUpdated>20241022111547</lastUpdated>
+    <lastUpdated>20241025092330</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.aeron</groupId>
   <artifactId>aeron-archive</artifactId>
   <versioning>
-    <latest>1.46.6</latest>
-    <release>1.46.6</release>
+    <latest>1.46.7</latest>
+    <release>1.46.7</release>
     <versions>
       <version>1.4.1</version>
       <version>1.5.0</version>
@@ -89,6 +89,7 @@
       <version>1.44.2</version>
       <version>1.44.3</version>
       <version>1.44.4</version>
+      <version>1.44.5</version>
       <version>1.45.0</version>
       <version>1.45.1</version>
       <version>1.46.0</version>
@@ -98,7 +99,8 @@
       <version>1.46.4</version>
       <version>1.46.5</version>
       <version>1.46.6</version>
+      <version>1.46.7</version>
     </versions>
-    <lastUpdated>20241024124018</lastUpdated>
+    <lastUpdated>20241025141129</lastUpdated>
   </versioning>
 </metadata>

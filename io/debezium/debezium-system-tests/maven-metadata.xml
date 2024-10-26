@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-system-tests</artifactId>
   <versioning>
-    <latest>3.0.0.Final</latest>
-    <release>3.0.0.Final</release>
+    <latest>3.0.1.Final</latest>
+    <release>3.0.1.Final</release>
     <versions>
       <version>2.6.1.Final</version>
       <version>2.6.2.Final</version>
@@ -22,7 +22,8 @@
       <version>3.0.0.CR1</version>
       <version>3.0.0.CR2</version>
       <version>3.0.0.Final</version>
+      <version>3.0.1.Final</version>
     </versions>
-    <lastUpdated>20241002102614</lastUpdated>
+    <lastUpdated>20241025105959</lastUpdated>
   </versioning>
 </metadata>
