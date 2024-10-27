@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-merchantapi</artifactId>
   <versioning>
-    <latest>reports_v1beta-rev20240827-2.0.0</latest>
-    <release>reports_v1beta-rev20240827-2.0.0</release>
+    <latest>reviews_v1beta-rev20241022-2.0.0</latest>
+    <release>reviews_v1beta-rev20241022-2.0.0</release>
     <versions>
       <version>accounts_v1beta-rev20240611-2.0.0</version>
       <version>accounts_v1beta-rev20240709-2.0.0</version>
@@ -19,32 +19,43 @@
       <version>accounts_v1beta-rev20240916-2.0.0</version>
       <version>accounts_v1beta-rev20240930-2.0.0</version>
       <version>accounts_v1beta-rev20241004-2.0.0</version>
+      <version>accounts_v1beta-rev20241023-2.0.0</version>
       <version>conversions_v1beta-rev20240611-2.0.0</version>
       <version>conversions_v1beta-rev20240827-2.0.0</version>
       <version>conversions_v1beta-rev20241001-2.0.0</version>
+      <version>conversions_v1beta-rev20241023-2.0.0</version>
       <version>datasources_v1beta-rev20240611-2.0.0</version>
       <version>datasources_v1beta-rev20240719-2.0.0</version>
       <version>datasources_v1beta-rev20240827-2.0.0</version>
       <version>datasources_v1beta-rev20240909-2.0.0</version>
+      <version>datasources_v1beta-rev20241022-2.0.0</version>
       <version>inventories_v1beta-rev20240611-2.0.0</version>
       <version>inventories_v1beta-rev20240827-2.0.0</version>
+      <version>inventories_v1beta-rev20241022-2.0.0</version>
       <version>lfp_v1beta-rev20240611-2.0.0</version>
       <version>lfp_v1beta-rev20240827-2.0.0</version>
+      <version>lfp_v1beta-rev20241023-2.0.0</version>
       <version>notifications_v1beta-rev20240611-2.0.0</version>
       <version>notifications_v1beta-rev20240827-2.0.0</version>
       <version>notifications_v1beta-rev20240930-2.0.0</version>
+      <version>notifications_v1beta-rev20241022-2.0.0</version>
       <version>products_v1beta-rev20240611-2.0.0</version>
       <version>products_v1beta-rev20240719-2.0.0</version>
       <version>products_v1beta-rev20240827-2.0.0</version>
       <version>products_v1beta-rev20240916-2.0.0</version>
       <version>products_v1beta-rev20241001-2.0.0</version>
+      <version>products_v1beta-rev20241022-2.0.0</version>
       <version>promotions_v1beta-rev20240611-2.0.0</version>
       <version>promotions_v1beta-rev20240827-2.0.0</version>
+      <version>promotions_v1beta-rev20241022-2.0.0</version>
       <version>quota_v1beta-rev20240611-2.0.0</version>
       <version>quota_v1beta-rev20240827-2.0.0</version>
+      <version>quota_v1beta-rev20241022-2.0.0</version>
       <version>reports_v1beta-rev20240611-2.0.0</version>
       <version>reports_v1beta-rev20240827-2.0.0</version>
+      <version>reports_v1beta-rev20241022-2.0.0</version>
+      <version>reviews_v1beta-rev20241022-2.0.0</version>
     </versions>
-    <lastUpdated>20241012080313</lastUpdated>
+    <lastUpdated>20241026083548</lastUpdated>
   </versioning>
 </metadata>
