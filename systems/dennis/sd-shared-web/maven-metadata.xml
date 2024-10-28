@@ -3,9 +3,10 @@
   <groupId>systems.dennis</groupId>
   <artifactId>sd-shared-web</artifactId>
   <versioning>
-    <latest>3.5.5</latest>
-    <release>3.5.5</release>
+    <latest>3.5.7</latest>
+    <release>3.5.7</release>
     <versions>
+      <version>3.5.7</version>
       <version>2.0.2</version>
       <version>2.0.3</version>
       <version>2.1.0</version>
@@ -59,7 +60,9 @@
       <version>3.5.3</version>
       <version>3.5.4</version>
       <version>3.5.5</version>
+      <version>3.5.6</version>
+      <version>3.5.6-condition_fix</version>
     </versions>
-    <lastUpdated>20241022083051</lastUpdated>
+    <lastUpdated>20241027065334</lastUpdated>
   </versioning>
 </metadata>

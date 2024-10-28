@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-client-auth-athenz</artifactId>
   <versioning>
-    <latest>4.0.0.1</latest>
-    <release>4.0.0.1</release>
+    <latest>4.0.0.2</latest>
+    <release>4.0.0.2</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -755,7 +755,8 @@
       <version>4.0.0-SNAPSHOT.ursa</version>
       <version>4.0.0.0</version>
       <version>4.0.0.1</version>
+      <version>4.0.0.2</version>
     </versions>
-    <lastUpdated>20241019132015</lastUpdated>
+    <lastUpdated>20241027130541</lastUpdated>
   </versioning>
 </metadata>
