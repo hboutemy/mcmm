@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-oidc-model-auth-provider-parent</artifactId>
   <versioning>
-    <latest>0.20.3</latest>
-    <release>0.20.3</release>
+    <latest>0.21.0.CR1</latest>
+    <release>0.21.0.CR1</release>
     <versions>
       <version>0.16.1</version>
       <version>0.16.2</version>
@@ -25,7 +25,8 @@
       <version>0.20.1</version>
       <version>0.20.2</version>
       <version>0.20.3</version>
+      <version>0.21.0.CR1</version>
     </versions>
-    <lastUpdated>20241002152044</lastUpdated>
+    <lastUpdated>20241028122715</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-spanner-executor</artifactId>
   <versioning>
-    <latest>6.80.0</latest>
-    <release>6.80.0</release>
+    <latest>6.80.1</latest>
+    <release>6.80.1</release>
     <versions>
       <version>6.35.0</version>
       <version>6.35.1</version>
@@ -73,7 +73,8 @@
       <version>6.78.0</version>
       <version>6.79.0</version>
       <version>6.80.0</version>
+      <version>6.80.1</version>
     </versions>
-    <lastUpdated>20241025080734</lastUpdated>
+    <lastUpdated>20241028124054</lastUpdated>
   </versioning>
 </metadata>
