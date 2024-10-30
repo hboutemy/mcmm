@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-backup-store-common</artifactId>
   <versioning>
-    <latest>8.6.4</latest>
-    <release>8.6.4</release>
+    <latest>8.7.0-alpha1-rc1</latest>
+    <release>8.7.0-alpha1-rc1</release>
     <versions>
       <version>8.5.0-alpha2</version>
       <version>8.5.0-RC1</version>
@@ -42,7 +42,8 @@
       <version>8.6.2</version>
       <version>8.6.3</version>
       <version>8.6.4</version>
+      <version>8.7.0-alpha1-rc1</version>
     </versions>
-    <lastUpdated>20241028173400</lastUpdated>
+    <lastUpdated>20241029093454</lastUpdated>
   </versioning>
 </metadata>
