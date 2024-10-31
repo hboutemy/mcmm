@@ -4,7 +4,7 @@
   <artifactId>keycloak-util-embedded-ldap</artifactId>
   <versioning>
     <latest>18.0.2</latest>
-    <release>26.0.2</release>
+    <release>26.0.4</release>
     <versions>
       <version>1.4.0.Final</version>
       <version>1.5.0.Final</version>
@@ -160,8 +160,9 @@
       <version>26.0.0</version>
       <version>26.0.1</version>
       <version>26.0.2</version>
+      <version>26.0.4</version>
       <version>1.5.0-Final</version>
     </versions>
-    <lastUpdated>20241024074421</lastUpdated>
+    <lastUpdated>20241030092228</lastUpdated>
   </versioning>
 </metadata>

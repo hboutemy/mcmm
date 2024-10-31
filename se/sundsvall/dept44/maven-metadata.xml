@@ -5,5 +5,9 @@
       <prefix>dept44-build-tools</prefix>
       <artifactId>dept44-build-tools</artifactId>
     </plugin>
+    <plugin>
+      <prefix>dept44-formatting</prefix>
+      <artifactId>dept44-formatting-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

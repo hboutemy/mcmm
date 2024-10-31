@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>cypher-literal-interpreter</artifactId>
   <versioning>
-    <latest>5.24.2</latest>
-    <release>5.24.2</release>
+    <latest>5.25.1</latest>
+    <release>5.25.1</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -98,7 +98,8 @@
       <version>5.24.0</version>
       <version>5.24.1</version>
       <version>5.24.2</version>
+      <version>5.25.1</version>
     </versions>
-    <lastUpdated>20241015145424</lastUpdated>
+    <lastUpdated>20241030134343</lastUpdated>
   </versioning>
 </metadata>

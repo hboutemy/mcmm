@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-kernel-api</artifactId>
   <versioning>
-    <latest>5.24.2</latest>
-    <release>5.24.2</release>
+    <latest>5.25.1</latest>
+    <release>5.25.1</release>
     <versions>
       <version>3.3.0-alpha07</version>
       <version>3.3.0-beta01</version>
@@ -241,7 +241,8 @@
       <version>5.24.0</version>
       <version>5.24.1</version>
       <version>5.24.2</version>
+      <version>5.25.1</version>
     </versions>
-    <lastUpdated>20241015145641</lastUpdated>
+    <lastUpdated>20241030134542</lastUpdated>
   </versioning>
 </metadata>
