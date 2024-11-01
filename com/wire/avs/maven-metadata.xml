@@ -3,8 +3,8 @@
   <groupId>com.wire</groupId>
   <artifactId>avs</artifactId>
   <versioning>
-    <latest>9.10.14</latest>
-    <release>9.10.14</release>
+    <latest>9.10.16</latest>
+    <release>9.10.16</release>
     <versions>
       <version>7.1.140</version>
       <version>7.2.94</version>
@@ -183,6 +183,7 @@
       <version>9.9.6</version>
       <version>9.9.7</version>
       <version>9.9.8</version>
+      <version>9.9.10</version>
       <version>9.10.7</version>
       <version>9.10.8</version>
       <version>9.10.9</version>
@@ -191,7 +192,8 @@
       <version>9.10.12</version>
       <version>9.10.13</version>
       <version>9.10.14</version>
+      <version>9.10.16</version>
     </versions>
-    <lastUpdated>20241030125936</lastUpdated>
+    <lastUpdated>20241031122740</lastUpdated>
   </versioning>
 </metadata>

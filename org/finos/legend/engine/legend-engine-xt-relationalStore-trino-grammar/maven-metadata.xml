@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-trino-grammar</artifactId>
   <versioning>
-    <latest>4.64.1</latest>
-    <release>4.64.1</release>
+    <latest>4.65.0</latest>
+    <release>4.65.0</release>
     <versions>
       <version>4.4.4</version>
       <version>4.4.5</version>
@@ -160,7 +160,8 @@
       <version>4.63.1</version>
       <version>4.64.0</version>
       <version>4.64.1</version>
+      <version>4.65.0</version>
     </versions>
-    <lastUpdated>20241030164150</lastUpdated>
+    <lastUpdated>20241031130435</lastUpdated>
   </versioning>
 </metadata>
