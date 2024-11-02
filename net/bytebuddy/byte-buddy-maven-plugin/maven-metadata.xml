@@ -3,8 +3,8 @@
   <groupId>net.bytebuddy</groupId>
   <artifactId>byte-buddy-maven-plugin</artifactId>
   <versioning>
-    <latest>1.15.7</latest>
-    <release>1.15.7</release>
+    <latest>1.15.8</latest>
+    <release>1.15.8</release>
     <versions>
       <version>1.4.21</version>
       <version>1.4.22</version>
@@ -197,7 +197,8 @@
       <version>1.15.4</version>
       <version>1.15.5</version>
       <version>1.15.7</version>
+      <version>1.15.8</version>
     </versions>
-    <lastUpdated>20241023073043</lastUpdated>
+    <lastUpdated>20241101174401</lastUpdated>
   </versioning>
 </metadata>
