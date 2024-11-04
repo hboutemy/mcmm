@@ -11,5 +11,10 @@
       <prefix>i18n</prefix>
       <artifactId>i18n-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Resource List Maven Plugin</name>
+      <prefix>resource-list</prefix>
+      <artifactId>resource-list-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

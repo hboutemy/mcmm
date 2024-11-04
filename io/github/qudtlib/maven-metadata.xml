@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Maven RDF I/O Plugin</name>
+      <prefix>rdfio</prefix>
+      <artifactId>rdfio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven SHACL Plugin</name>
       <prefix>shacl</prefix>
       <artifactId>shacl-maven-plugin</artifactId>
