@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-jdbc-bom</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>6.0.0-M02</version>
       <version>6.0.0-M03</version>
@@ -12,7 +12,8 @@
       <version>6.0.0-M05</version>
       <version>6.0.0-RC1</version>
       <version>6.0.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20241004092042</lastUpdated>
+    <lastUpdated>20241104085543</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.graphhopper</groupId>
   <artifactId>graphhopper-reader-gtfs</artifactId>
   <versioning>
-    <latest>9.1</latest>
-    <release>9.1</release>
+    <latest>10.0</latest>
+    <release>10.0</release>
     <versions>
       <version>client_hc_no_vehicle</version>
       <version>feature_1850_01</version>
@@ -148,7 +148,8 @@
       <version>9.0</version>
       <version>9.0-pre1</version>
       <version>9.1</version>
+      <version>10.0</version>
     </versions>
-    <lastUpdated>20240505155359</lastUpdated>
+    <lastUpdated>20241104160725</lastUpdated>
   </versioning>
 </metadata>

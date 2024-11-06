@@ -3,8 +3,8 @@
   <groupId>cn.mybatis-mp</groupId>
   <artifactId>mybatis-mp-spring-boot-parent</artifactId>
   <versioning>
-    <latest>1.7.3-M5-spring-boot3</latest>
-    <release>1.7.3-M5-spring-boot3</release>
+    <latest>1.7.3-spring-boot3</latest>
+    <release>1.7.3-spring-boot3</release>
     <versions>
       <version>1.2.5</version>
       <version>1.2.5-spring-boot3</version>
@@ -174,7 +174,9 @@
       <version>1.7.3-M3-spring-boot3</version>
       <version>1.7.3-M5</version>
       <version>1.7.3-M5-spring-boot3</version>
+      <version>1.7.3</version>
+      <version>1.7.3-spring-boot3</version>
     </versions>
-    <lastUpdated>20241102054008</lastUpdated>
+    <lastUpdated>20241104024215</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin</groupId>
   <artifactId>kotlin-sam-with-receiver-compiler-plugin-embeddable</artifactId>
   <versioning>
-    <latest>2.1.0-Beta2</latest>
-    <release>2.1.0-Beta2</release>
+    <latest>2.1.0-RC</latest>
+    <release>2.1.0-RC</release>
     <versions>
       <version>1.9.0-Beta</version>
       <version>1.9.0-RC</version>
@@ -41,7 +41,8 @@
       <version>2.0.21</version>
       <version>2.1.0-Beta1</version>
       <version>2.1.0-Beta2</version>
+      <version>2.1.0-RC</version>
     </versions>
-    <lastUpdated>20241014082205</lastUpdated>
+    <lastUpdated>20241104130833</lastUpdated>
   </versioning>
 </metadata>

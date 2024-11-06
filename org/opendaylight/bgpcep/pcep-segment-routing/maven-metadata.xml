@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>pcep-segment-routing</artifactId>
   <versioning>
-    <latest>0.22.5</latest>
-    <release>0.22.5</release>
+    <latest>0.22.6</latest>
+    <release>0.22.6</release>
     <versions>
       <version>0.3.1-Helium</version>
       <version>0.3.2-Helium-SR1</version>
@@ -143,7 +143,8 @@
       <version>0.22.3</version>
       <version>0.22.4</version>
       <version>0.22.5</version>
+      <version>0.22.6</version>
     </versions>
-    <lastUpdated>20241024162925</lastUpdated>
+    <lastUpdated>20241104173542</lastUpdated>
   </versioning>
 </metadata>
