@@ -3,8 +3,8 @@
   <groupId>com.walmartlabs.concord.server.plugins</groupId>
   <artifactId>kafka-event-sink</artifactId>
   <versioning>
-    <latest>2.18.0</latest>
-    <release>2.18.0</release>
+    <latest>2.19.0</latest>
+    <release>2.19.0</release>
     <versions>
       <version>1.37.0</version>
       <version>1.37.1</version>
@@ -129,7 +129,8 @@
       <version>2.16.0</version>
       <version>2.17.0</version>
       <version>2.18.0</version>
+      <version>2.19.0</version>
     </versions>
-    <lastUpdated>20241014100757</lastUpdated>
+    <lastUpdated>20241105144052</lastUpdated>
   </versioning>
 </metadata>

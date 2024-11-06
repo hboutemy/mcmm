@@ -3,8 +3,8 @@
   <groupId>com.palantir.atlasdb</groupId>
   <artifactId>atlasdb-config</artifactId>
   <versioning>
-    <latest>0.1185.0</latest>
-    <release>0.1185.0</release>
+    <latest>0.1186.0</latest>
+    <release>0.1186.0</release>
     <versions>
       <version>0.311.6</version>
       <version>0.311.7</version>
@@ -1048,7 +1048,9 @@
       <version>0.1183.0</version>
       <version>0.1184.0</version>
       <version>0.1185.0</version>
+      <version>0.1186.0-rc1</version>
+      <version>0.1186.0</version>
     </versions>
-    <lastUpdated>20241101155123</lastUpdated>
+    <lastUpdated>20241105163950</lastUpdated>
   </versioning>
 </metadata>
