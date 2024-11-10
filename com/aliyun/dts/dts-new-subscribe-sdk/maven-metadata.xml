@@ -3,8 +3,8 @@
   <groupId>com.aliyun.dts</groupId>
   <artifactId>dts-new-subscribe-sdk</artifactId>
   <versioning>
-    <latest>2.1.4</latest>
-    <release>2.1.4</release>
+    <latest>2.1.4-shaded</latest>
+    <release>2.1.4-shaded</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -28,7 +28,8 @@
       <version>2.1.2</version>
       <version>2.1.2-shaded</version>
       <version>2.1.4</version>
+      <version>2.1.4-shaded</version>
     </versions>
-    <lastUpdated>20240925114105</lastUpdated>
+    <lastUpdated>20241108090935</lastUpdated>
   </versioning>
 </metadata>
