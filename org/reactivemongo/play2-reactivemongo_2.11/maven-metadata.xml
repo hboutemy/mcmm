@@ -3,8 +3,8 @@
   <groupId>org.reactivemongo</groupId>
   <artifactId>play2-reactivemongo_2.11</artifactId>
   <versioning>
-    <latest>1.1.0-play27.RC13</latest>
-    <release>1.1.0-play27.RC13</release>
+    <latest>1.1.0-play27.RC14</latest>
+    <release>1.1.0-play27.RC14</release>
     <versions>
       <version>0.10.5.0.akka23</version>
       <version>0.11.0.play23-M2</version>
@@ -262,6 +262,7 @@
       <version>1.1.0-play25-RC11</version>
       <version>1.1.0.play25-RC12</version>
       <version>1.1.0-play25.RC13</version>
+      <version>1.1.0-play25.RC14</version>
       <version>1.1.0-play26-RC2</version>
       <version>1.1.0-play26-RC3</version>
       <version>1.1.0-play26-RC4</version>
@@ -274,6 +275,7 @@
       <version>1.1.0-play26-RC11</version>
       <version>1.1.0.play26-RC12</version>
       <version>1.1.0-play26.RC13</version>
+      <version>1.1.0-play26.RC14</version>
       <version>1.1.0-play27-RC2</version>
       <version>1.1.0-play27-RC3</version>
       <version>1.1.0-play27-RC4</version>
@@ -286,7 +288,8 @@
       <version>1.1.0-play27-RC11</version>
       <version>1.1.0.play27-RC12</version>
       <version>1.1.0-play27.RC13</version>
+      <version>1.1.0-play27.RC14</version>
     </versions>
-    <lastUpdated>20240807132625</lastUpdated>
+    <lastUpdated>20241106123006</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>me.ahoo.wow</groupId>
   <artifactId>wow-opentelemetry</artifactId>
   <versioning>
-    <latest>3.15.0</latest>
-    <release>3.15.0</release>
+    <latest>3.15.3</latest>
+    <release>3.15.3</release>
     <versions>
       <version>1.8.15</version>
       <version>1.8.16</version>
@@ -272,8 +272,10 @@
       <version>3.14.1</version>
       <version>3.14.3</version>
       <version>3.15.0</version>
+      <version>3.15.2</version>
+      <version>3.15.3</version>
       <version>3.10.5</version>
     </versions>
-    <lastUpdated>20241105131626</lastUpdated>
+    <lastUpdated>20241106084027</lastUpdated>
   </versioning>
 </metadata>

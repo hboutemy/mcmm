@@ -3,8 +3,8 @@
   <groupId>de.arbeitsagentur.opdt</groupId>
   <artifactId>keycloak-cassandra-model-tests</artifactId>
   <versioning>
-    <latest>4.0.4-25.0</latest>
-    <release>4.0.4-25.0</release>
+    <latest>4.0.5-25.0</latest>
+    <release>4.0.5-25.0</release>
     <versions>
       <version>0.4.5-20.0.2</version>
       <version>0.4.7-20.0.3</version>
@@ -87,7 +87,8 @@
       <version>4.0.2-25.0</version>
       <version>4.0.3-25.0</version>
       <version>4.0.4-25.0</version>
+      <version>4.0.5-25.0</version>
     </versions>
-    <lastUpdated>20241006150749</lastUpdated>
+    <lastUpdated>20241106142025</lastUpdated>
   </versioning>
 </metadata>

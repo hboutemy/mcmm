@@ -3,8 +3,8 @@
   <groupId>io.github.opensabe-tech</groupId>
   <artifactId>spring-cloud-parent-gateway-common</artifactId>
   <versioning>
-    <latest>1.0.5.17</latest>
-    <release>1.0.5.17</release>
+    <latest>1.0.5.19</latest>
+    <release>1.0.5.19</release>
     <versions>
       <version>1.0.5</version>
       <version>1.0.4.3</version>
@@ -25,6 +25,8 @@
       <version>1.0.5.15</version>
       <version>1.0.5.16</version>
       <version>1.0.5.17</version>
+      <version>1.0.5.18</version>
+      <version>1.0.5.19</version>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -61,6 +63,6 @@
       <version>1.0.5.5</version>
       <version>1.0.5.6</version>
     </versions>
-    <lastUpdated>20240919121625</lastUpdated>
+    <lastUpdated>20241106095642</lastUpdated>
   </versioning>
 </metadata>
