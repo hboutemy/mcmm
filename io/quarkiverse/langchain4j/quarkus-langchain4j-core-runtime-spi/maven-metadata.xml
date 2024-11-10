@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-core-runtime-spi</artifactId>
   <versioning>
-    <latest>0.21.0.CR4</latest>
-    <release>0.21.0.CR4</release>
+    <latest>0.21.0</latest>
+    <release>0.21.0</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -38,7 +38,8 @@
       <version>0.21.0.CR1</version>
       <version>0.21.0.CR3</version>
       <version>0.21.0.CR4</version>
+      <version>0.21.0</version>
     </versions>
-    <lastUpdated>20241101121356</lastUpdated>
+    <lastUpdated>20241107113734</lastUpdated>
   </versioning>
 </metadata>

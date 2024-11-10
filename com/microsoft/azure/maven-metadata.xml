@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Azure Container Apps Maven Plugin</name>
+      <prefix>azure-container-apps</prefix>
+      <artifactId>azure-container-apps-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven Plugin for Azure Functions</name>
       <prefix>azure-functions</prefix>
       <artifactId>azure-functions-maven-plugin</artifactId>

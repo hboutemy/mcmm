@@ -3,8 +3,8 @@
   <groupId>com.gu.etag-caching</groupId>
   <artifactId>core_2.13</artifactId>
   <versioning>
-    <latest>4.0.1</latest>
-    <release>4.0.1</release>
+    <latest>6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b</latest>
+    <release>6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -84,7 +84,16 @@
       <version>4.0.0</version>
       <version>4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a</version>
       <version>4.0.1</version>
+      <version>5.0.0</version>
+      <version>5.0.0-PREVIEW.updateaws.2024-11-07T1129.e8a8a161</version>
+      <version>5.0.0-PREVIEW.updateaws.2024-11-07T1153.5e749b30</version>
+      <version>5.0.0-PREVIEW.updatenonaws.2024-11-07T1124.6bbf06d4</version>
+      <version>5.0.0-PREVIEW.updatenonaws.2024-11-07T1153.92e6a9fa</version>
+      <version>5.0.1</version>
+      <version>5.0.1-PREVIEW.updatenonaws.2024-11-07T1201.13e4cb02</version>
+      <version>6.0.0-PREVIEW.updateaws.2024-11-07T1201.0ffde07b</version>
+      <version>6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b</version>
     </versions>
-    <lastUpdated>20240727191526</lastUpdated>
+    <lastUpdated>20241107141329</lastUpdated>
   </versioning>
 </metadata>
