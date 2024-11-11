@@ -3,8 +3,8 @@
   <groupId>org.noear</groupId>
   <artifactId>solon.cache.jedis</artifactId>
   <versioning>
-    <latest>3.0.3-RC</latest>
-    <release>3.0.3-RC</release>
+    <latest>3.0.3</latest>
+    <release>3.0.3</release>
     <versions>
       <version>1.3.37</version>
       <version>1.3.38</version>
@@ -630,7 +630,8 @@
       <version>3.0.3-M3</version>
       <version>3.0.3-M4</version>
       <version>3.0.3-RC</version>
+      <version>3.0.3</version>
     </versions>
-    <lastUpdated>20241108022127</lastUpdated>
+    <lastUpdated>20241110144000</lastUpdated>
   </versioning>
 </metadata>

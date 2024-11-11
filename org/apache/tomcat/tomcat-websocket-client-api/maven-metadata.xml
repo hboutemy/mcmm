@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-websocket-client-api</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>11.0.1</latest>
+    <release>11.0.1</release>
     <versions>
       <version>10.1.0-M8</version>
       <version>10.1.0-M10</version>
@@ -66,7 +66,8 @@
       <version>11.0.0-M25</version>
       <version>11.0.0-M26</version>
       <version>11.0.0</version>
+      <version>11.0.1</version>
     </versions>
-    <lastUpdated>20241009163957</lastUpdated>
+    <lastUpdated>20241110181228</lastUpdated>
   </versioning>
 </metadata>

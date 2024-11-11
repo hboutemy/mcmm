@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry</groupId>
   <artifactId>opentelemetry-bom-alpha</artifactId>
   <versioning>
-    <latest>1.44.0-alpha</latest>
-    <release>1.44.0-alpha</release>
+    <latest>1.44.1-alpha</latest>
+    <release>1.44.1-alpha</release>
     <versions>
       <version>0.16.0-alpha</version>
       <version>0.17.0-alpha</version>
@@ -65,7 +65,8 @@
       <version>1.42.1-alpha</version>
       <version>1.43.0-alpha</version>
       <version>1.44.0-alpha</version>
+      <version>1.44.1-alpha</version>
     </versions>
-    <lastUpdated>20241108203043</lastUpdated>
+    <lastUpdated>20241110014416</lastUpdated>
   </versioning>
 </metadata>
