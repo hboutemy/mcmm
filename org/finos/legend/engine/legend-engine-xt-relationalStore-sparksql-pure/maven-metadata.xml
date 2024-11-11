@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-sparksql-pure</artifactId>
   <versioning>
-    <latest>4.65.2</latest>
-    <release>4.65.2</release>
+    <latest>4.65.3</latest>
+    <release>4.65.3</release>
     <versions>
       <version>4.30.1</version>
       <version>4.30.2</version>
@@ -105,7 +105,8 @@
       <version>4.64.1</version>
       <version>4.65.0</version>
       <version>4.65.2</version>
+      <version>4.65.3</version>
     </versions>
-    <lastUpdated>20241101212138</lastUpdated>
+    <lastUpdated>20241109100912</lastUpdated>
   </versioning>
 </metadata>
