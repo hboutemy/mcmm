@@ -3,8 +3,8 @@
   <groupId>org.wildfly.glow</groupId>
   <artifactId>wildfly-glow-openshift-deployment-mysql</artifactId>
   <versioning>
-    <latest>1.1.0.Final</latest>
-    <release>1.1.0.Final</release>
+    <latest>1.1.1.Final</latest>
+    <release>1.1.1.Final</release>
     <versions>
       <version>1.0.0.Beta10</version>
       <version>1.0.0.Beta11</version>
@@ -18,7 +18,8 @@
       <version>1.0.5.Final</version>
       <version>1.0.6.Final</version>
       <version>1.1.0.Final</version>
+      <version>1.1.1.Final</version>
     </versions>
-    <lastUpdated>20240628095710</lastUpdated>
+    <lastUpdated>20241112141346</lastUpdated>
   </versioning>
 </metadata>

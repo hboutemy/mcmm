@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Concord Maven plugin</name>
+      <prefix>concordng</prefix>
+      <artifactId>concord-maven-plugin-ng</artifactId>
+    </plugin>
+    <plugin>
       <name>Concord Dependency Plugins downloader</name>
       <prefix>dependency-downloader</prefix>
       <artifactId>dependency-downloader-maven-plugin</artifactId>
