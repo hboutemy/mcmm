@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>codegen-java</artifactId>
   <versioning>
-    <latest>3.3.0-snapshot.20241111.13420.0.v06161db3</latest>
-    <release>3.3.0-snapshot.20241111.13420.0.v06161db3</release>
+    <latest>3.3.0-snapshot.20241112.13422.0.vf18106b1</latest>
+    <release>3.3.0-snapshot.20241112.13422.0.vf18106b1</release>
     <versions>
       <version>0.0.0</version>
       <version>0.13.56-snapshot.20200403.3814.0.47541e70</version>
@@ -1075,6 +1075,7 @@
       <version>2.10.0-snapshot.20241107.13062.0.vc42923a7</version>
       <version>2.10.0-snapshot.20241108.13063.0.v98eb7dfe</version>
       <version>2.10.0-snapshot.20241111.13067.0.va06af61f</version>
+      <version>2.10.0-snapshot.20241112.13070.0.vc4a4a381</version>
       <version>2.10.0-adhoc.20240830.12942.0.v3e4e9451</version>
       <version>2.10.0-adhoc.20240926.12977.0.vf09a26b8</version>
       <version>2.10.0-adhoc.20240930.12985.0.v0bdf66d5</version>
@@ -1299,6 +1300,7 @@
       <version>3.2.0-snapshot.20241101.13399.0.v923d65b1</version>
       <version>3.2.0-snapshot.20241106.13400.0.vad854047</version>
       <version>3.2.0-snapshot.20241111.13401.0.v7e9180fc</version>
+      <version>3.2.0-snapshot.20241112.13402.0.v6fdc079a</version>
       <version>3.2.0-adhoc.20240826.13247.0.v8d88a081</version>
       <version>3.2.0-adhoc.20241021.13367.0.vfac3fe4a</version>
       <version>3.2.0-adhoc.20241022.13368.0.vcd5fbc53</version>
@@ -1310,7 +1312,8 @@
       <version>3.3.0-snapshot.20241107.13413.0.v0f73be65</version>
       <version>3.3.0-snapshot.20241108.13416.0.vba14c443</version>
       <version>3.3.0-snapshot.20241111.13420.0.v06161db3</version>
+      <version>3.3.0-snapshot.20241112.13422.0.vf18106b1</version>
     </versions>
-    <lastUpdated>20241112065932</lastUpdated>
+    <lastUpdated>20241113123558</lastUpdated>
   </versioning>
 </metadata>

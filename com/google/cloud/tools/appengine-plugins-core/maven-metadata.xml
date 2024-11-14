@@ -3,8 +3,8 @@
   <groupId>com.google.cloud.tools</groupId>
   <artifactId>appengine-plugins-core</artifactId>
   <versioning>
-    <latest>0.13.1</latest>
-    <release>0.13.1</release>
+    <latest>0.13.2</latest>
+    <release>0.13.2</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -76,6 +76,7 @@
       <version>0.12.0</version>
       <version>0.13.0</version>
       <version>0.13.1</version>
+      <version>0.13.2</version>
       <version>0.10.0</version>
       <version>0.9.10</version>
       <version>0.9.11</version>
@@ -86,6 +87,6 @@
       <version>0.9.8</version>
       <version>0.9.9</version>
     </versions>
-    <lastUpdated>20240719135144</lastUpdated>
+    <lastUpdated>20241113125316</lastUpdated>
   </versioning>
 </metadata>

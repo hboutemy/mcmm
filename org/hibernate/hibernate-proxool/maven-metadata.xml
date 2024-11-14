@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-proxool</artifactId>
   <versioning>
-    <latest>7.0.0.Beta1</latest>
-    <release>7.0.0.Beta1</release>
+    <latest>7.0.0.Beta2</latest>
+    <release>7.0.0.Beta2</release>
     <versions>
       <version>3.3.0.CR1</version>
       <version>3.3.0.CR2</version>
@@ -367,6 +367,7 @@
       <version>7.0.0.Alpha2</version>
       <version>7.0.0.Alpha3</version>
       <version>7.0.0.Beta1</version>
+      <version>7.0.0.Beta2</version>
       <version>4.1.2</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
@@ -380,6 +381,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20241107180244</lastUpdated>
+    <lastUpdated>20241113135429</lastUpdated>
   </versioning>
 </metadata>

@@ -166,5 +166,10 @@
       <prefix>tycho-versions</prefix>
       <artifactId>tycho-versions-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Tycho Wrap Plugin</name>
+      <prefix>tycho-wrap</prefix>
+      <artifactId>tycho-wrap-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
