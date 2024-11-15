@@ -1,16 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-bootstrap</artifactId>
   <versioning>
-    <latest>3.74.0-05</latest>
-    <release>3.74.0-05</release>
+    <latest>3.71.0-06</latest>
+    <release>3.71.0-06</release>
     <versions>
-      <version>3.74.0-05</version>
-      <version>2.1</version>
       <version>2.1-RC1</version>
+      <version>2.1</version>
       <version>2.1.1</version>
       <version>2.1.2</version>
+      <version>2.2</version>
+      <version>2.2-01</version>
+      <version>2.3.0</version>
+      <version>2.3.0-01</version>
+      <version>2.3.0-02</version>
+      <version>2.3.0-04</version>
+      <version>2.3.1</version>
+      <version>2.3.1-01</version>
+      <version>2.4.0-1</version>
+      <version>2.4.0-03</version>
+      <version>2.4.0-04</version>
+      <version>2.4.0-05</version>
+      <version>2.4.0-06</version>
+      <version>2.4.0-07</version>
+      <version>2.4.0-08</version>
+      <version>2.4.0-09</version>
+      <version>2.5.0-01</version>
+      <version>2.5.0-02</version>
+      <version>2.5.0-03</version>
+      <version>2.5.0-04</version>
+      <version>2.5.1-01</version>
+      <version>2.6.0-01</version>
+      <version>2.6.0-05</version>
+      <version>2.6.1-01</version>
+      <version>2.6.1-02</version>
+      <version>2.6.2-01</version>
+      <version>2.6.3-01</version>
+      <version>2.6.4-02</version>
+      <version>2.6.4-03</version>
+      <version>2.7.0-m1</version>
+      <version>2.7.0-m2</version>
+      <version>2.7.0-m3</version>
+      <version>2.7.0-m4</version>
+      <version>2.7.0-01</version>
+      <version>2.7.0-02</version>
+      <version>2.7.0-03</version>
+      <version>2.7.0-04</version>
+      <version>2.7.0-05</version>
+      <version>2.7.0-06</version>
+      <version>2.7.1-01</version>
+      <version>2.7.2-01</version>
+      <version>2.7.2-02</version>
+      <version>2.7.2-03</version>
+      <version>2.8.0-01</version>
+      <version>2.8.0-05</version>
+      <version>2.8.1-01</version>
+      <version>2.9.0-01</version>
+      <version>2.9.0-04</version>
+      <version>2.9.1-01</version>
+      <version>2.9.1-02</version>
+      <version>2.9.2-01</version>
       <version>2.10.0-01</version>
       <version>2.10.0-02</version>
       <version>2.11.0-01</version>
@@ -27,6 +77,15 @@
       <version>2.13.0-01</version>
       <version>2.14.0-01</version>
       <version>2.14.1-01</version>
+      <version>2.14.2-01</version>
+      <version>2.14.3-02</version>
+      <version>2.14.4-01</version>
+      <version>2.14.4-03</version>
+      <version>2.14.5-02</version>
+      <version>2.14.6-02</version>
+      <version>2.14.7-01</version>
+      <version>2.14.8-01</version>
+      <version>2.14.9-01</version>
       <version>2.14.10-01</version>
       <version>2.14.11-01</version>
       <version>2.14.12-02</version>
@@ -37,83 +96,39 @@
       <version>2.14.17-01</version>
       <version>2.14.18-01</version>
       <version>2.14.19-01</version>
-      <version>2.14.2-01</version>
       <version>2.14.20-01</version>
       <version>2.14.20-02</version>
       <version>2.14.21-02</version>
-      <version>2.14.3-02</version>
-      <version>2.14.4-01</version>
-      <version>2.14.4-03</version>
-      <version>2.14.5-02</version>
-      <version>2.14.6-02</version>
-      <version>2.14.7-01</version>
-      <version>2.14.8-01</version>
-      <version>2.14.9-01</version>
       <version>2.15.0-04</version>
       <version>2.15.1-02</version>
+      <version>2.15.2-03</version>
       <version>2.16.0-01</version>
-      <version>2.2</version>
-      <version>2.2-01</version>
-      <version>2.2.1</version>
-      <version>2.3.0</version>
-      <version>2.3.0-01</version>
-      <version>2.3.0-02</version>
-      <version>2.3.0-04</version>
-      <version>2.3.1</version>
-      <version>2.3.1-01</version>
-      <version>2.4.0-03</version>
-      <version>2.4.0-04</version>
-      <version>2.4.0-05</version>
-      <version>2.4.0-06</version>
-      <version>2.4.0-07</version>
-      <version>2.4.0-08</version>
-      <version>2.4.0-09</version>
-      <version>2.4.0-1</version>
-      <version>2.5.0-01</version>
-      <version>2.5.0-02</version>
-      <version>2.5.0-03</version>
-      <version>2.5.0-04</version>
-      <version>2.5.1-01</version>
-      <version>2.6.0-01</version>
-      <version>2.6.0-05</version>
-      <version>2.6.1-01</version>
-      <version>2.6.1-02</version>
-      <version>2.6.2-01</version>
-      <version>2.6.3-01</version>
-      <version>2.6.4-02</version>
-      <version>2.6.4-03</version>
-      <version>2.7.0-01</version>
-      <version>2.7.0-02</version>
-      <version>2.7.0-03</version>
-      <version>2.7.0-04</version>
-      <version>2.7.0-05</version>
-      <version>2.7.0-06</version>
-      <version>2.7.0-m1</version>
-      <version>2.7.0-m2</version>
-      <version>2.7.0-m3</version>
-      <version>2.7.0-m4</version>
-      <version>2.7.1-01</version>
-      <version>2.7.2-01</version>
-      <version>2.7.2-02</version>
-      <version>2.7.2-03</version>
-      <version>2.8.0-01</version>
-      <version>2.8.0-05</version>
-      <version>2.8.1-01</version>
-      <version>2.9.0-01</version>
-      <version>2.9.0-04</version>
-      <version>2.9.1-01</version>
-      <version>2.9.1-02</version>
-      <version>2.9.2-01</version>
-      <version>3.0.0-03</version>
       <version>3.0.0-b2014101001</version>
       <version>3.0.0-b2015020701</version>
       <version>3.0.0-b2015061001</version>
       <version>3.0.0-b2015091801</version>
       <version>3.0.0-b2015110601</version>
       <version>3.0.0-b2016011501</version>
+      <version>3.0.0-03</version>
       <version>3.0.1-01</version>
       <version>3.0.2-02</version>
       <version>3.1.0-04</version>
+      <version>3.2.0-01</version>
+      <version>3.2.1-01</version>
+      <version>3.3.0-01</version>
+      <version>3.3.1-01</version>
+      <version>3.3.2-02</version>
+      <version>3.4.0-02</version>
+      <version>3.5.0-02</version>
+      <version>3.5.1-02</version>
+      <version>3.5.2-01</version>
+      <version>3.6.0-02</version>
+      <version>3.6.1-02</version>
+      <version>3.6.2-01</version>
+      <version>3.7.0-04</version>
+      <version>3.7.1-02</version>
+      <version>3.8.0-02</version>
+      <version>3.9.0-01</version>
       <version>3.10.0-04</version>
       <version>3.11.0-01</version>
       <version>3.12.0-01</version>
@@ -134,8 +149,6 @@
       <version>3.18.1-01</version>
       <version>3.19.0-01</version>
       <version>3.19.1-01</version>
-      <version>3.2.0-01</version>
-      <version>3.2.1-01</version>
       <version>3.20.0-02</version>
       <version>3.20.0-04</version>
       <version>3.20.1-01</version>
@@ -172,9 +185,6 @@
       <version>3.29.0-02</version>
       <version>3.29.1-01</version>
       <version>3.29.2-02</version>
-      <version>3.3.0-01</version>
-      <version>3.3.1-01</version>
-      <version>3.3.2-02</version>
       <version>3.30.0-01</version>
       <version>3.30.1-01</version>
       <version>3.31.0-01</version>
@@ -194,7 +204,6 @@
       <version>3.38.0-01</version>
       <version>3.38.1-01</version>
       <version>3.39.0-01</version>
-      <version>3.4.0-02</version>
       <version>3.40.0-03</version>
       <version>3.40.1-01</version>
       <version>3.41.0-01</version>
@@ -209,9 +218,6 @@
       <version>3.47.1-01</version>
       <version>3.48.0-01</version>
       <version>3.49.0-02</version>
-      <version>3.5.0-02</version>
-      <version>3.5.1-02</version>
-      <version>3.5.2-01</version>
       <version>3.50.0-01</version>
       <version>3.51.0-01</version>
       <version>3.52.0-01</version>
@@ -228,9 +234,6 @@
       <version>3.58.1-01</version>
       <version>3.58.1-02</version>
       <version>3.59.0-01</version>
-      <version>3.6.0-02</version>
-      <version>3.6.1-02</version>
-      <version>3.6.2-01</version>
       <version>3.60.0-02</version>
       <version>3.61.0-01</version>
       <version>3.61.0-02</version>
@@ -246,15 +249,13 @@
       <version>3.68.0-04</version>
       <version>3.68.1-02</version>
       <version>3.69.0-02</version>
-      <version>3.7.0-04</version>
-      <version>3.7.1-02</version>
       <version>3.70.0-03</version>
       <version>3.70.1-02</version>
       <version>3.71.0-06</version>
+      <version>2.2.1</version>
       <version>3.72.0-04</version>
-      <version>3.8.0-02</version>
-      <version>3.9.0-01</version>
+      <version>3.74.0-05</version>
     </versions>
-    <lastUpdated>20241105115305</lastUpdated>
+    <lastUpdated>20241114172031</lastUpdated>
   </versioning>
 </metadata>

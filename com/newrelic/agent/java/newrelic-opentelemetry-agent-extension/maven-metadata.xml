@@ -3,8 +3,8 @@
   <groupId>com.newrelic.agent.java</groupId>
   <artifactId>newrelic-opentelemetry-agent-extension</artifactId>
   <versioning>
-    <latest>8.15.0-alpha</latest>
-    <release>8.15.0-alpha</release>
+    <latest>8.16.0-alpha</latest>
+    <release>8.16.0-alpha</release>
     <versions>
       <version>8.9.0-alpha</version>
       <version>8.9.1-alpha</version>
@@ -15,7 +15,8 @@
       <version>8.13.0-alpha</version>
       <version>8.14.0-alpha</version>
       <version>8.15.0-alpha</version>
+      <version>8.16.0-alpha</version>
     </versions>
-    <lastUpdated>20241001132543</lastUpdated>
+    <lastUpdated>20241114150817</lastUpdated>
   </versioning>
 </metadata>

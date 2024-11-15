@@ -3,8 +3,8 @@
   <groupId>software.amazon.smithy.kotlin</groupId>
   <artifactId>smithy-aws-kotlin-codegen</artifactId>
   <versioning>
-    <latest>0.33.21</latest>
-    <release>0.33.21</release>
+    <latest>0.33.23</latest>
+    <release>0.33.23</release>
     <versions>
       <version>0.4.0-alpha</version>
       <version>0.5.0-alpha</version>
@@ -80,7 +80,9 @@
       <version>0.33.19</version>
       <version>0.33.20</version>
       <version>0.33.21</version>
+      <version>0.33.22</version>
+      <version>0.33.23</version>
     </versions>
-    <lastUpdated>20241113202959</lastUpdated>
+    <lastUpdated>20241114211554</lastUpdated>
   </versioning>
 </metadata>
