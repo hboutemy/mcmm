@@ -3,8 +3,8 @@
   <groupId>com.stripe</groupId>
   <artifactId>stripe-java</artifactId>
   <versioning>
-    <latest>28.1.0-beta.2</latest>
-    <release>28.1.0-beta.2</release>
+    <latest>28.1.0-beta.3</latest>
+    <release>28.1.0-beta.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -777,9 +777,10 @@
       <version>28.0.1</version>
       <version>28.1.0-beta.1</version>
       <version>28.1.0-beta.2</version>
+      <version>28.1.0-beta.3</version>
       <version>4.11.0</version>
       <version>7.16.0</version>
     </versions>
-    <lastUpdated>20241107222210</lastUpdated>
+    <lastUpdated>20241115001029</lastUpdated>
   </versioning>
 </metadata>
