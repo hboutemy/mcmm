@@ -3,8 +3,8 @@
   <groupId>network.oxalis</groupId>
   <artifactId>oxalis-standalone</artifactId>
   <versioning>
-    <latest>6.7.0</latest>
-    <release>6.7.0</release>
+    <latest>7.0.0-beta</latest>
+    <release>7.0.0-beta</release>
     <versions>
       <version>5.0.0.RC1</version>
       <version>5.0.0-RC3</version>
@@ -33,7 +33,9 @@
       <version>6.5.0</version>
       <version>6.6.0</version>
       <version>6.7.0</version>
+      <version>7.0.0-alpha</version>
+      <version>7.0.0-beta</version>
     </versions>
-    <lastUpdated>20240810174238</lastUpdated>
+    <lastUpdated>20241116232746</lastUpdated>
   </versioning>
 </metadata>
