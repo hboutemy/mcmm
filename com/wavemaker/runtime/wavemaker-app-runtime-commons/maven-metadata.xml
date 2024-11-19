@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.runtime</groupId>
   <artifactId>wavemaker-app-runtime-commons</artifactId>
   <versioning>
-    <latest>11.9.2</latest>
-    <release>11.9.2</release>
+    <latest>11.9.2.ee</latest>
+    <release>11.9.2.ee</release>
     <versions>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
@@ -84,7 +84,8 @@
       <version>11.9.1</version>
       <version>11.9.1.ee</version>
       <version>11.9.2</version>
+      <version>11.9.2.ee</version>
     </versions>
-    <lastUpdated>20241116082522</lastUpdated>
+    <lastUpdated>20241118104744</lastUpdated>
   </versioning>
 </metadata>
