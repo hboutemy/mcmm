@@ -3,8 +3,8 @@
   <groupId>com.datastax.oss</groupId>
   <artifactId>pulsar-jms</artifactId>
   <versioning>
-    <latest>6.0.1</latest>
-    <release>6.0.1</release>
+    <latest>7.0.0</latest>
+    <release>7.0.0</release>
     <versions>
       <version>1.0.0-ALPHA</version>
       <version>1.0.0</version>
@@ -47,7 +47,8 @@
       <version>5.0.4</version>
       <version>5.0.5</version>
       <version>6.0.1</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20241114164158</lastUpdated>
+    <lastUpdated>20241119155442</lastUpdated>
   </versioning>
 </metadata>
