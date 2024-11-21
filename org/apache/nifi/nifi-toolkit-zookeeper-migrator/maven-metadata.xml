@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi</groupId>
   <artifactId>nifi-toolkit-zookeeper-migrator</artifactId>
   <versioning>
-    <latest>1.28.0</latest>
-    <release>1.28.0</release>
+    <latest>1.28.1</latest>
+    <release>1.28.1</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -55,7 +55,8 @@
       <version>1.26.0</version>
       <version>1.27.0</version>
       <version>1.28.0</version>
+      <version>1.28.1</version>
     </versions>
-    <lastUpdated>20241030042745</lastUpdated>
+    <lastUpdated>20241120145426</lastUpdated>
   </versioning>
 </metadata>

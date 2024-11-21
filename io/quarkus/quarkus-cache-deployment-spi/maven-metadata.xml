@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-cache-deployment-spi</artifactId>
   <versioning>
-    <latest>3.17.0.CR1</latest>
-    <release>3.17.0.CR1</release>
+    <latest>3.17.0</latest>
+    <release>3.17.0</release>
     <versions>
       <version>3.0.0.Alpha3</version>
       <version>3.0.0.Alpha4</version>
@@ -119,8 +119,10 @@
       <version>3.16.1</version>
       <version>3.16.2</version>
       <version>3.16.3</version>
+      <version>3.16.4</version>
       <version>3.17.0.CR1</version>
+      <version>3.17.0</version>
     </versions>
-    <lastUpdated>20241118113258</lastUpdated>
+    <lastUpdated>20241120114240</lastUpdated>
   </versioning>
 </metadata>

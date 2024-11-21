@@ -12,6 +12,11 @@
     </plugin>
     <plugin>
       <name>apicurio-registry-maven-plugin</name>
+      <prefix>apicurio</prefix>
+      <artifactId>apicurio-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>apicurio-registry-maven-plugin</name>
       <prefix>apicurio-registry</prefix>
       <artifactId>apicurio-registry-maven-plugin</artifactId>
     </plugin>

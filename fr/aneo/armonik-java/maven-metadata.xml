@@ -3,12 +3,10 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.22.0-qdenum.118.033ae55</latest>
-    <release>3.22.0-qdenum.118.033ae55</release>
+    <latest>3.22.0-edge.118.90f0b51</latest>
+    <release>3.22.0-edge.118.90f0b51</release>
     <versions>
-      <version>3.22.0-qdenum.118.033ae55</version>
-      <version>3.22.0-dduniformvaroablescpp.117.2604a8e</version>
-      <version>3.22.0-dduniformvaroablescpp.117.1bba35d</version>
+      <version>3.22.0-edge.118.90f0b51</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -344,6 +342,8 @@
       <version>3.21.1-tspythonapidocupdate.22.2c86c28</version>
       <version>3.21.1-tspythonapidocupdate.22.a33f5d0</version>
       <version>3.21.1-tspythonapidocupdate.22.d564ad3</version>
+      <version>3.22.0-dduniformvaroablescpp.117.1bba35d</version>
+      <version>3.22.0-dduniformvaroablescpp.117.2604a8e</version>
       <version>3.22.0-edge.116.3e97b32</version>
       <version>3.22.0-flrustserver.117.302dcad</version>
       <version>3.22.0-flrustserver.117.8e40cf4</version>
@@ -353,8 +353,10 @@
       <version>3.22.0-flrustserver.117.f88683f</version>
       <version>3.22.0-flrustserver.117.fc975bd</version>
       <version>3.22.0-flrustserver.118.5af4524</version>
+      <version>3.22.0-flrustserver.119.c2c9b53</version>
+      <version>3.22.0-qdenum.118.033ae55</version>
       <version>3.22.0-qdenum.119.5799d89</version>
     </versions>
-    <lastUpdated>20241118140323</lastUpdated>
+    <lastUpdated>20241120144559</lastUpdated>
   </versioning>
 </metadata>

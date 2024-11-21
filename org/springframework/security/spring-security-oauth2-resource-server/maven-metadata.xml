@@ -3,8 +3,8 @@
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-oauth2-resource-server</artifactId>
   <versioning>
-    <latest>6.4.0</latest>
-    <release>6.4.0</release>
+    <latest>6.4.1</latest>
+    <release>6.4.1</release>
     <versions>
       <version>5.1.0.RELEASE</version>
       <version>5.1.1.RELEASE</version>
@@ -150,7 +150,8 @@
       <version>6.3.4</version>
       <version>6.3.5</version>
       <version>6.4.0</version>
+      <version>6.4.1</version>
     </versions>
-    <lastUpdated>20241118170057</lastUpdated>
+    <lastUpdated>20241120210859</lastUpdated>
   </versioning>
 </metadata>
