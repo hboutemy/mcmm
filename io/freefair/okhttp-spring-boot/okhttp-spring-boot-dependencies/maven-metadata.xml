@@ -3,8 +3,8 @@
   <groupId>io.freefair.okhttp-spring-boot</groupId>
   <artifactId>okhttp-spring-boot-dependencies</artifactId>
   <versioning>
-    <latest>3.4.0-rc1</latest>
-    <release>3.4.0-rc1</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>unspecified</version>
       <version>2.1.0</version>
@@ -126,14 +126,17 @@
       <version>3.2.8</version>
       <version>3.2.9</version>
       <version>3.2.10</version>
+      <version>3.2.12</version>
       <version>3.3.0-M2</version>
       <version>3.3.2</version>
       <version>3.3.3</version>
       <version>3.3.4</version>
       <version>3.3.5</version>
+      <version>3.3.6</version>
       <version>3.4.0-m3</version>
       <version>3.4.0-rc1</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20241105132521</lastUpdated>
+    <lastUpdated>20241121225445</lastUpdated>
   </versioning>
 </metadata>

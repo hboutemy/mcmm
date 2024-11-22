@@ -3,11 +3,10 @@
   <groupId>org.epos-eu.ics-c</groupId>
   <artifactId>db-api</artifactId>
   <versioning>
-    <latest>3.0.58</latest>
-    <release>3.0.58</release>
+    <latest>3.0.59</latest>
+    <release>3.0.59</release>
     <versions>
-      <version>3.0.57</version>
-      <version>3.0.58</version>
+      <version>3.0.59</version>
       <version>1.0.0-oss</version>
       <version>1.0.1</version>
       <version>1.0.10</version>
@@ -168,6 +167,8 @@
       <version>3.0.54</version>
       <version>3.0.55</version>
       <version>3.0.56</version>
+      <version>3.0.57</version>
+      <version>3.0.58</version>
       <version>3.0.6</version>
       <version>3.0.7</version>
       <version>3.0.8</version>
@@ -233,6 +234,6 @@
       <version>ref.0.0.9</version>
       <version>ref.0.021</version>
     </versions>
-    <lastUpdated>20241120150148</lastUpdated>
+    <lastUpdated>20241121133004</lastUpdated>
   </versioning>
 </metadata>

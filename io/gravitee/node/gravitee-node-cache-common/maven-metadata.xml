@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-cache-common</artifactId>
   <versioning>
-    <latest>7.0.0-alpha.3</latest>
-    <release>7.0.0-alpha.3</release>
+    <latest>7.0.0-alpha.4</latest>
+    <release>7.0.0-alpha.4</release>
     <versions>
       <version>3.1.0-alpha.5</version>
       <version>3.1.0-alpha.6</version>
@@ -52,6 +52,7 @@
       <version>4.8.5</version>
       <version>4.8.6</version>
       <version>4.8.7</version>
+      <version>4.8.8</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -120,10 +121,12 @@
       <version>6.4.5</version>
       <version>6.4.6</version>
       <version>6.5.0</version>
+      <version>6.6.0</version>
       <version>7.0.0-alpha.1</version>
       <version>7.0.0-alpha.2</version>
       <version>7.0.0-alpha.3</version>
+      <version>7.0.0-alpha.4</version>
     </versions>
-    <lastUpdated>20241113152743</lastUpdated>
+    <lastUpdated>20241121151856</lastUpdated>
   </versioning>
 </metadata>

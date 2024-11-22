@@ -3,8 +3,8 @@
   <groupId>org.springframework.batch</groupId>
   <artifactId>spring-batch-core</artifactId>
   <versioning>
-    <latest>5.1.2</latest>
-    <release>5.1.2</release>
+    <latest>5.2.0</latest>
+    <release>5.2.0</release>
     <versions>
       <version>1.0.0.FINAL</version>
       <version>1.0.1.RELEASE</version>
@@ -88,9 +88,10 @@
       <version>5.1.0</version>
       <version>5.1.1</version>
       <version>5.1.2</version>
+      <version>5.2.0</version>
       <version>4.2.6.RELEASE</version>
       <version>4.3.2</version>
     </versions>
-    <lastUpdated>20240522103123</lastUpdated>
+    <lastUpdated>20241121081817</lastUpdated>
   </versioning>
 </metadata>
