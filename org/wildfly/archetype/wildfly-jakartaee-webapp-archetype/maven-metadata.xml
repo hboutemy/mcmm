@@ -3,8 +3,8 @@
   <groupId>org.wildfly.archetype</groupId>
   <artifactId>wildfly-jakartaee-webapp-archetype</artifactId>
   <versioning>
-    <latest>34.0.0.Final</latest>
-    <release>34.0.0.Final</release>
+    <latest>34.0.1.Final</latest>
+    <release>34.0.1.Final</release>
     <versions>
       <version>18.0.0.Final</version>
       <version>19.0.0.Final</version>
@@ -30,7 +30,8 @@
       <version>33.0.1.Final</version>
       <version>33.0.2.Final</version>
       <version>34.0.0.Final</version>
+      <version>34.0.1.Final</version>
     </versions>
-    <lastUpdated>20241021074227</lastUpdated>
+    <lastUpdated>20241122115143</lastUpdated>
   </versioning>
 </metadata>

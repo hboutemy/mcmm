@@ -3,8 +3,8 @@
   <groupId>org.opencastproject</groupId>
   <artifactId>opencast-termination-state-aws</artifactId>
   <versioning>
-    <latest>16.6</latest>
-    <release>16.6</release>
+    <latest>16.7</latest>
+    <release>16.7</release>
     <versions>
       <version>8.0</version>
       <version>8.1</version>
@@ -101,6 +101,7 @@
       <version>15.9</version>
       <version>15.10</version>
       <version>15.11</version>
+      <version>15.12</version>
       <version>16.0</version>
       <version>16.1</version>
       <version>16.2</version>
@@ -108,7 +109,8 @@
       <version>16.4</version>
       <version>16.5</version>
       <version>16.6</version>
+      <version>16.7</version>
     </versions>
-    <lastUpdated>20241018173401</lastUpdated>
+    <lastUpdated>20241122230721</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-build-configuration-parent</artifactId>
   <versioning>
-    <latest>15.1.0.Dev04</latest>
-    <release>15.1.0.Dev04</release>
+    <latest>15.1.0.Dev05</latest>
+    <release>15.1.0.Dev05</release>
     <versions>
       <version>9.4.0.Final</version>
       <version>9.4.1.Final</version>
@@ -209,8 +209,9 @@
       <version>15.1.0.Dev02</version>
       <version>15.1.0.Dev03</version>
       <version>15.1.0.Dev04</version>
+      <version>15.1.0.Dev05</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20241120084903</lastUpdated>
+    <lastUpdated>20241122161609</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.streamnative.pulsar.handlers</groupId>
   <artifactId>kafka-payload-processor</artifactId>
   <versioning>
-    <latest>4.0.0.5</latest>
-    <release>4.0.0.5</release>
+    <latest>4.0.0.6</latest>
+    <release>4.0.0.6</release>
     <versions>
       <version>2.9.1.3</version>
       <version>2.9.1.4</version>
@@ -259,7 +259,8 @@
       <version>4.0.0.3</version>
       <version>4.0.0.4</version>
       <version>4.0.0.5</version>
+      <version>4.0.0.6</version>
     </versions>
-    <lastUpdated>20241120115610</lastUpdated>
+    <lastUpdated>20241122150909</lastUpdated>
   </versioning>
 </metadata>
