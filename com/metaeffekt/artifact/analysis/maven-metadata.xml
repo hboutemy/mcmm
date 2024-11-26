@@ -22,6 +22,10 @@
       <artifactId>ae-inventory-overview-html-report</artifactId>
     </plugin>
     <plugin>
+      <prefix>ae-kotlin-scripting</prefix>
+      <artifactId>ae-kotlin-scripting-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <prefix>ae-mirror</prefix>
       <artifactId>ae-mirror-plugin</artifactId>
     </plugin>
