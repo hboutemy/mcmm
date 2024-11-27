@@ -3,8 +3,8 @@
   <groupId>org.wildfly.galleon-plugins</groupId>
   <artifactId>wildfly-galleon-maven-plugin</artifactId>
   <versioning>
-    <latest>7.3.0.Final</latest>
-    <release>7.3.0.Final</release>
+    <latest>7.3.1.Final</latest>
+    <release>7.3.1.Final</release>
     <versions>
       <version>2.0.0.Alpha1</version>
       <version>2.0.0.Alpha2</version>
@@ -133,7 +133,8 @@
       <version>7.2.0.Final</version>
       <version>7.2.1.Final</version>
       <version>7.3.0.Final</version>
+      <version>7.3.1.Final</version>
     </versions>
-    <lastUpdated>20241112115827</lastUpdated>
+    <lastUpdated>20241126115941</lastUpdated>
   </versioning>
 </metadata>

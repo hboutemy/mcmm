@@ -3,8 +3,8 @@
   <groupId>org.finos.cdm</groupId>
   <artifactId>cdm-json-schema</artifactId>
   <versioning>
-    <latest>6.0.0-dev.84</latest>
-    <release>6.0.0-dev.84</release>
+    <latest>6.0.0-dev.86</latest>
+    <release>6.0.0-dev.86</release>
     <versions>
       <version>5.16.0</version>
       <version>5.17.0</version>
@@ -29,6 +29,8 @@
       <version>6.0.0-dev.82</version>
       <version>6.0.0-dev.83</version>
       <version>6.0.0-dev.84</version>
+      <version>6.0.0-dev.85</version>
+      <version>6.0.0-dev.86</version>
       <version>5.10.0</version>
       <version>5.11.0</version>
       <version>5.11.1</version>
@@ -85,6 +87,6 @@
       <version>6.0.0-dev.61</version>
       <version>6.0.0-dev.62</version>
     </versions>
-    <lastUpdated>20241122102555</lastUpdated>
+    <lastUpdated>20241126150307</lastUpdated>
   </versioning>
 </metadata>

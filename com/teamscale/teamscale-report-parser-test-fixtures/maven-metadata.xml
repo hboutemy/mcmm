@@ -3,8 +3,8 @@
   <groupId>com.teamscale</groupId>
   <artifactId>teamscale-report-parser-test-fixtures</artifactId>
   <versioning>
-    <latest>2024.9.0-rc3</latest>
-    <release>2024.9.0-rc3</release>
+    <latest>2024.9.0</latest>
+    <release>2024.9.0</release>
     <versions>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -224,6 +224,7 @@
       <version>9.9.15</version>
       <version>9.9.16</version>
       <version>9.9.17</version>
+      <version>9.9.18</version>
       <version>2024.7.0-rc1</version>
       <version>2024.7.0-rc2</version>
       <version>2024.7.0-rc3</version>
@@ -239,6 +240,7 @@
       <version>2024.7.9</version>
       <version>2024.7.10</version>
       <version>2024.7.11</version>
+      <version>2024.7.12</version>
       <version>2024.8.0-rc1</version>
       <version>2024.8.0-rc2</version>
       <version>2024.8.0-rc3</version>
@@ -248,11 +250,13 @@
       <version>2024.8.3</version>
       <version>2024.8.4</version>
       <version>2024.8.5</version>
+      <version>2024.8.6</version>
       <version>2024.9.0-rc1</version>
       <version>2024.9.0-rc2</version>
       <version>2024.9.0-rc3</version>
+      <version>2024.9.0</version>
       <version>9.4.0</version>
     </versions>
-    <lastUpdated>20241119143549</lastUpdated>
+    <lastUpdated>20241126143125</lastUpdated>
   </versioning>
 </metadata>
