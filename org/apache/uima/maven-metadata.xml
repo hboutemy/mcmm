@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <name>Apache UIMA Tools: ${project.artifactId}</name>
       <prefix>PearPackagingMavenPlugin</prefix>
       <artifactId>PearPackagingMavenPlugin</artifactId>
     </plugin>
@@ -17,7 +17,7 @@
       <artifactId>PearPackagingMavenPlugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache UIMA Maven: ${project.artifactId}</name>
+      <name>Apache UIMA Tools: ${project.artifactId}</name>
       <prefix>jcasgen</prefix>
       <artifactId>jcasgen-maven-plugin</artifactId>
     </plugin>
@@ -37,7 +37,7 @@
       <artifactId>uima-build-helper-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache UIMA uimaFIT - Maven Plugin</name>
+      <name>Apache UIMA uimaFIT: Maven Plugin</name>
       <prefix>uimafit</prefix>
       <artifactId>uimafit-maven-plugin</artifactId>
     </plugin>

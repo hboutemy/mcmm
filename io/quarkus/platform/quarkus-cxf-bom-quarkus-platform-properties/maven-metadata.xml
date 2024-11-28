@@ -3,8 +3,8 @@
   <groupId>io.quarkus.platform</groupId>
   <artifactId>quarkus-cxf-bom-quarkus-platform-properties</artifactId>
   <versioning>
-    <latest>3.17.0.CR1</latest>
-    <release>3.17.0.CR1</release>
+    <latest>3.17.0</latest>
+    <release>3.17.0</release>
     <versions>
       <version>3.1.0.Final</version>
       <version>3.1.1.Final</version>
@@ -102,7 +102,8 @@
       <version>3.16.3</version>
       <version>3.16.4</version>
       <version>3.17.0.CR1</version>
+      <version>3.17.0</version>
     </versions>
-    <lastUpdated>20241120152317</lastUpdated>
+    <lastUpdated>20241127091942</lastUpdated>
   </versioning>
 </metadata>
