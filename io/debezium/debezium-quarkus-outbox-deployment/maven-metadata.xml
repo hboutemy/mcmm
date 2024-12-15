@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-quarkus-outbox-deployment</artifactId>
   <versioning>
-    <latest>3.0.3.Final</latest>
-    <release>3.0.3.Final</release>
+    <latest>3.0.4.Final</latest>
+    <release>3.0.4.Final</release>
     <versions>
       <version>1.1.0.Alpha1</version>
       <version>1.1.0.Beta1</version>
@@ -154,8 +154,9 @@
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
       <version>3.0.3.Final</version>
+      <version>3.0.4.Final</version>
       <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20241125120941</lastUpdated>
+    <lastUpdated>20241128132650</lastUpdated>
   </versioning>
 </metadata>

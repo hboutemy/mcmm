@@ -3,8 +3,8 @@
   <groupId>xyz.block.ftl</groupId>
   <artifactId>ftl-jvm-runtime-deployment</artifactId>
   <versioning>
-    <latest>0.403.2</latest>
-    <release>0.403.2</release>
+    <latest>0.406.0</latest>
+    <release>0.406.0</release>
     <versions>
       <version>jvm-publish</version>
       <version>main</version>
@@ -88,7 +88,15 @@
       <version>0.403.0</version>
       <version>0.403.1</version>
       <version>0.403.2</version>
+      <version>0.404.0</version>
+      <version>0.404.1</version>
+      <version>0.405.0</version>
+      <version>0.405.1</version>
+      <version>0.405.3</version>
+      <version>0.405.4</version>
+      <version>0.405.5</version>
+      <version>0.406.0</version>
     </versions>
-    <lastUpdated>20241127052334</lastUpdated>
+    <lastUpdated>20241128213550</lastUpdated>
   </versioning>
 </metadata>

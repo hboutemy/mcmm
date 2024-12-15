@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-tool-spoon-tests</artifactId>
   <versioning>
-    <latest>16.10.0-rc-1</latest>
-    <release>16.10.0-rc-1</release>
+    <latest>16.10.0</latest>
+    <release>16.10.0</release>
     <versions>
       <version>12.10.11</version>
       <version>13.4.6</version>
@@ -138,6 +138,7 @@
       <version>16.9.0-rc-1</version>
       <version>16.9.0</version>
       <version>16.10.0-rc-1</version>
+      <version>16.10.0</version>
       <version>12.10</version>
       <version>12.10.1</version>
       <version>12.10.10</version>
@@ -202,6 +203,6 @@
       <version>13.9</version>
       <version>13.9-rc-1</version>
     </versions>
-    <lastUpdated>20241119083128</lastUpdated>
+    <lastUpdated>20241128110355</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-bom</artifactId>
   <versioning>
-    <latest>3.0.3.Final</latest>
-    <release>3.0.3.Final</release>
+    <latest>3.0.4.Final</latest>
+    <release>3.0.4.Final</release>
     <versions>
       <version>1.5.0.CR1</version>
       <version>1.5.0.Final</version>
@@ -121,7 +121,8 @@
       <version>3.0.1.Final</version>
       <version>3.0.2.Final</version>
       <version>3.0.3.Final</version>
+      <version>3.0.4.Final</version>
     </versions>
-    <lastUpdated>20241125120627</lastUpdated>
+    <lastUpdated>20241128132311</lastUpdated>
   </versioning>
 </metadata>

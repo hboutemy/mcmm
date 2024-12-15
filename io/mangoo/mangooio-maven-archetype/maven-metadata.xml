@@ -3,8 +3,8 @@
   <groupId>io.mangoo</groupId>
   <artifactId>mangooio-maven-archetype</artifactId>
   <versioning>
-    <latest>9.0.0-Beta10</latest>
-    <release>9.0.0-Beta10</release>
+    <latest>9.0.0-Beta13</latest>
+    <release>9.0.0-Beta13</release>
     <versions>
       <version>1.0.0-RC4</version>
       <version>1.0.0-RC5</version>
@@ -541,8 +541,11 @@
       <version>9.0.0-Beta8</version>
       <version>9.0.0-Beta9</version>
       <version>9.0.0-Beta10</version>
+      <version>9.0.0-Beta11</version>
+      <version>9.0.0-Beta12</version>
+      <version>9.0.0-Beta13</version>
       <version>4.0.0-Aplha1</version>
     </versions>
-    <lastUpdated>20241127135621</lastUpdated>
+    <lastUpdated>20241128133408</lastUpdated>
   </versioning>
 </metadata>
