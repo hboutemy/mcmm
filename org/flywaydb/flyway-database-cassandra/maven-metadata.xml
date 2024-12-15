@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-database-cassandra</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>11.0.1</latest>
+    <release>11.0.1</release>
     <versions>
       <version>10.17.1</version>
       <version>10.17.2</version>
@@ -18,7 +18,8 @@
       <version>10.21.0</version>
       <version>10.22.0</version>
       <version>11.0.0</version>
+      <version>11.0.1</version>
     </versions>
-    <lastUpdated>20241121144317</lastUpdated>
+    <lastUpdated>20241203141331</lastUpdated>
   </versioning>
 </metadata>

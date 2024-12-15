@@ -3,8 +3,8 @@
   <groupId>aws.smithy.kotlin</groupId>
   <artifactId>http-client-engine-okhttp-jvm</artifactId>
   <versioning>
-    <latest>1.3.27</latest>
-    <release>1.3.27</release>
+    <latest>1.3.28</latest>
+    <release>1.3.28</release>
     <versions>
       <version>0.11.0</version>
       <version>0.11.1</version>
@@ -145,7 +145,8 @@
       <version>1.3.25</version>
       <version>1.3.26</version>
       <version>1.3.27</version>
+      <version>1.3.28</version>
     </versions>
-    <lastUpdated>20241202171640</lastUpdated>
+    <lastUpdated>20241203203754</lastUpdated>
   </versioning>
 </metadata>

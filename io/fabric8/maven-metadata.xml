@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Fabric8 :: CRD generator :: Maven Plugin</name>
+      <prefix>crd-generator</prefix>
+      <artifactId>crd-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>docker-maven-plugin</name>
       <prefix>docker</prefix>
       <artifactId>docker-maven-plugin</artifactId>
@@ -30,6 +35,11 @@
       <name>Fabric8 :: Java generator :: Maven Plugin</name>
       <prefix>java-generator</prefix>
       <artifactId>java-generator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Fabric8 :: OpenAPI Generator Maven Plugin</name>
+      <prefix>openapi-model-generator</prefix>
+      <artifactId>openapi-model-generator-maven-plugin</artifactId>
     </plugin>
     <plugin>
       <name>Vert.x Maven Plugin</name>

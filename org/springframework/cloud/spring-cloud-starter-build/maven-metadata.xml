@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-build</artifactId>
   <versioning>
-    <latest>2023.0.4</latest>
-    <release>2023.0.4</release>
+    <latest>2024.0.0</latest>
+    <release>2024.0.0</release>
     <versions>
       <version>Brixton.SR6</version>
       <version>Brixton.SR7</version>
@@ -88,12 +88,13 @@
       <version>2023.0.2</version>
       <version>2023.0.3</version>
       <version>2023.0.4</version>
+      <version>2024.0.0</version>
       <version>2020.0.2</version>
       <version>2020.0.3</version>
       <version>2020.0.4</version>
       <version>Hoxton.SR11</version>
       <version>Hoxton.SR12</version>
     </versions>
-    <lastUpdated>20241127005920</lastUpdated>
+    <lastUpdated>20241203070911</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.flywaydb</groupId>
   <artifactId>flyway-database-redshift</artifactId>
   <versioning>
-    <latest>11.0.0</latest>
-    <release>11.0.0</release>
+    <latest>11.0.1</latest>
+    <release>11.0.1</release>
     <versions>
       <version>10.0.0</version>
       <version>10.0.1</version>
@@ -44,7 +44,8 @@
       <version>10.21.0</version>
       <version>10.22.0</version>
       <version>11.0.0</version>
+      <version>11.0.1</version>
     </versions>
-    <lastUpdated>20241121144327</lastUpdated>
+    <lastUpdated>20241203141340</lastUpdated>
   </versioning>
 </metadata>

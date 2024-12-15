@@ -3,8 +3,8 @@
   <groupId>io.fabric8</groupId>
   <artifactId>istio-client</artifactId>
   <versioning>
-    <latest>6.13.4</latest>
-    <release>6.13.4</release>
+    <latest>7.0.0</latest>
+    <release>7.0.0</release>
     <versions>
       <version>5.11.0</version>
       <version>5.11.1</version>
@@ -45,7 +45,8 @@
       <version>6.13.2</version>
       <version>6.13.3</version>
       <version>6.13.4</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20240925091042</lastUpdated>
+    <lastUpdated>20241203114407</lastUpdated>
   </versioning>
 </metadata>
