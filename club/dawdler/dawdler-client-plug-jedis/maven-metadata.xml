@@ -3,8 +3,8 @@
   <groupId>club.dawdler</groupId>
   <artifactId>dawdler-client-plug-jedis</artifactId>
   <versioning>
-    <latest>0.0.3-jdk17-RELEASES</latest>
-    <release>0.0.3-jdk17-RELEASES</release>
+    <latest>0.0.4-jdk21-RELEASES</latest>
+    <release>0.0.4-jdk21-RELEASES</release>
     <versions>
       <version>0.0.1-jdk17-RELEASES</version>
       <version>0.0.1-jdk1.8-RELEASES</version>
@@ -14,8 +14,11 @@
       <version>0.0.2-jdk1.8-RELEASES</version>
       <version>0.0.3-jdk17-RELEASES</version>
       <version>0.0.3-jdk1.8-RELEASES</version>
+      <version>0.0.4-jdk21-RELEASES</version>
+      <version>0.0.4-jdk17-RELEASES</version>
       <version>0.0.3-jdk21-RELEASES</version>
+      <version>0.0.4-jdk1.8-RELEASES</version>
     </versions>
-    <lastUpdated>20241101101416</lastUpdated>
+    <lastUpdated>20241202084547</lastUpdated>
   </versioning>
 </metadata>
