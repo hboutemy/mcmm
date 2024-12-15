@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-transaction-common</artifactId>
   <versioning>
-    <latest>4.0.0.6</latest>
-    <release>4.0.0.6</release>
+    <latest>4.0.0.7</latest>
+    <release>4.0.0.7</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -769,7 +769,8 @@
       <version>4.0.0.4</version>
       <version>4.0.0.5</version>
       <version>4.0.0.6</version>
+      <version>4.0.0.7</version>
     </versions>
-    <lastUpdated>20241130135237</lastUpdated>
+    <lastUpdated>20241201161816</lastUpdated>
   </versioning>
 </metadata>
