@@ -6,5 +6,10 @@
       <prefix>download</prefix>
       <artifactId>download-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Exec Maven Plugin</name>
+      <prefix>exec</prefix>
+      <artifactId>exec-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
