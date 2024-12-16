@@ -3,8 +3,8 @@
   <groupId>com.gu</groupId>
   <artifactId>fapi-client-play30_2.13</artifactId>
   <versioning>
-    <latest>13.1.0-PREVIEW.glaspect-ratio.2024-11-21T0922.ecaf8409</latest>
-    <release>13.1.0-PREVIEW.glaspect-ratio.2024-11-21T0922.ecaf8409</release>
+    <latest>13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1851.9f8c191c</latest>
+    <release>13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1851.9f8c191c</release>
     <versions>
       <version>4.0.9</version>
       <version>4.0.10</version>
@@ -48,7 +48,9 @@
       <version>13.0.1-PREVIEW.cemms1hide-media-if-no-cutout.2024-11-20T1629.151f147a</version>
       <version>13.1.0</version>
       <version>13.1.0-PREVIEW.glaspect-ratio.2024-11-21T0922.ecaf8409</version>
+      <version>13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1538.9cf190cd</version>
+      <version>13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1851.9f8c191c</version>
     </versions>
-    <lastUpdated>20241125095938</lastUpdated>
+    <lastUpdated>20241213185804</lastUpdated>
   </versioning>
 </metadata>
