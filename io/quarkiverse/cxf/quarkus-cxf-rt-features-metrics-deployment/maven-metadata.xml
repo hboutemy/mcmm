@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-rt-features-metrics-deployment</artifactId>
   <versioning>
-    <latest>3.17.1</latest>
-    <release>3.17.1</release>
+    <latest>3.17.2</latest>
+    <release>3.17.2</release>
     <versions>
       <version>0.14.0</version>
       <version>1.0.0</version>
@@ -96,7 +96,8 @@
       <version>3.16.1</version>
       <version>3.17.0</version>
       <version>3.17.1</version>
+      <version>3.17.2</version>
     </versions>
-    <lastUpdated>20241201122802</lastUpdated>
+    <lastUpdated>20241204170603</lastUpdated>
   </versioning>
 </metadata>

@@ -3,9 +3,22 @@
   <groupId>org.ops4j.pax.jdbc</groupId>
   <artifactId>pax-jdbc-sqlite</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.5.7</latest>
+    <release>1.5.7</release>
     <versions>
+      <version>1.4.1</version>
+      <version>1.4.2</version>
+      <version>1.4.3</version>
+      <version>1.4.4</version>
+      <version>1.4.5</version>
+      <version>1.5.0</version>
+      <version>1.5.1</version>
+      <version>1.5.2</version>
+      <version>1.5.3</version>
+      <version>1.5.4</version>
+      <version>1.5.5</version>
+      <version>1.5.6</version>
+      <version>1.5.7</version>
       <version>0.3.0</version>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -25,20 +38,7 @@
       <version>1.3.4</version>
       <version>1.3.5</version>
       <version>1.4.0</version>
-      <version>1.4.1</version>
-      <version>1.4.2</version>
-      <version>1.4.3</version>
-      <version>1.4.4</version>
-      <version>1.4.5</version>
-      <version>1.5.0</version>
-      <version>1.5.1</version>
-      <version>1.5.2</version>
-      <version>1.5.3</version>
-      <version>1.5.4</version>
-      <version>1.5.5</version>
-      <version>1.5.6</version>
-      <version>1.5.7</version>
     </versions>
-    <lastUpdated>20190719144432</lastUpdated>
+    <lastUpdated>20240325093337</lastUpdated>
   </versioning>
 </metadata>
