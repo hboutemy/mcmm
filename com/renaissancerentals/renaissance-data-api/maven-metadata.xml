@@ -3,12 +3,14 @@
   <groupId>com.renaissancerentals</groupId>
   <artifactId>renaissance-data-api</artifactId>
   <versioning>
-    <latest>5.0.2.RELEASE</latest>
-    <release>5.0.2.RELEASE</release>
+    <latest>5.0.4.RELEASE</latest>
+    <release>5.0.4.RELEASE</release>
     <versions>
       <version>2.0.1.RELEASE</version>
       <version>5.0.1.RELEASE</version>
       <version>5.0.2.RELEASE</version>
+      <version>5.0.3.RELEASE</version>
+      <version>5.0.4.RELEASE</version>
       <version>1.0.1.RELEASE</version>
       <version>1.0.3.RELEASE</version>
       <version>1.0.4.RELEASE</version>
@@ -41,6 +43,6 @@
       <version>1.2.1.RELEASE</version>
       <version>1.2.3.RELEASE</version>
     </versions>
-    <lastUpdated>20241130230636</lastUpdated>
+    <lastUpdated>20241207163049</lastUpdated>
   </versioning>
 </metadata>
