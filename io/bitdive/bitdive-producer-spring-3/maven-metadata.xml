@@ -3,14 +3,15 @@
   <groupId>io.bitdive</groupId>
   <artifactId>bitdive-producer-spring-3</artifactId>
   <versioning>
-    <latest>0.0.13</latest>
-    <release>0.0.13</release>
+    <latest>0.0.14</latest>
+    <release>0.0.14</release>
     <versions>
+      <version>0.0.14</version>
+      <version>0.0.1-SHAPSHOT</version>
+      <version>0.0.10</version>
       <version>0.0.11</version>
       <version>0.0.12</version>
       <version>0.0.13</version>
-      <version>0.0.1-SHAPSHOT</version>
-      <version>0.0.10</version>
       <version>0.0.2-SHAPSHOT</version>
       <version>0.0.3-SHAPSHOT</version>
       <version>0.0.4-SHAPSHOT</version>
@@ -20,6 +21,6 @@
       <version>0.0.8</version>
       <version>0.0.9</version>
     </versions>
-    <lastUpdated>20241211191921</lastUpdated>
+    <lastUpdated>20241215202620</lastUpdated>
   </versioning>
 </metadata>
