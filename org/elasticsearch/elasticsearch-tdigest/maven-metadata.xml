@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-tdigest</artifactId>
   <versioning>
-    <latest>8.16.1</latest>
-    <release>8.16.1</release>
+    <latest>8.17.0</latest>
+    <release>8.17.0</release>
     <versions>
       <version>8.9.0</version>
       <version>8.9.1</version>
@@ -39,7 +39,9 @@
       <version>8.15.5</version>
       <version>8.16.0</version>
       <version>8.16.1</version>
+      <version>8.16.2</version>
+      <version>8.17.0</version>
     </versions>
-    <lastUpdated>20241126094412</lastUpdated>
+    <lastUpdated>20241212155358</lastUpdated>
   </versioning>
 </metadata>

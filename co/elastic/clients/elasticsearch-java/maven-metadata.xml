@@ -3,8 +3,8 @@
   <groupId>co.elastic.clients</groupId>
   <artifactId>elasticsearch-java</artifactId>
   <versioning>
-    <latest>8.16.1</latest>
-    <release>8.16.1</release>
+    <latest>8.17.0</latest>
+    <release>8.17.0</release>
     <versions>
       <version>7.15.0</version>
       <version>7.15.1</version>
@@ -105,7 +105,9 @@
       <version>8.15.5</version>
       <version>8.16.0</version>
       <version>8.16.1</version>
+      <version>8.16.2</version>
+      <version>8.17.0</version>
     </versions>
-    <lastUpdated>20241204094205</lastUpdated>
+    <lastUpdated>20241212155236</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-context-support</artifactId>
   <versioning>
-    <latest>6.2.0</latest>
-    <release>6.2.0</release>
+    <latest>6.2.1</latest>
+    <release>6.2.1</release>
     <versions>
       <version>2.5</version>
       <version>2.5.1</version>
@@ -257,8 +257,10 @@
       <version>6.1.13</version>
       <version>6.1.14</version>
       <version>6.1.15</version>
+      <version>6.1.16</version>
       <version>6.2.0</version>
+      <version>6.2.1</version>
     </versions>
-    <lastUpdated>20241114164017</lastUpdated>
+    <lastUpdated>20241212094105</lastUpdated>
   </versioning>
 </metadata>
