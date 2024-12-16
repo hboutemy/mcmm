@@ -267,7 +267,7 @@
       <artifactId>maven-one-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache Maven Patch Plugin</name>
+      <name>Apache Maven Patch Plugin (RETIRED)</name>
       <prefix>patch</prefix>
       <artifactId>maven-patch-plugin</artifactId>
     </plugin>
