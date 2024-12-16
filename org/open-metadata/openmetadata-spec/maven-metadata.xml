@@ -3,8 +3,8 @@
   <groupId>org.open-metadata</groupId>
   <artifactId>openmetadata-spec</artifactId>
   <versioning>
-    <latest>1.6.0-rc3</latest>
-    <release>1.6.0-rc3</release>
+    <latest>1.6.1</latest>
+    <release>1.6.1</release>
     <versions>
       <version>DEMO_BETA1</version>
       <version>0.12.1</version>
@@ -87,7 +87,9 @@
       <version>1.6.0-rc1</version>
       <version>1.6.0-rc2</version>
       <version>1.6.0-rc3</version>
+      <version>1.6.0</version>
+      <version>1.6.1</version>
     </versions>
-    <lastUpdated>20241205132506</lastUpdated>
+    <lastUpdated>20241210174223</lastUpdated>
   </versioning>
 </metadata>

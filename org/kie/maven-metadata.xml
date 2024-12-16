@@ -2,16 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>KIE EAP - Maven plugin</name>
-      <prefix>jboss-modules</prefix>
-      <artifactId>jboss-modules</artifactId>
-    </plugin>
-    <plugin>
-      <name>KIE :: Gwt Helper Maven Plugin</name>
-      <prefix>kie-gwthelper</prefix>
-      <artifactId>kie-gwthelper-maven-plugin</artifactId>
-    </plugin>
-    <plugin>
       <name>KIE :: Maven Plugin</name>
       <prefix>kie</prefix>
       <artifactId>kie-maven-plugin</artifactId>

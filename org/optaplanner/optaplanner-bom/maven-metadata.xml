@@ -3,9 +3,10 @@
   <groupId>org.optaplanner</groupId>
   <artifactId>optaplanner-bom</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>6.0.0.CR2</version>
       <version>6.0.0.CR3</version>
       <version>6.0.0.CR4</version>
@@ -58,16 +59,6 @@
       <version>7.1.0.Beta2</version>
       <version>7.1.0.Beta3</version>
       <version>7.1.0.Final</version>
-      <version>7.2.0.Final</version>
-      <version>7.3.0.Final</version>
-      <version>7.4.1.Final</version>
-      <version>7.5.0.Final</version>
-      <version>7.5.0.t018</version>
-      <version>7.6.0.Final</version>
-      <version>7.6.0.t022</version>
-      <version>7.7.0.Final</version>
-      <version>7.8.0.Final</version>
-      <version>7.9.0.Final</version>
       <version>7.10.0.Final</version>
       <version>7.11.0.Final</version>
       <version>7.12.0.Final</version>
@@ -78,6 +69,7 @@
       <version>7.17.0.Final</version>
       <version>7.18.0.Final</version>
       <version>7.19.0.Final</version>
+      <version>7.2.0.Final</version>
       <version>7.20.0.Final</version>
       <version>7.21.0.Final</version>
       <version>7.22.0.Final</version>
@@ -90,6 +82,7 @@
       <version>7.27.0.Final</version>
       <version>7.28.0.Final</version>
       <version>7.29.0.Final</version>
+      <version>7.3.0.Final</version>
       <version>7.30.0.Final</version>
       <version>7.31.0.Final</version>
       <version>7.32.0.Final</version>
@@ -97,16 +90,17 @@
       <version>7.33.0.Final</version>
       <version>7.34.0.Final</version>
       <version>7.35.0.Final</version>
-      <version>7.36.0.Final</version>
       <version>7.36.0.20200330</version>
       <version>7.36.0.20200331</version>
+      <version>7.36.0.Final</version>
       <version>7.36.1.Final</version>
       <version>7.37.0.Final</version>
       <version>7.38.0.Final</version>
       <version>7.39.0.CR1</version>
       <version>7.39.0.Final</version>
-      <version>7.40.0.Final</version>
+      <version>7.4.1.Final</version>
       <version>7.40.0.20200703</version>
+      <version>7.40.0.Final</version>
       <version>7.41.0.Final</version>
       <version>7.41.0.t20200723</version>
       <version>7.42.0.Final</version>
@@ -124,6 +118,8 @@
       <version>7.48.0.Final</version>
       <version>7.49.0.Final</version>
       <version>7.49.0.t20210118</version>
+      <version>7.5.0.Final</version>
+      <version>7.5.0.t018</version>
       <version>7.50.0.Final</version>
       <version>7.50.0.t20210209</version>
       <version>7.51.0.Final</version>
@@ -144,6 +140,8 @@
       <version>7.58.0.Final</version>
       <version>7.59.0.Beta1</version>
       <version>7.59.0.Final</version>
+      <version>7.6.0.Final</version>
+      <version>7.6.0.t022</version>
       <version>7.60.0.Final</version>
       <version>7.61.0.Final</version>
       <version>7.62.0.Final</version>
@@ -155,23 +153,16 @@
       <version>7.67.0.Final</version>
       <version>7.68.0.Final</version>
       <version>7.69.0.Final</version>
+      <version>7.7.0.Final</version>
       <version>7.70.0.Final</version>
       <version>7.71.0.Final</version>
       <version>7.72.0.Final</version>
       <version>7.73.0.Final</version>
+      <version>7.8.0.Final</version>
+      <version>7.9.0.Final</version>
       <version>8.0.0.Beta1</version>
       <version>8.0.0.Final</version>
       <version>8.1.0.Final</version>
-      <version>8.2.0.Final</version>
-      <version>8.3.0.Final</version>
-      <version>8.4.0.Final</version>
-      <version>8.4.1.Final</version>
-      <version>8.5.0.Final</version>
-      <version>8.6.0.Final</version>
-      <version>8.7.0.Final</version>
-      <version>8.8.0.Final</version>
-      <version>8.9.0.Final</version>
-      <version>8.9.1.Final</version>
       <version>8.10.0.Final</version>
       <version>8.11.0.Final</version>
       <version>8.11.1.Final</version>
@@ -185,6 +176,7 @@
       <version>8.17.0.Final</version>
       <version>8.18.0.Final</version>
       <version>8.19.0.Final</version>
+      <version>8.2.0.Final</version>
       <version>8.20.0.Final</version>
       <version>8.21.0.Final</version>
       <version>8.22.0.Final</version>
@@ -197,6 +189,7 @@
       <version>8.27.0.Final</version>
       <version>8.28.0.Final</version>
       <version>8.29.0.Final</version>
+      <version>8.3.0.Final</version>
       <version>8.30.0.Final</version>
       <version>8.31.0.Final</version>
       <version>8.31.1.Final</version>
@@ -207,11 +200,19 @@
       <version>8.36.0.Final</version>
       <version>8.37.0.Final</version>
       <version>8.38.0.Final</version>
+      <version>8.4.0.Final</version>
+      <version>8.4.1.Final</version>
       <version>8.40.0.Final</version>
       <version>8.41.0.Final</version>
       <version>8.42.0.Final</version>
       <version>8.43.0.Final</version>
       <version>8.44.0.Final</version>
+      <version>8.5.0.Final</version>
+      <version>8.6.0.Final</version>
+      <version>8.7.0.Final</version>
+      <version>8.8.0.Final</version>
+      <version>8.9.0.Final</version>
+      <version>8.9.1.Final</version>
       <version>9.34.0.Beta1</version>
       <version>9.35.0.Beta2</version>
       <version>9.36.0.Beta3</version>
@@ -223,6 +224,6 @@
       <version>9.43.0.Final</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20230905161643</lastUpdated>
+    <lastUpdated>20241209233703</lastUpdated>
   </versioning>
 </metadata>

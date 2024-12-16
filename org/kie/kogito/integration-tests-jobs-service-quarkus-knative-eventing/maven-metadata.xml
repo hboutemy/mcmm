@@ -3,9 +3,10 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>integration-tests-jobs-service-quarkus-knative-eventing</artifactId>
   <versioning>
-    <latest>2.44.0.Alpha</latest>
-    <release>2.44.0.Alpha</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>1.29.0.Final</version>
       <version>1.30.0.Final</version>
       <version>1.31.0.Final</version>
@@ -28,6 +29,6 @@
       <version>1.44.1.Final</version>
       <version>2.44.0.Alpha</version>
     </versions>
-    <lastUpdated>20230907121504</lastUpdated>
+    <lastUpdated>20241210001451</lastUpdated>
   </versioning>
 </metadata>

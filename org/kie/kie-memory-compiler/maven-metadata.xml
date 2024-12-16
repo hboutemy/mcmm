@@ -3,18 +3,19 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-memory-compiler</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
-      <version>7.36.0.Final</version>
+      <version>10.0.0</version>
       <version>7.36.0.20200331</version>
+      <version>7.36.0.Final</version>
       <version>7.36.1.Final</version>
       <version>7.37.0.Final</version>
       <version>7.38.0.Final</version>
       <version>7.39.0.CR1</version>
       <version>7.39.0.Final</version>
-      <version>7.40.0.Final</version>
       <version>7.40.0.20200703</version>
+      <version>7.40.0.Final</version>
       <version>7.41.0.Final</version>
       <version>7.41.0.t20200723</version>
       <version>7.42.0.Final</version>
@@ -113,6 +114,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092321</lastUpdated>
+    <lastUpdated>20241209233121</lastUpdated>
   </versioning>
 </metadata>

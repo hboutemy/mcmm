@@ -3,9 +3,11 @@
   <groupId>com.softwaremill.sttp.shared</groupId>
   <artifactId>pekko_2.13</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.4.2</latest>
+    <release>1.4.2</release>
     <versions>
+      <version>0.4.1</version>
+      <version>0.4.2</version>
       <version>1.3.16</version>
       <version>1.3.17</version>
       <version>1.3.18</version>
@@ -14,7 +16,9 @@
       <version>1.3.21</version>
       <version>1.3.22</version>
       <version>1.4.0</version>
+      <version>1.4.1</version>
+      <version>1.4.2</version>
     </versions>
-    <lastUpdated>20241112141026</lastUpdated>
+    <lastUpdated>20241210121552</lastUpdated>
   </versioning>
 </metadata>

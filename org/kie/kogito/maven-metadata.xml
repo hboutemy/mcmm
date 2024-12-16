@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Kogito :: jBPM :: Tools :: Maven</name>
+      <prefix>jbpm-tools</prefix>
+      <artifactId>jbpm-tools-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Kogito :: Maven Plugin</name>
       <prefix>kogito</prefix>
       <artifactId>kogito-maven-plugin</artifactId>

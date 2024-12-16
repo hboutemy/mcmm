@@ -12,7 +12,7 @@
       <artifactId>nisse-plugin3</artifactId>
     </plugin>
     <plugin>
-      <name>eu.maveniverse.maven.plugins:toolbox</name>
+      <name>${project.groupId}:${project.artifactId}</name>
       <prefix>toolbox</prefix>
       <artifactId>toolbox</artifactId>
     </plugin>

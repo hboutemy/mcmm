@@ -3,8 +3,8 @@
   <groupId>com.sap.cloud.spring.boot</groupId>
   <artifactId>spring-boot-multi-tenancy</artifactId>
   <versioning>
-    <latest>3.3.2</latest>
-    <release>3.3.2</release>
+    <latest>3.3.3</latest>
+    <release>3.3.3</release>
     <versions>
       <version>1.3.1</version>
       <version>1.4.2</version>
@@ -80,6 +80,7 @@
       <version>2.10.3</version>
       <version>2.10.4</version>
       <version>2.10.5</version>
+      <version>2.10.6</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -90,7 +91,8 @@
       <version>3.3.0</version>
       <version>3.3.1</version>
       <version>3.3.2</version>
+      <version>3.3.3</version>
     </versions>
-    <lastUpdated>20241125175619</lastUpdated>
+    <lastUpdated>20241210144109</lastUpdated>
   </versioning>
 </metadata>

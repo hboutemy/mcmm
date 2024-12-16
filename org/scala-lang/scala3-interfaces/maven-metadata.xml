@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-interfaces</artifactId>
   <versioning>
-    <latest>3.6.4-RC1-bin-20241205-c61897d-NIGHTLY</latest>
-    <release>3.6.4-RC1-bin-20241205-c61897d-NIGHTLY</release>
+    <latest>3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY</latest>
+    <release>3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY</release>
     <versions>
       <version>3.0.0-M1</version>
       <version>3.0.0-M1-bin-20201015-8c56525-NIGHTLY</version>
@@ -821,6 +821,7 @@
       <version>3.3.4-RC3</version>
       <version>3.3.4-RC4</version>
       <version>3.3.4</version>
+      <version>3.3.5-RC1</version>
       <version>3.3.5-RC1-bin-20240712-4eb7668-NIGHTLY</version>
       <version>3.3.5-RC1-bin-20240808-53791b0-NIGHTLY</version>
       <version>3.3.5-RC1-bin-20240925-9eb858b-NIGHTLY</version>
@@ -829,6 +830,7 @@
       <version>3.3.5-RC1-bin-20241202-8e7690b-NIGHTLY</version>
       <version>3.3.5-RC1-bin-20241203-6ba335a-NIGHTLY</version>
       <version>3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY</version>
+      <version>3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -1164,6 +1166,7 @@
       <version>3.6.2-RC2</version>
       <version>3.6.2-RC3</version>
       <version>3.6.2</version>
+      <version>3.6.3-RC1</version>
       <version>3.6.3-RC1-bin-20241107-caac72a-NIGHTLY</version>
       <version>3.6.3-RC1-bin-20241108-8a3f375-NIGHTLY</version>
       <version>3.6.3-RC1-bin-20241109-cc38962-NIGHTLY</version>
@@ -1186,7 +1189,8 @@
       <version>3.6.4-RC1-bin-20241203-a3425a9-NIGHTLY</version>
       <version>3.6.4-RC1-bin-20241204-a67dbb0-NIGHTLY</version>
       <version>3.6.4-RC1-bin-20241205-c61897d-NIGHTLY</version>
+      <version>3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY</version>
     </versions>
-    <lastUpdated>20241209134048</lastUpdated>
+    <lastUpdated>20241210184045</lastUpdated>
   </versioning>
 </metadata>
