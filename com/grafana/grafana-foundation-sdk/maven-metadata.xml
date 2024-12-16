@@ -3,8 +3,8 @@
   <groupId>com.grafana</groupId>
   <artifactId>grafana-foundation-sdk</artifactId>
   <versioning>
-    <latest>11.4.0-1733846263</latest>
-    <release>11.4.0-1733846263</release>
+    <latest>11.4.0-1733927393</latest>
+    <release>11.4.0-1733927393</release>
     <versions>
       <version>next-1721137873</version>
       <version>next-1722522306</version>
@@ -28,6 +28,7 @@
       <version>next-1733827523</version>
       <version>next-1733832383</version>
       <version>next-1733846144</version>
+      <version>next-1733927284</version>
       <version>10.1.0-1721137785</version>
       <version>10.1.0-1722522219</version>
       <version>10.1.0-1725547584</version>
@@ -49,6 +50,7 @@
       <version>10.1.0-1733828144</version>
       <version>10.1.0-1733833019</version>
       <version>10.1.0-1733846827</version>
+      <version>10.1.0-1733927908</version>
       <version>10.2.0-1721137804</version>
       <version>10.2.0-1722522236</version>
       <version>10.2.0-1725547603</version>
@@ -70,6 +72,7 @@
       <version>10.2.0-1733828076</version>
       <version>10.2.0-1733832949</version>
       <version>10.2.0-1733846747</version>
+      <version>10.2.0-1733927837</version>
       <version>10.3.0-1721137822</version>
       <version>10.3.0-1722522253</version>
       <version>10.3.0-1725547622</version>
@@ -91,6 +94,7 @@
       <version>10.3.0-1733828004</version>
       <version>10.3.0-1733832874</version>
       <version>10.3.0-1733846666</version>
+      <version>10.3.0-1733927764</version>
       <version>10.4.0-1721137839</version>
       <version>10.4.0-1722522272</version>
       <version>10.4.0-1725547640</version>
@@ -112,6 +116,7 @@
       <version>10.4.0-1733827941</version>
       <version>10.4.0-1733832811</version>
       <version>10.4.0-1733846596</version>
+      <version>10.4.0-1733927702</version>
       <version>11.0.0-1721137856</version>
       <version>11.0.0-1722522290</version>
       <version>11.0.0-1725547658</version>
@@ -133,6 +138,7 @@
       <version>11.0.0-1733827873</version>
       <version>11.0.0-1733832741</version>
       <version>11.0.0-1733846524</version>
+      <version>11.0.0-1733927633</version>
       <version>11.1.0-1726143090</version>
       <version>11.1.0-1726580542</version>
       <version>11.1.0-1727777563</version>
@@ -150,6 +156,7 @@
       <version>11.1.0-1733827809</version>
       <version>11.1.0-1733832675</version>
       <version>11.1.0-1733846456</version>
+      <version>11.1.0-1733927569</version>
       <version>11.2.0-1726142473</version>
       <version>11.2.0-1726580554</version>
       <version>11.2.0-1727777584</version>
@@ -167,6 +174,7 @@
       <version>11.2.0-1733827748</version>
       <version>11.2.0-1733832612</version>
       <version>11.2.0-1733846390</version>
+      <version>11.2.0-1733927509</version>
       <version>11.3.0-1730378377</version>
       <version>11.3.0-1730422425</version>
       <version>11.3.0-1730898216</version>
@@ -178,11 +186,13 @@
       <version>11.3.0-1733827698</version>
       <version>11.3.0-1733832559</version>
       <version>11.3.0-1733846335</version>
+      <version>11.3.0-1733927459</version>
       <version>11.4.0-1733524856</version>
       <version>11.4.0-1733827634</version>
       <version>11.4.0-1733832493</version>
       <version>11.4.0-1733846263</version>
+      <version>11.4.0-1733927393</version>
     </versions>
-    <lastUpdated>20241210182516</lastUpdated>
+    <lastUpdated>20241211150101</lastUpdated>
   </versioning>
 </metadata>

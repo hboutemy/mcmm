@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-cache-spi</artifactId>
   <versioning>
-    <latest>5.0.0.Beta1</latest>
-    <release>5.0.0.Beta1</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -47,7 +47,8 @@
       <version>4.0.4.Final</version>
       <version>4.0.5.Final</version>
       <version>5.0.0.Beta1</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20241209120124</lastUpdated>
+    <lastUpdated>20241211162743</lastUpdated>
   </versioning>
 </metadata>

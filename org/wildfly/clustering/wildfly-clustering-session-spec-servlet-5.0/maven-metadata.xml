@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-session-spec-servlet-5.0</artifactId>
   <versioning>
-    <latest>5.0.0.Beta1</latest>
-    <release>5.0.0.Beta1</release>
+    <latest>5.0.0.Final</latest>
+    <release>5.0.0.Final</release>
     <versions>
       <version>1.0.7.Final</version>
       <version>1.0.8.Final</version>
@@ -37,7 +37,8 @@
       <version>4.0.4.Final</version>
       <version>4.0.5.Final</version>
       <version>5.0.0.Beta1</version>
+      <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20241209120127</lastUpdated>
+    <lastUpdated>20241211162746</lastUpdated>
   </versioning>
 </metadata>

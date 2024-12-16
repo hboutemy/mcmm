@@ -3,8 +3,8 @@
   <groupId>org.openl.rules</groupId>
   <artifactId>org.openl.rules.ruleservice.ws.storelogdata.db.annotation</artifactId>
   <versioning>
-    <latest>5.27.9</latest>
-    <release>5.27.9</release>
+    <latest>5.27.9-jakarta</latest>
+    <release>5.27.9-jakarta</release>
     <versions>
       <version>5.25.1</version>
       <version>5.25.2</version>
@@ -53,7 +53,8 @@
       <version>5.27.8</version>
       <version>5.27.8.1</version>
       <version>5.27.9</version>
+      <version>5.27.9-jakarta</version>
     </versions>
-    <lastUpdated>20241113162954</lastUpdated>
+    <lastUpdated>20241211161958</lastUpdated>
   </versioning>
 </metadata>

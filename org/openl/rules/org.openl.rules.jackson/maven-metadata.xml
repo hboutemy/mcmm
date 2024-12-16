@@ -3,8 +3,8 @@
   <groupId>org.openl.rules</groupId>
   <artifactId>org.openl.rules.jackson</artifactId>
   <versioning>
-    <latest>5.27.9</latest>
-    <release>5.27.9</release>
+    <latest>5.27.9-jakarta</latest>
+    <release>5.27.9-jakarta</release>
     <versions>
       <version>5.18.0</version>
       <version>5.18.1</version>
@@ -137,7 +137,8 @@
       <version>5.27.8</version>
       <version>5.27.8.1</version>
       <version>5.27.9</version>
+      <version>5.27.9-jakarta</version>
     </versions>
-    <lastUpdated>20241113162921</lastUpdated>
+    <lastUpdated>20241211161932</lastUpdated>
   </versioning>
 </metadata>

@@ -6,5 +6,10 @@
       <prefix>aws-cdk</prefix>
       <artifactId>aws-cdk-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>jsonschema2pojo-maven-plugin</name>
+      <prefix>jsonschema2pojo</prefix>
+      <artifactId>jsonschema2pojo-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

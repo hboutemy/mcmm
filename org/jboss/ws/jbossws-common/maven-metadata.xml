@@ -3,8 +3,8 @@
   <groupId>org.jboss.ws</groupId>
   <artifactId>jbossws-common</artifactId>
   <versioning>
-    <latest>5.0.0.Final</latest>
-    <release>5.0.0.Final</release>
+    <latest>5.1.0.Final</latest>
+    <release>5.1.0.Final</release>
     <versions>
       <version>2.1.0.Final</version>
       <version>2.1.1.Final</version>
@@ -45,9 +45,11 @@
       <version>3.3.1.Final</version>
       <version>3.3.2.Final</version>
       <version>3.3.3.Final</version>
+      <version>3.4.0.Final</version>
       <version>4.0.0.Final</version>
       <version>5.0.0.Final</version>
+      <version>5.1.0.Final</version>
     </versions>
-    <lastUpdated>20230626025621</lastUpdated>
+    <lastUpdated>20241211024444</lastUpdated>
   </versioning>
 </metadata>
