@@ -3,8 +3,8 @@
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-hikaricp</artifactId>
   <versioning>
-    <latest>7.0.0.Beta2</latest>
-    <release>7.0.0.Beta2</release>
+    <latest>7.0.0.Beta3</latest>
+    <release>7.0.0.Beta3</release>
     <versions>
       <version>4.3.6.Final</version>
       <version>4.3.7.Final</version>
@@ -100,6 +100,7 @@
       <version>5.3.34.Final</version>
       <version>5.3.35.Final</version>
       <version>5.3.36.Final</version>
+      <version>5.3.37.Final</version>
       <version>5.4.0.CR1</version>
       <version>5.4.0.CR2</version>
       <version>5.4.0.Final</version>
@@ -263,6 +264,7 @@
       <version>7.0.0.Alpha3</version>
       <version>7.0.0.Beta1</version>
       <version>7.0.0.Beta2</version>
+      <version>7.0.0.Beta3</version>
       <version>5.1.13.Final</version>
       <version>5.1.14.Final</version>
       <version>5.1.15.Final</version>
@@ -275,6 +277,6 @@
       <version>5.4.33.Final</version>
       <version>5.5.6.Final</version>
     </versions>
-    <lastUpdated>20241121170959</lastUpdated>
+    <lastUpdated>20241205155823</lastUpdated>
   </versioning>
 </metadata>

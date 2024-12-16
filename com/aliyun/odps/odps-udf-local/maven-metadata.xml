@@ -3,8 +3,8 @@
   <groupId>com.aliyun.odps</groupId>
   <artifactId>odps-udf-local</artifactId>
   <versioning>
-    <latest>0.51.0-public.rc1</latest>
-    <release>0.51.0-public.rc1</release>
+    <latest>0.51.0-public</latest>
+    <release>0.51.0-public</release>
     <versions>
       <version>0.19.3-public</version>
       <version>0.20.7-public</version>
@@ -79,7 +79,8 @@
       <version>0.50.6-public</version>
       <version>0.51.0-public.rc0</version>
       <version>0.51.0-public.rc1</version>
+      <version>0.51.0-public</version>
     </versions>
-    <lastUpdated>20241127100718</lastUpdated>
+    <lastUpdated>20241205071341</lastUpdated>
   </versioning>
 </metadata>

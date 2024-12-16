@@ -3,8 +3,8 @@
   <groupId>io.acryl</groupId>
   <artifactId>datahub-spark-lineage</artifactId>
   <versioning>
-    <latest>0.15.0rc10</latest>
-    <release>0.15.0rc10</release>
+    <latest>0.15.0rc12</latest>
+    <release>0.15.0rc12</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -487,7 +487,9 @@
       <version>0.15.0rc8</version>
       <version>0.15.0rc9</version>
       <version>0.15.0rc10</version>
+      <version>0.15.0rc11</version>
+      <version>0.15.0rc12</version>
     </versions>
-    <lastUpdated>20241204091913</lastUpdated>
+    <lastUpdated>20241205184327</lastUpdated>
   </versioning>
 </metadata>

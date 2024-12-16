@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.rest.api</groupId>
   <artifactId>gravitee-apim-rest-api-spec-converter</artifactId>
   <versioning>
-    <latest>4.5.3</latest>
-    <release>4.5.3</release>
+    <latest>4.5.4</latest>
+    <release>4.5.4</release>
     <versions>
       <version>3.5.19</version>
       <version>3.5.20</version>
@@ -265,6 +265,7 @@
       <version>4.2.21</version>
       <version>4.2.22</version>
       <version>4.2.23</version>
+      <version>4.2.24</version>
       <version>4.3.0-alpha.2</version>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -285,6 +286,7 @@
       <version>4.3.16</version>
       <version>4.3.17</version>
       <version>4.3.18</version>
+      <version>4.3.19</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
       <version>4.4.2</version>
@@ -300,12 +302,14 @@
       <version>4.4.12</version>
       <version>4.4.13</version>
       <version>4.4.14</version>
+      <version>4.4.15</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0</version>
       <version>4.5.1</version>
       <version>4.5.2</version>
       <version>4.5.3</version>
+      <version>4.5.4</version>
     </versions>
-    <lastUpdated>20241121160926</lastUpdated>
+    <lastUpdated>20241205161014</lastUpdated>
   </versioning>
 </metadata>

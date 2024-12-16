@@ -3,8 +3,8 @@
   <groupId>org.faktorips</groupId>
   <artifactId>eclipse-platform-dependencies</artifactId>
   <versioning>
-    <latest>25.1.0.rc02</latest>
-    <release>25.1.0.rc02</release>
+    <latest>25.1.0.release</latest>
+    <release>25.1.0.release</release>
     <versions>
       <version>23.1.0.release</version>
       <version>23.6.0.a20230301-01</version>
@@ -54,7 +54,8 @@
       <version>24.7.6.release</version>
       <version>25.1.0.a20241030-01</version>
       <version>25.1.0.rc02</version>
+      <version>25.1.0.release</version>
     </versions>
-    <lastUpdated>20241202151111</lastUpdated>
+    <lastUpdated>20241205145616</lastUpdated>
   </versioning>
 </metadata>

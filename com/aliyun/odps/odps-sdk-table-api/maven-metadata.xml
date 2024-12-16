@@ -3,8 +3,8 @@
   <groupId>com.aliyun.odps</groupId>
   <artifactId>odps-sdk-table-api</artifactId>
   <versioning>
-    <latest>0.51.0-public.rc1</latest>
-    <release>0.51.0-public.rc1</release>
+    <latest>0.51.0-public</latest>
+    <release>0.51.0-public</release>
     <versions>
       <version>0.43.0-table-api-public</version>
       <version>0.43.2-public</version>
@@ -40,7 +40,8 @@
       <version>0.50.6-public</version>
       <version>0.51.0-public.rc0</version>
       <version>0.51.0-public.rc1</version>
+      <version>0.51.0-public</version>
     </versions>
-    <lastUpdated>20241127100714</lastUpdated>
+    <lastUpdated>20241205071337</lastUpdated>
   </versioning>
 </metadata>
