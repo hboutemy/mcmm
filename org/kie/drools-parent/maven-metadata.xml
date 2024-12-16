@@ -3,9 +3,10 @@
   <groupId>org.kie</groupId>
   <artifactId>drools-parent</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>8.13.0.Beta</version>
       <version>8.14.0.Beta</version>
       <version>8.14.1.Beta</version>
@@ -50,6 +51,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092253</lastUpdated>
+    <lastUpdated>20241209232641</lastUpdated>
   </versioning>
 </metadata>

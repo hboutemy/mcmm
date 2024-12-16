@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-dsl-bom</artifactId>
   <versioning>
-    <latest>2024.2.0</latest>
-    <release>2024.2.0</release>
+    <latest>2024.3.0</latest>
+    <release>2024.3.0</release>
     <versions>
       <version>2023.9.5</version>
       <version>2023.9.6</version>
@@ -16,7 +16,8 @@
       <version>2024.0.3</version>
       <version>2024.1.0</version>
       <version>2024.2.0</version>
+      <version>2024.3.0</version>
     </versions>
-    <lastUpdated>20240930080850</lastUpdated>
+    <lastUpdated>20241209143308</lastUpdated>
   </versioning>
 </metadata>

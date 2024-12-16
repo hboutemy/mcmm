@@ -3,9 +3,10 @@
   <groupId>org.drools.testcoverage</groupId>
   <artifactId>test-integration-ruleunits-tests</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>8.35.0.Final</version>
       <version>8.36.0.Final</version>
       <version>8.37.0.Final</version>
@@ -23,6 +24,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092236</lastUpdated>
+    <lastUpdated>20241209232635</lastUpdated>
   </versioning>
 </metadata>

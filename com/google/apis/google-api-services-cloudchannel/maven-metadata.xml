@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudchannel</artifactId>
   <versioning>
-    <latest>v1-rev20241116-2.0.0</latest>
-    <release>v1-rev20241116-2.0.0</release>
+    <latest>v1-rev20241202-2.0.0</latest>
+    <release>v1-rev20241202-2.0.0</release>
     <versions>
       <version>v1-rev20210506-1.31.5</version>
       <version>v1-rev20210629-1.32.1</version>
@@ -56,6 +56,7 @@
       <version>v1-rev20241102-2.0.0</version>
       <version>v1-rev20241109-2.0.0</version>
       <version>v1-rev20241116-2.0.0</version>
+      <version>v1-rev20241202-2.0.0</version>
       <version>v1-rev20210211-1.31.0</version>
       <version>v1-rev20210218-1.31.0</version>
       <version>v1-rev20210225-1.31.0</version>
@@ -67,6 +68,6 @@
       <version>v1-rev20210429-1.31.0</version>
       <version>v1-rev20210506-1.31.0</version>
     </versions>
-    <lastUpdated>20241120090210</lastUpdated>
+    <lastUpdated>20241209090135</lastUpdated>
   </versioning>
 </metadata>

@@ -3,9 +3,10 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-tms</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>8.16.0.Beta</version>
       <version>8.16.1.Beta</version>
       <version>8.17.0.Beta</version>
@@ -46,6 +47,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092218</lastUpdated>
+    <lastUpdated>20241209232318</lastUpdated>
   </versioning>
 </metadata>

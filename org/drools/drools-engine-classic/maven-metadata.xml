@@ -3,9 +3,10 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-engine-classic</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>7.45.0.Final</version>
       <version>7.45.0.t20201009</version>
       <version>7.45.0.t20201014</version>
@@ -97,6 +98,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092158</lastUpdated>
+    <lastUpdated>20241209231819</lastUpdated>
   </versioning>
 </metadata>

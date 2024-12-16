@@ -12,6 +12,11 @@
       <artifactId>checkstats-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Compose Maven Plugin</name>
+      <prefix>compose</prefix>
+      <artifactId>compose-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Dependency Check Maven Plugin</name>
       <prefix>dependency-check</prefix>
       <artifactId>dependency-check-maven-plugin</artifactId>

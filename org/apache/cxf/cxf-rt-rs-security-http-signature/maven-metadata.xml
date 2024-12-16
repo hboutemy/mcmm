@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf</groupId>
   <artifactId>cxf-rt-rs-security-http-signature</artifactId>
   <versioning>
-    <latest>4.0.5</latest>
-    <release>4.0.5</release>
+    <latest>4.0.6</latest>
+    <release>4.0.6</release>
     <versions>
       <version>3.3.0</version>
       <version>3.3.1</version>
@@ -41,17 +41,20 @@
       <version>3.5.7</version>
       <version>3.5.8</version>
       <version>3.5.9</version>
+      <version>3.5.10</version>
       <version>3.6.0</version>
       <version>3.6.1</version>
       <version>3.6.2</version>
       <version>3.6.3</version>
       <version>3.6.4</version>
+      <version>3.6.5</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
+      <version>4.0.6</version>
     </versions>
-    <lastUpdated>20240717215007</lastUpdated>
+    <lastUpdated>20241209183544</lastUpdated>
   </versioning>
 </metadata>

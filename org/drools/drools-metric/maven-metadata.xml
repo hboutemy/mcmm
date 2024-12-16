@@ -3,9 +3,10 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-metric</artifactId>
   <versioning>
-    <latest>9.44.0.Final</latest>
-    <release>9.44.0.Final</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
+      <version>10.0.0</version>
       <version>7.41.0.Final</version>
       <version>7.41.0.t20200723</version>
       <version>7.42.0.Final</version>
@@ -104,6 +105,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20240422092204</lastUpdated>
+    <lastUpdated>20241209231929</lastUpdated>
   </versioning>
 </metadata>
