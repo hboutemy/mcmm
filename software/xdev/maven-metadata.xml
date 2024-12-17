@@ -6,5 +6,10 @@
       <prefix>find-and-replace</prefix>
       <artifactId>find-and-replace-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>music-maven-plugin</name>
+      <prefix>music</prefix>
+      <artifactId>music-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

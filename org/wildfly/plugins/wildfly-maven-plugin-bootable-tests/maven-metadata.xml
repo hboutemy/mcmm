@@ -3,8 +3,8 @@
   <groupId>org.wildfly.plugins</groupId>
   <artifactId>wildfly-maven-plugin-bootable-tests</artifactId>
   <versioning>
-    <latest>5.1.0.Beta2</latest>
-    <release>5.1.0.Beta2</release>
+    <latest>5.1.0.Final</latest>
+    <release>5.1.0.Final</release>
     <versions>
       <version>5.0.0.Beta1</version>
       <version>5.0.0.Beta2</version>
@@ -17,7 +17,8 @@
       <version>5.1.0.Alpha2</version>
       <version>5.1.0.Beta1</version>
       <version>5.1.0.Beta2</version>
+      <version>5.1.0.Final</version>
     </versions>
-    <lastUpdated>20241212051803</lastUpdated>
+    <lastUpdated>20241216223536</lastUpdated>
   </versioning>
 </metadata>
