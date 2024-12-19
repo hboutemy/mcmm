@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-http</artifactId>
   <versioning>
-    <latest>3.0.4.Final</latest>
-    <release>3.0.4.Final</release>
+    <latest>3.0.5.Final</latest>
+    <release>3.0.5.Final</release>
     <versions>
       <version>1.9.0.Beta1</version>
       <version>1.9.0.CR1</version>
@@ -93,7 +93,8 @@
       <version>3.0.2.Final</version>
       <version>3.0.3.Final</version>
       <version>3.0.4.Final</version>
+      <version>3.0.5.Final</version>
     </versions>
-    <lastUpdated>20241211153334</lastUpdated>
+    <lastUpdated>20241218124328</lastUpdated>
   </versioning>
 </metadata>

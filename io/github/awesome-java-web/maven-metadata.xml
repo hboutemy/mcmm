@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sort-dependency-maven-plugin</name>
+      <prefix>sort-dependency</prefix>
+      <artifactId>sort-dependency-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
