@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-netty</artifactId>
   <versioning>
-    <latest>3.17.4</latest>
-    <release>3.17.4</release>
+    <latest>3.17.5</latest>
+    <release>3.17.5</release>
     <versions>
       <version>0.11.0</version>
       <version>0.12.0</version>
@@ -346,7 +346,8 @@
       <version>3.17.2</version>
       <version>3.17.3</version>
       <version>3.17.4</version>
+      <version>3.17.5</version>
     </versions>
-    <lastUpdated>20241211095508</lastUpdated>
+    <lastUpdated>20241219115828</lastUpdated>
   </versioning>
 </metadata>

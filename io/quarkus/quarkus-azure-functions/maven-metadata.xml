@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-azure-functions</artifactId>
   <versioning>
-    <latest>3.17.4</latest>
-    <release>3.17.4</release>
+    <latest>3.17.5</latest>
+    <release>3.17.5</release>
     <versions>
       <version>3.0.0.Alpha4</version>
       <version>3.0.0.Alpha5</version>
@@ -125,7 +125,8 @@
       <version>3.17.2</version>
       <version>3.17.3</version>
       <version>3.17.4</version>
+      <version>3.17.5</version>
     </versions>
-    <lastUpdated>20241211095228</lastUpdated>
+    <lastUpdated>20241219115543</lastUpdated>
   </versioning>
 </metadata>

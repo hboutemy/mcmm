@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-cachestore-sql</artifactId>
   <versioning>
-    <latest>15.1.0.Dev05</latest>
-    <release>15.1.0.Dev05</release>
+    <latest>15.1.1.Final</latest>
+    <release>15.1.1.Final</release>
     <versions>
       <version>13.0.0.CR1</version>
       <version>13.0.0.CR2</version>
@@ -101,7 +101,8 @@
       <version>15.1.0.Dev03</version>
       <version>15.1.0.Dev04</version>
       <version>15.1.0.Dev05</version>
+      <version>15.1.1.Final</version>
     </versions>
-    <lastUpdated>20241213172000</lastUpdated>
+    <lastUpdated>20241219093525</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-datasource-deployment-spi</artifactId>
   <versioning>
-    <latest>3.17.4</latest>
-    <release>3.17.4</release>
+    <latest>3.17.5</latest>
+    <release>3.17.5</release>
     <versions>
       <version>1.13.0.CR1</version>
       <version>1.13.0.Final</version>
@@ -247,7 +247,8 @@
       <version>3.17.2</version>
       <version>3.17.3</version>
       <version>3.17.4</version>
+      <version>3.17.5</version>
     </versions>
-    <lastUpdated>20241211095258</lastUpdated>
+    <lastUpdated>20241219115611</lastUpdated>
   </versioning>
 </metadata>
