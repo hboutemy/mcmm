@@ -3,8 +3,8 @@
   <groupId>org.apache.tomee.bom</groupId>
   <artifactId>tomee-microprofile-api</artifactId>
   <versioning>
-    <latest>10.0.0-M3</latest>
-    <release>10.0.0-M3</release>
+    <latest>10.0.0</latest>
+    <release>10.0.0</release>
     <versions>
       <version>8.0.7</version>
       <version>8.0.8</version>
@@ -26,7 +26,8 @@
       <version>10.0.0-M1</version>
       <version>10.0.0-M2</version>
       <version>10.0.0-M3</version>
+      <version>10.0.0</version>
     </versions>
-    <lastUpdated>20241014061836</lastUpdated>
+    <lastUpdated>20241220190644</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-zipkin-starter</artifactId>
   <versioning>
-    <latest>3.22.2</latest>
-    <release>3.22.2</release>
+    <latest>3.22.3</latest>
+    <release>3.22.3</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -84,7 +84,8 @@
       <version>3.22.0</version>
       <version>3.22.1</version>
       <version>3.22.2</version>
+      <version>3.22.3</version>
     </versions>
-    <lastUpdated>20240621155605</lastUpdated>
+    <lastUpdated>20241220102847</lastUpdated>
   </versioning>
 </metadata>

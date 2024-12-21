@@ -3,8 +3,8 @@
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.bom.third.party</artifactId>
   <versioning>
-    <latest>2024.q4.0</latest>
-    <release>2024.q4.0</release>
+    <latest>2024.q4.1</latest>
+    <release>2024.q4.1</release>
     <versions>
       <version>7.0.10.fp60</version>
       <version>7.0.10.fp61</version>
@@ -343,11 +343,12 @@
       <version>2024.q3.10</version>
       <version>2024.q3.11</version>
       <version>2024.q3.12</version>
-      <version>2024.q4.0</version>
       <version>2024.q3.13</version>
+      <version>2024.q4.0</version>
       <version>2024.q4.1</version>
       <version>7.3.10-u36</version>
+      <version>7.4.13-u131</version>
     </versions>
-    <lastUpdated>20241212100747</lastUpdated>
+    <lastUpdated>20241220101128</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.openehealth.ipf.commons</groupId>
   <artifactId>ipf-commons-ihe-fhir-r4-qedm</artifactId>
   <versioning>
-    <latest>5.0-rc1</latest>
-    <release>5.0-rc1</release>
+    <latest>5.0-rc2</latest>
+    <release>5.0-rc2</release>
     <versions>
       <version>3.6.0</version>
       <version>3.6.1</version>
@@ -46,7 +46,8 @@
       <version>5.0-m2</version>
       <version>5.0-m3</version>
       <version>5.0-rc1</version>
+      <version>5.0-rc2</version>
     </versions>
-    <lastUpdated>20241215235655</lastUpdated>
+    <lastUpdated>20241220114921</lastUpdated>
   </versioning>
 </metadata>
