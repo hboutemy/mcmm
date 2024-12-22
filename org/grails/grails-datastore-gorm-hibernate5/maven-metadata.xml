@@ -3,8 +3,8 @@
   <groupId>org.grails</groupId>
   <artifactId>grails-datastore-gorm-hibernate5</artifactId>
   <versioning>
-    <latest>8.1.1</latest>
-    <release>8.1.1</release>
+    <latest>9.0.0-M2</latest>
+    <release>9.0.0-M2</release>
     <versions>
       <version>5.0.0.RC1</version>
       <version>5.0.0.RC2</version>
@@ -83,7 +83,8 @@
       <version>8.0.3</version>
       <version>8.1.0</version>
       <version>8.1.1</version>
+      <version>9.0.0-M2</version>
     </versions>
-    <lastUpdated>20241119012747</lastUpdated>
+    <lastUpdated>20241221220758</lastUpdated>
   </versioning>
 </metadata>

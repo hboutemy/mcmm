@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-chat</artifactId>
   <versioning>
-    <latest>v1-rev20241210-2.0.0</latest>
-    <release>v1-rev20241210-2.0.0</release>
+    <latest>v1-rev20241217-2.0.0</latest>
+    <release>v1-rev20241217-2.0.0</release>
     <versions>
       <version>v1-rev20210522-1.31.0</version>
       <version>v1-rev20210605-1.31.0</version>
@@ -151,6 +151,7 @@
       <version>v1-rev20241203-2.0.0</version>
       <version>v1-rev20241208-2.0.0</version>
       <version>v1-rev20241210-2.0.0</version>
+      <version>v1-rev20241217-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.21.0</version>
       <version>v1-rev1-1.22.0</version>
@@ -493,6 +494,6 @@
       <version>v1-rev92-1.18.0-rc</version>
       <version>v1-rev92-1.25.0</version>
     </versions>
-    <lastUpdated>20241215085831</lastUpdated>
+    <lastUpdated>20241221085855</lastUpdated>
   </versioning>
 </metadata>
