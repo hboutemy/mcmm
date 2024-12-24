@@ -27,7 +27,7 @@
       <artifactId>ui-tests-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Vaadin Maven plugin</name>
+      <name>Vaadin Plug-in for Maven</name>
       <prefix>vaadin</prefix>
       <artifactId>vaadin-maven-plugin</artifactId>
     </plugin>

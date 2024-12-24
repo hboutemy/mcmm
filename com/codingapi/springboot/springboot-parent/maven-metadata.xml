@@ -3,8 +3,8 @@
   <groupId>com.codingapi.springboot</groupId>
   <artifactId>springboot-parent</artifactId>
   <versioning>
-    <latest>3.3.45</latest>
-    <release>3.3.45</release>
+    <latest>3.3.46</latest>
+    <release>3.3.46</release>
     <versions>
       <version>0.0.1</version>
       <version>0.1.0</version>
@@ -107,6 +107,7 @@
       <version>2.9.13</version>
       <version>2.9.14</version>
       <version>2.9.15</version>
+      <version>2.9.16</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
       <version>3.1.3</version>
@@ -181,7 +182,8 @@
       <version>3.3.43</version>
       <version>3.3.44</version>
       <version>3.3.45</version>
+      <version>3.3.46</version>
     </versions>
-    <lastUpdated>20241219020344</lastUpdated>
+    <lastUpdated>20241223040418</lastUpdated>
   </versioning>
 </metadata>

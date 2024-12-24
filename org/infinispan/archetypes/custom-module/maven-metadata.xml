@@ -3,8 +3,8 @@
   <groupId>org.infinispan.archetypes</groupId>
   <artifactId>custom-module</artifactId>
   <versioning>
-    <latest>15.1.1.Final</latest>
-    <release>15.1.1.Final</release>
+    <latest>15.1.3.Final</latest>
+    <release>15.1.3.Final</release>
     <versions>
       <version>14.0.22.Final</version>
       <version>14.0.23.Final</version>
@@ -42,7 +42,9 @@
       <version>15.1.0.Dev04</version>
       <version>15.1.0.Dev05</version>
       <version>15.1.1.Final</version>
+      <version>15.1.2.Final</version>
+      <version>15.1.3.Final</version>
     </versions>
-    <lastUpdated>20241219093519</lastUpdated>
+    <lastUpdated>20241223173541</lastUpdated>
   </versioning>
 </metadata>

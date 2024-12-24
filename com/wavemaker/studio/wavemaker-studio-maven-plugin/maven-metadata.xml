@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.studio</groupId>
   <artifactId>wavemaker-studio-maven-plugin</artifactId>
   <versioning>
-    <latest>11.9.4</latest>
-    <release>11.9.4</release>
+    <latest>11.9.4.ee</latest>
+    <release>11.9.4.ee</release>
     <versions>
       <version>9.9.9-20201009170109</version>
       <version>9.9.9-20201011200802</version>
@@ -167,7 +167,8 @@
       <version>11.9.3</version>
       <version>11.9.3.ee</version>
       <version>11.9.4</version>
+      <version>11.9.4.ee</version>
     </versions>
-    <lastUpdated>20241221110422</lastUpdated>
+    <lastUpdated>20241223132059</lastUpdated>
   </versioning>
 </metadata>
