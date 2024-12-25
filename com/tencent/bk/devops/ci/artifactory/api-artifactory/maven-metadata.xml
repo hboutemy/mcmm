@@ -3,8 +3,8 @@
   <groupId>com.tencent.bk.devops.ci.artifactory</groupId>
   <artifactId>api-artifactory</artifactId>
   <versioning>
-    <latest>3.1.0-rc.4</latest>
-    <release>3.1.0-rc.4</release>
+    <latest>3.1.0-rc.5</latest>
+    <release>3.1.0-rc.5</release>
     <versions>
       <version>1.1.2-RELEASE</version>
       <version>1.1.10-RELEASE</version>
@@ -59,8 +59,9 @@
       <version>3.0.0</version>
       <version>3.1.0-rc.3</version>
       <version>3.1.0-rc.4</version>
+      <version>3.1.0-rc.5</version>
       <version>1.4.0-RELEASE</version>
     </versions>
-    <lastUpdated>20241206024922</lastUpdated>
+    <lastUpdated>20241224030233</lastUpdated>
   </versioning>
 </metadata>

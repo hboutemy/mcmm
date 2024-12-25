@@ -3,8 +3,8 @@
   <groupId>com.tencent.tav</groupId>
   <artifactId>libpag</artifactId>
   <versioning>
-    <latest>4.4.15-noffavc</latest>
-    <release>4.4.15-noffavc</release>
+    <latest>4.4.20-noffavc</latest>
+    <release>4.4.20-noffavc</release>
     <versions>
       <version>0.1.2.8-noffavc</version>
       <version>0.1.2.17-1</version>
@@ -463,7 +463,10 @@
       <version>4.4.15</version>
       <version>4.4.15-harfbuzz</version>
       <version>4.4.15-noffavc</version>
+      <version>4.4.20</version>
+      <version>4.4.20-harfbuzz</version>
+      <version>4.4.20-noffavc</version>
     </versions>
-    <lastUpdated>20241114085538</lastUpdated>
+    <lastUpdated>20241224033643</lastUpdated>
   </versioning>
 </metadata>
