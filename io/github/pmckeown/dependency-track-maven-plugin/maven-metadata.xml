@@ -3,11 +3,12 @@
   <groupId>io.github.pmckeown</groupId>
   <artifactId>dependency-track-maven-plugin</artifactId>
   <versioning>
-    <latest>1.9.0</latest>
-    <release>1.9.0</release>
+    <latest>1.9.1</latest>
+    <release>1.9.1</release>
     <versions>
       <version>1.8.1</version>
       <version>1.9.0</version>
+      <version>1.9.1</version>
       <version>0.1.0</version>
       <version>0.2.1</version>
       <version>0.2.2</version>
@@ -44,6 +45,6 @@
       <version>1.7.0</version>
       <version>1.8.0</version>
     </versions>
-    <lastUpdated>20241214211035</lastUpdated>
+    <lastUpdated>20241227034837</lastUpdated>
   </versioning>
 </metadata>
