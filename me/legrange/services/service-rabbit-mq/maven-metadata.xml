@@ -3,8 +3,8 @@
   <groupId>me.legrange.services</groupId>
   <artifactId>service-rabbit-mq</artifactId>
   <versioning>
-    <latest>4.5.4</latest>
-    <release>4.5.4</release>
+    <latest>4.6.1</latest>
+    <release>4.6.1</release>
     <versions>
       <version>3.0.1</version>
       <version>3.1.1</version>
@@ -65,7 +65,9 @@
       <version>4.5.2</version>
       <version>4.5.3</version>
       <version>4.5.4</version>
+      <version>4.6.0</version>
+      <version>4.6.1</version>
     </versions>
-    <lastUpdated>20241108161521</lastUpdated>
+    <lastUpdated>20241228101542</lastUpdated>
   </versioning>
 </metadata>
