@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>codecheck-maven-plugin Maven Plugin</name>
+      <prefix>codecheck</prefix>
+      <artifactId>codecheck-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>jarcheck-maven-plugin Maven Plugin</name>
+      <prefix>jarcheck</prefix>
+      <artifactId>jarcheck-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>native</prefix>
+      <artifactId>native-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
