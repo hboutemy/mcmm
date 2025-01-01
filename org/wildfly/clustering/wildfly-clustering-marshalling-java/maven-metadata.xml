@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-marshalling-java</artifactId>
   <versioning>
-    <latest>5.0.4.Final</latest>
-    <release>5.0.4.Final</release>
+    <latest>5.0.6.Final</latest>
+    <release>5.0.6.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -52,7 +52,9 @@
       <version>5.0.2.Final</version>
       <version>5.0.3.Final</version>
       <version>5.0.4.Final</version>
+      <version>5.0.5.Final</version>
+      <version>5.0.6.Final</version>
     </versions>
-    <lastUpdated>20241219154415</lastUpdated>
+    <lastUpdated>20241231201723</lastUpdated>
   </versioning>
 </metadata>

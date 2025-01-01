@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>jacoco-maven-plugin</name>
+      <prefix>jacoco</prefix>
+      <artifactId>jacoco-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>jarenc-maven-plugin</name>
       <prefix>jarenc</prefix>
       <artifactId>jarenc-maven-plugin</artifactId>

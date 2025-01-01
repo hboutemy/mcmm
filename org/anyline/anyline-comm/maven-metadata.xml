@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-comm</artifactId>
   <versioning>
-    <latest>8.7.2-20241125</latest>
-    <release>8.7.2-20241125</release>
+    <latest>8.7.2-20241231</latest>
+    <release>8.7.2-20241231</release>
     <versions>
       <version>8.5.1</version>
       <version>8.5.1-RELEASE</version>
@@ -333,6 +333,8 @@
       <version>8.7.2-jdk11-20240919</version>
       <version>8.7.2-jdk11-20241015</version>
       <version>8.7.2-jdk11-20241022</version>
+      <version>8.7.2-jdk11-20241231</version>
+      <version>8.7.2-jdk11-20250101</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
@@ -395,6 +397,7 @@
       <version>8.7.2-jdk17-20241015</version>
       <version>8.7.2-jdk17-20241022</version>
       <version>8.7.2-jdk17-20241125</version>
+      <version>8.7.2-jdk17-20241231</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -460,6 +463,7 @@
       <version>8.7.2-jdk21-20241025</version>
       <version>8.7.2-jdk21-20241125</version>
       <version>8.7.2-jdk21-20241203</version>
+      <version>8.7.2-jdk21-20241231</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -544,7 +548,8 @@
       <version>8.7.2-20241107</version>
       <version>8.7.2-20241120</version>
       <version>8.7.2-20241125</version>
+      <version>8.7.2-20241231</version>
     </versions>
-    <lastUpdated>20241203094003</lastUpdated>
+    <lastUpdated>20241231175728</lastUpdated>
   </versioning>
 </metadata>

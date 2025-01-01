@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-hcl</artifactId>
   <versioning>
-    <latest>8.42.3</latest>
-    <release>8.42.3</release>
+    <latest>8.42.4</latest>
+    <release>8.42.4</release>
     <versions>
       <version>7.9.0</version>
       <version>7.10.0</version>
@@ -219,7 +219,8 @@
       <version>8.42.1</version>
       <version>8.42.2</version>
       <version>8.42.3</version>
+      <version>8.42.4</version>
     </versions>
-    <lastUpdated>20241227131929</lastUpdated>
+    <lastUpdated>20241231120606</lastUpdated>
   </versioning>
 </metadata>
