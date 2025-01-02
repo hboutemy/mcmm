@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-hbase</artifactId>
   <versioning>
-    <latest>8.7.2-20241231</latest>
-    <release>8.7.2-20241231</release>
+    <latest>8.7.2-20250101</latest>
+    <release>8.7.2-20250101</release>
     <versions>
       <version>8.7.2-jdk11-20240816</version>
       <version>8.7.2-jdk11-20240819</version>
@@ -35,6 +35,7 @@
       <version>8.7.2-jdk17-20241022</version>
       <version>8.7.2-jdk17-20241125</version>
       <version>8.7.2-jdk17-20241231</version>
+      <version>8.7.2-jdk17-20250101</version>
       <version>8.7.2-jdk21-20240808</version>
       <version>8.7.2-jdk21-20240809</version>
       <version>8.7.2-jdk21-20240815</version>
@@ -56,6 +57,7 @@
       <version>8.7.2-jdk21-20241125</version>
       <version>8.7.2-jdk21-20241203</version>
       <version>8.7.2-jdk21-20241231</version>
+      <version>8.7.2-jdk21-20250101</version>
       <version>8.7.2-20240808</version>
       <version>8.7.2-20240809</version>
       <version>8.7.2-20240810</version>
@@ -85,7 +87,8 @@
       <version>8.7.2-20241120</version>
       <version>8.7.2-20241125</version>
       <version>8.7.2-20241231</version>
+      <version>8.7.2-20250101</version>
     </versions>
-    <lastUpdated>20241231170800</lastUpdated>
+    <lastUpdated>20250101095752</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-dialect-rdf</artifactId>
   <versioning>
-    <latest>8.7.2-20241231</latest>
-    <release>8.7.2-20241231</release>
+    <latest>8.7.2-20250101</latest>
+    <release>8.7.2-20250101</release>
     <versions>
       <version>8.7.1-jdk17-20231203</version>
       <version>8.7.1-jdk17-20231209</version>
@@ -172,6 +172,7 @@
       <version>8.7.2-jdk17-20241022</version>
       <version>8.7.2-jdk17-20241125</version>
       <version>8.7.2-jdk17-20241231</version>
+      <version>8.7.2-jdk17-20250101</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -247,6 +248,7 @@
       <version>8.7.2-jdk21-20241125</version>
       <version>8.7.2-jdk21-20241203</version>
       <version>8.7.2-jdk21-20241231</version>
+      <version>8.7.2-jdk21-20250101</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240501</version>
       <version>8.7.2-20240505</version>
@@ -337,7 +339,8 @@
       <version>8.7.2-20241120</version>
       <version>8.7.2-20241125</version>
       <version>8.7.2-20241231</version>
+      <version>8.7.2-20250101</version>
     </versions>
-    <lastUpdated>20241231170756</lastUpdated>
+    <lastUpdated>20250101095747</lastUpdated>
   </versioning>
 </metadata>
