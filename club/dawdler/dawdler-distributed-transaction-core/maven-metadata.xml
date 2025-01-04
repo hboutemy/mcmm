@@ -3,8 +3,8 @@
   <groupId>club.dawdler</groupId>
   <artifactId>dawdler-distributed-transaction-core</artifactId>
   <versioning>
-    <latest>0.0.4-jdk21-RELEASES</latest>
-    <release>0.0.4-jdk21-RELEASES</release>
+    <latest>0.0.5-jdk21-RELEASES</latest>
+    <release>0.0.5-jdk21-RELEASES</release>
     <versions>
       <version>0.0.1-jdk17-RELEASES</version>
       <version>0.0.1-jdk1.8-RELEASES</version>
@@ -16,9 +16,12 @@
       <version>0.0.3-jdk1.8-RELEASES</version>
       <version>0.0.4-jdk21-RELEASES</version>
       <version>0.0.4-jdk17-RELEASES</version>
+      <version>0.0.5-jdk1.8-RELEASES</version>
+      <version>0.0.5-jdk21-RELEASES</version>
+      <version>0.0.5-jdk17-RELEASES</version>
       <version>0.0.3-jdk21-RELEASES</version>
       <version>0.0.4-jdk1.8-RELEASES</version>
     </versions>
-    <lastUpdated>20241202084546</lastUpdated>
+    <lastUpdated>20250103092300</lastUpdated>
   </versioning>
 </metadata>
