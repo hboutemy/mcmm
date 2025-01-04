@@ -3,8 +3,8 @@
   <groupId>org.sosy-lab</groupId>
   <artifactId>javasmt-solver-z3</artifactId>
   <versioning>
-    <latest>4.13.3</latest>
-    <release>4.13.3</release>
+    <latest>4.13.4</latest>
+    <release>4.13.4</release>
     <versions>
       <version>z3-4.4.1-788-g8df145d</version>
       <version>z3-4.4.1-863-g96f6bf7-2</version>
@@ -30,7 +30,8 @@
       <version>4.13.0</version>
       <version>4.13.2</version>
       <version>4.13.3</version>
+      <version>4.13.4</version>
     </versions>
-    <lastUpdated>20241012194919</lastUpdated>
+    <lastUpdated>20250102190613</lastUpdated>
   </versioning>
 </metadata>
