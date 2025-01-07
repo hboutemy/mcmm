@@ -3,12 +3,10 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.22.1-flserde.12.6783666</latest>
-    <release>3.22.1-flserde.12.6783666</release>
+    <latest>3.22.1-fldisablerustwindows.10.d42792e</latest>
+    <release>3.22.1-fldisablerustwindows.10.d42792e</release>
     <versions>
-      <version>3.22.1-flserde.12.6783666</version>
-      <version>3.22.1-flrustserver.16.a55d38d</version>
-      <version>3.22.1-flrustserver.17.bcbc0f9</version>
+      <version>3.22.1-fldisablerustwindows.10.d42792e</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -370,10 +368,16 @@
       <version>3.22.1-edge.2.e0f61b9</version>
       <version>3.22.1-edge.5.2f2be75</version>
       <version>3.22.1-edge.7.7edd98e</version>
+      <version>3.22.1-fldisablerustwindows.8.8dcc743</version>
+      <version>3.22.1-fldisablerustwindows.9.84dd379</version>
       <version>3.22.1-flenhanceclient.11.681c076</version>
       <version>3.22.1-flenhanceclient.11.adbe142</version>
+      <version>3.22.1-flfixrustci.8.d9b5b4d</version>
       <version>3.22.1-flrustserver.16.1fc575c</version>
       <version>3.22.1-flrustserver.16.918078d</version>
+      <version>3.22.1-flrustserver.16.a55d38d</version>
+      <version>3.22.1-flrustserver.17.bcbc0f9</version>
+      <version>3.22.1-flserde.12.6783666</version>
       <version>3.22.1-ngtgzclient.3.ae6f96c</version>
       <version>3.22.1-ngtgzclient.4.ee484cf</version>
       <version>3.22.1-ngtgzclient.6.21e8df3</version>
@@ -386,6 +390,6 @@
       <version>3.23.0-flrustserver.16.db6062d</version>
       <version>3.23.0-qdpythonworker.10.21492d4</version>
     </versions>
-    <lastUpdated>20250103165925</lastUpdated>
+    <lastUpdated>20250106172545</lastUpdated>
   </versioning>
 </metadata>

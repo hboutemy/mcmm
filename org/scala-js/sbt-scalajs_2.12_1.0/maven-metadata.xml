@@ -3,14 +3,15 @@
   <groupId>org.scala-js</groupId>
   <artifactId>sbt-scalajs_2.12_1.0</artifactId>
   <versioning>
-    <latest>1.17.0</latest>
-    <release>1.17.0</release>
+    <latest>1.18.0</latest>
+    <release>1.18.0</release>
     <versions>
       <version>1.13.2</version>
       <version>1.14.0</version>
       <version>1.15.0</version>
       <version>1.16.0</version>
       <version>1.17.0</version>
+      <version>1.18.0</version>
       <version>1.10.0</version>
       <version>1.10.1</version>
       <version>1.11.0</version>
@@ -25,6 +26,6 @@
       <version>1.8.0</version>
       <version>1.9.0</version>
     </versions>
-    <lastUpdated>20240927210354</lastUpdated>
+    <lastUpdated>20250106144623</lastUpdated>
   </versioning>
 </metadata>
