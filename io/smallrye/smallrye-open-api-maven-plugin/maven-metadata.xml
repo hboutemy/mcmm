@@ -3,8 +3,8 @@
   <groupId>io.smallrye</groupId>
   <artifactId>smallrye-open-api-maven-plugin</artifactId>
   <versioning>
-    <latest>4.0.5</latest>
-    <release>4.0.5</release>
+    <latest>4.0.6</latest>
+    <release>4.0.6</release>
     <versions>
       <version>2.0.8</version>
       <version>2.0.9</version>
@@ -102,9 +102,10 @@
       <version>4.0.3</version>
       <version>4.0.4</version>
       <version>4.0.5</version>
+      <version>4.0.6</version>
       <version>2.1.24</version>
       <version>3.6.2</version>
     </versions>
-    <lastUpdated>20241209012912</lastUpdated>
+    <lastUpdated>20250107180633</lastUpdated>
   </versioning>
 </metadata>
