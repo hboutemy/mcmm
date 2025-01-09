@@ -3,8 +3,8 @@
   <groupId>com.atlassian.connect</groupId>
   <artifactId>atlassian-connect-spring-boot-archetype</artifactId>
   <versioning>
-    <latest>5.1.4</latest>
-    <release>5.1.4</release>
+    <latest>5.1.5</latest>
+    <release>5.1.5</release>
     <versions>
       <version>1.3.6</version>
       <version>1.4.0</version>
@@ -69,6 +69,7 @@
       <version>5.1.1</version>
       <version>5.1.3</version>
       <version>5.1.4</version>
+      <version>5.1.5</version>
       <version>0.9.0-alpha</version>
       <version>0.9.1-alpha</version>
       <version>1.0.0</version>
@@ -85,6 +86,6 @@
       <version>1.3.4</version>
       <version>1.3.5</version>
     </versions>
-    <lastUpdated>20241009052419</lastUpdated>
+    <lastUpdated>20250108033816</lastUpdated>
   </versioning>
 </metadata>
