@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-mysql</artifactId>
   <versioning>
-    <latest>8.7.2-20250108</latest>
-    <release>8.7.2-20250108</release>
+    <latest>8.7.2-20250109</latest>
+    <release>8.7.2-20250109</release>
     <versions>
       <version>8.6.1-20221001</version>
       <version>8.6.1-20221002</version>
@@ -323,6 +323,7 @@
       <version>8.7.2-jdk17-20250101</version>
       <version>8.7.2-jdk17-20250102</version>
       <version>8.7.2-jdk17-20250108</version>
+      <version>8.7.2-jdk17-20250109</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -400,6 +401,7 @@
       <version>8.7.2-jdk21-20250101</version>
       <version>8.7.2-jdk21-20250102</version>
       <version>8.7.2-jdk21-20250108</version>
+      <version>8.7.2-jdk21-20250109</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -497,7 +499,8 @@
       <version>8.7.2-20250102</version>
       <version>8.7.2-20250107</version>
       <version>8.7.2-20250108</version>
+      <version>8.7.2-20250109</version>
     </versions>
-    <lastUpdated>20250108084129</lastUpdated>
+    <lastUpdated>20250109092108</lastUpdated>
   </versioning>
 </metadata>
