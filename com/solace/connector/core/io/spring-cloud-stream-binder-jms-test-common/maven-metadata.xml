@@ -3,8 +3,8 @@
   <groupId>com.solace.connector.core.io</groupId>
   <artifactId>spring-cloud-stream-binder-jms-test-common</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1</latest>
+    <release>3.1.1</release>
     <versions>
       <version>1.1.1</version>
       <version>1.2.0</version>
@@ -17,7 +17,8 @@
       <version>3.0.4</version>
       <version>3.0.5</version>
       <version>3.1.0</version>
+      <version>3.1.1</version>
     </versions>
-    <lastUpdated>20241206203347</lastUpdated>
+    <lastUpdated>20250110012232</lastUpdated>
   </versioning>
 </metadata>
