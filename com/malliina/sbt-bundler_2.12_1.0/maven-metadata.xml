@@ -3,8 +3,8 @@
   <groupId>com.malliina</groupId>
   <artifactId>sbt-bundler_2.12_1.0</artifactId>
   <versioning>
-    <latest>1.6.41</latest>
-    <release>1.6.41</release>
+    <latest>1.6.43</latest>
+    <release>1.6.43</release>
     <versions>
       <version>1.6.19</version>
       <version>1.6.23</version>
@@ -24,6 +24,8 @@
       <version>1.6.39</version>
       <version>1.6.40</version>
       <version>1.6.41</version>
+      <version>1.6.42</version>
+      <version>1.6.43</version>
       <version>1.2.0</version>
       <version>1.2.13</version>
       <version>1.2.14</version>
@@ -49,6 +51,6 @@
       <version>1.6.8</version>
       <version>1.6.9</version>
     </versions>
-    <lastUpdated>20241215084342</lastUpdated>
+    <lastUpdated>20250111132116</lastUpdated>
   </versioning>
 </metadata>
