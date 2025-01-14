@@ -3,10 +3,11 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.23.0-edge.15.bedeebb</latest>
-    <release>3.23.0-edge.15.bedeebb</release>
+    <latest>3.23.0-jfagenttcp.25.765ed45</latest>
+    <release>3.23.0-jfagenttcp.25.765ed45</release>
     <versions>
-      <version>3.23.0-edge.15.bedeebb</version>
+      <version>3.23.0-jfagenttcp.24.619cc02</version>
+      <version>3.23.0-jfagenttcp.25.765ed45</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -388,6 +389,7 @@
       <version>3.22.1-renovatenpm.5.5a332bf</version>
       <version>3.22.1-renovatenugetarmonikutils.4.e3827bd</version>
       <version>3.23.0-edge.13.8c658fc</version>
+      <version>3.23.0-edge.15.bedeebb</version>
       <version>3.23.0-flrustserver.14.765b2a3</version>
       <version>3.23.0-flrustserver.15.3351efc</version>
       <version>3.23.0-flrustserver.16.db6062d</version>
@@ -395,10 +397,15 @@
       <version>3.23.0-jfagenttcp.15.44a905a</version>
       <version>3.23.0-jfagenttcp.16.2014093</version>
       <version>3.23.0-jfagenttcp.16.6afc4dc</version>
+      <version>3.23.0-jfagenttcp.19.2f0a629</version>
+      <version>3.23.0-jfagenttcp.21.2b6406b</version>
+      <version>3.23.0-jfagenttcp.21.80606a3</version>
+      <version>3.23.0-jfagenttcp.21.a46e9a1</version>
+      <version>3.23.0-jfagenttcp.22.b4b1141</version>
       <version>3.23.0-nglinter.14.6375fbc</version>
       <version>3.23.0-qdfiltererror.12.dc917c3</version>
       <version>3.23.0-qdpythonworker.10.21492d4</version>
     </versions>
-    <lastUpdated>20250110131129</lastUpdated>
+    <lastUpdated>20250113154336</lastUpdated>
   </versioning>
 </metadata>
