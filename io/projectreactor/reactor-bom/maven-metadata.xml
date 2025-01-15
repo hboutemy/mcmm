@@ -3,8 +3,8 @@
   <groupId>io.projectreactor</groupId>
   <artifactId>reactor-bom</artifactId>
   <versioning>
-    <latest>2024.0.1</latest>
-    <release>2024.0.1</release>
+    <latest>2024.0.2</latest>
+    <release>2024.0.2</release>
     <versions>
       <version>Aluminium-RELEASE</version>
       <version>Aluminium-SR1</version>
@@ -161,11 +161,13 @@
       <version>2023.0.11</version>
       <version>2023.0.12</version>
       <version>2023.0.13</version>
+      <version>2023.0.14</version>
       <version>2024.0.0</version>
       <version>2024.0.1</version>
+      <version>2024.0.2</version>
       <version>2020.0.5</version>
       <version>Dysprosium-SR18</version>
     </versions>
-    <lastUpdated>20241210124340</lastUpdated>
+    <lastUpdated>20250114143801</lastUpdated>
   </versioning>
 </metadata>
