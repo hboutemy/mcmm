@@ -3,8 +3,8 @@
   <groupId>org.odpi.egeria</groupId>
   <artifactId>open-metadata-conformance-suite-server</artifactId>
   <versioning>
-    <latest>5.2</latest>
-    <release>5.2</release>
+    <latest>5.2.1</latest>
+    <release>5.2.1</release>
     <versions>
       <version>1.1</version>
       <version>1.3</version>
@@ -49,8 +49,9 @@
       <version>5.0</version>
       <version>5.1</version>
       <version>5.2</version>
+      <version>5.2.1</version>
       <version>1.2</version>
     </versions>
-    <lastUpdated>20250104131036</lastUpdated>
+    <lastUpdated>20250115172951</lastUpdated>
   </versioning>
 </metadata>

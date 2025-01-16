@@ -3,8 +3,8 @@
   <groupId>com.databricks</groupId>
   <artifactId>databricks-jdbc</artifactId>
   <versioning>
-    <latest>2.6.40-patch-1</latest>
-    <release>2.6.40-patch-1</release>
+    <latest>2.7.1</latest>
+    <release>2.7.1</release>
     <versions>
       <version>0.9.0-oss-beta</version>
       <version>0.9.0-oss</version>
@@ -35,7 +35,8 @@
       <version>2.6.38</version>
       <version>2.6.40</version>
       <version>2.6.40-patch-1</version>
+      <version>2.7.1</version>
     </versions>
-    <lastUpdated>20241216071038</lastUpdated>
+    <lastUpdated>20250115032430</lastUpdated>
   </versioning>
 </metadata>
