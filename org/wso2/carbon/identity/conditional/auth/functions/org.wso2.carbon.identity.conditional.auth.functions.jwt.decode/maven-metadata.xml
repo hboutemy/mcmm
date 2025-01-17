@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.conditional.auth.functions</groupId>
   <artifactId>org.wso2.carbon.identity.conditional.auth.functions.jwt.decode</artifactId>
   <versioning>
-    <latest>1.2.71</latest>
-    <release>1.2.71</release>
+    <latest>1.2.72</latest>
+    <release>1.2.72</release>
     <versions>
       <version>1.1.0</version>
       <version>1.1.1</version>
@@ -58,7 +58,8 @@
       <version>1.2.63</version>
       <version>1.2.64</version>
       <version>1.2.71</version>
+      <version>1.2.72</version>
     </versions>
-    <lastUpdated>20250111070924</lastUpdated>
+    <lastUpdated>20250116095903</lastUpdated>
   </versioning>
 </metadata>

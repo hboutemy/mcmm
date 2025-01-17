@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId>
   <artifactId>identity-inbound-auth-oauth</artifactId>
   <versioning>
-    <latest>7.0.213</latest>
-    <release>7.0.213</release>
+    <latest>7.0.214</latest>
+    <release>7.0.214</release>
     <versions>
       <version>5.2.0</version>
       <version>5.2.1</version>
@@ -1159,7 +1159,8 @@
       <version>7.0.211</version>
       <version>7.0.212</version>
       <version>7.0.213</version>
+      <version>7.0.214</version>
     </versions>
-    <lastUpdated>20250110043416</lastUpdated>
+    <lastUpdated>20250116110412</lastUpdated>
   </versioning>
 </metadata>
