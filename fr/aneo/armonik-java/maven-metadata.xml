@@ -3,12 +3,12 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.23.0-edge.19.0a992b6</latest>
-    <release>3.23.0-edge.19.0a992b6</release>
+    <latest>3.23.0-ng3230.31.b05c32f</latest>
+    <release>3.23.0-ng3230.31.b05c32f</release>
     <versions>
-      <version>3.23.0-adfixparentpartitionids.16.02ae464</version>
-      <version>3.23.0-edge.17.f42b540</version>
-      <version>3.23.0-edge.19.0a992b6</version>
+      <version>3.23.0-ng3230.31.b05c32f</version>
+      <version>3.23.0-edge.32.397cadd</version>
+      <version>3.23.0</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -390,8 +390,12 @@
       <version>3.22.1-renovatenpm.5.5a332bf</version>
       <version>3.22.1-renovatenugetarmonikutils.4.e3827bd</version>
       <version>3.23.0-adchangedocstringcreateresults.18.bd80709</version>
+      <version>3.23.0-adfixparentpartitionids.16.02ae464</version>
       <version>3.23.0-edge.13.8c658fc</version>
       <version>3.23.0-edge.15.bedeebb</version>
+      <version>3.23.0-edge.17.f42b540</version>
+      <version>3.23.0-edge.19.0a992b6</version>
+      <version>3.23.0-edge.30.a985732</version>
       <version>3.23.0-flrustserver.14.765b2a3</version>
       <version>3.23.0-flrustserver.15.3351efc</version>
       <version>3.23.0-flrustserver.16.db6062d</version>
@@ -412,6 +416,6 @@
       <version>3.23.0-qdfiltererror.12.dc917c3</version>
       <version>3.23.0-qdpythonworker.10.21492d4</version>
     </versions>
-    <lastUpdated>20250115150549</lastUpdated>
+    <lastUpdated>20250117132102</lastUpdated>
   </versioning>
 </metadata>

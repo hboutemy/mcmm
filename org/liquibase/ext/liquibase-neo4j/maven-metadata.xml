@@ -3,8 +3,8 @@
   <groupId>org.liquibase.ext</groupId>
   <artifactId>liquibase-neo4j</artifactId>
   <versioning>
-    <latest>4.30.0</latest>
-    <release>4.30.0</release>
+    <latest>4.31.0</latest>
+    <release>4.31.0</release>
     <versions>
       <version>4.3.5</version>
       <version>4.4.0</version>
@@ -70,7 +70,8 @@
       <version>4.29.1</version>
       <version>4.29.2</version>
       <version>4.30.0</version>
+      <version>4.31.0</version>
     </versions>
-    <lastUpdated>20241108122039</lastUpdated>
+    <lastUpdated>20250117170524</lastUpdated>
   </versioning>
 </metadata>

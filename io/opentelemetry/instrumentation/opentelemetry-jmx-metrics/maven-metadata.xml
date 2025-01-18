@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-jmx-metrics</artifactId>
   <versioning>
-    <latest>2.11.0-alpha</latest>
-    <release>2.11.0-alpha</release>
+    <latest>2.12.0-alpha</latest>
+    <release>2.12.0-alpha</release>
     <versions>
       <version>1.20.0-alpha</version>
       <version>1.20.1-alpha</version>
@@ -43,7 +43,8 @@
       <version>2.9.0-alpha</version>
       <version>2.10.0-alpha</version>
       <version>2.11.0-alpha</version>
+      <version>2.12.0-alpha</version>
     </versions>
-    <lastUpdated>20241223181610</lastUpdated>
+    <lastUpdated>20250117032615</lastUpdated>
   </versioning>
 </metadata>
