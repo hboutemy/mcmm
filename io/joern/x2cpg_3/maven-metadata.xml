@@ -3,80 +3,10 @@
   <groupId>io.joern</groupId>
   <artifactId>x2cpg_3</artifactId>
   <versioning>
-    <latest>4.0.218</latest>
-    <release>4.0.218</release>
+    <latest>4.0.219</latest>
+    <release>4.0.219</release>
     <versions>
-      <version>4.0.148</version>
-      <version>4.0.149</version>
-      <version>4.0.150</version>
-      <version>4.0.151</version>
-      <version>4.0.152</version>
-      <version>4.0.153</version>
-      <version>4.0.154</version>
-      <version>4.0.155</version>
-      <version>4.0.156</version>
-      <version>4.0.157</version>
-      <version>4.0.158</version>
-      <version>4.0.159</version>
-      <version>4.0.160</version>
-      <version>4.0.161</version>
-      <version>4.0.162</version>
-      <version>4.0.163</version>
-      <version>4.0.164</version>
-      <version>4.0.165</version>
-      <version>4.0.166</version>
-      <version>4.0.167</version>
-      <version>4.0.168</version>
-      <version>4.0.169</version>
-      <version>4.0.170</version>
-      <version>4.0.171</version>
-      <version>4.0.172</version>
-      <version>4.0.173</version>
-      <version>4.0.174</version>
-      <version>4.0.175</version>
-      <version>4.0.176</version>
-      <version>4.0.177</version>
-      <version>4.0.178</version>
-      <version>4.0.179</version>
-      <version>4.0.180</version>
-      <version>4.0.181</version>
-      <version>4.0.182</version>
-      <version>4.0.183</version>
-      <version>4.0.184</version>
-      <version>4.0.185</version>
-      <version>4.0.186</version>
-      <version>4.0.187</version>
-      <version>4.0.188</version>
-      <version>4.0.189</version>
-      <version>4.0.190</version>
-      <version>4.0.191</version>
-      <version>4.0.192</version>
-      <version>4.0.193</version>
-      <version>4.0.194</version>
-      <version>4.0.195</version>
-      <version>4.0.196</version>
-      <version>4.0.197</version>
-      <version>4.0.198</version>
-      <version>4.0.199</version>
-      <version>4.0.200</version>
-      <version>4.0.201</version>
-      <version>4.0.202</version>
-      <version>4.0.203</version>
-      <version>4.0.204</version>
-      <version>4.0.205</version>
-      <version>4.0.206</version>
-      <version>4.0.207</version>
-      <version>4.0.208</version>
-      <version>4.0.209</version>
-      <version>4.0.210</version>
-      <version>4.0.211</version>
-      <version>4.0.212</version>
-      <version>4.0.213</version>
-      <version>4.0.214</version>
-      <version>4.0.215</version>
-      <version>4.0.216</version>
-      <version>4.0.217</version>
-      <version>4.0.218</version>
+      <version>4.0.219</version>
       <version>1.1.1000</version>
       <version>1.1.1001</version>
       <version>1.1.1002</version>
@@ -1745,14 +1675,85 @@
       <version>4.0.145</version>
       <version>4.0.146</version>
       <version>4.0.147</version>
+      <version>4.0.148</version>
+      <version>4.0.149</version>
       <version>4.0.15</version>
+      <version>4.0.150</version>
+      <version>4.0.151</version>
+      <version>4.0.152</version>
+      <version>4.0.153</version>
+      <version>4.0.154</version>
+      <version>4.0.155</version>
+      <version>4.0.156</version>
+      <version>4.0.157</version>
+      <version>4.0.158</version>
+      <version>4.0.159</version>
       <version>4.0.16</version>
+      <version>4.0.160</version>
+      <version>4.0.161</version>
+      <version>4.0.162</version>
+      <version>4.0.163</version>
+      <version>4.0.164</version>
+      <version>4.0.165</version>
+      <version>4.0.166</version>
+      <version>4.0.167</version>
+      <version>4.0.168</version>
+      <version>4.0.169</version>
       <version>4.0.17</version>
+      <version>4.0.170</version>
+      <version>4.0.171</version>
+      <version>4.0.172</version>
+      <version>4.0.173</version>
+      <version>4.0.174</version>
+      <version>4.0.175</version>
+      <version>4.0.176</version>
+      <version>4.0.177</version>
+      <version>4.0.178</version>
+      <version>4.0.179</version>
       <version>4.0.18</version>
+      <version>4.0.180</version>
+      <version>4.0.181</version>
+      <version>4.0.182</version>
+      <version>4.0.183</version>
+      <version>4.0.184</version>
+      <version>4.0.185</version>
+      <version>4.0.186</version>
+      <version>4.0.187</version>
+      <version>4.0.188</version>
+      <version>4.0.189</version>
       <version>4.0.19</version>
+      <version>4.0.190</version>
+      <version>4.0.191</version>
+      <version>4.0.192</version>
+      <version>4.0.193</version>
+      <version>4.0.194</version>
+      <version>4.0.195</version>
+      <version>4.0.196</version>
+      <version>4.0.197</version>
+      <version>4.0.198</version>
+      <version>4.0.199</version>
       <version>4.0.2</version>
       <version>4.0.20</version>
+      <version>4.0.200</version>
+      <version>4.0.201</version>
+      <version>4.0.202</version>
+      <version>4.0.203</version>
+      <version>4.0.204</version>
+      <version>4.0.205</version>
+      <version>4.0.206</version>
+      <version>4.0.207</version>
+      <version>4.0.208</version>
+      <version>4.0.209</version>
       <version>4.0.21</version>
+      <version>4.0.210</version>
+      <version>4.0.211</version>
+      <version>4.0.212</version>
+      <version>4.0.213</version>
+      <version>4.0.214</version>
+      <version>4.0.215</version>
+      <version>4.0.216</version>
+      <version>4.0.217</version>
+      <version>4.0.218</version>
       <version>4.0.22</version>
       <version>4.0.23</version>
       <version>4.0.24</version>
@@ -1839,6 +1840,6 @@
       <version>4.0.98</version>
       <version>4.0.99</version>
     </versions>
-    <lastUpdated>20250117073732</lastUpdated>
+    <lastUpdated>20250118073647</lastUpdated>
   </versioning>
 </metadata>
