@@ -3,8 +3,8 @@
   <groupId>xyz.block.ftl</groupId>
   <artifactId>ftl-jvm-bom</artifactId>
   <versioning>
-    <latest>0.427.2</latest>
-    <release>0.427.2</release>
+    <latest>0.428.1</latest>
+    <release>0.428.1</release>
     <versions>
       <version>jvm-publish</version>
       <version>main</version>
@@ -133,7 +133,9 @@
       <version>0.427.0</version>
       <version>0.427.1</version>
       <version>0.427.2</version>
+      <version>0.428.0</version>
+      <version>0.428.1</version>
     </versions>
-    <lastUpdated>20250117015917</lastUpdated>
+    <lastUpdated>20250119215524</lastUpdated>
   </versioning>
 </metadata>

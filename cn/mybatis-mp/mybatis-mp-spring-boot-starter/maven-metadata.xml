@@ -3,8 +3,8 @@
   <groupId>cn.mybatis-mp</groupId>
   <artifactId>mybatis-mp-spring-boot-starter</artifactId>
   <versioning>
-    <latest>1.7.9-RC-spring-boot3</latest>
-    <release>1.7.9-RC-spring-boot3</release>
+    <latest>1.7.9-spring-boot3</latest>
+    <release>1.7.9-spring-boot3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -267,7 +267,9 @@
       <version>1.7.9-RC10</version>
       <version>1.7.9-RC10-spring-boot3</version>
       <version>1.7.9-RC-spring-boot3</version>
+      <version>1.7.9</version>
+      <version>1.7.9-spring-boot3</version>
     </versions>
-    <lastUpdated>20250110071139</lastUpdated>
+    <lastUpdated>20250119013040</lastUpdated>
   </versioning>
 </metadata>
