@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>opennlp-linguistics</artifactId>
   <versioning>
-    <latest>8.466.24</latest>
-    <release>8.466.24</release>
+    <latest>8.467.13</latest>
+    <release>8.467.13</release>
     <versions>
       <version>8.98.34</version>
       <version>8.99.32</version>
@@ -172,6 +172,7 @@
       <version>8.307.19</version>
       <version>8.308.26</version>
       <version>8.309.34</version>
+      <version>8.310.1</version>
       <version>8.311.28</version>
       <version>8.313.3</version>
       <version>8.314.57</version>
@@ -305,6 +306,6 @@
       <version>8.465.15</version>
       <version>8.466.24</version>
     </versions>
-    <lastUpdated>20250120120329</lastUpdated>
+    <lastUpdated>20250121114522</lastUpdated>
   </versioning>
 </metadata>

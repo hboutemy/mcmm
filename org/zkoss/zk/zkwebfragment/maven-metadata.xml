@@ -3,8 +3,8 @@
   <groupId>org.zkoss.zk</groupId>
   <artifactId>zkwebfragment</artifactId>
   <versioning>
-    <latest>10.0.0-Beta</latest>
-    <release>10.0.0-Beta</release>
+    <latest>10.0.0-jakarta</latest>
+    <release>10.0.0-jakarta</release>
     <versions>
       <version>8.6.0.1</version>
       <version>9.0.0-RC</version>
@@ -21,7 +21,9 @@
       <version>9.6.0.2</version>
       <version>9.6.0.2-jakarta</version>
       <version>10.0.0-Beta</version>
+      <version>10.0.0</version>
+      <version>10.0.0-jakarta</version>
     </versions>
-    <lastUpdated>20231020025005</lastUpdated>
+    <lastUpdated>20240227103728</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.zkoss.zk</groupId>
   <artifactId>zkbind-impl</artifactId>
   <versioning>
-    <latest>10.0.0-Beta</latest>
-    <release>10.0.0-Beta</release>
+    <latest>10.0.0-jakarta</latest>
+    <release>10.0.0-jakarta</release>
     <versions>
       <version>8.0.2.2</version>
       <version>8.5.0</version>
@@ -23,7 +23,9 @@
       <version>9.6.0.2</version>
       <version>9.6.0.2-jakarta</version>
       <version>10.0.0-Beta</version>
+      <version>10.0.0</version>
+      <version>10.0.0-jakarta</version>
     </versions>
-    <lastUpdated>20231020024846</lastUpdated>
+    <lastUpdated>20240227103628</lastUpdated>
   </versioning>
 </metadata>
