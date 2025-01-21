@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.authenticators.v1</artifactId>
   <versioning>
-    <latest>1.3.21</latest>
-    <release>1.3.21</release>
+    <latest>1.3.24</latest>
+    <release>1.3.24</release>
     <versions>
       <version>1.0.231</version>
       <version>1.0.232</version>
@@ -152,7 +152,10 @@
       <version>1.3.19</version>
       <version>1.3.20</version>
       <version>1.3.21</version>
+      <version>1.3.22</version>
+      <version>1.3.23</version>
+      <version>1.3.24</version>
     </versions>
-    <lastUpdated>20250117122419</lastUpdated>
+    <lastUpdated>20250120103406</lastUpdated>
   </versioning>
 </metadata>

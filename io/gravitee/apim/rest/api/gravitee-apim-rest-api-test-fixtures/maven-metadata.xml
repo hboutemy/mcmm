@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.rest.api</groupId>
   <artifactId>gravitee-apim-rest-api-test-fixtures</artifactId>
   <versioning>
-    <latest>4.6.0-alpha.3</latest>
-    <release>4.6.0-alpha.3</release>
+    <latest>4.6.0</latest>
+    <release>4.6.0</release>
     <versions>
       <version>4.0.4</version>
       <version>4.0.5</version>
@@ -137,7 +137,8 @@
       <version>4.5.5</version>
       <version>4.5.6</version>
       <version>4.6.0-alpha.3</version>
+      <version>4.6.0</version>
     </versions>
-    <lastUpdated>20250116164357</lastUpdated>
+    <lastUpdated>20250120165138</lastUpdated>
   </versioning>
 </metadata>

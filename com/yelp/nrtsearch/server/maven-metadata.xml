@@ -3,8 +3,8 @@
   <groupId>com.yelp.nrtsearch</groupId>
   <artifactId>server</artifactId>
   <versioning>
-    <latest>1.0.0-beta.2</latest>
-    <release>1.0.0-beta.2</release>
+    <latest>1.0.0-beta.3</latest>
+    <release>1.0.0-beta.3</release>
     <versions>
       <version>0.2.0</version>
       <version>0.3.0</version>
@@ -67,11 +67,13 @@
       <version>0.39.0</version>
       <version>0.40.0</version>
       <version>0.42.0</version>
+      <version>0.42.1</version>
       <version>1.0.0-alpha.1</version>
       <version>1.0.0-alpha.2</version>
       <version>1.0.0-beta.1</version>
       <version>1.0.0-beta.2</version>
+      <version>1.0.0-beta.3</version>
     </versions>
-    <lastUpdated>20250109175550</lastUpdated>
+    <lastUpdated>20250120183508</lastUpdated>
   </versioning>
 </metadata>

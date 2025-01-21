@@ -7,6 +7,11 @@
       <artifactId>bom-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Image Builder Maven Plugin</name>
+      <prefix>buildx</prefix>
+      <artifactId>buildx-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Checkstats Maven Plugin</name>
       <prefix>checkstats</prefix>
       <artifactId>checkstats-maven-plugin</artifactId>

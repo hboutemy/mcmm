@@ -261,6 +261,11 @@
       <artifactId>wso2-maven-package-prepare-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>WSO2 MI Connector plugin</name>
+      <prefix>wso2-mi-connector</prefix>
+      <artifactId>wso2-mi-connector-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven MI Synapse Plugin</name>
       <prefix>wso2-mi-synapse</prefix>
       <artifactId>wso2-mi-synapse-plugin</artifactId>
