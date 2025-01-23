@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-kotlin-extensions</artifactId>
   <versioning>
-    <latest>8.0.0-rc.4</latest>
-    <release>8.0.0-rc.4</release>
+    <latest>8.0.0</latest>
+    <release>8.0.0</release>
     <versions>
       <version>5.0.0-beta.5</version>
       <version>5.0.0-beta.6</version>
@@ -172,7 +172,8 @@
       <version>8.0.0-rc.2</version>
       <version>8.0.0-rc.3</version>
       <version>8.0.0-rc.4</version>
+      <version>8.0.0</version>
     </versions>
-    <lastUpdated>20250120161944</lastUpdated>
+    <lastUpdated>20250121130112</lastUpdated>
   </versioning>
 </metadata>

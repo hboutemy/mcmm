@@ -3,8 +3,8 @@
   <groupId>com.yugabyte.spark</groupId>
   <artifactId>spark-cassandra-connector-test-support_2.12</artifactId>
   <versioning>
-    <latest>3.3-yb-2</latest>
-    <release>3.3-yb-2</release>
+    <latest>3.3-yb-3</latest>
+    <release>3.3-yb-3</release>
     <versions>
       <version>3.0-yb-alpha-1</version>
       <version>3.0-yb-beta-1</version>
@@ -27,9 +27,11 @@
       <version>3.2-yb-1</version>
       <version>3.2-yb-2</version>
       <version>3.2-yb-3</version>
+      <version>3.2-yb-4</version>
       <version>3.3-yb-1</version>
       <version>3.3-yb-2</version>
+      <version>3.3-yb-3</version>
     </versions>
-    <lastUpdated>20250113035941</lastUpdated>
+    <lastUpdated>20250121083313</lastUpdated>
   </versioning>
 </metadata>

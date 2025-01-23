@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-ogm-bolt-driver</artifactId>
   <versioning>
-    <latest>4.0.13</latest>
-    <release>4.0.13</release>
+    <latest>4.0.14</latest>
+    <release>4.0.14</release>
     <versions>
       <version>v3.2.13</version>
       <version>2.0.0-M04</version>
@@ -114,11 +114,13 @@
       <version>3.2.43</version>
       <version>3.2.44</version>
       <version>3.2.45</version>
+      <version>3.2.46</version>
       <version>3.3.0</version>
       <version>3.3.1</version>
       <version>3.3.2</version>
       <version>3.3.3</version>
       <version>3.3.4</version>
+      <version>3.3.5</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -133,7 +135,8 @@
       <version>4.0.11</version>
       <version>4.0.12</version>
       <version>4.0.13</version>
+      <version>4.0.14</version>
     </versions>
-    <lastUpdated>20241209100601</lastUpdated>
+    <lastUpdated>20250121150228</lastUpdated>
   </versioning>
 </metadata>

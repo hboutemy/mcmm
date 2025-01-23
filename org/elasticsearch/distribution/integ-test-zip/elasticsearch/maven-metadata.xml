@@ -3,8 +3,8 @@
   <groupId>org.elasticsearch.distribution.integ-test-zip</groupId>
   <artifactId>elasticsearch</artifactId>
   <versioning>
-    <latest>8.17.0</latest>
-    <release>8.17.0</release>
+    <latest>8.17.1</latest>
+    <release>8.17.1</release>
     <versions>
       <version>5.0.0-alpha1</version>
       <version>5.0.0-alpha2</version>
@@ -261,8 +261,10 @@
       <version>8.16.0</version>
       <version>8.16.1</version>
       <version>8.16.2</version>
+      <version>8.16.3</version>
       <version>8.17.0</version>
+      <version>8.17.1</version>
     </versions>
-    <lastUpdated>20250114180713</lastUpdated>
+    <lastUpdated>20250121095150</lastUpdated>
   </versioning>
 </metadata>

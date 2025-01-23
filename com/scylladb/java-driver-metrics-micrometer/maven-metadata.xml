@@ -3,8 +3,8 @@
   <groupId>com.scylladb</groupId>
   <artifactId>java-driver-metrics-micrometer</artifactId>
   <versioning>
-    <latest>4.18.0.1</latest>
-    <release>4.18.0.1</release>
+    <latest>4.18.0.2</latest>
+    <release>4.18.0.2</release>
     <versions>
       <version>4.8.0-scylla-0</version>
       <version>4.9.0-scylla-0</version>
@@ -20,7 +20,8 @@
       <version>4.17.0.1</version>
       <version>4.18.0.0</version>
       <version>4.18.0.1</version>
+      <version>4.18.0.2</version>
     </versions>
-    <lastUpdated>20240704151840</lastUpdated>
+    <lastUpdated>20250121135707</lastUpdated>
   </versioning>
 </metadata>
