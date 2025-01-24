@@ -6,6 +6,8 @@
     <latest>5.0.0</latest>
     <release>5.0.0</release>
     <versions>
+      <version>"${RELEASE_VERSION}"</version>
+      <version>${RELEASE_VERSION}</version>
       <version>5.0.0</version>
     </versions>
     <lastUpdated>20231229151818</lastUpdated>

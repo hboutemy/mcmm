@@ -3,8 +3,8 @@
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-function-grpc</artifactId>
   <versioning>
-    <latest>4.2.0</latest>
-    <release>4.2.0</release>
+    <latest>4.2.1</latest>
+    <release>4.2.1</release>
     <versions>
       <version>3.2.0</version>
       <version>3.2.1</version>
@@ -33,7 +33,8 @@
       <version>4.1.4</version>
       <version>4.1.5</version>
       <version>4.2.0</version>
+      <version>4.2.1</version>
     </versions>
-    <lastUpdated>20250110050625</lastUpdated>
+    <lastUpdated>20250123112318</lastUpdated>
   </versioning>
 </metadata>

@@ -3,12 +3,13 @@
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-rest</artifactId>
   <versioning>
-    <latest>3.76.0-03</latest>
-    <release>3.76.0-03</release>
+    <latest>3.76.1-01</latest>
+    <release>3.76.1-01</release>
     <versions>
       <version>3.75.0-06</version>
       <version>3.75.1-01</version>
       <version>3.76.0-03</version>
+      <version>3.76.1-01</version>
       <version>3.0.0-03</version>
       <version>3.0.0-b2015110601</version>
       <version>3.0.0-b2016011501</version>
@@ -157,6 +158,6 @@
       <version>3.8.0-02</version>
       <version>3.9.0-01</version>
     </versions>
-    <lastUpdated>20250109152650</lastUpdated>
+    <lastUpdated>20250123184034</lastUpdated>
   </versioning>
 </metadata>

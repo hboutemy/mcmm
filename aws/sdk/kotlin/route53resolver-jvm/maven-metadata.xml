@@ -3,8 +3,8 @@
   <groupId>aws.sdk.kotlin</groupId>
   <artifactId>route53resolver-jvm</artifactId>
   <versioning>
-    <latest>1.4.4</latest>
-    <release>1.4.4</release>
+    <latest>1.4.5</latest>
+    <release>1.4.5</release>
     <versions>
       <version>0.16.0</version>
       <version>0.16.1-beta</version>
@@ -176,6 +176,7 @@
       <version>1.1.8</version>
       <version>1.1.9</version>
       <version>1.1.10</version>
+      <version>1.1.11</version>
       <version>1.1.12</version>
       <version>1.1.13</version>
       <version>1.1.15</version>
@@ -366,7 +367,8 @@
       <version>1.4.2</version>
       <version>1.4.3</version>
       <version>1.4.4</version>
+      <version>1.4.5</version>
     </versions>
-    <lastUpdated>20250122201345</lastUpdated>
+    <lastUpdated>20250123200419</lastUpdated>
   </versioning>
 </metadata>
