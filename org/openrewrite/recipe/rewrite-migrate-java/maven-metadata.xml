@@ -3,8 +3,8 @@
   <groupId>org.openrewrite.recipe</groupId>
   <artifactId>rewrite-migrate-java</artifactId>
   <versioning>
-    <latest>3.0.1</latest>
-    <release>3.0.1</release>
+    <latest>3.1.0</latest>
+    <release>3.1.0</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -104,7 +104,8 @@
       <version>2.31.1</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
+      <version>3.1.0</version>
     </versions>
-    <lastUpdated>20250117171312</lastUpdated>
+    <lastUpdated>20250124171902</lastUpdated>
   </versioning>
 </metadata>

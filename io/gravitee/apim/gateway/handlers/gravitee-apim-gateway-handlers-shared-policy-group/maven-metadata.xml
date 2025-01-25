@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway.handlers</groupId>
   <artifactId>gravitee-apim-gateway-handlers-shared-policy-group</artifactId>
   <versioning>
-    <latest>4.6.0</latest>
-    <release>4.6.0</release>
+    <latest>4.6.1</latest>
+    <release>4.6.1</release>
     <versions>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0</version>
@@ -14,9 +14,11 @@
       <version>4.5.4</version>
       <version>4.5.5</version>
       <version>4.5.6</version>
+      <version>4.5.7</version>
       <version>4.6.0-alpha.3</version>
       <version>4.6.0</version>
+      <version>4.6.1</version>
     </versions>
-    <lastUpdated>20250120165045</lastUpdated>
+    <lastUpdated>20250124173346</lastUpdated>
   </versioning>
 </metadata>
