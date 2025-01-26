@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudtasks</artifactId>
   <versioning>
-    <latest>v2-rev20241111-2.0.0</latest>
-    <release>v2-rev20241111-2.0.0</release>
+    <latest>v2-rev20250115-2.0.0</latest>
+    <release>v2-rev20250115-2.0.0</release>
     <versions>
       <version>v2beta2-rev1-1.18.0-rc</version>
       <version>v2beta2-rev1-1.20.0</version>
@@ -522,6 +522,7 @@
       <version>v2beta3-rev20240223-2.0.0</version>
       <version>v2beta3-rev20240808-2.0.0</version>
       <version>v2beta3-rev20241111-2.0.0</version>
+      <version>v2beta3-rev20250115-2.0.0</version>
       <version>v2-rev1-1.18.0-rc</version>
       <version>v2-rev1-1.22.0</version>
       <version>v2-rev1-1.23.0</version>
@@ -640,7 +641,8 @@
       <version>v2-rev20240223-2.0.0</version>
       <version>v2-rev20240808-2.0.0</version>
       <version>v2-rev20241111-2.0.0</version>
+      <version>v2-rev20250115-2.0.0</version>
     </versions>
-    <lastUpdated>20241118211417</lastUpdated>
+    <lastUpdated>20250125090301</lastUpdated>
   </versioning>
 </metadata>
