@@ -3,8 +3,8 @@
   <groupId>tech.annexflow.compose</groupId>
   <artifactId>constraintlayout-compose-multiplatform-wasm-js</artifactId>
   <versioning>
-    <latest>0.5.0-shaded-core</latest>
-    <release>0.5.0-shaded-core</release>
+    <latest>0.5.1-shaded-core</latest>
+    <release>0.5.1-shaded-core</release>
     <versions>
       <version>0.3.0-alpha01</version>
       <version>0.3.0-rc02</version>
@@ -18,7 +18,10 @@
       <version>0.5.0</version>
       <version>0.5.0-shaded</version>
       <version>0.5.0-shaded-core</version>
+      <version>0.5.1</version>
+      <version>0.5.1-shaded</version>
+      <version>0.5.1-shaded-core</version>
     </versions>
-    <lastUpdated>20241021091538</lastUpdated>
+    <lastUpdated>20250126214857</lastUpdated>
   </versioning>
 </metadata>
