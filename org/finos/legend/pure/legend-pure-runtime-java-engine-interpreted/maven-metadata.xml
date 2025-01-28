@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.pure</groupId>
   <artifactId>legend-pure-runtime-java-engine-interpreted</artifactId>
   <versioning>
-    <latest>5.31.1</latest>
-    <release>5.31.1</release>
+    <latest>5.32.0</latest>
+    <release>5.32.0</release>
     <versions>
       <version>legend-pure-4.5.8</version>
       <version>0.0.8</version>
@@ -186,6 +186,7 @@
       <version>5.30.0</version>
       <version>5.31.0</version>
       <version>5.31.1</version>
+      <version>5.32.0</version>
       <version>1.46.0</version>
       <version>1.47.0</version>
       <version>1.48.0</version>
@@ -194,6 +195,6 @@
       <version>1.51.0</version>
       <version>1.51.1</version>
     </versions>
-    <lastUpdated>20250121153417</lastUpdated>
+    <lastUpdated>20250127170326</lastUpdated>
   </versioning>
 </metadata>
