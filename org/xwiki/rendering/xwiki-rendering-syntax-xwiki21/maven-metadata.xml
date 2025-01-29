@@ -3,8 +3,8 @@
   <groupId>org.xwiki.rendering</groupId>
   <artifactId>xwiki-rendering-syntax-xwiki21</artifactId>
   <versioning>
-    <latest>17.0.0-rc-1</latest>
-    <release>17.0.0-rc-1</release>
+    <latest>17.0.0</latest>
+    <release>17.0.0</release>
     <versions>
       <version>4.1-milestone-1</version>
       <version>4.1-milestone-2</version>
@@ -480,8 +480,10 @@
       <version>16.10.0</version>
       <version>16.10.1</version>
       <version>16.10.2</version>
+      <version>16.10.3</version>
       <version>17.0.0-rc-1</version>
+      <version>17.0.0</version>
     </versions>
-    <lastUpdated>20250121154546</lastUpdated>
+    <lastUpdated>20250128111336</lastUpdated>
   </versioning>
 </metadata>

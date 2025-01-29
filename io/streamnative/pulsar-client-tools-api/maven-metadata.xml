@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-client-tools-api</artifactId>
   <versioning>
-    <latest>4.0.1.1</latest>
-    <release>4.0.1.1</release>
+    <latest>4.0.1.2</latest>
+    <release>4.0.1.2</release>
     <versions>
       <version>master-rc-daily</version>
       <version>2.11.0.0-rc2</version>
@@ -169,7 +169,8 @@
       <version>4.0.0.9</version>
       <version>4.0.0.10</version>
       <version>4.0.1.1</version>
+      <version>4.0.1.2</version>
     </versions>
-    <lastUpdated>20250124040707</lastUpdated>
+    <lastUpdated>20250128072350</lastUpdated>
   </versioning>
 </metadata>

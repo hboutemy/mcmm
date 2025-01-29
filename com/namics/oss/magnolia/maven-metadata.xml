@@ -11,5 +11,10 @@
       <prefix>magnolia-handlebars-blossom-reference-generator</prefix>
       <artifactId>magnolia-handlebars-blossom-reference-generator</artifactId>
     </plugin>
+    <plugin>
+      <name>HandlebarsRenderer - referenceGenerator</name>
+      <prefix>magnolia-handlebars-template-reference-generator</prefix>
+      <artifactId>magnolia-handlebars-template-reference-generator</artifactId>
+    </plugin>
   </plugins>
 </metadata>
