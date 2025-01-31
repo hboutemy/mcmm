@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-remote-query-client</artifactId>
   <versioning>
-    <latest>15.1.4.Final</latest>
-    <release>15.1.4.Final</release>
+    <latest>15.1.5.Final</latest>
+    <release>15.1.5.Final</release>
     <versions>
       <version>6.0.0.Alpha4</version>
       <version>6.0.0.Beta1</version>
@@ -311,6 +311,7 @@
       <version>14.0.31.Final</version>
       <version>14.0.32.Final</version>
       <version>14.0.33.Final</version>
+      <version>14.0.34.Final</version>
       <version>15.0.0.CR1</version>
       <version>15.0.0.Final</version>
       <version>15.0.0.Dev01</version>
@@ -335,6 +336,7 @@
       <version>15.0.10.Final</version>
       <version>15.0.11.Final</version>
       <version>15.0.12.Final</version>
+      <version>15.0.13.Final</version>
       <version>15.1.0.Final</version>
       <version>15.1.0.Dev01</version>
       <version>15.1.0.Dev02</version>
@@ -345,8 +347,9 @@
       <version>15.1.2.Final</version>
       <version>15.1.3.Final</version>
       <version>15.1.4.Final</version>
+      <version>15.1.5.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20250121181500</lastUpdated>
+    <lastUpdated>20250130122736</lastUpdated>
   </versioning>
 </metadata>

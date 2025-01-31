@@ -3,8 +3,8 @@
   <groupId>ch.exense.step</groupId>
   <artifactId>step-functions-package</artifactId>
   <versioning>
-    <latest>3.26.5</latest>
-    <release>3.26.5</release>
+    <latest>3.26.5-customized-j</latest>
+    <release>3.26.5-customized-j</release>
     <versions>
       <version>3.17.0</version>
       <version>3.17.1</version>
@@ -55,7 +55,8 @@
       <version>3.26.3</version>
       <version>3.26.4</version>
       <version>3.26.5</version>
+      <version>3.26.5-customized-j</version>
     </versions>
-    <lastUpdated>20241210100709</lastUpdated>
+    <lastUpdated>20250130131416</lastUpdated>
   </versioning>
 </metadata>

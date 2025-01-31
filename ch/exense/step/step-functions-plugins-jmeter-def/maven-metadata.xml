@@ -3,8 +3,8 @@
   <groupId>ch.exense.step</groupId>
   <artifactId>step-functions-plugins-jmeter-def</artifactId>
   <versioning>
-    <latest>3.26.5</latest>
-    <release>3.26.5</release>
+    <latest>3.26.5-customized-j</latest>
+    <release>3.26.5-customized-j</release>
     <versions>
       <version>3.11.0</version>
       <version>3.11.1</version>
@@ -83,7 +83,8 @@
       <version>3.26.3</version>
       <version>3.26.4</version>
       <version>3.26.5</version>
+      <version>3.26.5-customized-j</version>
     </versions>
-    <lastUpdated>20241210100730</lastUpdated>
+    <lastUpdated>20250130131436</lastUpdated>
   </versioning>
 </metadata>

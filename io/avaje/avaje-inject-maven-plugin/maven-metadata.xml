@@ -3,8 +3,8 @@
   <groupId>io.avaje</groupId>
   <artifactId>avaje-inject-maven-plugin</artifactId>
   <versioning>
-    <latest>11.2-RC2</latest>
-    <release>11.2-RC2</release>
+    <latest>11.2-javax</latest>
+    <release>11.2-javax</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -44,7 +44,9 @@
       <version>11.1-javax</version>
       <version>11.2-RC1</version>
       <version>11.2-RC2</version>
+      <version>11.2</version>
+      <version>11.2-javax</version>
     </versions>
-    <lastUpdated>20250115204043</lastUpdated>
+    <lastUpdated>20250130191716</lastUpdated>
   </versioning>
 </metadata>

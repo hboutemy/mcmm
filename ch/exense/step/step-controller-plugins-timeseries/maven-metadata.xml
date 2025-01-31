@@ -3,8 +3,8 @@
   <groupId>ch.exense.step</groupId>
   <artifactId>step-controller-plugins-timeseries</artifactId>
   <versioning>
-    <latest>3.26.5</latest>
-    <release>3.26.5</release>
+    <latest>3.26.5-customized-j</latest>
+    <release>3.26.5-customized-j</release>
     <versions>
       <version>3.20.0</version>
       <version>3.20.1</version>
@@ -45,7 +45,8 @@
       <version>3.26.3</version>
       <version>3.26.4</version>
       <version>3.26.5</version>
+      <version>3.26.5-customized-j</version>
     </versions>
-    <lastUpdated>20241210100701</lastUpdated>
+    <lastUpdated>20250130131408</lastUpdated>
   </versioning>
 </metadata>

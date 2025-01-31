@@ -3,13 +3,10 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.23.1-jfappcontext.1.44dfa9e</latest>
-    <release>3.23.1-jfappcontext.1.44dfa9e</release>
+    <latest>3.23.1-jftcpoptions.1.c1a1312</latest>
+    <release>3.23.1-jftcpoptions.1.c1a1312</release>
     <versions>
-      <version>3.23.0-ng3230.31.b05c32f</version>
-      <version>3.23.0-edge.32.397cadd</version>
-      <version>3.23.0</version>
-      <version>3.23.1-jfappcontext.1.44dfa9e</version>
+      <version>3.23.1-jftcpoptions.1.c1a1312</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -390,6 +387,7 @@
       <version>3.22.1-renovatenpm.4.1d5d35b</version>
       <version>3.22.1-renovatenpm.5.5a332bf</version>
       <version>3.22.1-renovatenugetarmonikutils.4.e3827bd</version>
+      <version>3.23.0</version>
       <version>3.23.0-adchangedocstringcreateresults.18.bd80709</version>
       <version>3.23.0-adfixparentpartitionids.16.02ae464</version>
       <version>3.23.0-edge.13.8c658fc</version>
@@ -397,6 +395,7 @@
       <version>3.23.0-edge.17.f42b540</version>
       <version>3.23.0-edge.19.0a992b6</version>
       <version>3.23.0-edge.30.a985732</version>
+      <version>3.23.0-edge.32.397cadd</version>
       <version>3.23.0-flrustserver.14.765b2a3</version>
       <version>3.23.0-flrustserver.15.3351efc</version>
       <version>3.23.0-flrustserver.16.db6062d</version>
@@ -413,10 +412,12 @@
       <version>3.23.0-jfagenttcp.24.619cc02</version>
       <version>3.23.0-jfagenttcp.25.585b499</version>
       <version>3.23.0-jfagenttcp.25.765ed45</version>
+      <version>3.23.0-ng3230.31.b05c32f</version>
       <version>3.23.0-nglinter.14.6375fbc</version>
       <version>3.23.0-qdfiltererror.12.dc917c3</version>
       <version>3.23.0-qdpythonworker.10.21492d4</version>
+      <version>3.23.1-jfappcontext.1.44dfa9e</version>
     </versions>
-    <lastUpdated>20250127135332</lastUpdated>
+    <lastUpdated>20250130163558</lastUpdated>
   </versioning>
 </metadata>
