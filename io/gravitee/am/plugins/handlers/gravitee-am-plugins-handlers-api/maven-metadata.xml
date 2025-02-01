@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.plugins.handlers</groupId>
   <artifactId>gravitee-am-plugins-handlers-api</artifactId>
   <versioning>
-    <latest>4.6.0</latest>
-    <release>4.6.0</release>
+    <latest>4.6.1</latest>
+    <release>4.6.1</release>
     <versions>
       <version>3.18.0-RC1</version>
       <version>3.18.0-RC2</version>
@@ -207,6 +207,7 @@
       <version>4.3.19</version>
       <version>4.3.20</version>
       <version>4.3.21</version>
+      <version>4.3.22</version>
       <version>4.4.0-alpha.1</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
@@ -225,6 +226,7 @@
       <version>4.4.14</version>
       <version>4.4.15</version>
       <version>4.4.16</version>
+      <version>4.4.17</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0-alpha.2</version>
       <version>4.5.0-alpha.3</version>
@@ -237,11 +239,13 @@
       <version>4.5.5</version>
       <version>4.5.6</version>
       <version>4.5.7</version>
+      <version>4.5.8</version>
       <version>4.6.0-alpha.1</version>
       <version>4.6.0-alpha.2</version>
       <version>4.6.0-alpha.3</version>
       <version>4.6.0</version>
+      <version>4.6.1</version>
     </versions>
-    <lastUpdated>20250120102740</lastUpdated>
+    <lastUpdated>20250131142819</lastUpdated>
   </versioning>
 </metadata>
