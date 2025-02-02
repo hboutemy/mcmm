@@ -3,8 +3,8 @@
   <groupId>com.lihaoyi</groupId>
   <artifactId>mill-testrunner-entrypoint</artifactId>
   <versioning>
-    <latest>0.12.6</latest>
-    <release>0.12.6</release>
+    <latest>0.13.0-M0</latest>
+    <release>0.13.0-M0</release>
     <versions>
       <version>0.11.0-M11</version>
       <version>0.11.0</version>
@@ -153,7 +153,9 @@
       <version>0.12.5-218-5151dc</version>
       <version>0.12.6-RC1</version>
       <version>0.12.6</version>
+      <version>0.12.7</version>
+      <version>0.13.0-M0</version>
     </versions>
-    <lastUpdated>20250131150416</lastUpdated>
+    <lastUpdated>20250201110522</lastUpdated>
   </versioning>
 </metadata>
