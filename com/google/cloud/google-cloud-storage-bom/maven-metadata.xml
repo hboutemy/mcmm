@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-storage-bom</artifactId>
   <versioning>
-    <latest>2.48.0</latest>
-    <release>2.48.0</release>
+    <latest>2.48.1</latest>
+    <release>2.48.1</release>
     <versions>
       <version>2.14.0</version>
       <version>2.15.0</version>
@@ -63,7 +63,8 @@
       <version>2.46.0</version>
       <version>2.47.0</version>
       <version>2.48.0</version>
+      <version>2.48.1</version>
     </versions>
-    <lastUpdated>20250127211737</lastUpdated>
+    <lastUpdated>20250203195834</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-snapshots</artifactId>
   <versioning>
-    <latest>8.7.0-alpha3</latest>
-    <release>8.7.0-alpha3</release>
+    <latest>8.7.0-alpha4-rc1</latest>
+    <release>8.7.0-alpha4-rc1</release>
     <versions>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
@@ -189,6 +189,7 @@
       <version>8.3.17</version>
       <version>8.3.18</version>
       <version>8.3.19</version>
+      <version>8.3.20</version>
       <version>8.4.0-alpha1</version>
       <version>8.4.0-alpha2</version>
       <version>8.4.0</version>
@@ -207,6 +208,7 @@
       <version>8.4.13</version>
       <version>8.4.14</version>
       <version>8.4.15</version>
+      <version>8.4.16</version>
       <version>8.5.0-alpha1</version>
       <version>8.5.0-alpha2</version>
       <version>8.5.0-RC1</version>
@@ -266,7 +268,8 @@
       <version>8.7.0-alpha3-rc5</version>
       <version>8.7.0-alpha3-rc6</version>
       <version>8.7.0-alpha3</version>
+      <version>8.7.0-alpha4-rc1</version>
     </versions>
-    <lastUpdated>20250117095712</lastUpdated>
+    <lastUpdated>20250203203240</lastUpdated>
   </versioning>
 </metadata>
