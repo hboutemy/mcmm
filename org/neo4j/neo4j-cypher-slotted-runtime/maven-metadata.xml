@@ -3,8 +3,8 @@
   <groupId>org.neo4j</groupId>
   <artifactId>neo4j-cypher-slotted-runtime</artifactId>
   <versioning>
-    <latest>5.26.1</latest>
-    <release>5.26.1</release>
+    <latest>5.26.2</latest>
+    <release>5.26.2</release>
     <versions>
       <version>3.3.0-beta01</version>
       <version>3.3.0-beta02</version>
@@ -94,7 +94,8 @@
       <version>5.25.1</version>
       <version>5.26.0</version>
       <version>5.26.1</version>
+      <version>5.26.2</version>
     </versions>
-    <lastUpdated>20250110131153</lastUpdated>
+    <lastUpdated>20250204153200</lastUpdated>
   </versioning>
 </metadata>
