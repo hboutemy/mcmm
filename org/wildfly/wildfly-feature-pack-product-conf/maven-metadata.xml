@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-feature-pack-product-conf</artifactId>
   <versioning>
-    <latest>35.0.0.Final</latest>
-    <release>35.0.0.Final</release>
+    <latest>35.0.1.Final</latest>
+    <release>35.0.1.Final</release>
     <versions>
       <version>31.0.0.Beta1</version>
       <version>31.0.0.Final</version>
@@ -21,7 +21,8 @@
       <version>34.0.1.Final</version>
       <version>35.0.0.Beta1</version>
       <version>35.0.0.Final</version>
+      <version>35.0.1.Final</version>
     </versions>
-    <lastUpdated>20250108150811</lastUpdated>
+    <lastUpdated>20250205132939</lastUpdated>
   </versioning>
 </metadata>

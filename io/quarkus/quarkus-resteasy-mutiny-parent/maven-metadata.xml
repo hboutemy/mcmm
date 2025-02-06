@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-resteasy-mutiny-parent</artifactId>
   <versioning>
-    <latest>3.18.1</latest>
-    <release>3.18.1</release>
+    <latest>3.18.2</latest>
+    <release>3.18.2</release>
     <versions>
       <version>1.3.0.CR1</version>
       <version>1.3.0.CR2</version>
@@ -313,7 +313,8 @@
       <version>3.18.0.CR1</version>
       <version>3.18.0</version>
       <version>3.18.1</version>
+      <version>3.18.2</version>
     </versions>
-    <lastUpdated>20250129113327</lastUpdated>
+    <lastUpdated>20250205105726</lastUpdated>
   </versioning>
 </metadata>

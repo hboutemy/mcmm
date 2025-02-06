@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-redis-deployment</artifactId>
   <versioning>
-    <latest>0.24.0.CR1</latest>
-    <release>0.24.0.CR1</release>
+    <latest>0.24.0.CR3</latest>
+    <release>0.24.0.CR3</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -77,7 +77,9 @@
       <version>0.23.0</version>
       <version>0.23.3</version>
       <version>0.24.0.CR1</version>
+      <version>0.24.0.CR2</version>
+      <version>0.24.0.CR3</version>
     </versions>
-    <lastUpdated>20250124120900</lastUpdated>
+    <lastUpdated>20250205183943</lastUpdated>
   </versioning>
 </metadata>

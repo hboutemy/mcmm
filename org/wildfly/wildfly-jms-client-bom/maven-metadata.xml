@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-jms-client-bom</artifactId>
   <versioning>
-    <latest>35.0.0.Final</latest>
-    <release>35.0.0.Final</release>
+    <latest>35.0.1.Final</latest>
+    <release>35.0.1.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -127,7 +127,8 @@
       <version>34.0.1.Final</version>
       <version>35.0.0.Beta1</version>
       <version>35.0.0.Final</version>
+      <version>35.0.1.Final</version>
     </versions>
-    <lastUpdated>20250108150813</lastUpdated>
+    <lastUpdated>20250205132940</lastUpdated>
   </versioning>
 </metadata>

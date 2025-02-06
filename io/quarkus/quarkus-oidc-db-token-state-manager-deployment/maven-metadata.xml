@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-oidc-db-token-state-manager-deployment</artifactId>
   <versioning>
-    <latest>3.18.1</latest>
-    <release>3.18.1</release>
+    <latest>3.18.2</latest>
+    <release>3.18.2</release>
     <versions>
       <version>3.5.0.CR1</version>
       <version>3.5.0</version>
@@ -93,7 +93,8 @@
       <version>3.18.0.CR1</version>
       <version>3.18.0</version>
       <version>3.18.1</version>
+      <version>3.18.2</version>
     </versions>
-    <lastUpdated>20250129113222</lastUpdated>
+    <lastUpdated>20250205105610</lastUpdated>
   </versioning>
 </metadata>

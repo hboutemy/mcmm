@@ -3,15 +3,16 @@
   <groupId>org.wildfly.bom.builder</groupId>
   <artifactId>wildfly-server</artifactId>
   <versioning>
-    <latest>35.0.0.Final</latest>
-    <release>35.0.0.Final</release>
+    <latest>35.0.1.Final</latest>
+    <release>35.0.1.Final</release>
     <versions>
       <version>34.0.0.Beta1</version>
       <version>34.0.0.Final</version>
       <version>34.0.1.Final</version>
       <version>35.0.0.Beta1</version>
       <version>35.0.0.Final</version>
+      <version>35.0.1.Final</version>
     </versions>
-    <lastUpdated>20250108150728</lastUpdated>
+    <lastUpdated>20250205132905</lastUpdated>
   </versioning>
 </metadata>

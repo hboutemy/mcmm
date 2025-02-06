@@ -32,6 +32,11 @@
       <artifactId>tycho-bnd-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Tycho Eclipse Plugin</name>
+      <prefix>tycho-cleancode</prefix>
+      <artifactId>tycho-cleancode-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tycho OSGi Compiler Plugin</name>
       <prefix>tycho-compiler</prefix>
       <artifactId>tycho-compiler-plugin</artifactId>
