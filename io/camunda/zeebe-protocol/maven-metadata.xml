@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>zeebe-protocol</artifactId>
   <versioning>
-    <latest>8.8.0-alpha1-rc1</latest>
-    <release>8.8.0-alpha1-rc1</release>
+    <latest>8.8.0-alpha1</latest>
+    <release>8.8.0-alpha1</release>
     <versions>
       <version>1.0.0-rc1</version>
       <version>1.0.0-rc2</version>
@@ -273,8 +273,10 @@
       <version>8.7.0-alpha3</version>
       <version>8.7.0-alpha4-rc1</version>
       <version>8.7.0-alpha4-rc2</version>
+      <version>8.7.0-alpha4</version>
       <version>8.8.0-alpha1-rc1</version>
+      <version>8.8.0-alpha1</version>
     </versions>
-    <lastUpdated>20250206152537</lastUpdated>
+    <lastUpdated>20250207165000</lastUpdated>
   </versioning>
 </metadata>

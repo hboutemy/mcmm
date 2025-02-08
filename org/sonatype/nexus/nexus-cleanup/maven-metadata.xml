@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-cleanup</artifactId>
   <versioning>
-    <latest>3.77.0-08</latest>
-    <release>3.77.0-08</release>
+    <latest>3.77.1-01</latest>
+    <release>3.77.1-01</release>
     <versions>
       <version>3.14.0-04</version>
       <version>3.15.0-01</version>
@@ -131,7 +131,8 @@
       <version>3.76.0-03</version>
       <version>3.76.1-01</version>
       <version>3.77.0-08</version>
+      <version>3.77.1-01</version>
     </versions>
-    <lastUpdated>20250204162918</lastUpdated>
+    <lastUpdated>20250207042919</lastUpdated>
   </versioning>
 </metadata>

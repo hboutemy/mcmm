@@ -3,8 +3,8 @@
   <groupId>org.openrewrite.recipe</groupId>
   <artifactId>rewrite-okhttp</artifactId>
   <versioning>
-    <latest>0.9.0</latest>
-    <release>0.9.0</release>
+    <latest>0.10.0</latest>
+    <release>0.10.0</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -45,7 +45,8 @@
       <version>0.7.1</version>
       <version>0.8.0</version>
       <version>0.9.0</version>
+      <version>0.10.0</version>
     </versions>
-    <lastUpdated>20250124172455</lastUpdated>
+    <lastUpdated>20250207171018</lastUpdated>
   </versioning>
 </metadata>
