@@ -3,12 +3,13 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-tomcat-11.0-infinispan</artifactId>
   <versioning>
-    <latest>25.0.0.Final</latest>
-    <release>25.0.0.Final</release>
+    <latest>26.0.0.Beta1</latest>
+    <release>26.0.0.Beta1</release>
     <versions>
       <version>24.0.0.Final</version>
       <version>25.0.0.Final</version>
+      <version>26.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20250117213717</lastUpdated>
+    <lastUpdated>20250209144125</lastUpdated>
   </versioning>
 </metadata>
