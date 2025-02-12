@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>sal-dummy-distributed-datastore</artifactId>
   <versioning>
-    <latest>10.0.6</latest>
-    <release>10.0.6</release>
+    <latest>10.0.7</latest>
+    <release>10.0.7</release>
     <versions>
       <version>1.2.0-Lithium</version>
       <version>1.2.1-Lithium-SR1</version>
@@ -151,7 +151,8 @@
       <version>10.0.4</version>
       <version>10.0.5</version>
       <version>10.0.6</version>
+      <version>10.0.7</version>
     </versions>
-    <lastUpdated>20250129154759</lastUpdated>
+    <lastUpdated>20250211120320</lastUpdated>
   </versioning>
 </metadata>
