@@ -3,8 +3,8 @@
   <groupId>me.ahoo.wow</groupId>
   <artifactId>wow-bom</artifactId>
   <versioning>
-    <latest>5.1.6</latest>
-    <release>5.1.6</release>
+    <latest>5.2.1</latest>
+    <release>5.2.1</release>
     <versions>
       <version>0.5.0</version>
       <version>1.8.15</version>
@@ -322,7 +322,9 @@
       <version>5.1.4</version>
       <version>5.1.5</version>
       <version>5.1.6</version>
+      <version>5.2.0</version>
+      <version>5.2.1</version>
     </versions>
-    <lastUpdated>20250208025701</lastUpdated>
+    <lastUpdated>20250212102237</lastUpdated>
   </versioning>
 </metadata>

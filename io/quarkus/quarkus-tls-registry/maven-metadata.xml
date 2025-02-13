@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-tls-registry</artifactId>
   <versioning>
-    <latest>3.18.2</latest>
-    <release>3.18.2</release>
+    <latest>3.19.0.CR1</latest>
+    <release>3.19.0.CR1</release>
     <versions>
       <version>3.12.0.CR1</version>
       <version>3.12.0</version>
@@ -47,7 +47,9 @@
       <version>3.18.0</version>
       <version>3.18.1</version>
       <version>3.18.2</version>
+      <version>3.18.3</version>
+      <version>3.19.0.CR1</version>
     </versions>
-    <lastUpdated>20250205105825</lastUpdated>
+    <lastUpdated>20250212111706</lastUpdated>
   </versioning>
 </metadata>

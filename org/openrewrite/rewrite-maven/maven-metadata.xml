@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-maven</artifactId>
   <versioning>
-    <latest>8.45.1</latest>
-    <release>8.45.1</release>
+    <latest>8.45.2</latest>
+    <release>8.45.2</release>
     <versions>
       <version>2.1.0-rc.3</version>
       <version>2.2.0</version>
@@ -303,7 +303,8 @@
       <version>8.44.2</version>
       <version>8.45.0</version>
       <version>8.45.1</version>
+      <version>8.45.2</version>
     </versions>
-    <lastUpdated>20250210222236</lastUpdated>
+    <lastUpdated>20250212140630</lastUpdated>
   </versioning>
 </metadata>
