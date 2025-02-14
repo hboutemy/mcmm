@@ -3,8 +3,8 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-serverless-openwhisk</artifactId>
   <versioning>
-    <latest>5.47.0.0</latest>
-    <release>5.47.0.0</release>
+    <latest>6.0.0.0</latest>
+    <release>6.0.0.0</release>
     <versions>
       <version>3.252.0</version>
       <version>3.253.0</version>
@@ -362,7 +362,8 @@
       <version>5.45.2.0</version>
       <version>5.46.0.0</version>
       <version>5.47.0.0</version>
+      <version>6.0.0.0</version>
     </versions>
-    <lastUpdated>20250207202430</lastUpdated>
+    <lastUpdated>20250213111630</lastUpdated>
   </versioning>
 </metadata>
