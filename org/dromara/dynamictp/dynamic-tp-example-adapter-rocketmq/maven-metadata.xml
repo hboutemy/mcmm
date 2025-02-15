@@ -3,8 +3,8 @@
   <groupId>org.dromara.dynamictp</groupId>
   <artifactId>dynamic-tp-example-adapter-rocketmq</artifactId>
   <versioning>
-    <latest>1.1.9-3.x</latest>
-    <release>1.1.9-3.x</release>
+    <latest>1.2.0</latest>
+    <release>1.2.0</release>
     <versions>
       <version>1.0.8-beta</version>
       <version>1.0.9-beta</version>
@@ -32,7 +32,9 @@
       <version>1.1.9-3.x</version>
       <version>1.1.9-alpha</version>
       <version>1.1.8-alpha</version>
+      <version>1.2.0</version>
+      <version>1.1.8-x</version>
     </versions>
-    <lastUpdated>20250212115207</lastUpdated>
+    <lastUpdated>20250214161852</lastUpdated>
   </versioning>
 </metadata>
