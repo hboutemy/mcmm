@@ -7,6 +7,11 @@
       <artifactId>artifact-spy-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>P2Site Maven Plugin</name>
+      <prefix>p2site</prefix>
+      <artifactId>p2site-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Unleash Maven Plugin</name>
       <prefix>unleash</prefix>
       <artifactId>unleash-maven-plugin</artifactId>

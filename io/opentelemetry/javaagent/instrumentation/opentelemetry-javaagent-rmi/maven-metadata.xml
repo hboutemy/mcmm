@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-rmi</artifactId>
   <versioning>
-    <latest>2.12.0-alpha</latest>
-    <release>2.12.0-alpha</release>
+    <latest>2.13.0-alpha</latest>
+    <release>2.13.0-alpha</release>
     <versions>
       <version>0.12.0</version>
       <version>0.12.1</version>
@@ -92,7 +92,8 @@
       <version>2.10.0-alpha</version>
       <version>2.11.0-alpha</version>
       <version>2.12.0-alpha</version>
+      <version>2.13.0-alpha</version>
     </versions>
-    <lastUpdated>20250117033540</lastUpdated>
+    <lastUpdated>20250216005211</lastUpdated>
   </versioning>
 </metadata>
