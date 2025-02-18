@@ -3,8 +3,8 @@
   <groupId>com.github.stephengold</groupId>
   <artifactId>Minie</artifactId>
   <versioning>
-    <latest>8.2.0+mt</latest>
-    <release>8.2.0+mt</release>
+    <latest>9.0.0+mt</latest>
+    <release>9.0.0+mt</release>
     <versions>
       <version>1.6.0+debugfor32</version>
       <version>1.6.0+for32</version>
@@ -303,7 +303,15 @@
       <version>8.2.0+dp</version>
       <version>8.2.0+droid</version>
       <version>8.2.0+mt</version>
+      <version>9.0.0</version>
+      <version>9.0.0+bare</version>
+      <version>9.0.0+big4</version>
+      <version>9.0.0+debug</version>
+      <version>9.0.0+debugdp</version>
+      <version>9.0.0+dp</version>
+      <version>9.0.0+droid</version>
+      <version>9.0.0+mt</version>
     </versions>
-    <lastUpdated>20240917035035</lastUpdated>
+    <lastUpdated>20250217210529</lastUpdated>
   </versioning>
 </metadata>
