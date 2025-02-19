@@ -7,6 +7,11 @@
       <artifactId>oop-cop</artifactId>
     </plugin>
     <plugin>
+      <name>prefixed-maven-plugin</name>
+      <prefix>prefixed</prefix>
+      <artifactId>prefixed-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>sa-tan</name>
       <prefix>sa-tan</prefix>
       <artifactId>sa-tan</artifactId>

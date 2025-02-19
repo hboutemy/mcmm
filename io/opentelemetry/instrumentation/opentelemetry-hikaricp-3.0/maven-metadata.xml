@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-hikaricp-3.0</artifactId>
   <versioning>
-    <latest>2.13.0-alpha</latest>
-    <release>2.13.0-alpha</release>
+    <latest>2.13.1-alpha</latest>
+    <release>2.13.1-alpha</release>
     <versions>
       <version>1.14.0-alpha</version>
       <version>1.15.0-alpha</version>
@@ -53,7 +53,8 @@
       <version>2.11.0-alpha</version>
       <version>2.12.0-alpha</version>
       <version>2.13.0-alpha</version>
+      <version>2.13.1-alpha</version>
     </versions>
-    <lastUpdated>20250216004225</lastUpdated>
+    <lastUpdated>20250218182502</lastUpdated>
   </versioning>
 </metadata>

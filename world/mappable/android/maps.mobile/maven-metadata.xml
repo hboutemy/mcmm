@@ -3,8 +3,8 @@
   <groupId>world.mappable.android</groupId>
   <artifactId>maps.mobile</artifactId>
   <versioning>
-    <latest>4.10.1-navikit</latest>
-    <release>4.10.1-navikit</release>
+    <latest>4.11.0-navikit</latest>
+    <release>4.11.0-navikit</release>
     <versions>
       <version>1.0.0-full</version>
       <version>1.0.0-lite</version>
@@ -62,7 +62,13 @@
       <version>4.10.1-full</version>
       <version>4.10.1-lite</version>
       <version>4.10.1-navikit</version>
+      <version>4.11.0-beta-full-flutter</version>
+      <version>4.11.0-beta-lite-flutter</version>
+      <version>4.11.0-beta-navikit-flutter</version>
+      <version>4.11.0-full</version>
+      <version>4.11.0-lite</version>
+      <version>4.11.0-navikit</version>
     </versions>
-    <lastUpdated>20250103045212</lastUpdated>
+    <lastUpdated>20250218185933</lastUpdated>
   </versioning>
 </metadata>

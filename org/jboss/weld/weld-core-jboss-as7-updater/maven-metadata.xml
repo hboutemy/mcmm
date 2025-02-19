@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld</groupId>
   <artifactId>weld-core-jboss-as7-updater</artifactId>
   <versioning>
-    <latest>6.0.0.Final</latest>
-    <release>6.0.0.Final</release>
+    <latest>6.0.1.Final</latest>
+    <release>6.0.1.Final</release>
     <versions>
       <version>1.1.27.Final</version>
       <version>1.1.28.Final</version>
@@ -131,7 +131,8 @@
       <version>6.0.0.CR1</version>
       <version>6.0.0.CR2</version>
       <version>6.0.0.Final</version>
+      <version>6.0.1.Final</version>
     </versions>
-    <lastUpdated>20250121123017</lastUpdated>
+    <lastUpdated>20250218162117</lastUpdated>
   </versioning>
 </metadata>
