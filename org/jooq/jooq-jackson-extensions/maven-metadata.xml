@@ -3,8 +3,8 @@
   <groupId>org.jooq</groupId>
   <artifactId>jooq-jackson-extensions</artifactId>
   <versioning>
-    <latest>3.19.18</latest>
-    <release>3.19.18</release>
+    <latest>3.20.0</latest>
+    <release>3.20.0</release>
     <versions>
       <version>3.17.0</version>
       <version>3.17.1</version>
@@ -41,6 +41,7 @@
       <version>3.17.32</version>
       <version>3.17.33</version>
       <version>3.17.34</version>
+      <version>3.17.35</version>
       <version>3.18.0</version>
       <version>3.18.1</version>
       <version>3.18.2</version>
@@ -67,6 +68,7 @@
       <version>3.18.23</version>
       <version>3.18.24</version>
       <version>3.18.25</version>
+      <version>3.18.26</version>
       <version>3.19.0</version>
       <version>3.19.1</version>
       <version>3.19.2</version>
@@ -86,7 +88,9 @@
       <version>3.19.16</version>
       <version>3.19.17</version>
       <version>3.19.18</version>
+      <version>3.19.19</version>
+      <version>3.20.0</version>
     </versions>
-    <lastUpdated>20250115122808</lastUpdated>
+    <lastUpdated>20250219142112</lastUpdated>
   </versioning>
 </metadata>

@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>freshmarker-compiler-maven-plugin Maven Plugin</name>
+      <prefix>freshmarker-compiler</prefix>
+      <artifactId>freshmarker-compiler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>REST Markdown Maven Plugin</name>
       <prefix>rest-markdown</prefix>
       <artifactId>rest-markdown-maven-plugin</artifactId>

@@ -3,8 +3,8 @@
   <groupId>io.kubernetes</groupId>
   <artifactId>client-java-api</artifactId>
   <versioning>
-    <latest>22.0.1-legacy</latest>
-    <release>22.0.1-legacy</release>
+    <latest>23.0.0-legacy</latest>
+    <release>23.0.0-legacy</release>
     <versions>
       <version>0.1</version>
       <version>0.2</version>
@@ -76,7 +76,9 @@
       <version>22.0.0-legacy</version>
       <version>22.0.1</version>
       <version>22.0.1-legacy</version>
+      <version>23.0.0</version>
+      <version>23.0.0-legacy</version>
     </versions>
-    <lastUpdated>20250211234913</lastUpdated>
+    <lastUpdated>20250219201728</lastUpdated>
   </versioning>
 </metadata>

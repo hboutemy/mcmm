@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin.plugin.scripting</groupId>
   <artifactId>org.jetbrains.kotlin.plugin.scripting.gradle.plugin</artifactId>
   <versioning>
-    <latest>2.1.20-Beta2</latest>
-    <release>2.1.20-Beta2</release>
+    <latest>2.1.20-RC</latest>
+    <release>2.1.20-RC</release>
     <versions>
       <version>1.7.0-Beta</version>
       <version>1.7.0-RC</version>
@@ -70,7 +70,8 @@
       <version>2.1.10</version>
       <version>2.1.20-Beta1</version>
       <version>2.1.20-Beta2</version>
+      <version>2.1.20-RC</version>
     </versions>
-    <lastUpdated>20250129102325</lastUpdated>
+    <lastUpdated>20250219111333</lastUpdated>
   </versioning>
 </metadata>
