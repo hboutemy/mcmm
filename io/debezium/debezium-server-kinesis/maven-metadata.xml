@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-server-kinesis</artifactId>
   <versioning>
-    <latest>3.1.0.Alpha1</latest>
-    <release>3.1.0.Alpha1</release>
+    <latest>3.1.0.Alpha2</latest>
+    <release>3.1.0.Alpha2</release>
     <versions>
       <version>1.2.0.CR1</version>
       <version>1.2.0.CR2</version>
@@ -151,8 +151,9 @@
       <version>3.0.6.Final</version>
       <version>3.0.7.Final</version>
       <version>3.1.0.Alpha1</version>
+      <version>3.1.0.Alpha2</version>
       <version>1.5.0.Alpha1</version>
     </versions>
-    <lastUpdated>20250120182308</lastUpdated>
+    <lastUpdated>20250220153430</lastUpdated>
   </versioning>
 </metadata>
