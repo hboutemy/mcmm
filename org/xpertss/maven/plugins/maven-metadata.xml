@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Xpertss Maven Jarsigner Plugin</name>
+      <prefix>jarsigner</prefix>
+      <artifactId>jarsigner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
