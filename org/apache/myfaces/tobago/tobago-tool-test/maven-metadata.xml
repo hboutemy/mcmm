@@ -3,8 +3,8 @@
   <groupId>org.apache.myfaces.tobago</groupId>
   <artifactId>tobago-tool-test</artifactId>
   <versioning>
-    <latest>6.6.0</latest>
-    <release>6.6.0</release>
+    <latest>6.7.0</latest>
+    <release>6.7.0</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -38,6 +38,7 @@
       <version>5.12.0</version>
       <version>5.13.0</version>
       <version>5.14.0</version>
+      <version>5.15.0</version>
       <version>6.0.0-beta-1</version>
       <version>6.0.0</version>
       <version>6.1.0</version>
@@ -46,7 +47,8 @@
       <version>6.4.0</version>
       <version>6.5.0</version>
       <version>6.6.0</version>
+      <version>6.7.0</version>
     </versions>
-    <lastUpdated>20241019103137</lastUpdated>
+    <lastUpdated>20250222094452</lastUpdated>
   </versioning>
 </metadata>
