@@ -7,6 +7,11 @@
       <artifactId>rdfio-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Maven Seq Plugin</name>
+      <prefix>seq</prefix>
+      <artifactId>seq-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven SHACL Plugin</name>
       <prefix>shacl</prefix>
       <artifactId>shacl-maven-plugin</artifactId>

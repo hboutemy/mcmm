@@ -3,12 +3,14 @@
   <groupId>com.openai</groupId>
   <artifactId>openai-java</artifactId>
   <versioning>
-    <latest>0.26.1</latest>
-    <release>0.26.1</release>
+    <latest>0.28.0</latest>
+    <release>0.28.0</release>
     <versions>
       <version>0.25.0</version>
       <version>0.26.0</version>
       <version>0.26.1</version>
+      <version>0.27.0</version>
+      <version>0.28.0</version>
       <version>0.10.0</version>
       <version>0.11.0</version>
       <version>0.11.1</version>
@@ -47,6 +49,6 @@
       <version>0.9.0</version>
       <version>0.9.1</version>
     </versions>
-    <lastUpdated>20250221050709</lastUpdated>
+    <lastUpdated>20250224211612</lastUpdated>
   </versioning>
 </metadata>

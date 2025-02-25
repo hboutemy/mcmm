@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-milvus-parent</artifactId>
   <versioning>
-    <latest>0.25.0.CR1</latest>
-    <release>0.25.0.CR1</release>
+    <latest>0.25.0.CR2</latest>
+    <release>0.25.0.CR2</release>
     <versions>
       <version>0.5.0</version>
       <version>0.5.1</version>
@@ -75,7 +75,8 @@
       <version>0.24.0.CR3</version>
       <version>0.24.0</version>
       <version>0.25.0.CR1</version>
+      <version>0.25.0.CR2</version>
     </versions>
-    <lastUpdated>20250216164718</lastUpdated>
+    <lastUpdated>20250224105422</lastUpdated>
   </versioning>
 </metadata>

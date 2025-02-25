@@ -3,8 +3,8 @@
   <groupId>org.ops4j.pax.web</groupId>
   <artifactId>pax-web-compatibility-jaxrs2</artifactId>
   <versioning>
-    <latest>9.0.19</latest>
-    <release>9.0.19</release>
+    <latest>9.0.20</latest>
+    <release>9.0.20</release>
     <versions>
       <version>8.0.2</version>
       <version>8.0.3</version>
@@ -35,6 +35,7 @@
       <version>8.0.28</version>
       <version>8.0.29</version>
       <version>8.0.30</version>
+      <version>8.0.31</version>
       <version>9.0.0</version>
       <version>9.0.1</version>
       <version>9.0.2</version>
@@ -55,7 +56,8 @@
       <version>9.0.17</version>
       <version>9.0.18</version>
       <version>9.0.19</version>
+      <version>9.0.20</version>
     </versions>
-    <lastUpdated>20250116144605</lastUpdated>
+    <lastUpdated>20250224133458</lastUpdated>
   </versioning>
 </metadata>

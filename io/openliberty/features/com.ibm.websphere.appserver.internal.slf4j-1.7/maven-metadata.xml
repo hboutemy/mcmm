@@ -3,8 +3,8 @@
   <groupId>io.openliberty.features</groupId>
   <artifactId>com.ibm.websphere.appserver.internal.slf4j-1.7</artifactId>
   <versioning>
-    <latest>25.0.0.1</latest>
-    <release>25.0.0.1</release>
+    <latest>25.0.0.2</latest>
+    <release>25.0.0.2</release>
     <versions>
       <version>22.0.0.5</version>
       <version>22.0.0.6</version>
@@ -40,7 +40,8 @@
       <version>24.0.0.11</version>
       <version>24.0.0.12</version>
       <version>25.0.0.1</version>
+      <version>25.0.0.2</version>
     </versions>
-    <lastUpdated>20250128071757</lastUpdated>
+    <lastUpdated>20250224185720</lastUpdated>
   </versioning>
 </metadata>

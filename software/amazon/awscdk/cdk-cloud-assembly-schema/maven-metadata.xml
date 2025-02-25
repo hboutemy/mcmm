@@ -3,8 +3,8 @@
   <groupId>software.amazon.awscdk</groupId>
   <artifactId>cdk-cloud-assembly-schema</artifactId>
   <versioning>
-    <latest>40.2.0</latest>
-    <release>40.2.0</release>
+    <latest>40.3.0</latest>
+    <release>40.3.0</release>
     <versions>
       <version>1.33.0</version>
       <version>1.33.1</version>
@@ -586,7 +586,8 @@
       <version>40.0.7</version>
       <version>40.1.0</version>
       <version>40.2.0</version>
+      <version>40.3.0</version>
     </versions>
-    <lastUpdated>20250220102610</lastUpdated>
+    <lastUpdated>20250224195314</lastUpdated>
   </versioning>
 </metadata>

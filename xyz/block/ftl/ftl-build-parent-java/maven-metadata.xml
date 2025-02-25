@@ -3,8 +3,8 @@
   <groupId>xyz.block.ftl</groupId>
   <artifactId>ftl-build-parent-java</artifactId>
   <versioning>
-    <latest>0.453.2</latest>
-    <release>0.453.2</release>
+    <latest>0.455.1</latest>
+    <release>0.455.1</release>
     <versions>
       <version>jvm-publish</version>
       <version>main</version>
@@ -182,7 +182,11 @@
       <version>0.453.0</version>
       <version>0.453.1</version>
       <version>0.453.2</version>
+      <version>0.453.3</version>
+      <version>0.454.0</version>
+      <version>0.455.0</version>
+      <version>0.455.1</version>
     </versions>
-    <lastUpdated>20250222014414</lastUpdated>
+    <lastUpdated>20250224210642</lastUpdated>
   </versioning>
 </metadata>
