@@ -3,8 +3,8 @@
   <groupId>org.elasticsoftwarefoundation.elasticactors</groupId>
   <artifactId>cluster-kubernetes</artifactId>
   <versioning>
-    <latest>7.3.0</latest>
-    <release>7.3.0</release>
+    <latest>7.3.1</latest>
+    <release>7.3.1</release>
     <versions>
       <version>3.0.0</version>
       <version>3.1.0</version>
@@ -45,7 +45,8 @@
       <version>7.1.0</version>
       <version>7.2.2</version>
       <version>7.3.0</version>
+      <version>7.3.1</version>
     </versions>
-    <lastUpdated>20250117161956</lastUpdated>
+    <lastUpdated>20250225114542</lastUpdated>
   </versioning>
 </metadata>

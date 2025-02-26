@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-easy-rag</artifactId>
   <versioning>
-    <latest>0.25.0.CR2</latest>
-    <release>0.25.0.CR2</release>
+    <latest>0.25.0</latest>
+    <release>0.25.0</release>
     <versions>
       <version>0.10.0</version>
       <version>0.10.1</version>
@@ -59,7 +59,9 @@
       <version>0.24.0</version>
       <version>0.25.0.CR1</version>
       <version>0.25.0.CR2</version>
+      <version>0.25.0.CR3</version>
+      <version>0.25.0</version>
     </versions>
-    <lastUpdated>20250224105407</lastUpdated>
+    <lastUpdated>20250225155614</lastUpdated>
   </versioning>
 </metadata>

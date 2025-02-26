@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>v2-migration</artifactId>
   <versioning>
-    <latest>2.30.26-PREVIEW</latest>
-    <release>2.30.26-PREVIEW</release>
+    <latest>2.30.28-PREVIEW</latest>
+    <release>2.30.28-PREVIEW</release>
     <versions>
       <version>2.27.1-PREVIEW</version>
       <version>2.27.2-PREVIEW</version>
@@ -140,7 +140,9 @@
       <version>2.30.24-PREVIEW</version>
       <version>2.30.25-PREVIEW</version>
       <version>2.30.26-PREVIEW</version>
+      <version>2.30.27-PREVIEW</version>
+      <version>2.30.28-PREVIEW</version>
     </versions>
-    <lastUpdated>20250221221728</lastUpdated>
+    <lastUpdated>20250225233847</lastUpdated>
   </versioning>
 </metadata>
