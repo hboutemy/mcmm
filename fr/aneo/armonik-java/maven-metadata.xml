@@ -3,12 +3,17 @@
   <groupId>fr.aneo</groupId>
   <artifactId>armonik-java</artifactId>
   <versioning>
-    <latest>3.25.0-jgfixjava.16.9564252</latest>
-    <release>3.25.0-jgfixjava.16.9564252</release>
+    <latest>3.25.0-jgpipeline.22.943d82c</latest>
+    <release>3.25.0-jgpipeline.22.943d82c</release>
     <versions>
       <version>3.25.0-jgfixjava.15.a51965a</version>
       <version>3.25.0-jgfixjava.16.9564252</version>
       <version>3.25.0-edge.19.75c181b</version>
+      <version>3.25.0-edge.21.d216b99</version>
+      <version>3.25.0-jgpipeline.22.943d82c</version>
+      <version>3.25.0-edge.23.9eff620</version>
+      <version>3.25.0-adstatusfixes.24.168c12d</version>
+      <version>3.25.0-edge.25.dff87c6</version>
       <version>0.1.0</version>
       <version>3.19.0</version>
       <version>3.21.0</version>
@@ -469,6 +474,7 @@
       <version>3.24.1-flnativeasynctrait.9.9e355dd</version>
       <version>3.24.1-flrustserver.16.d6c33fb</version>
       <version>3.24.1-flserde.7.f9600df</version>
+      <version>3.25.0-adstatusfixes.24.879b49f</version>
       <version>3.25.0-edge.14.b753aff</version>
       <version>3.25.0-edge.16.91a3dfb</version>
       <version>3.25.0-jgimport.1.3e842b5</version>
@@ -477,6 +483,6 @@
       <version>3.25.0-jgimport.13.1575a92</version>
       <version>3.25.0-qdpythonimportresultdata.15.73527ec</version>
     </versions>
-    <lastUpdated>20250225124648</lastUpdated>
+    <lastUpdated>20250226104329</lastUpdated>
   </versioning>
 </metadata>
