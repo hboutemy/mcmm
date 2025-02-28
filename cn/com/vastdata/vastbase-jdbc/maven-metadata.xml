@@ -3,8 +3,8 @@
   <groupId>cn.com.vastdata</groupId>
   <artifactId>vastbase-jdbc</artifactId>
   <versioning>
-    <latest>2.10v_jre7</latest>
-    <release>2.10v_jre7</release>
+    <latest>2.11v</latest>
+    <release>2.11v</release>
     <versions>
       <version>2.3p</version>
       <version>2.7p</version>
@@ -31,7 +31,9 @@
       <version>2.10v</version>
       <version>2.10v_jre6</version>
       <version>2.10v_jre7</version>
+      <version>2.11p</version>
+      <version>2.11v</version>
     </versions>
-    <lastUpdated>20241022032430</lastUpdated>
+    <lastUpdated>20250227093620</lastUpdated>
   </versioning>
 </metadata>

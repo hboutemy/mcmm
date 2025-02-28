@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring6-embedded</artifactId>
   <versioning>
-    <latest>15.1.5.Final</latest>
-    <release>15.1.5.Final</release>
+    <latest>15.1.7.Final</latest>
+    <release>15.1.7.Final</release>
     <versions>
       <version>14.0.7.Final</version>
       <version>14.0.8.Final</version>
@@ -59,6 +59,7 @@
       <version>15.0.11.Final</version>
       <version>15.0.12.Final</version>
       <version>15.0.13.Final</version>
+      <version>15.0.14.Final</version>
       <version>15.1.0.Final</version>
       <version>15.1.0.Dev01</version>
       <version>15.1.0.Dev02</version>
@@ -70,7 +71,9 @@
       <version>15.1.3.Final</version>
       <version>15.1.4.Final</version>
       <version>15.1.5.Final</version>
+      <version>15.1.6.Final</version>
+      <version>15.1.7.Final</version>
     </versions>
-    <lastUpdated>20250130122750</lastUpdated>
+    <lastUpdated>20250227182018</lastUpdated>
   </versioning>
 </metadata>

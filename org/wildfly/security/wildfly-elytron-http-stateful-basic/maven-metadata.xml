@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-http-stateful-basic</artifactId>
   <versioning>
-    <latest>2.6.0.Final</latest>
-    <release>2.6.0.Final</release>
+    <latest>2.6.1.Final</latest>
+    <release>2.6.1.Final</release>
     <versions>
       <version>1.15.9.Final</version>
       <version>1.15.10.Final</version>
@@ -22,6 +22,7 @@
       <version>1.15.22.Final</version>
       <version>1.15.23.Final</version>
       <version>1.15.24.Final</version>
+      <version>1.15.25.Final</version>
       <version>1.17.3.Final</version>
       <version>1.18.0.Final</version>
       <version>1.18.1.Final</version>
@@ -47,6 +48,7 @@
       <version>2.2.5.Final</version>
       <version>2.2.6.Final</version>
       <version>2.2.7.Final</version>
+      <version>2.2.8.Final</version>
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
       <version>2.4.0.CR1</version>
@@ -58,7 +60,8 @@
       <version>2.5.1.Final</version>
       <version>2.5.2.Final</version>
       <version>2.6.0.Final</version>
+      <version>2.6.1.Final</version>
     </versions>
-    <lastUpdated>20241031152542</lastUpdated>
+    <lastUpdated>20250227004403</lastUpdated>
   </versioning>
 </metadata>

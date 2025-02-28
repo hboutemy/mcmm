@@ -6,5 +6,10 @@
       <prefix>jsonschema2pojo</prefix>
       <artifactId>jsonschema2pojo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Maven Git Versioning Extension</name>
+      <prefix>git-versioning-extension</prefix>
+      <artifactId>maven-git-versioning-extension</artifactId>
+    </plugin>
   </plugins>
 </metadata>
