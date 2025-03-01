@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-hibernate-6.0</artifactId>
   <versioning>
-    <latest>2.13.2-alpha</latest>
-    <release>2.13.2-alpha</release>
+    <latest>2.13.3-alpha</latest>
+    <release>2.13.3-alpha</release>
     <versions>
       <version>1.23.0-alpha</version>
       <version>1.24.0-alpha</version>
@@ -41,7 +41,8 @@
       <version>2.13.0-alpha</version>
       <version>2.13.1-alpha</version>
       <version>2.13.2-alpha</version>
+      <version>2.13.3-alpha</version>
     </versions>
-    <lastUpdated>20250227012439</lastUpdated>
+    <lastUpdated>20250228170603</lastUpdated>
   </versioning>
 </metadata>

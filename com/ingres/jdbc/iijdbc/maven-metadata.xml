@@ -3,12 +3,13 @@
   <groupId>com.ingres.jdbc</groupId>
   <artifactId>iijdbc</artifactId>
   <versioning>
-    <latest>11.1-4.3.6</latest>
-    <release>11.1-4.3.6</release>
+    <latest>12.0-4.4.4</latest>
+    <release>12.0-4.4.4</release>
     <versions>
       <version>10.2-4.1.10</version>
       <version>4.0.10</version>
       <version>11.1-4.3.6</version>
+      <version>12.0-4.4.4</version>
       <version>10.0-4.0.5</version>
       <version>10.0-4.0.6</version>
       <version>9.1-3.2.4</version>
@@ -21,6 +22,6 @@
       <version>9.3-3.8.2</version>
       <version>9.3-3.8.3</version>
     </versions>
-    <lastUpdated>20250125030722</lastUpdated>
+    <lastUpdated>20250228233912</lastUpdated>
   </versioning>
 </metadata>

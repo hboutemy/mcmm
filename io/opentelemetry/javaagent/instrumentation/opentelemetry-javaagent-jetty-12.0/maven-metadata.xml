@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jetty-12.0</artifactId>
   <versioning>
-    <latest>2.13.2-alpha</latest>
-    <release>2.13.2-alpha</release>
+    <latest>2.13.3-alpha</latest>
+    <release>2.13.3-alpha</release>
     <versions>
       <version>2.2.0-alpha</version>
       <version>2.3.0-alpha</version>
@@ -20,7 +20,8 @@
       <version>2.13.0-alpha</version>
       <version>2.13.1-alpha</version>
       <version>2.13.2-alpha</version>
+      <version>2.13.3-alpha</version>
     </versions>
-    <lastUpdated>20250227012623</lastUpdated>
+    <lastUpdated>20250228170752</lastUpdated>
   </versioning>
 </metadata>

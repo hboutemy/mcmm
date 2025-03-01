@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.plugin.apiservice.dynamicproperties</groupId>
   <artifactId>gravitee-apim-plugin-apiservice-dynamicproperties</artifactId>
   <versioning>
-    <latest>4.6.4</latest>
-    <release>4.6.4</release>
+    <latest>4.6.5</latest>
+    <release>4.6.5</release>
     <versions>
       <version>4.3.0-alpha.2</version>
       <version>4.3.0</version>
@@ -32,6 +32,7 @@
       <version>4.3.22</version>
       <version>4.3.23</version>
       <version>4.3.24</version>
+      <version>4.3.25</version>
       <version>4.4.0</version>
       <version>4.4.1</version>
       <version>4.4.2</version>
@@ -53,6 +54,7 @@
       <version>4.4.18</version>
       <version>4.4.19</version>
       <version>4.4.20</version>
+      <version>4.4.21</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0</version>
       <version>4.5.1</version>
@@ -64,13 +66,15 @@
       <version>4.5.7</version>
       <version>4.5.8</version>
       <version>4.5.9</version>
+      <version>4.5.10</version>
       <version>4.6.0-alpha.3</version>
       <version>4.6.0</version>
       <version>4.6.1</version>
       <version>4.6.2</version>
       <version>4.6.3</version>
       <version>4.6.4</version>
+      <version>4.6.5</version>
     </versions>
-    <lastUpdated>20250214203403</lastUpdated>
+    <lastUpdated>20250228170558</lastUpdated>
   </versioning>
 </metadata>

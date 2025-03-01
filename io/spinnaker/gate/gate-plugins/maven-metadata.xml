@@ -3,8 +3,8 @@
   <groupId>io.spinnaker.gate</groupId>
   <artifactId>gate-plugins</artifactId>
   <versioning>
-    <latest>6.66.0</latest>
-    <release>6.66.0</release>
+    <latest>6.66.2</latest>
+    <release>6.66.2</release>
     <versions>
       <version>6.52.0</version>
       <version>6.53.0</version>
@@ -50,7 +50,9 @@
       <version>6.64.1</version>
       <version>6.65.0</version>
       <version>6.66.0</version>
+      <version>6.66.1</version>
+      <version>6.66.2</version>
     </versions>
-    <lastUpdated>20250221051351</lastUpdated>
+    <lastUpdated>20250228193234</lastUpdated>
   </versioning>
 </metadata>
