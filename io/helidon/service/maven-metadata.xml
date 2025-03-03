@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Helidon Service Maven Plugin</name>
+      <prefix>helidon-service</prefix>
+      <artifactId>helidon-service-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
