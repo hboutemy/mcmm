@@ -3,8 +3,8 @@
   <groupId>com.google.oauth-client</groupId>
   <artifactId>google-oauth-client-parent</artifactId>
   <versioning>
-    <latest>1.38.0</latest>
-    <release>1.38.0</release>
+    <latest>1.39.0</latest>
+    <release>1.39.0</release>
     <versions>
       <version>1.32.1</version>
       <version>1.33.0</version>
@@ -17,6 +17,7 @@
       <version>1.36.0</version>
       <version>1.37.0</version>
       <version>1.38.0</version>
+      <version>1.39.0</version>
       <version>1.10.0-beta</version>
       <version>1.10.1-beta</version>
       <version>1.11.0-beta</version>
@@ -62,6 +63,6 @@
       <version>1.8.0-beta</version>
       <version>1.9.0-beta</version>
     </versions>
-    <lastUpdated>20250218033752</lastUpdated>
+    <lastUpdated>20250303230728</lastUpdated>
   </versioning>
 </metadata>

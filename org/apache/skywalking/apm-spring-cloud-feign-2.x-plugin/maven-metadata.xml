@@ -3,8 +3,8 @@
   <groupId>org.apache.skywalking</groupId>
   <artifactId>apm-spring-cloud-feign-2.x-plugin</artifactId>
   <versioning>
-    <latest>9.3.0</latest>
-    <release>9.3.0</release>
+    <latest>9.4.0</latest>
+    <release>9.4.0</release>
     <versions>
       <version>8.0.0</version>
       <version>8.0.1</version>
@@ -28,7 +28,8 @@
       <version>9.1.0</version>
       <version>9.2.0</version>
       <version>9.3.0</version>
+      <version>9.4.0</version>
     </versions>
-    <lastUpdated>20240729003109</lastUpdated>
+    <lastUpdated>20250303135139</lastUpdated>
   </versioning>
 </metadata>

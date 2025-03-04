@@ -7,6 +7,11 @@
       <artifactId>char-sniffer</artifactId>
     </plugin>
     <plugin>
+      <name>GoSDK wrapping maven plugin</name>
+      <prefix>gosdk-wrapper</prefix>
+      <artifactId>gosdk-wrapper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>JBBP Maven plugin</name>
       <prefix>jbbp</prefix>
       <artifactId>jbbp-maven-plugin</artifactId>

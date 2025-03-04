@@ -3,8 +3,8 @@
   <groupId>org.scala-sbt</groupId>
   <artifactId>run_2.12</artifactId>
   <versioning>
-    <latest>1.10.7</latest>
-    <release>1.10.7</release>
+    <latest>1.10.9</latest>
+    <release>1.10.9</release>
     <versions>
       <version>1.0.0-M5</version>
       <version>1.0.0-M6</version>
@@ -139,7 +139,9 @@
       <version>1.10.5</version>
       <version>1.10.6</version>
       <version>1.10.7</version>
+      <version>1.10.8</version>
+      <version>1.10.9</version>
     </versions>
-    <lastUpdated>20241223011747</lastUpdated>
+    <lastUpdated>20250303175304</lastUpdated>
   </versioning>
 </metadata>
