@@ -6,5 +6,10 @@
       <prefix>tinkar</prefix>
       <artifactId>tinkar-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Tinkar Data Maven Plugin</name>
+      <prefix>tinkar-starter-data</prefix>
+      <artifactId>tinkar-starter-data-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

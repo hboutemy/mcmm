@@ -3,8 +3,8 @@
   <groupId>org.hpccsystems</groupId>
   <artifactId>wsclient</artifactId>
   <versioning>
-    <latest>9.10.8-1</latest>
-    <release>9.10.8-1</release>
+    <latest>9.10.10-1</latest>
+    <release>9.10.10-1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.2</version>
@@ -638,6 +638,7 @@
       <version>9.2.156-1</version>
       <version>9.2.158-1</version>
       <version>9.2.160-1</version>
+      <version>9.2.162-1</version>
       <version>9.4.0-1</version>
       <version>9.4.2-1</version>
       <version>9.4.8-1</version>
@@ -703,6 +704,7 @@
       <version>9.4.130-1</version>
       <version>9.4.132-1</version>
       <version>9.4.134-1</version>
+      <version>9.4.136-1</version>
       <version>9.6.0-1</version>
       <version>9.6.2-1</version>
       <version>9.6.4-1</version>
@@ -746,6 +748,7 @@
       <version>9.6.82-1</version>
       <version>9.6.84-1</version>
       <version>9.6.86-1</version>
+      <version>9.6.88-1</version>
       <version>9.8.0-1</version>
       <version>9.8.2-1</version>
       <version>9.8.4-1</version>
@@ -776,12 +779,14 @@
       <version>9.8.58-1</version>
       <version>9.8.60-1</version>
       <version>9.8.62-1</version>
+      <version>9.8.64-1</version>
       <version>9.10.0-1</version>
       <version>9.10.2-1</version>
       <version>9.10.4-1</version>
       <version>9.10.6-1</version>
       <version>9.10.8-1</version>
+      <version>9.10.10-1</version>
     </versions>
-    <lastUpdated>20250225164216</lastUpdated>
+    <lastUpdated>20250304172226</lastUpdated>
   </versioning>
 </metadata>

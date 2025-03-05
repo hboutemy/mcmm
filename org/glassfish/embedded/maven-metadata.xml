@@ -4,7 +4,7 @@
     <plugin>
       <name>Maven Embedded GlassFish Plugin</name>
       <prefix>embedded-glassfish</prefix>
-      <artifactId>maven-embedded-glassfish-plugin</artifactId>
+      <artifactId>embedded-glassfish-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
