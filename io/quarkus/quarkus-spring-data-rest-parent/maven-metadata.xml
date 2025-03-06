@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-spring-data-rest-parent</artifactId>
   <versioning>
-    <latest>3.19.1</latest>
-    <release>3.19.1</release>
+    <latest>3.19.2</latest>
+    <release>3.19.2</release>
     <versions>
       <version>1.11.0.CR1</version>
       <version>1.11.0.Final</version>
@@ -276,7 +276,8 @@
       <version>3.19.0.CR1</version>
       <version>3.19.0</version>
       <version>3.19.1</version>
+      <version>3.19.2</version>
     </versions>
-    <lastUpdated>20250227114829</lastUpdated>
+    <lastUpdated>20250305101017</lastUpdated>
   </versioning>
 </metadata>

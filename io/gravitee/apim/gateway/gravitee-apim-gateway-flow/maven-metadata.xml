@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway</groupId>
   <artifactId>gravitee-apim-gateway-flow</artifactId>
   <versioning>
-    <latest>4.7.0-alpha.1</latest>
-    <release>4.7.0-alpha.1</release>
+    <latest>4.7.0-alpha.2</latest>
+    <release>4.7.0-alpha.2</release>
     <versions>
       <version>3.10.8</version>
       <version>3.10.9</version>
@@ -306,7 +306,8 @@
       <version>4.6.4</version>
       <version>4.6.5</version>
       <version>4.7.0-alpha.1</version>
+      <version>4.7.0-alpha.2</version>
     </versions>
-    <lastUpdated>20250304085315</lastUpdated>
+    <lastUpdated>20250305112209</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-util</artifactId>
   <versioning>
-    <latest>11.0.4</latest>
-    <release>11.0.4</release>
+    <latest>11.0.5</latest>
+    <release>11.0.5</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -418,7 +418,8 @@
       <version>11.0.2</version>
       <version>11.0.3</version>
       <version>11.0.4</version>
+      <version>11.0.5</version>
     </versions>
-    <lastUpdated>20250218132643</lastUpdated>
+    <lastUpdated>20250305172220</lastUpdated>
   </versioning>
 </metadata>
