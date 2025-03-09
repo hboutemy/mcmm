@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.yangtools</groupId>
   <artifactId>yang-maven-plugin-it</artifactId>
   <versioning>
-    <latest>14.0.10</latest>
-    <release>14.0.10</release>
+    <latest>14.0.11</latest>
+    <release>14.0.11</release>
     <versions>
       <version>0.5.8</version>
       <version>0.6.0</version>
@@ -233,7 +233,8 @@
       <version>14.0.8</version>
       <version>14.0.9</version>
       <version>14.0.10</version>
+      <version>14.0.11</version>
     </versions>
-    <lastUpdated>20250225141348</lastUpdated>
+    <lastUpdated>20250308010632</lastUpdated>
   </versioning>
 </metadata>

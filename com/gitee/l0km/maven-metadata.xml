@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>aocache CTW plugin</name>
+      <prefix>aocache</prefix>
+      <artifactId>aocache-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>cassdk-service-maven-plugin</name>
       <prefix>cassdk-service</prefix>
       <artifactId>cassdk-service-maven-plugin</artifactId>

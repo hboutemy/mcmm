@@ -3,9 +3,10 @@
   <groupId>org.komapper</groupId>
   <artifactId>komapper-spring-r2dbc</artifactId>
   <versioning>
-    <latest>5.2.0</latest>
-    <release>5.2.0</release>
+    <latest>5.2.1</latest>
+    <release>5.2.1</release>
     <versions>
+      <version>RELEASE_VERSION</version>
       <version>0.30.0</version>
       <version>0.31.0</version>
       <version>0.32.0</version>
@@ -49,7 +50,8 @@
       <version>5.0.0</version>
       <version>5.1.0</version>
       <version>5.2.0</version>
+      <version>5.2.1</version>
     </versions>
-    <lastUpdated>20250209002341</lastUpdated>
+    <lastUpdated>20250308023627</lastUpdated>
   </versioning>
 </metadata>
