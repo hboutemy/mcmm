@@ -277,7 +277,7 @@
       <artifactId>maven-patch-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Apache Maven PDF Plugin</name>
+      <name>(RETIRED) Apache Maven PDF Plugin</name>
       <prefix>pdf</prefix>
       <artifactId>maven-pdf-plugin</artifactId>
     </plugin>

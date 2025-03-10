@@ -3,13 +3,14 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-azure-files-starter</artifactId>
   <versioning>
-    <latest>4.10.1</latest>
-    <release>4.10.1</release>
+    <latest>4.10.2</latest>
+    <release>4.10.2</release>
     <versions>
       <version>3.22.0</version>
       <version>3.22.1</version>
       <version>3.22.2</version>
       <version>3.22.3</version>
+      <version>3.22.4</version>
       <version>4.0.0-RC2</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
@@ -39,7 +40,8 @@
       <version>4.9.0</version>
       <version>4.10.0</version>
       <version>4.10.1</version>
+      <version>4.10.2</version>
     </versions>
-    <lastUpdated>20250308161350</lastUpdated>
+    <lastUpdated>20250309111713</lastUpdated>
   </versioning>
 </metadata>

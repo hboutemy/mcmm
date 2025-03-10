@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>transport-ssh</artifactId>
   <versioning>
-    <latest>8.0.6</latest>
-    <release>8.0.6</release>
+    <latest>8.0.7</latest>
+    <release>8.0.7</release>
     <versions>
       <version>5.0.4</version>
       <version>5.0.6</version>
@@ -41,7 +41,8 @@
       <version>8.0.4</version>
       <version>8.0.5</version>
       <version>8.0.6</version>
+      <version>8.0.7</version>
     </versions>
-    <lastUpdated>20250228232052</lastUpdated>
+    <lastUpdated>20250309124438</lastUpdated>
   </versioning>
 </metadata>
