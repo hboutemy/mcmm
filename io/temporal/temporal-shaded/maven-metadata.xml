@@ -3,8 +3,8 @@
   <groupId>io.temporal</groupId>
   <artifactId>temporal-shaded</artifactId>
   <versioning>
-    <latest>1.28.0</latest>
-    <release>1.28.0</release>
+    <latest>1.28.1</latest>
+    <release>1.28.1</release>
     <versions>
       <version>1.19.0</version>
       <version>1.19.1</version>
@@ -33,7 +33,8 @@
       <version>1.27.0</version>
       <version>1.27.1</version>
       <version>1.28.0</version>
+      <version>1.28.1</version>
     </versions>
-    <lastUpdated>20250226190328</lastUpdated>
+    <lastUpdated>20250310180124</lastUpdated>
   </versioning>
 </metadata>
