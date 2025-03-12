@@ -3,8 +3,8 @@
   <groupId>io.freefair.git-version</groupId>
   <artifactId>io.freefair.git-version.gradle.plugin</artifactId>
   <versioning>
-    <latest>8.12.2.1</latest>
-    <release>8.12.2.1</release>
+    <latest>8.13</latest>
+    <release>8.13</release>
     <versions>
       <version>6.4.3</version>
       <version>6.4.3.1</version>
@@ -36,7 +36,8 @@
       <version>8.12.1</version>
       <version>8.12.2</version>
       <version>8.12.2.1</version>
+      <version>8.13</version>
     </versions>
-    <lastUpdated>20250303131412</lastUpdated>
+    <lastUpdated>20250311225043</lastUpdated>
   </versioning>
 </metadata>

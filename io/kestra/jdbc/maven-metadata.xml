@@ -3,8 +3,8 @@
   <groupId>io.kestra</groupId>
   <artifactId>jdbc</artifactId>
   <versioning>
-    <latest>0.21.5</latest>
-    <release>0.21.5</release>
+    <latest>0.21.6</latest>
+    <release>0.21.6</release>
     <versions>
       <version>0.5.0-BETA</version>
       <version>0.5.0</version>
@@ -191,13 +191,15 @@
       <version>0.20.16</version>
       <version>0.20.17</version>
       <version>0.20.18</version>
+      <version>0.20.19</version>
       <version>0.21.0</version>
       <version>0.21.1</version>
       <version>0.21.2</version>
       <version>0.21.3</version>
       <version>0.21.4</version>
       <version>0.21.5</version>
+      <version>0.21.6</version>
     </versions>
-    <lastUpdated>20250306112051</lastUpdated>
+    <lastUpdated>20250311174135</lastUpdated>
   </versioning>
 </metadata>

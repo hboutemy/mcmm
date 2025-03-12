@@ -3,8 +3,8 @@
   <groupId>com.scylladb</groupId>
   <artifactId>scylla-driver-mapping</artifactId>
   <versioning>
-    <latest>3.11.5.5</latest>
-    <release>3.11.5.5</release>
+    <latest>3.11.5.6</latest>
+    <release>3.11.5.6</release>
     <versions>
       <version>3.7.1-scylla-0</version>
       <version>3.7.1-scylla-1</version>
@@ -26,7 +26,8 @@
       <version>3.11.5.2</version>
       <version>3.11.5.3</version>
       <version>3.11.5.5</version>
+      <version>3.11.5.6</version>
     </versions>
-    <lastUpdated>20250126224013</lastUpdated>
+    <lastUpdated>20250311154414</lastUpdated>
   </versioning>
 </metadata>

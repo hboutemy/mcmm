@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Tinkar Example Data Maven Plugin</name>
+      <prefix>tinkar-example-data</prefix>
+      <artifactId>tinkar-example-data-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Tinkar Maven Plugin</name>
       <prefix>tinkar</prefix>
       <artifactId>tinkar-maven-plugin</artifactId>
