@@ -3,8 +3,8 @@
   <groupId>org.terasoluna.batch</groupId>
   <artifactId>terasoluna-batch-build</artifactId>
   <versioning>
-    <latest>5.7.0.RC3</latest>
-    <release>5.7.0.RC3</release>
+    <latest>5.7.0.RELEASE</latest>
+    <release>5.7.0.RELEASE</release>
     <versions>
       <version>5.0.0.RC1</version>
       <version>5.0.0.RC2</version>
@@ -46,13 +46,15 @@
       <version>5.4.3.RC1</version>
       <version>5.4.3.RELEASE</version>
       <version>5.4.4.RC1</version>
+      <version>5.4.4.RELEASE</version>
       <version>5.5.0.RC1</version>
       <version>5.5.0.RELEASE</version>
       <version>5.6.0.RC1</version>
       <version>5.6.0.RELEASE</version>
       <version>5.7.0.RC2</version>
       <version>5.7.0.RC3</version>
+      <version>5.7.0.RELEASE</version>
     </versions>
-    <lastUpdated>20250307110406</lastUpdated>
+    <lastUpdated>20250312114500</lastUpdated>
   </versioning>
 </metadata>
