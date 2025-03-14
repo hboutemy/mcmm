@@ -3,16 +3,23 @@
   <groupId>com.wire</groupId>
   <artifactId>avs</artifactId>
   <versioning>
-    <latest>10.0.31</latest>
-    <release>10.0.31</release>
+    <latest>10.0.34</latest>
+    <release>10.0.34</release>
     <versions>
+      <version>10.0.32</version>
+      <version>10.0.33</version>
+      <version>10.0.34</version>
+      <version>10.0.1</version>
+      <version>10.0.2</version>
+      <version>10.0.29</version>
+      <version>10.0.30</version>
+      <version>10.0.31</version>
+      <version>10.0.4</version>
+      <version>10.0.5</version>
+      <version>10.0.7</version>
+      <version>10.0.8</version>
+      <version>10.0.9</version>
       <version>7.1.140</version>
-      <version>7.2.94</version>
-      <version>7.2.95</version>
-      <version>7.2.96</version>
-      <version>7.2.97</version>
-      <version>7.2.98</version>
-      <version>7.2.99</version>
       <version>7.2.100</version>
       <version>7.2.101</version>
       <version>7.2.102</version>
@@ -22,27 +29,30 @@
       <version>7.2.106</version>
       <version>7.2.108</version>
       <version>7.2.110</version>
-      <version>8.0.5</version>
-      <version>8.0.6</version>
-      <version>8.0.7</version>
-      <version>8.0.8</version>
-      <version>8.0.9</version>
+      <version>7.2.94</version>
+      <version>7.2.95</version>
+      <version>7.2.96</version>
+      <version>7.2.97</version>
+      <version>7.2.98</version>
+      <version>7.2.99</version>
       <version>8.0.10</version>
       <version>8.0.11</version>
       <version>8.0.12</version>
       <version>8.0.14</version>
       <version>8.0.16</version>
+      <version>8.0.5</version>
+      <version>8.0.6</version>
+      <version>8.0.7</version>
+      <version>8.0.8</version>
+      <version>8.0.9</version>
       <version>8.1.1</version>
-      <version>8.1.2</version>
-      <version>8.1.3</version>
-      <version>8.1.8</version>
       <version>8.1.10</version>
       <version>8.1.16</version>
       <version>8.1.18</version>
+      <version>8.1.2</version>
+      <version>8.1.3</version>
+      <version>8.1.8</version>
       <version>8.2.1</version>
-      <version>8.2.4</version>
-      <version>8.2.5</version>
-      <version>8.2.9</version>
       <version>8.2.10</version>
       <version>8.2.11</version>
       <version>8.2.12</version>
@@ -54,9 +64,10 @@
       <version>8.2.29</version>
       <version>8.2.30</version>
       <version>8.2.32</version>
+      <version>8.2.4</version>
+      <version>8.2.5</version>
+      <version>8.2.9</version>
       <version>9.0.1</version>
-      <version>9.0.8</version>
-      <version>9.0.9</version>
       <version>9.0.10</version>
       <version>9.0.11</version>
       <version>9.0.12</version>
@@ -68,12 +79,8 @@
       <version>9.0.22</version>
       <version>9.0.23</version>
       <version>9.0.25</version>
-      <version>9.1.4</version>
-      <version>9.1.5</version>
-      <version>9.1.6</version>
-      <version>9.1.7</version>
-      <version>9.1.8</version>
-      <version>9.1.9</version>
+      <version>9.0.8</version>
+      <version>9.0.9</version>
       <version>9.1.10</version>
       <version>9.1.11</version>
       <version>9.1.12</version>
@@ -84,111 +91,12 @@
       <version>9.1.18</version>
       <version>9.1.19</version>
       <version>9.1.20</version>
-      <version>9.2.1</version>
-      <version>9.2.2</version>
-      <version>9.2.3</version>
-      <version>9.2.4</version>
-      <version>9.2.5</version>
-      <version>9.2.6</version>
-      <version>9.2.7</version>
-      <version>9.2.8</version>
-      <version>9.2.12</version>
-      <version>9.2.13</version>
-      <version>9.2.14</version>
-      <version>9.2.15</version>
-      <version>9.2.17</version>
-      <version>9.2.19</version>
-      <version>9.2.20</version>
-      <version>9.2.21</version>
-      <version>9.2.22</version>
-      <version>9.3.1</version>
-      <version>9.3.4</version>
-      <version>9.3.6</version>
-      <version>9.3.7</version>
-      <version>9.3.9</version>
-      <version>9.3.10</version>
-      <version>9.3.12</version>
-      <version>9.3.13</version>
-      <version>9.4.2</version>
-      <version>9.4.4</version>
-      <version>9.4.9</version>
-      <version>9.4.10</version>
-      <version>9.4.11</version>
-      <version>9.4.12</version>
-      <version>9.4.13</version>
-      <version>9.4.14</version>
-      <version>9.4.15</version>
-      <version>9.4.18</version>
-      <version>9.4.19</version>
-      <version>9.4.21</version>
-      <version>9.5.1</version>
-      <version>9.5.2</version>
-      <version>9.5.3</version>
-      <version>9.5.4</version>
-      <version>9.5.5</version>
-      <version>9.5.6</version>
-      <version>9.5.7</version>
-      <version>9.5.12</version>
-      <version>9.5.13</version>
-      <version>9.6.3</version>
-      <version>9.6.7</version>
-      <version>9.6.8</version>
-      <version>9.6.9</version>
-      <version>9.6.11</version>
-      <version>9.6.12</version>
-      <version>9.6.13</version>
-      <version>9.6.14</version>
-      <version>9.6.15</version>
-      <version>9.6.16</version>
-      <version>9.6.18</version>
-      <version>9.7.1</version>
-      <version>9.7.2</version>
-      <version>9.7.3</version>
-      <version>9.7.5</version>
-      <version>9.7.6</version>
-      <version>9.7.7</version>
-      <version>9.7.8</version>
-      <version>9.7.9</version>
-      <version>9.7.10</version>
-      <version>9.7.11</version>
-      <version>9.7.12</version>
-      <version>9.7.13</version>
-      <version>9.7.14</version>
-      <version>9.7.15</version>
-      <version>9.7.16</version>
-      <version>9.7.17</version>
-      <version>9.7.18</version>
-      <version>9.7.20</version>
-      <version>9.7.21</version>
-      <version>9.7.23</version>
-      <version>9.7.25</version>
-      <version>9.8.1</version>
-      <version>9.8.2</version>
-      <version>9.8.3</version>
-      <version>9.8.4</version>
-      <version>9.8.5</version>
-      <version>9.8.6</version>
-      <version>9.8.9</version>
-      <version>9.8.11</version>
-      <version>9.8.13</version>
-      <version>9.8.14</version>
-      <version>9.8.15</version>
-      <version>9.8.16</version>
-      <version>9.8.17</version>
-      <version>9.8.18</version>
-      <version>9.8.19</version>
-      <version>9.8.21</version>
-      <version>9.9.3</version>
-      <version>9.9.4</version>
-      <version>9.9.5</version>
-      <version>9.9.6</version>
-      <version>9.9.7</version>
-      <version>9.9.8</version>
-      <version>9.9.10</version>
-      <version>9.9.19</version>
-      <version>9.10.7</version>
-      <version>9.10.8</version>
-      <version>9.10.9</version>
+      <version>9.1.4</version>
+      <version>9.1.5</version>
+      <version>9.1.6</version>
+      <version>9.1.7</version>
+      <version>9.1.8</version>
+      <version>9.1.9</version>
       <version>9.10.10</version>
       <version>9.10.11</version>
       <version>9.10.12</version>
@@ -198,17 +106,112 @@
       <version>9.10.18</version>
       <version>9.10.20</version>
       <version>9.10.25</version>
-      <version>10.0.1</version>
-      <version>10.0.2</version>
-      <version>10.0.4</version>
-      <version>10.0.5</version>
-      <version>10.0.7</version>
-      <version>10.0.8</version>
-      <version>10.0.9</version>
-      <version>10.0.29</version>
-      <version>10.0.30</version>
-      <version>10.0.31</version>
+      <version>9.10.7</version>
+      <version>9.10.8</version>
+      <version>9.10.9</version>
+      <version>9.2.1</version>
+      <version>9.2.12</version>
+      <version>9.2.13</version>
+      <version>9.2.14</version>
+      <version>9.2.15</version>
+      <version>9.2.17</version>
+      <version>9.2.19</version>
+      <version>9.2.2</version>
+      <version>9.2.20</version>
+      <version>9.2.21</version>
+      <version>9.2.22</version>
+      <version>9.2.3</version>
+      <version>9.2.4</version>
+      <version>9.2.5</version>
+      <version>9.2.6</version>
+      <version>9.2.7</version>
+      <version>9.2.8</version>
+      <version>9.3.1</version>
+      <version>9.3.10</version>
+      <version>9.3.12</version>
+      <version>9.3.13</version>
+      <version>9.3.4</version>
+      <version>9.3.6</version>
+      <version>9.3.7</version>
+      <version>9.3.9</version>
+      <version>9.4.10</version>
+      <version>9.4.11</version>
+      <version>9.4.12</version>
+      <version>9.4.13</version>
+      <version>9.4.14</version>
+      <version>9.4.15</version>
+      <version>9.4.18</version>
+      <version>9.4.19</version>
+      <version>9.4.2</version>
+      <version>9.4.21</version>
+      <version>9.4.4</version>
+      <version>9.4.9</version>
+      <version>9.5.1</version>
+      <version>9.5.12</version>
+      <version>9.5.13</version>
+      <version>9.5.2</version>
+      <version>9.5.3</version>
+      <version>9.5.4</version>
+      <version>9.5.5</version>
+      <version>9.5.6</version>
+      <version>9.5.7</version>
+      <version>9.6.11</version>
+      <version>9.6.12</version>
+      <version>9.6.13</version>
+      <version>9.6.14</version>
+      <version>9.6.15</version>
+      <version>9.6.16</version>
+      <version>9.6.18</version>
+      <version>9.6.3</version>
+      <version>9.6.7</version>
+      <version>9.6.8</version>
+      <version>9.6.9</version>
+      <version>9.7.1</version>
+      <version>9.7.10</version>
+      <version>9.7.11</version>
+      <version>9.7.12</version>
+      <version>9.7.13</version>
+      <version>9.7.14</version>
+      <version>9.7.15</version>
+      <version>9.7.16</version>
+      <version>9.7.17</version>
+      <version>9.7.18</version>
+      <version>9.7.2</version>
+      <version>9.7.20</version>
+      <version>9.7.21</version>
+      <version>9.7.23</version>
+      <version>9.7.25</version>
+      <version>9.7.3</version>
+      <version>9.7.5</version>
+      <version>9.7.6</version>
+      <version>9.7.7</version>
+      <version>9.7.8</version>
+      <version>9.7.9</version>
+      <version>9.8.1</version>
+      <version>9.8.11</version>
+      <version>9.8.13</version>
+      <version>9.8.14</version>
+      <version>9.8.15</version>
+      <version>9.8.16</version>
+      <version>9.8.17</version>
+      <version>9.8.18</version>
+      <version>9.8.19</version>
+      <version>9.8.2</version>
+      <version>9.8.21</version>
+      <version>9.8.3</version>
+      <version>9.8.4</version>
+      <version>9.8.5</version>
+      <version>9.8.6</version>
+      <version>9.8.9</version>
+      <version>9.9.10</version>
+      <version>9.9.19</version>
+      <version>9.9.3</version>
+      <version>9.9.4</version>
+      <version>9.9.5</version>
+      <version>9.9.6</version>
+      <version>9.9.7</version>
+      <version>9.9.8</version>
     </versions>
-    <lastUpdated>20250312222443</lastUpdated>
+    <lastUpdated>20250313171010</lastUpdated>
   </versioning>
 </metadata>
