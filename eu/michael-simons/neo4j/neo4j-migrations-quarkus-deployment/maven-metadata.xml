@@ -3,8 +3,8 @@
   <groupId>eu.michael-simons.neo4j</groupId>
   <artifactId>neo4j-migrations-quarkus-deployment</artifactId>
   <versioning>
-    <latest>2.16.2</latest>
-    <release>2.16.2</release>
+    <latest>2.17.0</latest>
+    <release>2.17.0</release>
     <versions>
       <version>1.2.2</version>
       <version>1.2.3</version>
@@ -94,7 +94,8 @@
       <version>2.16.0</version>
       <version>2.16.1</version>
       <version>2.16.2</version>
+      <version>2.17.0</version>
     </versions>
-    <lastUpdated>20250224110605</lastUpdated>
+    <lastUpdated>20250314114408</lastUpdated>
   </versioning>
 </metadata>
