@@ -3,8 +3,8 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>wildfly-arquillian-common-domain</artifactId>
   <versioning>
-    <latest>5.1.0.Beta9</latest>
-    <release>5.1.0.Beta9</release>
+    <latest>5.1.0.Beta10</latest>
+    <release>5.1.0.Beta10</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -59,9 +59,10 @@
       <version>5.1.0.Beta7</version>
       <version>5.1.0.Beta8</version>
       <version>5.1.0.Beta9</version>
+      <version>5.1.0.Beta10</version>
       <version>4.0.0.Final</version>
       <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20250103192836</lastUpdated>
+    <lastUpdated>20250314221515</lastUpdated>
   </versioning>
 </metadata>
