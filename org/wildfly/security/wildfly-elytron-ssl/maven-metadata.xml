@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-ssl</artifactId>
   <versioning>
-    <latest>2.6.1.Final</latest>
-    <release>2.6.1.Final</release>
+    <latest>2.6.2.Final</latest>
+    <release>2.6.2.Final</release>
     <versions>
       <version>1.9.0.CR1</version>
       <version>1.9.0.CR2</version>
@@ -129,6 +129,7 @@
       <version>2.2.6.Final</version>
       <version>2.2.7.Final</version>
       <version>2.2.8.Final</version>
+      <version>2.2.9.Final</version>
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
       <version>2.4.0.CR1</version>
@@ -141,7 +142,8 @@
       <version>2.5.2.Final</version>
       <version>2.6.0.Final</version>
       <version>2.6.1.Final</version>
+      <version>2.6.2.Final</version>
     </versions>
-    <lastUpdated>20250227004407</lastUpdated>
+    <lastUpdated>20250318192240</lastUpdated>
   </versioning>
 </metadata>

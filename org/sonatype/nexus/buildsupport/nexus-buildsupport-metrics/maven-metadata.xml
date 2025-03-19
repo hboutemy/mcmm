@@ -3,8 +3,8 @@
   <groupId>org.sonatype.nexus.buildsupport</groupId>
   <artifactId>nexus-buildsupport-metrics</artifactId>
   <versioning>
-    <latest>3.78.1-02</latest>
-    <release>3.78.1-02</release>
+    <latest>3.78.2-04</latest>
+    <release>3.78.2-04</release>
     <versions>
       <version>2.6.0-01</version>
       <version>2.6.0-05</version>
@@ -236,9 +236,10 @@
       <version>3.77.2-02</version>
       <version>3.78.0-14</version>
       <version>3.78.1-02</version>
+      <version>3.78.2-04</version>
       <version>3.72.0-04</version>
       <version>3.74.0-05</version>
     </versions>
-    <lastUpdated>20250308003902</lastUpdated>
+    <lastUpdated>20250318165631</lastUpdated>
   </versioning>
 </metadata>

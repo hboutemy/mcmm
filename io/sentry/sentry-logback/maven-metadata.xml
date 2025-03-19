@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-logback</artifactId>
   <versioning>
-    <latest>8.4.0</latest>
-    <release>8.4.0</release>
+    <latest>8.5.0</latest>
+    <release>8.5.0</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.0-beta2</version>
@@ -262,7 +262,8 @@
       <version>8.2.0</version>
       <version>8.3.0</version>
       <version>8.4.0</version>
+      <version>8.5.0</version>
     </versions>
-    <lastUpdated>20250317143208</lastUpdated>
+    <lastUpdated>20250318173907</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-spring6-common</artifactId>
   <versioning>
-    <latest>15.1.7.Final</latest>
-    <release>15.1.7.Final</release>
+    <latest>15.2.0.Dev01</latest>
+    <release>15.2.0.Dev01</release>
     <versions>
       <version>14.0.7.Final</version>
       <version>14.0.8.Final</version>
@@ -73,7 +73,8 @@
       <version>15.1.5.Final</version>
       <version>15.1.6.Final</version>
       <version>15.1.7.Final</version>
+      <version>15.2.0.Dev01</version>
     </versions>
-    <lastUpdated>20250227182018</lastUpdated>
+    <lastUpdated>20250318172053</lastUpdated>
   </versioning>
 </metadata>
