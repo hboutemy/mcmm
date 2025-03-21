@@ -3,8 +3,8 @@
   <groupId>com.bbossgroups.plugins</groupId>
   <artifactId>bboss-elasticsearch-spring-boot3-starter</artifactId>
   <versioning>
-    <latest>7.3.6</latest>
-    <release>7.3.6</release>
+    <latest>7.3.7-jdk17</latest>
+    <release>7.3.7-jdk17</release>
     <versions>
       <version>7.1.6</version>
       <version>7.1.7</version>
@@ -25,7 +25,9 @@
       <version>7.3.3</version>
       <version>7.3.5</version>
       <version>7.3.6</version>
+      <version>7.3.7</version>
+      <version>7.3.7-jdk17</version>
     </versions>
-    <lastUpdated>20250309092634</lastUpdated>
+    <lastUpdated>20250320064516</lastUpdated>
   </versioning>
 </metadata>

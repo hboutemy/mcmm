@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-trino-execution-tests</artifactId>
   <versioning>
-    <latest>4.73.0</latest>
-    <release>4.73.0</release>
+    <latest>4.74.0</latest>
+    <release>4.74.0</release>
     <versions>
       <version>4.4.4</version>
       <version>4.4.5</version>
@@ -189,7 +189,8 @@
       <version>4.71.1</version>
       <version>4.72.0</version>
       <version>4.73.0</version>
+      <version>4.74.0</version>
     </versions>
-    <lastUpdated>20250312195507</lastUpdated>
+    <lastUpdated>20250320011731</lastUpdated>
   </versioning>
 </metadata>

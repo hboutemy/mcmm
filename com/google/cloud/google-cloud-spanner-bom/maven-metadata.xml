@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-spanner-bom</artifactId>
   <versioning>
-    <latest>6.88.0</latest>
-    <release>6.88.0</release>
+    <latest>6.89.0</latest>
+    <release>6.89.0</release>
     <versions>
       <version>1.48.0</version>
       <version>1.49.0</version>
@@ -210,12 +210,13 @@
       <version>6.86.0</version>
       <version>6.87.0</version>
       <version>6.88.0</version>
+      <version>6.89.0</version>
       <version>3.3.3</version>
       <version>3.3.3-sp.1</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
       <version>4.0.3</version>
     </versions>
-    <lastUpdated>20250227184436</lastUpdated>
+    <lastUpdated>20250320163913</lastUpdated>
   </versioning>
 </metadata>

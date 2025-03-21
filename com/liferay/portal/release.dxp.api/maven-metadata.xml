@@ -3,8 +3,8 @@
   <groupId>com.liferay.portal</groupId>
   <artifactId>release.dxp.api</artifactId>
   <versioning>
-    <latest>2025.q1.3</latest>
-    <release>2025.q1.3</release>
+    <latest>2025.q1.4</latest>
+    <release>2025.q1.4</release>
     <versions>
       <version>7.0.10.fp83</version>
       <version>7.0.10.fp84</version>
@@ -232,6 +232,7 @@
       <version>7.4.13-u130</version>
       <version>7.4.13-u131</version>
       <version>7.4.13-u132</version>
+      <version>7.4.13-u133</version>
       <version>2023.q3.1</version>
       <version>2023.q3.2</version>
       <version>2023.q3.3</version>
@@ -267,6 +268,7 @@
       <version>2024.q1.12</version>
       <version>2024.q1.13</version>
       <version>2024.q1.14</version>
+      <version>2024.q1.15</version>
       <version>2024.q2.0</version>
       <version>2024.q2.1</version>
       <version>2024.q2.2</version>
@@ -306,12 +308,10 @@
       <version>2025.q1.1</version>
       <version>2025.q1.2</version>
       <version>2025.q1.3</version>
-      <version>2024.q1.15</version>
-      <version>2024.q4.5</version>
       <version>2025.q1.4</version>
+      <version>2024.q4.5</version>
       <version>7.3.10.ep6</version>
-      <version>7.4.13-u133</version>
     </versions>
-    <lastUpdated>20250313095856</lastUpdated>
+    <lastUpdated>20250320095236</lastUpdated>
   </versioning>
 </metadata>

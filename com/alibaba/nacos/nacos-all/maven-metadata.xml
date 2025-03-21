@@ -3,8 +3,8 @@
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-all</artifactId>
   <versioning>
-    <latest>3.0.0-ALPHA.2</latest>
-    <release>3.0.0-ALPHA.2</release>
+    <latest>3.0.0-BETA</latest>
+    <release>3.0.0-BETA</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -88,7 +88,8 @@
       <version>2.5.1</version>
       <version>3.0.0-ALPHA</version>
       <version>3.0.0-ALPHA.2</version>
+      <version>3.0.0-BETA</version>
     </versions>
-    <lastUpdated>20250311061354</lastUpdated>
+    <lastUpdated>20250320062645</lastUpdated>
   </versioning>
 </metadata>
