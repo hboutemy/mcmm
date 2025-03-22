@@ -3,8 +3,8 @@
   <groupId>org.apereo.cas</groupId>
   <artifactId>cas-server-core-rest-api</artifactId>
   <versioning>
-    <latest>7.2.0-RC6</latest>
-    <release>7.2.0-RC6</release>
+    <latest>7.2.0</latest>
+    <release>7.2.0</release>
     <versions>
       <version>6.5.0-RC2</version>
       <version>6.5.0-RC3</version>
@@ -87,7 +87,8 @@
       <version>7.2.0-RC4</version>
       <version>7.2.0-RC5</version>
       <version>7.2.0-RC6</version>
+      <version>7.2.0</version>
     </versions>
-    <lastUpdated>20250307105905</lastUpdated>
+    <lastUpdated>20250321095338</lastUpdated>
   </versioning>
 </metadata>

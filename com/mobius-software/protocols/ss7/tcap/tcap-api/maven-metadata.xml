@@ -3,8 +3,8 @@
   <groupId>com.mobius-software.protocols.ss7.tcap</groupId>
   <artifactId>tcap-api</artifactId>
   <versioning>
-    <latest>10.0.42</latest>
-    <release>10.0.42</release>
+    <latest>10.0.44-java11</latest>
+    <release>10.0.44-java11</release>
     <versions>
       <version>10.0.1</version>
       <version>10.0.2</version>
@@ -47,7 +47,10 @@
       <version>10.0.41</version>
       <version>10.0.41-java11</version>
       <version>10.0.42</version>
+      <version>10.0.43</version>
+      <version>10.0.44</version>
+      <version>10.0.44-java11</version>
     </versions>
-    <lastUpdated>20250320151706</lastUpdated>
+    <lastUpdated>20250321213608</lastUpdated>
   </versioning>
 </metadata>
