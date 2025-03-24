@@ -3,18 +3,20 @@
   <groupId>io.github.dep4</groupId>
   <artifactId>litert</artifactId>
   <versioning>
-    <latest>0.0.8</latest>
-    <release>0.0.8</release>
+    <latest>{{inputs.version}}</latest>
+    <release>{{inputs.version}}</release>
     <versions>
-      <version>0.0.5</version>
-      <version>0.0.7</version>
-      <version>0.0.8</version>
+      <version>{{inputs.version}}</version>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
       <version>0.0.4</version>
+      <version>0.0.5</version>
       <version>0.0.6</version>
+      <version>0.0.7</version>
+      <version>0.0.8</version>
+      <version>0.0.9</version>
     </versions>
-    <lastUpdated>20250322200208</lastUpdated>
+    <lastUpdated>20250323141139</lastUpdated>
   </versioning>
 </metadata>

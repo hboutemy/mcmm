@@ -6,5 +6,10 @@
       <prefix>bw6</prefix>
       <artifactId>bw6-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Plugin Code for Apache Maven and TIBCO Flogo</name>
+      <prefix>flogo</prefix>
+      <artifactId>flogo-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
