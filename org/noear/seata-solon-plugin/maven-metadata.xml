@@ -3,8 +3,8 @@
   <groupId>org.noear</groupId>
   <artifactId>seata-solon-plugin</artifactId>
   <versioning>
-    <latest>3.1.0</latest>
-    <release>3.1.0</release>
+    <latest>3.1.1-RC</latest>
+    <release>3.1.1-RC</release>
     <versions>
       <version>2.2.9</version>
       <version>2.2.10</version>
@@ -230,7 +230,9 @@
       <version>3.1.0-M1</version>
       <version>3.1.0-RC</version>
       <version>3.1.0</version>
+      <version>3.1.1-M4</version>
+      <version>3.1.1-RC</version>
     </versions>
-    <lastUpdated>20250304152956</lastUpdated>
+    <lastUpdated>20250324042022</lastUpdated>
   </versioning>
 </metadata>

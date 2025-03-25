@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-database-sql-postgres</artifactId>
   <versioning>
-    <latest>11.11.0</latest>
-    <release>11.11.0</release>
+    <latest>11.12.0</latest>
+    <release>11.12.0</release>
     <versions>
       <version>6.3.22</version>
       <version>6.3.23</version>
@@ -200,7 +200,8 @@
       <version>11.8.0</version>
       <version>11.9.0</version>
       <version>11.11.0</version>
+      <version>11.12.0</version>
     </versions>
-    <lastUpdated>20250321135954</lastUpdated>
+    <lastUpdated>20250324093438</lastUpdated>
   </versioning>
 </metadata>

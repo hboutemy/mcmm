@@ -3,8 +3,8 @@
   <groupId>io.micronaut.servlet</groupId>
   <artifactId>micronaut-http-server-jetty</artifactId>
   <versioning>
-    <latest>5.1.1</latest>
-    <release>5.1.1</release>
+    <latest>5.2.1</latest>
+    <release>5.2.1</release>
     <versions>
       <version>1.0.0.M1</version>
       <version>1.0.0.M2</version>
@@ -87,7 +87,9 @@
       <version>5.0.1</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.2.0</version>
+      <version>5.2.1</version>
     </versions>
-    <lastUpdated>20250219140907</lastUpdated>
+    <lastUpdated>20250324094509</lastUpdated>
   </versioning>
 </metadata>

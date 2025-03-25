@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-profiler-spring-starter</artifactId>
   <versioning>
-    <latest>6.1.0-preview</latest>
-    <release>6.1.0-preview</release>
+    <latest>6.1.1-preview</latest>
+    <release>6.1.1-preview</release>
     <versions>
       <version>4.0.0-preview</version>
       <version>4.1.0-preview</version>
@@ -51,6 +51,7 @@
       <version>4.10.16-preview</version>
       <version>4.10.17-preview</version>
       <version>4.10.18-preview</version>
+      <version>4.10.19-preview</version>
       <version>5.0.0-preview</version>
       <version>5.0.2-preview</version>
       <version>5.0.3-preview</version>
@@ -74,10 +75,12 @@
       <version>5.11.0-preview</version>
       <version>5.11.1-preview</version>
       <version>5.11.2-preview</version>
+      <version>5.11.3-preview</version>
       <version>6.0.0-preview</version>
       <version>6.0.1-preview</version>
       <version>6.1.0-preview</version>
+      <version>6.1.1-preview</version>
     </versions>
-    <lastUpdated>20250312140505</lastUpdated>
+    <lastUpdated>20250324154104</lastUpdated>
   </versioning>
 </metadata>
