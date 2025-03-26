@@ -3,8 +3,8 @@
   <groupId>com.amazonaws</groupId>
   <artifactId>athena-dynamodb</artifactId>
   <versioning>
-    <latest>2025.10.1</latest>
-    <release>2025.10.1</release>
+    <latest>2025.12.1</latest>
+    <release>2025.12.1</release>
     <versions>
       <version>2023.14.1</version>
       <version>2023.15.1</version>
@@ -69,7 +69,8 @@
       <version>2025.7.1</version>
       <version>2025.8.1</version>
       <version>2025.10.1</version>
+      <version>2025.12.1</version>
     </versions>
-    <lastUpdated>20250313192820</lastUpdated>
+    <lastUpdated>20250325210356</lastUpdated>
   </versioning>
 </metadata>

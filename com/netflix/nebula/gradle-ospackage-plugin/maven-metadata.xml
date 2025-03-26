@@ -3,8 +3,8 @@
   <groupId>com.netflix.nebula</groupId>
   <artifactId>gradle-ospackage-plugin</artifactId>
   <versioning>
-    <latest>11.11.1</latest>
-    <release>11.11.1</release>
+    <latest>11.11.2</latest>
+    <release>11.11.2</release>
     <versions>
       <version>1.9.2</version>
       <version>1.9.4</version>
@@ -124,9 +124,10 @@
       <version>11.10.1</version>
       <version>11.11.0</version>
       <version>11.11.1</version>
+      <version>11.11.2</version>
       <version>6.1.2</version>
       <version>7.1.0</version>
     </versions>
-    <lastUpdated>20250212172733</lastUpdated>
+    <lastUpdated>20250325183123</lastUpdated>
   </versioning>
 </metadata>
