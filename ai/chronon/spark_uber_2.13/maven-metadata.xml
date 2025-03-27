@@ -3,10 +3,11 @@
   <groupId>ai.chronon</groupId>
   <artifactId>spark_uber_2.13</artifactId>
   <versioning>
-    <latest>0.0.89</latest>
-    <release>0.0.89</release>
+    <latest>0.0.91</latest>
+    <release>0.0.91</release>
     <versions>
       <version>chaining-0.0.46-dev</version>
+      <version>def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91</version>
       <version>0.0.28</version>
       <version>0.0.29</version>
       <version>0.0.30</version>
@@ -65,7 +66,8 @@
       <version>0.0.87</version>
       <version>0.0.88</version>
       <version>0.0.89</version>
+      <version>0.0.91</version>
     </versions>
-    <lastUpdated>20250307193204</lastUpdated>
+    <lastUpdated>20250326014353</lastUpdated>
   </versioning>
 </metadata>

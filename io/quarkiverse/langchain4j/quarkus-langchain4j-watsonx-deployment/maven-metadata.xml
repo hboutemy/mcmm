@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.langchain4j</groupId>
   <artifactId>quarkus-langchain4j-watsonx-deployment</artifactId>
   <versioning>
-    <latest>0.26.0</latest>
-    <release>0.26.0</release>
+    <latest>0.26.1</latest>
+    <release>0.26.1</release>
     <versions>
       <version>0.7.1</version>
       <version>0.8.0</version>
@@ -72,7 +72,8 @@
       <version>0.26.0.CR1</version>
       <version>0.26.0.CR2</version>
       <version>0.26.0</version>
+      <version>0.26.1</version>
     </versions>
-    <lastUpdated>20250321123729</lastUpdated>
+    <lastUpdated>20250326130222</lastUpdated>
   </versioning>
 </metadata>

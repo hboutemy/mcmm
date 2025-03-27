@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-presentation-compiler_3</artifactId>
   <versioning>
-    <latest>3.7.1-RC1-bin-20250323-451fdcd-NIGHTLY</latest>
-    <release>3.7.1-RC1-bin-20250323-451fdcd-NIGHTLY</release>
+    <latest>3.7.1-RC1-bin-20250325-701fa8a-NIGHTLY</latest>
+    <release>3.7.1-RC1-bin-20250325-701fa8a-NIGHTLY</release>
     <versions>
       <version>3.3.2-RC1</version>
       <version>3.3.2-RC1-bin-20230706-3ae2dbf-NIGHTLY</version>
@@ -58,6 +58,7 @@
       <version>3.3.5-RC2</version>
       <version>3.3.5-RC3</version>
       <version>3.3.5</version>
+      <version>3.3.6-RC1</version>
       <version>3.3.6-RC1-bin-20250128-c189755-NIGHTLY</version>
       <version>3.3.6-RC1-bin-20250219-7fb2a9d-NIGHTLY</version>
       <version>3.3.6-RC1-bin-20250308-267b9ce-NIGHTLY</version>
@@ -498,7 +499,8 @@
       <version>3.7.1-RC1-bin-20250319-270fc87-NIGHTLY</version>
       <version>3.7.1-RC1-bin-20250320-a5e029a-NIGHTLY</version>
       <version>3.7.1-RC1-bin-20250323-451fdcd-NIGHTLY</version>
+      <version>3.7.1-RC1-bin-20250325-701fa8a-NIGHTLY</version>
     </versions>
-    <lastUpdated>20250324112842</lastUpdated>
+    <lastUpdated>20250326135738</lastUpdated>
   </versioning>
 </metadata>
