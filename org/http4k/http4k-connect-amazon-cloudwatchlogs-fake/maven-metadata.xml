@@ -3,9 +3,11 @@
   <groupId>org.http4k</groupId>
   <artifactId>http4k-connect-amazon-cloudwatchlogs-fake</artifactId>
   <versioning>
-    <latest>6.2.0.0</latest>
-    <release>6.2.0.0</release>
+    <latest>6.4.1.0</latest>
+    <release>6.4.1.0</release>
     <versions>
+      <version>v6.3.0.0</version>
+      <version>v6.4.1.0</version>
       <version>5.2.2.0</version>
       <version>5.2.3.0</version>
       <version>5.2.4.0</version>
@@ -97,7 +99,9 @@
       <version>6.1.0.0</version>
       <version>6.1.0.1</version>
       <version>6.2.0.0</version>
+      <version>6.4.0.0</version>
+      <version>6.4.1.0</version>
     </versions>
-    <lastUpdated>20250320203224</lastUpdated>
+    <lastUpdated>20250328164901</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.repository</groupId>
   <artifactId>gravitee-apim-repository-elasticsearch</artifactId>
   <versioning>
-    <latest>4.7.0-alpha.3</latest>
-    <release>4.7.0-alpha.3</release>
+    <latest>4.7.0</latest>
+    <release>4.7.0</release>
     <versions>
       <version>3.5.31</version>
       <version>3.10.15</version>
@@ -289,7 +289,8 @@
       <version>4.7.0-alpha.1</version>
       <version>4.7.0-alpha.2</version>
       <version>4.7.0-alpha.3</version>
+      <version>4.7.0</version>
     </versions>
-    <lastUpdated>20250327175100</lastUpdated>
+    <lastUpdated>20250328153252</lastUpdated>
   </versioning>
 </metadata>

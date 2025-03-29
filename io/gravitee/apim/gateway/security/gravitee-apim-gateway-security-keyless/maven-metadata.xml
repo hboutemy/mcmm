@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway.security</groupId>
   <artifactId>gravitee-apim-gateway-security-keyless</artifactId>
   <versioning>
-    <latest>4.7.0-alpha.3</latest>
-    <release>4.7.0-alpha.3</release>
+    <latest>4.7.0</latest>
+    <release>4.7.0</release>
     <versions>
       <version>3.5.25</version>
       <version>3.5.26</version>
@@ -323,7 +323,8 @@
       <version>4.7.0-alpha.1</version>
       <version>4.7.0-alpha.2</version>
       <version>4.7.0-alpha.3</version>
+      <version>4.7.0</version>
     </versions>
-    <lastUpdated>20250327175024</lastUpdated>
+    <lastUpdated>20250328153221</lastUpdated>
   </versioning>
 </metadata>

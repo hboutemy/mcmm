@@ -3,12 +3,14 @@
   <groupId>org.wildfly.unscanned.unstable.api.annotation</groupId>
   <artifactId>unstable-api-annotation-plugin-tests-unscanned-module</artifactId>
   <versioning>
-    <latest>1.0.0.Final</latest>
-    <release>1.0.0.Final</release>
+    <latest>1.0.2.Final</latest>
+    <release>1.0.2.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Final</version>
+      <version>1.0.1.Final</version>
+      <version>1.0.2.Final</version>
     </versions>
-    <lastUpdated>20240708131109</lastUpdated>
+    <lastUpdated>20250328104132</lastUpdated>
   </versioning>
 </metadata>

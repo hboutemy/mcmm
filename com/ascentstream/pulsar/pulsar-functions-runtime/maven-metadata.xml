@@ -3,14 +3,15 @@
   <groupId>com.ascentstream.pulsar</groupId>
   <artifactId>pulsar-functions-runtime</artifactId>
   <versioning>
-    <latest>3.0.10.0</latest>
-    <release>3.0.10.0</release>
+    <latest>3.0.11.0</latest>
+    <release>3.0.11.0</release>
     <versions>
       <version>2.10.7.8</version>
       <version>2.10.7.9</version>
       <version>3.0.10.0</version>
       <version>2.10.7.10</version>
       <version>2.10.7.11</version>
+      <version>3.0.11.0</version>
       <version>2.10.6.10</version>
       <version>2.10.6.9</version>
       <version>2.10.7.1</version>
@@ -24,6 +25,6 @@
       <version>3.0.7.0-SNAPSHOT-a030c50</version>
       <version>3.0.8.0-SNAPSHOT-16a7bcc</version>
     </versions>
-    <lastUpdated>20250325115942</lastUpdated>
+    <lastUpdated>20250328044607</lastUpdated>
   </versioning>
 </metadata>
