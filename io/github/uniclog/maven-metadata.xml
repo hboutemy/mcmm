@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Install Multiple Maven Plugin</name>
+      <prefix>install-multiple</prefix>
+      <artifactId>install-multiple-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Json Modify Maven Plugin</name>
       <prefix>json-modify</prefix>
       <artifactId>json-modify-maven-plugin</artifactId>

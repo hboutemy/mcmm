@@ -3,9 +3,13 @@
   <groupId>com.thoughtworks.sbt-best-practice</groupId>
   <artifactId>github-actions_2.12_1.0</artifactId>
   <versioning>
-    <latest>8.3.1+28-14d7259e</latest>
-    <release>8.3.1+28-14d7259e</release>
+    <latest>8.4.0+4-79265559</latest>
+    <release>8.4.0+4-79265559</release>
     <versions>
+      <version>4.2.0+526-16c3447d</version>
+      <version>4.2.0+527-8ae825f5</version>
+      <version>4.2.0+528-8e82281a</version>
+      <version>4.2.0+529-627c51cd</version>
       <version>8.3.0+96-f3857305</version>
       <version>8.3.0+96-178f8e32</version>
       <version>8.3.0+99-4a717a2c</version>
@@ -29,7 +33,26 @@
       <version>8.3.1+9-c2860f77</version>
       <version>8.3.1+10-0f2eb8b2</version>
       <version>8.3.1+27-16c3447d</version>
+      <version>8.3.1+28-e9789b50</version>
+      <version>8.3.1+28-ea137e73</version>
+      <version>8.3.1+28-fb3500a5</version>
       <version>8.3.1+28-14d7259e</version>
+      <version>8.3.1+30-2e14190c</version>
+      <version>8.3.1+32-845b1433</version>
+      <version>8.3.1+34-77c584f5</version>
+      <version>8.3.1+36-545caf84</version>
+      <version>8.3.1+38-34dd9325</version>
+      <version>8.3.1+40-e4bee245</version>
+      <version>8.3.1+42-2563ee46</version>
+      <version>8.3.1+43-ac0eb5f1</version>
+      <version>8.3.1+43-f8ed8540</version>
+      <version>8.3.1+43-1b536a29</version>
+      <version>8.3.1+43-8b06f9a5</version>
+      <version>8.3.1+43-8feeac2f</version>
+      <version>8.3.1+44-603c454b</version>
+      <version>8.4.0</version>
+      <version>8.4.0+2-e7af2a5e</version>
+      <version>8.4.0+4-79265559</version>
       <version>7.2.0+43-d7a84252</version>
       <version>7.2.0+45-ef41108d</version>
       <version>7.2.0+49-82732700</version>
@@ -145,6 +168,6 @@
       <version>8.3.0</version>
       <version>8.3.0+90-153f32b5</version>
     </versions>
-    <lastUpdated>20250329222323</lastUpdated>
+    <lastUpdated>20250330051056</lastUpdated>
   </versioning>
 </metadata>

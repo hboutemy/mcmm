@@ -3,8 +3,8 @@
   <groupId>io.scalecube</groupId>
   <artifactId>scalecube-services-transport-rsocket</artifactId>
   <versioning>
-    <latest>2.12.6.better-close.rc1</latest>
-    <release>2.12.6.better-close.rc1</release>
+    <latest>2.12.7.auth-refactoring.RC1</latest>
+    <release>2.12.7.auth-refactoring.RC1</release>
     <versions>
       <version>2.4.1</version>
       <version>2.4.2</version>
@@ -119,7 +119,8 @@
       <version>2.12.6.auth-refactoring.RC4</version>
       <version>2.12.6.auth-refactoring.RC5</version>
       <version>2.12.6.better-close.rc1</version>
+      <version>2.12.7.auth-refactoring.RC1</version>
     </versions>
-    <lastUpdated>20250324090928</lastUpdated>
+    <lastUpdated>20250330112431</lastUpdated>
   </versioning>
 </metadata>

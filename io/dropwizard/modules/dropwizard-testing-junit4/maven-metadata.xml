@@ -3,8 +3,8 @@
   <groupId>io.dropwizard.modules</groupId>
   <artifactId>dropwizard-testing-junit4</artifactId>
   <versioning>
-    <latest>4.0.12</latest>
-    <release>4.0.12</release>
+    <latest>4.0.13</latest>
+    <release>4.0.13</release>
     <versions>
       <version>3.0.0-beta.4</version>
       <version>3.0.0</version>
@@ -20,6 +20,7 @@
       <version>3.0.10</version>
       <version>3.0.11</version>
       <version>3.0.12</version>
+      <version>3.0.13</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -33,7 +34,8 @@
       <version>4.0.10</version>
       <version>4.0.11</version>
       <version>4.0.12</version>
+      <version>4.0.13</version>
     </versions>
-    <lastUpdated>20250116072850</lastUpdated>
+    <lastUpdated>20250330201601</lastUpdated>
   </versioning>
 </metadata>
