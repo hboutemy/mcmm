@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>container-apache-http-client-bundle</artifactId>
   <versioning>
-    <latest>8.503.27</latest>
-    <release>8.503.27</release>
+    <latest>8.504.27</latest>
+    <release>8.504.27</release>
     <versions>
       <version>7.423.37</version>
       <version>7.424.27</version>
@@ -526,7 +526,8 @@
       <version>8.501.49</version>
       <version>8.502.19</version>
       <version>8.503.27</version>
+      <version>8.504.27</version>
     </versions>
-    <lastUpdated>20250326121804</lastUpdated>
+    <lastUpdated>20250331115233</lastUpdated>
   </versioning>
 </metadata>

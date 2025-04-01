@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-build-parent</artifactId>
   <versioning>
-    <latest>11.15.0</latest>
-    <release>11.15.0</release>
+    <latest>11.18.0</latest>
+    <release>11.18.0</release>
     <versions>
       <version>8.0.0</version>
       <version>8.0.1</version>
@@ -183,7 +183,10 @@
       <version>11.13.0</version>
       <version>11.14.0</version>
       <version>11.15.0</version>
+      <version>11.16.0</version>
+      <version>11.17.0</version>
+      <version>11.18.0</version>
     </versions>
-    <lastUpdated>20250326134710</lastUpdated>
+    <lastUpdated>20250331144446</lastUpdated>
   </versioning>
 </metadata>
