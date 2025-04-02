@@ -3,11 +3,12 @@
   <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-swagger</artifactId>
   <versioning>
-    <latest>3.78.2-04</latest>
-    <release>3.78.2-04</release>
+    <latest>3.79.0-09</latest>
+    <release>3.79.0-09</release>
     <versions>
       <version>3.78.1-02</version>
       <version>3.78.2-04</version>
+      <version>3.79.0-09</version>
       <version>3.10.0-04</version>
       <version>3.11.0-01</version>
       <version>3.12.0-01</version>
@@ -156,6 +157,6 @@
       <version>3.8.0-02</version>
       <version>3.9.0-01</version>
     </versions>
-    <lastUpdated>20250318165631</lastUpdated>
+    <lastUpdated>20250401171432</lastUpdated>
   </versioning>
 </metadata>

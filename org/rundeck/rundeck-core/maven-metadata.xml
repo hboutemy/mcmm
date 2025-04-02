@@ -3,8 +3,8 @@
   <groupId>org.rundeck</groupId>
   <artifactId>rundeck-core</artifactId>
   <versioning>
-    <latest>5.10.0-20250312</latest>
-    <release>5.10.0-20250312</release>
+    <latest>5.11.0-rc1-20250401</latest>
+    <release>5.11.0-rc1-20250401</release>
     <versions>
       <version>1.4.4</version>
       <version>1.4.5</version>
@@ -362,7 +362,8 @@
       <version>5.9.0-20250205</version>
       <version>5.10.0-rc1-20250303</version>
       <version>5.10.0-20250312</version>
+      <version>5.11.0-rc1-20250401</version>
     </versions>
-    <lastUpdated>20250312161637</lastUpdated>
+    <lastUpdated>20250401180814</lastUpdated>
   </versioning>
 </metadata>

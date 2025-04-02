@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-doris</artifactId>
   <versioning>
-    <latest>8.7.2-20250312</latest>
-    <release>8.7.2-20250312</release>
+    <latest>8.7.2-20250401</latest>
+    <release>8.7.2-20250401</release>
     <versions>
       <version>8.6.5-20231023</version>
       <version>8.7.1-jdk17-20231108</version>
@@ -370,7 +370,8 @@
       <version>8.7.2-20250212</version>
       <version>8.7.2-20250225</version>
       <version>8.7.2-20250312</version>
+      <version>8.7.2-20250401</version>
     </versions>
-    <lastUpdated>20250312161317</lastUpdated>
+    <lastUpdated>20250401093054</lastUpdated>
   </versioning>
 </metadata>

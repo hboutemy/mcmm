@@ -3,8 +3,8 @@
   <groupId>berlin.yuna</groupId>
   <artifactId>nats-server</artifactId>
   <versioning>
-    <latest>2.11.1-rc.1</latest>
-    <release>2.11.1-rc.1</release>
+    <latest>2.11.1-binary</latest>
+    <release>2.11.1-binary</release>
     <versions>
       <version>2.1.0</version>
       <version>2.1.1</version>
@@ -180,7 +180,8 @@
       <version>2.10.27-rc.1</version>
       <version>2.11.0</version>
       <version>2.11.1-rc.1</version>
+      <version>2.11.1-binary</version>
     </versions>
-    <lastUpdated>20250331071727</lastUpdated>
+    <lastUpdated>20250401071713</lastUpdated>
   </versioning>
 </metadata>
