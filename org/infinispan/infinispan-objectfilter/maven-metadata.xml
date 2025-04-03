@@ -3,8 +3,8 @@
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-objectfilter</artifactId>
   <versioning>
-    <latest>15.2.0.Dev03</latest>
-    <release>15.2.0.Dev03</release>
+    <latest>15.2.1.Final</latest>
+    <release>15.2.1.Final</release>
     <versions>
       <version>7.0.0.Alpha4</version>
       <version>7.0.0.Alpha5</version>
@@ -345,8 +345,9 @@
       <version>15.2.0.Dev01</version>
       <version>15.2.0.Dev02</version>
       <version>15.2.0.Dev03</version>
+      <version>15.2.1.Final</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20250327092115</lastUpdated>
+    <lastUpdated>20250402162142</lastUpdated>
   </versioning>
 </metadata>

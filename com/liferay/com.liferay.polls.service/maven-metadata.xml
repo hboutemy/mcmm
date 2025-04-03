@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.polls.service</artifactId>
   <versioning>
-    <latest>7.0.6</latest>
-    <release>7.0.6</release>
+    <latest>5.0.44</latest>
+    <release>5.0.44</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -242,7 +242,9 @@
       <version>7.0.4</version>
       <version>7.0.5</version>
       <version>7.0.6</version>
+      <version>4.0.61</version>
+      <version>5.0.44</version>
     </versions>
-    <lastUpdated>20240716113959</lastUpdated>
+    <lastUpdated>20250402211930</lastUpdated>
   </versioning>
 </metadata>

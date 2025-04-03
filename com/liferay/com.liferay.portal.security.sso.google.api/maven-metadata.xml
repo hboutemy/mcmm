@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.sso.google.api</artifactId>
   <versioning>
-    <latest>5.0.12</latest>
-    <release>5.0.12</release>
+    <latest>2.1.20</latest>
+    <release>2.1.20</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -131,7 +131,9 @@
       <version>5.0.10</version>
       <version>5.0.11</version>
       <version>5.0.12</version>
+      <version>3.0.30</version>
+      <version>2.1.20</version>
     </versions>
-    <lastUpdated>20240131090327</lastUpdated>
+    <lastUpdated>20250402201621</lastUpdated>
   </versioning>
 </metadata>

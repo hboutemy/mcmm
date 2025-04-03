@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-security-jpa-parent</artifactId>
   <versioning>
-    <latest>3.21.0</latest>
-    <release>3.21.0</release>
+    <latest>3.21.1</latest>
+    <release>3.21.1</release>
     <versions>
       <version>1.3.0.Alpha2</version>
       <version>1.3.0.CR1</version>
@@ -330,7 +330,8 @@
       <version>3.20.0</version>
       <version>3.21.0.CR1</version>
       <version>3.21.0</version>
+      <version>3.21.1</version>
     </versions>
-    <lastUpdated>20250319120755</lastUpdated>
+    <lastUpdated>20250402105646</lastUpdated>
   </versioning>
 </metadata>

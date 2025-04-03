@@ -3,8 +3,8 @@
   <groupId>io.quarkiverse.cxf</groupId>
   <artifactId>quarkus-cxf-integration-test-ws-trust</artifactId>
   <versioning>
-    <latest>3.21.0</latest>
-    <release>3.21.0</release>
+    <latest>3.21.1</latest>
+    <release>3.21.1</release>
     <versions>
       <version>1.5.3</version>
       <version>1.5.4</version>
@@ -94,7 +94,8 @@
       <version>3.20.0.CR1</version>
       <version>3.20.0</version>
       <version>3.21.0</version>
+      <version>3.21.1</version>
     </versions>
-    <lastUpdated>20250324143730</lastUpdated>
+    <lastUpdated>20250402160445</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.debezium</groupId>
   <artifactId>debezium-schema-generator</artifactId>
   <versioning>
-    <latest>3.1.0.CR1</latest>
-    <release>3.1.0.CR1</release>
+    <latest>3.1.0.Final</latest>
+    <release>3.1.0.Final</release>
     <versions>
       <version>1.8.0.Final</version>
       <version>1.8.1.Final</version>
@@ -106,7 +106,8 @@
       <version>3.1.0.Alpha2</version>
       <version>3.1.0.Beta1</version>
       <version>3.1.0.CR1</version>
+      <version>3.1.0.Final</version>
     </versions>
-    <lastUpdated>20250324163102</lastUpdated>
+    <lastUpdated>20250402150234</lastUpdated>
   </versioning>
 </metadata>
