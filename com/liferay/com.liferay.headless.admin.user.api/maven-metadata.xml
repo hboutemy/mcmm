@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.headless.admin.user.api</artifactId>
   <versioning>
-    <latest>20.2.2</latest>
-    <release>20.2.2</release>
+    <latest>21.2.2</latest>
+    <release>21.2.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -154,11 +154,13 @@
       <version>19.1.0</version>
       <version>19.2.0</version>
       <version>19.2.1</version>
+      <version>19.2.2</version>
       <version>20.0.0</version>
       <version>20.0.1</version>
       <version>20.1.0</version>
       <version>20.2.0</version>
       <version>20.2.1</version>
+      <version>20.2.2</version>
       <version>21.0.0</version>
       <version>21.0.1</version>
       <version>21.1.0</version>
@@ -200,9 +202,8 @@
       <version>25.2.0</version>
       <version>25.3.0</version>
       <version>26.0.0</version>
-      <version>19.2.2</version>
-      <version>20.2.2</version>
+      <version>21.2.2</version>
     </versions>
-    <lastUpdated>20250402224900</lastUpdated>
+    <lastUpdated>20250403142433</lastUpdated>
   </versioning>
 </metadata>

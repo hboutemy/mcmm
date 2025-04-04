@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.service.access.policy.service</artifactId>
   <versioning>
-    <latest>3.0.51</latest>
-    <release>3.0.51</release>
+    <latest>5.0.35</latest>
+    <release>5.0.35</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -141,6 +141,7 @@
       <version>3.0.48</version>
       <version>3.0.49</version>
       <version>3.0.50</version>
+      <version>3.0.51</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -186,6 +187,7 @@
       <version>4.0.42</version>
       <version>4.0.43</version>
       <version>4.0.44</version>
+      <version>4.0.45</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -272,9 +274,8 @@
       <version>6.0.48</version>
       <version>6.0.49</version>
       <version>6.0.50</version>
-      <version>4.0.45</version>
-      <version>3.0.51</version>
+      <version>5.0.35</version>
     </versions>
-    <lastUpdated>20250402213945</lastUpdated>
+    <lastUpdated>20250403121142</lastUpdated>
   </versioning>
 </metadata>

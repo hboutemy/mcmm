@@ -12,7 +12,7 @@
       <artifactId>maven-helper-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Maven License Plugin</name>
+      <name>Plugin maven de changement de license</name>
       <prefix>license</prefix>
       <artifactId>maven-license-plugin</artifactId>
     </plugin>

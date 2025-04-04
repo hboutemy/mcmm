@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portlet.configuration.web</artifactId>
   <versioning>
-    <latest>3.0.70</latest>
-    <release>3.0.70</release>
+    <latest>4.0.57</latest>
+    <release>4.0.57</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -158,6 +158,7 @@
       <version>2.0.69</version>
       <version>2.0.70</version>
       <version>2.0.71</version>
+      <version>2.0.72</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -228,6 +229,7 @@
       <version>3.0.67</version>
       <version>3.0.68</version>
       <version>3.0.69</version>
+      <version>3.0.70</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -376,9 +378,8 @@
       <version>5.0.88</version>
       <version>5.0.89</version>
       <version>5.0.90</version>
-      <version>2.0.72</version>
-      <version>3.0.70</version>
+      <version>4.0.57</version>
     </versions>
-    <lastUpdated>20250402213954</lastUpdated>
+    <lastUpdated>20250403135658</lastUpdated>
   </versioning>
 </metadata>

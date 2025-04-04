@@ -3,8 +3,8 @@
   <groupId>org.wildfly.glow</groupId>
   <artifactId>wildfly-glow-openshift-deployment-postgresql</artifactId>
   <versioning>
-    <latest>1.4.0.Final</latest>
-    <release>1.4.0.Final</release>
+    <latest>1.4.1.Final</latest>
+    <release>1.4.1.Final</release>
     <versions>
       <version>1.0.0.Beta10</version>
       <version>1.0.0.Beta11</version>
@@ -27,7 +27,8 @@
       <version>1.3.2.Final</version>
       <version>1.3.3.Final</version>
       <version>1.4.0.Final</version>
+      <version>1.4.1.Final</version>
     </versions>
-    <lastUpdated>20250325115208</lastUpdated>
+    <lastUpdated>20250403095018</lastUpdated>
   </versioning>
 </metadata>

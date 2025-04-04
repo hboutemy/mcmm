@@ -3,8 +3,8 @@
   <groupId>org.jboss.weld.servlet</groupId>
   <artifactId>weld-servlet-core</artifactId>
   <versioning>
-    <latest>6.0.1.Final</latest>
-    <release>6.0.1.Final</release>
+    <latest>6.0.2.Final</latest>
+    <release>6.0.2.Final</release>
     <versions>
       <version>1.1.0.Beta1</version>
       <version>1.1.0.Beta2</version>
@@ -208,7 +208,8 @@
       <version>6.0.0.CR2</version>
       <version>6.0.0.Final</version>
       <version>6.0.1.Final</version>
+      <version>6.0.2.Final</version>
     </versions>
-    <lastUpdated>20250218162111</lastUpdated>
+    <lastUpdated>20250403131925</lastUpdated>
   </versioning>
 </metadata>

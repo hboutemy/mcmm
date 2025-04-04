@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-undertow-spring-security-starter</artifactId>
   <versioning>
-    <latest>4.10.3</latest>
-    <release>4.10.3</release>
+    <latest>4.11.0</latest>
+    <release>4.11.0</release>
     <versions>
       <version>3.3.0</version>
       <version>3.4.0</version>
@@ -117,7 +117,8 @@
       <version>4.10.1</version>
       <version>4.10.2</version>
       <version>4.10.3</version>
+      <version>4.11.0</version>
     </versions>
-    <lastUpdated>20250401064356</lastUpdated>
+    <lastUpdated>20250403083220</lastUpdated>
   </versioning>
 </metadata>

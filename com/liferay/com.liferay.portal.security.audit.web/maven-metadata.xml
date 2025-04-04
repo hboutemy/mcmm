@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.audit.web</artifactId>
   <versioning>
@@ -20,6 +20,7 @@
       <version>3.0.15</version>
       <version>3.0.16</version>
       <version>3.0.17</version>
+      <version>3.0.18</version>
       <version>4.0.13</version>
       <version>4.0.14</version>
       <version>4.0.15</version>
@@ -63,6 +64,6 @@
       <version>5.0.34</version>
       <version>5.0.35</version>
     </versions>
-    <lastUpdated>20250115123250</lastUpdated>
+    <lastUpdated>20250403095443</lastUpdated>
   </versioning>
 </metadata>

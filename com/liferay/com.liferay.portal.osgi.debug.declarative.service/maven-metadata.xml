@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.osgi.debug.declarative.service</artifactId>
   <versioning>
-    <latest>2.0.24</latest>
-    <release>2.0.24</release>
+    <latest>5.0.15</latest>
+    <release>5.0.15</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -54,6 +54,7 @@
       <version>2.0.21</version>
       <version>2.0.22</version>
       <version>2.0.23</version>
+      <version>2.0.24</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -77,6 +78,7 @@
       <version>3.0.20</version>
       <version>3.0.21</version>
       <version>3.0.22</version>
+      <version>3.0.23</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -98,6 +100,7 @@
       <version>4.0.18</version>
       <version>4.0.19</version>
       <version>4.0.20</version>
+      <version>4.0.21</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -114,9 +117,7 @@
       <version>5.0.13</version>
       <version>5.0.14</version>
       <version>5.0.15</version>
-      <version>3.0.23</version>
-      <version>2.0.24</version>
     </versions>
-    <lastUpdated>20250402200402</lastUpdated>
+    <lastUpdated>20250403113848</lastUpdated>
   </versioning>
 </metadata>

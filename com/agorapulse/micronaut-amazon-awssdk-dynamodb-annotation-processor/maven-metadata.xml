@@ -3,8 +3,8 @@
   <groupId>com.agorapulse</groupId>
   <artifactId>micronaut-amazon-awssdk-dynamodb-annotation-processor</artifactId>
   <versioning>
-    <latest>3.3.11</latest>
-    <release>3.3.11</release>
+    <latest>3.4.0</latest>
+    <release>3.4.0</release>
     <versions>
       <version>1.7.3-micronaut-1.0</version>
       <version>1.7.3-micronaut-2.0</version>
@@ -119,7 +119,8 @@
       <version>3.3.9</version>
       <version>3.3.10</version>
       <version>3.3.11</version>
+      <version>3.4.0</version>
     </versions>
-    <lastUpdated>20250314101954</lastUpdated>
+    <lastUpdated>20250403140344</lastUpdated>
   </versioning>
 </metadata>
