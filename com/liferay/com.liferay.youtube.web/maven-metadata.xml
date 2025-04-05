@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.youtube.web</artifactId>
   <versioning>
-    <latest>4.0.42</latest>
-    <release>4.0.42</release>
+    <latest>5.0.19</latest>
+    <release>5.0.19</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -170,6 +170,7 @@
       <version>4.0.39</version>
       <version>4.0.40</version>
       <version>4.0.41</version>
+      <version>4.0.42</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -190,8 +191,7 @@
       <version>5.0.17</version>
       <version>5.0.18</version>
       <version>5.0.19</version>
-      <version>4.0.42</version>
     </versions>
-    <lastUpdated>20250403125409</lastUpdated>
+    <lastUpdated>20250404085748</lastUpdated>
   </versioning>
 </metadata>

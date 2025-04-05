@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.vldap.server</artifactId>
   <versioning>
-    <latest>4.0.23</latest>
-    <release>4.0.23</release>
+    <latest>5.0.19</latest>
+    <release>5.0.19</release>
     <versions>
       <version>1.0.15</version>
       <version>1.0.16</version>
@@ -39,6 +39,7 @@
       <version>4.0.20</version>
       <version>4.0.21</version>
       <version>4.0.22</version>
+      <version>4.0.23</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -59,8 +60,7 @@
       <version>5.0.17</version>
       <version>5.0.18</version>
       <version>5.0.19</version>
-      <version>4.0.23</version>
     </versions>
-    <lastUpdated>20250403172121</lastUpdated>
+    <lastUpdated>20250404102946</lastUpdated>
   </versioning>
 </metadata>

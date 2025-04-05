@@ -3,8 +3,8 @@
   <groupId>org.wildfly.arquillian</groupId>
   <artifactId>wildfly-arquillian-container-bootable</artifactId>
   <versioning>
-    <latest>5.1.0.Beta10</latest>
-    <release>5.1.0.Beta10</release>
+    <latest>5.1.0.Beta11</latest>
+    <release>5.1.0.Beta11</release>
     <versions>
       <version>3.0.0.Beta1</version>
       <version>3.0.0.Beta2</version>
@@ -36,9 +36,10 @@
       <version>5.1.0.Beta8</version>
       <version>5.1.0.Beta9</version>
       <version>5.1.0.Beta10</version>
+      <version>5.1.0.Beta11</version>
       <version>4.0.0.Final</version>
       <version>5.0.0.Final</version>
     </versions>
-    <lastUpdated>20250314221515</lastUpdated>
+    <lastUpdated>20250404194307</lastUpdated>
   </versioning>
 </metadata>

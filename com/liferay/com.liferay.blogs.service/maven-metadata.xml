@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.blogs.service</artifactId>
   <versioning>
-    <latest>4.0.57</latest>
-    <release>4.0.57</release>
+    <latest>5.0.98</latest>
+    <release>5.0.98</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -260,6 +260,7 @@
       <version>4.0.54</version>
       <version>4.0.55</version>
       <version>4.0.56</version>
+      <version>4.0.57</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -359,8 +360,7 @@
       <version>5.0.96</version>
       <version>5.0.97</version>
       <version>5.0.98</version>
-      <version>4.0.57</version>
     </versions>
-    <lastUpdated>20250403130231</lastUpdated>
+    <lastUpdated>20250404112653</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.adaptive.media.image.content.transformer</artifactId>
   <versioning>
-    <latest>4.0.12</latest>
-    <release>4.0.12</release>
+    <latest>5.0.11</latest>
+    <release>5.0.11</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -51,6 +51,7 @@
       <version>4.0.9</version>
       <version>4.0.10</version>
       <version>4.0.11</version>
+      <version>4.0.12</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -63,8 +64,7 @@
       <version>5.0.9</version>
       <version>5.0.10</version>
       <version>5.0.11</version>
-      <version>4.0.12</version>
     </versions>
-    <lastUpdated>20250403112815</lastUpdated>
+    <lastUpdated>20250404105703</lastUpdated>
   </versioning>
 </metadata>

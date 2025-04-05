@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.lang</artifactId>
   <versioning>
-    <latest>3.0.116</latest>
-    <release>3.0.116</release>
+    <latest>4.0.21</latest>
+    <release>4.0.21</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -337,6 +337,7 @@
       <version>3.0.113</version>
       <version>3.0.114</version>
       <version>3.0.115</version>
+      <version>3.0.116</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -359,8 +360,7 @@
       <version>4.0.19</version>
       <version>4.0.20</version>
       <version>4.0.21</version>
-      <version>3.0.116</version>
     </versions>
-    <lastUpdated>20250403092106</lastUpdated>
+    <lastUpdated>20250404083244</lastUpdated>
   </versioning>
 </metadata>

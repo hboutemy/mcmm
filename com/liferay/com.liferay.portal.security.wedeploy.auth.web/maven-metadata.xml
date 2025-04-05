@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.security.wedeploy.auth.web</artifactId>
   <versioning>
-    <latest>4.0.39</latest>
-    <release>4.0.39</release>
+    <latest>5.0.24</latest>
+    <release>5.0.24</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -154,6 +154,7 @@
       <version>4.0.36</version>
       <version>4.0.37</version>
       <version>4.0.38</version>
+      <version>4.0.39</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -179,8 +180,7 @@
       <version>5.0.22</version>
       <version>5.0.23</version>
       <version>5.0.24</version>
-      <version>4.0.39</version>
     </versions>
-    <lastUpdated>20250403124545</lastUpdated>
+    <lastUpdated>20250404090931</lastUpdated>
   </versioning>
 </metadata>

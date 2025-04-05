@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.commerce</groupId>
   <artifactId>com.liferay.commerce.notification.service</artifactId>
   <versioning>
-    <latest>3.0.32</latest>
-    <release>3.0.32</release>
+    <latest>4.0.68</latest>
+    <release>4.0.68</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -119,6 +119,7 @@
       <version>3.0.29</version>
       <version>3.0.30</version>
       <version>3.0.31</version>
+      <version>3.0.32</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -188,8 +189,7 @@
       <version>4.0.66</version>
       <version>4.0.67</version>
       <version>4.0.68</version>
-      <version>3.0.32</version>
     </versions>
-    <lastUpdated>20250403102808</lastUpdated>
+    <lastUpdated>20250404082623</lastUpdated>
   </versioning>
 </metadata>

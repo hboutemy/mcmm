@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-encrypt</artifactId>
   <versioning>
-    <latest>8.7.2-20250401</latest>
-    <release>8.7.2-20250401</release>
+    <latest>8.7.2-20250404</latest>
+    <release>8.7.2-20250404</release>
     <versions>
       <version>8.6.1-20221123</version>
       <version>8.6.1-20221129</version>
@@ -226,6 +226,7 @@
       <version>8.7.2-jdk11-20250108</version>
       <version>8.7.2-jdk11-20250212</version>
       <version>8.7.2-jdk11-20250312</version>
+      <version>8.7.2-jdk11-20250404</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
@@ -295,6 +296,7 @@
       <version>8.7.2-jdk17-20250109</version>
       <version>8.7.2-jdk17-20250212</version>
       <version>8.7.2-jdk17-20250312</version>
+      <version>8.7.2-jdk17-20250404</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -368,6 +370,7 @@
       <version>8.7.2-jdk21-20250212</version>
       <version>8.7.2-jdk21-20250225</version>
       <version>8.7.2-jdk21-20250312</version>
+      <version>8.7.2-jdk21-20250404</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
       <version>8.7.2-20240501</version>
@@ -462,7 +465,8 @@
       <version>8.7.2-20250225</version>
       <version>8.7.2-20250312</version>
       <version>8.7.2-20250401</version>
+      <version>8.7.2-20250404</version>
     </versions>
-    <lastUpdated>20250401161307</lastUpdated>
+    <lastUpdated>20250404083547</lastUpdated>
   </versioning>
 </metadata>
