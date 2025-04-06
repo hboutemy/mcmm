@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security.elytron-web</groupId>
   <artifactId>undertow-server</artifactId>
   <versioning>
-    <latest>4.1.0.Final</latest>
-    <release>4.1.0.Final</release>
+    <latest>4.1.1.Final</latest>
+    <release>4.1.1.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -68,6 +68,7 @@
       <version>1.9.2.Final</version>
       <version>1.9.3.Final</version>
       <version>1.9.4.Final</version>
+      <version>1.9.5.Final</version>
       <version>1.10.0.Final</version>
       <version>1.10.1.Final</version>
       <version>1.10.2.Final</version>
@@ -85,8 +86,10 @@
       <version>3.0.1.Final</version>
       <version>4.0.0.Final</version>
       <version>4.0.1.Final</version>
+      <version>4.0.2.Final</version>
       <version>4.1.0.Final</version>
+      <version>4.1.1.Final</version>
     </versions>
-    <lastUpdated>20240315152336</lastUpdated>
+    <lastUpdated>20250405145122</lastUpdated>
   </versioning>
 </metadata>
