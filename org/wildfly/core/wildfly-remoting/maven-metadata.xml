@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-remoting</artifactId>
   <versioning>
-    <latest>28.0.0.Beta6</latest>
-    <release>28.0.0.Beta6</release>
+    <latest>28.0.0.Final</latest>
+    <release>28.0.0.Final</release>
     <versions>
       <version>1.0.0.Alpha1</version>
       <version>1.0.0.Alpha2</version>
@@ -405,7 +405,8 @@
       <version>28.0.0.Beta4</version>
       <version>28.0.0.Beta5</version>
       <version>28.0.0.Beta6</version>
+      <version>28.0.0.Final</version>
     </versions>
-    <lastUpdated>20250327104800</lastUpdated>
+    <lastUpdated>20250407090049</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.yahoo.vespa</groupId>
   <artifactId>zookeeper-command-line-client</artifactId>
   <versioning>
-    <latest>8.504.27</latest>
-    <release>8.504.27</release>
+    <latest>8.507.34</latest>
+    <release>8.507.34</release>
     <versions>
       <version>7.112.6</version>
       <version>7.113.28</version>
@@ -736,7 +736,9 @@
       <version>8.502.19</version>
       <version>8.503.27</version>
       <version>8.504.27</version>
+      <version>8.506.13</version>
+      <version>8.507.34</version>
     </versions>
-    <lastUpdated>20250331115347</lastUpdated>
+    <lastUpdated>20250407113322</lastUpdated>
   </versioning>
 </metadata>

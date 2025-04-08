@@ -3,8 +3,8 @@
   <groupId>org.wildfly.core</groupId>
   <artifactId>wildfly-discovery</artifactId>
   <versioning>
-    <latest>28.0.0.Beta6</latest>
-    <release>28.0.0.Beta6</release>
+    <latest>28.0.0.Final</latest>
+    <release>28.0.0.Final</release>
     <versions>
       <version>3.0.0.Alpha12</version>
       <version>3.0.0.Alpha13</version>
@@ -302,7 +302,8 @@
       <version>28.0.0.Beta4</version>
       <version>28.0.0.Beta5</version>
       <version>28.0.0.Beta6</version>
+      <version>28.0.0.Final</version>
     </versions>
-    <lastUpdated>20250327104757</lastUpdated>
+    <lastUpdated>20250407090046</lastUpdated>
   </versioning>
 </metadata>
