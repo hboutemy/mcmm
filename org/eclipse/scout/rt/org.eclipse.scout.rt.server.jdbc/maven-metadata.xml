@@ -3,8 +3,8 @@
   <groupId>org.eclipse.scout.rt</groupId>
   <artifactId>org.eclipse.scout.rt.server.jdbc</artifactId>
   <versioning>
-    <latest>25.1.3</latest>
-    <release>25.1.3</release>
+    <latest>25.1.6</latest>
+    <release>25.1.6</release>
     <versions>
       <version>5.2.0.M4</version>
       <version>5.2.0.M5</version>
@@ -228,9 +228,10 @@
       <version>25.1.0-beta.5</version>
       <version>25.1.1</version>
       <version>25.1.3</version>
+      <version>25.1.6</version>
       <version>6.0.0.M6_RelengTest</version>
       <version>6.0.0.M6_RelengTest3</version>
     </versions>
-    <lastUpdated>20250304201347</lastUpdated>
+    <lastUpdated>20250408114811</lastUpdated>
   </versioning>
 </metadata>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.portal.impl</artifactId>
   <versioning>
@@ -726,6 +726,7 @@
       <version>3.70.0</version>
       <version>3.71.0</version>
       <version>3.71.1</version>
+      <version>3.71.2</version>
       <version>4.0.0</version>
       <version>4.0.1</version>
       <version>4.0.2</version>
@@ -1014,6 +1015,7 @@
       <version>4.47.0</version>
       <version>4.49.0</version>
       <version>4.50.0</version>
+      <version>4.50.1</version>
       <version>5.0.0</version>
       <version>5.0.1</version>
       <version>5.0.2</version>
@@ -1276,6 +1278,7 @@
       <version>5.54.0</version>
       <version>5.55.0</version>
       <version>5.55.1</version>
+      <version>5.55.2</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
       <version>6.0.2</version>
@@ -1616,10 +1619,7 @@
       <version>110.0.3</version>
       <version>111.0.0</version>
       <version>111.0.1</version>
-      <version>3.71.2</version>
-      <version>5.55.2</version>
-      <version>4.50.1</version>
     </versions>
-    <lastUpdated>20250407131436</lastUpdated>
+    <lastUpdated>20250408100601</lastUpdated>
   </versioning>
 </metadata>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.liferay.plugins</groupId>
   <artifactId>powwow-portlet</artifactId>
   <versioning>
-    <latest>7.2.10.72</latest>
-    <release>7.2.10.72</release>
+    <latest>7.4.10.2</latest>
+    <release>7.4.10.2</release>
     <versions>
       <version>7.0.0.1</version>
       <version>7.0.0.2</version>
@@ -207,6 +207,7 @@
       <version>7.1.10.92</version>
       <version>7.1.10.93</version>
       <version>7.1.10.94</version>
+      <version>7.1.10.95</version>
       <version>7.2.0.1</version>
       <version>7.2.0.2</version>
       <version>7.2.0.3</version>
@@ -278,6 +279,7 @@
       <version>7.2.10.69</version>
       <version>7.2.10.70</version>
       <version>7.2.10.71</version>
+      <version>7.2.10.72</version>
       <version>7.3.10.1</version>
       <version>7.3.10.2</version>
       <version>7.3.10.3</version>
@@ -341,12 +343,10 @@
       <version>7.3.10.61</version>
       <version>7.3.10.62</version>
       <version>7.3.10.63</version>
+      <version>7.3.10.64</version>
       <version>7.4.10.1</version>
       <version>7.4.10.2</version>
-      <version>7.1.10.95</version>
-      <version>7.3.10.64</version>
-      <version>7.2.10.72</version>
     </versions>
-    <lastUpdated>20250407134351</lastUpdated>
+    <lastUpdated>20250408103240</lastUpdated>
   </versioning>
 </metadata>
