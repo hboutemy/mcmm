@@ -3,8 +3,8 @@
   <groupId>io.ebean</groupId>
   <artifactId>ebean-jackson-mapper</artifactId>
   <versioning>
-    <latest>17.0.0-beta1</latest>
-    <release>17.0.0-beta1</release>
+    <latest>17.0.0-RC1</latest>
+    <release>17.0.0-RC1</release>
     <versions>
       <version>13.10.0</version>
       <version>13.10.1</version>
@@ -134,8 +134,10 @@
       <version>15.10.0</version>
       <version>15.11.0</version>
       <version>16.0.0-beta1</version>
+      <version>16.0.0-rc1</version>
       <version>17.0.0-beta1</version>
+      <version>17.0.0-RC1</version>
     </versions>
-    <lastUpdated>20250403055813</lastUpdated>
+    <lastUpdated>20250409115721</lastUpdated>
   </versioning>
 </metadata>
