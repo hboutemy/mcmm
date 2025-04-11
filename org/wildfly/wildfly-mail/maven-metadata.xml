@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-mail</artifactId>
   <versioning>
-    <latest>36.0.0.Beta1</latest>
-    <release>36.0.0.Beta1</release>
+    <latest>36.0.0.Final</latest>
+    <release>36.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
@@ -136,7 +136,8 @@
       <version>35.0.0.Final</version>
       <version>35.0.1.Final</version>
       <version>36.0.0.Beta1</version>
+      <version>36.0.0.Final</version>
     </versions>
-    <lastUpdated>20250326174123</lastUpdated>
+    <lastUpdated>20250409221947</lastUpdated>
   </versioning>
 </metadata>

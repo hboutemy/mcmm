@@ -3,12 +3,14 @@
   <groupId>org.echocat.maven.plugins</groupId>
   <artifactId>hugo-maven-plugin</artifactId>
   <versioning>
-    <latest>0.2.17</latest>
-    <release>0.2.17</release>
+    <latest>0.2.19</latest>
+    <release>0.2.19</release>
     <versions>
       <version>0.2.15</version>
       <version>0.2.16</version>
       <version>0.2.17</version>
+      <version>0.2.18</version>
+      <version>0.2.19</version>
       <version>0.2.1</version>
       <version>0.2.10</version>
       <version>0.2.11</version>
@@ -23,6 +25,6 @@
       <version>0.2.8</version>
       <version>0.2.9</version>
     </versions>
-    <lastUpdated>20250107095923</lastUpdated>
+    <lastUpdated>20250410180112</lastUpdated>
   </versioning>
 </metadata>

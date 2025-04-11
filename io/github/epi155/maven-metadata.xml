@@ -7,6 +7,11 @@
       <artifactId>emsql-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Batch Utilities (pgm generator, up to 250 ouput)</name>
+      <prefix>promethium-batch-pgm</prefix>
+      <artifactId>promethium-batch-pgm-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>record fixed format plugin</name>
       <prefix>recfm</prefix>
       <artifactId>recfm-maven-plugin</artifactId>

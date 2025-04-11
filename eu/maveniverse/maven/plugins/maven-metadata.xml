@@ -12,6 +12,11 @@
       <artifactId>nisse-plugin3</artifactId>
     </plugin>
     <plugin>
+      <name>eu.maveniverse.maven.plugins:njord</name>
+      <prefix>njord</prefix>
+      <artifactId>njord</artifactId>
+    </plugin>
+    <plugin>
       <name>${project.groupId}:${project.artifactId}</name>
       <prefix>toolbox</prefix>
       <artifactId>toolbox</artifactId>

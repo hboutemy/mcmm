@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.instrumentation</groupId>
   <artifactId>opentelemetry-rocketmq-client-4.8</artifactId>
   <versioning>
-    <latest>2.14.0-alpha</latest>
-    <release>2.14.0-alpha</release>
+    <latest>2.15.0-alpha</latest>
+    <release>2.15.0-alpha</release>
     <versions>
       <version>1.1.0-alpha</version>
       <version>1.2.0-alpha</version>
@@ -85,7 +85,8 @@
       <version>2.13.2-alpha</version>
       <version>2.13.3-alpha</version>
       <version>2.14.0-alpha</version>
+      <version>2.15.0-alpha</version>
     </versions>
-    <lastUpdated>20250314012739</lastUpdated>
+    <lastUpdated>20250410221608</lastUpdated>
   </versioning>
 </metadata>

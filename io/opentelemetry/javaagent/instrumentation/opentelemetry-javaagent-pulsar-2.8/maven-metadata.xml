@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-pulsar-2.8</artifactId>
   <versioning>
-    <latest>2.14.0-alpha</latest>
-    <release>2.14.0-alpha</release>
+    <latest>2.15.0-alpha</latest>
+    <release>2.15.0-alpha</release>
     <versions>
       <version>1.25.1-alpha</version>
       <version>1.26.0-alpha</version>
@@ -40,7 +40,8 @@
       <version>2.13.2-alpha</version>
       <version>2.13.3-alpha</version>
       <version>2.14.0-alpha</version>
+      <version>2.15.0-alpha</version>
     </versions>
-    <lastUpdated>20250314013612</lastUpdated>
+    <lastUpdated>20250410222351</lastUpdated>
   </versioning>
 </metadata>
