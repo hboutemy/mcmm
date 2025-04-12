@@ -21,5 +21,10 @@
       <prefix>regex</prefix>
       <artifactId>regex-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Regular Expression Maven Plugin</name>
+      <prefix>xpath</prefix>
+      <artifactId>xpath-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

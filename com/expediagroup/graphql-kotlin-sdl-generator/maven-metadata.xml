@@ -3,8 +3,8 @@
   <groupId>com.expediagroup</groupId>
   <artifactId>graphql-kotlin-sdl-generator</artifactId>
   <versioning>
-    <latest>8.4.0</latest>
-    <release>8.4.0</release>
+    <latest>8.5.0</latest>
+    <release>8.5.0</release>
     <versions>
       <version>4.0.0-alpha.11</version>
       <version>4.0.0-alpha.12</version>
@@ -73,6 +73,7 @@
       <version>6.8.4</version>
       <version>6.8.5</version>
       <version>6.9.0</version>
+      <version>6.10.0</version>
       <version>7.0.0-alpha.0</version>
       <version>7.0.0-alpha.2</version>
       <version>7.0.0-alpha.3</version>
@@ -92,6 +93,7 @@
       <version>7.2.0</version>
       <version>7.2.1</version>
       <version>7.2.2</version>
+      <version>7.3.0</version>
       <version>8.0.0-alpha.1</version>
       <version>8.0.0-alpha.3</version>
       <version>8.0.0-alpha.6</version>
@@ -102,7 +104,8 @@
       <version>8.2.1</version>
       <version>8.3.0</version>
       <version>8.4.0</version>
+      <version>8.5.0</version>
     </versions>
-    <lastUpdated>20250318214552</lastUpdated>
+    <lastUpdated>20250411222005</lastUpdated>
   </versioning>
 </metadata>

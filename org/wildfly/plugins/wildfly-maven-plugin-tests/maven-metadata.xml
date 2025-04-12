@@ -3,8 +3,8 @@
   <groupId>org.wildfly.plugins</groupId>
   <artifactId>wildfly-maven-plugin-tests</artifactId>
   <versioning>
-    <latest>5.1.2.Final</latest>
-    <release>5.1.2.Final</release>
+    <latest>5.1.3.Final</latest>
+    <release>5.1.3.Final</release>
     <versions>
       <version>3.0.0.Alpha2</version>
       <version>3.0.0.Alpha3</version>
@@ -44,10 +44,11 @@
       <version>5.1.0.Final</version>
       <version>5.1.1.Final</version>
       <version>5.1.2.Final</version>
+      <version>5.1.3.Final</version>
       <version>4.1.0.Beta6</version>
       <version>4.1.0.Final</version>
       <version>5.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20250206222005</lastUpdated>
+    <lastUpdated>20250411203255</lastUpdated>
   </versioning>
 </metadata>

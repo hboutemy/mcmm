@@ -3,8 +3,8 @@
   <groupId>com.netflix.spectator</groupId>
   <artifactId>spectator-web-spring</artifactId>
   <versioning>
-    <latest>1.8.9</latest>
-    <release>1.8.9</release>
+    <latest>1.8.10</latest>
+    <release>1.8.10</release>
     <versions>
       <version>0.41.0</version>
       <version>0.42.0-rc.1</version>
@@ -200,7 +200,8 @@
       <version>1.8.7</version>
       <version>1.8.8</version>
       <version>1.8.9</version>
+      <version>1.8.10</version>
     </versions>
-    <lastUpdated>20250404002417</lastUpdated>
+    <lastUpdated>20250411130506</lastUpdated>
   </versioning>
 </metadata>
