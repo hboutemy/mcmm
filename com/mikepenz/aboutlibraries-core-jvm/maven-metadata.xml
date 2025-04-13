@@ -3,8 +3,8 @@
   <groupId>com.mikepenz</groupId>
   <artifactId>aboutlibraries-core-jvm</artifactId>
   <versioning>
-    <latest>12.0.0-b02</latest>
-    <release>12.0.0-b02</release>
+    <latest>12.0.0-b03compose_1_8-2</latest>
+    <release>12.0.0-b03compose_1_8-2</release>
     <versions>
       <version>10.0.0-a01</version>
       <version>10.0.0-a02</version>
@@ -89,8 +89,11 @@
       <version>12.0.0-a04</version>
       <version>12.0.0-a05</version>
       <version>12.0.0-b02</version>
+      <version>12.0.0-b03</version>
       <version>12.0.0-a02+compose_1_8</version>
+      <version>12.0.0-b03+compose_1_8</version>
+      <version>12.0.0-b03+compose_1_8-2</version>
     </versions>
-    <lastUpdated>20250405093203</lastUpdated>
+    <lastUpdated>20250412191755</lastUpdated>
   </versioning>
 </metadata>
