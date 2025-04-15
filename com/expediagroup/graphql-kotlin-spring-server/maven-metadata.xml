@@ -3,8 +3,8 @@
   <groupId>com.expediagroup</groupId>
   <artifactId>graphql-kotlin-spring-server</artifactId>
   <versioning>
-    <latest>8.5.0</latest>
-    <release>8.5.0</release>
+    <latest>9.0.0-alpha.4</latest>
+    <release>9.0.0-alpha.4</release>
     <versions>
       <version>1.0.0-RC7</version>
       <version>1.0.0-RC8</version>
@@ -169,7 +169,9 @@
       <version>8.3.0</version>
       <version>8.4.0</version>
       <version>8.5.0</version>
+      <version>8.6.0</version>
+      <version>9.0.0-alpha.4</version>
     </versions>
-    <lastUpdated>20250411222009</lastUpdated>
+    <lastUpdated>20250414190720</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-apache-http-client-5</artifactId>
   <versioning>
-    <latest>8.7.0</latest>
-    <release>8.7.0</release>
+    <latest>8.8.0</latest>
+    <release>8.8.0</release>
     <versions>
       <version>4.0.0-alpha.3</version>
       <version>4.0.0-beta.1</version>
@@ -199,7 +199,8 @@
       <version>8.5.0</version>
       <version>8.6.0</version>
       <version>8.7.0</version>
+      <version>8.8.0</version>
     </versions>
-    <lastUpdated>20250408141925</lastUpdated>
+    <lastUpdated>20250414153245</lastUpdated>
   </versioning>
 </metadata>

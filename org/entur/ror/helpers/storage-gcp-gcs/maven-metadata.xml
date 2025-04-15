@@ -3,8 +3,8 @@
   <groupId>org.entur.ror.helpers</groupId>
   <artifactId>storage-gcp-gcs</artifactId>
   <versioning>
-    <latest>5.6</latest>
-    <release>5.6</release>
+    <latest>5.8</latest>
+    <release>5.8</release>
     <versions>
       <version>4.0</version>
       <version>4.1</version>
@@ -23,7 +23,9 @@
       <version>5.4</version>
       <version>5.5</version>
       <version>5.6</version>
+      <version>5.7</version>
+      <version>5.8</version>
     </versions>
-    <lastUpdated>20250407130417</lastUpdated>
+    <lastUpdated>20250414155236</lastUpdated>
   </versioning>
 </metadata>
