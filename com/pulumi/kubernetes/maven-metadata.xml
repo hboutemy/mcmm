@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>kubernetes</artifactId>
   <versioning>
-    <latest>4.22.0</latest>
-    <release>4.22.0</release>
+    <latest>4.22.2</latest>
+    <release>4.22.2</release>
     <versions>
       <version>0.0.1-alpha.100</version>
       <version>0.0.1-alpha.101</version>
@@ -389,7 +389,8 @@
       <version>4.21.0</version>
       <version>4.21.1</version>
       <version>4.22.0</version>
+      <version>4.22.2</version>
     </versions>
-    <lastUpdated>20250314023020</lastUpdated>
+    <lastUpdated>20250415185211</lastUpdated>
   </versioning>
 </metadata>

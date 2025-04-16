@@ -3,8 +3,8 @@
   <groupId>io.micrometer</groupId>
   <artifactId>micrometer-jakarta9</artifactId>
   <versioning>
-    <latest>1.15.0-M3</latest>
-    <release>1.15.0-M3</release>
+    <latest>1.15.0-RC1</latest>
+    <release>1.15.0-RC1</release>
     <versions>
       <version>1.12.0</version>
       <version>1.12.1</version>
@@ -43,7 +43,8 @@
       <version>1.14.6</version>
       <version>1.15.0-M2</version>
       <version>1.15.0-M3</version>
+      <version>1.15.0-RC1</version>
     </versions>
-    <lastUpdated>20250414031108</lastUpdated>
+    <lastUpdated>20250415044006</lastUpdated>
   </versioning>
 </metadata>

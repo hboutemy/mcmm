@@ -3,8 +3,8 @@
   <groupId>org.graalvm.tools</groupId>
   <artifactId>dap</artifactId>
   <versioning>
-    <latest>23.0.7</latest>
-    <release>23.0.7</release>
+    <latest>23.0.8</latest>
+    <release>23.0.8</release>
     <versions>
       <version>20.3.0</version>
       <version>20.3.1</version>
@@ -47,6 +47,7 @@
       <version>21.3.11</version>
       <version>21.3.12</version>
       <version>21.3.13</version>
+      <version>21.3.14</version>
       <version>22.0.0</version>
       <version>22.0.0.2</version>
       <version>22.1.0</version>
@@ -67,7 +68,8 @@
       <version>23.0.5</version>
       <version>23.0.6</version>
       <version>23.0.7</version>
+      <version>23.0.8</version>
     </versions>
-    <lastUpdated>20250121134100</lastUpdated>
+    <lastUpdated>20250415125952</lastUpdated>
   </versioning>
 </metadata>

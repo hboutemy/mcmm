@@ -26,5 +26,10 @@
       <prefix>opeo</prefix>
       <artifactId>opeo-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>sodg-maven-plugin</name>
+      <prefix>sodg</prefix>
+      <artifactId>sodg-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
