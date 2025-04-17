@@ -3,16 +3,18 @@
   <groupId>io.github.anylifezlb</groupId>
   <artifactId>FaceAISDK</artifactId>
   <versioning>
-    <latest>1.9.8.beta192108</latest>
-    <release>1.9.8.beta192108</release>
+    <latest>1.0.8.beta5</latest>
+    <release>1.0.8.beta5</release>
     <versions>
+      <version>1.0.8.beta1</version>
+      <version>1.0.8.beta5</version>
       <version>0.0.1</version>
       <version>1.0.0</version>
       <version>1.0.0.init</version>
       <version>1.8.67.FaceAISDK</version>
       <version>1.8.68</version>
-      <version>1.8.70.beta</version>
       <version>1.8.70</version>
+      <version>1.8.70.beta</version>
       <version>1.8.70.litert1</version>
       <version>1.8.70.litert2</version>
       <version>1.8.70.qddt</version>
@@ -26,19 +28,26 @@
       <version>1.8.80.oau</version>
       <version>1.8.81</version>
       <version>1.8.82</version>
-      <version>1.8.83.alpha</version>
       <version>1.8.83</version>
+      <version>1.8.83.alpha</version>
       <version>1.8.83.samton</version>
       <version>1.8.85</version>
       <version>1.8.86.camera</version>
       <version>1.8.87</version>
+      <version>1.8.90</version>
+      <version>1.8.90.alpha0205_2</version>
       <version>1.8.90.alpha1</version>
       <version>1.8.90.alpha2</version>
-      <version>1.8.90.alpha0205_2</version>
       <version>1.8.90.beta</version>
       <version>1.8.90.beta1</version>
       <version>1.8.90.beta2</version>
-      <version>1.8.90</version>
+      <version>1.9.0</version>
+      <version>1.9.0.0221</version>
+      <version>1.9.0.0223</version>
+      <version>1.9.0.0223_1</version>
+      <version>1.9.0.0225</version>
+      <version>1.9.0.RedBull</version>
+      <version>1.9.0.bd</version>
       <version>1.9.0.beta</version>
       <version>1.9.0.beta1</version>
       <version>1.9.0.beta2</version>
@@ -47,29 +56,22 @@
       <version>1.9.0.beta5</version>
       <version>1.9.0.beta6</version>
       <version>1.9.0.beta7</version>
-      <version>1.9.0</version>
-      <version>1.9.0.bd</version>
       <version>1.9.0.builPro</version>
       <version>1.9.0.htfy0227</version>
       <version>1.9.0.preview</version>
       <version>1.9.0.preview2</version>
-      <version>1.9.0.RedBull</version>
       <version>1.9.0.season</version>
-      <version>1.9.0.0221</version>
-      <version>1.9.0.0223</version>
-      <version>1.9.0.0223_1</version>
-      <version>1.9.0.0225</version>
+      <version>1.9.1</version>
       <version>1.9.1.alpha0227</version>
       <version>1.9.1.alpha0228</version>
       <version>1.9.1.beta1</version>
       <version>1.9.1.beta2</version>
       <version>1.9.1.beta3</version>
-      <version>1.9.1</version>
+      <version>1.9.2</version>
       <version>1.9.2.alpha1</version>
+      <version>1.9.2.b3</version>
       <version>1.9.2.beta1</version>
       <version>1.9.2.beta2</version>
-      <version>1.9.2.b3</version>
-      <version>1.9.2</version>
       <version>1.9.2.hcxt</version>
       <version>1.9.3</version>
       <version>1.9.3.llhm</version>
@@ -81,41 +83,42 @@
       <version>1.9.4.huit</version>
       <version>1.9.4.robot</version>
       <version>1.9.4.zjz</version>
+      <version>1.9.5</version>
       <version>1.9.5.beta</version>
       <version>1.9.5.beta1</version>
       <version>1.9.5.beta2</version>
       <version>1.9.5.beta3</version>
       <version>1.9.5.beta5</version>
       <version>1.9.5.beta6</version>
-      <version>1.9.5</version>
       <version>1.9.5.test1</version>
-      <version>1.9.6.beta</version>
       <version>1.9.6</version>
-      <version>1.9.6.htfy250326</version>
+      <version>1.9.6.beta</version>
       <version>1.9.6.htfy20250326</version>
+      <version>1.9.6.htfy250326</version>
       <version>1.9.6.nfsq20250325</version>
       <version>1.9.6.preview</version>
       <version>1.9.6.release</version>
       <version>1.9.6.st</version>
       <version>1.9.6.st2</version>
       <version>1.9.6.st3</version>
+      <version>1.9.7</version>
+      <version>1.9.7.UNI3F511F0</version>
       <version>1.9.7.alpha</version>
       <version>1.9.7.alpha2</version>
       <version>1.9.7.beta</version>
       <version>1.9.7.beta5</version>
-      <version>1.9.7</version>
       <version>1.9.7.meizy</version>
       <version>1.9.7.rea</version>
       <version>1.9.7.release</version>
       <version>1.9.7.sigapo</version>
-      <version>1.9.7.UNI3F511F0</version>
       <version>1.9.8.beta1</version>
-      <version>1.9.8.beta10_3</version>
       <version>1.9.8.beta10_25</version>
+      <version>1.9.8.beta10_3</version>
+      <version>1.9.8.beta192108</version>
+      <version>1.9.8.beta2</version>
       <version>1.9.8.beta6448</version>
       <version>1.9.8.beta9672</version>
-      <version>1.9.8.beta192108</version>
     </versions>
-    <lastUpdated>20250415112045</lastUpdated>
+    <lastUpdated>20250416154453</lastUpdated>
   </versioning>
 </metadata>

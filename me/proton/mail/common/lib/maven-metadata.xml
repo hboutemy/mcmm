@@ -3,8 +3,8 @@
   <groupId>me.proton.mail.common</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <latest>0.72.6</latest>
-    <release>0.72.6</release>
+    <latest>0.72.8</latest>
+    <release>0.72.8</release>
     <versions>
       <version>proton-mail-uniffi@0.12.0</version>
       <version>0.0.1</version>
@@ -229,7 +229,9 @@
       <version>0.72.4</version>
       <version>0.72.5</version>
       <version>0.72.6</version>
+      <version>0.72.7</version>
+      <version>0.72.8</version>
     </versions>
-    <lastUpdated>20250414152658</lastUpdated>
+    <lastUpdated>20250416153640</lastUpdated>
   </versioning>
 </metadata>
