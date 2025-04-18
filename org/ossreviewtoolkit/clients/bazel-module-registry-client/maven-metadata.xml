@@ -3,8 +3,8 @@
   <groupId>org.ossreviewtoolkit.clients</groupId>
   <artifactId>bazel-module-registry-client</artifactId>
   <versioning>
-    <latest>56.0.0</latest>
-    <release>56.0.0</release>
+    <latest>56.1.0</latest>
+    <release>56.1.0</release>
     <versions>
       <version>20.0.0</version>
       <version>20.1.0</version>
@@ -66,7 +66,8 @@
       <version>55.2.0</version>
       <version>55.3.0</version>
       <version>56.0.0</version>
+      <version>56.1.0</version>
     </versions>
-    <lastUpdated>20250415075946</lastUpdated>
+    <lastUpdated>20250417074542</lastUpdated>
   </versioning>
 </metadata>

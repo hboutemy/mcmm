@@ -3,8 +3,8 @@
   <groupId>org.xwiki.commons</groupId>
   <artifactId>xwiki-commons-legacy-configuration</artifactId>
   <versioning>
-    <latest>17.2.1</latest>
-    <release>17.2.1</release>
+    <latest>17.2.2</latest>
+    <release>17.2.2</release>
     <versions>
       <version>4.0-milestone-1</version>
       <version>4.0.1</version>
@@ -393,6 +393,7 @@
       <version>17.2.0-rc-1</version>
       <version>17.2.0</version>
       <version>17.2.1</version>
+      <version>17.2.2</version>
       <version>6.4</version>
       <version>6.4.3</version>
       <version>6.4.4</version>
@@ -496,6 +497,6 @@
       <version>9.9-rc-1</version>
       <version>9.9-rc-2</version>
     </versions>
-    <lastUpdated>20250414082506</lastUpdated>
+    <lastUpdated>20250417080743</lastUpdated>
   </versioning>
 </metadata>

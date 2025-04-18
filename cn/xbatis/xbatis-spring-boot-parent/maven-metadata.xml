@@ -3,8 +3,8 @@
   <groupId>cn.xbatis</groupId>
   <artifactId>xbatis-spring-boot-parent</artifactId>
   <versioning>
-    <latest>1.8.6-M1</latest>
-    <release>1.8.6-M1</release>
+    <latest>1.8.6-M2</latest>
+    <release>1.8.6-M2</release>
     <versions>
       <version>1.8.1-spring-boot3</version>
       <version>1.8.1</version>
@@ -20,6 +20,7 @@
       <version>1.8.5-M6</version>
       <version>1.8.5-spring-boot3</version>
       <version>1.8.6-M1</version>
+      <version>1.8.6-M2</version>
       <version>1.8.2-spring-boot3</version>
       <version>1.8.3-M1-spring-boot3</version>
       <version>1.8.3-M2</version>
@@ -32,7 +33,8 @@
       <version>1.8.5-M5-spring-boot3</version>
       <version>1.8.5-M6-spring-boot3</version>
       <version>1.8.6-M1-spring-boot3</version>
+      <version>1.8.6-M2-spring-boot3</version>
     </versions>
-    <lastUpdated>20250408023247</lastUpdated>
+    <lastUpdated>20250417063802</lastUpdated>
   </versioning>
 </metadata>
