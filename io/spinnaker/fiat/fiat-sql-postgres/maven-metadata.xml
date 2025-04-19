@@ -3,11 +3,12 @@
   <groupId>io.spinnaker.fiat</groupId>
   <artifactId>fiat-sql-postgres</artifactId>
   <versioning>
-    <latest>1.57.0</latest>
-    <release>1.57.0</release>
+    <latest>2025.0-0</latest>
+    <release>2025.0-0</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
+      <version>main-7</version>
       <version>1.27.0</version>
       <version>1.27.1</version>
       <version>1.28.0</version>
@@ -74,7 +75,9 @@
       <version>1.55.0</version>
       <version>1.56.0</version>
       <version>1.57.0</version>
+      <version>2025.0-0</version>
+      <version>2025.0.0</version>
     </versions>
-    <lastUpdated>20250415022422</lastUpdated>
+    <lastUpdated>20250418220613</lastUpdated>
   </versioning>
 </metadata>

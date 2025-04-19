@@ -3,11 +3,12 @@
   <groupId>io.spinnaker.kayenta</groupId>
   <artifactId>kayenta-integration</artifactId>
   <versioning>
-    <latest>2.46.0</latest>
-    <release>2.46.0</release>
+    <latest>2025.0-0</latest>
+    <release>2025.0-0</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
+      <version>main-7</version>
       <version>2.41.0</version>
       <version>2.41.1</version>
       <version>2.42.0</version>
@@ -18,7 +19,8 @@
       <version>2.44.2</version>
       <version>2.45.0</version>
       <version>2.46.0</version>
+      <version>2025.0-0</version>
     </versions>
-    <lastUpdated>20250415022909</lastUpdated>
+    <lastUpdated>20250418221449</lastUpdated>
   </versioning>
 </metadata>

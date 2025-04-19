@@ -3,11 +3,12 @@
   <groupId>io.spinnaker.orca</groupId>
   <artifactId>orca-sql</artifactId>
   <versioning>
-    <latest>8.64.0</latest>
-    <release>8.64.0</release>
+    <latest>2025.0-0</latest>
+    <release>2025.0-0</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
+      <version>main-7</version>
       <version>8.15.0</version>
       <version>8.16.0</version>
       <version>8.17.1</version>
@@ -99,7 +100,8 @@
       <version>8.62.0</version>
       <version>8.63.0</version>
       <version>8.64.0</version>
+      <version>2025.0-0</version>
     </versions>
-    <lastUpdated>20250415023150</lastUpdated>
+    <lastUpdated>20250418221522</lastUpdated>
   </versioning>
 </metadata>

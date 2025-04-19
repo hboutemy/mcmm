@@ -3,11 +3,12 @@
   <groupId>io.spinnaker.igor</groupId>
   <artifactId>igor-web</artifactId>
   <versioning>
-    <latest>4.22.0</latest>
-    <release>4.22.0</release>
+    <latest>2025.0-0</latest>
+    <release>2025.0-0</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
+      <version>main-7</version>
       <version>version-1.18.0</version>
       <version>4.5.0</version>
       <version>4.5.1</version>
@@ -63,7 +64,9 @@
       <version>4.20.0</version>
       <version>4.21.0</version>
       <version>4.22.0</version>
+      <version>2025.0-0</version>
+      <version>2025.0.0</version>
     </versions>
-    <lastUpdated>20250415022559</lastUpdated>
+    <lastUpdated>20250418220717</lastUpdated>
   </versioning>
 </metadata>
