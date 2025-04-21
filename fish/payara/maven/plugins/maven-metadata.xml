@@ -11,5 +11,10 @@
       <prefix>payara-micro</prefix>
       <artifactId>payara-micro-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Payara Server Maven Plugin</name>
+      <prefix>payara-server</prefix>
+      <artifactId>payara-server-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
