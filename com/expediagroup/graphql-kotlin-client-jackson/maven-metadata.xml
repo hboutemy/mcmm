@@ -3,8 +3,8 @@
   <groupId>com.expediagroup</groupId>
   <artifactId>graphql-kotlin-client-jackson</artifactId>
   <versioning>
-    <latest>9.0.0-alpha.4</latest>
-    <release>9.0.0-alpha.4</release>
+    <latest>9.0.0-alpha.5</latest>
+    <release>9.0.0-alpha.5</release>
     <versions>
       <version>4.0.0-alpha.15</version>
       <version>4.0.0-alpha.16</version>
@@ -70,6 +70,7 @@
       <version>6.8.5</version>
       <version>6.9.0</version>
       <version>6.10.0</version>
+      <version>6.10.1</version>
       <version>7.0.0-alpha.0</version>
       <version>7.0.0-alpha.2</version>
       <version>7.0.0-alpha.3</version>
@@ -90,6 +91,7 @@
       <version>7.2.1</version>
       <version>7.2.2</version>
       <version>7.3.0</version>
+      <version>7.3.1</version>
       <version>8.0.0-alpha.1</version>
       <version>8.0.0-alpha.3</version>
       <version>8.0.0-alpha.6</version>
@@ -102,8 +104,10 @@
       <version>8.4.0</version>
       <version>8.5.0</version>
       <version>8.6.0</version>
+      <version>8.6.1</version>
       <version>9.0.0-alpha.4</version>
+      <version>9.0.0-alpha.5</version>
     </versions>
-    <lastUpdated>20250414190655</lastUpdated>
+    <lastUpdated>20250423213856</lastUpdated>
   </versioning>
 </metadata>

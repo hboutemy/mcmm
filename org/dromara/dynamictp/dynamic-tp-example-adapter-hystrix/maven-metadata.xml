@@ -3,8 +3,8 @@
   <groupId>org.dromara.dynamictp</groupId>
   <artifactId>dynamic-tp-example-adapter-hystrix</artifactId>
   <versioning>
-    <latest>1.2.1-beta-x</latest>
-    <release>1.2.1-beta-x</release>
+    <latest>1.2.1</latest>
+    <release>1.2.1</release>
     <versions>
       <version>1.0.8-beta</version>
       <version>1.0.9-beta</version>
@@ -37,7 +37,9 @@
       <version>1.2.0-x</version>
       <version>1.2.1-beta</version>
       <version>1.2.1-beta-x</version>
+      <version>1.2.1</version>
+      <version>1.2.1-x</version>
     </versions>
-    <lastUpdated>20250422144359</lastUpdated>
+    <lastUpdated>20250423154442</lastUpdated>
   </versioning>
 </metadata>

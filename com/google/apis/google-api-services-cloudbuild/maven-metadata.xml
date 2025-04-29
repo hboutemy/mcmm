@@ -3,8 +3,8 @@
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-cloudbuild</artifactId>
   <versioning>
-    <latest>v2-rev20250321-2.0.0</latest>
-    <release>v2-rev20250321-2.0.0</release>
+    <latest>v2-rev20250418-2.0.0</latest>
+    <release>v2-rev20250418-2.0.0</release>
     <versions>
       <version>v1alpha1-rev20210511-1.31.5</version>
       <version>v1alpha1-rev20210625-1.31.5</version>
@@ -148,6 +148,7 @@
       <version>v1-rev20250114-2.0.0</version>
       <version>v1-rev20250211-2.0.0</version>
       <version>v1-rev20250303-2.0.0</version>
+      <version>v1-rev20250418-2.0.0</version>
       <version>v2-rev20230811-2.0.0</version>
       <version>v2-rev20230907-2.0.0</version>
       <version>v2-rev20230920-2.0.0</version>
@@ -178,6 +179,7 @@
       <version>v2-rev20250211-2.0.0</version>
       <version>v2-rev20250303-2.0.0</version>
       <version>v2-rev20250321-2.0.0</version>
+      <version>v2-rev20250418-2.0.0</version>
       <version>v1-rev1-1.18.0-rc</version>
       <version>v1-rev1-1.19.1</version>
       <version>v1-rev1-1.20.0</version>
@@ -2146,6 +2148,6 @@
       <version>v1beta1-rev20210402-1.31.0</version>
       <version>v1beta1-rev20210511-1.31.0</version>
     </versions>
-    <lastUpdated>20250326080138</lastUpdated>
+    <lastUpdated>20250423085933</lastUpdated>
   </versioning>
 </metadata>

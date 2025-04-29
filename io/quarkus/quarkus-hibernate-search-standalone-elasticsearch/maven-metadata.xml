@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-hibernate-search-standalone-elasticsearch</artifactId>
   <versioning>
-    <latest>3.22.0.CR1</latest>
-    <release>3.22.0.CR1</release>
+    <latest>3.22.0</latest>
+    <release>3.22.0</release>
     <versions>
       <version>3.10.0.CR1</version>
       <version>3.10.0</version>
@@ -73,8 +73,10 @@
       <version>3.21.1</version>
       <version>3.21.2</version>
       <version>3.21.3</version>
+      <version>3.21.4</version>
       <version>3.22.0.CR1</version>
+      <version>3.22.0</version>
     </versions>
-    <lastUpdated>20250416104829</lastUpdated>
+    <lastUpdated>20250423152631</lastUpdated>
   </versioning>
 </metadata>
