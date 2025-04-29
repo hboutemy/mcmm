@@ -3,8 +3,8 @@
   <groupId>com.expediagroup</groupId>
   <artifactId>graphql-kotlin-graalvm-metadata-generator</artifactId>
   <versioning>
-    <latest>9.0.0-alpha.5</latest>
-    <release>9.0.0-alpha.5</release>
+    <latest>9.0.0-alpha.7</latest>
+    <release>9.0.0-alpha.7</release>
     <versions>
       <version>7.0.0-alpha.5</version>
       <version>7.0.0-alpha.6</version>
@@ -23,6 +23,7 @@
       <version>7.2.2</version>
       <version>7.3.0</version>
       <version>7.3.1</version>
+      <version>7.3.2</version>
       <version>8.0.0-alpha.1</version>
       <version>8.0.0-alpha.3</version>
       <version>8.0.0-alpha.6</version>
@@ -36,9 +37,12 @@
       <version>8.5.0</version>
       <version>8.6.0</version>
       <version>8.6.1</version>
+      <version>8.6.2</version>
       <version>9.0.0-alpha.4</version>
       <version>9.0.0-alpha.5</version>
+      <version>9.0.0-alpha.6</version>
+      <version>9.0.0-alpha.7</version>
     </versions>
-    <lastUpdated>20250423213312</lastUpdated>
+    <lastUpdated>20250424054734</lastUpdated>
   </versioning>
 </metadata>

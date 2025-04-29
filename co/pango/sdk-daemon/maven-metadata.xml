@@ -3,8 +3,8 @@
   <groupId>co.pango</groupId>
   <artifactId>sdk-daemon</artifactId>
   <versioning>
-    <latest>5.1.0-RC3</latest>
-    <release>5.1.0-RC3</release>
+    <latest>5.1.0-RC5</latest>
+    <release>5.1.0-RC5</release>
     <versions>
       <version>5.0.9-RC2</version>
       <version>5.0.9</version>
@@ -13,6 +13,8 @@
       <version>5.1.0-RC1</version>
       <version>5.1.0-RC2</version>
       <version>5.1.0-RC3</version>
+      <version>5.1.0-RC4</version>
+      <version>5.1.0-RC5</version>
       <version>4.9.3</version>
       <version>4.9.3-RC1</version>
       <version>4.9.3-RC2</version>
@@ -69,6 +71,6 @@
       <version>5.0.8-RC3</version>
       <version>5.0.9-RC1</version>
     </versions>
-    <lastUpdated>20250423160825</lastUpdated>
+    <lastUpdated>20250424183753</lastUpdated>
   </versioning>
 </metadata>
