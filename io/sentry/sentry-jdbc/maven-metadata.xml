@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-jdbc</artifactId>
   <versioning>
-    <latest>8.10.0-alpha.1</latest>
-    <release>8.10.0-alpha.1</release>
+    <latest>8.10.0</latest>
+    <release>8.10.0</release>
     <versions>
       <version>5.3.0</version>
       <version>5.4.0</version>
@@ -166,7 +166,8 @@
       <version>8.9.0-alpha.1</version>
       <version>8.9.0</version>
       <version>8.10.0-alpha.1</version>
+      <version>8.10.0</version>
     </versions>
-    <lastUpdated>20250424154819</lastUpdated>
+    <lastUpdated>20250425143048</lastUpdated>
   </versioning>
 </metadata>
