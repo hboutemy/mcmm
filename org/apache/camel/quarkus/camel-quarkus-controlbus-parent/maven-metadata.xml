@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-controlbus-parent</artifactId>
   <versioning>
-    <latest>3.20.0</latest>
-    <release>3.20.0</release>
+    <latest>3.22.0</latest>
+    <release>3.22.0</release>
     <versions>
       <version>0.4.0</version>
       <version>1.0.0-M1</version>
@@ -85,7 +85,8 @@
       <version>3.18.0</version>
       <version>3.19.0</version>
       <version>3.20.0</version>
+      <version>3.22.0</version>
     </versions>
-    <lastUpdated>20250324071356</lastUpdated>
+    <lastUpdated>20250428063043</lastUpdated>
   </versioning>
 </metadata>

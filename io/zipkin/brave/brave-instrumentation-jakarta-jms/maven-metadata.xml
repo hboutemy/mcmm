@@ -3,8 +3,8 @@
   <groupId>io.zipkin.brave</groupId>
   <artifactId>brave-instrumentation-jakarta-jms</artifactId>
   <versioning>
-    <latest>6.1.0</latest>
-    <release>6.1.0</release>
+    <latest>6.2.0</latest>
+    <release>6.2.0</release>
     <versions>
       <version>5.15.0</version>
       <version>5.15.1</version>
@@ -18,7 +18,8 @@
       <version>6.0.2</version>
       <version>6.0.3</version>
       <version>6.1.0</version>
+      <version>6.2.0</version>
     </versions>
-    <lastUpdated>20250216033026</lastUpdated>
+    <lastUpdated>20250428032206</lastUpdated>
   </versioning>
 </metadata>
