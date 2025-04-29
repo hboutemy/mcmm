@@ -3,8 +3,8 @@
   <groupId>io.github.cdklabs</groupId>
   <artifactId>projen</artifactId>
   <versioning>
-    <latest>0.91.20</latest>
-    <release>0.91.20</release>
+    <latest>0.91.25</latest>
+    <release>0.91.25</release>
     <versions>
       <version>0.0.0</version>
       <version>0.27.48</version>
@@ -1385,7 +1385,12 @@
       <version>0.91.18</version>
       <version>0.91.19</version>
       <version>0.91.20</version>
+      <version>0.91.21</version>
+      <version>0.91.22</version>
+      <version>0.91.23</version>
+      <version>0.91.24</version>
+      <version>0.91.25</version>
     </versions>
-    <lastUpdated>20250404135029</lastUpdated>
+    <lastUpdated>20250422165935</lastUpdated>
   </versioning>
 </metadata>
