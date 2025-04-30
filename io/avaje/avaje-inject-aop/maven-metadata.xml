@@ -3,11 +3,12 @@
   <groupId>io.avaje</groupId>
   <artifactId>avaje-inject-aop</artifactId>
   <versioning>
-    <latest>11.5-RC4</latest>
-    <release>11.5-RC4</release>
+    <latest>11.5</latest>
+    <release>11.5</release>
     <versions>
       <version>11.5-RC3</version>
       <version>11.5-RC4</version>
+      <version>11.5</version>
       <version>10.0</version>
       <version>10.0-RC10</version>
       <version>10.0-RC11</version>
@@ -55,7 +56,8 @@
       <version>11.4-javax</version>
       <version>11.5-RC1</version>
       <version>11.5-RC2</version>
+      <version>11.5-javax</version>
     </versions>
-    <lastUpdated>20250428101021</lastUpdated>
+    <lastUpdated>20250429225321</lastUpdated>
   </versioning>
 </metadata>

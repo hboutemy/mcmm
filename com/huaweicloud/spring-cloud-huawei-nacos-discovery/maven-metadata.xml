@@ -3,8 +3,8 @@
   <groupId>com.huaweicloud</groupId>
   <artifactId>spring-cloud-huawei-nacos-discovery</artifactId>
   <versioning>
-    <latest>1.11.10-2024.0.x</latest>
-    <release>1.11.10-2024.0.x</release>
+    <latest>1.11.11-2024.0.x</latest>
+    <release>1.11.11-2024.0.x</release>
     <versions>
       <version>1.11.7-2021.0.x</version>
       <version>1.11.7-2022.0.x</version>
@@ -19,7 +19,10 @@
       <version>1.11.10-2022.0.x</version>
       <version>1.11.10-2023.0.x</version>
       <version>1.11.10-2024.0.x</version>
+      <version>1.11.11-2021.0.x</version>
+      <version>1.11.11-2023.0.x</version>
+      <version>1.11.11-2024.0.x</version>
     </versions>
-    <lastUpdated>20250121022716</lastUpdated>
+    <lastUpdated>20250429095151</lastUpdated>
   </versioning>
 </metadata>

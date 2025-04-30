@@ -3,12 +3,13 @@
   <groupId>io.spinnaker.halyard</groupId>
   <artifactId>halyard-integration</artifactId>
   <versioning>
-    <latest>2025.0-0</latest>
-    <release>2025.0-0</release>
+    <latest>2025.0-1</latest>
+    <release>2025.0-1</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
       <version>main-7</version>
+      <version>main-8</version>
       <version>1.65.0</version>
       <version>1.66.0</version>
       <version>1.67.0</version>
@@ -16,8 +17,9 @@
       <version>1.69.0</version>
       <version>1.70.0</version>
       <version>2025.0-0</version>
+      <version>2025.0-1</version>
       <version>2025.0.0</version>
     </versions>
-    <lastUpdated>20250418221621</lastUpdated>
+    <lastUpdated>20250429164757</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.gradle.plugins</artifactId>
   <versioning>
-    <latest>16.0.79</latest>
-    <release>16.0.79</release>
+    <latest>16.0.83</latest>
+    <release>16.0.83</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -2546,7 +2546,11 @@
       <version>16.0.77</version>
       <version>16.0.78</version>
       <version>16.0.79</version>
+      <version>16.0.80</version>
+      <version>16.0.81</version>
+      <version>16.0.82</version>
+      <version>16.0.83</version>
     </versions>
-    <lastUpdated>20250425132710</lastUpdated>
+    <lastUpdated>20250429130633</lastUpdated>
   </versioning>
 </metadata>

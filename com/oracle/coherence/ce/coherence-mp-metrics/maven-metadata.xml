@@ -3,11 +3,12 @@
   <groupId>com.oracle.coherence.ce</groupId>
   <artifactId>coherence-mp-metrics</artifactId>
   <versioning>
-    <latest>25.03</latest>
-    <release>25.03</release>
+    <latest>25.03.1</latest>
+    <release>25.03.1</release>
     <versions>
       <version>14.1.2-0-0</version>
       <version>14.1.2-0-1</version>
+      <version>14.1.2-0-2</version>
       <version>20.06</version>
       <version>20.06.1</version>
       <version>20.12</version>
@@ -52,7 +53,8 @@
       <version>24.09.2</version>
       <version>24.09.3</version>
       <version>25.03</version>
+      <version>25.03.1</version>
     </versions>
-    <lastUpdated>20250415131002</lastUpdated>
+    <lastUpdated>20250429171306</lastUpdated>
   </versioning>
 </metadata>
