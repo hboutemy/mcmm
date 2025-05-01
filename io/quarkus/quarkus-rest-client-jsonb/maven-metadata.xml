@@ -3,8 +3,8 @@
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-rest-client-jsonb</artifactId>
   <versioning>
-    <latest>3.22.0</latest>
-    <release>3.22.0</release>
+    <latest>3.22.1</latest>
+    <release>3.22.1</release>
     <versions>
       <version>1.4.0.CR1</version>
       <version>1.4.0.Final</version>
@@ -328,7 +328,8 @@
       <version>3.21.4</version>
       <version>3.22.0.CR1</version>
       <version>3.22.0</version>
+      <version>3.22.1</version>
     </versions>
-    <lastUpdated>20250423152816</lastUpdated>
+    <lastUpdated>20250430091513</lastUpdated>
   </versioning>
 </metadata>

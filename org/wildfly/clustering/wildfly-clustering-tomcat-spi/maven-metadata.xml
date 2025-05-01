@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-tomcat-spi</artifactId>
   <versioning>
-    <latest>26.0.0.Beta1</latest>
-    <release>26.0.0.Beta1</release>
+    <latest>26.0.0.Final</latest>
+    <release>26.0.0.Final</release>
     <versions>
       <version>21.0.0.Final</version>
       <version>22.0.0.Final</version>
@@ -12,7 +12,8 @@
       <version>24.0.0.Final</version>
       <version>25.0.0.Final</version>
       <version>26.0.0.Beta1</version>
+      <version>26.0.0.Final</version>
     </versions>
-    <lastUpdated>20250209144126</lastUpdated>
+    <lastUpdated>20250430073104</lastUpdated>
   </versioning>
 </metadata>
