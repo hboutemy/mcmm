@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-tasty-inspector_3</artifactId>
   <versioning>
-    <latest>3.7.1-RC1-bin-20250429-57807c6-NIGHTLY</latest>
-    <release>3.7.1-RC1-bin-20250429-57807c6-NIGHTLY</release>
+    <latest>3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY</latest>
+    <release>3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1-RC1</version>
@@ -691,6 +691,7 @@
       <version>3.3.6-RC1-bin-20250319-2b41273-NIGHTLY</version>
       <version>3.3.6-RC1-bin-20250326-98b374a-NIGHTLY</version>
       <version>3.3.6-RC2</version>
+      <version>3.3.6-RC3</version>
       <version>3.3.7-RC1-bin-20250402-71aca20-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY</version>
@@ -702,6 +703,7 @@
       <version>3.3.7-RC1-bin-20250427-e3c4028-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250428-84ea7eb-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250429-5df2a92-NIGHTLY</version>
+      <version>3.3.7-RC1-bin-20250430-bb278ed-NIGHTLY</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -1156,7 +1158,8 @@
       <version>3.7.1-RC1-bin-20250425-fb6cc9b-NIGHTLY</version>
       <version>3.7.1-RC1-bin-20250428-08f2e4a-NIGHTLY</version>
       <version>3.7.1-RC1-bin-20250429-57807c6-NIGHTLY</version>
+      <version>3.7.1-RC1-bin-20250430-c4531d4-NIGHTLY</version>
     </versions>
-    <lastUpdated>20250430064714</lastUpdated>
+    <lastUpdated>20250501191510</lastUpdated>
   </versioning>
 </metadata>
