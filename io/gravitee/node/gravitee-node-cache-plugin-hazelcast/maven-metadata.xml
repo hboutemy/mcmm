@@ -3,8 +3,8 @@
   <groupId>io.gravitee.node</groupId>
   <artifactId>gravitee-node-cache-plugin-hazelcast</artifactId>
   <versioning>
-    <latest>7.1.1</latest>
-    <release>7.1.1</release>
+    <latest>7.2.0</latest>
+    <release>7.2.0</release>
     <versions>
       <version>3.1.0-alpha.5</version>
       <version>3.1.0-alpha.6</version>
@@ -154,7 +154,8 @@
       <version>7.0.8</version>
       <version>7.1.0</version>
       <version>7.1.1</version>
+      <version>7.2.0</version>
     </versions>
-    <lastUpdated>20250424093658</lastUpdated>
+    <lastUpdated>20250502091619</lastUpdated>
   </versioning>
 </metadata>

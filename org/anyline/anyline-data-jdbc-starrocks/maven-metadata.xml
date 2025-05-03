@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-starrocks</artifactId>
   <versioning>
-    <latest>8.7.2-20250404</latest>
-    <release>8.7.2-20250404</release>
+    <latest>8.7.2-20250502</latest>
+    <release>8.7.2-20250502</release>
     <versions>
       <version>8.7.2-jdk11-20240816</version>
       <version>8.7.2-jdk11-20240819</version>
@@ -23,6 +23,7 @@
       <version>8.7.2-jdk11-20250212</version>
       <version>8.7.2-jdk11-20250312</version>
       <version>8.7.2-jdk11-20250404</version>
+      <version>8.7.2-jdk11-20250502</version>
       <version>8.7.2-jdk17-20240725</version>
       <version>8.7.2-jdk17-20240726</version>
       <version>8.7.2-jdk17-20240727</version>
@@ -54,6 +55,7 @@
       <version>8.7.2-jdk17-20250212</version>
       <version>8.7.2-jdk17-20250312</version>
       <version>8.7.2-jdk17-20250404</version>
+      <version>8.7.2-jdk17-20250502</version>
       <version>8.7.2-jdk21-20240725</version>
       <version>8.7.2-jdk21-20240726</version>
       <version>8.7.2-jdk21-20240727</version>
@@ -90,6 +92,7 @@
       <version>8.7.2-jdk21-20250212</version>
       <version>8.7.2-jdk21-20250312</version>
       <version>8.7.2-jdk21-20250404</version>
+      <version>8.7.2-jdk21-20250502</version>
       <version>8.7.2-20240726</version>
       <version>8.7.2-20240727</version>
       <version>8.7.2-20240728</version>
@@ -139,7 +142,8 @@
       <version>8.7.2-20250312</version>
       <version>8.7.2-20250401</version>
       <version>8.7.2-20250404</version>
+      <version>8.7.2-20250502</version>
     </versions>
-    <lastUpdated>20250404092642</lastUpdated>
+    <lastUpdated>20250502160511</lastUpdated>
   </versioning>
 </metadata>

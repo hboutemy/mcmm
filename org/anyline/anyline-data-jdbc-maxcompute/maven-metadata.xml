@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-maxcompute</artifactId>
   <versioning>
-    <latest>8.7.2-20250404</latest>
-    <release>8.7.2-20250404</release>
+    <latest>8.7.2-20250502</latest>
+    <release>8.7.2-20250502</release>
     <versions>
       <version>8.7.2-jdk11-20240827</version>
       <version>8.7.2-jdk11-20240830</version>
@@ -20,6 +20,7 @@
       <version>8.7.2-jdk11-20250212</version>
       <version>8.7.2-jdk11-20250312</version>
       <version>8.7.2-jdk11-20250404</version>
+      <version>8.7.2-jdk11-20250502</version>
       <version>8.7.2-jdk17-20240827</version>
       <version>8.7.2-jdk17-20240830</version>
       <version>8.7.2-jdk17-20240902</version>
@@ -40,6 +41,7 @@
       <version>8.7.2-jdk17-20250212</version>
       <version>8.7.2-jdk17-20250312</version>
       <version>8.7.2-jdk17-20250404</version>
+      <version>8.7.2-jdk17-20250502</version>
       <version>8.7.2-jdk21-20240827</version>
       <version>8.7.2-jdk21-20240902</version>
       <version>8.7.2-jdk21-20240911</version>
@@ -64,6 +66,7 @@
       <version>8.7.2-jdk21-20250212</version>
       <version>8.7.2-jdk21-20250312</version>
       <version>8.7.2-jdk21-20250404</version>
+      <version>8.7.2-jdk21-20250502</version>
       <version>8.7.2-20240830</version>
       <version>8.7.2-20240831</version>
       <version>8.7.2-20240901</version>
@@ -98,7 +101,8 @@
       <version>8.7.2-20250312</version>
       <version>8.7.2-20250401</version>
       <version>8.7.2-20250404</version>
+      <version>8.7.2-20250502</version>
     </versions>
-    <lastUpdated>20250404092628</lastUpdated>
+    <lastUpdated>20250502160458</lastUpdated>
   </versioning>
 </metadata>
