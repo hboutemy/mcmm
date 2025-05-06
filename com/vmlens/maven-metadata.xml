@@ -6,5 +6,10 @@
       <prefix>interleave</prefix>
       <artifactId>interleave</artifactId>
     </plugin>
+    <plugin>
+      <name>vmlens-maven-plugin Maven Plugin</name>
+      <prefix>vmlens</prefix>
+      <artifactId>vmlens-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
