@@ -3,8 +3,8 @@
   <groupId>org.wildfly.security</groupId>
   <artifactId>wildfly-elytron-http-oidc</artifactId>
   <versioning>
-    <latest>2.6.3.Final</latest>
-    <release>2.6.3.Final</release>
+    <latest>2.6.4.Final</latest>
+    <release>2.6.4.Final</release>
     <versions>
       <version>1.15.7.Final</version>
       <version>1.15.8.Final</version>
@@ -57,6 +57,7 @@
       <version>2.2.8.Final</version>
       <version>2.2.9.Final</version>
       <version>2.2.10.Final</version>
+      <version>2.2.11.Final</version>
       <version>2.3.0.Final</version>
       <version>2.3.1.Final</version>
       <version>2.4.0.CR1</version>
@@ -71,7 +72,8 @@
       <version>2.6.1.Final</version>
       <version>2.6.2.Final</version>
       <version>2.6.3.Final</version>
+      <version>2.6.4.Final</version>
     </versions>
-    <lastUpdated>20250405125639</lastUpdated>
+    <lastUpdated>20250506122626</lastUpdated>
   </versioning>
 </metadata>

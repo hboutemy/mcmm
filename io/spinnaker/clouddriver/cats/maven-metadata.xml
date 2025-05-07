@@ -3,13 +3,15 @@
   <groupId>io.spinnaker.clouddriver</groupId>
   <artifactId>cats</artifactId>
   <versioning>
-    <latest>2025.0-1</latest>
-    <release>2025.0-1</release>
+    <latest>2025.0-3</latest>
+    <release>2025.0-3</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
       <version>main-7</version>
       <version>main-8</version>
+      <version>main-9</version>
+      <version>main-10</version>
       <version>5.74.0</version>
       <version>5.74.2</version>
       <version>5.74.3</version>
@@ -96,8 +98,10 @@
       <version>5.95.0</version>
       <version>2025.0-0</version>
       <version>2025.0-1</version>
+      <version>2025.0-2</version>
+      <version>2025.0-3</version>
       <version>2025.0.0</version>
     </versions>
-    <lastUpdated>20250429164821</lastUpdated>
+    <lastUpdated>20250506201425</lastUpdated>
   </versioning>
 </metadata>
