@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.infinispan</groupId>
   <artifactId>infinispan-docs</artifactId>
   <versioning>
-    <latest>15.2.1.Final</latest>
-    <release>15.2.1.Final</release>
+    <latest>16.0.0.Dev01</latest>
+    <release>16.0.0.Dev01</release>
     <versions>
       <version>5.3.0.Final</version>
       <version>6.0.2.Final</version>
@@ -301,8 +301,9 @@
       <version>15.2.0.Dev02</version>
       <version>15.2.0.Dev03</version>
       <version>15.2.1.Final</version>
+      <version>16.0.0.Dev01</version>
       <version>12.0.0.Dev03</version>
     </versions>
-    <lastUpdated>20250402162130</lastUpdated>
+    <lastUpdated>20250507135518</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>org.graylog</groupId>
   <artifactId>graylog-parent</artifactId>
   <versioning>
-    <latest>6.2.1</latest>
-    <release>6.2.1</release>
+    <latest>6.2.2</latest>
+    <release>6.2.2</release>
     <versions>
       <version>2.2.0-alpha.1</version>
       <version>2.2.0-alpha.2</version>
@@ -237,9 +237,11 @@
       <version>6.1.7</version>
       <version>6.1.8</version>
       <version>6.1.10</version>
+      <version>6.1.11</version>
       <version>6.2.0</version>
       <version>6.2.1</version>
+      <version>6.2.2</version>
     </versions>
-    <lastUpdated>20250430135921</lastUpdated>
+    <lastUpdated>20250507133935</lastUpdated>
   </versioning>
 </metadata>

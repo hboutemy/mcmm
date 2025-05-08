@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Citrus :: Tools :: Maven :: Agent Plugin</name>
+      <prefix>citrus-agent</prefix>
+      <artifactId>citrus-agent-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Citrus :: Tools :: Maven :: Plugin</name>
       <prefix>citrus</prefix>
       <artifactId>citrus-maven-plugin</artifactId>

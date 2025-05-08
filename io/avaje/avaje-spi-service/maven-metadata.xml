@@ -3,11 +3,14 @@
   <groupId>io.avaje</groupId>
   <artifactId>avaje-spi-service</artifactId>
   <versioning>
-    <latest>2.12</latest>
-    <release>2.12</release>
+    <latest>2.13</latest>
+    <release>2.13</release>
     <versions>
+      <version>2.13</version>
       <version>1.0</version>
       <version>1.1</version>
+      <version>1.10</version>
+      <version>1.11</version>
       <version>1.2</version>
       <version>1.3</version>
       <version>1.4</version>
@@ -16,11 +19,12 @@
       <version>1.7</version>
       <version>1.8</version>
       <version>1.9</version>
-      <version>1.10</version>
-      <version>1.11</version>
-      <version>2.0-RC1</version>
       <version>2.0</version>
+      <version>2.0-RC1</version>
       <version>2.1</version>
+      <version>2.10</version>
+      <version>2.11</version>
+      <version>2.12</version>
       <version>2.2</version>
       <version>2.3</version>
       <version>2.4</version>
@@ -29,10 +33,7 @@
       <version>2.7</version>
       <version>2.8</version>
       <version>2.9</version>
-      <version>2.10</version>
-      <version>2.11</version>
-      <version>2.12</version>
     </versions>
-    <lastUpdated>20250411095352</lastUpdated>
+    <lastUpdated>20250507221038</lastUpdated>
   </versioning>
 </metadata>

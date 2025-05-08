@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-compiler_3</artifactId>
   <versioning>
-    <latest>3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY</latest>
-    <release>3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY</release>
+    <latest>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</latest>
+    <release>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1-RC1</version>
@@ -692,6 +692,7 @@
       <version>3.3.6-RC1-bin-20250326-98b374a-NIGHTLY</version>
       <version>3.3.6-RC2</version>
       <version>3.3.6-RC3</version>
+      <version>3.3.6</version>
       <version>3.3.7-RC1-bin-20250402-71aca20-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250403-3c1ff9a-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250408-f8a1729-NIGHTLY</version>
@@ -705,6 +706,7 @@
       <version>3.3.7-RC1-bin-20250429-5df2a92-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250430-bb278ed-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250502-0c7c85c-NIGHTLY</version>
+      <version>3.3.7-RC1-bin-20250506-875ba1d-NIGHTLY</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -1165,7 +1167,8 @@
       <version>3.7.1-RC1-bin-20250501-83ffe00-NIGHTLY</version>
       <version>3.7.2-RC1-bin-20250503-453f94d-NIGHTLY</version>
       <version>3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY</version>
+      <version>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</version>
     </versions>
-    <lastUpdated>20250506053159</lastUpdated>
+    <lastUpdated>20250507123913</lastUpdated>
   </versioning>
 </metadata>
