@@ -3,8 +3,8 @@
   <groupId>org.ossreviewtoolkit.plugins.packagemanagers</groupId>
   <artifactId>nuget-package-manager</artifactId>
   <versioning>
-    <latest>57.0.0</latest>
-    <release>57.0.0</release>
+    <latest>58.0.1</latest>
+    <release>58.0.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -99,7 +99,9 @@
       <version>56.0.0</version>
       <version>56.1.0</version>
       <version>57.0.0</version>
+      <version>58.0.0</version>
+      <version>58.0.1</version>
     </versions>
-    <lastUpdated>20250424075732</lastUpdated>
+    <lastUpdated>20250508104700</lastUpdated>
   </versioning>
 </metadata>
