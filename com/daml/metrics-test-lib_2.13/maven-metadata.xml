@@ -3,8 +3,8 @@
   <groupId>com.daml</groupId>
   <artifactId>metrics-test-lib_2.13</artifactId>
   <versioning>
-    <latest>3.4.0-snapshot.20250509.13832.0.vcfc1ba78</latest>
-    <release>3.4.0-snapshot.20250509.13832.0.vcfc1ba78</release>
+    <latest>3.4.0-snapshot.20250513.13844.0.vbc99348c</latest>
+    <release>3.4.0-snapshot.20250513.13844.0.vbc99348c</release>
     <versions>
       <version>1.14.0-snapshot.20210518.6953.0.a6c7b86a</version>
       <version>1.14.0-snapshot.20210526.7024.0.aedb9a82</version>
@@ -987,6 +987,7 @@
       <version>2.10.0-adhoc.20241029.13035.0.v7977e389</version>
       <version>2.10.0-adhoc.20241031.13042.0.v386ef7fb</version>
       <version>2.10.0-adhoc.20241212.13143.0.vdbbc65bd</version>
+      <version>2.10.1-snapshot.20250513.13174.0.vfd3eadaf</version>
       <version>3.0.0-snapshot.20240109.12547.0.v54009a41</version>
       <version>3.0.0-snapshot.20240110.12560.0.v57656042</version>
       <version>3.0.0-snapshot.20240111.12564.0.v88a271b5</version>
@@ -1328,6 +1329,7 @@
       <version>3.3.0-snapshot.20250424.13760.0.v90d51dbb</version>
       <version>3.3.0-snapshot.20250502.13767.0.v2fc6c7e2</version>
       <version>3.3.0-snapshot.20250507.13770.0.v8a383258</version>
+      <version>3.3.0-snapshot.20250509.13773.0.v7f71343b</version>
       <version>3.3.0-adhoc.20250313.13657.0.vd9049657</version>
       <version>3.3.0-adhoc.20250314.13658.0.v2ae85555</version>
       <version>3.3.0-adhoc.20250314.13658.0.v6a20867c</version>
@@ -1356,7 +1358,9 @@
       <version>3.4.0-snapshot.20250508.13828.0.v6124cac0</version>
       <version>3.4.0-snapshot.20250509.13829.0.vc24ce1fd</version>
       <version>3.4.0-snapshot.20250509.13832.0.vcfc1ba78</version>
+      <version>3.4.0-snapshot.20250512.13837.0.v78d1b88c</version>
+      <version>3.4.0-snapshot.20250513.13844.0.vbc99348c</version>
     </versions>
-    <lastUpdated>20250510072228</lastUpdated>
+    <lastUpdated>20250513162432</lastUpdated>
   </versioning>
 </metadata>

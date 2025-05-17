@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.factor</groupId>
   <artifactId>gravitee-am-factor-email</artifactId>
   <versioning>
-    <latest>4.7.3</latest>
-    <release>4.7.3</release>
+    <latest>4.7.4</latest>
+    <release>4.7.4</release>
     <versions>
       <version>3.8.0</version>
       <version>3.8.1</version>
@@ -326,6 +326,7 @@
       <version>4.4.23</version>
       <version>4.4.24</version>
       <version>4.4.25</version>
+      <version>4.4.26</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0-alpha.2</version>
       <version>4.5.0-alpha.3</version>
@@ -346,6 +347,7 @@
       <version>4.5.13</version>
       <version>4.5.14</version>
       <version>4.5.15</version>
+      <version>4.5.16</version>
       <version>4.6.0-alpha.1</version>
       <version>4.6.0-alpha.2</version>
       <version>4.6.0-alpha.3</version>
@@ -359,6 +361,7 @@
       <version>4.6.7</version>
       <version>4.6.8</version>
       <version>4.6.9</version>
+      <version>4.6.10</version>
       <version>4.7.0-alpha.1</version>
       <version>4.7.0-alpha.2</version>
       <version>4.7.0-alpha.3</version>
@@ -367,7 +370,8 @@
       <version>4.7.1</version>
       <version>4.7.2</version>
       <version>4.7.3</version>
+      <version>4.7.4</version>
     </versions>
-    <lastUpdated>20250506094414</lastUpdated>
+    <lastUpdated>20250513080953</lastUpdated>
   </versioning>
 </metadata>
