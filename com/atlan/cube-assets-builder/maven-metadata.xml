@@ -3,8 +3,8 @@
   <groupId>com.atlan</groupId>
   <artifactId>cube-assets-builder</artifactId>
   <versioning>
-    <latest>5.1.1</latest>
-    <release>5.1.1</release>
+    <latest>5.1.1-test-multiarch</latest>
+    <release>5.1.1-test-multiarch</release>
     <versions>
       <version>1.10.12</version>
       <version>1.10.13</version>
@@ -66,7 +66,8 @@
       <version>5.0.5</version>
       <version>5.1.0</version>
       <version>5.1.1</version>
+      <version>5.1.1-test-multiarch</version>
     </versions>
-    <lastUpdated>20250429133208</lastUpdated>
+    <lastUpdated>20250509102153</lastUpdated>
   </versioning>
 </metadata>

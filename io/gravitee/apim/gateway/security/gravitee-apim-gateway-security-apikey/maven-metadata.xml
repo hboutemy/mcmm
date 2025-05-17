@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway.security</groupId>
   <artifactId>gravitee-apim-gateway-security-apikey</artifactId>
   <versioning>
-    <latest>4.7.4</latest>
-    <release>4.7.4</release>
+    <latest>4.7.5</latest>
+    <release>4.7.5</release>
     <versions>
       <version>3.5.25</version>
       <version>3.5.26</version>
@@ -301,6 +301,7 @@
       <version>4.4.25</version>
       <version>4.4.26</version>
       <version>4.4.27</version>
+      <version>4.4.28</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0</version>
       <version>4.5.1</version>
@@ -319,6 +320,7 @@
       <version>4.5.14</version>
       <version>4.5.15</version>
       <version>4.5.16</version>
+      <version>4.5.17</version>
       <version>4.6.0-alpha.3</version>
       <version>4.6.0</version>
       <version>4.6.1</version>
@@ -331,6 +333,7 @@
       <version>4.6.8</version>
       <version>4.6.9</version>
       <version>4.6.10</version>
+      <version>4.6.11</version>
       <version>4.7.0-alpha.1</version>
       <version>4.7.0-alpha.2</version>
       <version>4.7.0-alpha.3</version>
@@ -339,7 +342,8 @@
       <version>4.7.2</version>
       <version>4.7.3</version>
       <version>4.7.4</version>
+      <version>4.7.5</version>
     </versions>
-    <lastUpdated>20250502140252</lastUpdated>
+    <lastUpdated>20250509164141</lastUpdated>
   </versioning>
 </metadata>

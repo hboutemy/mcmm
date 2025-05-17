@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>pulsar-io-alluxio</artifactId>
   <versioning>
-    <latest>4.0.3.1</latest>
-    <release>4.0.3.1</release>
+    <latest>4.0.4.2</latest>
+    <release>4.0.4.2</release>
     <versions>
       <version>master-rc-daily</version>
       <version>3.0.0.1-rc1</version>
@@ -144,7 +144,8 @@
       <version>4.0.1.3</version>
       <version>4.0.1.4</version>
       <version>4.0.3.1</version>
+      <version>4.0.4.2</version>
     </versions>
-    <lastUpdated>20250329204743</lastUpdated>
+    <lastUpdated>20250509033535</lastUpdated>
   </versioning>
 </metadata>

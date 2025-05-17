@@ -3,8 +3,8 @@
   <groupId>com.nvidia</groupId>
   <artifactId>rapids-4-spark-tools_2.12</artifactId>
   <versioning>
-    <latest>25.02.2</latest>
-    <release>25.02.2</release>
+    <latest>25.02.3</latest>
+    <release>25.02.3</release>
     <versions>
       <version>21.06.0</version>
       <version>21.06.1</version>
@@ -61,7 +61,8 @@
       <version>25.02.0</version>
       <version>25.02.1</version>
       <version>25.02.2</version>
+      <version>25.02.3</version>
     </versions>
-    <lastUpdated>20250415222430</lastUpdated>
+    <lastUpdated>20250509003153</lastUpdated>
   </versioning>
 </metadata>

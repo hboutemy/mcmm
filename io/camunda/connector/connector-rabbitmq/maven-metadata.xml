@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-rabbitmq</artifactId>
   <versioning>
-    <latest>8.8.0-alpha4</latest>
-    <release>8.8.0-alpha4</release>
+    <latest>8.8.0-alpha4.1</latest>
+    <release>8.8.0-alpha4.1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.14.0</version>
@@ -121,6 +121,7 @@
       <version>8.6.7</version>
       <version>8.6.10</version>
       <version>8.6.11</version>
+      <version>8.6.12</version>
       <version>8.7.0-alpha2.1</version>
       <version>8.7.0-alpha3</version>
       <version>8.7.0-alpha3.1</version>
@@ -129,10 +130,12 @@
       <version>8.7.0-alpha4</version>
       <version>8.7.0</version>
       <version>8.7.1</version>
+      <version>8.7.2</version>
       <version>8.8.0-alpha3</version>
       <version>8.8.0-alpha3.1</version>
       <version>8.8.0-alpha4</version>
+      <version>8.8.0-alpha4.1</version>
     </versions>
-    <lastUpdated>20250506141925</lastUpdated>
+    <lastUpdated>20250509211331</lastUpdated>
   </versioning>
 </metadata>
