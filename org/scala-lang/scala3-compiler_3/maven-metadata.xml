@@ -3,8 +3,8 @@
   <groupId>org.scala-lang</groupId>
   <artifactId>scala3-compiler_3</artifactId>
   <versioning>
-    <latest>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</latest>
-    <release>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</release>
+    <latest>3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY</latest>
+    <release>3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1-RC1</version>
@@ -708,6 +708,7 @@
       <version>3.3.7-RC1-bin-20250502-0c7c85c-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250506-875ba1d-NIGHTLY</version>
       <version>3.3.7-RC1-bin-20250508-d735cf4-NIGHTLY</version>
+      <version>3.3.7-RC1-bin-20250509-ba7071d-NIGHTLY</version>
       <version>3.4.0-RC1</version>
       <version>3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY</version>
       <version>3.4.0-RC1-bin-20230726-97677cc-NIGHTLY</version>
@@ -1170,7 +1171,8 @@
       <version>3.7.2-RC1-bin-20250505-d87bbb1-NIGHTLY</version>
       <version>3.7.2-RC1-bin-20250507-c49ff71-NIGHTLY</version>
       <version>3.7.2-RC1-bin-20250507-c85982c-NIGHTLY</version>
+      <version>3.7.2-RC1-bin-20250509-c3642c0-NIGHTLY</version>
     </versions>
-    <lastUpdated>20250509051804</lastUpdated>
+    <lastUpdated>20250510045342</lastUpdated>
   </versioning>
 </metadata>
