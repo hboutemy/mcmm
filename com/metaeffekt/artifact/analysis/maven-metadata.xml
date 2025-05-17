@@ -37,5 +37,9 @@
       <prefix>ae-tmd-packaging</prefix>
       <artifactId>ae-tmd-packaging-plugin</artifactId>
     </plugin>
+    <plugin>
+      <prefix>ae-vulnerability-assessment-dashboard-html-report</prefix>
+      <artifactId>ae-vulnerability-assessment-dashboard-html-report</artifactId>
+    </plugin>
   </plugins>
 </metadata>

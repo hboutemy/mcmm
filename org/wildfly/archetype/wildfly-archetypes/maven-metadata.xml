@@ -3,8 +3,8 @@
   <groupId>org.wildfly.archetype</groupId>
   <artifactId>wildfly-archetypes</artifactId>
   <versioning>
-    <latest>36.0.0.Final</latest>
-    <release>36.0.0.Final</release>
+    <latest>36.0.1.Final</latest>
+    <release>36.0.1.Final</release>
     <versions>
       <version>18.0.0.Final</version>
       <version>19.0.0.Final</version>
@@ -34,7 +34,8 @@
       <version>35.0.0.Final</version>
       <version>35.0.1.Final</version>
       <version>36.0.0.Final</version>
+      <version>36.0.1.Final</version>
     </versions>
-    <lastUpdated>20250410075346</lastUpdated>
+    <lastUpdated>20250515074711</lastUpdated>
   </versioning>
 </metadata>

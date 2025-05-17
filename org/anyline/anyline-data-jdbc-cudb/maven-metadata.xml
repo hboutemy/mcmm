@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-cudb</artifactId>
   <versioning>
-    <latest>8.7.2-20250509</latest>
-    <release>8.7.2-20250509</release>
+    <latest>8.7.2-20250515</latest>
+    <release>8.7.2-20250515</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -246,6 +246,7 @@
       <version>8.7.2-jdk17-20250404</version>
       <version>8.7.2-jdk17-20250502</version>
       <version>8.7.2-jdk17-20250509</version>
+      <version>8.7.2-jdk17-20250515</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -328,6 +329,7 @@
       <version>8.7.2-jdk21-20250404</version>
       <version>8.7.2-jdk21-20250502</version>
       <version>8.7.2-jdk21-20250509</version>
+      <version>8.7.2-jdk21-20250515</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -425,7 +427,8 @@
       <version>8.7.2-20250404</version>
       <version>8.7.2-20250502</version>
       <version>8.7.2-20250509</version>
+      <version>8.7.2-20250515</version>
     </versions>
-    <lastUpdated>20250509071052</lastUpdated>
+    <lastUpdated>20250515112219</lastUpdated>
   </versioning>
 </metadata>
