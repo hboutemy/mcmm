@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-databricks-grammar</artifactId>
   <versioning>
-    <latest>4.85.1</latest>
-    <release>4.85.1</release>
+    <latest>4.85.3</latest>
+    <release>4.85.3</release>
     <versions>
       <version>4.26.0</version>
       <version>4.26.3</version>
@@ -167,9 +167,12 @@
       <version>4.83.2</version>
       <version>4.83.3</version>
       <version>4.84.0</version>
+      <version>4.84.1</version>
       <version>4.85.0</version>
       <version>4.85.1</version>
+      <version>4.85.2</version>
+      <version>4.85.3</version>
     </versions>
-    <lastUpdated>20250512185230</lastUpdated>
+    <lastUpdated>20250514213730</lastUpdated>
   </versioning>
 </metadata>

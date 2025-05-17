@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-elasticsearch-V7-executionPlan</artifactId>
   <versioning>
-    <latest>4.85.1</latest>
-    <release>4.85.1</release>
+    <latest>4.85.3</latest>
+    <release>4.85.3</release>
     <versions>
       <version>4.4.2</version>
       <version>4.4.4</version>
@@ -212,9 +212,12 @@
       <version>4.83.2</version>
       <version>4.83.3</version>
       <version>4.84.0</version>
+      <version>4.84.1</version>
       <version>4.85.0</version>
       <version>4.85.1</version>
+      <version>4.85.2</version>
+      <version>4.85.3</version>
     </versions>
-    <lastUpdated>20250512185126</lastUpdated>
+    <lastUpdated>20250514213623</lastUpdated>
   </versioning>
 </metadata>

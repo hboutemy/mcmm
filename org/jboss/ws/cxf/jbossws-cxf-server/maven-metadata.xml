@@ -3,8 +3,8 @@
   <groupId>org.jboss.ws.cxf</groupId>
   <artifactId>jbossws-cxf-server</artifactId>
   <versioning>
-    <latest>7.3.2.Final</latest>
-    <release>7.3.2.Final</release>
+    <latest>7.3.3.Final</latest>
+    <release>7.3.3.Final</release>
     <versions>
       <version>4.1.0.Final</version>
       <version>4.1.1.Final</version>
@@ -72,6 +72,7 @@
       <version>5.4.12.Final</version>
       <version>5.4.13.Final</version>
       <version>5.4.14.Final</version>
+      <version>5.4.15.Final</version>
       <version>5.5.0.Final</version>
       <version>6.0.0.Final</version>
       <version>6.1.0.Final</version>
@@ -82,7 +83,8 @@
       <version>7.3.0.Final</version>
       <version>7.3.1.Final</version>
       <version>7.3.2.Final</version>
+      <version>7.3.3.Final</version>
     </versions>
-    <lastUpdated>20250505165919</lastUpdated>
+    <lastUpdated>20250514142438</lastUpdated>
   </versioning>
 </metadata>

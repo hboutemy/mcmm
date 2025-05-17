@@ -3,8 +3,8 @@
   <groupId>com.salesforce.datacloud</groupId>
   <artifactId>jdbc-grpc</artifactId>
   <versioning>
-    <latest>0.28.0</latest>
-    <release>0.28.0</release>
+    <latest>0.28.2</latest>
+    <release>0.28.2</release>
     <versions>
       <version>0.24.1</version>
       <version>0.24.2</version>
@@ -25,7 +25,9 @@
       <version>0.26.4</version>
       <version>0.27.0</version>
       <version>0.28.0</version>
+      <version>0.28.1</version>
+      <version>0.28.2</version>
     </versions>
-    <lastUpdated>20250509005217</lastUpdated>
+    <lastUpdated>20250514032734</lastUpdated>
   </versioning>
 </metadata>
