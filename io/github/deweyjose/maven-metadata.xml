@@ -2,7 +2,7 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>GraphQL Code Generator</name>
+      <name>GraphQL Code Generator Maven Plugin</name>
       <prefix>graphqlcodegen</prefix>
       <artifactId>graphqlcodegen-maven-plugin</artifactId>
     </plugin>
