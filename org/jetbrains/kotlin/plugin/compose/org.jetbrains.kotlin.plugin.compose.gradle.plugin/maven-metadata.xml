@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlin.plugin.compose</groupId>
   <artifactId>org.jetbrains.kotlin.plugin.compose.gradle.plugin</artifactId>
   <versioning>
-    <latest>2.2.0-Beta2</latest>
-    <release>2.2.0-Beta2</release>
+    <latest>2.2.0-RC</latest>
+    <release>2.2.0-RC</release>
     <versions>
       <version>2.0.0-RC1</version>
       <version>2.0.0-RC2</version>
@@ -39,7 +39,8 @@
       <version>2.1.21</version>
       <version>2.2.0-Beta1</version>
       <version>2.2.0-Beta2</version>
+      <version>2.2.0-RC</version>
     </versions>
-    <lastUpdated>20250513075440</lastUpdated>
+    <lastUpdated>20250516070454</lastUpdated>
   </versioning>
 </metadata>

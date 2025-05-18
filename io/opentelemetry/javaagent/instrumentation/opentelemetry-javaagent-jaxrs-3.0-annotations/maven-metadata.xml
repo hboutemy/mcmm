@@ -3,8 +3,8 @@
   <groupId>io.opentelemetry.javaagent.instrumentation</groupId>
   <artifactId>opentelemetry-javaagent-jaxrs-3.0-annotations</artifactId>
   <versioning>
-    <latest>2.15.0-alpha</latest>
-    <release>2.15.0-alpha</release>
+    <latest>2.16.0-alpha</latest>
+    <release>2.16.0-alpha</release>
     <versions>
       <version>1.15.0-alpha</version>
       <version>1.16.0-alpha</version>
@@ -57,7 +57,8 @@
       <version>2.13.3-alpha</version>
       <version>2.14.0-alpha</version>
       <version>2.15.0-alpha</version>
+      <version>2.16.0-alpha</version>
     </versions>
-    <lastUpdated>20250410222005</lastUpdated>
+    <lastUpdated>20250516002112</lastUpdated>
   </versioning>
 </metadata>
