@@ -3,8 +3,8 @@
   <groupId>org.scala-sbt</groupId>
   <artifactId>zinc-lm-integration_2.12</artifactId>
   <versioning>
-    <latest>1.11.0-RC1</latest>
-    <release>1.11.0-RC1</release>
+    <latest>1.11.0-RC2</latest>
+    <release>1.11.0-RC2</release>
     <versions>
       <version>1.3.0-M3</version>
       <version>1.3.0-M4</version>
@@ -107,7 +107,8 @@
       <version>1.10.10</version>
       <version>1.10.11</version>
       <version>1.11.0-RC1</version>
+      <version>1.11.0-RC2</version>
     </versions>
-    <lastUpdated>20250517195120</lastUpdated>
+    <lastUpdated>20250518195324</lastUpdated>
   </versioning>
 </metadata>
