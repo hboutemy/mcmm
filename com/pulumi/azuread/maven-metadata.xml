@@ -3,8 +3,8 @@
   <groupId>com.pulumi</groupId>
   <artifactId>azuread</artifactId>
   <versioning>
-    <latest>6.4.0</latest>
-    <release>6.4.0</release>
+    <latest>6.5.1</latest>
+    <release>6.5.1</release>
     <versions>
       <version>v5.26.0-alpha.1656622750+e856b013</version>
       <version>v5.26.0-alpha.1657296163+16c1f4cf</version>
@@ -240,7 +240,9 @@
       <version>6.2.0</version>
       <version>6.3.0</version>
       <version>6.4.0</version>
+      <version>6.5.0</version>
+      <version>6.5.1</version>
     </versions>
-    <lastUpdated>20250407121849</lastUpdated>
+    <lastUpdated>20250520232302</lastUpdated>
   </versioning>
 </metadata>

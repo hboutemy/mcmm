@@ -3,15 +3,16 @@
   <groupId>org.hibernate.orm</groupId>
   <artifactId>hibernate-maven-plugin</artifactId>
   <versioning>
-    <latest>7.0.0.CR2</latest>
-    <release>7.0.0.CR2</release>
+    <latest>7.0.0.Final</latest>
+    <release>7.0.0.Final</release>
     <versions>
       <version>7.0.0.Beta2</version>
       <version>7.0.0.Beta4</version>
       <version>7.0.0.Beta5</version>
       <version>7.0.0.CR1</version>
       <version>7.0.0.CR2</version>
+      <version>7.0.0.Final</version>
     </versions>
-    <lastUpdated>20250514071726</lastUpdated>
+    <lastUpdated>20250519235905</lastUpdated>
   </versioning>
 </metadata>
