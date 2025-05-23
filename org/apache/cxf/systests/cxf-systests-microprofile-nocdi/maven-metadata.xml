@@ -3,8 +3,8 @@
   <groupId>org.apache.cxf.systests</groupId>
   <artifactId>cxf-systests-microprofile-nocdi</artifactId>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>3.3.12</version>
       <version>3.3.13</version>
@@ -43,7 +43,8 @@
       <version>4.0.7</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20250306221400</lastUpdated>
+    <lastUpdated>20250522232508</lastUpdated>
   </versioning>
 </metadata>

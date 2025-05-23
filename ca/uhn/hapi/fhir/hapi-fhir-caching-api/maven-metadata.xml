@@ -3,8 +3,8 @@
   <groupId>ca.uhn.hapi.fhir</groupId>
   <artifactId>hapi-fhir-caching-api</artifactId>
   <versioning>
-    <latest>8.0.0</latest>
-    <release>8.0.0</release>
+    <latest>8.2.0</latest>
+    <release>8.2.0</release>
     <versions>
       <version>6.4.0</version>
       <version>6.4.1</version>
@@ -46,7 +46,8 @@
       <version>7.6.0</version>
       <version>7.6.1</version>
       <version>8.0.0</version>
+      <version>8.2.0</version>
     </versions>
-    <lastUpdated>20250220012728</lastUpdated>
+    <lastUpdated>20250522042829</lastUpdated>
   </versioning>
 </metadata>
