@@ -3,8 +3,8 @@
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-channel-spring-starter</artifactId>
   <versioning>
-    <latest>6.2.0-preview</latest>
-    <release>6.2.0-preview</release>
+    <latest>6.2.1-preview</latest>
+    <release>6.2.1-preview</release>
     <versions>
       <version>4.0.0-preview</version>
       <version>4.1.0-preview</version>
@@ -53,6 +53,7 @@
       <version>4.10.18-preview</version>
       <version>4.10.19-preview</version>
       <version>4.11.0-preview</version>
+      <version>4.11.1-preview</version>
       <version>5.0.0-preview</version>
       <version>5.0.2-preview</version>
       <version>5.0.3-preview</version>
@@ -78,12 +79,14 @@
       <version>5.11.2-preview</version>
       <version>5.11.3-preview</version>
       <version>5.12.0-preview</version>
+      <version>5.12.1-preview</version>
       <version>6.0.0-preview</version>
       <version>6.0.1-preview</version>
       <version>6.1.0-preview</version>
       <version>6.1.1-preview</version>
       <version>6.2.0-preview</version>
+      <version>6.2.1-preview</version>
     </versions>
-    <lastUpdated>20250516201920</lastUpdated>
+    <lastUpdated>20250523180422</lastUpdated>
   </versioning>
 </metadata>

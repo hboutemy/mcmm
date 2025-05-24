@@ -3,8 +3,8 @@
   <groupId>com.streamsets</groupId>
   <artifactId>streamsets-datacollector-stage-lib-tutorial</artifactId>
   <versioning>
-    <latest>5.12.0</latest>
-    <release>5.12.0</release>
+    <latest>6.2.1</latest>
+    <release>6.2.1</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
@@ -100,7 +100,12 @@
       <version>5.10.0</version>
       <version>5.11.0</version>
       <version>5.12.0</version>
+      <version>6.0.0</version>
+      <version>6.1.0</version>
+      <version>6.1.1</version>
+      <version>6.2.0</version>
+      <version>6.2.1</version>
     </versions>
-    <lastUpdated>20240809055506</lastUpdated>
+    <lastUpdated>20250523152404</lastUpdated>
   </versioning>
 </metadata>
