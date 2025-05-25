@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-relationalStore-snowflake-connection</artifactId>
   <versioning>
-    <latest>4.86.1</latest>
-    <release>4.86.1</release>
+    <latest>4.86.2</latest>
+    <release>4.86.2</release>
     <versions>
       <version>4.29.1</version>
       <version>4.30.0</version>
@@ -164,7 +164,8 @@
       <version>4.85.4</version>
       <version>4.86.0</version>
       <version>4.86.1</version>
+      <version>4.86.2</version>
     </versions>
-    <lastUpdated>20250522002937</lastUpdated>
+    <lastUpdated>20250524160245</lastUpdated>
   </versioning>
 </metadata>

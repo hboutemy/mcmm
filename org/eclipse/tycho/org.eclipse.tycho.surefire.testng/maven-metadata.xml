@@ -3,8 +3,8 @@
   <groupId>org.eclipse.tycho</groupId>
   <artifactId>org.eclipse.tycho.surefire.testng</artifactId>
   <versioning>
-    <latest>4.0.12</latest>
-    <release>4.0.12</release>
+    <latest>4.0.13</latest>
+    <release>4.0.13</release>
     <versions>
       <version>0.26.0</version>
       <version>1.0.0</version>
@@ -48,7 +48,8 @@
       <version>4.0.10</version>
       <version>4.0.11</version>
       <version>4.0.12</version>
+      <version>4.0.13</version>
     </versions>
-    <lastUpdated>20250225111452</lastUpdated>
+    <lastUpdated>20250524045913</lastUpdated>
   </versioning>
 </metadata>
