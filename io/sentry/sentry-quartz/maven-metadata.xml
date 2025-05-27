@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-quartz</artifactId>
   <versioning>
-    <latest>8.12.0</latest>
-    <release>8.12.0</release>
+    <latest>8.13.1</latest>
+    <release>8.13.1</release>
     <versions>
       <version>6.30.0</version>
       <version>6.31.0</version>
@@ -85,7 +85,9 @@
       <version>8.11.0</version>
       <version>8.11.1</version>
       <version>8.12.0</version>
+      <version>8.13.0</version>
+      <version>8.13.1</version>
     </versions>
-    <lastUpdated>20250513164916</lastUpdated>
+    <lastUpdated>20250526185826</lastUpdated>
   </versioning>
 </metadata>

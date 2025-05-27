@@ -3,8 +3,8 @@
   <groupId>io.kestra.plugin</groupId>
   <artifactId>plugin-dbt</artifactId>
   <versioning>
-    <latest>0.22.0</latest>
-    <release>0.22.0</release>
+    <latest>0.22.1</latest>
+    <release>0.22.1</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -41,7 +41,8 @@
       <version>0.21.3</version>
       <version>0.21.4</version>
       <version>0.22.0</version>
+      <version>0.22.1</version>
     </versions>
-    <lastUpdated>20250401094455</lastUpdated>
+    <lastUpdated>20250526134943</lastUpdated>
   </versioning>
 </metadata>
