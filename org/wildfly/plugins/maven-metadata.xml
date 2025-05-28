@@ -29,5 +29,10 @@
       <prefix>wildfly</prefix>
       <artifactId>wildfly-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>WildFly Plugins -- Zip Attachment Plugin</name>
+      <prefix>wildfly-zip</prefix>
+      <artifactId>wildfly-zip-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
