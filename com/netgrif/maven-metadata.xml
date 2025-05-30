@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>apps-packager-maven-plugin</name>
+      <prefix>apps-packager</prefix>
+      <artifactId>apps-packager-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>nae-module-maven-plugin</name>
       <prefix>nae-module</prefix>
       <artifactId>nae-module-maven-plugin</artifactId>
