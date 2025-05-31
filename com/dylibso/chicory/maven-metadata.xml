@@ -7,6 +7,11 @@
       <artifactId>aot-maven-plugin-experimental</artifactId>
     </plugin>
     <plugin>
+      <name>Chicory - Compiler Maven Plugin</name>
+      <prefix>chicory-compiler</prefix>
+      <artifactId>chicory-compiler-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Chicory - Test Gen Maven Plugin</name>
       <prefix>test-gen</prefix>
       <artifactId>test-gen-plugin</artifactId>
