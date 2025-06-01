@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay.portal</groupId>
   <artifactId>com.liferay.support.tomcat</artifactId>
   <versioning>
@@ -48,7 +48,8 @@
       <version>6.0.4</version>
       <version>6.0.5</version>
       <version>6.0.6</version>
+      <version>7.0.0</version>
     </versions>
-    <lastUpdated>20250115100451</lastUpdated>
+    <lastUpdated>20250531185258</lastUpdated>
   </versioning>
 </metadata>

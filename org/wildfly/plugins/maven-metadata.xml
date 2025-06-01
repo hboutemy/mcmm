@@ -31,7 +31,7 @@
     </plugin>
     <plugin>
       <name>WildFly Plugins -- Zip Attachment Plugin</name>
-      <prefix>wildfly-zip</prefix>
+      <prefix>wfzip</prefix>
       <artifactId>wildfly-zip-plugin</artifactId>
     </plugin>
   </plugins>
