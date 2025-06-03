@@ -3,8 +3,8 @@
   <groupId>io.gravitee.apim.gateway</groupId>
   <artifactId>gravitee-apim-gateway-coverage</artifactId>
   <versioning>
-    <latest>4.7.6</latest>
-    <release>4.7.6</release>
+    <latest>4.8.0-alpha.1</latest>
+    <release>4.8.0-alpha.1</release>
     <versions>
       <version>3.10.15</version>
       <version>3.10.16</version>
@@ -315,7 +315,8 @@
       <version>4.7.4</version>
       <version>4.7.5</version>
       <version>4.7.6</version>
+      <version>4.8.0-alpha.1</version>
     </versions>
-    <lastUpdated>20250528185644</lastUpdated>
+    <lastUpdated>20250602092742</lastUpdated>
   </versioning>
 </metadata>
