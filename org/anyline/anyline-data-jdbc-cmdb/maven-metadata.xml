@@ -3,8 +3,8 @@
   <groupId>org.anyline</groupId>
   <artifactId>anyline-data-jdbc-cmdb</artifactId>
   <versioning>
-    <latest>8.7.2-20250520</latest>
-    <release>8.7.2-20250520</release>
+    <latest>8.7.2-20250603</latest>
+    <release>8.7.2-20250603</release>
     <versions>
       <version>8.6.3-20230526</version>
       <version>8.6.3-20230527</version>
@@ -173,6 +173,7 @@
       <version>8.7.2-jdk11-20250502</version>
       <version>8.7.2-jdk11-20250509</version>
       <version>8.7.2-jdk11-20250520</version>
+      <version>8.7.2-jdk11-20250603</version>
       <version>8.7.2-jdk17-20240501</version>
       <version>8.7.2-jdk17-20240505</version>
       <version>8.7.2-jdk17-20240506</version>
@@ -249,6 +250,7 @@
       <version>8.7.2-jdk17-20250509</version>
       <version>8.7.2-jdk17-20250515</version>
       <version>8.7.2-jdk17-20250520</version>
+      <version>8.7.2-jdk17-20250603</version>
       <version>8.7.2-jdk21-20240501</version>
       <version>8.7.2-jdk21-20240505</version>
       <version>8.7.2-jdk21-20240506</version>
@@ -334,6 +336,7 @@
       <version>8.7.2-jdk21-20250515</version>
       <version>8.7.2-jdk21-20250518</version>
       <version>8.7.2-jdk21-20250520</version>
+      <version>8.7.2-jdk21-20250603</version>
       <version>8.7.2-20240411</version>
       <version>8.7.2-20240415</version>
       <version>8.7.2-20240416</version>
@@ -433,7 +436,8 @@
       <version>8.7.2-20250515</version>
       <version>8.7.2-20250518</version>
       <version>8.7.2-20250520</version>
+      <version>8.7.2-20250603</version>
     </versions>
-    <lastUpdated>20250520094134</lastUpdated>
+    <lastUpdated>20250603121957</lastUpdated>
   </versioning>
 </metadata>

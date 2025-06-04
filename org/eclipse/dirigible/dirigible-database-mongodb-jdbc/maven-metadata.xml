@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-database-mongodb-jdbc</artifactId>
   <versioning>
-    <latest>11.48.0</latest>
-    <release>11.48.0</release>
+    <latest>11.48.2</latest>
+    <release>11.48.2</release>
     <versions>
       <version>8.6.0</version>
       <version>8.6.1</version>
@@ -207,7 +207,8 @@
       <version>11.47.0</version>
       <version>11.47.4</version>
       <version>11.48.0</version>
+      <version>11.48.2</version>
     </versions>
-    <lastUpdated>20250602105816</lastUpdated>
+    <lastUpdated>20250603125001</lastUpdated>
   </versioning>
 </metadata>
