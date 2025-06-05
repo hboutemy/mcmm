@@ -3,8 +3,8 @@
   <groupId>org.eclipse.dirigible</groupId>
   <artifactId>dirigible-database-sql-h2</artifactId>
   <versioning>
-    <latest>11.48.2</latest>
-    <release>11.48.2</release>
+    <latest>11.51.0</latest>
+    <release>11.51.0</release>
     <versions>
       <version>6.3.22</version>
       <version>6.3.23</version>
@@ -250,7 +250,9 @@
       <version>11.47.4</version>
       <version>11.48.0</version>
       <version>11.48.2</version>
+      <version>11.49.0</version>
+      <version>11.51.0</version>
     </versions>
-    <lastUpdated>20250603125005</lastUpdated>
+    <lastUpdated>20250604210508</lastUpdated>
   </versioning>
 </metadata>

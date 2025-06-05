@@ -3,8 +3,8 @@
   <groupId>org.jboss.arquillian.config</groupId>
   <artifactId>arquillian-config-spi</artifactId>
   <versioning>
-    <latest>1.9.4.Final</latest>
-    <release>1.9.4.Final</release>
+    <latest>1.9.5.Final</latest>
+    <release>1.9.5.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -71,7 +71,8 @@
       <version>1.9.2.Final</version>
       <version>1.9.3.Final</version>
       <version>1.9.4.Final</version>
+      <version>1.9.5.Final</version>
     </versions>
-    <lastUpdated>20250326203619</lastUpdated>
+    <lastUpdated>20250604182403</lastUpdated>
   </versioning>
 </metadata>
