@@ -3,8 +3,8 @@
   <groupId>io.camunda.connector</groupId>
   <artifactId>connector-aws-bedrock</artifactId>
   <versioning>
-    <latest>8.8.0-alpha4.1</latest>
-    <release>8.8.0-alpha4.1</release>
+    <latest>8.8.0-alpha5</latest>
+    <release>8.8.0-alpha5</release>
     <versions>
       <version>8.6.0-alpha4</version>
       <version>8.6.0-alpha5</version>
@@ -30,7 +30,8 @@
       <version>8.8.0-alpha3.1</version>
       <version>8.8.0-alpha4</version>
       <version>8.8.0-alpha4.1</version>
+      <version>8.8.0-alpha5</version>
     </versions>
-    <lastUpdated>20250604141924</lastUpdated>
+    <lastUpdated>20250605102904</lastUpdated>
   </versioning>
 </metadata>
