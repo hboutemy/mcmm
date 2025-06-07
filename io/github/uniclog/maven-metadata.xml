@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Config Validator Maven Plugin</name>
+      <prefix>config-validator</prefix>
+      <artifactId>config-validator-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Install Multiple Maven Plugin</name>
       <prefix>install-multiple</prefix>
       <artifactId>install-multiple-maven-plugin</artifactId>

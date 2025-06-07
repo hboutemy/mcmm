@@ -3,15 +3,16 @@
   <groupId>org.hibernate.search</groupId>
   <artifactId>hibernate-search-backend-lucene-next</artifactId>
   <versioning>
-    <latest>8.0.0.CR1</latest>
-    <release>8.0.0.CR1</release>
+    <latest>8.0.0.Final</latest>
+    <release>8.0.0.Final</release>
     <versions>
       <version>8.0.0.Alpha1</version>
       <version>8.0.0.Alpha2</version>
       <version>8.0.0.Alpha3</version>
       <version>8.0.0.Beta1</version>
       <version>8.0.0.CR1</version>
+      <version>8.0.0.Final</version>
     </versions>
-    <lastUpdated>20250531092109</lastUpdated>
+    <lastUpdated>20250606122435</lastUpdated>
   </versioning>
 </metadata>
