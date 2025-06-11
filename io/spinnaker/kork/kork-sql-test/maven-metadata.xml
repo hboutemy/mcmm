@@ -3,8 +3,8 @@
   <groupId>io.spinnaker.kork</groupId>
   <artifactId>kork-sql-test</artifactId>
   <versioning>
-    <latest>2025.0-5</latest>
-    <release>2025.0-5</release>
+    <latest>2025.0-6</latest>
+    <release>2025.0-6</release>
     <versions>
       <version>main-5</version>
       <version>main-6</version>
@@ -21,6 +21,7 @@
       <version>main-17</version>
       <version>main-18</version>
       <version>main-19</version>
+      <version>main-20</version>
       <version>7.92.2</version>
       <version>7.92.4</version>
       <version>7.92.5</version>
@@ -207,11 +208,12 @@
       <version>2025.0-3</version>
       <version>2025.0-4</version>
       <version>2025.0-5</version>
+      <version>2025.0-6</version>
       <version>2025.0.0</version>
       <version>2025.0.1</version>
       <version>2025.0.2</version>
       <version>2025.0.3</version>
     </versions>
-    <lastUpdated>20250607151500</lastUpdated>
+    <lastUpdated>20250610181631</lastUpdated>
   </versioning>
 </metadata>

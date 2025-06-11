@@ -11,5 +11,10 @@
       <prefix>distribution-verifier</prefix>
       <artifactId>distribution-verifier-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>JSON/YAML Validator Maven Plugin</name>
+      <prefix>json-yaml-validator</prefix>
+      <artifactId>json-yaml-validator-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

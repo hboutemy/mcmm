@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>bookkeeper-tools-parent</artifactId>
   <versioning>
-    <latest>4.17.1.3</latest>
-    <release>4.17.1.3</release>
+    <latest>4.17.1.4</latest>
+    <release>4.17.1.4</release>
     <versions>
       <version>branch-4.14.7.1_d4</version>
       <version>4.14.3.1</version>
@@ -23,11 +23,13 @@
       <version>4.16.6.1</version>
       <version>4.16.6.2</version>
       <version>4.16.6.3</version>
+      <version>4.16.6.4</version>
       <version>4.17.0.1</version>
       <version>4.17.1.1</version>
       <version>4.17.1.2</version>
       <version>4.17.1.3</version>
+      <version>4.17.1.4</version>
     </versions>
-    <lastUpdated>20250605230359</lastUpdated>
+    <lastUpdated>20250610032927</lastUpdated>
   </versioning>
 </metadata>
