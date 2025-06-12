@@ -3,8 +3,8 @@
   <groupId>io.micronaut.security</groupId>
   <artifactId>micronaut-security-oauth2</artifactId>
   <versioning>
-    <latest>4.12.1</latest>
-    <release>4.12.1</release>
+    <latest>4.12.2</latest>
+    <release>4.12.2</release>
     <versions>
       <version>2.0.0.M3</version>
       <version>2.0.0.RC1</version>
@@ -126,9 +126,11 @@
       <version>4.11.1</version>
       <version>4.11.2</version>
       <version>4.11.3</version>
+      <version>4.11.4</version>
       <version>4.12.0</version>
       <version>4.12.1</version>
+      <version>4.12.2</version>
     </versions>
-    <lastUpdated>20250327080631</lastUpdated>
+    <lastUpdated>20250611104611</lastUpdated>
   </versioning>
 </metadata>

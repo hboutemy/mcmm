@@ -3,8 +3,8 @@
   <groupId>org.openrewrite</groupId>
   <artifactId>rewrite-xml</artifactId>
   <versioning>
-    <latest>8.55.2</latest>
-    <release>8.55.2</release>
+    <latest>8.55.3</latest>
+    <release>8.55.3</release>
     <versions>
       <version>2.0.0-rc.2</version>
       <version>2.0.0-rc.3</version>
@@ -334,8 +334,9 @@
       <version>8.55.0</version>
       <version>8.55.1</version>
       <version>8.55.2</version>
+      <version>8.55.3</version>
       <version>2.0.0-rc.9</version>
     </versions>
-    <lastUpdated>20250610040216</lastUpdated>
+    <lastUpdated>20250611231751</lastUpdated>
   </versioning>
 </metadata>
