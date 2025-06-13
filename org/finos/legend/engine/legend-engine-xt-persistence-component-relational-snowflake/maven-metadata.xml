@@ -3,8 +3,8 @@
   <groupId>org.finos.legend.engine</groupId>
   <artifactId>legend-engine-xt-persistence-component-relational-snowflake</artifactId>
   <versioning>
-    <latest>4.88.6</latest>
-    <release>4.88.6</release>
+    <latest>4.88.8</latest>
+    <release>4.88.8</release>
     <versions>
       <version>3.16.0</version>
       <version>3.17.0</version>
@@ -267,7 +267,9 @@
       <version>4.88.0</version>
       <version>4.88.1</version>
       <version>4.88.6</version>
+      <version>4.88.7</version>
+      <version>4.88.8</version>
     </versions>
-    <lastUpdated>20250611020059</lastUpdated>
+    <lastUpdated>20250612224150</lastUpdated>
   </versioning>
 </metadata>

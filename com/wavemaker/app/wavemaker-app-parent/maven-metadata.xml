@@ -3,8 +3,8 @@
   <groupId>com.wavemaker.app</groupId>
   <artifactId>wavemaker-app-parent</artifactId>
   <versioning>
-    <latest>11.11.3</latest>
-    <release>11.11.3</release>
+    <latest>11.11.3.ee</latest>
+    <release>11.11.3.ee</release>
     <versions>
       <version>11.0.0.beta</version>
       <version>11.0.0.beta.ee-20220401222842</version>
@@ -110,7 +110,8 @@
       <version>11.11.2</version>
       <version>11.11.2.ee</version>
       <version>11.11.3</version>
+      <version>11.11.3.ee</version>
     </versions>
-    <lastUpdated>20250608101845</lastUpdated>
+    <lastUpdated>20250612092511</lastUpdated>
   </versioning>
 </metadata>

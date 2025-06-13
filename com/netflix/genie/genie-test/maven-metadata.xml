@@ -3,8 +3,8 @@
   <groupId>com.netflix.genie</groupId>
   <artifactId>genie-test</artifactId>
   <versioning>
-    <latest>5.0.0</latest>
-    <release>5.0.0</release>
+    <latest>5.0.2</latest>
+    <release>5.0.2</release>
     <versions>
       <version>3.0.0-rc.1</version>
       <version>3.0.0-rc.2</version>
@@ -214,7 +214,9 @@
       <version>4.3.22</version>
       <version>4.3.23</version>
       <version>5.0.0</version>
+      <version>5.0.1</version>
+      <version>5.0.2</version>
     </versions>
-    <lastUpdated>20250611232408</lastUpdated>
+    <lastUpdated>20250612175903</lastUpdated>
   </versioning>
 </metadata>

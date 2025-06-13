@@ -3,8 +3,8 @@
   <groupId>org.springframework</groupId>
   <artifactId>spring-jcl</artifactId>
   <versioning>
-    <latest>6.2.7</latest>
-    <release>6.2.7</release>
+    <latest>6.2.8</latest>
+    <release>6.2.8</release>
     <versions>
       <version>5.0.0.RELEASE</version>
       <version>5.0.1.RELEASE</version>
@@ -159,6 +159,7 @@
       <version>6.1.18</version>
       <version>6.1.19</version>
       <version>6.1.20</version>
+      <version>6.1.21</version>
       <version>6.2.0</version>
       <version>6.2.1</version>
       <version>6.2.2</version>
@@ -167,7 +168,8 @@
       <version>6.2.5</version>
       <version>6.2.6</version>
       <version>6.2.7</version>
+      <version>6.2.8</version>
     </versions>
-    <lastUpdated>20250515085508</lastUpdated>
+    <lastUpdated>20250612093123</lastUpdated>
   </versioning>
 </metadata>

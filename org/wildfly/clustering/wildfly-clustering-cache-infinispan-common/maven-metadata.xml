@@ -3,8 +3,8 @@
   <groupId>org.wildfly.clustering</groupId>
   <artifactId>wildfly-clustering-cache-infinispan-common</artifactId>
   <versioning>
-    <latest>7.0.5.Final</latest>
-    <release>7.0.5.Final</release>
+    <latest>7.0.6.Final</latest>
+    <release>7.0.6.Final</release>
     <versions>
       <version>1.0.0.Beta1</version>
       <version>1.0.0.Beta2</version>
@@ -74,7 +74,8 @@
       <version>7.0.3.Final</version>
       <version>7.0.4.Final</version>
       <version>7.0.5.Final</version>
+      <version>7.0.6.Final</version>
     </versions>
-    <lastUpdated>20250608113818</lastUpdated>
+    <lastUpdated>20250612130016</lastUpdated>
   </versioning>
 </metadata>
