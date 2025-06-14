@@ -3,8 +3,8 @@
   <groupId>io.streamnative</groupId>
   <artifactId>tiered-storage-parent</artifactId>
   <versioning>
-    <latest>4.0.4.2</latest>
-    <release>4.0.4.2</release>
+    <latest>4.0.4.3</latest>
+    <release>4.0.4.3</release>
     <versions>
       <version>master-rc-daily</version>
       <version>v2.8.0-rc-202106091140</version>
@@ -800,7 +800,8 @@
       <version>4.0.1.4</version>
       <version>4.0.3.1</version>
       <version>4.0.4.2</version>
+      <version>4.0.4.3</version>
     </versions>
-    <lastUpdated>20250612074122</lastUpdated>
+    <lastUpdated>20250613003230</lastUpdated>
   </versioning>
 </metadata>
