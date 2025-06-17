@@ -3,8 +3,8 @@
   <groupId>io.agora.rtc</groupId>
   <artifactId>agora-special-full</artifactId>
   <versioning>
-    <latest>4.5.2.134</latest>
-    <release>4.5.2.134</release>
+    <latest>4.5.2.135</latest>
+    <release>4.5.2.135</release>
     <versions>
       <version>2.9.106.234</version>
       <version>2.9.106.244</version>
@@ -886,6 +886,8 @@
       <version>4.3.2.236</version>
       <version>4.3.2.236.BASIC</version>
       <version>4.3.2.237</version>
+      <version>4.3.2.246</version>
+      <version>4.3.2.246.LITE</version>
       <version>4.4.1.1</version>
       <version>4.4.1.2</version>
       <version>4.4.1.2.MixedRTM</version>
@@ -967,6 +969,7 @@
       <version>4.5.2.130.WR</version>
       <version>4.5.2.130.WRHD</version>
       <version>4.5.2.134</version>
+      <version>4.5.2.135</version>
       <version>3.0.1.214</version>
       <version>3.7.203.12</version>
       <version>3.7.3.2.basic</version>
@@ -976,6 +979,6 @@
       <version>4.0.1.4</version>
       <version>4.1.1.10.01.BASIC</version>
     </versions>
-    <lastUpdated>20250612031058</lastUpdated>
+    <lastUpdated>20250616090126</lastUpdated>
   </versioning>
 </metadata>
