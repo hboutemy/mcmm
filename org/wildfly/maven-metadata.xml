@@ -6,5 +6,10 @@
       <prefix>wildfly-channel</prefix>
       <artifactId>wildfly-channel-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>Apache Maven GPG Plugin</name>
+      <prefix>wildflygpg</prefix>
+      <artifactId>wildfly-maven-gpg-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

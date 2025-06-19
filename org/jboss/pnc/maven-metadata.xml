@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>rpm-builder-maven-plugin</name>
+      <prefix>rpm-builder</prefix>
+      <artifactId>rpm-builder-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
