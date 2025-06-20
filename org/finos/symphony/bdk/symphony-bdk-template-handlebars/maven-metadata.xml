@@ -3,8 +3,8 @@
   <groupId>org.finos.symphony.bdk</groupId>
   <artifactId>symphony-bdk-template-handlebars</artifactId>
   <versioning>
-    <latest>3.1.2</latest>
-    <release>3.1.2</release>
+    <latest>3.1.3</latest>
+    <release>3.1.3</release>
     <versions>
       <version>2.1.0.RC1</version>
       <version>2.1.0.RC2</version>
@@ -32,6 +32,7 @@
       <version>3.1.0</version>
       <version>3.1.1</version>
       <version>3.1.2</version>
+      <version>3.1.3</version>
       <version>2.10.0</version>
       <version>2.11.0</version>
       <version>2.11.1</version>
@@ -62,6 +63,6 @@
       <version>3.0.2</version>
       <version>3.0.3</version>
     </versions>
-    <lastUpdated>20250307075048</lastUpdated>
+    <lastUpdated>20250619094750</lastUpdated>
   </versioning>
 </metadata>
