@@ -3,8 +3,8 @@
   <groupId>io.gravitee.am.factor</groupId>
   <artifactId>gravitee-am-factor-mock</artifactId>
   <versioning>
-    <latest>4.6.12</latest>
-    <release>4.6.12</release>
+    <latest>4.6.13</latest>
+    <release>4.6.13</release>
     <versions>
       <version>4.0.0-alpha.1</version>
       <version>4.0.0</version>
@@ -162,6 +162,7 @@
       <version>4.4.26</version>
       <version>4.4.27</version>
       <version>4.4.28</version>
+      <version>4.4.29</version>
       <version>4.5.0-alpha.1</version>
       <version>4.5.0-alpha.2</version>
       <version>4.5.0-alpha.3</version>
@@ -185,6 +186,7 @@
       <version>4.5.16</version>
       <version>4.5.17</version>
       <version>4.5.18</version>
+      <version>4.5.19</version>
       <version>4.6.0-alpha.1</version>
       <version>4.6.0-alpha.2</version>
       <version>4.6.0-alpha.3</version>
@@ -201,7 +203,8 @@
       <version>4.6.10</version>
       <version>4.6.11</version>
       <version>4.6.12</version>
+      <version>4.6.13</version>
     </versions>
-    <lastUpdated>20250609075017</lastUpdated>
+    <lastUpdated>20250620082138</lastUpdated>
   </versioning>
 </metadata>

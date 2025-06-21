@@ -3,8 +3,8 @@
   <groupId>org.apache.lucene</groupId>
   <artifactId>lucene-replicator</artifactId>
   <versioning>
-    <latest>10.2.1</latest>
-    <release>10.2.1</release>
+    <latest>10.2.2</latest>
+    <release>10.2.2</release>
     <versions>
       <version>4.4.0</version>
       <version>4.5.0</version>
@@ -116,11 +116,13 @@
       <version>9.11.1</version>
       <version>9.12.0</version>
       <version>9.12.1</version>
+      <version>9.12.2</version>
       <version>10.0.0</version>
       <version>10.1.0</version>
       <version>10.2.0</version>
       <version>10.2.1</version>
+      <version>10.2.2</version>
     </versions>
-    <lastUpdated>20250501110452</lastUpdated>
+    <lastUpdated>20250620133434</lastUpdated>
   </versioning>
 </metadata>

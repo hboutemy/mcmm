@@ -3,8 +3,8 @@
   <groupId>io.camunda</groupId>
   <artifactId>operate-importer-8_6</artifactId>
   <versioning>
-    <latest>8.7.6-rc2</latest>
-    <release>8.7.6-rc2</release>
+    <latest>8.7.6</latest>
+    <release>8.7.6</release>
     <versions>
       <version>8.6.0-alpha1-rc1</version>
       <version>8.6.0-alpha1-rc2</version>
@@ -56,6 +56,7 @@
       <version>8.6.18</version>
       <version>8.6.19-rc1</version>
       <version>8.6.19-rc2</version>
+      <version>8.6.19</version>
       <version>8.7.0-alpha1-rc1</version>
       <version>8.7.0-alpha1</version>
       <version>8.7.0-alpha2-rc1</version>
@@ -85,7 +86,8 @@
       <version>8.7.5</version>
       <version>8.7.6-rc1</version>
       <version>8.7.6-rc2</version>
+      <version>8.7.6</version>
     </versions>
-    <lastUpdated>20250619144600</lastUpdated>
+    <lastUpdated>20250620112333</lastUpdated>
   </versioning>
 </metadata>
