@@ -11,5 +11,10 @@
       <prefix>nae-module</prefix>
       <artifactId>nae-module-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>nae-plugin-maven-plugin</name>
+      <prefix>nae</prefix>
+      <artifactId>nae-plugin-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

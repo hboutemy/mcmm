@@ -8,7 +8,7 @@
     </plugin>
     <plugin>
       <name>Apache Maven GPG Plugin</name>
-      <prefix>wildflygpg</prefix>
+      <prefix>wfgpg</prefix>
       <artifactId>wildfly-maven-gpg-plugin</artifactId>
     </plugin>
   </plugins>

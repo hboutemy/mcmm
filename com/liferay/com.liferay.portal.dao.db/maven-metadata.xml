@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>com.liferay</groupId>
   <artifactId>com.liferay.portal.dao.db</artifactId>
   <versioning>
-    <latest>5.0.36</latest>
-    <release>5.0.36</release>
+    <latest>5.0.37</latest>
+    <release>5.0.37</release>
     <versions>
       <version>1.0.17</version>
       <version>1.0.18</version>
@@ -62,7 +62,8 @@
       <version>5.0.34</version>
       <version>5.0.35</version>
       <version>5.0.36</version>
+      <version>5.0.37</version>
     </versions>
-    <lastUpdated>20250409103707</lastUpdated>
+    <lastUpdated>20250621161250</lastUpdated>
   </versioning>
 </metadata>
