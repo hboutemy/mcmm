@@ -3,8 +3,8 @@
   <groupId>org.apache.servicecomb</groupId>
   <artifactId>registry-lightweight</artifactId>
   <versioning>
-    <latest>3.2.6</latest>
-    <release>3.2.6</release>
+    <latest>3.3.0</latest>
+    <release>3.3.0</release>
     <versions>
       <version>2.2.1</version>
       <version>2.2.2</version>
@@ -63,6 +63,7 @@
       <version>2.8.23</version>
       <version>2.8.24</version>
       <version>2.8.25</version>
+      <version>2.9.0</version>
       <version>3.0.0</version>
       <version>3.0.1</version>
       <version>3.0.2</version>
@@ -76,7 +77,8 @@
       <version>3.2.4</version>
       <version>3.2.5</version>
       <version>3.2.6</version>
+      <version>3.3.0</version>
     </versions>
-    <lastUpdated>20250617090033</lastUpdated>
+    <lastUpdated>20250623040113</lastUpdated>
   </versioning>
 </metadata>
