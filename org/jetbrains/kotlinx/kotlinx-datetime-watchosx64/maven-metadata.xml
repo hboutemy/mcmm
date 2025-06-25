@@ -3,8 +3,8 @@
   <groupId>org.jetbrains.kotlinx</groupId>
   <artifactId>kotlinx-datetime-watchosx64</artifactId>
   <versioning>
-    <latest>0.6.2</latest>
-    <release>0.6.2</release>
+    <latest>0.7.0-0.6.x-compat</latest>
+    <release>0.7.0-0.6.x-compat</release>
     <versions>
       <version>0.2.1</version>
       <version>0.3.0</version>
@@ -19,7 +19,9 @@
       <version>0.6.0</version>
       <version>0.6.1</version>
       <version>0.6.2</version>
+      <version>0.7.0</version>
+      <version>0.7.0-0.6.x-compat</version>
     </versions>
-    <lastUpdated>20250210152522</lastUpdated>
+    <lastUpdated>20250624142812</lastUpdated>
   </versioning>
 </metadata>

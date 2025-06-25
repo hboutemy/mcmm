@@ -3,8 +3,8 @@
   <groupId>org.open-metadata</groupId>
   <artifactId>elasticsearch-deps</artifactId>
   <versioning>
-    <latest>1.7.5</latest>
-    <release>1.7.5</release>
+    <latest>1.8.0</latest>
+    <release>1.8.0</release>
     <versions>
       <version>1.2.0-beta1</version>
       <version>1.2.0-beta2</version>
@@ -76,7 +76,8 @@
       <version>1.7.3</version>
       <version>1.7.4</version>
       <version>1.7.5</version>
+      <version>1.8.0</version>
     </versions>
-    <lastUpdated>20250620014022</lastUpdated>
+    <lastUpdated>20250624054419</lastUpdated>
   </versioning>
 </metadata>
