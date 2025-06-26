@@ -3,8 +3,8 @@
   <groupId>org.openrewrite.recipe</groupId>
   <artifactId>rewrite-recipe-bom</artifactId>
   <versioning>
-    <latest>3.9.0</latest>
-    <release>3.9.0</release>
+    <latest>3.10.0</latest>
+    <release>3.10.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -111,7 +111,8 @@
       <version>3.8.0</version>
       <version>3.8.1</version>
       <version>3.9.0</version>
+      <version>3.10.0</version>
     </versions>
-    <lastUpdated>20250528181308</lastUpdated>
+    <lastUpdated>20250625140922</lastUpdated>
   </versioning>
 </metadata>
