@@ -3,8 +3,8 @@
   <groupId>io.sentry</groupId>
   <artifactId>sentry-bom</artifactId>
   <versioning>
-    <latest>8.15.0</latest>
-    <release>8.15.0</release>
+    <latest>8.15.1</latest>
+    <release>8.15.1</release>
     <versions>
       <version>5.1.0-beta.8</version>
       <version>5.1.0-beta.9</version>
@@ -190,7 +190,8 @@
       <version>8.13.3</version>
       <version>8.14.0</version>
       <version>8.15.0</version>
+      <version>8.15.1</version>
     </versions>
-    <lastUpdated>20250625151651</lastUpdated>
+    <lastUpdated>20250626093400</lastUpdated>
   </versioning>
 </metadata>

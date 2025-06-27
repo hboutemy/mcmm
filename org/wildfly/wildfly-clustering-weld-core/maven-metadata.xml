@@ -3,8 +3,8 @@
   <groupId>org.wildfly</groupId>
   <artifactId>wildfly-clustering-weld-core</artifactId>
   <versioning>
-    <latest>36.0.1.Final</latest>
-    <release>36.0.1.Final</release>
+    <latest>37.0.0.Beta1</latest>
+    <release>37.0.0.Beta1</release>
     <versions>
       <version>27.0.0.Alpha2</version>
       <version>27.0.0.Alpha3</version>
@@ -42,7 +42,8 @@
       <version>36.0.0.Beta1</version>
       <version>36.0.0.Final</version>
       <version>36.0.1.Final</version>
+      <version>37.0.0.Beta1</version>
     </versions>
-    <lastUpdated>20250514153445</lastUpdated>
+    <lastUpdated>20250625142234</lastUpdated>
   </versioning>
 </metadata>
