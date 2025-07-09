@@ -72,6 +72,11 @@
       <artifactId>camel-package-maven-plugin</artifactId>
     </plugin>
     <plugin>
+      <name>Camel :: Maven Plugins :: Repackager</name>
+      <prefix>camel-repackager</prefix>
+      <artifactId>camel-repackager-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Camel :: Catalog :: Camel Report Maven Plugin</name>
       <prefix>camel-report</prefix>
       <artifactId>camel-report-maven-plugin</artifactId>
