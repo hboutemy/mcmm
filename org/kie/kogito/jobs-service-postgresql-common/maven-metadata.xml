@@ -3,10 +3,11 @@
   <groupId>org.kie.kogito</groupId>
   <artifactId>jobs-service-postgresql-common</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.1.0</latest>
+    <release>10.1.0</release>
     <versions>
       <version>10.0.0</version>
+      <version>10.1.0</version>
       <version>1.40.2.Final</version>
       <version>1.41.0.Final</version>
       <version>1.42.0.Final</version>
@@ -15,6 +16,6 @@
       <version>1.44.1.Final</version>
       <version>2.44.0.Alpha</version>
     </versions>
-    <lastUpdated>20241210001713</lastUpdated>
+    <lastUpdated>20250710121926</lastUpdated>
   </versioning>
 </metadata>

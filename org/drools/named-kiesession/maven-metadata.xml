@@ -3,10 +3,11 @@
   <groupId>org.drools</groupId>
   <artifactId>named-kiesession</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.1.0</latest>
+    <release>10.1.0</release>
     <versions>
       <version>10.0.0</version>
+      <version>10.1.0</version>
       <version>6.0.0.Alpha7</version>
       <version>6.0.0.Alpha9</version>
       <version>6.0.0.Beta1</version>
@@ -216,6 +217,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20241209232503</lastUpdated>
+    <lastUpdated>20250710121828</lastUpdated>
   </versioning>
 </metadata>

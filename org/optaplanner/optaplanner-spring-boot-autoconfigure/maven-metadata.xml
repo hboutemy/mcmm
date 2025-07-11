@@ -3,10 +3,11 @@
   <groupId>org.optaplanner</groupId>
   <artifactId>optaplanner-spring-boot-autoconfigure</artifactId>
   <versioning>
-    <latest>10.0.0</latest>
-    <release>10.0.0</release>
+    <latest>10.1.0</latest>
+    <release>10.1.0</release>
     <versions>
       <version>10.0.0</version>
+      <version>10.1.0</version>
       <version>7.32.0.Final</version>
       <version>7.33.0.Final</version>
       <version>7.34.0.Final</version>
@@ -121,6 +122,6 @@
       <version>9.43.0.Final</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20241209233951</lastUpdated>
+    <lastUpdated>20250710121846</lastUpdated>
   </versioning>
 </metadata>
