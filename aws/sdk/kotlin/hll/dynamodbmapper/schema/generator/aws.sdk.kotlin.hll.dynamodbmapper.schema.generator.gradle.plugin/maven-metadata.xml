@@ -3,8 +3,8 @@
   <groupId>aws.sdk.kotlin.hll.dynamodbmapper.schema.generator</groupId>
   <artifactId>aws.sdk.kotlin.hll.dynamodbmapper.schema.generator.gradle.plugin</artifactId>
   <versioning>
-    <latest>1.5.1-beta</latest>
-    <release>1.5.1-beta</release>
+    <latest>1.5.2-beta</latest>
+    <release>1.5.2-beta</release>
     <versions>
       <version>1.3.64-beta</version>
       <version>1.3.65-beta</version>
@@ -182,7 +182,8 @@
       <version>1.4.125-beta</version>
       <version>1.5.0-beta</version>
       <version>1.5.1-beta</version>
+      <version>1.5.2-beta</version>
     </versions>
-    <lastUpdated>20250722190242</lastUpdated>
+    <lastUpdated>20250723185608</lastUpdated>
   </versioning>
 </metadata>
