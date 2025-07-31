@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>aws.sdk.kotlin</groupId>
   <artifactId>iottwinmaker</artifactId>
   <versioning>
-    <latest>1.5.6</latest>
-    <release>1.5.6</release>
+    <latest>1.5.7</latest>
+    <release>1.5.7</release>
     <versions>
       <version>0.9.5-beta</version>
       <version>0.10.0-beta</version>
@@ -506,10 +506,11 @@
       <version>1.5.1</version>
       <version>1.5.2</version>
       <version>1.5.3</version>
-      <version>1.5.6</version>
       <version>1.5.4</version>
       <version>1.5.5</version>
+      <version>1.5.6</version>
+      <version>1.5.7</version>
     </versions>
-    <lastUpdated>20250729211438</lastUpdated>
+    <lastUpdated>20250730204612</lastUpdated>
   </versioning>
 </metadata>
