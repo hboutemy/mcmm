@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>aws.sdk.kotlin</groupId>
   <artifactId>dynamodb-mapper-jvm</artifactId>
   <versioning>
-    <latest>1.5.7-beta</latest>
-    <release>1.5.7-beta</release>
+    <latest>1.5.8-beta</latest>
+    <release>1.5.8-beta</release>
     <versions>
       <version>1.3.64-beta</version>
       <version>1.3.65-beta</version>
@@ -184,11 +184,12 @@
       <version>1.5.1-beta</version>
       <version>1.5.2-beta</version>
       <version>1.5.3-beta</version>
-      <version>1.5.6-beta</version>
-      <version>1.5.7-beta</version>
       <version>1.5.4-beta</version>
       <version>1.5.5-beta</version>
+      <version>1.5.6-beta</version>
+      <version>1.5.7-beta</version>
+      <version>1.5.8-beta</version>
     </versions>
-    <lastUpdated>20250730190146</lastUpdated>
+    <lastUpdated>20250731185351</lastUpdated>
   </versioning>
 </metadata>
