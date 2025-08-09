@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions</groupId>
   <artifactId>druid-ec2-extensions</artifactId>
   <versioning>
-    <latest>33.0.0</latest>
-    <release>33.0.0</release>
+    <latest>34.0.0</latest>
+    <release>34.0.0</release>
     <versions>
       <version>0.15.0-incubating</version>
       <version>0.15.1-incubating</version>
@@ -41,7 +41,8 @@
       <version>32.0.0</version>
       <version>32.0.1</version>
       <version>33.0.0</version>
+      <version>34.0.0</version>
     </versions>
-    <lastUpdated>20250425065353</lastUpdated>
+    <lastUpdated>20250808012207</lastUpdated>
   </versioning>
 </metadata>

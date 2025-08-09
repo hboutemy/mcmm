@@ -3,8 +3,8 @@
   <groupId>org.apache.druid.extensions</groupId>
   <artifactId>mysql-metadata-storage</artifactId>
   <versioning>
-    <latest>33.0.0</latest>
-    <release>33.0.0</release>
+    <latest>34.0.0</latest>
+    <release>34.0.0</release>
     <versions>
       <version>0.13.0-incubating</version>
       <version>0.14.0-incubating</version>
@@ -45,7 +45,8 @@
       <version>32.0.0</version>
       <version>32.0.1</version>
       <version>33.0.0</version>
+      <version>34.0.0</version>
     </versions>
-    <lastUpdated>20250425065538</lastUpdated>
+    <lastUpdated>20250808012209</lastUpdated>
   </versioning>
 </metadata>
