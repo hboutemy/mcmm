@@ -3,8 +3,8 @@
   <groupId>aws.sdk.kotlin</groupId>
   <artifactId>dynamodb-mapper-jvm</artifactId>
   <versioning>
-    <latest>1.5.26-beta</latest>
-    <release>1.5.26-beta</release>
+    <latest>1.5.29-beta</latest>
+    <release>1.5.29-beta</release>
     <versions>
       <version>1.3.64-beta</version>
       <version>1.3.65-beta</version>
@@ -207,7 +207,10 @@
       <version>1.5.24-beta</version>
       <version>1.5.25-beta</version>
       <version>1.5.26-beta</version>
+      <version>1.5.27-beta</version>
+      <version>1.5.28-beta</version>
+      <version>1.5.29-beta</version>
     </versions>
-    <lastUpdated>20250826185659</lastUpdated>
+    <lastUpdated>20250829185722</lastUpdated>
   </versioning>
 </metadata>

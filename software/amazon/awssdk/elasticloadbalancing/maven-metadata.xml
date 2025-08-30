@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>elasticloadbalancing</artifactId>
   <versioning>
-    <latest>2.32.31</latest>
-    <release>2.32.31</release>
+    <latest>2.33.0</latest>
+    <release>2.33.0</release>
     <versions>
       <version>2.0.0-preview-1</version>
       <version>2.0.0-preview-2</version>
@@ -1596,7 +1596,9 @@
       <version>2.32.29</version>
       <version>2.32.30</version>
       <version>2.32.31</version>
+      <version>2.32.32</version>
+      <version>2.32.33</version>
     </versions>
-    <lastUpdated>20250827002313</lastUpdated>
+    <lastUpdated>20250829211236</lastUpdated>
   </versioning>
 </metadata>
