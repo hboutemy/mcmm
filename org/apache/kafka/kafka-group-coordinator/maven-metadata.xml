@@ -3,8 +3,8 @@
   <groupId>org.apache.kafka</groupId>
   <artifactId>kafka-group-coordinator</artifactId>
   <versioning>
-    <latest>4.0.0</latest>
-    <release>4.0.0</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>3.4.0</version>
       <version>3.4.1</version>
@@ -22,7 +22,8 @@
       <version>3.9.0</version>
       <version>3.9.1</version>
       <version>4.0.0</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20250519124456</lastUpdated>
+    <lastUpdated>20250902131132</lastUpdated>
   </versioning>
 </metadata>
