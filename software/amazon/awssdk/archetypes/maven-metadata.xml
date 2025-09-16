@@ -3,8 +3,8 @@
   <groupId>software.amazon.awssdk</groupId>
   <artifactId>archetypes</artifactId>
   <versioning>
-    <latest>2.33.5</latest>
-    <release>2.33.5</release>
+    <latest>2.33.7</latest>
+    <release>2.33.7</release>
     <versions>
       <version>2.11.4</version>
       <version>2.11.5</version>
@@ -1312,7 +1312,9 @@
       <version>2.33.3</version>
       <version>2.33.4</version>
       <version>2.33.5</version>
+      <version>2.33.6</version>
+      <version>2.33.7</version>
     </versions>
-    <lastUpdated>20250908215111</lastUpdated>
+    <lastUpdated>20250910212536</lastUpdated>
   </versioning>
 </metadata>
