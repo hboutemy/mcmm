@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.aaa</groupId>
   <artifactId>odl-aaa-password-service</artifactId>
   <versioning>
-    <latest>0.21.1</latest>
-    <release>0.21.1</release>
+    <latest>0.21.2</latest>
+    <release>0.21.2</release>
     <versions>
       <version>0.8.0</version>
       <version>0.8.1</version>
@@ -127,9 +127,11 @@
       <version>0.20.10</version>
       <version>0.20.11</version>
       <version>0.20.12</version>
+      <version>0.20.13</version>
       <version>0.21.0</version>
       <version>0.21.1</version>
+      <version>0.21.2</version>
     </versions>
-    <lastUpdated>20250916140645</lastUpdated>
+    <lastUpdated>20250917025936</lastUpdated>
   </versioning>
 </metadata>
