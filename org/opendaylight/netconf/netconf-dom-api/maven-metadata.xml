@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>netconf-dom-api</artifactId>
   <versioning>
-    <latest>9.0.0</latest>
-    <release>9.0.0</release>
+    <latest>9.0.1</latest>
+    <release>9.0.1</release>
     <versions>
       <version>1.9.0</version>
       <version>1.9.1</version>
@@ -103,7 +103,8 @@
       <version>8.0.8</version>
       <version>8.0.9</version>
       <version>9.0.0</version>
+      <version>9.0.1</version>
     </versions>
-    <lastUpdated>20250918121107</lastUpdated>
+    <lastUpdated>20250920155814</lastUpdated>
   </versioning>
 </metadata>
