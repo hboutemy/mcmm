@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.transportpce.models</groupId>
   <artifactId>openroadm-device-2.2.1</artifactId>
   <versioning>
-    <latest>22.0.0</latest>
-    <release>22.0.0</release>
+    <latest>22.1.0</latest>
+    <release>22.1.0</release>
     <versions>
       <version>17.0.0</version>
       <version>17.1.0</version>
@@ -34,8 +34,10 @@
       <version>21.2.0</version>
       <version>21.2.1</version>
       <version>21.2.2</version>
+      <version>21.3.0</version>
       <version>22.0.0</version>
+      <version>22.1.0</version>
     </versions>
-    <lastUpdated>20250718230222</lastUpdated>
+    <lastUpdated>20251007114438</lastUpdated>
   </versioning>
 </metadata>
