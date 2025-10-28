@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-aws2-msk-deployment</artifactId>
   <versioning>
-    <latest>3.27.0</latest>
-    <release>3.27.0</release>
+    <latest>3.29.0</latest>
+    <release>3.29.0</release>
     <versions>
       <version>1.0.0-M6</version>
       <version>1.0.0-M7</version>
@@ -82,13 +82,15 @@
       <version>3.20.0</version>
       <version>3.20.1</version>
       <version>3.20.2</version>
+      <version>3.20.3</version>
       <version>3.22.0</version>
       <version>3.23.0</version>
       <version>3.24.0</version>
       <version>3.25.0</version>
       <version>3.26.0</version>
       <version>3.27.0</version>
+      <version>3.29.0</version>
     </versions>
-    <lastUpdated>20250922140625</lastUpdated>
+    <lastUpdated>20251027071418</lastUpdated>
   </versioning>
 </metadata>
