@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.springboot</groupId>
   <artifactId>camel-spring-jdbc-starter</artifactId>
   <versioning>
-    <latest>4.15.0</latest>
-    <release>4.15.0</release>
+    <latest>4.16.0</latest>
+    <release>4.16.0</release>
     <versions>
       <version>3.10.0</version>
       <version>3.11.0</version>
@@ -112,7 +112,8 @@
       <version>4.14.1</version>
       <version>4.14.2</version>
       <version>4.15.0</version>
+      <version>4.16.0</version>
     </versions>
-    <lastUpdated>20251101194032</lastUpdated>
+    <lastUpdated>20251105130002</lastUpdated>
   </versioning>
 </metadata>
