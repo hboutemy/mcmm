@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-jasper-el</artifactId>
   <versioning>
-    <latest>11.0.13</latest>
-    <release>11.0.13</release>
+    <latest>11.0.14</latest>
+    <release>11.0.14</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.2</version>
@@ -323,6 +323,7 @@
       <version>9.0.109</version>
       <version>9.0.110</version>
       <version>9.0.111</version>
+      <version>9.0.112</version>
       <version>10.0.0-M1</version>
       <version>10.0.0-M3</version>
       <version>10.0.0-M4</version>
@@ -409,6 +410,7 @@
       <version>10.1.46</version>
       <version>10.1.47</version>
       <version>10.1.48</version>
+      <version>10.1.49</version>
       <version>11.0.0-M1</version>
       <version>11.0.0-M3</version>
       <version>11.0.0-M4</version>
@@ -446,7 +448,8 @@
       <version>11.0.11</version>
       <version>11.0.12</version>
       <version>11.0.13</version>
+      <version>11.0.14</version>
     </versions>
-    <lastUpdated>20251013230241</lastUpdated>
+    <lastUpdated>20251110140301</lastUpdated>
   </versioning>
 </metadata>
