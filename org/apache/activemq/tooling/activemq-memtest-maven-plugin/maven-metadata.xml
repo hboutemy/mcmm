@@ -3,8 +3,8 @@
   <groupId>org.apache.activemq.tooling</groupId>
   <artifactId>activemq-memtest-maven-plugin</artifactId>
   <versioning>
-    <latest>6.1.8</latest>
-    <release>6.1.8</release>
+    <latest>6.2.0</latest>
+    <release>6.2.0</release>
     <versions>
       <version>5.8.0</version>
       <version>5.9.0</version>
@@ -88,7 +88,8 @@
       <version>6.1.6</version>
       <version>6.1.7</version>
       <version>6.1.8</version>
+      <version>6.2.0</version>
     </versions>
-    <lastUpdated>20251022175814</lastUpdated>
+    <lastUpdated>20251114083000</lastUpdated>
   </versioning>
 </metadata>
