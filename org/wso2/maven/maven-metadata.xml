@@ -166,6 +166,11 @@
       <artifactId>mi-container-config-mapper</artifactId>
     </plugin>
     <plugin>
+      <name>Synapse Static Code Analysis Maven Plugin</name>
+      <prefix>synapse-static-code-analysis</prefix>
+      <artifactId>synapse-static-code-analysis-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Synapse Unit Test Maven Plugin</name>
       <prefix>synapse-unit-test</prefix>
       <artifactId>synapse-unit-test-maven-plugin</artifactId>
