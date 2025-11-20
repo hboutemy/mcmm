@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>odl-netconf-keystore-plaintext</artifactId>
   <versioning>
-    <latest>10.0.1</latest>
-    <release>10.0.1</release>
+    <latest>10.0.2</latest>
+    <release>10.0.2</release>
     <versions>
       <version>7.0.4</version>
       <version>7.0.5</version>
@@ -29,7 +29,8 @@
       <version>9.0.1</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
+      <version>10.0.2</version>
     </versions>
-    <lastUpdated>20251113223319</lastUpdated>
+    <lastUpdated>20251119235004</lastUpdated>
   </versioning>
 </metadata>
