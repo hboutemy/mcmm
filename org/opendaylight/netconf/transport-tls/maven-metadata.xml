@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>transport-tls</artifactId>
   <versioning>
-    <latest>10.0.1</latest>
-    <release>10.0.1</release>
+    <latest>10.0.2</latest>
+    <release>10.0.2</release>
     <versions>
       <version>5.0.4</version>
       <version>5.0.6</version>
@@ -49,7 +49,8 @@
       <version>9.0.1</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
+      <version>10.0.2</version>
     </versions>
-    <lastUpdated>20251113225003</lastUpdated>
+    <lastUpdated>20251120000702</lastUpdated>
   </versioning>
 </metadata>
