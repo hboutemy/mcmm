@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.analytics-common</groupId>
   <artifactId>org.wso2.carbon.event.output.adapter.websocket.local</artifactId>
   <versioning>
-    <latest>5.3.16</latest>
-    <release>5.3.16</release>
+    <latest>5.3.27</latest>
+    <release>5.3.27</release>
     <versions>
       <version>1.0.0</version>
       <version>2.0.0-alpha</version>
@@ -117,6 +117,7 @@
       <version>5.2.49</version>
       <version>5.2.51</version>
       <version>5.2.52</version>
+      <version>5.2.65</version>
       <version>5.3.0</version>
       <version>5.3.1</version>
       <version>5.3.3</version>
@@ -129,6 +130,6 @@
       <version>5.3.13</version>
       <version>5.3.16</version>
     </versions>
-    <lastUpdated>20241112074130</lastUpdated>
+    <lastUpdated>20251125100623</lastUpdated>
   </versioning>
 </metadata>
