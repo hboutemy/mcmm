@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.bgpcep</groupId>
   <artifactId>bgp-openconfig-rp-spi</artifactId>
   <versioning>
-    <latest>0.23.1</latest>
-    <release>0.23.1</release>
+    <latest>1.0.0</latest>
+    <release>1.0.0</release>
     <versions>
       <version>0.10.0</version>
       <version>0.10.1</version>
@@ -119,7 +119,8 @@
       <version>0.22.12</version>
       <version>0.23.0</version>
       <version>0.23.1</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20250921003125</lastUpdated>
+    <lastUpdated>20251128182852</lastUpdated>
   </versioning>
 </metadata>
