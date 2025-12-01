@@ -3,8 +3,8 @@
   <groupId>org.apache.poi</groupId>
   <artifactId>poi</artifactId>
   <versioning>
-    <latest>5.5.0</latest>
-    <release>5.5.0</release>
+    <latest>5.5.1</latest>
+    <release>5.5.1</release>
     <versions>
       <version>3.5-beta4</version>
       <version>3.5-beta5</version>
@@ -61,6 +61,7 @@
       <version>5.4.0</version>
       <version>5.4.1</version>
       <version>5.5.0</version>
+      <version>5.5.1</version>
       <version>3.0-FINAL</version>
       <version>3.0.1-FINAL</version>
       <version>3.0.2-FINAL</version>
@@ -73,6 +74,6 @@
       <version>3.5-beta1</version>
       <version>3.5-beta3</version>
     </versions>
-    <lastUpdated>20251115093847</lastUpdated>
+    <lastUpdated>20251130185820</lastUpdated>
   </versioning>
 </metadata>
