@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-architecture-tests-production</artifactId>
   <versioning>
-    <latest>2.1.1</latest>
-    <release>2.1.1</release>
+    <latest>2.2.0</latest>
+    <release>2.2.0</release>
     <versions>
       <version>1.15.0</version>
       <version>1.15.1</version>
@@ -33,7 +33,8 @@
       <version>2.0.1</version>
       <version>2.1.0</version>
       <version>2.1.1</version>
+      <version>2.2.0</version>
     </versions>
-    <lastUpdated>20251030083343</lastUpdated>
+    <lastUpdated>20251203030430</lastUpdated>
   </versioning>
 </metadata>
