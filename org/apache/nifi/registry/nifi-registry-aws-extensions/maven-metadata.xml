@@ -3,8 +3,8 @@
   <groupId>org.apache.nifi.registry</groupId>
   <artifactId>nifi-registry-aws-extensions</artifactId>
   <versioning>
-    <latest>2.7.1</latest>
-    <release>2.7.1</release>
+    <latest>2.7.2</latest>
+    <release>2.7.2</release>
     <versions>
       <version>0.4.0</version>
       <version>0.5.0</version>
@@ -48,7 +48,8 @@
       <version>2.6.0</version>
       <version>2.7.0</version>
       <version>2.7.1</version>
+      <version>2.7.2</version>
     </versions>
-    <lastUpdated>20251213014554</lastUpdated>
+    <lastUpdated>20251217205619</lastUpdated>
   </versioning>
 </metadata>
