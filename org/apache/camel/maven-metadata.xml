@@ -27,12 +27,12 @@
       <artifactId>camel-connector-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Catalog :: Camel Compiled Simple Maven Plugin</name>
+      <name>Camel :: Catalog :: CSimple Maven Plugin</name>
       <prefix>camel-csimple</prefix>
       <artifactId>camel-csimple-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: Camel EIP Documentation Enricher Plugin</name>
+      <name>Camel :: Maven Plugins :: XML DSL Doc Enricher</name>
       <prefix>camel-eip-documentation-enricher</prefix>
       <artifactId>camel-eip-documentation-enricher-maven-plugin</artifactId>
     </plugin>
@@ -87,7 +87,7 @@
       <artifactId>camel-resources-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Maven Plugins :: OpenApi REST DSL Generator Maven Plugin</name>
+      <name>Camel :: Maven Plugins :: OpenApi REST DSL Generator</name>
       <prefix>camel-restdsl-openapi</prefix>
       <artifactId>camel-restdsl-openapi-plugin</artifactId>
     </plugin>
