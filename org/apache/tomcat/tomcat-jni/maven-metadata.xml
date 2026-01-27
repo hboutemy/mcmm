@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-jni</artifactId>
   <versioning>
-    <latest>11.0.15</latest>
-    <release>11.0.15</release>
+    <latest>11.0.18</latest>
+    <release>11.0.18</release>
     <versions>
       <version>8.0.0-RC1</version>
       <version>8.0.0-RC3</version>
@@ -377,7 +377,8 @@
       <version>11.0.13</version>
       <version>11.0.14</version>
       <version>11.0.15</version>
+      <version>11.0.18</version>
     </versions>
-    <lastUpdated>20260123150736</lastUpdated>
+    <lastUpdated>20260126123352</lastUpdated>
   </versioning>
 </metadata>
