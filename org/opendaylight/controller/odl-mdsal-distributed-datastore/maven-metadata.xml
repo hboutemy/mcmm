@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.controller</groupId>
   <artifactId>odl-mdsal-distributed-datastore</artifactId>
   <versioning>
-    <latest>12.0.3</latest>
-    <release>12.0.3</release>
+    <latest>12.0.4</latest>
+    <release>12.0.4</release>
     <versions>
       <version>1.5.0-Carbon</version>
       <version>1.5.1-Carbon</version>
@@ -154,7 +154,8 @@
       <version>12.0.1</version>
       <version>12.0.2</version>
       <version>12.0.3</version>
+      <version>12.0.4</version>
     </versions>
-    <lastUpdated>20251211112323</lastUpdated>
+    <lastUpdated>20260210095647</lastUpdated>
   </versioning>
 </metadata>
