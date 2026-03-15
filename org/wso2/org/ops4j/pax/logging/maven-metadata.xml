@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>OPS4J Pax Logging - Maven plugin</name>
+      <prefix>pax-logging-log4j2</prefix>
+      <artifactId>pax-logging-log4j2-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
