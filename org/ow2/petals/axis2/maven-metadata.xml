@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Axis2 - tool - AAR Maven Plugin</name>
+      <prefix>axis2-aar</prefix>
+      <artifactId>axis2-aar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - Java2WSDL Maven Plugin</name>
+      <prefix>axis2-java2wsdl</prefix>
+      <artifactId>axis2-java2wsdl-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - MAR Maven Plugin</name>
+      <prefix>axis2-mar</prefix>
+      <artifactId>axis2-mar-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>axis2-repo-maven-plugin</name>
+      <prefix>axis2-repo</prefix>
+      <artifactId>axis2-repo-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 - tool - WSDL2Code Maven Plugin</name>
+      <prefix>axis2-wsdl2code</prefix>
+      <artifactId>axis2-wsdl2code-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <prefix>axis2-xsd2java</prefix>
+      <artifactId>axis2-xsd2java-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Apache Axis2 Simple HTTP server Maven Plugin</name>
+      <prefix>simple-server</prefix>
+      <artifactId>simple-server-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
