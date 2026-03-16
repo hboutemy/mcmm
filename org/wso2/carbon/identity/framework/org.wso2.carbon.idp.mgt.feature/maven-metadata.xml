@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.idp.mgt.feature</artifactId>
   <versioning>
-    <latest>7.10.9</latest>
-    <release>7.10.9</release>
+    <latest>7.10.11</latest>
+    <release>7.10.11</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -2260,6 +2260,7 @@
       <version>5.25.713</version>
       <version>5.25.714</version>
       <version>5.25.737</version>
+      <version>5.25.738</version>
       <version>5.27.0</version>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -2583,7 +2584,9 @@
       <version>7.10.7</version>
       <version>7.10.8</version>
       <version>7.10.9</version>
+      <version>7.10.10</version>
+      <version>7.10.11</version>
     </versions>
-    <lastUpdated>20260217132641</lastUpdated>
+    <lastUpdated>20260218200941</lastUpdated>
   </versioning>
 </metadata>
