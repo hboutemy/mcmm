@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.rest.api.gateway.feature</artifactId>
   <versioning>
-    <latest>9.33.6</latest>
-    <release>9.33.6</release>
+    <latest>9.33.8</latest>
+    <release>9.33.8</release>
     <versions>
       <version>6.7.1</version>
       <version>6.7.2</version>
@@ -1535,7 +1535,9 @@
       <version>9.33.4</version>
       <version>9.33.5</version>
       <version>9.33.6</version>
+      <version>9.33.7</version>
+      <version>9.33.8</version>
     </versions>
-    <lastUpdated>20260218190358</lastUpdated>
+    <lastUpdated>20260219155457</lastUpdated>
   </versioning>
 </metadata>
