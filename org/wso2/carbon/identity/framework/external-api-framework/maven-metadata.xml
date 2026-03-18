@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>external-api-framework</artifactId>
   <versioning>
-    <latest>7.10.58</latest>
-    <release>7.10.58</release>
+    <latest>7.10.63</latest>
+    <release>7.10.63</release>
     <versions>
       <version>7.8.614</version>
       <version>7.8.615</version>
@@ -136,7 +136,12 @@
       <version>7.10.56</version>
       <version>7.10.57</version>
       <version>7.10.58</version>
+      <version>7.10.59</version>
+      <version>7.10.60</version>
+      <version>7.10.61</version>
+      <version>7.10.62</version>
+      <version>7.10.63</version>
     </versions>
-    <lastUpdated>20260308155208</lastUpdated>
+    <lastUpdated>20260309204040</lastUpdated>
   </versioning>
 </metadata>
