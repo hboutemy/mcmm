@@ -2,6 +2,11 @@
 <metadata>
   <plugins>
     <plugin>
+      <name>Helper Maven Plugin :: Mojos</name>
+      <prefix>helper</prefix>
+      <artifactId>helper-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
       <name>Maven helper plugin</name>
       <prefix>helper</prefix>
       <artifactId>maven-helper-plugin</artifactId>

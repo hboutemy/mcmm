@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.inbound.provisioning.category.feature</artifactId>
   <versioning>
-    <latest>7.10.36</latest>
-    <release>7.10.36</release>
+    <latest>7.10.42</latest>
+    <release>7.10.42</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -2619,7 +2619,13 @@
       <version>7.10.34</version>
       <version>7.10.35</version>
       <version>7.10.36</version>
+      <version>7.10.37</version>
+      <version>7.10.38</version>
+      <version>7.10.39</version>
+      <version>7.10.40</version>
+      <version>7.10.41</version>
+      <version>7.10.42</version>
     </versions>
-    <lastUpdated>20260302104841</lastUpdated>
+    <lastUpdated>20260303140003</lastUpdated>
   </versioning>
 </metadata>
