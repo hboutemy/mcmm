@@ -3,8 +3,8 @@
   <groupId>org.apache.camel.quarkus</groupId>
   <artifactId>camel-quarkus-integration-test-debug</artifactId>
   <versioning>
-    <latest>3.32.0</latest>
-    <release>3.32.0</release>
+    <latest>3.33.0</latest>
+    <release>3.33.0</release>
     <versions>
       <version>2.10.0</version>
       <version>2.11.0</version>
@@ -66,7 +66,8 @@
       <version>3.30.0</version>
       <version>3.31.0</version>
       <version>3.32.0</version>
+      <version>3.33.0</version>
     </versions>
-    <lastUpdated>20260306073923</lastUpdated>
+    <lastUpdated>20260323070954</lastUpdated>
   </versioning>
 </metadata>
