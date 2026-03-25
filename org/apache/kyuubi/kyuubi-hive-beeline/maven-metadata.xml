@@ -3,8 +3,8 @@
   <groupId>org.apache.kyuubi</groupId>
   <artifactId>kyuubi-hive-beeline</artifactId>
   <versioning>
-    <latest>1.11.0</latest>
-    <release>1.11.0</release>
+    <latest>1.11.1</latest>
+    <release>1.11.1</release>
     <versions>
       <version>1.4.0-incubating</version>
       <version>1.4.1-incubating</version>
@@ -32,7 +32,8 @@
       <version>1.10.2</version>
       <version>1.10.3</version>
       <version>1.11.0</version>
+      <version>1.11.1</version>
     </versions>
-    <lastUpdated>20260102135116</lastUpdated>
+    <lastUpdated>20260324092551</lastUpdated>
   </versioning>
 </metadata>
