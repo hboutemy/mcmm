@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.apimgt</groupId>
   <artifactId>org.wso2.carbon.apimgt.solace</artifactId>
   <versioning>
-    <latest>9.33.70</latest>
-    <release>9.33.70</release>
+    <latest>9.33.73</latest>
+    <release>9.33.73</release>
     <versions>
       <version>9.5.0</version>
       <version>9.5.1</version>
@@ -640,7 +640,10 @@
       <version>9.33.68</version>
       <version>9.33.69</version>
       <version>9.33.70</version>
+      <version>9.33.71</version>
+      <version>9.33.72</version>
+      <version>9.33.73</version>
     </versions>
-    <lastUpdated>20260325033851</lastUpdated>
+    <lastUpdated>20260326114420</lastUpdated>
   </versioning>
 </metadata>
