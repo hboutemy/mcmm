@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.claim.mgt.server.feature</artifactId>
   <versioning>
-    <latest>7.11.20</latest>
-    <release>7.11.20</release>
+    <latest>7.11.21</latest>
+    <release>7.11.21</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -2702,6 +2702,7 @@
       <version>7.10.113</version>
       <version>7.10.114</version>
       <version>7.10.115</version>
+      <version>7.10.116</version>
       <version>7.11.0</version>
       <version>7.11.1</version>
       <version>7.11.2</version>
@@ -2723,7 +2724,8 @@
       <version>7.11.18</version>
       <version>7.11.19</version>
       <version>7.11.20</version>
+      <version>7.11.21</version>
     </versions>
-    <lastUpdated>20260328030931</lastUpdated>
+    <lastUpdated>20260329070456</lastUpdated>
   </versioning>
 </metadata>
