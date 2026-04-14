@@ -3,8 +3,8 @@
   <groupId>org.apache.syncope.client</groupId>
   <artifactId>syncope-client-idrepo</artifactId>
   <versioning>
-    <latest>4.1.0-M0</latest>
-    <release>4.1.0-M0</release>
+    <latest>4.1.0</latest>
+    <release>4.1.0</release>
     <versions>
       <version>3.0.0-M0</version>
       <version>3.0.0-M1</version>
@@ -33,8 +33,10 @@
       <version>4.0.2</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
+      <version>4.0.5</version>
       <version>4.1.0-M0</version>
+      <version>4.1.0</version>
     </versions>
-    <lastUpdated>20260223062230</lastUpdated>
+    <lastUpdated>20260403105656</lastUpdated>
   </versioning>
 </metadata>
