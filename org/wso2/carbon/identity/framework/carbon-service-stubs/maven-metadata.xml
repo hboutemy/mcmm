@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>carbon-service-stubs</artifactId>
   <versioning>
-    <latest>7.11.28</latest>
-    <release>7.11.28</release>
+    <latest>7.11.30</latest>
+    <release>7.11.30</release>
     <versions>
       <version>5.5.0</version>
       <version>5.5.1</version>
@@ -2716,6 +2716,9 @@
       <version>7.10.122</version>
       <version>7.10.124</version>
       <version>7.10.125</version>
+      <version>7.10.126</version>
+      <version>7.10.127</version>
+      <version>7.10.128</version>
       <version>7.11.0</version>
       <version>7.11.1</version>
       <version>7.11.2</version>
@@ -2745,7 +2748,9 @@
       <version>7.11.26</version>
       <version>7.11.27</version>
       <version>7.11.28</version>
+      <version>7.11.29</version>
+      <version>7.11.30</version>
     </versions>
-    <lastUpdated>20260401110239</lastUpdated>
+    <lastUpdated>20260402194320</lastUpdated>
   </versioning>
 </metadata>
