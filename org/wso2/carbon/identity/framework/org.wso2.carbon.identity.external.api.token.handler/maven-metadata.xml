@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.external.api.token.handler</artifactId>
   <versioning>
-    <latest>7.11.39</latest>
-    <release>7.11.39</release>
+    <latest>7.11.40</latest>
+    <release>7.11.40</release>
     <versions>
       <version>7.8.615</version>
       <version>7.8.616</version>
@@ -214,6 +214,8 @@
       <version>7.10.139</version>
       <version>7.10.140</version>
       <version>7.10.141</version>
+      <version>7.10.142</version>
+      <version>7.10.143</version>
       <version>7.11.0</version>
       <version>7.11.1</version>
       <version>7.11.2</version>
@@ -254,7 +256,8 @@
       <version>7.11.37</version>
       <version>7.11.38</version>
       <version>7.11.39</version>
+      <version>7.11.40</version>
     </versions>
-    <lastUpdated>20260408210318</lastUpdated>
+    <lastUpdated>20260409122613</lastUpdated>
   </versioning>
 </metadata>
