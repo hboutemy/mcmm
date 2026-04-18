@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.openid</groupId>
   <artifactId>org.wso2.carbon.identity.provider.stub</artifactId>
   <versioning>
-    <latest>5.13.0</latest>
-    <release>5.13.0</release>
+    <latest>5.13.1</latest>
+    <release>5.13.1</release>
     <versions>
       <version>5.2.3</version>
       <version>5.2.4</version>
@@ -42,7 +42,8 @@
       <version>5.12.1</version>
       <version>5.12.2</version>
       <version>5.13.0</version>
+      <version>5.13.1</version>
     </versions>
-    <lastUpdated>20260413024853</lastUpdated>
+    <lastUpdated>20260417064358</lastUpdated>
   </versioning>
 </metadata>
