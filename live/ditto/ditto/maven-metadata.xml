@@ -207,6 +207,7 @@
       <version>4.11.5-rc.1</version>
       <version>4.11.6</version>
       <version>4.11.6-experimental-differ-fix.1</version>
+      <version>4.11.6-experimental-rethrow-jvm-exception-on-callback.1</version>
       <version>4.11.6-rc.1</version>
       <version>4.11.6-rc.2</version>
       <version>4.11.6-rc.3</version>
@@ -260,10 +261,15 @@
       <version>4.12.5-experimental-internal-jj-ws-support.1</version>
       <version>4.12.5-experimental-tokio-console.1</version>
       <version>4.12.5-rc.1</version>
+      <version>4.12.5-tokio-rollback-experimental.1</version>
+      <version>4.12.5-tokio-rollback-experimental.2</version>
+      <version>4.12.5-tokio-rollback-experimental.3</version>
+      <version>4.12.6-experimental-QE-741</version>
       <version>4.12.6-experimental-cache-index-descriptors.1</version>
       <version>4.12.6-experimental-conn-limit-caching-2</version>
       <version>4.12.6-experimental-pre-tokio-blocking-work</version>
       <version>4.12.6-experimental-pre-tokio-upgrade</version>
+      <version>4.12.6-tokio-bump.1</version>
       <version>4.13.0</version>
       <version>4.13.0-experimental-internal-jj-ws-support.1</version>
       <version>4.13.0-rc.2</version>
