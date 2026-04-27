@@ -3,11 +3,12 @@
   <groupId>org.drools</groupId>
   <artifactId>drools-core</artifactId>
   <versioning>
-    <latest>10.1.0</latest>
-    <release>10.1.0</release>
+    <latest>10.2.0</latest>
+    <release>10.2.0</release>
     <versions>
       <version>10.0.0</version>
       <version>10.1.0</version>
+      <version>10.2.0</version>
       <version>5.0.0.CR1</version>
       <version>5.0.0.M3</version>
       <version>5.0.0.M4</version>
@@ -251,6 +252,6 @@
       <version>9.43.0.Alpha</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20250710121820</lastUpdated>
+    <lastUpdated>20260426205443</lastUpdated>
   </versioning>
 </metadata>

@@ -3,11 +3,12 @@
   <groupId>org.optaplanner</groupId>
   <artifactId>optaplanner-quarkus-reflection-integration-test</artifactId>
   <versioning>
-    <latest>10.1.0</latest>
-    <release>10.1.0</release>
+    <latest>10.2.0</latest>
+    <release>10.2.0</release>
     <versions>
       <version>10.0.0</version>
       <version>10.1.0</version>
+      <version>10.2.0</version>
       <version>8.32.0.Final</version>
       <version>8.33.0.Final</version>
       <version>8.34.0.Final</version>
@@ -31,6 +32,6 @@
       <version>9.43.0.Final</version>
       <version>9.44.0.Final</version>
     </versions>
-    <lastUpdated>20250710121845</lastUpdated>
+    <lastUpdated>20260426205441</lastUpdated>
   </versioning>
 </metadata>
