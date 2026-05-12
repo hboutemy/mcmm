@@ -3,8 +3,8 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-metrics-datadog</artifactId>
   <versioning>
-    <latest>2.2.0</latest>
-    <release>2.2.0</release>
+    <latest>2.2.1</latest>
+    <release>2.2.1</release>
     <versions>
       <version>1.3.0</version>
       <version>1.3.1</version>
@@ -98,8 +98,10 @@
       <version>2.0.2</version>
       <version>2.1.0</version>
       <version>2.1.1</version>
+      <version>2.1.2</version>
       <version>2.2.0</version>
+      <version>2.2.1</version>
     </versions>
-    <lastUpdated>20260509182600</lastUpdated>
+    <lastUpdated>20260511124102</lastUpdated>
   </versioning>
 </metadata>
