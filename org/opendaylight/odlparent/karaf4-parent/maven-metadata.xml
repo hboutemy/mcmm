@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.odlparent</groupId>
   <artifactId>karaf4-parent</artifactId>
   <versioning>
-    <latest>14.3.4</latest>
-    <release>14.3.4</release>
+    <latest>14.3.5</latest>
+    <release>14.3.5</release>
     <versions>
       <version>1.8.0-Carbon</version>
       <version>1.8.1-Carbon</version>
@@ -189,9 +189,10 @@
       <version>14.3.2</version>
       <version>14.3.3</version>
       <version>14.3.4</version>
+      <version>14.3.5</version>
       <version>4.0.3</version>
       <version>4.0.4</version>
     </versions>
-    <lastUpdated>20260601180418</lastUpdated>
+    <lastUpdated>20260602141724</lastUpdated>
   </versioning>
 </metadata>

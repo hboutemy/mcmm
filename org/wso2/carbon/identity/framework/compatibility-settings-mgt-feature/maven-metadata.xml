@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>compatibility-settings-mgt-feature</artifactId>
   <versioning>
-    <latest>7.11.105</latest>
-    <release>7.11.105</release>
+    <latest>7.11.108</latest>
+    <release>7.11.108</release>
     <versions>
       <version>7.8.677</version>
       <version>7.8.678</version>
@@ -275,7 +275,10 @@
       <version>7.11.103</version>
       <version>7.11.104</version>
       <version>7.11.105</version>
+      <version>7.11.106</version>
+      <version>7.11.107</version>
+      <version>7.11.108</version>
     </versions>
-    <lastUpdated>20260601194540</lastUpdated>
+    <lastUpdated>20260602092001</lastUpdated>
   </versioning>
 </metadata>
