@@ -3,8 +3,8 @@
   <groupId>org.apache.tomcat</groupId>
   <artifactId>tomcat-storeconfig</artifactId>
   <versioning>
-    <latest>11.0.22</latest>
-    <release>11.0.22</release>
+    <latest>11.0.23</latest>
+    <release>11.0.23</release>
     <versions>
       <version>8.0.22</version>
       <version>8.0.23</version>
@@ -328,6 +328,7 @@
       <version>10.1.53</version>
       <version>10.1.54</version>
       <version>10.1.55</version>
+      <version>10.1.56</version>
       <version>11.0.0-M1</version>
       <version>11.0.0-M3</version>
       <version>11.0.0-M4</version>
@@ -371,7 +372,8 @@
       <version>11.0.20</version>
       <version>11.0.21</version>
       <version>11.0.22</version>
+      <version>11.0.23</version>
     </versions>
-    <lastUpdated>20260511212031</lastUpdated>
+    <lastUpdated>20260622232758</lastUpdated>
   </versioning>
 </metadata>
