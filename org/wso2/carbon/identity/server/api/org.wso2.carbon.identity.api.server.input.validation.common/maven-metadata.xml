@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.server.api</groupId>
   <artifactId>org.wso2.carbon.identity.api.server.input.validation.common</artifactId>
   <versioning>
-    <latest>1.6.31</latest>
-    <release>1.6.31</release>
+    <latest>1.6.33</latest>
+    <release>1.6.33</release>
     <versions>
       <version>1.2.18</version>
       <version>1.2.19</version>
@@ -160,7 +160,9 @@
       <version>1.6.29</version>
       <version>1.6.30</version>
       <version>1.6.31</version>
+      <version>1.6.32</version>
+      <version>1.6.33</version>
     </versions>
-    <lastUpdated>20260626152208</lastUpdated>
+    <lastUpdated>20260701103552</lastUpdated>
   </versioning>
 </metadata>
