@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.inbound.auth.sts</groupId>
   <artifactId>identity-inbound-auth-sts</artifactId>
   <versioning>
-    <latest>5.14.4</latest>
-    <release>5.14.4</release>
+    <latest>5.14.5</latest>
+    <release>5.14.5</release>
     <versions>
       <version>5.2.6</version>
       <version>5.2.7</version>
@@ -74,7 +74,8 @@
       <version>5.14.2</version>
       <version>5.14.3</version>
       <version>5.14.4</version>
+      <version>5.14.5</version>
     </versions>
-    <lastUpdated>20260616135949</lastUpdated>
+    <lastUpdated>20260702103345</lastUpdated>
   </versioning>
 </metadata>
