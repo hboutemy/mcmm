@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.mdsal</groupId>
   <artifactId>mdsal-eos-binding-adapter</artifactId>
   <versioning>
-    <latest>16.0.5</latest>
-    <release>16.0.5</release>
+    <latest>16.0.6</latest>
+    <release>16.0.6</release>
     <versions>
       <version>2.1.0-Boron</version>
       <version>2.1.1-Boron-SR1</version>
@@ -217,7 +217,8 @@
       <version>16.0.3</version>
       <version>16.0.4</version>
       <version>16.0.5</version>
+      <version>16.0.6</version>
     </versions>
-    <lastUpdated>20260812114926</lastUpdated>
+    <lastUpdated>20260820164447</lastUpdated>
   </versioning>
 </metadata>
