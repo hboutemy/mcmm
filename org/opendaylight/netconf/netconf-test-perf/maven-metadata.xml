@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>netconf-test-perf</artifactId>
   <versioning>
-    <latest>11.0.1</latest>
-    <release>11.0.1</release>
+    <latest>11.0.2</latest>
+    <release>11.0.2</release>
     <versions>
       <version>1.13.0</version>
       <version>1.13.1</version>
@@ -102,14 +102,17 @@
       <version>9.0.1</version>
       <version>9.0.2</version>
       <version>9.0.3</version>
+      <version>9.0.4</version>
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.0.2</version>
       <version>10.0.3</version>
       <version>10.0.4</version>
+      <version>10.0.5</version>
       <version>11.0.0</version>
       <version>11.0.1</version>
+      <version>11.0.2</version>
     </versions>
-    <lastUpdated>20260821213324</lastUpdated>
+    <lastUpdated>20260828095253</lastUpdated>
   </versioning>
 </metadata>
