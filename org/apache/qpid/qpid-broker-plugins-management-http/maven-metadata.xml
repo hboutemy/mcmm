@@ -3,8 +3,8 @@
   <groupId>org.apache.qpid</groupId>
   <artifactId>qpid-broker-plugins-management-http</artifactId>
   <versioning>
-    <latest>10.1.0</latest>
-    <release>10.1.0</release>
+    <latest>10.1.1</latest>
+    <release>10.1.1</release>
     <versions>
       <version>0.18</version>
       <version>0.20</version>
@@ -68,7 +68,8 @@
       <version>10.0.0</version>
       <version>10.0.1</version>
       <version>10.1.0</version>
+      <version>10.1.1</version>
     </versions>
-    <lastUpdated>20260804135759</lastUpdated>
+    <lastUpdated>20260924202449</lastUpdated>
   </versioning>
 </metadata>
