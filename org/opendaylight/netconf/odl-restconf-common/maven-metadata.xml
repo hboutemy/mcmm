@@ -3,8 +3,8 @@
   <groupId>org.opendaylight.netconf</groupId>
   <artifactId>odl-restconf-common</artifactId>
   <versioning>
-    <latest>12.0.0</latest>
-    <release>12.0.0</release>
+    <latest>12.0.1</latest>
+    <release>12.0.1</release>
     <versions>
       <version>1.7.1</version>
       <version>1.7.2</version>
@@ -142,7 +142,8 @@
       <version>11.0.1</version>
       <version>11.0.2</version>
       <version>12.0.0</version>
+      <version>12.0.1</version>
     </versions>
-    <lastUpdated>20260925140933</lastUpdated>
+    <lastUpdated>20260930130258</lastUpdated>
   </versioning>
 </metadata>
