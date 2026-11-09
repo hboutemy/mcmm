@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.framework</groupId>
   <artifactId>org.wso2.carbon.identity.authorization.framework.server.feature</artifactId>
   <versioning>
-    <latest>7.11.218</latest>
-    <release>7.11.218</release>
+    <latest>7.11.219</latest>
+    <release>7.11.219</release>
     <versions>
       <version>7.8.92</version>
       <version>7.8.93</version>
@@ -459,7 +459,9 @@
       <version>7.11.216</version>
       <version>7.11.217</version>
       <version>7.11.218</version>
+      <version>7.11.219</version>
+      <version>7.11.220</version>
     </versions>
-    <lastUpdated>20261006090608</lastUpdated>
+    <lastUpdated>20261008023203</lastUpdated>
   </versioning>
 </metadata>
