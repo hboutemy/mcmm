@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Apache Kafka Internal API Checker Maven Plugin</name>
+      <prefix>kafka-internal-api-checker</prefix>
+      <artifactId>kafka-internal-api-checker-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
