@@ -27,7 +27,7 @@
       <artifactId>camel-connector-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>Camel :: Catalog :: CSimple Maven Plugin</name>
+      <name>Camel :: Catalog :: CSimple Maven Plugin (deprecated)</name>
       <prefix>camel-csimple</prefix>
       <artifactId>camel-csimple-maven-plugin</artifactId>
     </plugin>
