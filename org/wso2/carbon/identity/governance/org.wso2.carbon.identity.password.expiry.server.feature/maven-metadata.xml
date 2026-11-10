@@ -3,8 +3,8 @@
   <groupId>org.wso2.carbon.identity.governance</groupId>
   <artifactId>org.wso2.carbon.identity.password.expiry.server.feature</artifactId>
   <versioning>
-    <latest>1.16.44</latest>
-    <release>1.16.44</release>
+    <latest>1.16.45</latest>
+    <release>1.16.45</release>
     <versions>
       <version>1.8.69</version>
       <version>1.8.101</version>
@@ -111,7 +111,8 @@
       <version>1.16.42</version>
       <version>1.16.43</version>
       <version>1.16.44</version>
+      <version>1.16.45</version>
     </versions>
-    <lastUpdated>20261005100005</lastUpdated>
+    <lastUpdated>20261021100324</lastUpdated>
   </versioning>
 </metadata>
