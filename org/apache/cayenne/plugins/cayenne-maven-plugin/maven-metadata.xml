@@ -3,8 +3,8 @@
   <groupId>org.apache.cayenne.plugins</groupId>
   <artifactId>cayenne-maven-plugin</artifactId>
   <versioning>
-    <latest>5.0-M3</latest>
-    <release>5.0-M3</release>
+    <latest>5.0-RC1</latest>
+    <release>5.0-RC1</release>
     <versions>
       <version>4.0.B1</version>
       <version>4.0.B2</version>
@@ -34,7 +34,8 @@
       <version>5.0-M1</version>
       <version>5.0-M2</version>
       <version>5.0-M3</version>
+      <version>5.0-RC1</version>
     </versions>
-    <lastUpdated>20260825172401</lastUpdated>
+    <lastUpdated>20261104183214</lastUpdated>
   </versioning>
 </metadata>
